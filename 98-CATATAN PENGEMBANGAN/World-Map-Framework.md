@@ -1212,6 +1212,45 @@ Konstruksi bola berikutnya harus:
 
 **Kesimpulan kerja:** target distribusi sembilan lempeng sekarang ditetapkan sebagai rancangan luas konseptual 100%. Koordinat 7.20 belum memenuhi target dan tidak boleh digunakan untuk mengklaim luas aktual. Tahap berikutnya adalah membangun ulang geometri bola yang benar-benar menutup seluruh permukaan dan menghitung luas geodesiknya.
 
+### 7.22 Eksperimen partisi Voronoi bola dan batas metode
+
+**Status: CATATAN PENGEMBANGAN / NON-CANON.** Bagian ini mencatat uji numerik untuk mencari pembagian sembilan wilayah pada bola yang memenuhi target luas 7.21 sekaligus mempertahankan graf ketetanggaan 7.17.
+
+#### 7.22.1 Uji Voronoi bola tanpa bobot
+
+Sembilan lempeng diperlakukan sebagai sembilan titik generator pada bola satuan. Setiap titik memiliki satu wilayah Voronoi; batas wilayah terbentuk dari titik-titik yang berjarak sudut sama terhadap dua generator.
+
+Pencarian numerik menemukan konfigurasi generator yang graf ketetanggaan wilayahnya isomorfik dengan graf sembilan lempeng pada 7.17. Ini menunjukkan bahwa topologi ketetanggaan tersebut dapat direpresentasikan oleh satu partisi Voronoi bola tanpa bobot.
+
+Namun, luas hasil awal tidak sama dengan target 7.21. Jadi, keberhasilan topologi belum menyelesaikan distribusi luas.
+
+#### 7.22.2 Uji Voronoi bola berbobot
+
+Bobot ditambahkan pada generator untuk mengubah luas relatif setiap wilayah. Optimasi numerik berbasis sampel titik pada bola berhasil mendekatkan luas wilayah ke target 7.21.
+
+Akan tetapi, pemeriksaan ketetanggaan setelah pembobotan menunjukkan bahwa beberapa pasangan wilayah berubah. Dengan kata lain, optimasi luas yang dilakukan tidak mempertahankan graf batas 7.17.
+
+Hasil ini **ditolak sebagai konstruksi peta**. Angka luas yang cocok saja tidak cukup jika hubungan ketetanggaan berubah.
+
+#### 7.22.3 Kesimpulan eksperimen
+
+Dua syarat harus dipenuhi secara bersamaan:
+1. Luas sembilan wilayah mendekati target 7.21.
+2. Graf ketetanggaan dan siklus batas tetap sama dengan 7.17–7.18.
+
+Metode Voronoi bola tanpa bobot memenuhi syarat topologi pada satu konfigurasi uji, tetapi belum memenuhi target luas. Metode berbobot memenuhi target luas secara numerik, tetapi mengubah ketetanggaan. Tidak satu pun hasil tersebut diterima sebagai globe kerja final.
+
+#### 7.22.4 Metode lanjutan yang diperlukan
+
+Tahap berikutnya harus memakai optimasi geometri yang dibatasi oleh topologi, bukan optimasi luas bebas. Pilihan pendekatan yang perlu diuji:
+- Optimasi langsung koordinat 14 simpul triple junction dengan batas berupa busur geodesik atau kurva bola yang didefinisikan konsisten.
+- Mempertahankan urutan siklus setiap lempeng selama seluruh iterasi.
+- Menghitung luas setiap muka pada bola dari geometri poligonnya.
+- Memberi penalti atau kendala keras pada persilangan, celah, tumpang tindih, dan perubahan ketetanggaan.
+- Memvalidasi ulang seluruh 14 simpul, 21 segmen, 9 muka, dan total luas 100% setelah optimasi.
+
+**Status akhir tahap:** belum ada koordinat baru yang disahkan sebagai konstruksi bola. Target luas 7.21 tetap menjadi sasaran desain, sementara embedding 7.20 tetap berstatus visualisasi matematis sementara. Eksperimen Voronoi pada bagian ini adalah catatan metode dan hasil uji, bukan perubahan CANON.
+
 ### 7.11 Prinsip pembentukan peta fisik
 
 Saat sketsa pertama dibuat, urutkan keputusan dari skala besar ke kecil:
