@@ -22,12 +22,15 @@ kini tidak otomatis memahami teknologi tersebut.
 
 ## Bentuk peninggalan
 
-Peninggalan dapat mencakup: - Perangkat elektronik, telepon, komputer,
-peladen, media penyimpanan, dan jaringan. - Kendaraan, pesawat, kapal,
-kereta, jalan, dan jembatan. - Rumah sakit, laboratorium, pabrik,
-fasilitas penelitian, dan sistem tenaga. - Kota, rumah, sekolah,
-bangunan, serta infrastruktur. - Foto, peta, papan petunjuk, catatan,
-dan dokumen.
+Peninggalan dapat mencakup:
+
+- Perangkat elektronik, telepon, komputer, peladen, media penyimpanan,
+  dan jaringan.
+- Kendaraan, pesawat, kapal, kereta, jalan, dan jembatan.
+- Rumah sakit, laboratorium, pabrik, fasilitas penelitian, dan sistem
+  tenaga.
+- Kota, rumah, sekolah, bangunan, serta infrastruktur.
+- Foto, peta, papan petunjuk, catatan, dan dokumen.
 
 Tidak semua benda masih utuh atau memiliki kekuatan khusus. Benda biasa
 dapat memiliki nilai sejarah dan emosional.

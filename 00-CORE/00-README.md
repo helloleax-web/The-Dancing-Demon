@@ -1,27 +1,18 @@
 # THE DANCING DEMON --- DOKUMENTASI INTI
 
-Paket ini berisi dokumen fondasi untuk mengatur lore *The Dancing
-Demon*. Gunakan `01-Ringkasan-Dunia.md` sebagai titik awal.
+Paket ini berisi ringkasan, indeks, dan panduan kontinuitas untuk lore *The Dancing Demon*. Folder `00-CORE/` membantu pembaca menemukan topik; `01-CANON/` menjadi rujukan detail untuk fakta yang telah ditetapkan. Gunakan [Ringkasan Dunia](01-Ringkasan-Dunia.md) sebagai titik awal. Dokumen CANON yang relevan ditautkan di bawah jika tersedia.
 
 ## Daftar dokumen
 
-1.  `01-Ringkasan-Dunia.md` --- gambaran singkat dunia dan cerita.
-2.  `02-Sejarah-dan-Bumi-Kuno.md` --- peradaban Bumi, kehancuran, dan
-    peninggalan.
-3.  `03-Kosmologi-dan-Entitas-Kosmik.md` --- fakta dan misteri entitas
-    kosmik.
-4.  `04-Sistem-Mana.md` --- parameter, cabang, biaya, dan batas sistem
-    mana.
-5.  `05-Great-War-dan-Resonansi-Hitam.md` --- fakta perang, NVR AGAIN,
-    jubah mana hitam, dan LEAX.
-6.  `06-Tiga-Belas-Prasasti.md` --- fakta yang diketahui dan hal yang
-    belum ditentukan.
-7.  `07-Karakter-Lokasi-dan-Organisasi.md` --- indeks elemen cerita yang
-    telah ditetapkan.
-8.  `08-Cerita-dan-Rencana-Delapan-Buku.md` --- premis, Buku I, dan
-    kerangka delapan buku.
-9.  `09-Kanon-dan-Kontinuitas.md` --- aturan canon dan daftar misteri
-    yang harus dijaga.
+1.  [Ringkasan Dunia](01-Ringkasan-Dunia.md) — gambaran singkat dunia dan cerita; rujukan detail: [World Overview](../01-CANON/World-Overview.md).
+2.  [Sejarah dan Bumi Kuno](02-Sejarah-dan-Bumi-Kuno.md) — peradaban Bumi, kehancuran, dan peninggalan; rujukan detail: [Ancient Civilization and Its Remnants](../01-CANON/Ancient-Civilization-and-Remnants.md).
+3.  [Kosmologi dan Entitas Kosmik](03-Kosmologi-dan-Entitas-Kosmik.md) — fakta dan misteri entitas kosmik; rujukan detail: [Cosmology and the Cosmic Entity](../01-CANON/Cosmology-and-Entity.md).
+4.  [Sistem Mana](04-Sistem-Mana.md) — parameter, cabang, biaya, dan batas sistem mana. Dokumen ini merupakan rujukan CANON yang tersedia untuk topik ini.
+5.  [Great War dan Resonansi Hitam](05-Great-War-dan-Resonansi-Hitam.md) — fakta perang, NVR AGAIN, jubah mana hitam, dan LEAX; rujukan detail: [Great War, Resonansi Hitam, and NVR AGAIN](../01-CANON/Great-War-and-Resonansi-Hitam.md).
+6.  [Tiga Belas Prasasti](06-Tiga-Belas-Prasasti.md) — fakta yang diketahui dan hal yang belum ditentukan; rujukan detail: [Thirteen Prasasti](../01-CANON/Thirteen-Prasasti.md).
+7.  [Indeks Karakter, Lokasi, dan Organisasi](07-Karakter-Lokasi-dan-Organisasi.md) — indeks elemen cerita yang telah ditetapkan; rujukan detail: [Character Bible](../01-CANON/Character-Bible.md), [Location Bible](../01-CANON/Location-Bible.md), dan [Organization Bible](../01-CANON/Organization-Bible.md).
+8.  [Cerita dan Rencana Delapan Buku](08-Cerita-dan-Rencana-Delapan-Buku.md) — premis, Buku I, dan kerangka delapan buku; rincian cerita tersedia dalam dokumen ini.
+9.  [Kanon dan Kontinuitas](09-Kanon-dan-Kontinuitas.md) — aturan canon dan daftar misteri yang harus dijaga; rujukan administrasi: [Open Questions](../99-ADMIN/Open-Questions.md) dan [Canon Changelog](../99-ADMIN/Canon-Changelog.md). Untuk rincian kelembagaan, lihat [International Authority](../01-CANON/International-Authority.md) dan [KVK](../01-CANON/KVK.md).
 
 ## Status informasi
 

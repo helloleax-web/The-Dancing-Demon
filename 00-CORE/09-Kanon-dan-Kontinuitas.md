@@ -65,7 +65,12 @@ batas informasi yang belum boleh diisi.
 ## Catatan sumber
 
 Paket ini menyusun dokumen inti berdasarkan fakta canon yang tersedia.
-Dokumen lama yang lebih rinci---terutama International Authority dan
-KVK---tetap menjadi rujukan untuk detail kelembagaan dan tidak
-digantikan oleh ringkasan ini. Materi proposal tetap berstatus
-CATATAN PENGEMBANGAN sampai disahkan.
+Dokumen `00-CORE/` berfungsi sebagai ringkasan, indeks, dan panduan
+kontinuitas. Untuk rujukan detail kelembagaan, gunakan
+[`01-CANON/International-Authority.md`](../01-CANON/International-Authority.md)
+dan [`01-CANON/KVK.md`](../01-CANON/KVK.md); keduanya tidak digantikan
+oleh ringkasan ini. Untuk profil karakter, lokasi, dan organisasi,
+gunakan [Character Bible](../01-CANON/Character-Bible.md),
+[Location Bible](../01-CANON/Location-Bible.md), dan
+[Organization Bible](../01-CANON/Organization-Bible.md). Materi proposal
+tetap berstatus CATATAN PENGEMBANGAN sampai disahkan.

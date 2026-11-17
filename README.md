@@ -1,7 +1,7 @@
 # LEAX — The Dancing Demon
 ## World Bible
 
-Dokumen ini adalah pusat dokumentasi dunia LEAX. Isinya memisahkan fakta yang sudah ditetapkan dari rancangan yang belum disahkan.
+Dokumen ini adalah pusat dokumentasi dunia LEAX. Isinya memisahkan fakta yang sudah ditetapkan dari rancangan yang belum disahkan. README ini juga menjadi pintu masuk repository: mulailah dari [indeks dokumentasi inti](00-CORE/00-README.md), yang mengarahkan pembaca ke ringkasan dan dokumen rujukan detail. Folder `00-CORE/` berisi ringkasan, indeks, dan panduan kontinuitas; folder `01-CANON/` berisi dokumen rujukan detail untuk fakta yang telah ditetapkan. Materi yang belum disahkan tetap berada di `98-CATATAN PENGEMBANGAN/`.
 
 ### Status informasi
 - **CANON** — telah ditetapkan oleh kreator.
@@ -19,11 +19,11 @@ Dokumen ini adalah pusat dokumentasi dunia LEAX. Isinya memisahkan fakta yang su
 5. Setiap keputusan canon baru harus dicatat di `99-ADMIN/Canon-Changelog.md`.
 
 ### Struktur repository
-- `00-CORE/` — dokumentasi inti dunia, sistem mana, cerita, karakter/lokasi/organisasi, dan kontinuitas.
-- `01-CANON/` — dokumen kanon tentang dunia, karakter, lokasi, organisasi, peradaban kuno, kosmologi, Great War, prasasti, International Authority, dan KVK. Lihat `01-CANON/Character-Bible.md` untuk fakta karakter terdokumentasi dan informasi yang belum ditentukan; `01-CANON/Location-Bible.md` untuk fakta lokasi terdokumentasi dan rincian yang belum ditentukan; serta `01-CANON/Organization-Bible.md` untuk fakta organisasi terdokumentasi dan informasi yang belum ditentukan.
-- `98-CATATAN PENGEMBANGAN/` — usulan dan rancangan yang belum disahkan sebagai kanon.
-- `99-ADMIN/` — changelog kanon dan pertanyaan terbuka.
-- `BACA-DULU.md` — panduan untuk paket dokumen lanjutan.
+- [`00-CORE/`](00-CORE/) — ringkasan, indeks, dan panduan kontinuitas. Gunakan indeksnya untuk menemukan sumber detail.
+- [`01-CANON/`](01-CANON/) — rujukan detail untuk fakta CANON. Bible karakter, lokasi, dan organisasi: [Character Bible](01-CANON/Character-Bible.md), [Location Bible](01-CANON/Location-Bible.md), dan [Organization Bible](01-CANON/Organization-Bible.md).
+- [`98-CATATAN PENGEMBANGAN/`](98-CATATAN%20PENGEMBANGAN/) — usulan dan rancangan yang belum disahkan sebagai kanon.
+- [`99-ADMIN/`](99-ADMIN/) — changelog dan pertanyaan terbuka.
+- [BACA-DULU.md](BACA-DULU.md) — panduan paket dokumen dan jalur baca.
 
 ### Catatan
 Dokumen ini merupakan konsolidasi berdasarkan informasi yang tersedia dalam percakapan worldbuilding. Bagian yang belum memiliki dasar canon secara eksplisit ditandai sebagai catatan pengembangan atau unknown.

@@ -1,6 +1,6 @@
 # Dokumen Lanjutan — The Dancing Demon
 
-Paket ini berisi dokumen selain `00-CORE`, sehingga tidak mengulang 10 dokumen inti yang sudah berada di repository.
+Paket ini berisi dokumen selain `00-CORE`, sehingga tidak mengulang 10 dokumen inti yang sudah berada di repository. Untuk mulai membaca dokumentasi inti, buka [indeks 00-CORE](00-CORE/00-README.md). Folder `00-CORE/` berfungsi sebagai ringkasan, indeks, dan navigasi; `01-CANON/` berisi rujukan detail untuk fakta yang telah ditetapkan.
 
 ## Isi paket
 - `01-CANON/` — dokumen kanon yang sudah ada pada arsip sumber.
@@ -10,6 +10,12 @@ Paket ini berisi dokumen selain `00-CORE`, sehingga tidak mengulang 10 dokumen i
 - `98-CATATAN PENGEMBANGAN/` — materi pengembangan yang dipertahankan dari arsip sumber. Isinya tidak otomatis menjadi kanon.
 - `99-ADMIN/` — catatan perubahan dan pertanyaan terbuka.
 - `README.md` — panduan repository.
+
+## Jalur baca
+1. Mulai dari [README repository](README.md) untuk gambaran struktur.
+2. Gunakan [indeks dokumentasi inti](00-CORE/00-README.md) untuk topik dan sumber detail.
+3. Baca dokumen `01-CANON/` yang ditautkan dari indeks sesuai topik.
+4. Perlakukan `98-CATATAN PENGEMBANGAN/` sebagai materi yang belum disahkan.
 
 ## Catatan
 Dokumen dipertahankan berdasarkan arsip ZIP sebelumnya. Tidak ada materi yang dipromosikan menjadi kanon hanya karena dipindahkan atau diganti nama foldernya. Paket ini tidak memuat ulang `00-CORE/`. Nama folder pada daftar di atas mengikuti path yang tersedia di repository.
