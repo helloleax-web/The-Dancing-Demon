@@ -1344,6 +1344,97 @@ Untuk jalur geodesik, optimasi harus mengubah posisi 14 simpul pada bola secara 
 
 **Kesimpulan kerja:** optimasi luas belum dijalankan karena geometri input belum lolos audit geodesik. Langkah yang benar adalah membangun ulang embedding bola yang konsisten dengan sembilan siklus muka, bukan memaksa koordinat lama agar mendekati target. Ini merupakan koreksi metodologis, bukan perubahan CANON.
 
+### 7.25 Partisi bola teroptimasi — V1.0
+
+**Status: CATATAN PENGEMBANGAN / NON-CANON.** Bagian ini mencatat satu konstruksi geometri bola yang lolos pemeriksaan topologi dan mencapai target luas 7.21 dalam toleransi yang dinyatakan. Ini adalah versi kerja geometri lempeng, bukan keputusan CANON dan bukan model geodinamika lengkap.
+
+#### 7.25.1 Metode konstruksi
+
+Konstruksi dimulai dari graf batas yang sudah tercatat pada 7.17 dan sembilan siklus muka pada 7.18.
+
+1. Bangun embedding planar untuk 14 simpul dan 21 segmen dengan sembilan muka yang sesuai siklus lempeng.
+2. Perlakukan muka Central (CR) sebagai muka luar embedding planar. Delapan muka lain menjadi wilayah terbatas.
+3. Ubah bidang menjadi bola satuan menggunakan inverse stereographic projection:
+   - X = 2x / (1 + x² + y²)
+   - Y = 2y / (1 + x² + y²)
+   - Z = (x² + y² - 1) / (1 + x² + y²)
+4. Pertahankan setiap sisi sebagai hasil proyeksi segmen lurus pada bidang. Karena itu, batas pada bola berupa kurva hasil proyeksi dan **bukan otomatis busur geodesik terpendek**.
+5. Optimalkan posisi 14 simpul pada bidang dengan sasaran luas 7.21 dan kendala pemisahan untuk pasangan segmen yang tidak berbagi simpul. Kendala ini menjaga agar segmen tidak saling berpotongan selama optimasi.
+6. Hitung luas muka pada bola dari integral luas stereografis di sepanjang batas planar. Integrasi numerik menggunakan kuadratur Gauss-Legendre 64 titik pada setiap segmen batas.
+7. Luas Central dihitung sebagai komplemen delapan muka terbatas pada bola.
+
+#### 7.25.2 Hasil luas V1.0
+
+| Lempeng | Target 7.21 | Hasil V1.0 | Deviasi |
+|---|---:|---:|---:|
+| Central (CR) | 18,00% | 18,0675% | +0,0675 pp |
+| Verdant (VW) | 12,00% | 11,9931% | -0,0069 pp |
+| Sands (SS) | 10,00% | 9,9911% | -0,0089 pp |
+| Frost (FR) | 8,00% | 7,9960% | -0,0040 pp |
+| Ashen (AF) | 7,00% | 7,0010% | +0,0010 pp |
+| Veiled (VC) | 11,00% | 10,9900% | -0,0100 pp |
+| Samudra Utara (NO) | 14,00% | 13,9858% | -0,0142 pp |
+| Samudra Barat (WO) | 11,00% | 10,9869% | -0,0131 pp |
+| Samudra Timur-Selatan (SE) | 9,00% | 8,9886% | -0,0114 pp |
+| **Total** | **100,00%** | **100,0000%** | **0,0000 pp** |
+
+**Kriteria luas:** seluruh wilayah berada dalam deviasi maksimum 0,10 poin persentase dari target. Deviasi terbesar adalah Central sebesar 0,0675 poin persentase. Total luas hasil adalah 100%.
+
+#### 7.25.3 Koordinat matematis 14 simpul
+
+Koordinat berikut diturunkan dari posisi simpul planar teroptimasi melalui inverse stereographic projection. Angka dibulatkan dua desimal. Ini adalah koordinat matematis pada sistem orientasi globe V1.0, bukan lokasi geografis dunia yang telah disahkan.
+
+| Simpul | Lintang matematis (°) | Bujur matematis (°) |
+|---|---:|---:|
+| TJ-01 | 45,46 | -57,31 |
+| TJ-02 | -3,61 | -120,49 |
+| TJ-03 | -60,54 | 138,35 |
+| TJ-04 | -3,26 | -45,93 |
+| TJ-05 | -42,24 | -46,98 |
+| TJ-06 | -67,90 | 122,71 |
+| TJ-07 | 38,56 | 38,63 |
+| TJ-08 | 36,98 | -0,26 |
+| TJ-09 | 35,99 | -29,13 |
+| TJ-10 | 52,09 | -141,73 |
+| TJ-11 | -49,47 | 112,45 |
+| TJ-12 | 47,19 | 140,14 |
+| TJ-13 | 42,38 | 79,86 |
+| TJ-14 | -60,58 | 134,89 |
+
+Orientasi globe dapat diputar tanpa mengubah topologi atau luas. Koordinat ini tidak boleh dipakai untuk menetapkan iklim, arah mata angin dunia, posisi benua, arus laut, atau jarak sebelum orientasi geografis dipilih.
+
+#### 7.25.4 Pemeriksaan validasi
+
+| Pemeriksaan | Hasil |
+|---|---|
+| Jumlah simpul | 14 |
+| Jumlah segmen batas | 21 |
+| Jumlah muka / wilayah | 9 |
+| Derajat setiap triple junction | 3 |
+| Graf planar | Lolos |
+| Siklus sembilan muka cocok dengan 7.18 | Lolos |
+| Persilangan segmen pada embedding planar teroptimasi | Tidak ditemukan |
+| Kendala pemisahan pasangan segmen noninsiden | 168 pasangan dipertahankan |
+| Jumlah luas sembilan wilayah | 100,0000% |
+| Deviasi maksimum terhadap target luas | 0,0675 poin persentase |
+| Penutupan permukaan bola | Lolos melalui partisi stereografis dan muka komplemen |
+
+Pemetaan inverse stereografis adalah homeomorfisme antara bidang dan bola tanpa satu titik proyeksi. Muka luar menjadi wilayah komplemen yang memuat titik proyeksi tersebut. Karena embedding planar mempertahankan muka dan tidak memiliki persilangan, sembilan wilayah membentuk partisi topologis bola. Batas pada bola tetap merupakan kurva hasil proyeksi, bukan batas geodesik.
+
+#### 7.25.5 Batas validasi dan keputusan versi
+
+V1.0 dinyatakan **FIX sebagai baseline geometri pengembangan**, dengan batas berikut:
+- Topologi, siklus muka, geometri partisi, dan target luas dibekukan untuk versi V1.0.
+- V1.0 bukan CANON; kreator tetap dapat mengubah atau membatalkannya.
+- Jenis batas konvergen, divergen, transform, atau pasif belum ditetapkan.
+- Arah dan kecepatan gerak lempeng serta kestabilan triple junction belum diuji.
+- Relief dasar laut, palung, busur vulkanik, hotspot, dan sejarah geologi belum ditetapkan.
+- Keenam benua belum ditempatkan pada lempeng.
+- Koordinat matematis belum diputar atau dikalibrasi terhadap orientasi geografis final.
+- Peta globe ini tidak membuktikan bahwa lempeng bergerak secara geodinamik realistis.
+
+**Kesimpulan:** satu partisi bola V1.0 sekarang tersedia dengan 9 wilayah, 14 triple junction, 21 batas, penutupan 100%, dan luas yang memenuhi target dalam toleransi 0,10 poin persentase. Gunakan V1.0 sebagai baseline tetap untuk tahap penempatan benua dan pengembangan geologi berikutnya. Jangan menyebutnya CANON sebelum kreator mengesahkannya.
+
 ### 7.11 Prinsip pembentukan peta fisik
 
 Saat sketsa pertama dibuat, urutkan keputusan dari skala besar ke kecil:
