@@ -2,7 +2,7 @@
 
 **Status: CATATAN PENGEMBANGAN — kerangka kerja pemetaan, bukan geografi CANON.**
 
-Dokumen ini menjadi ruang kerja untuk membangun geografi dunia secara bertahap. Dokumen ini sengaja tidak menetapkan bentuk planet, jumlah benua, posisi negara, koordinat lokasi, atau hubungan geografis yang belum diputuskan kreator.
+Dokumen ini menjadi ruang kerja untuk membangun geografi dunia secara bertahap. Pilihan awal kreator yang dicatat di sini adalah **planet dengan skala kurang lebih setara Bumi**. Pilihan tersebut masih berstatus keputusan kerja yang menunggu konfirmasi final sebelum dapat diperlakukan sebagai CANON. Dokumen ini tidak menetapkan jumlah benua, posisi negara, koordinat lokasi, atau hubungan geografis yang belum diputuskan kreator.
 
 ## 1. Tujuan
 
@@ -45,12 +45,12 @@ Informasi berikut boleh dipakai sebagai jangkar kerja, tetapi tidak memberikan k
 
 ## 3. Tahap keputusan geografi
 
-Bagian ini adalah urutan kerja. Setiap tahap tetap berstatus **BELUM DIPUTUSKAN** sampai kreator menetapkan jawabannya.
+Bagian ini membedakan pilihan kerja yang sudah disampaikan kreator dari keputusan yang masih terbuka. Pilihan kerja tidak otomatis menjadi CANON.
 
 | Tahap | Pertanyaan yang perlu diputuskan | Status |
 |---|---|---|
-| A. Model dunia | Planet, dunia datar, struktur berlapis, atau model lain? | BELUM DIPUTUSKAN |
-| B. Skala fisik | Ukuran dunia, gravitasi, satelit, dan siklus astronomi seperti apa? | BELUM DIPUTUSKAN |
+| A. Model dunia | Planet, dunia datar, struktur berlapis, atau model lain? | **PILIHAN SEMENTARA: planet** — menunggu konfirmasi final sebelum CANON. |
+| B. Skala fisik | Ukuran dunia, gravitasi, satelit, dan siklus astronomi seperti apa? | **PILIHAN SEMENTARA: kurang lebih setara Bumi** — menunggu konfirmasi final sebelum CANON. Gravitasi, satelit, rotasi, dan orbit belum diputuskan. |
 | C. Bentuk daratan | Berapa benua dan pulau besar? Bagaimana bentuk garis pantainya? | BELUM DIPUTUSKAN |
 | D. Perairan | Bagaimana pembagian samudra, laut, dan perairan pedalaman? | BELUM DIPUTUSKAN |
 | E. Iklim dan bioma | Bagaimana pola iklim, arus, angin, dan bioma? | BELUM DIPUTUSKAN |
@@ -68,9 +68,9 @@ Isi hanya setelah keputusan dibuat. Kolom kosong berarti belum ditentukan, bukan
 
 | Elemen | Keputusan kreator | Catatan / sumber |
 |---|---|---|
-| Model dunia | BELUM DIPUTUSKAN | |
+| Model dunia | PILIHAN SEMENTARA: planet; menunggu konfirmasi final sebelum CANON | Pilihan kreator dalam percakapan perancangan geografi. |
 | Nama dunia | BELUM DIPUTUSKAN | |
-| Ukuran / skala | BELUM DIPUTUSKAN | |
+| Ukuran / skala | PILIHAN SEMENTARA: kurang lebih setara Bumi; menunggu konfirmasi final sebelum CANON | Tidak menetapkan gravitasi, komposisi, atmosfer, satelit, rotasi, atau orbit. |
 | Gravitasi | BELUM DIPUTUSKAN | |
 | Satelit | BELUM DIPUTUSKAN | |
 | Durasi satu hari | BELUM DIPUTUSKAN | |
@@ -169,7 +169,46 @@ Salinan catatan menunjuk ke tempat lain yang belum diketahui
 
 Diagram ini menunjukkan urutan informasi cerita, bukan skala, arah, atau bentuk peta.
 
-## 7. Proposal geografi lama yang belum diputuskan
+## 7. Rancangan awal geografi untuk dievaluasi
+
+### 7.1 Implikasi pilihan planet berskala Bumi
+
+Jika pilihan sementara ini dikonfirmasi, rancangan peta dapat memakai globe sebagai model kerja dan mempertimbangkan jarak antarbenua, garis lintang, zona iklim, serta distorsi proyeksi peta datar. Ini adalah konsekuensi teknis untuk proses pemetaan, bukan tambahan fakta CANON.
+
+Pilihan skala setara Bumi **tidak otomatis** menetapkan:
+- Gravitasi, massa, kepadatan, komposisi, atau atmosfer yang identik dengan Bumi.
+- Jumlah satelit, panjang hari, panjang tahun, kemiringan sumbu, atau pola musim.
+- Jumlah benua, luas samudra, atau bentuk garis pantai.
+- Kesamaan sejarah geologi atau evolusi dengan Bumi.
+
+### 7.2 Arsitektur daratan — rekomendasi kerja, belum diputuskan
+
+Rekomendasi awal adalah menguji **enam kawasan daratan besar** sebagai kerangka sketsa pertama, karena enam konsep sudah tersedia dalam catatan geografi lama dan memiliki identitas lingkungan yang berbeda. Ini bukan keputusan bahwa dunia pasti memiliki enam benua. Jumlah, batas, nama, dan posisi tetap menunggu persetujuan kreator.
+
+| Konsep lama | Identitas lingkungan yang pernah diusulkan | Hal yang perlu diuji sebelum dipertahankan |
+|---|---|---|
+| The Central Reach | Kawasan relatif subur dan beragam | Jangan sampai menjadi kawasan generik yang tidak punya ciri geografis pembeda. |
+| The Frostbound Expanse | Kawasan dingin utara | Tentukan apakah dinginnya berasal dari lintang, ketinggian, arus laut, atau kombinasi; kata “utara” belum menetapkan lokasi ekspedisi Buku I. |
+| The Sunken Sands | Kawasan gurun dan kering | Tentukan skala gurun, sumber air, dan hubungan dengan pola angin serta pegunungan. |
+| The Verdant Wilds | Hutan dan ekosistem kompleks | Bedakan dari sekadar “benua berhutan”; tentukan variasi bioma dan batas ekologinya. |
+| The Ashen Frontier | Kawasan vulkanik dan ekstrem | Tentukan apakah aktivitas vulkanik tersebar, terkonsentrasi pada batas lempeng, atau hanya ciri regional. |
+| The Veiled Continent | Kawasan terpencil dan kurang dipetakan | “Kurang dipetakan” adalah kondisi pengetahuan/politik, bukan jenis iklim atau bentuk geologi; tentukan alasan keterpencilannya jika konsep dipertahankan. |
+
+**Rekomendasi:** gunakan enam konsep tersebut hanya sebagai enam kartu kandidat untuk diuji pada sketsa, bukan langsung sebagai enam benua final. Jika komposisi enam terasa dipaksakan, jumlahnya boleh berubah.
+
+### 7.3 Prinsip pembentukan peta fisik
+
+Saat sketsa pertama dibuat, urutkan keputusan dari skala besar ke kecil:
+1. Tentukan sebaran daratan dan samudra secara kasar; jangan beri nama negara atau kota dulu.
+2. Tentukan rentang lintang dan zona iklim global setelah bentuk daratan disetujui.
+3. Tentukan rangkaian pegunungan dan dataran tinggi sebelum menggambar gurun, hutan, serta jaringan sungai.
+4. Tentukan sungai dari daerah tinggi menuju danau, laut, atau cekungan; hindari sungai yang melanggar kontur tanpa alasan khusus.
+5. Tempatkan gurun, hutan, rawa, dan wilayah dingin dengan mempertimbangkan lintang, relief, dan pola hujan.
+6. Baru setelah itu tambahkan negara, kota, jalur perdagangan, dan rute ekspedisi.
+
+Ini merupakan metode perancangan yang disarankan, bukan deskripsi geografi dunia yang sudah ada.
+
+## 8. Proposal geografi lama yang belum diputuskan
 
 Dokumen [Geography](Geography.md) sebelumnya mencatat enam nama benua sebagai konsep kerja:
 
@@ -188,7 +227,7 @@ Proposal lama lain yang belum disahkan:
 - Kategori Mana-Rich, Mana-Depleted, Mana-Instability, Anomalous Region, dan Dead Zones.
 - Transportasi darat, laut, udara, dan magis; teleportasi atau portal belum ditetapkan.
 
-## 8. Aturan konsistensi peta
+## 9. Aturan konsistensi peta
 
 1. Jangan mengubah nama lokasi canon tanpa persetujuan kreator.
 2. Jangan menetapkan koordinat atau hubungan geografis lokasi hanya berdasarkan nama.
@@ -201,25 +240,25 @@ Proposal lama lain yang belum disahkan:
 9. Catat jarak dan waktu tempuh agar perjalanan antarlokasi konsisten.
 10. Peta ilustratif yang dibuat sebelum keputusan final harus diberi label **DRAFT / NON-CANON**.
 
-## 9. Langkah kerja berikutnya
+## 10. Langkah kerja berikutnya
 
 Urutan kerja yang disarankan:
 
-1. Putuskan model dasar dunia dan apakah peta menggunakan planet dengan geografi fisik normal.
-2. Putuskan skala umum dunia dan jumlah daratan besar; belum perlu memberi nama.
+1. Konfirmasi final apakah model planet dan skala setara Bumi akan menjadi CANON.
+2. Evaluasi apakah enam kawasan daratan lama layak dipakai sebagai kandidat sketsa atau perlu jumlah/struktur lain.
 3. Susun bentuk kasar daratan dan perairan tanpa menambahkan negara atau kota.
 4. Tentukan iklim dan bioma berdasarkan bentuk dunia yang sudah disepakati.
 5. Tempatkan jangkar cerita Buku I setelah kreator menentukan hubungan antar lokasi.
 6. Tambahkan negara, jalur perjalanan, pusat permukiman, dan wilayah peninggalan sesuai kebutuhan cerita.
 7. Buat peta visual draft, lalu audit jarak, iklim, rute, dan kontinuitas.
 
-## 10. Pertanyaan yang harus dijawab sebelum menggambar peta
+## 11. Pertanyaan yang harus dijawab sebelum menggambar peta
 
 Pertanyaan ini sengaja dibiarkan terbuka. Jangan isi berdasarkan asumsi.
 
-- Apakah dunia cerita berbentuk planet seperti Bumi, atau memiliki struktur berbeda?
+- Apakah pilihan sementara planet dan skala kurang lebih setara Bumi dikonfirmasi sebagai CANON?
 - Apakah dunia memiliki satu daratan besar, beberapa benua, atau susunan lain?
-- Apakah skala dunia ingin terasa setara Bumi, lebih kecil, atau lebih besar?
+- Apakah enam kawasan daratan lama dipertahankan sebagai kandidat, direvisi, atau ditinggalkan?
 - Apakah peta awal harus mencakup seluruh dunia atau hanya wilayah cerita Buku I?
 - Apakah enam nama benua dari proposal lama masih ingin dipertimbangkan?
 
