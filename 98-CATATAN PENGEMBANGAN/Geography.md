@@ -2,6 +2,8 @@
 
 **Status: CATATAN PENGEMBANGAN — usulan belum disahkan.**
 
+Untuk kerangka pemetaan dunia yang memisahkan jangkar cerita, lokasi canon, dan keputusan geografis yang masih terbuka, lihat [World Map Framework](World-Map-Framework.md). Dokumen ini tetap menyimpan inventaris proposal geografi lama; tidak ada proposal yang otomatis diterima sebagai canon.
+
 ## Bentuk dunia
 Usulan awal: planet dengan geografi fisik normal, benua, pulau, samudra, pegunungan, dan wilayah bawah tanah. Ukuran, gravitasi, satelit, dan astronomi belum ditentukan.
 
