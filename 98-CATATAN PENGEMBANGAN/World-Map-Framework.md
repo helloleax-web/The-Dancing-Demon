@@ -2,7 +2,7 @@
 
 **Status: CATATAN PENGEMBANGAN — kerangka kerja pemetaan, bukan geografi CANON.**
 
-**Keputusan pengembangan terbaru:** kreator memilih **Alternatif A — enam benua terpisah** sebagai draft pertama arsitektur daratan. Pilihan ini mengarahkan tahap perancangan berikutnya, tetapi belum disahkan sebagai CANON.
+**Keputusan pengembangan terbaru:** kreator memilih **Alternatif A — enam benua terpisah** sebagai draft pertama arsitektur daratan, dengan **ukuran yang sangat bervariasi**. Kedua pilihan ini mengarahkan tahap perancangan berikutnya, tetapi belum disahkan sebagai CANON.
 
 Dokumen ini menjadi ruang kerja untuk membangun geografi dunia secara bertahap. Pilihan awal kreator yang dicatat di sini adalah **planet dengan skala kurang lebih setara Bumi**. Pilihan tersebut masih berstatus keputusan kerja yang menunggu konfirmasi final sebelum dapat diperlakukan sebagai CANON. Dokumen ini tidak menetapkan jumlah benua, posisi negara, koordinat lokasi, atau hubungan geografis yang belum diputuskan kreator.
 
@@ -84,6 +84,7 @@ Isi hanya setelah keputusan dibuat. Kolom kosong berarti belum ditentukan, bukan
 | Elemen | Keputusan kreator | Catatan / sumber |
 |---|---|---|
 | Jumlah benua | DRAFT PENGEMBANGAN: enam benua terpisah; belum CANON | Dipilih kreator sebagai arsitektur draft pertama. |
+| Ukuran relatif benua | DRAFT PENGEMBANGAN: sangat bervariasi; belum CANON | Dipilih kreator. Proporsi dan urutan ukuran masih berupa proposal perancangan. |
 | Nama benua | BELUM DIPUTUSKAN | |
 | Pulau besar | BELUM DIPUTUSKAN | |
 | Samudra dan laut | BELUM DIPUTUSKAN | |
@@ -298,7 +299,7 @@ Enam kandidat benua untuk draft pertama:
 5. The Ashen Frontier
 6. The Veiled Continent
 
-Keputusan ini menetapkan jumlah kandidat daratan besar untuk proses sketsa, bukan detail geografi final. Belum ada keputusan tentang urutan posisi, arah, ukuran relatif, bentuk, jarak, garis pantai, atau samudra di antaranya.
+Keputusan ini menetapkan jumlah kandidat daratan besar untuk proses sketsa. Kreator juga memilih ukuran yang sangat bervariasi. Kedua pilihan berstatus pengembangan, bukan CANON. Proporsi luas, urutan ukuran, posisi, arah, bentuk, jarak, garis pantai, dan samudra di antaranya masih perlu dirancang.
 
 ### 7.6 Susunan spasial awal — proposal untuk diuji
 
@@ -306,8 +307,8 @@ Agar enam benua tidak sekadar menjadi enam zona tema, berikut susunan konseptual
 
 | Benua draft | Zona / posisi konseptual yang diusulkan | Alasan penempatan untuk diuji | Hal yang belum ditetapkan |
 |---|---|---|---|
-| The Frostbound Expanse | Lintang tinggi di belahan utara | Memberi dasar iklim dingin yang dapat dijelaskan oleh lintang; tidak harus seluruh daratan tertutup es. | Bentuk, luas, iklim pesisir, pegunungan, dan apakah ada wilayah berpenghuni. |
-| The Central Reach | Lintang menengah, relatif sentral dalam komposisi peta | Dapat menjadi kawasan dengan variasi iklim dan jalur hubungan antardaerah. Kata “central” tidak harus berarti pusat geometris planet. | Posisi relatif terhadap benua lain, bentuk, dan karakter geografis spesifik. |
+| The Frostbound Expanse | Lintang tinggi di salah satu belahan planet | Memberi dasar iklim dingin yang dapat dijelaskan oleh lintang; tidak harus seluruh daratan tertutup es. | Belahan, bentuk, luas, iklim pesisir, pegunungan, dan wilayah berpenghuni. |
+| The Central Reach | Lintang menengah, relatif sentral dalam komposisi peta | Dapat menjadi kawasan dengan variasi iklim dan jalur hubungan antardaerah. Kata “central” tidak harus berarti pusat geometris planet. | Posisi relatif, bentuk, dan karakter geografis spesifik. |
 | The Verdant Wilds | Zona tropis atau subtropis lembap sebagai kandidat | Mendukung hutan dan ekosistem kompleks, selama pola hujan dan relief memungkinkan. | Apakah seluruh benua berhutan; jenis hutan, musim, dan jaringan sungai. |
 | The Sunken Sands | Zona kering subtropis atau wilayah bayangan hujan sebagai kandidat | Gurun tidak harus tepat di ekuator; pola sirkulasi atmosfer dan pegunungan dapat membentuk wilayah kering. | Penyebab kekeringan, luas gurun, sumber air, dan bentuk relief. |
 | The Ashen Frontier | Kawasan dengan aktivitas tektonik/vulkanik menonjol | Identitas vulkanik lebih kuat jika berkaitan dengan batas lempeng atau hotspot, bukan sekadar seluruh benua berupa lava. | Letak batas lempeng, jenis aktivitas vulkanik, tingkat bahaya, dan kelayakhunian. |
@@ -315,27 +316,62 @@ Agar enam benua tidak sekadar menjadi enam zona tema, berikut susunan konseptual
 
 **Catatan penting:** posisi lintang di atas adalah hipotesis kerja untuk diuji, bukan penempatan final. Belahan utara/selatan, garis khatulistiwa, kemiringan sumbu, arus laut, dan pola angin global belum diputuskan. Tidak semua benua harus memiliki satu iklim tunggal.
 
-#### Hubungan spasial yang belum digambar
+### 7.7 Proporsi ukuran dan rancangan siluet — draft konseptual
+
+Kreator memilih ukuran benua yang sangat bervariasi. Untuk menerjemahkannya ke sketsa, berikut satu **distribusi luas relatif yang diusulkan**. Persentase dihitung dari total luas daratan keenam benua, bukan persentase luas seluruh permukaan planet.
+
+| Benua draft | Porsi dari total luas enam benua | Kelas ukuran usulan | Siluet awal yang disarankan |
+|---|---:|---|---|
+| The Central Reach | 24% | Terbesar | Daratan lebar dan tidak beraturan, dengan satu tonjolan semenanjung besar dan beberapa teluk. |
+| The Veiled Continent | 21% | Sangat besar | Daratan memanjang dengan satu sisi pesisir relatif terjal dan lekukan teluk dalam; ukuran besar memberi ruang interior yang belum banyak dipetakan. |
+| The Verdant Wilds | 18% | Besar | Bentuk agak membulat tetapi terpecah oleh teluk-teluk dan semenanjung, memberi garis pantai kompleks. |
+| The Frostbound Expanse | 15% | Menengah | Daratan melebar pada satu sisi dan menyempit ke arah lain, dengan kemungkinan pesisir berlekuk atau fjord jika kondisi geologi mendukung. |
+| The Sunken Sands | 13% | Menengah-kecil | Daratan memanjang dengan satu sisi lebih lurus dan sisi lain lebih bergerigi; bentuk ini dapat diuji bersama kawasan kering luas di bagian interior. |
+| The Ashen Frontier | 9% | Terkecil | Daratan relatif kompak atau melengkung, dengan siluet kasar dan pesisir patah-patah; jangan menganggap seluruh daratan berupa gunung berapi. |
+
+Angka 24/21/18/15/13/9 adalah **porsi kandidat**, bukan pengukuran final. Distribusi ini sengaja membuat tiga daratan besar, dua menengah, dan satu lebih kecil. Angka dapat berubah setelah sketsa visual dan uji geografi.
+
+#### Karakter siluet yang perlu dijaga
+
+- **Central Reach:** jangan dibuat oval sempurna. Tonjolan semenanjung, teluk, dan satu atau dua cekungan pesisir dapat membuatnya lebih mudah dikenali.
+- **Veiled Continent:** hindari bentuk pulau bulat sederhana. Siluet memanjang dan pesisir yang tidak seragam lebih mendukung kesan daratan besar yang terisolasi.
+- **Verdant Wilds:** garis pantai bercabang dapat memberi ruang bagi teluk, muara, dan semenanjung; hutan tetap tidak harus menutupi seluruh wilayah.
+- **Frostbound Expanse:** pesisir berlekuk dalam atau fjord hanya dipakai jika kelak didukung sejarah glasiasi dan relief; jangan menjadikan fjord dekorasi otomatis.
+- **Sunken Sands:** jangan menggambar seluruh garis pantai lurus atau seluruh daratan sebagai oval. Variasi pesisir tetap diperlukan meskipun interiornya kering.
+- **Ashen Frontier:** bentuk kompak atau melengkung dapat menjadi ciri visual, tetapi jalur pegunungan dan vulkanisme belum ditentukan.
+
+#### Batas rancangan saat ini
+
+Belum ditetapkan:
+- Koordinat, orientasi, dan posisi relatif keenam benua.
+- Apakah benua-benua tersebar di kedua belahan planet atau terkonsentrasi pada satu sisi.
+- Bentuk, jumlah, dan nama samudra.
+- Persentase luas daratan terhadap seluruh permukaan planet.
+- Bentuk akhir garis pantai, pulau satelit, selat, dan teluk.
+- Apakah siluet yang diusulkan cocok setelah diuji pada globe dan proyeksi peta datar.
+
+### 7.8 Hubungan spasial yang belum digambar
 
 Untuk tahap ini, jangan menetapkan bahwa:
 - The Central Reach benar-benar berada di tengah globe.
-- The Frostbound Expanse berada tepat di Kutub Utara.
+- The Frostbound Expanse berada tepat di salah satu kutub.
 - The Sunken Sands seluruhnya berupa gurun.
 - The Verdant Wilds seluruhnya tertutup hutan.
 - The Ashen Frontier seluruhnya aktif secara vulkanik.
 - The Veiled Continent tidak memiliki penduduk atau peradaban.
 - Keenam benua tersusun simetris atau tersebar merata.
 
-#### Prinsip komposisi draft A
+### 7.9 Prinsip komposisi draft A
 
-1. Keenam daratan harus memiliki siluet dan karakter geografis yang dapat dibedakan, tetapi tidak perlu memiliki ukuran sama.
-2. Hindari pembagian satu benua = satu bioma. Setiap benua dapat memiliki beberapa zona iklim dan ekosistem.
-3. Sisakan ruang samudra yang cukup agar pemisahan benua terasa masuk akal pada skala planet.
-4. Jangan menggambar batas negara, ibu kota, atau lokasi canon sebelum bentuk daratan makro disetujui.
-5. Letak ekspedisi Buku I belum boleh ditentukan hanya karena disebut “jalur utara”.
-6. Peta pertama cukup menunjukkan enam daratan, perairan besar, dan garis lintang perkiraan; detail fisik menyusul setelah komposisi disetujui.
+1. Keenam daratan harus memiliki siluet dan karakter geografis yang dapat dibedakan.
+2. Ukuran sangat bervariasi adalah pilihan kreator; angka luas dalam tabel hanya proposal untuk diuji.
+3. Hindari pembagian satu benua = satu bioma. Setiap benua dapat memiliki beberapa zona iklim dan ekosistem.
+4. Sisakan ruang samudra yang cukup agar pemisahan benua terasa masuk akal pada skala planet.
+5. Jangan menggambar batas negara, ibu kota, atau lokasi canon sebelum bentuk daratan makro disetujui.
+6. Letak ekspedisi Buku I belum boleh ditentukan hanya karena disebut “jalur utara”.
+7. Peta pertama cukup menunjukkan enam daratan, perairan besar, dan garis lintang perkiraan; detail fisik menyusul setelah komposisi disetujui.
 
-### 7.7 Prinsip pembentukan peta fisik
+### 7.10 Prinsip pembentukan peta fisik
 
 Saat sketsa pertama dibuat, urutkan keputusan dari skala besar ke kecil:
 1. Tentukan sebaran daratan dan samudra secara kasar; jangan beri nama negara atau kota dulu.
@@ -384,7 +420,7 @@ Proposal lama lain yang belum disahkan:
 Urutan kerja yang disarankan:
 
 1. Konfirmasi final apakah model planet dan skala setara Bumi akan menjadi CANON.
-2. Susun sketsa makro enam benua berdasarkan keputusan draft Alternatif A; uji posisi relatif, ukuran, dan ruang samudra.
+2. Uji proporsi luas dan karakter siluet pada bagian 7.7 melalui sketsa makro enam benua; persentase saat ini hanya usulan.
 3. Revisi komposisi daratan dan perairan sampai kreator menyetujui draft bentuk global.
 4. Tentukan rentang lintang, pola iklim, dan bioma berdasarkan bentuk dunia yang disepakati.
 5. Tempatkan jangkar cerita Buku I setelah kreator menentukan hubungan antar lokasi.
@@ -397,7 +433,8 @@ Pertanyaan ini sengaja dibiarkan terbuka. Jangan isi berdasarkan asumsi.
 
 - Apakah pilihan sementara planet dan skala kurang lebih setara Bumi dikonfirmasi sebagai CANON?
 - Apakah susunan spasial awal pada bagian 7.6 layak dipakai sebagai dasar sketsa, atau posisi konseptual tiap benua perlu diubah?
-- Bagaimana bentuk dan ukuran relatif keenam benua pada draft pertama?
+- Apakah distribusi ukuran relatif pada bagian 7.7 (24/21/18/15/13/9 dari total luas daratan) layak dipakai untuk sketsa, atau perlu diubah?
+- Apakah karakter siluet awal keenam benua pada bagian 7.7 sesuai, atau ada benua yang ingin lu bentuk ulang?
 - Apakah peta awal harus mencakup seluruh dunia atau hanya wilayah cerita Buku I?
 - Apakah enam nama benua dari proposal lama masih ingin dipertimbangkan?
 
