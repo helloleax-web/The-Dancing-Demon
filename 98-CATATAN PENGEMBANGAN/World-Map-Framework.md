@@ -196,7 +196,95 @@ Rekomendasi awal adalah menguji **enam kawasan daratan besar** sebagai kerangka 
 
 **Rekomendasi:** gunakan enam konsep tersebut hanya sebagai enam kartu kandidat untuk diuji pada sketsa, bukan langsung sebagai enam benua final. Jika komposisi enam terasa dipaksakan, jumlahnya boleh berubah.
 
-### 7.3 Prinsip pembentukan peta fisik
+### 7.4 Tiga alternatif arsitektur daratan
+
+Ketiga alternatif berikut adalah **model komposisi untuk dibandingkan**, bukan peta final. Tidak ada koordinat, bentuk garis pantai, nama samudra, negara, atau posisi lokasi cerita yang ditetapkan di bagian ini.
+
+#### Alternatif A — Enam benua terpisah
+
+**Gagasan:** keenam konsep lama masing-masing menjadi daratan besar yang dipisahkan oleh perairan.
+
+- The Central Reach, The Frostbound Expanse, The Sunken Sands, The Verdant Wilds, The Ashen Frontier, dan The Veiled Continent masing-masing menjadi kandidat benua.
+- Perjalanan antarbenua berpotensi membutuhkan jalur laut, pelayaran jarak jauh, atau moda transportasi lain yang kelak ditetapkan.
+- Tiap benua mendapat ruang untuk identitas regional yang kuat.
+
+**Kelebihan**
+- Mudah dipahami dan dibaca pada peta dunia.
+- Enam identitas lama tidak perlu langsung dilebur.
+- Memberi ruang luas untuk variasi budaya, politik, dan lingkungan.
+
+**Kekurangan**
+- Enam benua bisa terasa seperti enam zona tema yang dibuat terlalu rapi.
+- Membutuhkan banyak detail tambahan agar tiap benua terasa hidup, bukan hanya satu bioma.
+- Berisiko memperbesar beban worldbuilding dan membuat cerita utama tersebar terlalu luas.
+
+**Cocok jika:** cerita memang membutuhkan cakupan lintas benua dan perbedaan wilayah yang sangat besar.
+
+#### Alternatif B — Lima benua, dengan dua konsep menjadi satu daratan
+
+**Gagasan:** lima daratan besar; dua identitas lama berbagi satu benua sebagai kawasan geografis berbeda. Salah satu pasangan yang layak diuji adalah The Frostbound Expanse dan The Ashen Frontier: satu daratan dapat memiliki kawasan dingin dan kawasan vulkanik jika relief, lintang, dan aktivitas geologinya mendukung.
+
+- The Central Reach tetap menjadi kandidat kawasan tersendiri.
+- The Sunken Sands tetap menjadi kandidat kawasan tersendiri.
+- The Verdant Wilds tetap menjadi kandidat kawasan tersendiri.
+- The Veiled Continent tetap menjadi kandidat kawasan tersendiri.
+- The Frostbound Expanse dan The Ashen Frontier menjadi dua kawasan dalam satu daratan, bukan dua benua terpisah.
+
+**Kelebihan**
+- Mempertahankan hampir seluruh identitas konsep lama.
+- Mengurangi jumlah lintas-samudra dibanding model enam benua.
+- Memberi peluang kontras lingkungan dalam satu benua dan hubungan darat antarkawasan.
+
+**Kekurangan**
+- Pasangan Frostbound–Ashen perlu rancangan geologi yang meyakinkan; jangan digabung hanya demi mengurangi hitungan.
+- Batas antara dua kawasan harus ditentukan melalui relief, lintang, atau proses geologi yang masuk akal.
+- Masih memerlukan pengembangan lima daratan besar.
+
+**Cocok jika:** dunia membutuhkan beberapa pusat geografis besar, tetapi enam benua terasa terlalu terfragmentasi.
+
+#### Alternatif C — Empat benua besar ditambah kepulauan
+
+**Gagasan:** empat daratan utama menjadi kerangka geografis, sementara dua atau lebih identitas konsep lama menjadi kawasan regional atau gugus pulau. Contoh pengelompokan untuk diuji:
+
+- The Central Reach dan The Verdant Wilds menjadi dua kawasan berbeda pada satu daratan besar.
+- The Frostbound Expanse dan The Ashen Frontier dapat menjadi kawasan berbeda pada daratan lain, jika rancangan geologinya mendukung.
+- The Sunken Sands menjadi kawasan daratan tersendiri atau bagian besar dari daratan utama ketiga.
+- The Veiled Continent dapat diuji sebagai daratan terpencil atau gugus pulau besar; istilah “veiled” tetap menggambarkan keterbatasan pemetaan, bukan bentuk geologi.
+
+Pengelompokan ini hanya contoh komposisi. Empat benua tidak harus dibentuk persis seperti daftar di atas.
+
+**Kelebihan**
+- Peta dunia lebih sederhana pada tingkat makro.
+- Kepulauan memberi variasi rute laut, isolasi, perdagangan, dan eksplorasi.
+- Identitas lama masih bisa dipakai sebagai kawasan tanpa memaksa semuanya menjadi benua.
+
+**Kekurangan**
+- Memerlukan keputusan lebih cermat tentang hubungan laut dan darat.
+- Jika terlalu banyak cerita penting berada di kepulauan, kompleksitas perjalanan laut tetap tinggi.
+- Empat benua utama bisa terasa terlalu dominan jika wilayah lain tidak diberi bobot yang seimbang.
+
+**Cocok jika:** dunia membutuhkan ruang eksplorasi maritim dan struktur geopolitik yang tidak hanya berpusat pada benua besar.
+
+#### Perbandingan ringkas
+
+| Kriteria | A: Enam benua | B: Lima benua | C: Empat benua + kepulauan |
+|---|---|---|---|
+| Kesederhanaan peta makro | Sedang | Sedang | Tinggi |
+| Ruang untuk identitas regional | Tinggi | Tinggi | Tinggi |
+| Potensi perjalanan laut antarbenua | Tinggi | Sedang–tinggi | Bergantung rancangan kepulauan |
+| Beban pengembangan awal | Tinggi | Sedang–tinggi | Sedang |
+| Risiko terasa seperti zona tema | Tinggi jika tiap benua hanya satu bioma | Sedang | Sedang |
+| Fleksibilitas untuk cerita eksplorasi | Tinggi | Tinggi | Tinggi, terutama maritim |
+
+Penilaian di atas bersifat kualitatif, bukan data geografis atau keputusan dunia.
+
+#### Rekomendasi sementara
+
+**Alternatif B — lima benua** adalah titik awal paling seimbang untuk diuji lebih lanjut. Ia mempertahankan sebagian besar konsep lama, mengurangi fragmentasi, dan memungkinkan satu daratan memiliki beberapa kawasan lingkungan yang kontras. Namun, penggabungan Frostbound–Ashen hanya layak jika desain geologi nantinya mendukungnya.
+
+Rekomendasi ini **bukan pilihan kreator dan bukan CANON**. Kreator dapat memilih A, B, C, meminta kombinasi lain, atau menolak semuanya.
+
+### 7.5 Prinsip pembentukan peta fisik
 
 Saat sketsa pertama dibuat, urutkan keputusan dari skala besar ke kecil:
 1. Tentukan sebaran daratan dan samudra secara kasar; jangan beri nama negara atau kota dulu.
@@ -245,7 +333,7 @@ Proposal lama lain yang belum disahkan:
 Urutan kerja yang disarankan:
 
 1. Konfirmasi final apakah model planet dan skala setara Bumi akan menjadi CANON.
-2. Evaluasi apakah enam kawasan daratan lama layak dipakai sebagai kandidat sketsa atau perlu jumlah/struktur lain.
+2. Bandingkan Alternatif A, B, dan C pada bagian 7.4; tentukan struktur daratan yang akan dijadikan draft.
 3. Susun bentuk kasar daratan dan perairan tanpa menambahkan negara atau kota.
 4. Tentukan iklim dan bioma berdasarkan bentuk dunia yang sudah disepakati.
 5. Tempatkan jangkar cerita Buku I setelah kreator menentukan hubungan antar lokasi.
@@ -257,8 +345,8 @@ Urutan kerja yang disarankan:
 Pertanyaan ini sengaja dibiarkan terbuka. Jangan isi berdasarkan asumsi.
 
 - Apakah pilihan sementara planet dan skala kurang lebih setara Bumi dikonfirmasi sebagai CANON?
-- Apakah dunia memiliki satu daratan besar, beberapa benua, atau susunan lain?
-- Apakah enam kawasan daratan lama dipertahankan sebagai kandidat, direvisi, atau ditinggalkan?
+- Dari tiga alternatif arsitektur daratan pada bagian 7.4, mana yang ingin diuji sebagai draft: A (enam benua), B (lima benua), C (empat benua + kepulauan), atau kombinasi lain?
+- Jika memilih B atau C, apakah pengelompokan konsep lama yang dicontohkan dapat diterima, atau perlu pasangan/kawasan berbeda?
 - Apakah peta awal harus mencakup seluruh dunia atau hanya wilayah cerita Buku I?
 - Apakah enam nama benua dari proposal lama masih ingin dipertimbangkan?
 
