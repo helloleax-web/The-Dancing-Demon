@@ -449,6 +449,139 @@ Untuk tahap ini, jangan menetapkan bahwa:
 6. Letak ekspedisi Buku I belum boleh ditentukan hanya karena disebut “jalur utara”.
 7. Peta pertama cukup menunjukkan enam daratan, perairan besar, dan garis lintang perkiraan; detail fisik menyusul setelah komposisi disetujui.
 
+### 7.12 Rancangan siluet dan relief keenam benua
+
+**Status seluruh isi bagian ini: rancangan kerja NON-CANON.** Kreator menyerahkan pengembangan bentuk fisik awal kepada asisten. Bentuk berikut dipilih agar enam benua mudah dibedakan dari siluetnya, punya ruang untuk variasi iklim, dan tidak terasa seperti enam bioma tunggal. Bentuk belum berupa koordinat atau garis pantai final.
+
+#### 7.12.1 The Central Reach — daratan jangkar
+
+**Siluet yang diusulkan**
+- Daratan terbesar, melebar tidak simetris; bagian tengah cukup luas, dengan satu tonjolan besar ke arah timur dan semenanjung panjang di barat laut.
+- Pantai utara relatif terpecah oleh beberapa teluk lebar; pantai selatan lebih terbuka dengan satu teluk besar.
+- Satu semenanjung menonjol ke arah kelompok benua lain, memberi ruang untuk selat dan jalur pelayaran regional.
+- Hindari bentuk oval atau lingkaran sempurna. Garis pantai perlu memiliki lekukan besar dan beberapa tanjung yang jelas.
+
+**Rangka relief yang diusulkan**
+- Satu rangkaian pegunungan panjang di bagian barat atau barat laut, tidak tepat di tengah benua.
+- Dataran tinggi atau pegunungan lebih rendah di bagian timur, terpisah dari rangkaian utama oleh cekungan atau dataran luas.
+- Sungai-sungai besar mengalir dari dataran tinggi menuju pantai dan teluk; jangan buat semua sungai mengalir ke satu arah.
+- Bagian tengah menyediakan dataran luas yang terputus oleh perbukitan dan lembah, bukan satu hamparan datar tanpa variasi.
+
+**Fungsi geografis dalam rancangan**
+- Bentuk luas dan teluk besar menyediakan banyak kemungkinan kawasan pesisir, pedalaman, serta jalur darat.
+- Tidak berarti benua ini paling maju, paling padat penduduk, atau pusat politik dunia.
+
+#### 7.12.2 The Verdant Wilds — daratan bercabang dan lembap
+
+**Siluet yang diusulkan**
+- Daratan relatif membulat tetapi tidak simetris, dengan satu semenanjung panjang mengarah ke selatan dan beberapa teluk dalam di sisi timur.
+- Pesisir barat lebih terputus-putus oleh tanjung dan teluk kecil; pesisir timur memiliki satu teluk besar yang menjorok ke pedalaman.
+- Satu gugus pulau lepas pantai dapat dipertimbangkan kemudian, tetapi belum menjadi bagian rancangan wajib.
+
+**Rangka relief yang diusulkan**
+- Pegunungan membentuk busur tidak sempurna di sisi barat laut hingga bagian tengah, bukan dinding yang menutup seluruh benua.
+- Dataran tinggi dan perbukitan memecah aliran sungai menjadi beberapa daerah aliran sungai.
+- Sungai utama mengalir menuju teluk timur dan pesisir selatan; beberapa sungai pendek mengalir ke pantai barat.
+- Ruang dataran banjir, rawa, dan hutan lembap dapat muncul di hilir sungai, tetapi distribusi bioma menunggu keputusan iklim.
+
+**Fungsi geografis dalam rancangan**
+- Garis pantai bercabang dan jaringan sungai memberi banyak kemungkinan ekosistem serta jalur perjalanan.
+- Nama Verdant tidak berarti seluruh daratan tertutup hutan atau selalu basah.
+
+#### 7.12.3 The Sunken Sands — daratan memanjang dengan cekungan
+
+**Siluet yang diusulkan**
+- Daratan memanjang dari barat laut ke tenggara, dengan bagian tengah menyempit dan dua massa daratan yang lebih lebar di ujungnya.
+- Satu teluk besar menjorok ke bagian tengah dari sisi barat; sisi timur lebih terbuka ke laut.
+- Ujung tenggara memiliki semenanjung pendek dan patahan garis pantai yang lebih kasar.
+- Bentuk keseluruhan tidak boleh menyerupai sabit sempurna; sisakan ketidakteraturan alami.
+
+**Rangka relief yang diusulkan**
+- Rangkaian pegunungan utama membentang di salah satu sisi memanjang benua, dengan cabang lebih rendah menuju pedalaman.
+- Bagian tengah memiliki cekungan luas yang dapat menjadi kawasan kering, dataran garam, atau cekungan endoreik jika kondisi iklim dan drainase mendukung.
+- Sungai besar berasal dari pegunungan dan berakhir di laut, danau, atau cekungan pedalaman; jangan menganggap semua sungai mencapai samudra.
+- Dataran tinggi di sisi yang berlawanan memberi variasi elevasi dan kemungkinan bayangan hujan.
+
+**Fungsi geografis dalam rancangan**
+- Kombinasi pegunungan, cekungan, dan pesisir memberi alasan geografis untuk wilayah kering yang luas.
+- Nama Sunken Sands tidak menetapkan bahwa seluruh benua adalah gurun atau pernah tenggelam.
+
+#### 7.12.4 The Frostbound Expanse — daratan utara dengan pesisir teriris
+
+**Siluet yang diusulkan**
+- Daratan lebar dengan bentuk tidak beraturan, memiliki satu tonjolan besar ke arah utara dan dua semenanjung yang menjulur ke arah lintang lebih rendah.
+- Pesisir utara dan timur memiliki teluk panjang serta lekukan dalam; fjord hanya digunakan jika sejarah glasiasi dan relief pantainya mendukung.
+- Sisi selatan relatif lebih sederhana agar menjadi zona transisi menuju laut yang memisahkannya dari kelompok utama.
+- Jangan membuat seluruh pantainya bergerigi seragam.
+
+**Rangka relief yang diusulkan**
+- Pegunungan atau dataran tinggi utama berada di bagian tengah-utara, dengan beberapa lembah yang mengarah ke pesisir.
+- Gletser, lembah glasial, dan fjord merupakan kemungkinan geologis, bukan fitur yang otomatis ada.
+- Sungai besar dapat mengalir dari kawasan tinggi ke selatan dan timur; danau glasial dapat dipertimbangkan jika proses pembentukannya konsisten.
+- Bagian selatan benua dapat memiliki relief lebih rendah dan variasi lingkungan yang tidak selalu tundra atau es.
+
+**Fungsi geografis dalam rancangan**
+- Lintang tinggi memberi dasar untuk lingkungan dingin, tetapi arus laut, elevasi, dan musim tetap menentukan iklim lokal.
+- Frostbound tidak harus menjadi daratan yang seluruhnya tertutup salju.
+
+#### 7.12.5 The Ashen Frontier — daratan patahan dan relief kontras
+
+**Siluet yang diusulkan**
+- Daratan berukuran lebih kecil, berbentuk tidak simetris dan agak melengkung, dengan satu teluk besar di sisi dalam lengkungan.
+- Pesisir luar lebih tegas dan terbuka ke samudra; satu semenanjung sempit memanjang dari sisi selatan.
+- Garis pantai tidak dibuat bergerigi di semua sisi. Perbedaan antara pesisir teluk dan pesisir samudra harus terlihat jelas.
+
+**Rangka relief yang diusulkan**
+- Satu zona pegunungan dan dataran tinggi membentang diagonal melintasi benua.
+- Kandidat busur vulkanik atau dataran vulkanik ditempatkan di salah satu sisi rangkaian tersebut, bukan menyelimuti seluruh benua.
+- Lembah patahan atau cekungan tektonik dapat memisahkan dua wilayah tinggi.
+- Sungai pendek dan deras mungkin terbentuk pada sisi curam; sungai lebih panjang dapat mengalir dari cekungan menuju teluk besar.
+
+**Fungsi geografis dalam rancangan**
+- Relief kontras dapat menciptakan perbedaan lokal yang kuat dalam akses, pemukiman, dan jalur perjalanan.
+- Nama Ashen Frontier tidak membuktikan bahwa semua wilayahnya aktif vulkanik, tandus, atau berbahaya.
+
+#### 7.12.6 The Veiled Continent — daratan terpencil dengan teluk tertutup
+
+**Siluet yang diusulkan**
+- Daratan besar-kedua dalam proposal luas awal, memanjang diagonal dengan satu sisi relatif halus dan sisi lain sangat berlekuk.
+- Satu teluk dalam atau laut pedalaman terbuka ke samudra melalui selat yang relatif sempit; hubungan ini membuat pesisir bagian dalam berbeda dari pesisir luar.
+- Satu semenanjung panjang menjorok dari sisi timur, sementara bagian barat memiliki beberapa teluk yang lebih kecil.
+- Bentuknya harus tetap terbaca sebagai satu benua, bukan kumpulan pulau yang kebetulan berdekatan.
+
+**Rangka relief yang diusulkan**
+- Pegunungan utama berada dekat salah satu pesisir panjang, dengan dataran tinggi sekunder di sisi berlawanan.
+- Cekungan besar di pedalaman dapat mengalir ke teluk tertutup atau membentuk danau besar; status hidrologinya perlu diuji setelah iklim ditentukan.
+- Beberapa sungai mengalir ke teluk dalam, sementara sungai lain menuju pesisir luar.
+- Pegunungan, cekungan, dan akses laut yang terbatas dapat menghasilkan wilayah-wilayah yang secara geografis terpisah tanpa perlu anomali supernatural.
+
+**Fungsi geografis dalam rancangan**
+- Teluk tertutup dan jarak dari kelompok utama memberi bentuk geografis yang khas serta tantangan navigasi.
+- Nama Veiled tidak berarti benua ini tertutup kabut permanen, tidak berpenghuni, atau secara ajaib tersembunyi.
+
+#### 7.12.7 Aturan bersama untuk enam siluet
+
+1. Setiap benua harus tetap dapat dikenali dari siluet hitam tanpa label.
+2. Hindari enam bentuk yang terlalu simetris atau memiliki pola teluk dan semenanjung yang berulang.
+3. Pegunungan tidak boleh ditempatkan hanya untuk mengisi ruang kosong; rangkaian relief harus dapat dijelaskan melalui proses geologi yang kelak dipilih.
+4. Sungai mengikuti elevasi dan daerah aliran sungai. Sungai tidak menyeberangi punggung pegunungan tanpa sumber dan jalur yang masuk akal.
+5. Teluk, selat, dan semenanjung harus memiliki dampak terhadap garis pantai dan konektivitas, bukan sekadar dekorasi peta.
+6. Jangan menetapkan nama fitur geografis individual sebelum siluet makro disetujui.
+7. Jangan menempatkan kota, negara, lokasi canon, fasilitas Bumi, atau 13 Prasasti pada tahap ini.
+8. Proporsi luas benua yang sudah tercatat tetap berupa proposal dan harus diuji terhadap siluet, bukan diperlakukan sebagai pengukuran final.
+
+### 7.13 Urutan pengerjaan setelah rancangan siluet
+
+1. Buat enam siluet hitam-putih tanpa relief dan tanpa label fitur kecil.
+2. Uji apakah masing-masing benua dapat dibedakan dari bentuk luarnya.
+3. Uji proporsi luas relatif dan ruang samudra pada globe.
+4. Pilih model tektonik kasar yang dapat menjelaskan pegunungan, busur vulkanik, cekungan, dan garis pantai.
+5. Tambahkan rangka pegunungan, dataran tinggi, cekungan, dan daerah aliran sungai.
+6. Baru tentukan iklim, arus laut, angin, bioma, dan variasi musim.
+7. Setelah peta fisik makro stabil, baru tempatkan negara, permukiman, rute, dan lokasi cerita.
+
+**Batas tahap ini:** rancangan siluet dan relief adalah usulan kreatif untuk diuji. Tidak ada nama fitur geografis baru, lokasi cerita baru, atau fakta geografi yang masuk CANON melalui bagian ini.
+
 ### 7.11 Prinsip pembentukan peta fisik
 
 Saat sketsa pertama dibuat, urutkan keputusan dari skala besar ke kecil:
