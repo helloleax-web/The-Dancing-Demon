@@ -449,6 +449,108 @@ Untuk tahap ini, jangan menetapkan bahwa:
 6. Letak ekspedisi Buku I belum boleh ditentukan hanya karena disebut “jalur utara”.
 7. Peta pertama cukup menunjukkan enam daratan, perairan besar, dan garis lintang perkiraan; detail fisik menyusul setelah komposisi disetujui.
 
+### 7.26 Penempatan makro enam benua pada sembilan lempeng
+
+**Status: CATATAN PENGEMBANGAN / NON-CANON.** Bagian ini menghubungkan rancangan enam benua pada 7.7–7.12 dengan partisi lempeng V1.0 pada 7.25. Penempatan ini merupakan rancangan spasial aktif untuk diuji, bukan koordinat geografis final dan bukan keputusan CANON.
+
+#### 7.26.1 Prinsip penempatan
+
+- Setiap benua utama ditempatkan pada lempeng pembawa dengan nama yang berpadanan.
+- Benua tidak harus memenuhi seluruh permukaan lempeng. Sebagian besar lempeng pembawa dapat berupa kerak samudra.
+- Tiga lempeng samudra (Samudra Utara, Samudra Barat, Samudra Timur-Selatan) untuk tahap ini tidak membawa salah satu dari enam benua utama.
+- Garis batas lempeng tidak sama dengan garis pantai. Sebuah benua dapat memiliki pesisir yang jauh dari batas lempeng, dan sebagian batas lempeng dapat berada di dasar samudra.
+- Posisi benua harus mempertahankan komposisi satu kelompok utama dan tiga daratan terpencil dari 7.8, tetapi jarak dan orientasi masih berupa hubungan relatif.
+
+#### 7.26.2 Pemetaan benua ke lempeng pembawa
+
+| Benua | Lempeng pembawa | Porsi dari total luas daratan (proposal 7.7) | Target luas lempeng (7.21) | Catatan penempatan |
+|---|---|---:|---:|---|
+| The Central Reach | Central (CR) | 24% | 18% permukaan planet | Daratan terbesar; jangkar kelompok utama. Sisakan margin samudra lebar di dalam lempeng. |
+| The Verdant Wilds | Verdant (VW) | 18% | 12% permukaan planet | Bagian barat daya kelompok utama; laut regional memisahkannya dari Central dan Sands. |
+| The Sunken Sands | Sands (SS) | 13% | 10% permukaan planet | Bagian tenggara kelompok utama; dekat secara pelayaran dengan Central dan Verdant. |
+| The Frostbound Expanse | Frost (FR) | 15% | 8% permukaan planet | Daratan terpencil lintang tinggi; dikelilingi margin samudra pada lempeng pembawanya. |
+| The Ashen Frontier | Ashen (AF) | 9% | 7% permukaan planet | Daratan terpencil di belahan selatan/lintang menengah; aktivitas tektonik lokal belum ditetapkan. |
+| The Veiled Continent | Veiled (VC) | 21% | 11% permukaan planet | Daratan terpencil yang paling jauh dari jaringan kelompok utama dalam rancangan relatif. |
+
+Angka luas benua adalah porsi dari total luas daratan enam benua. Angka luas lempeng adalah porsi dari seluruh permukaan planet. Keduanya memakai penyebut berbeda dan tidak dapat dibandingkan langsung.
+
+#### 7.26.3 Susunan relatif yang dipilih untuk sketsa makro
+
+Pertahankan komposisi konseptual berikut:
+- **Kelompok utama:** Central Reach sebagai jangkar; Verdant Wilds di sisi barat daya; Sunken Sands di sisi tenggara.
+- **Frostbound Expanse:** berada di kawasan lintang tinggi belahan utara dan terpisah dari kelompok utama oleh samudra luas.
+- **Ashen Frontier:** berada di belahan selatan pada lintang menengah dan dipisahkan samudra luas dari kelompok utama.
+- **Veiled Continent:** ditempatkan paling terpencil dari jalur hubungan kelompok utama, pada belahan selatan atau tenggara sebagai kandidat.
+
+Hubungan ini adalah komposisi relatif. Belum ada bujur, lintang geografis, jarak kilometer, atau durasi pelayaran yang ditetapkan.
+
+#### 7.26.4 Hubungan topologi lempeng dan ruang benua
+
+Graf 7.17 memberi ketetanggaan lempeng, bukan kedekatan garis pantai. Hubungan relevan untuk penempatan:
+- Central bertetangga dengan Verdant, Sands, Frost, Ashen, dan Veiled.
+- Verdant bertetangga dengan Central, Sands, Frost, dan Ashen.
+- Sands bertetangga dengan Central, Verdant, Frost, Ashen, dan Veiled.
+- Frost bertetangga dengan Central, Verdant, dan Sands.
+- Ashen bertetangga dengan Central, Verdant, Sands, dan Veiled.
+- Veiled bertetangga dengan Central, Sands, dan Ashen.
+
+Konsekuensi desain: keterpencilan benua ditentukan oleh posisi daratan di dalam lempeng, lebar margin samudra, dan jaringan laut—bukan oleh ketiadaan batas lempeng dengan lempeng lain. Batas antara dua lempeng dapat membentang di dasar samudra tanpa membuat dua benua di atasnya saling bersentuhan.
+
+#### 7.26.5 Skema konseptual (bukan peta berskala)
+
+```text
+                              UTARA
+
+                     [FROSTBOUND EXPANSE]
+                         Lempeng Frost
+                       (margin samudra luas)
+
+
+      [VERDANT WILDS]       [CENTRAL REACH]
+       Lempeng Verdant       Lempeng Central
+                 \             /
+                  \  laut     /
+                   \ regional/
+                    [SUNKEN SANDS]
+                     Lempeng Sands
+
+
+                         samudra luas
+
+                    [ASHEN FRONTIER]
+                     Lempeng Ashen
+
+
+                 samudra luas / akses jauh
+
+                    [VEILED CONTINENT]
+                     Lempeng Veiled
+
+                              SELATAN
+```
+
+Skema ini hanya menjelaskan susunan relatif dari rancangan 7.8. Tidak menunjukkan bentuk poligon lempeng V1.0, koordinat, ukuran, atau garis pantai sebenarnya.
+
+#### 7.26.6 Pemeriksaan konsistensi dan batas tahap
+
+- Keenam benua dipasangkan satu-ke-satu dengan enam lempeng pembawa.
+- Tiga lempeng samudra tetap menjadi wilayah kerak samudra pada rancangan awal.
+- Porsi luas daratan 24/21/18/15/13/9 tetap berjumlah 100% dari total luas daratan.
+- Target luas lempeng 18/12/10/8/7/11/14/11/9 tetap berjumlah 100% dari permukaan planet.
+- Tidak ada benua yang dinyatakan memenuhi seluruh luas lempeng pembawanya.
+- Tidak ada batas lempeng yang disamakan dengan garis pantai.
+- Tidak ada koordinat geografis yang diturunkan dari koordinat matematis 7.25.
+
+Belum diuji:
+1. Apakah siluet keenam benua dapat ditempatkan di dalam poligon lempeng V1.0 tanpa melewati batas.
+2. Berapa luas daratan absolut terhadap seluruh permukaan planet.
+3. Apakah margin samudra tiap lempeng cukup untuk mempertahankan susunan relatif.
+4. Orientasi geografis final, garis khatulistiwa, kutub, dan kemiringan sumbu.
+5. Kesesuaian iklim, arus laut, relief, dan geodinamika.
+6. Lokasi cerita, negara, kota, dan rute ekspedisi.
+
+**Kesimpulan kerja:** enam benua sekarang memiliki lempeng pembawa yang jelas dan susunan relatif makro yang konsisten dengan rancangan kelompok utama plus tiga daratan terpencil. Tahap ini belum menghasilkan peta geografis berskala. Langkah berikutnya adalah menguji siluet enam benua di dalam poligon lempeng V1.0, kemudian membuat sketsa peta dunia draft dengan garis pantai dan margin samudra yang tidak melanggar batas lempeng.
+
 ### 7.11 Prinsip pembentukan peta fisik
 
 Saat sketsa pertama dibuat, urutkan keputusan dari skala besar ke kecil:
