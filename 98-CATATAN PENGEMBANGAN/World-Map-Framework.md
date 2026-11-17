@@ -766,6 +766,104 @@ Jumlah lempeng harus menjadi hasil rancangan geologi, bukan target yang dipaksak
 
 **Keputusan yang belum dibuat:** jumlah lempeng final, konfigurasi triple junction, arah gerak, kecepatan, umur tektonik, dan sejarah geologi planet.
 
+### 7.16 Matriks gerak relatif dan audit kandidat triple junction
+
+**Status: CATATAN PENGEMBANGAN / NON-CANON.** Bagian ini menetapkan hubungan gerak relatif secara kualitatif untuk segmen batas kandidat. Ini bukan model kinematika lempeng lengkap. Tanpa koordinat batas, orientasi segmen, dan kutub rotasi tiap lempeng pada globe, arah gerak global dan kestabilan triple junction tidak dapat divalidasi secara matematis.
+
+#### 7.16.1 Aturan membaca matriks
+
+- “Menuju” dan “menjauh” selalu dibaca relatif terhadap lempeng pasangannya pada segmen batas yang disebut.
+- Arah kompas global belum ditetapkan. Arah gerak relatif pada satu segmen tidak otomatis berlaku untuk seluruh sisi lempeng.
+- Batas transform memerlukan arah geser sejajar batas; arah ini belum dapat dipilih tanpa orientasi garis batas.
+- Tidak ada nilai kecepatan cm/tahun yang ditetapkan.
+- Setiap segmen tetap harus diperiksa pada peta globe agar tidak menghasilkan gerak yang saling bertentangan.
+
+#### 7.16.2 Matriks hubungan gerak relatif kandidat
+
+| Segmen | Pasangan lempeng | Hubungan gerak relatif yang dipilih untuk diuji | Jenis batas kerja | Status |
+|---|---|---|---|---|
+| N1 | Samudra Utara — Frost | Saling mendekat; kerak Samudra Utara menjadi kandidat lempeng penunjam | Konvergen / subduksi ke bawah Frost | Hipotesis |
+| N2 | Samudra Utara — Central | Saling mendekat; identitas lempeng penunjam belum dipilih | Konvergen | Belum lengkap |
+| W1 | Samudra Barat — Verdant | Saling mendekat; Samudra Barat menjadi kandidat lempeng penunjam | Konvergen / subduksi ke bawah Verdant | Hipotesis |
+| W2 | Samudra Barat — Ashen | Saling mendekat; Samudra Barat menjadi kandidat lempeng penunjam | Konvergen / subduksi ke bawah Ashen | Hipotesis |
+| E1 | Samudra Timur-Selatan — Sands | Belum ditentukan; sebagian margin dapat pasif | Belum ditetapkan | Terbuka |
+| S1 | Samudra Timur-Selatan — Ashen | Belum dipilih antara saling mendekat atau geser sejajar | Konvergen atau transform; jangan gunakan keduanya pada segmen yang sama tanpa geometri yang jelas | Terbuka |
+| S2 | Samudra Timur-Selatan — Veiled | Saling mendekat; Samudra Timur-Selatan menjadi kandidat lempeng penunjam | Konvergen / subduksi ke bawah Veiled | Hipotesis |
+| R1 | Samudra Utara — Samudra Barat | Saling menjauh pada segmen pemekaran yang diusulkan | Divergen | Hipotesis |
+| R2 | Samudra Utara — Samudra Timur-Selatan | Belum ditentukan | Divergen atau transform, menunggu orientasi batas | Terbuka |
+| R3 | Samudra Barat — Samudra Timur-Selatan | Saling menjauh pada segmen pemekaran yang diusulkan | Divergen | Hipotesis |
+
+Matriks ini sengaja belum memberi arah utara/selatan/timur/barat dan kecepatan. Pernyataan “saling mendekat” atau “saling menjauh” adalah batasan kinematik yang lebih aman daripada panah global rekaan.
+
+#### 7.16.3 Uji kandidat triple junction TJ-A
+
+**Kandidat anggota:** Lempeng Samudra Utara (NO), Lempeng Frost (FR), dan Lempeng Central (CR).
+
+**Kondisi yang harus dipenuhi:**
+- NO–FR adalah kandidat batas konvergen.
+- NO–CR adalah kandidat batas konvergen.
+- FR–CR harus memiliki batas ketiga yang jelas; jenis dan arah geraknya belum ditetapkan.
+- Ketiga segmen harus bertemu pada satu titik yang sama secara geometris.
+
+**Hasil audit:** **BELUM LOLOS / DATA TIDAK CUKUP.** Dua batas konvergen yang berdekatan tidak otomatis membentuk triple junction yang stabil. Hubungan FR–CR dan orientasi ketiga batas belum tersedia. Kandidat ini tetap boleh dipakai sebagai titik uji pada sketsa berikutnya, bukan sebagai fakta peta.
+
+#### 7.16.4 Uji kandidat triple junction TJ-B
+
+**Kandidat anggota:** Lempeng Samudra Barat (WO), Lempeng Ashen (AF), dan Lempeng Central (CR).
+
+**Kondisi yang harus dipenuhi:**
+- WO–AF adalah kandidat batas konvergen dengan subduksi ke bawah AF.
+- WO–CR belum memiliki segmen batas yang dipetakan secara eksplisit pada jaringan sebelumnya.
+- AF–CR juga belum memiliki jenis batas dan orientasi yang ditetapkan.
+- Ketiga batas harus benar-benar bertemu, bukan hanya berdekatan dalam ilustrasi.
+
+**Hasil audit:** **BELUM LOLOS / TOPOLOGI BELUM LENGKAP.** Dua dari tiga sisi hubungan belum didefinisikan. Jangan memberi simbol triple junction pada peta sampai ketiga pasangan batas ditemukan dan arah geraknya kompatibel.
+
+#### 7.16.5 Uji kandidat triple junction TJ-C
+
+**Kandidat anggota:** Lempeng Samudra Timur-Selatan (SE), Lempeng Veiled (VC), dan Lempeng Central (CR).
+
+**Kondisi yang harus dipenuhi:**
+- SE–VC adalah kandidat batas konvergen dengan subduksi ke bawah VC.
+- SE–CR belum memiliki segmen batas yang ditetapkan.
+- VC–CR belum memiliki batas langsung yang ditetapkan; kedekatan visual tidak cukup untuk membuktikan kontak tektonik.
+- Jika Ashen atau lempeng lain berada di antara Central dan Veiled pada geometri final, kandidat TJ-C ini tidak dapat dipakai tanpa mengubah tata letak lempeng.
+
+**Hasil audit:** **TIDAK LOLOS PADA TOPOLOGI SAAT INI.** Keanggotaan Central sebagai anggota titik ini tidak didukung jaringan batas yang telah didefinisikan. Kandidat perlu dipindah atau diganti setelah peta batas dibuat.
+
+#### 7.16.6 Ringkasan hasil uji
+
+| Kandidat | Anggota yang diusulkan | Hasil sementara | Kekurangan utama |
+|---|---|---|---|
+| TJ-A | NO — FR — CR | Belum lolos | Batas FR–CR dan geometri titik belum ada |
+| TJ-B | WO — AF — CR | Belum lolos | Batas WO–CR dan AF–CR belum didefinisikan |
+| TJ-C | SE — VC — CR | Tidak lolos pada topologi saat ini | Batas SE–CR dan VC–CR tidak didukung; kemungkinan terhalang lempeng lain |
+
+**Tidak ada triple junction yang dinyatakan tervalidasi pada tahap ini.** Tiga titik pada ilustrasi V0.2/V0.3 harus dibaca sebagai penanda kandidat yang belum lulus audit, bukan lokasi final.
+
+#### 7.16.7 Data yang diperlukan untuk validasi sungguhan
+
+Untuk menguji kestabilan triple junction dan konsistensi arah gerak, pekerjaan berikutnya harus menghasilkan:
+1. Peta globe dengan koordinat atau proyeksi yang diketahui.
+2. Poligon batas untuk setiap lempeng, termasuk seluruh batas samudra.
+3. Orientasi dan jenis setiap segmen batas.
+4. Identitas lempeng penunjam pada setiap zona subduksi.
+5. Kutub rotasi Euler dan kecepatan sudut tiap lempeng, atau model gerak relatif ekuivalen.
+6. Pemeriksaan apakah kecepatan relatif pada ketiga batas di setiap triple junction saling kompatibel.
+7. Pemeriksaan apakah seluruh batas membentuk jaringan tertutup tanpa ujung bebas yang tidak dijelaskan.
+
+Sebelum data tersebut tersedia, angka kecepatan, arah kompas global, serta klaim “triple junction stabil” tidak boleh ditulis sebagai hasil audit.
+
+#### 7.16.8 Koreksi status visual tektonik
+
+- Peta Tektonik V0.1, V0.2, dan V0.3 adalah ilustrasi pengembangan, bukan peta geologi yang telah tervalidasi.
+- Panah, kecepatan, garis batas, lokasi triple junction, garis waktu, dan penampang pada gambar AI tidak menjadi data hanya karena tergambar dengan detail.
+- Tabel kecepatan dan arah yang muncul dalam gambar V0.2/V0.3 **ditolak sebagai data proyek** sampai dihitung atau diputuskan melalui model yang dapat diperiksa.
+- Untuk revisi visual berikutnya, tampilkan batas yang sudah didefinisikan saja; gunakan garis putus-putus atau label “belum diuji” untuk batas kandidat.
+- Jangan menampilkan simbol triple junction sebagai fakta. Gunakan simbol kandidat yang berbeda dan sertakan status auditnya.
+
+**Kesimpulan kerja:** hubungan gerak relatif hanya dapat ditetapkan sementara pada beberapa pasangan batas. Ketiga kandidat triple junction belum lolos audit. Langkah yang benar adalah menyusun geometri batas lempeng global terlebih dahulu, lalu menguji gerak dan titik pertemuan berdasarkan geometri tersebut.
+
 ### 7.11 Prinsip pembentukan peta fisik
 
 Saat sketsa pertama dibuat, urutkan keputusan dari skala besar ke kecil:
