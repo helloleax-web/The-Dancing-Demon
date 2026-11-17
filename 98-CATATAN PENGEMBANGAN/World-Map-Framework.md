@@ -551,6 +551,39 @@ Belum diuji:
 
 **Kesimpulan kerja:** enam benua sekarang memiliki lempeng pembawa yang jelas dan susunan relatif makro yang konsisten dengan rancangan kelompok utama plus tiga daratan terpencil. Tahap ini belum menghasilkan peta geografis berskala. Langkah berikutnya adalah menguji siluet enam benua di dalam poligon lempeng V1.0, kemudian membuat sketsa peta dunia draft dengan garis pantai dan margin samudra yang tidak melanggar batas lempeng.
 
+### 7.27 Peta dunia konseptual — Draft V1
+
+**Status: CATATAN PENGEMBANGAN / NON-CANON.** Bagian ini mencatat komposisi visual makro enam benua untuk Draft V1. Peta dibuat sebagai sketsa hubungan relatif, bukan peta koordinat geografis dan bukan hasil overlay tervalidasi dari poligon lempeng V1.0.
+
+#### 7.27.1 Komposisi yang ditampilkan
+
+Draft V1 menampilkan:
+- **Kelompok utama:** Central Reach sebagai daratan jangkar, Verdant Wilds di sisi barat daya, dan Sunken Sands di sisi tenggara.
+- **Daratan terpencil:** Frostbound Expanse di kawasan utara, Ashen Frontier di belahan selatan, dan Veiled Continent lebih jauh di sisi tenggara/selatan.
+- Ruang samudra luas memisahkan tiga daratan terpencil dari kelompok utama.
+- Setiap benua memakai siluet berbeda yang mengambil karakter awal dari 7.12.
+- Garis relief di dalam benua hanya tanda visual pegunungan/dataran tinggi kandidat, bukan data elevasi atau rangkaian pegunungan yang sudah ditetapkan.
+
+#### 7.27.2 Aturan interpretasi peta
+
+Peta Draft V1:
+- Tidak berskala dan belum memakai proyeksi geografis yang ditentukan.
+- Tidak menetapkan garis lintang, bujur, jarak, waktu pelayaran, atau ukuran absolut.
+- Tidak menampilkan batas lempeng karena overlay geometri belum diverifikasi.
+- Tidak membuktikan bahwa keenam siluet sudah muat di dalam poligon lempeng pembawanya.
+- Tidak menetapkan iklim, arus laut, angin, negara, kota, atau lokasi cerita.
+- Tidak mengubah porsi luas relatif 24/21/18/15/13/9 dari 7.7 menjadi pengukuran aktual; ukuran visual hanya pendekatan komposisi.
+
+#### 7.27.3 Pemeriksaan konsistensi makro
+
+- Enam nama benua sesuai daftar pada 7.7 dan 7.26.
+- Kelompok utama tetap terdiri dari Central Reach, Verdant Wilds, dan Sunken Sands.
+- Frostbound, Ashen, dan Veiled tetap diperlakukan sebagai tiga daratan terpencil.
+- Tidak ada lokasi cerita canon yang dipindahkan atau diberi koordinat.
+- Tidak ada perubahan pada target luas lempeng V1.0.
+
+**Kesimpulan kerja:** Draft V1 menyediakan satu gambaran visual awal untuk menilai keseimbangan komposisi enam benua dan ruang samudra. Draft ini dapat direvisi setelah pengujian geometri lempeng, garis pantai, orientasi globe, dan kebutuhan cerita. Statusnya tetap NON-CANON.
+
 ### 7.11 Prinsip pembentukan peta fisik
 
 Saat sketsa pertama dibuat, urutkan keputusan dari skala besar ke kecil:
