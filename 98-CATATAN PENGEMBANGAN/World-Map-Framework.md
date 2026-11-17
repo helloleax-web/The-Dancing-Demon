@@ -864,6 +864,112 @@ Sebelum data tersebut tersedia, angka kecepatan, arah kompas global, serta klaim
 
 **Kesimpulan kerja:** hubungan gerak relatif hanya dapat ditetapkan sementara pada beberapa pasangan batas. Ketiga kandidat triple junction belum lolos audit. Langkah yang benar adalah menyusun geometri batas lempeng global terlebih dahulu, lalu menguji gerak dan titik pertemuan berdasarkan geometri tersebut.
 
+### 7.17 Kerangka topologi globe — sembilan wilayah lempeng
+
+**Status: CATATAN PENGEMBANGAN / NON-CANON.** Bagian ini menyusun satu kerangka topologi abstrak untuk sembilan lempeng kandidat. Tujuannya memastikan bahwa hubungan ketetanggaan dan titik pertemuan dapat membentuk pembagian permukaan bola yang tertutup. Ini belum merupakan peta geografis, peta koordinat, atau bukti bahwa konfigurasi tersebut dapat bertahan secara geodinamik.
+
+#### 7.17.1 Metode konstruksi
+
+Untuk menguji topologi tanpa mengarang koordinat, sembilan lempeng diperlakukan sebagai sembilan wilayah pada permukaan bola. Batas antarwilayah bertemu pada simpul yang masing-masing mempertemukan tepat tiga lempeng.
+
+Kerangka abstrak dibangun sebagai triangulasi bola:
+- 9 wilayah lempeng.
+- 14 simpul pertemuan tiga lempeng.
+- 21 segmen batas yang menghubungkan simpul-simpul tersebut.
+- Setiap simpul mempertemukan tepat 3 lempeng.
+- Setiap segmen batas memisahkan tepat 2 lempeng.
+- Setiap pasangan lempeng bertetangga berbagi satu segmen batas konseptual.
+
+Pemeriksaan Euler untuk pembagian bola:
+`V - E + F = 14 - 21 + 9 = 2`
+
+Hasil ini menunjukkan konsistensi kombinatorial sebuah pembagian bola tertutup. **Ini hanya pemeriksaan topologi**, bukan validasi bentuk, ukuran, gerak, atau proses geologi nyata.
+
+#### 7.17.2 Empat belas simpul kandidat
+
+Setiap baris di bawah adalah satu simpul tempat tiga wilayah lempeng bertemu. Kode simpul bersifat administratif dan tidak menetapkan lokasi geografis.
+
+| Simpul | Tiga lempeng yang bertemu |
+|---|---|
+| TJ-01 | Ashen — Central — Verdant |
+| TJ-02 | Samudra Barat — Ashen — Verdant |
+| TJ-03 | Samudra Barat — Verdant — Sands |
+| TJ-04 | Samudra Barat — Sands — Ashen |
+| TJ-05 | Veiled — Ashen — Sands |
+| TJ-06 | Timur-Selatan — Veiled — Sands |
+| TJ-07 | Timur-Selatan — Sands — Central |
+| TJ-08 | Timur-Selatan — Central — Veiled |
+| TJ-09 | Veiled — Central — Ashen |
+| TJ-10 | Samudra Utara — Central — Verdant |
+| TJ-11 | Samudra Utara — Verdant — Frost |
+| TJ-12 | Samudra Utara — Frost — Central |
+| TJ-13 | Central — Sands — Frost |
+| TJ-14 | Verdant — Sands — Frost |
+
+Simpul TJ-01 sampai TJ-14 adalah hasil konstruksi abstrak. Nama-nama ini tidak menyatakan bahwa titik tersebut berada di utara, selatan, dekat benua tertentu, atau telah terbentuk secara geologis.
+
+#### 7.17.3 Dua puluh satu hubungan ketetanggaan
+
+Daftar ini menunjukkan pasangan wilayah lempeng yang berbagi satu segmen batas dalam kerangka abstrak.
+
+| No. | Pasangan lempeng bertetangga | Simpul di kedua ujung segmen |
+|---:|---|---|
+| 1 | Ashen — Central | TJ-01, TJ-09 |
+| 2 | Ashen — Sands | TJ-04, TJ-05 |
+| 3 | Ashen — Veiled | TJ-05, TJ-09 |
+| 4 | Ashen — Verdant | TJ-01, TJ-02 |
+| 5 | Ashen — Samudra Barat | TJ-02, TJ-04 |
+| 6 | Central — Frost | TJ-12, TJ-13 |
+| 7 | Central — Samudra Utara | TJ-10, TJ-12 |
+| 8 | Central — Timur-Selatan | TJ-07, TJ-08 |
+| 9 | Central — Sands | TJ-07, TJ-13 |
+| 10 | Central — Veiled | TJ-08, TJ-09 |
+| 11 | Central — Verdant | TJ-01, TJ-10 |
+| 12 | Frost — Samudra Utara | TJ-11, TJ-12 |
+| 13 | Frost — Sands | TJ-13, TJ-14 |
+| 14 | Frost — Verdant | TJ-11, TJ-14 |
+| 15 | Verdant — Samudra Utara | TJ-10, TJ-11 |
+| 16 | Timur-Selatan — Sands | TJ-06, TJ-07 |
+| 17 | Timur-Selatan — Veiled | TJ-06, TJ-08 |
+| 18 | Sands — Veiled | TJ-05, TJ-06 |
+| 19 | Sands — Verdant | TJ-03, TJ-14 |
+| 20 | Sands — Samudra Barat | TJ-03, TJ-04 |
+| 21 | Verdant — Samudra Barat | TJ-02, TJ-03 |
+
+Hubungan ini adalah daftar ketetanggaan abstrak. Ia belum menentukan apakah segmen batas tersebut konvergen, divergen, transform, atau pasif. Jenis batas harus diputuskan terpisah setelah orientasi dan gerak relatif diuji.
+
+#### 7.17.4 Diagram hubungan konseptual
+
+Gunakan diagram jaringan dengan aturan:
+- Setiap label lempeng adalah satu wilayah.
+- Setiap garis menghubungkan dua lempeng yang berbagi batas.
+- Setiap TJ-01 sampai TJ-14 menjadi satu simpul yang menghubungkan tiga batas.
+- Diagram jaringan tidak memakai jarak atau arah kompas.
+- Jangan mengubah diagram jaringan menjadi peta planar biasa lalu menganggap persilangan garis sebagai pertemuan lempeng; hanya simpul bernomor yang merupakan titik pertemuan.
+
+Kerangka ini dapat diproyeksikan ke globe hanya setelah urutan keliling batas di sekitar setiap wilayah ditetapkan. Daftar ketetanggaan saja belum menentukan bentuk poligon setiap lempeng.
+
+#### 7.17.5 Pemeriksaan konsistensi yang sudah dapat dilakukan
+
+- Semua 9 lempeng muncul dalam jaringan.
+- Terdapat 14 simpul, masing-masing beranggotakan 3 lempeng.
+- Terdapat 21 pasangan lempeng bertetangga.
+- Setiap pasangan bertetangga tercatat pada dua simpul ujung segmen.
+- Rumus Euler untuk pembagian bola terpenuhi: V-E+F=2.
+- Tidak ada klaim koordinat, skala, kecepatan, atau arah gerak global yang dibuat oleh konstruksi ini.
+
+#### 7.17.6 Batas validasi dan pekerjaan berikutnya
+
+Kerangka ini **belum membuktikan**:
+1. Bahwa keenam benua dapat ditempatkan sesuai komposisi peta fisik sebelumnya tanpa mengubah ketetanggaan.
+2. Bahwa tiga lempeng samudra mempunyai bentuk dan luas yang masuk akal.
+3. Bahwa setiap wilayah lempeng dapat digambar sebagai poligon bola yang tidak saling tumpang tindih.
+4. Bahwa urutan segmen di sekitar setiap lempeng konsisten dan tidak menghasilkan batas silang.
+5. Bahwa jenis batas dan arah gerak dapat memenuhi seluruh simpul secara kinematik.
+6. Bahwa 14 triple junction tersebut stabil secara geologis.
+
+**Keputusan kerja:** gunakan kerangka 9 wilayah, 14 simpul, dan 21 segmen sebagai model topologi abstrak untuk tahap penggambaran globe. Tiga kandidat TJ-A/B/C dari bagian 7.16 tetap berstatus belum lolos; jangan menyamakan atau memetakan ulang kandidat lama secara otomatis ke TJ-01 sampai TJ-14. Setelah poligon globe dibuat, audit ulang seluruh hubungan dan hapus atau ubah simpul yang tidak cocok.
+
 ### 7.11 Prinsip pembentukan peta fisik
 
 Saat sketsa pertama dibuat, urutkan keputusan dari skala besar ke kecil:
