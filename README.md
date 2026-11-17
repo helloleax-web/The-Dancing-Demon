@@ -5,7 +5,7 @@ Dokumen ini adalah pusat dokumentasi dunia LEAX. Isinya memisahkan fakta yang su
 
 ### Status informasi
 - **CANON** — telah ditetapkan oleh kreator.
-- **DRAFT / PROPOSAL** — usulan pengembangan; belum menjadi fakta resmi.
+- **CATATAN PENGEMBANGAN** — usulan pengembangan; belum menjadi fakta resmi.
 - **MYSTERY** — sengaja belum diketahui atau belum boleh dijawab.
 - **UNKNOWN** — belum ditentukan.
 - **OPEN QUESTION** — keputusan yang masih perlu dibuat.
@@ -13,15 +13,17 @@ Dokumen ini adalah pusat dokumentasi dunia LEAX. Isinya memisahkan fakta yang su
 
 ### Aturan utama
 1. Jangan mengubah canon tanpa persetujuan kreator.
-2. Jangan mengangkat proposal menjadi canon secara diam-diam.
+2. Jangan mengangkat usulan pengembangan menjadi canon secara diam-diam.
 3. Jangan mengisi misteri dengan tebakan.
 4. Jika ada kontradiksi, catat dan ajukan opsi penyelesaian.
 5. Setiap keputusan canon baru harus dicatat di `99-ADMIN/Canon-Changelog.md`.
 
-### Struktur
-- `01-CANON/` — fakta resmi dunia.
-- `02-DRAFTS/` — rancangan yang belum disahkan.
-- `99-ADMIN/` — catatan perubahan dan hal yang belum diputuskan.
+### Struktur repository
+- `00-CORE/` — dokumentasi inti dunia, sistem mana, cerita, karakter/lokasi/organisasi, dan kontinuitas.
+- `01-CANON/` — dokumen kanon tentang dunia, peradaban kuno, kosmologi, Great War, prasasti, International Authority, dan KVK.
+- `98-CATATAN PENGEMBANGAN/` — usulan dan rancangan yang belum disahkan sebagai kanon.
+- `99-ADMIN/` — changelog kanon dan pertanyaan terbuka.
+- `BACA-DULU.md` — panduan untuk paket dokumen lanjutan.
 
 ### Catatan
-Dokumen ini merupakan konsolidasi berdasarkan informasi yang tersedia dalam percakapan worldbuilding. Bagian yang belum memiliki dasar canon secara eksplisit ditandai sebagai draft atau unknown.
+Dokumen ini merupakan konsolidasi berdasarkan informasi yang tersedia dalam percakapan worldbuilding. Bagian yang belum memiliki dasar canon secara eksplisit ditandai sebagai catatan pengembangan atau unknown.

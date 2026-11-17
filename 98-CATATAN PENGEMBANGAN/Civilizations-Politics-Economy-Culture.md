@@ -1,6 +1,6 @@
 # Civilizations, Politics, Economy, and Culture
 
-**Status: DRAFT / PROPOSAL — belum disahkan.**
+**Status: CATATAN PENGEMBANGAN — usulan belum disahkan.**
 
 ## Bentuk pemerintahan yang dapat digunakan
 - Monarki.

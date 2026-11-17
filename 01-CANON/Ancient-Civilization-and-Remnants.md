@@ -4,6 +4,7 @@
 
 ## Peradaban kuno
 - Peradaban kuno telah musnah sepenuhnya.
+- Kehancuran peradaban kuno tidak otomatis berarti seluruh bentuk kehidupan musnah. Pola dan jumlah penyintas belum ditentukan.
 - Kehancurannya disebabkan oleh entitas kosmik.
 - Tingkat teknologinya jauh melampaui peradaban modern dalam sejumlah bidang.
 - Tidak boleh diasumsikan unggul dalam segala hal.

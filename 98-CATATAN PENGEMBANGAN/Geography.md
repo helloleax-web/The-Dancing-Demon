@@ -1,6 +1,6 @@
 # Geography and World Structure
 
-**Status: DRAFT / PROPOSAL — belum disahkan.**
+**Status: CATATAN PENGEMBANGAN — usulan belum disahkan.**
 
 ## Bentuk dunia
 Usulan awal: planet dengan geografi fisik normal, benua, pulau, samudra, pegunungan, dan wilayah bawah tanah. Ukuran, gravitasi, satelit, dan astronomi belum ditentukan.

@@ -6,7 +6,7 @@ batas informasi yang belum boleh diisi.
 ## Aturan status
 
 -   **CANON:** fakta resmi yang telah ditetapkan kreator.
--   **DRAFT / PROPOSAL:** rancangan yang belum disahkan.
+-   **CATATAN PENGEMBANGAN:** usulan yang belum disahkan.
 -   **UNKNOWN:** belum diketahui atau belum ditentukan.
 -   **MYSTERY:** informasi yang sengaja belum dijawab.
 -   **OPEN QUESTION:** keputusan yang masih menunggu kreator.
@@ -67,5 +67,5 @@ batas informasi yang belum boleh diisi.
 Paket ini menyusun dokumen inti berdasarkan fakta canon yang tersedia.
 Dokumen lama yang lebih rinci---terutama International Authority dan
 KVK---tetap menjadi rujukan untuk detail kelembagaan dan tidak
-digantikan oleh ringkasan ini. Bagian proposal lama tetap berstatus
-proposal sampai disahkan.
+digantikan oleh ringkasan ini. Materi proposal tetap berstatus
+CATATAN PENGEMBANGAN sampai disahkan.

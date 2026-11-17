@@ -1,6 +1,6 @@
 # Species and Creatures
 
-**Status: DRAFT / PROPOSAL — daftar berikut bukan daftar canon.**
+**Status: CATATAN PENGEMBANGAN — daftar berikut bukan daftar canon.**
 
 ## Kerangka klasifikasi yang diusulkan
 - Mortal Species.

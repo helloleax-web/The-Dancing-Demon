@@ -1,6 +1,6 @@
 # Story Framework
 
-**Status: DRAFT / PROPOSAL — belum disahkan.**
+**Status: CATATAN PENGEMBANGAN — usulan belum disahkan.**
 
 ## Struktur cerita yang diusulkan
 1. Opening Arc.

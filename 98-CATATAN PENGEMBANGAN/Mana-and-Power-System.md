@@ -1,6 +1,6 @@
 # Mana and Power System
 
-**Status: DRAFT / PROPOSAL — belum disahkan sebagai canon.**
+**Status: CATATAN PENGEMBANGAN — usulan belum disahkan sebagai canon.**
 
 Dokumen ini merangkum rancangan sistem kekuatan yang pernah diusulkan. Jangan menganggapnya sebagai fakta resmi dunia.
 

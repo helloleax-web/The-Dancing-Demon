@@ -26,7 +26,7 @@ Demon*. Gunakan `01-Ringkasan-Dunia.md` sebagai titik awal.
 ## Status informasi
 
 -   **CANON** --- telah ditetapkan kreator.
--   **DRAFT / PROPOSAL** --- belum disahkan.
+-   **CATATAN PENGEMBANGAN** --- usulan yang belum disahkan.
 -   **UNKNOWN** --- belum diketahui atau belum ditentukan.
 -   **MYSTERY** --- sengaja belum dijawab dalam cerita.
 -   **OPEN QUESTION** --- masih membutuhkan keputusan kreator.

@@ -6,14 +6,20 @@ Dokumen ini mencatat hal yang belum ditentukan. Jangan mengisi sendiri tanpa kep
 - Nama dunia.
 - Ukuran planet, satelit, astronomi, dan kalender.
 - Nama peradaban kuno.
-- Kronologi kehancuran peradaban kuno.
-- Sifat, motif, dan batas entitas kosmik.
+- Kronologi kehancuran peradaban kuno dan jarak waktu hingga era cerita.
+- Mekanisme kehancuran Bumi serta pola dan jumlah penyintas.
+- Proses terbentuknya dunia sekarang.
+- Motif, kesadaran, bentuk, dan batas kemampuan entitas kosmik.
+- Cara kerja pengaruh entitas kosmik secara rinci.
+- Hubungan kehancuran Bumi dengan Great War.
 
 ## 13 Prasasti
-- Isi, lokasi, pembuat, urutan penemuan, dan hubungan antarsesama prasasti.
+- Isi, lokasi, pembuat, urutan penemuan selain fakta tentang Prasasti pertama, dan hubungan antarsesama prasasti.
 
 ## Great War
-- Penyebab, pihak yang terlibat, durasi, lokasi, korban, dampak politik, dan asal NVR AGAIN.
+- Penyebab, pihak yang terlibat, durasi, lokasi, korban, dan dampak politik.
+- Asal-usul musik NVR AGAIN dan mekanisme jubah mana hitam.
+- Hubungan pasti Resonansi Hitam dengan 13 Prasasti.
 
 ## LEAX
 - Identitas dan latar belakang lengkap.
@@ -21,7 +27,8 @@ Dokumen ini mencatat hal yang belum ditentukan. Jangan mengisi sendiri tanpa kep
 - Hubungan dengan 13 Prasasti.
 
 ## Sistem kekuatan
-- Apakah model mana, core, circuit, kategori sihir, dan tingkatan penguasaan diterima sebagai canon.
+- Apakah model mana core dan mana circuit diterima sebagai bagian dari sistem.
+- Metode penggunaan mana, sumber kemampuan, jenis artefak, dan tingkatan penguasaan yang diusulkan.
 
 ## Spesies dan geografi
 - Spesies yang benar-benar ada.
@@ -29,19 +36,20 @@ Dokumen ini mencatat hal yang belum ditentukan. Jangan mengisi sendiri tanpa kep
 - Status naga dan makhluk legendaris.
 
 ## International Authority
-- Definisi final kategori anggota dan observer.
+- Definisi dan persyaratan final kategori anggota serta status observer.
 - Masa jabatan Ketua dan Wakil.
 - Masa tugas dan perpanjangan Ketua sementara.
 - Kuorum, prosedur sidang, dan mekanisme pemberhentian.
 
 ## KVK
-- Jumlah anggota final antara 11–15.
+- Jumlah anggota definitif yang dipilih dalam rentang kanon 11–15.
 - Komposisi unit dan jumlah kursi.
 - Pihak yang berhak menominasikan anggota.
 - Detail prosedur seleksi, klasifikasi, dan penegakan.
 
 ## Cerita
-- Premis utama.
-- Protagonis dan karakter utama.
+- Identitas protagonis Tavian Rell dan karakter utama yang telah ditetapkan merupakan CANON dan tidak dipertanyakan kembali.
+- Kelengkapan daftar tokoh utama dan karakter pendukung masih dapat dikembangkan.
+- Profil lengkap, dinamika, dan perkembangan karakter yang belum terdokumentasi masih perlu dikerjakan.
 - Konflik utama dan antagonis.
 - Urutan arc dan ending.

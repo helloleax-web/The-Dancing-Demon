@@ -1,6 +1,6 @@
 # KVK — Candidate Verification Commission
 
-**Status: CANON untuk ketentuan yang dinyatakan; beberapa detail operasional masih proposal.**
+**Status: CANON untuk ketentuan yang dinyatakan; beberapa detail operasional masih CATATAN PENGEMBANGAN atau belum ditentukan.**
 
 ## Kedudukan dan tugas
 - KVK dibentuk secara resmi oleh International Authority.
@@ -10,7 +10,7 @@
 - Hasil verifikasi mengikat sebagai syarat kelayakan: Majelis Umum hanya boleh memilih kandidat yang lolos.
 
 ## Komposisi
-- KVK memiliki 11–15 anggota definitif.
+- KVK memiliki rentang 11–15 anggota definitif sebagai ketentuan kanon; jumlah pastinya dalam rentang tersebut masih terbuka.
 - Kursi dibagi berdasarkan fungsi pemeriksaan, bukan perwakilan kategori.
 - Kerangka empat unit:
   1. Administration and Documentation.
