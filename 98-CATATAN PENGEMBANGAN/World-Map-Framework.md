@@ -2,6 +2,8 @@
 
 **Status: CATATAN PENGEMBANGAN — kerangka kerja pemetaan, bukan geografi CANON.**
 
+**Keputusan pengembangan terbaru:** kreator memilih **Alternatif A — enam benua terpisah** sebagai draft pertama arsitektur daratan. Pilihan ini mengarahkan tahap perancangan berikutnya, tetapi belum disahkan sebagai CANON.
+
 Dokumen ini menjadi ruang kerja untuk membangun geografi dunia secara bertahap. Pilihan awal kreator yang dicatat di sini adalah **planet dengan skala kurang lebih setara Bumi**. Pilihan tersebut masih berstatus keputusan kerja yang menunggu konfirmasi final sebelum dapat diperlakukan sebagai CANON. Dokumen ini tidak menetapkan jumlah benua, posisi negara, koordinat lokasi, atau hubungan geografis yang belum diputuskan kreator.
 
 ## 1. Tujuan
@@ -81,7 +83,7 @@ Isi hanya setelah keputusan dibuat. Kolom kosong berarti belum ditentukan, bukan
 
 | Elemen | Keputusan kreator | Catatan / sumber |
 |---|---|---|
-| Jumlah benua | BELUM DIPUTUSKAN | |
+| Jumlah benua | DRAFT PENGEMBANGAN: enam benua terpisah; belum CANON | Dipilih kreator sebagai arsitektur draft pertama. |
 | Nama benua | BELUM DIPUTUSKAN | |
 | Pulau besar | BELUM DIPUTUSKAN | |
 | Samudra dan laut | BELUM DIPUTUSKAN | |
@@ -194,7 +196,7 @@ Rekomendasi awal adalah menguji **enam kawasan daratan besar** sebagai kerangka 
 | The Ashen Frontier | Kawasan vulkanik dan ekstrem | Tentukan apakah aktivitas vulkanik tersebar, terkonsentrasi pada batas lempeng, atau hanya ciri regional. |
 | The Veiled Continent | Kawasan terpencil dan kurang dipetakan | “Kurang dipetakan” adalah kondisi pengetahuan/politik, bukan jenis iklim atau bentuk geologi; tentukan alasan keterpencilannya jika konsep dipertahankan. |
 
-**Rekomendasi:** gunakan enam konsep tersebut hanya sebagai enam kartu kandidat untuk diuji pada sketsa, bukan langsung sebagai enam benua final. Jika komposisi enam terasa dipaksakan, jumlahnya boleh berubah.
+**Status terbaru:** kreator telah memilih Alternatif A, sehingga enam konsep tersebut dipakai sebagai enam benua dalam draft pertama. Nama, bentuk, ukuran, posisi, garis pantai, dan karakter geografis rinci masing-masing masih berupa bahan pengembangan dan belum CANON.
 
 ### 7.4 Tiga alternatif arsitektur daratan
 
@@ -278,13 +280,62 @@ Pengelompokan ini hanya contoh komposisi. Empat benua tidak harus dibentuk persi
 
 Penilaian di atas bersifat kualitatif, bukan data geografis atau keputusan dunia.
 
-#### Rekomendasi sementara
+#### Rekomendasi awal sebelum keputusan kreator
 
-**Alternatif B — lima benua** adalah titik awal paling seimbang untuk diuji lebih lanjut. Ia mempertahankan sebagian besar konsep lama, mengurangi fragmentasi, dan memungkinkan satu daratan memiliki beberapa kawasan lingkungan yang kontras. Namun, penggabungan Frostbound–Ashen hanya layak jika desain geologi nantinya mendukungnya.
+Sebelum pilihan kreator diberikan, Alternatif B direkomendasikan sebagai titik awal paling seimbang. Rekomendasi tersebut kini **telah digantikan oleh keputusan pengembangan kreator untuk memakai Alternatif A**. Catatan rekomendasi lama dipertahankan sebagai riwayat pertimbangan, bukan arah kerja aktif.
 
-Rekomendasi ini **bukan pilihan kreator dan bukan CANON**. Kreator dapat memilih A, B, C, meminta kombinasi lain, atau menolak semuanya.
+### 7.5 Keputusan kreator: Alternatif A sebagai draft pertama
 
-### 7.5 Prinsip pembentukan peta fisik
+**Dipilih:** enam benua terpisah.
+
+**Status:** KEPUTUSAN PENGEMBANGAN / DRAFT — BELUM CANON.
+
+Enam kandidat benua untuk draft pertama:
+1. The Central Reach
+2. The Frostbound Expanse
+3. The Sunken Sands
+4. The Verdant Wilds
+5. The Ashen Frontier
+6. The Veiled Continent
+
+Keputusan ini menetapkan jumlah kandidat daratan besar untuk proses sketsa, bukan detail geografi final. Belum ada keputusan tentang urutan posisi, arah, ukuran relatif, bentuk, jarak, garis pantai, atau samudra di antaranya.
+
+### 7.6 Susunan spasial awal — proposal untuk diuji
+
+Agar enam benua tidak sekadar menjadi enam zona tema, berikut susunan konseptual yang dapat diuji pada globe. Ini adalah **proposal perancangan**, bukan keputusan kreator dan bukan CANON.
+
+| Benua draft | Zona / posisi konseptual yang diusulkan | Alasan penempatan untuk diuji | Hal yang belum ditetapkan |
+|---|---|---|---|
+| The Frostbound Expanse | Lintang tinggi di belahan utara | Memberi dasar iklim dingin yang dapat dijelaskan oleh lintang; tidak harus seluruh daratan tertutup es. | Bentuk, luas, iklim pesisir, pegunungan, dan apakah ada wilayah berpenghuni. |
+| The Central Reach | Lintang menengah, relatif sentral dalam komposisi peta | Dapat menjadi kawasan dengan variasi iklim dan jalur hubungan antardaerah. Kata “central” tidak harus berarti pusat geometris planet. | Posisi relatif terhadap benua lain, bentuk, dan karakter geografis spesifik. |
+| The Verdant Wilds | Zona tropis atau subtropis lembap sebagai kandidat | Mendukung hutan dan ekosistem kompleks, selama pola hujan dan relief memungkinkan. | Apakah seluruh benua berhutan; jenis hutan, musim, dan jaringan sungai. |
+| The Sunken Sands | Zona kering subtropis atau wilayah bayangan hujan sebagai kandidat | Gurun tidak harus tepat di ekuator; pola sirkulasi atmosfer dan pegunungan dapat membentuk wilayah kering. | Penyebab kekeringan, luas gurun, sumber air, dan bentuk relief. |
+| The Ashen Frontier | Kawasan dengan aktivitas tektonik/vulkanik menonjol | Identitas vulkanik lebih kuat jika berkaitan dengan batas lempeng atau hotspot, bukan sekadar seluruh benua berupa lava. | Letak batas lempeng, jenis aktivitas vulkanik, tingkat bahaya, dan kelayakhunian. |
+| The Veiled Continent | Daratan terpencil yang dipisahkan oleh samudra luas atau kondisi akses yang sulit | Keterpencilan dapat menjelaskan keterbatasan pemetaan tanpa menjadikan “veiled” sebagai bioma. | Penyebab isolasi, arus laut, cuaca, akses, dan seberapa jauh wilayahnya dikenal. |
+
+**Catatan penting:** posisi lintang di atas adalah hipotesis kerja untuk diuji, bukan penempatan final. Belahan utara/selatan, garis khatulistiwa, kemiringan sumbu, arus laut, dan pola angin global belum diputuskan. Tidak semua benua harus memiliki satu iklim tunggal.
+
+#### Hubungan spasial yang belum digambar
+
+Untuk tahap ini, jangan menetapkan bahwa:
+- The Central Reach benar-benar berada di tengah globe.
+- The Frostbound Expanse berada tepat di Kutub Utara.
+- The Sunken Sands seluruhnya berupa gurun.
+- The Verdant Wilds seluruhnya tertutup hutan.
+- The Ashen Frontier seluruhnya aktif secara vulkanik.
+- The Veiled Continent tidak memiliki penduduk atau peradaban.
+- Keenam benua tersusun simetris atau tersebar merata.
+
+#### Prinsip komposisi draft A
+
+1. Keenam daratan harus memiliki siluet dan karakter geografis yang dapat dibedakan, tetapi tidak perlu memiliki ukuran sama.
+2. Hindari pembagian satu benua = satu bioma. Setiap benua dapat memiliki beberapa zona iklim dan ekosistem.
+3. Sisakan ruang samudra yang cukup agar pemisahan benua terasa masuk akal pada skala planet.
+4. Jangan menggambar batas negara, ibu kota, atau lokasi canon sebelum bentuk daratan makro disetujui.
+5. Letak ekspedisi Buku I belum boleh ditentukan hanya karena disebut “jalur utara”.
+6. Peta pertama cukup menunjukkan enam daratan, perairan besar, dan garis lintang perkiraan; detail fisik menyusul setelah komposisi disetujui.
+
+### 7.7 Prinsip pembentukan peta fisik
 
 Saat sketsa pertama dibuat, urutkan keputusan dari skala besar ke kecil:
 1. Tentukan sebaran daratan dan samudra secara kasar; jangan beri nama negara atau kota dulu.
@@ -307,7 +358,7 @@ Dokumen [Geography](Geography.md) sebelumnya mencatat enam nama benua sebagai ko
 5. The Ashen Frontier
 6. The Veiled Continent
 
-Nama dan deskripsi lama tersebut **tetap proposal**. Kerangka ini tidak menerima, menolak, mengubah, atau menempatkan keenam benua itu pada peta. Kreator dapat mempertahankan, mengganti, menggabungkan, mengurangi, atau membuangnya.
+Nama dan deskripsi lama tersebut tetap bahan pengembangan. Kreator telah memilih keenam konsep itu sebagai **draft enam benua terpisah**, tetapi pilihan ini belum CANON. Nama, deskripsi, bentuk, dan posisi final masih dapat direvisi.
 
 Proposal lama lain yang belum disahkan:
 - Pegunungan, hutan purba, ngarai, rawa, wilayah bawah tanah, wilayah udara, dan pulau melayang.
@@ -322,7 +373,7 @@ Proposal lama lain yang belum disahkan:
 3. Jangan menyamakan Jalur yang Terlupakan dengan jalan batu Buku I tanpa keputusan eksplisit.
 4. Jangan menyamakan Fasilitas Hollow Vale dengan fasilitas Buku I tanpa keputusan eksplisit.
 5. Jangan menganggap "jalur utara" berarti wilayah kutub utara.
-6. Jangan menganggap enam benua proposal lama telah diterima.
+6. Perlakukan enam benua sebagai keputusan draft pengembangan, bukan CANON; jangan menganggap bentuk, posisi, atau rincian benuanya sudah disahkan.
 7. Jangan menempatkan 13 Prasasti sebelum lokasi masing-masing diputuskan.
 8. Setiap lokasi baru harus diberi status CATATAN PENGEMBANGAN sampai disetujui.
 9. Catat jarak dan waktu tempuh agar perjalanan antarlokasi konsisten.
@@ -333,9 +384,9 @@ Proposal lama lain yang belum disahkan:
 Urutan kerja yang disarankan:
 
 1. Konfirmasi final apakah model planet dan skala setara Bumi akan menjadi CANON.
-2. Bandingkan Alternatif A, B, dan C pada bagian 7.4; tentukan struktur daratan yang akan dijadikan draft.
-3. Susun bentuk kasar daratan dan perairan tanpa menambahkan negara atau kota.
-4. Tentukan iklim dan bioma berdasarkan bentuk dunia yang sudah disepakati.
+2. Susun sketsa makro enam benua berdasarkan keputusan draft Alternatif A; uji posisi relatif, ukuran, dan ruang samudra.
+3. Revisi komposisi daratan dan perairan sampai kreator menyetujui draft bentuk global.
+4. Tentukan rentang lintang, pola iklim, dan bioma berdasarkan bentuk dunia yang disepakati.
 5. Tempatkan jangkar cerita Buku I setelah kreator menentukan hubungan antar lokasi.
 6. Tambahkan negara, jalur perjalanan, pusat permukiman, dan wilayah peninggalan sesuai kebutuhan cerita.
 7. Buat peta visual draft, lalu audit jarak, iklim, rute, dan kontinuitas.
@@ -345,8 +396,8 @@ Urutan kerja yang disarankan:
 Pertanyaan ini sengaja dibiarkan terbuka. Jangan isi berdasarkan asumsi.
 
 - Apakah pilihan sementara planet dan skala kurang lebih setara Bumi dikonfirmasi sebagai CANON?
-- Dari tiga alternatif arsitektur daratan pada bagian 7.4, mana yang ingin diuji sebagai draft: A (enam benua), B (lima benua), C (empat benua + kepulauan), atau kombinasi lain?
-- Jika memilih B atau C, apakah pengelompokan konsep lama yang dicontohkan dapat diterima, atau perlu pasangan/kawasan berbeda?
+- Apakah susunan spasial awal pada bagian 7.6 layak dipakai sebagai dasar sketsa, atau posisi konseptual tiap benua perlu diubah?
+- Bagaimana bentuk dan ukuran relatif keenam benua pada draft pertama?
 - Apakah peta awal harus mencakup seluruh dunia atau hanya wilayah cerita Buku I?
 - Apakah enam nama benua dari proposal lama masih ingin dipertimbangkan?
 
