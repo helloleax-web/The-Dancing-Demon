@@ -449,6 +449,18 @@ Untuk tahap ini, jangan menetapkan bahwa:
 6. Letak ekspedisi Buku I belum boleh ditentukan hanya karena disebut “jalur utara”.
 7. Peta pertama cukup menunjukkan enam daratan, perairan besar, dan garis lintang perkiraan; detail fisik menyusul setelah komposisi disetujui.
 
+### 7.11 Prinsip pembentukan peta fisik
+
+Saat sketsa pertama dibuat, urutkan keputusan dari skala besar ke kecil:
+1. Tentukan sebaran daratan dan samudra secara kasar; jangan beri nama negara atau kota dulu.
+2. Tentukan rentang lintang dan zona iklim global setelah bentuk daratan disetujui.
+3. Tentukan rangkaian pegunungan dan dataran tinggi sebelum menggambar gurun, hutan, serta jaringan sungai.
+4. Tentukan sungai dari daerah tinggi menuju danau, laut, atau cekungan; hindari sungai yang melanggar kontur tanpa alasan khusus.
+5. Tempatkan gurun, hutan, rawa, dan wilayah dingin dengan mempertimbangkan lintang, relief, dan pola hujan.
+6. Baru setelah itu tambahkan negara, kota, jalur perdagangan, dan rute ekspedisi.
+
+Ini merupakan metode perancangan yang disarankan, bukan deskripsi geografi dunia yang sudah ada.
+
 ### 7.12 Rancangan siluet dan relief keenam benua
 
 **Status seluruh isi bagian ini: rancangan kerja NON-CANON.** Kreator menyerahkan pengembangan bentuk fisik awal kepada asisten. Bentuk berikut dipilih agar enam benua mudah dibedakan dari siluetnya, punya ruang untuk variasi iklim, dan tidak terasa seperti enam bioma tunggal. Bentuk belum berupa koordinat atau garis pantai final.
@@ -1434,18 +1446,6 @@ V1.0 dinyatakan **FIX sebagai baseline geometri pengembangan**, dengan batas ber
 - Peta globe ini tidak membuktikan bahwa lempeng bergerak secara geodinamik realistis.
 
 **Kesimpulan:** satu partisi bola V1.0 sekarang tersedia dengan 9 wilayah, 14 triple junction, 21 batas, penutupan 100%, dan luas yang memenuhi target dalam toleransi 0,10 poin persentase. Gunakan V1.0 sebagai baseline tetap untuk tahap penempatan benua dan pengembangan geologi berikutnya. Jangan menyebutnya CANON sebelum kreator mengesahkannya.
-
-### 7.11 Prinsip pembentukan peta fisik
-
-Saat sketsa pertama dibuat, urutkan keputusan dari skala besar ke kecil:
-1. Tentukan sebaran daratan dan samudra secara kasar; jangan beri nama negara atau kota dulu.
-2. Tentukan rentang lintang dan zona iklim global setelah bentuk daratan disetujui.
-3. Tentukan rangkaian pegunungan dan dataran tinggi sebelum menggambar gurun, hutan, serta jaringan sungai.
-4. Tentukan sungai dari daerah tinggi menuju danau, laut, atau cekungan; hindari sungai yang melanggar kontur tanpa alasan khusus.
-5. Tempatkan gurun, hutan, rawa, dan wilayah dingin dengan mempertimbangkan lintang, relief, dan pola hujan.
-6. Baru setelah itu tambahkan negara, kota, jalur perdagangan, dan rute ekspedisi.
-
-Ini merupakan metode perancangan yang disarankan, bukan deskripsi geografi dunia yang sudah ada.
 
 ## 8. Proposal geografi lama yang belum diputuskan
 
