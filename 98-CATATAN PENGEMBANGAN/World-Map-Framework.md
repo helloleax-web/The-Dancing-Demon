@@ -1251,6 +1251,61 @@ Tahap berikutnya harus memakai optimasi geometri yang dibatasi oleh topologi, bu
 
 **Status akhir tahap:** belum ada koordinat baru yang disahkan sebagai konstruksi bola. Target luas 7.21 tetap menjadi sasaran desain, sementara embedding 7.20 tetap berstatus visualisasi matematis sementara. Eksperimen Voronoi pada bagian ini adalah catatan metode dan hasil uji, bukan perubahan CANON.
 
+### 7.23 Baseline partisi bola dari embedding planar
+
+**Status: CATATAN PENGEMBANGAN / NON-CANON.** Bagian ini mencatat baseline geometri yang dibangun langsung dari graf planar 7.17 dan siklus muka 7.18. Tujuannya mendapatkan satu partisi bola yang benar-benar menutup permukaan sebelum mencoba mengatur luas.
+
+#### 7.23.1 Konstruksi baseline
+
+- Graf 14 simpul dan 21 sisi dari 7.17 digunakan tanpa mengubah daftar ketetanggaan.
+- Embedding planar dihitung dari graf tersebut.
+- Delapan muka terbatas dipetakan ke bola melalui inverse stereographic projection.
+- Muka kesembilan adalah komplemen bola dari delapan muka terbatas.
+- Batas pada bola adalah hasil pemetaan sisi garis lurus pada bidang; batasnya berupa kurva hasil proyeksi, bukan otomatis busur geodesik terpendek.
+- Luas diperkirakan dengan pengambilan sampel seragam pada bola dan klasifikasi titik melalui inverse projection ke bidang.
+
+Konstruksi ini menghasilkan partisi yang menutup seluruh bola secara definisi: setiap titik selain titik proyeksi berada pada tepat satu muka planar, sedangkan titik proyeksi menjadi bagian dari muka luar. Ini adalah baseline topologis-geometris, bukan model tektonik realistis.
+
+#### 7.23.2 Estimasi luas baseline
+
+Estimasi awal dari 500.000 sampel seragam pada bola:
+
+| Lempeng | Estimasi luas baseline | Target 7.21 |
+|---|---:|---:|
+| Central (muka luar) | 84,42% | 18% |
+| Verdant | 5,05% | 12% |
+| Sands | 5,18% | 10% |
+| Frost | 0,28% | 8% |
+| Ashen | 0,95% | 7% |
+| Veiled | 1,23% | 11% |
+| Samudra Utara | 0,33% | 14% |
+| Samudra Barat | 2,15% | 11% |
+| Samudra Timur-Selatan | 0,40% | 9% |
+| **Total** | **100,00%** | **100%** |
+
+Angka merupakan estimasi numerik baseline, bukan luas final. Pembulatan dan galat sampling dapat menyebabkan selisih kecil.
+
+#### 7.23.3 Evaluasi
+
+Baseline memenuhi tujuan terbatas berikut:
+- Memakai graf ketetanggaan yang sama dengan 7.17.
+- Mempertahankan sembilan muka dari embedding planar.
+- Menutup permukaan bola melalui pemetaan stereografis dan muka komplemen.
+- Memberi metode estimasi luas yang dapat diulang.
+
+Baseline gagal memenuhi distribusi target 7.21. Central terlalu besar, sementara beberapa wilayah lain terlalu kecil. Karena itu, baseline ini tidak diterima sebagai rancangan ukuran lempeng.
+
+#### 7.23.4 Batas interpretasi dan pekerjaan berikutnya
+
+- Persentase pada tabel bukan hasil geologi atau ukuran canon.
+- Muka luar tidak boleh dianggap sebagai lokasi geografis Central; statusnya hanya muka komplemen dalam pilihan embedding ini.
+- Mengubah posisi simpul pada bidang dapat mengubah luas hasil proyeksi secara besar.
+- Optimasi berikutnya harus mengubah posisi simpul sambil mempertahankan embedding planar yang sama, urutan siklus muka, dan larangan persilangan sisi.
+- Setelah setiap iterasi, luas harus dihitung ulang pada bola dan jumlahnya harus tetap 100%.
+- Target 7.21 baru dianggap tercapai jika kesembilan luas mendekati target dalam toleransi yang dinyatakan dan seluruh topologi tetap identik.
+
+**Kesimpulan kerja:** sekarang tersedia satu baseline partisi bola yang menutup permukaan dan mempertahankan sembilan muka topologis. Distribusi luasnya sangat jauh dari target. Optimasi posisi simpul dengan kendala topologi masih merupakan pekerjaan terbuka; belum ada globe final atau koordinat geografis baru yang ditetapkan.
+
 ### 7.11 Prinsip pembentukan peta fisik
 
 Saat sketsa pertama dibuat, urutkan keputusan dari skala besar ke kecil:
