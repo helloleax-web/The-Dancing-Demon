@@ -1025,6 +1025,64 @@ Sebelum memberi koordinat:
 
 **Kesimpulan kerja:** kerangka 9 wilayah, 14 simpul, dan 21 segmen kini memiliki siklus tertutup untuk seluruh sembilan lempeng. Tahap berikutnya adalah embedding geometris pada bola; jangan menyebutnya peta lempeng final sebelum pemeriksaan tersebut berhasil.
 
+### 7.19 Uji geometric embedding abstrak
+
+**Status: CATATAN PENGEMBANGAN / NON-CANON.** Jaringan simpul dan siklus pada bagian 7.17–7.18 diuji sebagai graf planar. Tujuannya memeriksa apakah hubungan ketetanggaan sembilan wilayah dapat digambar pada bidang tanpa persilangan, yang secara topologis setara dengan pembagian permukaan bola setelah satu titik diperlakukan sebagai titik tak hingga.
+
+#### 7.19.1 Hasil uji graf
+
+Graf dibangun dengan:
+- 14 simpul (TJ-01 sampai TJ-14).
+- 21 sisi, masing-masing mewakili satu segmen batas antara sepasang lempeng.
+- 9 muka, masing-masing mewakili satu wilayah lempeng.
+
+Hasil pemeriksaan:
+- Graf terhubung.
+- Graf sederhana dan planar.
+- Setiap simpul memiliki derajat 3: tepat tiga segmen batas bertemu pada setiap kandidat triple junction.
+- Graf memiliki 14 simpul dan 21 sisi.
+- Embedding planar menghasilkan 9 muka.
+- Sembilan muka yang dihasilkan cocok dengan sembilan siklus lempeng yang tercatat pada bagian 7.18.
+- Tidak diperlukan persilangan sisi dalam embedding planar yang ditemukan.
+
+Pemeriksaan Euler:
+`V - E + F = 14 - 21 + 9 = 2`
+
+**Kesimpulan terbatas:** jaringan abstrak sembilan lempeng ini memiliki embedding planar yang konsisten secara kombinatorial. Dengan demikian, hubungan ketetanggaannya dapat direpresentasikan sebagai pembagian topologis permukaan bola tanpa sisi yang harus saling menyilang.
+
+#### 7.19.2 Apa yang berhasil dibuktikan
+
+1. Sembilan wilayah lempeng dapat diwakili sebagai sembilan muka pada embedding planar.
+2. Setiap pasangan lempeng bertetangga memiliki satu segmen batas abstrak.
+3. Setiap simpul menghubungkan tepat tiga lempeng.
+4. Siklus batas setiap lempeng membentuk muka pada embedding yang sama.
+5. Tidak ada kontradiksi kombinatorial antara daftar 14 simpul, 21 segmen, dan 9 siklus muka.
+
+#### 7.19.3 Apa yang belum dibuktikan
+
+Embedding planar **tidak otomatis menghasilkan peta geografis yang realistis**. Uji ini belum membuktikan:
+- Ukuran atau proporsi luas setiap lempeng.
+- Koordinat lintang-bujur, bentuk poligon bola, atau orientasi geografis.
+- Penempatan enam benua di dalam lempeng yang sesuai.
+- Kesesuaian posisi benua dengan kelompok utama dan daratan terpencil.
+- Jenis batas (konvergen, divergen, transform) pada setiap segmen.
+- Arah gerak, kutub rotasi, kecepatan, atau kestabilan triple junction.
+- Kesesuaian relief, palung, busur vulkanik, atau sejarah geologi.
+
+Satu embedding planar dapat memiliki banyak bentuk visual yang berbeda. Bentuk hasil layout bukan bentuk final lempeng dan tidak boleh diperlakukan sebagai garis pantai.
+
+#### 7.19.4 Aturan penggunaan hasil embedding
+
+- Gunakan embedding ini sebagai bukti bahwa topologi abstrak dapat digambar tanpa persilangan.
+- Jangan mengukur luas lempeng dari luas muka pada layout graf; algoritma layout tidak mempertahankan luas.
+- Jangan menyamakan simpul TJ dengan koordinat geografis.
+- Jangan menyamakan sisi graf dengan jenis batas geologi tertentu.
+- Jangan menganggap embedding ini membuktikan stabilitas kinematik triple junction.
+- Untuk peta globe berikutnya, tetapkan proyeksi dan koordinat simpul atau batas pada bola, lalu periksa ulang poligon, luas, dan orientasinya.
+- Setelah geometri bola ditetapkan, tempatkan siluet benua dan bandingkan dengan rancangan peta fisik.
+
+**Kesimpulan kerja:** model sembilan wilayah, 14 simpul, dan 21 segmen **lolos uji planaritas abstrak**. Tahap selanjutnya adalah merancang koordinat pada permukaan bola dan menguji luas serta posisi relatif; belum ada geometri geografis atau data geodinamika yang disahkan.
+
 ### 7.11 Prinsip pembentukan peta fisik
 
 Saat sketsa pertama dibuat, urutkan keputusan dari skala besar ke kecil:
