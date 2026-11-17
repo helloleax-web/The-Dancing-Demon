@@ -970,6 +970,61 @@ Kerangka ini **belum membuktikan**:
 
 **Keputusan kerja:** gunakan kerangka 9 wilayah, 14 simpul, dan 21 segmen sebagai model topologi abstrak untuk tahap penggambaran globe. Tiga kandidat TJ-A/B/C dari bagian 7.16 tetap berstatus belum lolos; jangan menyamakan atau memetakan ulang kandidat lama secara otomatis ke TJ-01 sampai TJ-14. Setelah poligon globe dibuat, audit ulang seluruh hubungan dan hapus atau ubah simpul yang tidak cocok.
 
+### 7.18 Siklus batas setiap lempeng dan pemeriksaan poligon abstrak
+
+**Status: CATATAN PENGEMBANGAN / NON-CANON.** Bagian ini menurunkan urutan simpul batas untuk setiap wilayah lempeng dari daftar 14 triple junction pada bagian 7.17. Tujuannya memastikan setiap lempeng mempunyai satu lintasan batas tertutup sebelum mencoba menempatkannya pada globe.
+
+#### 7.18.1 Siklus batas sembilan lempeng
+
+Urutan berikut adalah siklus topologi. Arah baca dapat dibalik tanpa mengubah hubungan ketetanggaan. Siklus tidak memberikan koordinat, luas, orientasi kompas, atau bentuk fisik.
+
+| Lempeng | Urutan simpul batas tertutup |
+|---|---|
+| Central (CR) | TJ-10 → TJ-12 → TJ-13 → TJ-07 → TJ-08 → TJ-09 → TJ-01 → TJ-10 |
+| Verdant (VW) | TJ-10 → TJ-11 → TJ-14 → TJ-03 → TJ-02 → TJ-01 → TJ-10 |
+| Sands (SS) | TJ-13 → TJ-14 → TJ-03 → TJ-04 → TJ-05 → TJ-06 → TJ-07 → TJ-13 |
+| Frost (FR) | TJ-11 → TJ-12 → TJ-13 → TJ-14 → TJ-11 |
+| Ashen (AF) | TJ-01 → TJ-02 → TJ-04 → TJ-05 → TJ-09 → TJ-01 |
+| Veiled (VC) | TJ-05 → TJ-06 → TJ-08 → TJ-09 → TJ-05 |
+| Samudra Utara (NO) | TJ-10 → TJ-11 → TJ-12 → TJ-10 |
+| Samudra Barat (WO) | TJ-02 → TJ-03 → TJ-04 → TJ-02 |
+| Samudra Timur-Selatan (SE) | TJ-06 → TJ-07 → TJ-08 → TJ-06 |
+
+#### 7.18.2 Hasil pemeriksaan abstrak
+
+Pemeriksaan dari data simpul dan pasangan ketetanggaan menghasilkan:
+- Kesembilan lempeng muncul pada jaringan.
+- Setiap lempeng memiliki lintasan tertutup.
+- Setiap simpul pada lintasan masing-masing lempeng mempunyai dua tetangga batas pada lempeng yang sama.
+- Tidak ditemukan cabang buntu pada siklus batas abstrak.
+- Jumlah simpul, segmen, dan wilayah tetap memenuhi pemeriksaan Euler yang dicatat pada bagian 7.17.
+
+Dengan demikian, daftar simpul pada bagian 7.17 **lolos pemeriksaan siklus batas kombinatorial**: setiap lempeng mempunyai satu siklus tertutup dalam graf yang dibangun.
+
+#### 7.18.3 Batas kesimpulan
+
+Kelolosan di atas tidak membuktikan bahwa:
+1. Siklus dapat digambar sebagai sembilan poligon sederhana pada satu globe tanpa persilangan.
+2. Setiap poligon mempunyai luas yang masuk akal atau cocok dengan luas benua.
+3. Posisi benua pada peta fisik terdahulu cocok dengan wilayah lempeng.
+4. Batas yang bertemu pada setiap simpul mempunyai jenis dan gerak relatif yang kompatibel.
+5. Triple junction stabil secara kinematik.
+6. Model mencerminkan proses tektonik planet yang realistis.
+
+Siklus tertutup adalah syarat topologi yang diperlukan, bukan validasi geometri atau geodinamika.
+
+#### 7.18.4 Langkah proyeksi berikutnya
+
+Sebelum memberi koordinat:
+1. Buat embedding planar dari graf batas dengan satu wilayah diperlakukan sebagai muka luar.
+2. Periksa bahwa setiap siklus lempeng membatasi satu muka yang berbeda.
+3. Pilih proyeksi globe dan tentukan bagaimana muka luar dipindahkan ke bagian belakang globe.
+4. Ubah embedding menjadi koordinat bola, bukan sekadar menempelkan graf pada gambar peta datar.
+5. Periksa ulang tidak ada garis batas saling silang, poligon tumpang tindih, atau celah permukaan.
+6. Baru setelah embedding lolos, letakkan siluet benua di dalam wilayah lempeng yang sesuai.
+
+**Kesimpulan kerja:** kerangka 9 wilayah, 14 simpul, dan 21 segmen kini memiliki siklus tertutup untuk seluruh sembilan lempeng. Tahap berikutnya adalah embedding geometris pada bola; jangan menyebutnya peta lempeng final sebelum pemeriksaan tersebut berhasil.
+
 ### 7.11 Prinsip pembentukan peta fisik
 
 Saat sketsa pertama dibuat, urutkan keputusan dari skala besar ke kecil:
