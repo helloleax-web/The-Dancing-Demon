@@ -1083,6 +1083,69 @@ Satu embedding planar dapat memiliki banyak bentuk visual yang berbeda. Bentuk h
 
 **Kesimpulan kerja:** model sembilan wilayah, 14 simpul, dan 21 segmen **lolos uji planaritas abstrak**. Tahap selanjutnya adalah merancang koordinat pada permukaan bola dan menguji luas serta posisi relatif; belum ada geometri geografis atau data geodinamika yang disahkan.
 
+### 7.20 Kerangka koordinat bola abstrak
+
+**Status: CATATAN PENGEMBANGAN / NON-CANON.** Bagian ini mencatat satu embedding bola yang dapat direproduksi dari embedding planar pada bagian 7.19. Koordinat di bawah adalah koordinat matematis untuk menempatkan simpul pada bola satuan, bukan koordinat geografis planet.
+
+#### 7.20.1 Metode transformasi
+
+1. Gunakan embedding planar dari graf 14 simpul dan 21 segmen.
+2. Skala posisi bidang secara seragam dengan faktor 1,25.
+3. Ubah setiap titik bidang `(x,y)` menjadi titik pada bola satuan melalui inverse stereographic projection:
+   - `X = 1,25x`
+   - `Y = 1,25y`
+   - `r² = X² + Y²`
+   - `u = 2X / (1+r²)`
+   - `v = 2Y / (1+r²)`
+   - `w = (r²-1) / (1+r²)`
+4. Nilai `(u,v,w)` adalah koordinat Kartesius pada bola satuan. Lintang dan bujur matematis dapat diturunkan dari titik tersebut untuk keperluan plotting, tetapi tidak boleh disebut lintang-bujur geografis dunia.
+
+Transformasi stereografis mempertahankan struktur topologi dan tidak menciptakan persilangan baru pada embedding yang valid. Namun, transformasi ini tidak mempertahankan jarak, sudut, luas, atau skala.
+
+#### 7.20.2 Koordinat matematis simpul
+
+Angka berikut dibulatkan untuk pencatatan. Sistem koordinat hanya mengidentifikasi satu visualisasi yang mungkin; rotasi seluruh bola menghasilkan representasi setara.
+
+| Simpul | Lintang matematis (°) | Bujur matematis (°) |
+|---|---:|---:|
+| TJ-01 | 16.03 | -160.29 |
+| TJ-02 | -64.41 | -47.39 |
+| TJ-03 | -70.66 | -25.56 |
+| TJ-04 | -50.47 | -46.51 |
+| TJ-05 | -7.11 | -23.65 |
+| TJ-06 | -42.99 | 2.64 |
+| TJ-07 | -55.89 | 78.69 |
+| TJ-08 | -44.11 | 68.70 |
+| TJ-09 | 5.04 | -24.21 |
+| TJ-10 | -29.37 | 149.04 |
+| TJ-11 | -48.75 | 146.59 |
+| TJ-12 | -30.87 | 135.95 |
+| TJ-13 | -70.66 | 138.18 |
+| TJ-14 | -45.58 | 177.18 |
+
+Koordinat ini berasal dari layout graf matematis, bukan hasil keputusan kreatif tentang lokasi geografis. Nilainya dapat berubah bila embedding planar atau faktor skala diubah.
+
+#### 7.20.3 Batas penggunaan koordinat
+
+- Jangan gunakan tabel ini untuk menyatakan bahwa Frostbound berada pada lintang selatan atau bahwa benua lain berada pada lokasi tertentu.
+- Jangan gunakan koordinat ini untuk menetapkan iklim, musim, zona waktu, arus laut, atau jarak.
+- Jangan menghitung luas lempeng dari proyeksi gambar.
+- Jangan menganggap garis yang terlihat pada visualisasi 3D sebagai busur batas geologi final; visualisasi hanya memperlihatkan satu cara memetakan graf ke bola.
+- Rotasi globe dan pilihan titik potong proyeksi dapat mengubah tampilan peta tanpa mengubah topologi.
+- Posisi benua harus dirancang kemudian sebagai lapisan terpisah, lalu diuji apakah cocok dengan wilayah lempeng.
+
+#### 7.20.4 Status tahap proyeksi
+
+- Embedding planar: lolos pemeriksaan graf.
+- Siklus tertutup sembilan wilayah: lolos pemeriksaan kombinatorial.
+- Transformasi ke bola satuan: dibuat sebagai visualisasi matematis.
+- Geometri geodesik batas pada globe: belum divalidasi.
+- Luas relatif lempeng: belum ditetapkan.
+- Penempatan enam benua: belum dilakukan.
+- Geografi fisik, iklim, dan tektonik nyata: belum ditetapkan.
+
+**Kesimpulan kerja:** sekarang tersedia satu kerangka bola abstrak yang dapat dipakai untuk visualisasi dan eksperimen. Ini belum menjadi globe geografis dunia LEAX. Tahap berikutnya adalah merancang luas relatif wilayah lempeng dan menentukan orientasi globe yang memudahkan penempatan benua, tanpa menganggap koordinat matematis ini sebagai lokasi canon.
+
 ### 7.11 Prinsip pembentukan peta fisik
 
 Saat sketsa pertama dibuat, urutkan keputusan dari skala besar ke kecil:
