@@ -36,6 +36,8 @@ Lihat `../01-CANON/Location-Bible.md` untuk fakta lokasi yang terdokumentasi dan
 -   Vellum & Iron Recovery
 -   Arsip Lentera
 
+Lihat `../01-CANON/Organization-Bible.md` untuk fakta organisasi yang terdokumentasi dan informasi organisasi yang belum ditentukan.
+
 ## Catatan
 
 Nama-nama di atas telah ditetapkan dalam paket canon. Detail geografis,
