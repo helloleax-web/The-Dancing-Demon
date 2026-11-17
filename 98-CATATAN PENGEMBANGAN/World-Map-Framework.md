@@ -1306,6 +1306,44 @@ Baseline gagal memenuhi distribusi target 7.21. Central terlalu besar, sementara
 
 **Kesimpulan kerja:** sekarang tersedia satu baseline partisi bola yang menutup permukaan dan mempertahankan sembilan muka topologis. Distribusi luasnya sangat jauh dari target. Optimasi posisi simpul dengan kendala topologi masih merupakan pekerjaan terbuka; belum ada globe final atau koordinat geografis baru yang ditetapkan.
 
+### 7.24 Audit geodesik koordinat simpul dan penolakan optimasi luas prematur
+
+**Status: CATATAN PENGEMBANGAN / NON-CANON.** Bagian ini menguji apakah koordinat simpul pada 7.20 dapat langsung diperlakukan sebagai simpul poligon dengan batas busur geodesik terpendek. Audit dilakukan menggunakan urutan siklus muka yang tercatat pada 7.18.
+
+#### 7.24.1 Metode audit
+
+1. Ubah 14 pasangan lintang-bujur matematis pada 7.20 menjadi vektor pada bola satuan.
+2. Untuk setiap siklus lempeng pada 7.18, hitung luas bertanda poligon bola dengan triangulasi dari satu simpul referensi dan rumus luas segitiga bola.
+3. Jumlahkan luas bertanda kesembilan muka.
+4. Bandingkan hasilnya dengan luas bola satuan, yaitu (4\pi\) steradian.
+
+Audit ini menguji interpretasi khusus: setiap sisi siklus dianggap sebagai busur geodesik terpendek antara dua simpul. Ini bukan pengukuran ulang terhadap kurva hasil inverse stereographic projection pada 7.20. Kedua jenis batas tersebut berbeda.
+
+#### 7.24.2 Hasil audit
+
+Jumlah luas bertanda sembilan siklus menghasilkan sekitar **8,4033 steradian**, sedangkan luas bola satuan adalah **12,5664 steradian**.
+
+Jumlah tersebut hanya sekitar **66,85%** luas bola. Beberapa muka juga menghasilkan luas bertanda negatif pada urutan siklus yang dicatat.
+
+Dengan demikian, koordinat 7.20 tidak dapat langsung ditafsirkan sebagai sembilan poligon geodesik terpendek yang membentuk partisi bola tertutup dengan orientasi siklus saat ini.
+
+#### 7.24.3 Keputusan teknis
+
+- Jangan menghitung atau mengoptimalkan target luas 7.21 menggunakan koordinat 7.20 seolah-olah batasnya adalah busur geodesik terpendek.
+- Jangan menganggap hasil baseline 7.23 dan hasil audit ini sebagai pengukuran atas geometri yang sama: 7.23 memakai muka planar dan transformasi stereografis, sedangkan audit ini memakai interpretasi geodesik.
+- Jangan mengubah target luas 7.21 untuk menyesuaikan hasil yang belum valid.
+- Koordinat simpul 7.20 tetap dicatat sebagai satu transformasi matematis, tetapi belum menjadi koordinat poligon geodesik yang tervalidasi.
+
+#### 7.24.4 Rute optimasi yang benar
+
+Optimasi luas baru boleh dimulai setelah satu geometri bola yang valid tersedia. Konstruksi harus memilih dan mempertahankan satu definisi batas secara konsisten:
+1. **Batas geodesik:** setiap sisi adalah busur lingkaran besar antara dua simpul.
+2. **Batas hasil proyeksi:** setiap sisi mengikuti transformasi kurva dari embedding planar, bukan otomatis busur geodesik.
+
+Untuk jalur geodesik, optimasi harus mengubah posisi 14 simpul pada bola secara bersama-sama, mempertahankan urutan muka, memeriksa tidak ada sisi silang, memastikan sembilan muka menutupi bola tepat satu kali, lalu menghitung luas geodesik setiap muka. Target 7.21 baru dapat dipakai sebagai fungsi tujuan setelah kondisi tersebut lolos.
+
+**Kesimpulan kerja:** optimasi luas belum dijalankan karena geometri input belum lolos audit geodesik. Langkah yang benar adalah membangun ulang embedding bola yang konsisten dengan sembilan siklus muka, bukan memaksa koordinat lama agar mendekati target. Ini merupakan koreksi metodologis, bukan perubahan CANON.
+
 ### 7.11 Prinsip pembentukan peta fisik
 
 Saat sketsa pertama dibuat, urutkan keputusan dari skala besar ke kecil:
