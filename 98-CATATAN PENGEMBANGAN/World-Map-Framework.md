@@ -670,6 +670,102 @@ Tabel ini belum menentukan bahwa semua interaksi tersebut benar-benar terjadi se
 
 **Kesimpulan kerja:** model sembilan lempeng ini adalah titik awal untuk menguji peta, bukan keputusan final. Jika sketsa batas lempeng tidak dapat menjelaskan bentuk benua secara konsisten, ubah model lempeng atau siluetnya; jangan memaksakan penjelasan.
 
+### 7.15 Audit topologi model sembilan lempeng
+
+**Status: CATATAN PENGEMBANGAN / NON-CANON.** Bagian ini mengaudit apakah model enam lempeng benua + tiga lempeng samudra dapat dibentuk menjadi sistem batas global yang saling tersambung. Ini adalah rancangan topologi konseptual, bukan peta koordinat atau simulasi geodinamika.
+
+#### 7.15.1 Hasil audit awal
+
+Model sembilan lempeng **dapat dipakai sebagai hipotesis kerja**, tetapi rancangan awal belum cukup lengkap untuk disebut sistem tektonik yang koheren.
+
+Masalah yang ditemukan:
+1. Tiga lempeng samudra sebelumnya hanya diberi lokasi umum (utara, selatan, timur), belum diberi bentuk dan batas tertutup.
+2. Jenis batas di beberapa margin benua masih berupa pilihan alternatif yang belum diputuskan.
+3. Arah gerak lempeng belum ditentukan secara relatif; panah pada ilustrasi V0.1 tidak dapat dipakai sebagai data.
+4. Titik pertemuan tiga lempeng belum ditetapkan, sehingga jaringan batas belum dapat diperiksa.
+5. Ilustrasi V0.1 menampilkan garis batas, panah, dan garis waktu yang tampak pasti, padahal dokumen sumber belum menetapkan rincian tersebut. Ilustrasi itu harus diperlakukan sebagai visual konseptual, bukan peta tektonik yang tervalidasi.
+
+**Kesimpulan audit:** jangan mengunci sembilan lempeng sebagai jumlah final. Pertahankan sebagai model kandidat yang perlu diuji melalui topologi dan sketsa batas.
+
+#### 7.15.2 Topologi kandidat untuk diuji
+
+Untuk membuat sembilan lempeng dapat diuji, tiga lempeng samudra diberi peran spasial yang lebih jelas:
+
+- **Lempeng Samudra Utara:** mengisi sebagian besar cekungan samudra antara Frostbound Expanse dan kelompok utama.
+- **Lempeng Samudra Barat:** mengisi cekungan samudra di sisi barat kelompok utama, termasuk ruang perairan antara Verdant Wilds dan Ashen Frontier.
+- **Lempeng Samudra Timur-Selatan:** mengisi cekungan samudra di sisi timur dan selatan kelompok utama, termasuk perairan antara Sunken Sands, Ashen Frontier, dan Veiled Continent.
+
+Nama “Barat” dan “Timur-Selatan” adalah label kerja untuk membedakan peran spasial, bukan nama geografis final. Ketiga lempeng samudra harus memiliki batas yang tersambung satu sama lain atau bertemu dengan lempeng benua melalui titik pertemuan yang dapat dijelaskan.
+
+#### 7.15.3 Jaringan batas kandidat
+
+| Segmen batas | Pasangan lempeng | Jenis batas kandidat | Hasil yang mungkin |
+|---|---|---|---|
+| N1 | Samudra Utara — Frost | Konvergen, dengan Samudra Utara menunjam ke bawah Frost pada margin tertentu | Palung dan busur vulkanik/pegunungan di sisi Frost, jika geometri penunjaman mendukung. |
+| N2 | Samudra Utara — Central | Konvergen pada sebagian margin utara Central | Palung dan busur vulkanik di sisi Central; tidak harus sepanjang seluruh pantai utara. |
+| W1 | Samudra Barat — Verdant | Konvergen pada margin timur Samudra Barat | Palung dan busur vulkanik lepas pantai atau pegunungan pesisir Verdant. |
+| W2 | Samudra Barat — Ashen | Konvergen pada margin utara atau barat Ashen | Salah satu kandidat utama busur vulkanik Ashen. |
+| E1 | Samudra Timur-Selatan — Sands | Margin pasif pada sebagian sisi dan batas aktif pada segmen lain | Pesisir stabil di beberapa bagian; zona tektonik hanya pada segmen yang dipilih. |
+| S1 | Samudra Timur-Selatan — Ashen | Konvergen atau transform miring; pilih satu konfigurasi setelah sketsa | Subduksi dan vulkanisme jika konvergen; patahan dan gempa dominan jika transform. |
+| S2 | Samudra Timur-Selatan — Veiled | Konvergen pada satu margin Veiled | Pegunungan pesisir dan kemungkinan palung di lepas pantai. |
+| R1 | Samudra Utara — Samudra Barat | Divergen atau transform, tergantung orientasi batas | Punggung samudra jika divergen; patahan mendatar jika transform. |
+| R2 | Samudra Utara — Samudra Timur-Selatan | Divergen atau transform, tergantung orientasi batas | Pemekaran dasar laut atau pergeseran mendatar. |
+| R3 | Samudra Barat — Samudra Timur-Selatan | Divergen atau transform, tergantung orientasi batas | Melengkapi jaringan batas samudra dan menghubungkan sistem ke selatan. |
+
+Tabel ini adalah daftar segmen yang perlu diuji, bukan klaim bahwa semua batas tersebut sudah tersambung secara geometris. Sebelum membuat peta final, setiap segmen harus ditempatkan pada globe dan diperiksa apakah jaringan batasnya benar-benar bertemu tanpa ujung bebas yang tidak dijelaskan.
+
+#### 7.15.4 Titik pertemuan tiga lempeng yang wajib diuji
+
+Sistem kandidat harus memiliki titik pertemuan tiga lempeng (triple junction) yang jelas. Untuk rancangan awal, uji setidaknya tiga kawasan berikut:
+
+1. **Pertemuan utara-barat:** Samudra Utara, Samudra Barat, dan lempeng benua terdekat di sekitar perairan antara Frostbound dan Verdant. Tentukan apakah titik ini merupakan ridge-ridge-ridge, ridge-transform-subduction, atau konfigurasi lain yang stabil secara kinematik.
+2. **Pertemuan utara-timur:** Samudra Utara, Samudra Timur-Selatan, dan lempeng benua terdekat di sekitar sisi utara/timur kelompok utama. Jenis ketiga batas harus saling cocok; jangan menetapkan tiga batas secara terpisah tanpa memeriksa gerak relatif.
+3. **Pertemuan barat-selatan:** Samudra Barat, Samudra Timur-Selatan, dan lempeng benua di sekitar perairan antara Verdant, Ashen, dan Veiled. Periksa apakah titik tersebut dapat bergerak stabil atau memerlukan lempeng mikro.
+
+Nama kawasan di atas hanya petunjuk lokasi umum. Anggota lempeng yang tepat pada setiap triple junction belum final dan harus mengikuti sketsa batas sebenarnya.
+
+#### 7.15.5 Aturan arah gerak
+
+- Panah gerak harus menunjukkan gerak relatif antar-lempeng, bukan arah perjalanan atau arah angin.
+- Pada batas divergen, kedua lempeng bergerak saling menjauh secara relatif.
+- Pada batas konvergen, kedua lempeng bergerak saling mendekat; catat lempeng yang menunjam dan lempeng yang menindih.
+- Pada batas transform, gerak dominan sejajar batas dan berlawanan arah relatif.
+- Gerak harus konsisten pada seluruh jaringan. Tidak boleh memberi panah independen yang membuat satu lempeng bergerak dengan cara yang saling bertentangan di sisi berbeda tanpa rotasi lempeng yang dapat dijelaskan.
+- Kecepatan numerik belum diperlukan. Mulai dengan arah dan hubungan relatif; angka cm/tahun baru dipertimbangkan setelah geometri dan skala ditetapkan.
+
+#### 7.15.6 Uji khusus untuk klaim subduksi
+
+Setiap zona subduksi yang dipilih wajib memiliki:
+1. Dua lempeng yang saling konvergen.
+2. Identitas lempeng yang menunjam.
+3. Arah penunjaman (dip) dan sisi lempeng penindih.
+4. Palung atau zona deformasi di sisi batas yang sesuai.
+5. Posisi busur vulkanik pada lempeng penindih, pada jarak yang masuk akal dari palung.
+6. Pola gempa dangkal hingga dalam yang secara konseptual mengikuti slab yang menunjam.
+7. Ruang geometri yang tidak bertabrakan dengan batas lempeng lain secara mustahil.
+
+Untuk model ini, Ashen Frontier menjadi kandidat utama wilayah subduksi-vulkanik. Verdant, Central, Frost, dan Veiled dapat memiliki zona subduksi hanya jika jaringan batas global mendukungnya. Jangan menganggap setiap margin benua aktif.
+
+#### 7.15.7 Apakah sembilan lempeng cukup?
+
+Sembilan lempeng besar cukup untuk membuat **model dunia fantasi berskala kasar**, tetapi belum tentu cukup untuk merepresentasikan seluruh detail geologi planet. Jika sketsa menunjukkan batas yang terlalu rumit, lempeng mikro dapat ditambahkan. Jika dua lempeng yang diusulkan ternyata tidak memiliki batas yang dapat dibedakan, jumlah lempeng dapat dikurangi.
+
+Jumlah lempeng harus menjadi hasil rancangan geologi, bukan target yang dipaksakan hanya karena angka sembilan sudah ditulis.
+
+#### 7.15.8 Urutan audit sebelum peta tektonik baru dibuat
+
+1. Gambar enam benua sebagai siluet sederhana pada globe.
+2. Gambar tiga cekungan samudra dan tetapkan batas kasar tiga lempeng samudra.
+3. Tambahkan batas setiap lempeng benua sehingga seluruh jaringan menjadi tertutup.
+4. Tandai semua triple junction dan identifikasi tiga lempeng yang bertemu pada tiap titik.
+5. Beri jenis batas (konvergen, divergen, transform) untuk setiap segmen.
+6. Tambahkan panah gerak relatif yang konsisten.
+7. Tambahkan palung, punggung samudra, busur vulkanik, pegunungan, dan zona gempa berdasarkan jenis batas.
+8. Periksa apakah bentuk relief enam benua masih cocok dengan hasil model.
+9. Jika tidak cocok, revisi batas lempeng, jumlah lempeng, atau siluet; jangan memaksakan geologi untuk mempertahankan ilustrasi.
+
+**Keputusan yang belum dibuat:** jumlah lempeng final, konfigurasi triple junction, arah gerak, kecepatan, umur tektonik, dan sejarah geologi planet.
+
 ### 7.11 Prinsip pembentukan peta fisik
 
 Saat sketsa pertama dibuat, urutkan keputusan dari skala besar ke kecil:
