@@ -21,7 +21,7 @@ Dokumen ini adalah pusat dokumentasi dunia LEAX. Isinya memisahkan fakta yang su
 ### Struktur repository
 - [`00-CORE/`](00-CORE/) — ringkasan, indeks, dan panduan kontinuitas. Gunakan indeksnya untuk menemukan sumber detail.
 - [`01-CANON/`](01-CANON/) — rujukan detail untuk fakta CANON. Bible karakter, lokasi, dan organisasi: [Character Bible](01-CANON/Character-Bible.md), [Location Bible](01-CANON/Location-Bible.md), dan [Organization Bible](01-CANON/Organization-Bible.md).
-- [`98-CATATAN PENGEMBANGAN/`](98-CATATAN%20PENGEMBANGAN/) — usulan dan rancangan yang belum disahkan sebagai kanon.
+- [`98-CATATAN PENGEMBANGAN/`](98-CATATAN%20PENGEMBANGAN/) — usulan dan rancangan yang belum disahkan sebagai kanon. Lihat [Worldbuilding Coverage Matrix](98-CATATAN%20PENGEMBANGAN/Worldbuilding-Coverage-Matrix.md) untuk audit cakupan dokumentasi; status dan prioritas di dalamnya bukan penetapan canon.
 - [`99-ADMIN/`](99-ADMIN/) — changelog dan pertanyaan terbuka.
 - [BACA-DULU.md](BACA-DULU.md) — panduan paket dokumen dan jalur baca.
 
