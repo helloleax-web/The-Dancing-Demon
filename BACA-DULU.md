@@ -8,6 +8,7 @@ Paket ini berisi dokumen selain `00-CORE`, sehingga tidak mengulang 10 dokumen i
 - `01-CANON/Location-Bible.md` — dokumentasi lokasi berdasarkan fakta yang tercantum dalam repository; informasi dan hubungan yang belum ditentukan tetap ditandai.
 - `01-CANON/Organization-Bible.md` — dokumentasi fakta organisasi yang tercantum dalam repository serta informasi organisasi yang belum ditentukan.
 - `98-CATATAN PENGEMBANGAN/` — materi pengembangan yang dipertahankan dari arsip sumber. Isinya tidak otomatis menjadi kanon.
+- [Worldbuilding Coverage Matrix](98-CATATAN%20PENGEMBANGAN/Worldbuilding-Coverage-Matrix.md) — audit kelengkapan dokumentasi 19 bidang worldbuilding. Status cakupan dan prioritasnya adalah alat perencanaan, bukan penetapan canon.
 - `99-ADMIN/` — catatan perubahan dan pertanyaan terbuka.
 - `README.md` — panduan repository.
 
@@ -15,7 +16,8 @@ Paket ini berisi dokumen selain `00-CORE`, sehingga tidak mengulang 10 dokumen i
 1. Mulai dari [README repository](README.md) untuk gambaran struktur.
 2. Gunakan [indeks dokumentasi inti](00-CORE/00-README.md) untuk topik dan sumber detail.
 3. Baca dokumen `01-CANON/` yang ditautkan dari indeks sesuai topik.
-4. Perlakukan `98-CATATAN PENGEMBANGAN/` sebagai materi yang belum disahkan.
+4. Gunakan [Worldbuilding Coverage Matrix](98-CATATAN%20PENGEMBANGAN/Worldbuilding-Coverage-Matrix.md) untuk melihat cakupan, kekosongan, dan urutan pengembangan yang direkomendasikan.
+5. Perlakukan `98-CATATAN PENGEMBANGAN/` sebagai materi yang belum disahkan.
 
 ## Catatan
 Dokumen dipertahankan berdasarkan arsip ZIP sebelumnya. Tidak ada materi yang dipromosikan menjadi kanon hanya karena dipindahkan atau diganti nama foldernya. Paket ini tidak memuat ulang `00-CORE/`. Nama folder pada daftar di atas mengikuti path yang tersedia di repository.
