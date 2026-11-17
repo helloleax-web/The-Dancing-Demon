@@ -2,7 +2,7 @@
 
 **Status: CATATAN PENGEMBANGAN — kerangka kerja pemetaan, bukan geografi CANON.**
 
-**Keputusan pengembangan terbaru:** kreator memilih **Alternatif A — enam benua terpisah** sebagai draft pertama arsitektur daratan, dengan **ukuran yang sangat bervariasi**. Kedua pilihan ini mengarahkan tahap perancangan berikutnya, tetapi belum disahkan sebagai CANON.
+**Keputusan pengembangan terbaru:** kreator memilih **Alternatif A — enam benua terpisah** sebagai draft pertama arsitektur daratan, dengan **ukuran yang sangat bervariasi**. Kreator kemudian menyetujui untuk melanjutkan rekomendasi komposisi **Alternatif C — satu kelompok utama dan beberapa daratan terpencil** sebagai susunan spasial draft. Semua pilihan ini merupakan keputusan pengembangan dan belum disahkan sebagai CANON.
 
 Dokumen ini menjadi ruang kerja untuk membangun geografi dunia secara bertahap. Pilihan awal kreator yang dicatat di sini adalah **planet dengan skala kurang lebih setara Bumi**. Pilihan tersebut masih berstatus keputusan kerja yang menunggu konfirmasi final sebelum dapat diperlakukan sebagai CANON. Dokumen ini tidak menetapkan jumlah benua, posisi negara, koordinat lokasi, atau hubungan geografis yang belum diputuskan kreator.
 
@@ -85,9 +85,10 @@ Isi hanya setelah keputusan dibuat. Kolom kosong berarti belum ditentukan, bukan
 |---|---|---|
 | Jumlah benua | DRAFT PENGEMBANGAN: enam benua terpisah; belum CANON | Dipilih kreator sebagai arsitektur draft pertama. |
 | Ukuran relatif benua | DRAFT PENGEMBANGAN: sangat bervariasi; belum CANON | Dipilih kreator. Proporsi dan urutan ukuran masih berupa proposal perancangan. |
+| Komposisi posisi benua | DRAFT PENGEMBANGAN: satu kelompok utama dan beberapa daratan terpencil; belum CANON | Melanjutkan rekomendasi Alternatif C sebagai kerangka susunan spasial. Identitas anggota kelompok dan posisi tepat masih berupa proposal. |
 | Nama benua | BELUM DIPUTUSKAN | |
 | Pulau besar | BELUM DIPUTUSKAN | |
-| Samudra dan laut | BELUM DIPUTUSKAN | |
+| Samudra dan laut | BELUM DIPUTUSKAN | Susunan draft mengusulkan satu kawasan kelompok benua utama dan beberapa benua yang dipisahkan perairan luas; nama dan jumlah samudra belum ditentukan. |
 | Pegunungan utama | BELUM DIPUTUSKAN | |
 | Sungai dan danau utama | BELUM DIPUTUSKAN | |
 | Gurun / wilayah kering | BELUM DIPUTUSKAN | |
@@ -350,7 +351,60 @@ Belum ditetapkan:
 - Bentuk akhir garis pantai, pulau satelit, selat, dan teluk.
 - Apakah siluet yang diusulkan cocok setelah diuji pada globe dan proyeksi peta datar.
 
-### 7.8 Hubungan spasial yang belum digambar
+### 7.8 Komposisi posisi benua — satu kelompok utama dan beberapa daratan terpencil
+
+**Arah draft yang dipilih untuk dilanjutkan:** Alternatif C, yaitu satu kelompok utama dan beberapa daratan terpencil. Statusnya **keputusan pengembangan / draft, belum CANON**.
+
+Untuk menerjemahkan gagasan itu menjadi rancangan yang bisa diuji, berikut pembagian awal yang diusulkan:
+
+**Kelompok daratan utama — tiga benua yang relatif berdekatan**
+- The Central Reach — kandidat jangkar kelompok utama.
+- The Verdant Wilds — kandidat berada di sisi lain kelompok, dipisahkan selat atau laut regional.
+- The Sunken Sands — kandidat berada pada sisi berbeda dari kelompok, dengan jarak laut yang masih memungkinkan hubungan pelayaran regional.
+
+**Daratan yang lebih terpencil — tiga benua**
+- The Frostbound Expanse — kandidat berada pada lintang tinggi dan terpisah dari kelompok utama oleh perairan luas.
+- The Ashen Frontier — kandidat berada di luar kelompok utama, dengan pemisahan laut yang jelas.
+- The Veiled Continent — kandidat paling sulit dijangkau atau paling jauh dari pusat jaringan pelayaran utama.
+
+Pembagian anggota kelompok ini adalah **usulan kerja**, bukan keputusan eksplisit kreator. Jika hubungan geografis atau kebutuhan cerita mengarah ke susunan lain, anggota kelompok dapat ditukar.
+
+#### Diagram relasi konseptual
+
+```text
+       [Frostbound Expanse]
+                |
+         samudra luas
+                |
+ [Veiled Continent]      [Ashen Frontier]
+
+       KELOMPOK DARATAN UTAMA
+
+ [Verdant Wilds] -- laut regional -- [Central Reach]
+          \\                         /
+           \\---- [Sunken Sands] ---/
+```
+
+Diagram ini hanya menunjukkan gagasan kedekatan relatif dan keterpencilan. Diagram **bukan peta**, bukan arah kompas, bukan koordinat, dan tidak menetapkan bentuk garis pantai.
+
+#### Tujuan desain komposisi ini
+
+1. Kelompok utama dapat menjadi kawasan dengan interaksi lintas benua yang lebih intens tanpa harus menyatukan daratan secara fisik.
+2. Daratan terpencil memberi ruang untuk sejarah, ekologi, dan jaringan perjalanan yang berkembang lebih terisolasi.
+3. Perbedaan jarak dapat menciptakan variasi waktu tempuh dan tingkat keterhubungan antardaerah.
+4. Enam benua tetap diperlakukan sebagai daratan terpisah; “kelompok” berarti berdekatan secara geografis, bukan tersambung menjadi satu daratan.
+5. Tidak ada klaim bahwa salah satu benua menjadi pusat politik, pusat peradaban, atau paling maju.
+
+#### Hal yang masih harus diuji
+
+- Apakah tiga benua dalam kelompok utama memang Central Reach, Verdant Wilds, dan Sunken Sands.
+- Apakah Frostbound Expanse, Ashen Frontier, dan Veiled Continent merupakan tiga daratan terpencil yang tepat.
+- Seberapa dekat benua dalam kelompok utama: selat sempit, laut regional, atau jarak pelayaran beberapa hari/minggu.
+- Seberapa jauh tiga daratan terpencil dari kelompok utama.
+- Apakah susunan ini masuk akal setelah diproyeksikan pada globe berskala kurang lebih Bumi.
+- Bagaimana pola arus laut, angin, iklim, dan lempeng tektonik memengaruhi bentuk serta keterhubungan wilayah.
+
+### 7.9 Hubungan spasial yang belum digambar
 
 Untuk tahap ini, jangan menetapkan bahwa:
 - The Central Reach benar-benar berada di tengah globe.
@@ -361,7 +415,7 @@ Untuk tahap ini, jangan menetapkan bahwa:
 - The Veiled Continent tidak memiliki penduduk atau peradaban.
 - Keenam benua tersusun simetris atau tersebar merata.
 
-### 7.9 Prinsip komposisi draft A
+### 7.10 Prinsip komposisi draft A
 
 1. Keenam daratan harus memiliki siluet dan karakter geografis yang dapat dibedakan.
 2. Ukuran sangat bervariasi adalah pilihan kreator; angka luas dalam tabel hanya proposal untuk diuji.
@@ -371,7 +425,7 @@ Untuk tahap ini, jangan menetapkan bahwa:
 6. Letak ekspedisi Buku I belum boleh ditentukan hanya karena disebut “jalur utara”.
 7. Peta pertama cukup menunjukkan enam daratan, perairan besar, dan garis lintang perkiraan; detail fisik menyusul setelah komposisi disetujui.
 
-### 7.10 Prinsip pembentukan peta fisik
+### 7.11 Prinsip pembentukan peta fisik
 
 Saat sketsa pertama dibuat, urutkan keputusan dari skala besar ke kecil:
 1. Tentukan sebaran daratan dan samudra secara kasar; jangan beri nama negara atau kota dulu.
@@ -421,6 +475,7 @@ Urutan kerja yang disarankan:
 
 1. Konfirmasi final apakah model planet dan skala setara Bumi akan menjadi CANON.
 2. Uji proporsi luas dan karakter siluet pada bagian 7.7 melalui sketsa makro enam benua; persentase saat ini hanya usulan.
+3. Uji komposisi satu kelompok utama dan tiga daratan terpencil pada bagian 7.8; jangan menetapkan koordinat sebelum susunannya disetujui.
 3. Revisi komposisi daratan dan perairan sampai kreator menyetujui draft bentuk global.
 4. Tentukan rentang lintang, pola iklim, dan bioma berdasarkan bentuk dunia yang disepakati.
 5. Tempatkan jangkar cerita Buku I setelah kreator menentukan hubungan antar lokasi.
@@ -432,7 +487,7 @@ Urutan kerja yang disarankan:
 Pertanyaan ini sengaja dibiarkan terbuka. Jangan isi berdasarkan asumsi.
 
 - Apakah pilihan sementara planet dan skala kurang lebih setara Bumi dikonfirmasi sebagai CANON?
-- Apakah susunan spasial awal pada bagian 7.6 layak dipakai sebagai dasar sketsa, atau posisi konseptual tiap benua perlu diubah?
+- Apakah komposisi kelompok utama dan daratan terpencil pada bagian 7.8 layak dipakai, termasuk pembagian anggota benuanya?
 - Apakah distribusi ukuran relatif pada bagian 7.7 (24/21/18/15/13/9 dari total luas daratan) layak dipakai untuk sketsa, atau perlu diubah?
 - Apakah karakter siluet awal keenam benua pada bagian 7.7 sesuai, atau ada benua yang ingin lu bentuk ulang?
 - Apakah peta awal harus mencakup seluruh dunia atau hanya wilayah cerita Buku I?
