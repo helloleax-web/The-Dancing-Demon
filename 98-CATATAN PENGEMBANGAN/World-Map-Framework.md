@@ -582,6 +582,94 @@ Untuk tahap ini, jangan menetapkan bahwa:
 
 **Batas tahap ini:** rancangan siluet dan relief adalah usulan kreatif untuk diuji. Tidak ada nama fitur geografis baru, lokasi cerita baru, atau fakta geografi yang masuk CANON melalui bagian ini.
 
+### 7.14 Model tektonik awal — rancangan lempeng
+
+**Status: CATATAN PENGEMBANGAN / NON-CANON.** Model ini adalah hipotesis kerja untuk menguji apakah siluet, pegunungan, cekungan, dan wilayah vulkanik pada enam benua dapat dijelaskan oleh proses geologi yang konsisten. Model belum memiliki koordinat, batas lempeng presisi, umur geologi, atau sejarah pergerakan yang ditetapkan.
+
+#### 7.14.1 Prinsip dasar model
+
+- Kerak planet dibagi menjadi lempeng tektonik yang bergerak relatif satu sama lain.
+- Lempeng dapat memuat kerak samudra, kerak benua, atau keduanya; satu benua tidak wajib sama dengan satu lempeng.
+- Pegunungan, busur vulkanik, palung, punggung tengah samudra, patahan, dan cekungan harus ditempatkan berdasarkan jenis batas lempeng atau proses geologi lain yang masuk akal.
+- Tidak semua pegunungan harus vulkanik, dan tidak semua gunung api harus berada tepat di batas lempeng.
+- Bentuk peta sekarang adalah hasil proses panjang; garis pantai modern tidak harus mengikuti batas lempeng.
+- Mana, sihir, atau fenomena kosmik tidak digunakan sebagai penjelasan geologi kecuali kelak ada keputusan lore eksplisit.
+
+#### 7.14.2 Susunan lempeng kerja
+
+Untuk draft pertama, gunakan **enam lempeng besar yang membawa benua** dan **tiga lempeng samudra utama**. Ini bukan jumlah final dan tidak berarti setiap benua sepenuhnya berada pada satu lempeng.
+
+| Lempeng kerja | Daratan yang terutama dibawanya | Peran dalam rancangan |
+|---|---|---|
+| Lempeng Central | Sebagian besar The Central Reach | Lempeng benua utama kelompok utara; memiliki margin aktif pada sisi barat dan selatan serta interior yang relatif stabil. |
+| Lempeng Verdant | Sebagian besar The Verdant Wilds | Lempeng benua di barat kelompok utama; interaksi dengan kerak samudra dan Lempeng Central membentuk relief pesisir dan pegunungan. |
+| Lempeng Sands | Sebagian besar The Sunken Sands | Lempeng benua di timur kelompok utama; memiliki zona cekungan interior dan margin tektonik yang tidak seragam. |
+| Lempeng Frost | Sebagian besar The Frostbound Expanse | Lempeng lintang tinggi yang terpisah jauh; sejarah glasiasi dan tektoniknya perlu dibedakan dari iklim semata. |
+| Lempeng Ashen | Sebagian besar The Ashen Frontier | Lempeng kecil dengan satu margin konvergen aktif yang dapat menjelaskan busur vulkanik dan relief terjal. |
+| Lempeng Veiled | Sebagian besar The Veiled Continent | Lempeng terpencil dengan interior relatif tua/stabil dan salah satu margin aktif yang membentuk pegunungan pesisir. |
+| Lempeng Samudra Utara | Kerak samudra di antara kelompok utama dan Frost | Mengakomodasi pemekaran dasar laut dan zona subduksi di sekitar margin utara kelompok utama. |
+| Lempeng Samudra Selatan | Kerak samudra di antara kelompok utama, Ashen, dan Veiled | Mengakomodasi batas konvergen, divergen, atau transform yang masih harus dipilih setelah peta global diuji. |
+| Lempeng Samudra Timur | Kerak samudra pada samudra luas sisi timur | Menyediakan batas tambahan dan ruang bagi punggung tengah samudra atau zona subduksi. |
+
+Nama-nama lempeng di atas hanya label kerja. Jumlah, luas, dan batasnya dapat berubah; beberapa lempeng dapat dipecah menjadi lempeng mikro bila sketsa global membutuhkannya.
+
+#### 7.14.3 Interaksi batas lempeng yang diusulkan
+
+| Kawasan | Jenis interaksi kandidat | Dampak geologi yang dapat diuji |
+|---|---|---|
+| Margin barat Central Reach dan sisi timur Verdant Wilds | Konvergensi dengan kerak samudra yang tersubduksi di antara kedua daratan | Palung laut, busur kepulauan vulkanik, pegunungan pesisir, dan kemungkinan penyempitan laut regional dalam jangka geologi panjang. |
+| Margin selatan Central Reach | Kandidat batas transform atau konvergen miring | Patahan memanjang, gempa, pegunungan tersegmentasi, atau cekungan tarik; pilih satu konfigurasi yang konsisten pada tahap pemetaan lempeng. |
+| Margin timur Sunken Sands | Kandidat margin pasif atau konvergen di bagian tertentu | Pesisir yang relatif stabil di satu sisi, dan kemungkinan pegunungan/palung di sisi lain; jangan memberi aktivitas tektonik seragam sepanjang pantai. |
+| Margin utara atau timur Frostbound Expanse | Kandidat konvergensi atau batas transform pada lintang tinggi | Pegunungan tua/terangkat, busur pulau, atau patahan; bentuk akhirnya bergantung pada sejarah lempeng dan bukan sekadar suhu dingin. |
+| Margin barat atau selatan Ashen Frontier | Konvergensi kerak samudra ke bawah lempeng benua | Busur vulkanik, intrusi magma, pegunungan, gempa, dan cekungan depan busur. Ini menjadi penjelasan utama kandidat vulkanisme Ashen. |
+| Salah satu margin panjang Veiled Continent | Kandidat konvergensi; sisi lainnya dapat berupa margin pasif | Pegunungan pesisir pada sisi aktif dan garis pantai lebih tenang pada sisi pasif; teluk dalam perlu diuji sebagai cekungan tektonik atau hasil proses lain. |
+| Samudra luas di antara daratan terpencil | Kandidat punggung tengah samudra dan batas transform yang saling terhubung | Pemekaran dasar samudra, pembentukan kerak samudra baru, dan pola gempa bawah laut. |
+
+Tabel ini belum menentukan bahwa semua interaksi tersebut benar-benar terjadi sekaligus. Saat membuat peta lempeng, pilih batas yang saling tersambung dan membentuk sistem global yang koheren; jangan menempatkan zona subduksi atau punggung samudra sebagai dekorasi terpisah.
+
+#### 7.14.4 Menjelaskan fitur relief pada enam benua
+
+- **Central Reach:** pegunungan barat/barat laut dapat menjadi hasil konvergensi atau tumbukan lama. Dataran tengah dapat berupa wilayah interior yang relatif stabil. Dataran tinggi timur tidak harus berasal dari vulkanisme.
+- **Verdant Wilds:** relief barat laut-tengah dapat terbentuk oleh pengangkatan tektonik lama. Teluk timur dan semenanjung selatan harus diuji terhadap patahan, erosi, dan perubahan muka laut, bukan otomatis dianggap bekas retakan lempeng.
+- **Sunken Sands:** cekungan pedalaman dapat berupa cekungan struktural, cekungan foreland, atau cekungan tertutup yang berkembang karena kombinasi relief dan iklim. Gurun tidak dibentuk langsung oleh tektonik; sirkulasi atmosfer, lintang, dan bayangan hujan harus menjelaskannya.
+- **Frostbound Expanse:** pegunungan tengah-utara dapat berasal dari batas konvergen lama atau aktif. Fjord dan lembah glasial hanya muncul jika sejarah glasiasi dan erosi glasial mendukungnya.
+- **Ashen Frontier:** busur vulkanik di margin konvergen adalah penjelasan utama untuk gunung api. Aktivitas vulkanik dapat terkonsentrasi pada satu jalur; seluruh benua tidak perlu berupa lava atau gunung api.
+- **Veiled Continent:** pegunungan pesisir dapat berada di margin konvergen, sementara teluk dalam dapat merupakan cekungan tektonik, lembah terendam, atau hasil proses gabungan. Keterpencilan benua tidak disebabkan oleh tektonik dengan sendirinya.
+
+#### 7.14.5 Proses yang harus dibedakan
+
+1. **Konvergen:** lempeng saling mendekat; dapat menghasilkan subduksi, palung, busur vulkanik, atau tumbukan benua.
+2. **Divergen:** lempeng saling menjauh; dapat menghasilkan rift dan punggung tengah samudra.
+3. **Transform:** lempeng bergeser mendatar; dapat menghasilkan patahan dan gempa, tetapi bukan otomatis deretan gunung api.
+4. **Pengangkatan dan erosi:** dapat membentuk atau mengubah relief tanpa harus menciptakan batas lempeng aktif.
+5. **Glasiasi dan perubahan muka laut:** dapat mengukir fjord, lembah, teluk, dan garis pantai, tetapi tidak menggantikan kebutuhan model tektonik.
+6. **Iklim dan sirkulasi atmosfer:** menentukan distribusi gurun, hutan, salju, dan curah hujan; tektonik hanya memberi kondisi batas seperti elevasi dan orientasi pegunungan.
+
+#### 7.14.6 Pemeriksaan konsistensi sebelum model diterima
+
+- Setiap batas lempeng harus tersambung secara masuk akal atau berakhir pada batas tiga lempeng yang dapat dijelaskan.
+- Zona subduksi harus memiliki lempeng yang menunjam dan lempeng yang menindih; arah penunjaman harus dicatat.
+- Busur vulkanik ditempatkan pada sisi lempeng penindih, bukan secara acak di tengah samudra.
+- Punggung tengah samudra harus memiliki ruang untuk kerak samudra baru dan pergerakan menjauh.
+- Pegunungan tumbukan benua harus memiliki sejarah konvergensi yang mendukung.
+- Cekungan dan teluk tidak otomatis dianggap sebagai batas lempeng aktif.
+- Pola gempa, vulkanisme, dan relief harus saling mendukung.
+- Jangan mengklaim bahwa rancangan ini adalah satu-satunya konfigurasi geologi yang mungkin.
+
+#### 7.14.7 Hal yang masih terbuka
+
+- Jumlah dan batas lempeng final.
+- Arah gerak dan kecepatan relatif setiap lempeng.
+- Umur dan urutan peristiwa tektonik.
+- Lokasi palung, punggung tengah samudra, zona subduksi, dan patahan besar.
+- Apakah kelompok tiga benua utama sedang bergerak saling mendekat, menjauh, atau bergeser.
+- Sejarah terbentuknya teluk besar dan cekungan di Veiled Continent serta Sunken Sands.
+- Sejarah glasiasi Frostbound Expanse.
+- Distribusi aktivitas vulkanik Ashen Frontier.
+- Hubungan antara geologi, sumber daya, dan sejarah peradaban.
+
+**Kesimpulan kerja:** model sembilan lempeng ini adalah titik awal untuk menguji peta, bukan keputusan final. Jika sketsa batas lempeng tidak dapat menjelaskan bentuk benua secara konsisten, ubah model lempeng atau siluetnya; jangan memaksakan penjelasan.
+
 ### 7.11 Prinsip pembentukan peta fisik
 
 Saat sketsa pertama dibuat, urutkan keputusan dari skala besar ke kecil:
