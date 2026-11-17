@@ -129,7 +129,7 @@ Register ini menjaga nama dan fakta yang sudah ada agar tidak hilang saat peta m
 | Bukit tempat fasilitas Buku I berada | Fasilitas ditemukan di bawah bukit. | BELUM DITENTUKAN | Hubungan dengan lokasi indeks belum dikonfirmasi. |
 | Fasilitas bawah tanah Buku I | Fasilitas peninggalan Bumi kuno yang ditemukan ekspedisi. | BELUM DITENTUKAN | Nama dan hubungan dengan Fasilitas Hollow Vale belum dikonfirmasi. |
 | Tempat yang ditunjuk salinan catatan | Lokasi lain yang tidak dikenal dalam peta modern. | BELUM DIKETAHUI | Petunjuk dari fasilitas Buku I; lokasi belum diketahui. |
-| Tiga Belas Prasasti | Jumlah 13; lokasi belum ditentukan. | BELUM DIKETAHUI | Hubungan spasial ant prasasti belum diketahui. |
+| Tiga Belas Prasasti | Jumlah 13; lokasi belum ditentukan. | BELUM DIKETAHUI | Hubungan spasial antar-Prasasti belum diketahui. |
 
 **Catatan:** nama-nama yang tercantum dalam indeks canon tetap dipertahankan. Register ini tidak menyatakan bahwa semua penanda di atas merupakan lokasi terpisah; beberapa adalah penanda peristiwa atau objek geografis yang belum memiliki nama.
 
