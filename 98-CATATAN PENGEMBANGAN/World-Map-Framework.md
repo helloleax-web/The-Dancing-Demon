@@ -1146,6 +1146,72 @@ Koordinat ini berasal dari layout graf matematis, bukan hasil keputusan kreatif 
 
 **Kesimpulan kerja:** sekarang tersedia satu kerangka bola abstrak yang dapat dipakai untuk visualisasi dan eksperimen. Ini belum menjadi globe geografis dunia LEAX. Tahap berikutnya adalah merancang luas relatif wilayah lempeng dan menentukan orientasi globe yang memudahkan penempatan benua, tanpa menganggap koordinat matematis ini sebagai lokasi canon.
 
+### 7.21 Audit luas bola dan target distribusi sembilan lempeng
+
+**Status: CATATAN PENGEMBANGAN / NON-CANON.** Bagian ini memeriksa apakah koordinat simpul pada 7.20 dapat dipakai untuk menghitung luas sembilan wilayah. Hasil audit menunjukkan bahwa koordinat tersebut belum membentuk pembagian bola yang lengkap. Karena itu, angka luas dari koordinat lama tidak dipakai sebagai dasar distribusi final.
+
+#### 7.21.1 Temuan audit koordinat 7.20
+
+Dengan menafsirkan koordinat matematis pada 7.20 sebagai titik pada bola satuan dan setiap sisi sebagai busur geodesik terpendek, luas poligon hasil siklus batas tidak mencakup seluruh permukaan bola. Jumlah luas absolut sembilan poligon hanya sekitar **81,37%** dari luas bola. Nilai ini menunjukkan adanya celah, tumpang tindih, atau persoalan orientasi/pemilihan sisi poligon yang belum diselesaikan.
+
+Temuan ini berarti:
+- Koordinat pada 7.20 tidak boleh dipakai untuk menetapkan luas lempeng.
+- Klaim bahwa koordinat tersebut telah menghasilkan sembilan wilayah yang menutupi seluruh globe belum terbukti.
+- Lolosnya graf planar pada 7.19 tidak otomatis menjamin koordinat bola yang dicatat pada 7.20 mempertahankan embedding muka secara benar.
+- Bagian 7.20 tetap berguna sebagai catatan transformasi matematis, tetapi bukan geometri geografis yang tervalidasi.
+
+**Koreksi status:** spherical embedding 7.20 berstatus visualisasi matematis sementara, belum lolos audit geometri bola dan luas.
+
+#### 7.21.2 Target distribusi luas lempeng untuk rancangan berikutnya
+
+Sambil memperbaiki geometri bola, gunakan distribusi berikut sebagai **target luas konseptual** untuk mengarahkan konstruksi baru. Persentase dihitung dari seluruh permukaan planet, bukan dari luas daratan dan bukan dari luas keenam benua.
+
+| Lempeng | Target luas permukaan planet | Peran konseptual |
+|---|---:|---|
+| Central (CR) | 18% | Lempeng benua pembawa Central Reach dengan margin samudra yang luas. |
+| Verdant (VW) | 12% | Lempeng pembawa Verdant Wilds dan kerak samudra pada sebagian marginnya. |
+| Sands (SS) | 10% | Lempeng pembawa Sunken Sands dan cekungan samudra terkait. |
+| Frost (FR) | 8% | Lempeng pembawa Frostbound Expanse serta margin samudra lintang tinggi. |
+| Ashen (AF) | 7% | Lempeng pembawa Ashen Frontier; ukurannya lebih kecil tetapi memiliki margin tektonik aktif dalam rancangan. |
+| Veiled (VC) | 11% | Lempeng pembawa Veiled Continent dan margin samudra yang memisahkannya dari lempeng lain. |
+| Samudra Utara (NO) | 14% | Lempeng samudra luas di kawasan utara planet. |
+| Samudra Barat (WO) | 11% | Lempeng samudra di sisi barat kelompok utama. |
+| Samudra Timur-Selatan (SE) | 9% | Lempeng samudra di sisi timur dan selatan kelompok utama. |
+| **Total** | **100%** | Seluruh permukaan planet. |
+
+Target ini sengaja membuat lempeng benua tidak identik dengan luas daratan benuanya. Setiap lempeng benua dapat mencakup kerak samudra di sekeliling benua, sedangkan tiga lempeng samudra tetap memuat bagian besar dasar samudra.
+
+Distribusi tersebut bukan hasil pengukuran koordinat dan belum disesuaikan dengan konstruksi geometri bola. Nilainya adalah target desain yang harus dipenuhi atau direvisi ketika poligon bola baru dibangun.
+
+#### 7.21.3 Hubungan dengan luas keenam benua
+
+Proposal luas keenam benua pada 7.7 tetap dihitung sebagai persentase dari **total luas daratan enam benua**, bukan persentase permukaan planet:
+- Central Reach: 24%.
+- Veiled Continent: 21%.
+- Verdant Wilds: 18%.
+- Frostbound Expanse: 15%.
+- Sunken Sands: 13%.
+- Ashen Frontier: 9%.
+
+Dua sistem persentase ini tidak boleh dicampur:
+1. **Luas lempeng:** persentase dari seluruh permukaan planet.
+2. **Luas benua:** persentase dari total luas daratan enam benua.
+
+Luas daratan harus ditempatkan di dalam poligon lempeng pembawanya, tetapi tidak harus memenuhi seluruh luas lempeng. Bagian lempeng yang tersisa dapat berupa kerak samudra, busur kepulauan, atau margin benua.
+
+#### 7.21.4 Syarat sebelum target luas dianggap terpenuhi
+
+Konstruksi bola berikutnya harus:
+1. Menghasilkan sembilan poligon tertutup yang menutupi seluruh permukaan bola.
+2. Memastikan interior poligon tidak saling tumpang tindih.
+3. Memastikan setiap segmen batas dipakai bersama oleh tepat dua lempeng yang bertetangga.
+4. Memastikan setiap simpul mempertemukan tiga lempeng sesuai topologi.
+5. Menghitung luas geodesik tiap poligon pada bola.
+6. Membandingkan hasilnya dengan target 7.21.2 dan menyesuaikan koordinat, bukan mengubah persentase secara diam-diam.
+7. Menyatakan toleransi deviasi yang dipakai sebelum mengklaim distribusi telah cocok.
+
+**Kesimpulan kerja:** target distribusi sembilan lempeng sekarang ditetapkan sebagai rancangan luas konseptual 100%. Koordinat 7.20 belum memenuhi target dan tidak boleh digunakan untuk mengklaim luas aktual. Tahap berikutnya adalah membangun ulang geometri bola yang benar-benar menutup seluruh permukaan dan menghitung luas geodesiknya.
+
 ### 7.11 Prinsip pembentukan peta fisik
 
 Saat sketsa pertama dibuat, urutkan keputusan dari skala besar ke kecil:
