@@ -13,13 +13,12 @@ ini bukan profil lengkap.
 -   Ilyra Nym
 
 Tavian Rell adalah manusia laki-laki berusia 21 tahun dan bekerja
-sebagai asisten survei. Profil keluarga, kepribadian, humor, desain
-visual, dan konflik karakternya harus merujuk pada dokumen karakter
-lengkap.
+sebagai asisten survei. Lihat `../01-CANON/Character-Bible.md` untuk
+ringkasan fakta karakter dan penanda informasi yang belum ditetapkan.
 
-Profil lengkap lima karakter lainnya, dinamika kelompok, dan
-perkembangan karakter juga harus dipertahankan sesuai dokumen karakter
-khusus. Jangan mengisi detail yang tidak tercantum di sini.
+Profil karakter lain, dinamika kelompok, dan perkembangan karakter
+dirangkum di `../01-CANON/Character-Bible.md` sejauh didukung sumber.
+Jangan mengisi detail yang belum tercantum sebagai fakta.
 
 ## Lokasi
 

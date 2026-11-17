@@ -4,6 +4,7 @@ Paket ini berisi dokumen selain `00-CORE`, sehingga tidak mengulang 10 dokumen i
 
 ## Isi paket
 - `01-CANON/` — dokumen kanon yang sudah ada pada arsip sumber.
+- `01-CANON/Character-Bible.md` — dokumentasi karakter berdasarkan fakta yang tercantum dalam repository; informasi yang belum ditentukan tetap ditandai.
 - `98-CATATAN PENGEMBANGAN/` — materi pengembangan yang dipertahankan dari arsip sumber. Isinya tidak otomatis menjadi kanon.
 - `99-ADMIN/` — catatan perubahan dan pertanyaan terbuka.
 - `README.md` — panduan repository.
