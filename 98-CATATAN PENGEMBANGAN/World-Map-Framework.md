@@ -351,58 +351,82 @@ Belum ditetapkan:
 - Bentuk akhir garis pantai, pulau satelit, selat, dan teluk.
 - Apakah siluet yang diusulkan cocok setelah diuji pada globe dan proyeksi peta datar.
 
-### 7.8 Komposisi posisi benua — satu kelompok utama dan beberapa daratan terpencil
+### 7.8 Komposisi posisi benua — rancangan kerja yang dipilih untuk diuji
 
-**Arah draft yang dipilih untuk dilanjutkan:** Alternatif C, yaitu satu kelompok utama dan beberapa daratan terpencil. Statusnya **keputusan pengembangan / draft, belum CANON**.
+**Arah komposisi:** satu kelompok utama berisi tiga benua dan tiga benua terpencil. Kreator menyerahkan penataan draft kepada asisten untuk dirancang. Karena itu, susunan di bawah dipilih sebagai **rancangan kerja aktif**, tetapi tetap **NON-CANON** dan dapat direvisi.
 
-Untuk menerjemahkan gagasan itu menjadi rancangan yang bisa diuji, berikut pembagian awal yang diusulkan:
+#### 7.8.1 Penempatan konseptual keenam benua
 
-**Kelompok daratan utama — tiga benua yang relatif berdekatan**
-- The Central Reach — kandidat jangkar kelompok utama.
-- The Verdant Wilds — kandidat berada di sisi lain kelompok, dipisahkan selat atau laut regional.
-- The Sunken Sands — kandidat berada pada sisi berbeda dari kelompok, dengan jarak laut yang masih memungkinkan hubungan pelayaran regional.
+| Benua | Penempatan konseptual | Hubungan dengan benua lain | Alasan desain |
+|---|---|---|---|
+| The Central Reach | Belahan utara, lintang menengah; menjadi jangkar kelompok utama | Berdekatan dengan Verdant Wilds dan Sunken Sands, dipisahkan laut regional | Ukurannya paling besar dan posisi relatifnya memudahkan tiga benua utama saling terhubung melalui pelayaran. |
+| The Verdant Wilds | Belahan utara bagian selatan hingga sekitar kawasan tropis; sisi barat daya kelompok utama | Bertetangga laut dengan Central Reach dan Sunken Sands | Memberi transisi dari wilayah lintang menengah ke kawasan lembap; tidak mengharuskan seluruh benua berada di tropis. |
+| The Sunken Sands | Belahan utara bagian tenggara kelompok utama, kandidat lintang subtropis | Berada di sisi lain Central Reach dan relatif dekat dengan Verdant Wilds | Posisi subtropis dan kemungkinan bayangan hujan dapat mendukung kawasan kering tanpa menjadikan seluruh benua gurun. |
+| The Frostbound Expanse | Lintang tinggi di belahan utara, jauh dari kelompok utama | Dipisahkan samudra luas dari tiga benua utama | Memberi isolasi geografis dan lingkungan dingin yang dapat dipengaruhi lintang serta arus laut. |
+| The Ashen Frontier | Belahan selatan, lintang menengah; terpisah dari kelompok utama | Memiliki samudra luas sebagai pemisah; tidak ditempatkan dekat Frostbound secara otomatis | Memberi ruang untuk sistem tektonik/vulkanik regional yang berbeda dari kelompok utama. |
+| The Veiled Continent | Belahan selatan atau tenggara jauh, terpisah oleh samudra luas dan jalur pelayaran yang sulit | Menjadi daratan paling jauh dari jaringan kelompok utama dalam rancangan ini | Keterpencilan menjelaskan tantangan pemetaan; tidak menyiratkan benua kosong, terlarang, atau tanpa peradaban. |
 
-**Daratan yang lebih terpencil — tiga benua**
-- The Frostbound Expanse — kandidat berada pada lintang tinggi dan terpisah dari kelompok utama oleh perairan luas.
-- The Ashen Frontier — kandidat berada di luar kelompok utama, dengan pemisahan laut yang jelas.
-- The Veiled Continent — kandidat paling sulit dijangkau atau paling jauh dari pusat jaringan pelayaran utama.
+Penempatan lintang dan belahan planet ini merupakan hipotesis desain. Belum ada koordinat, bujur, garis khatulistiwa final, pola arus laut, angin global, atau kemiringan sumbu yang ditetapkan.
 
-Pembagian anggota kelompok ini adalah **usulan kerja**, bukan keputusan eksplisit kreator. Jika hubungan geografis atau kebutuhan cerita mengarah ke susunan lain, anggota kelompok dapat ditukar.
+#### 7.8.2 Diagram posisi konseptual
 
-#### Diagram relasi konseptual
+Diagram berikut memakai arah atas = utara dan bawah = selatan. Jarak dan ukuran simbol tidak berskala.
 
 ```text
-       [Frostbound Expanse]
-                |
-         samudra luas
-                |
- [Veiled Continent]      [Ashen Frontier]
+                         UTARA
 
-       KELOMPOK DARATAN UTAMA
+              [FROSTBOUND EXPANSE]
+                    samudra luas
 
- [Verdant Wilds] -- laut regional -- [Central Reach]
-          \\                         /
-           \\---- [Sunken Sands] ---/
+
+       KELOMPOK DARATAN UTAMA (BELAHAN UTARA)
+
+ [VERDANT WILDS] -- laut regional -- [CENTRAL REACH]
+          \                              /
+           \------ [SUNKEN SANDS] ------/
+
+
+                    samudra luas
+
+                 [ASHEN FRONTIER]
+
+
+            samudra luas / jalur terpencil
+
+                 [VEILED CONTINENT]
+
+                         SELATAN
 ```
 
-Diagram ini hanya menunjukkan gagasan kedekatan relatif dan keterpencilan. Diagram **bukan peta**, bukan arah kompas, bukan koordinat, dan tidak menetapkan bentuk garis pantai.
+Diagram ini adalah skema hubungan dan posisi kasar, bukan peta final, bukan proyeksi globe, dan bukan penetapan arah kompas yang presisi.
 
-#### Tujuan desain komposisi ini
+#### 7.8.3 Struktur jarak dan keterhubungan
 
-1. Kelompok utama dapat menjadi kawasan dengan interaksi lintas benua yang lebih intens tanpa harus menyatukan daratan secara fisik.
-2. Daratan terpencil memberi ruang untuk sejarah, ekologi, dan jaringan perjalanan yang berkembang lebih terisolasi.
-3. Perbedaan jarak dapat menciptakan variasi waktu tempuh dan tingkat keterhubungan antardaerah.
-4. Enam benua tetap diperlakukan sebagai daratan terpisah; “kelompok” berarti berdekatan secara geografis, bukan tersambung menjadi satu daratan.
-5. Tidak ada klaim bahwa salah satu benua menjadi pusat politik, pusat peradaban, atau paling maju.
+- **Kelompok utama:** tiga benua cukup dekat untuk memungkinkan pelayaran regional dan pertukaran lintas benua, tetapi tetap dipisahkan oleh laut.
+- **Frostbound Expanse:** terpisah oleh samudra luas; akses dapat lebih sulit karena lintang tinggi dan kondisi laut, jika kondisi tersebut kelak dipilih.
+- **Ashen Frontier:** dipisahkan dari kelompok utama oleh samudra; tidak otomatis menjadi wilayah yang tidak dapat dijangkau.
+- **Veiled Continent:** dirancang sebagai yang paling terpencil dari jaringan pelayaran kelompok utama. Tingkat keterpencilannya harus dijelaskan melalui jarak, arus, cuaca, atau keterbatasan navigasi yang kelak ditetapkan—bukan sekadar kabut misterius.
 
-#### Hal yang masih harus diuji
+Belum ada jumlah hari pelayaran, jarak kilometer, nama samudra, selat, atau rute kapal yang ditentukan.
 
-- Apakah tiga benua dalam kelompok utama memang Central Reach, Verdant Wilds, dan Sunken Sands.
-- Apakah Frostbound Expanse, Ashen Frontier, dan Veiled Continent merupakan tiga daratan terpencil yang tepat.
-- Seberapa dekat benua dalam kelompok utama: selat sempit, laut regional, atau jarak pelayaran beberapa hari/minggu.
-- Seberapa jauh tiga daratan terpencil dari kelompok utama.
-- Apakah susunan ini masuk akal setelah diproyeksikan pada globe berskala kurang lebih Bumi.
-- Bagaimana pola arus laut, angin, iklim, dan lempeng tektonik memengaruhi bentuk serta keterhubungan wilayah.
+#### 7.8.4 Mengapa susunan ini dipilih
+
+1. Kelompok utama menyediakan area yang masuk akal untuk hubungan perdagangan, diplomasi, konflik, migrasi, dan pertukaran pengetahuan lintas benua.
+2. Tiga benua terpencil tidak harus memiliki fungsi cerita yang sama: isolasi Frostbound dapat bersifat iklim/geografis, Ashen dapat terkait kondisi geologi, sedangkan Veiled dapat terkait jarak dan akses.
+3. Ukuran benua yang bervariasi tetap dapat dipertahankan tanpa membuat semuanya tersusun simetris.
+4. Susunan ini menyediakan ruang untuk cerita lintas benua, tetapi tidak memaksa semua delapan buku mengunjungi seluruh benua.
+5. Penempatan ekspedisi Buku I tetap belum diputuskan. Istilah “jalur utara” saja tidak cukup untuk menempatkannya di Frostbound Expanse.
+
+#### 7.8.5 Hal yang sengaja belum ditetapkan
+
+- Koordinat dan bujur setiap benua.
+- Bentuk final dan orientasi siluet.
+- Nama, jumlah, kedalaman, dan batas samudra.
+- Jarak dan waktu tempuh antarbenua.
+- Apakah kelompok utama berada di satu lempeng tektonik atau beberapa lempeng.
+- Pola arus laut, angin, musim, dan iklim final.
+- Negara, kota, jalur perdagangan, pelabuhan, serta lokasi cerita.
+- Penempatan lokasi canon dan lokasi ekspedisi Buku I.
 
 ### 7.9 Hubungan spasial yang belum digambar
 
@@ -487,7 +511,7 @@ Urutan kerja yang disarankan:
 Pertanyaan ini sengaja dibiarkan terbuka. Jangan isi berdasarkan asumsi.
 
 - Apakah pilihan sementara planet dan skala kurang lebih setara Bumi dikonfirmasi sebagai CANON?
-- Apakah komposisi kelompok utama dan daratan terpencil pada bagian 7.8 layak dipakai, termasuk pembagian anggota benuanya?
+- Apakah rancangan kerja penempatan enam benua pada bagian 7.8 perlu direvisi setelah dibuat sketsa visual?
 - Apakah distribusi ukuran relatif pada bagian 7.7 (24/21/18/15/13/9 dari total luas daratan) layak dipakai untuk sketsa, atau perlu diubah?
 - Apakah karakter siluet awal keenam benua pada bagian 7.7 sesuai, atau ada benua yang ingin lu bentuk ulang?
 - Apakah peta awal harus mencakup seluruh dunia atau hanya wilayah cerita Buku I?
