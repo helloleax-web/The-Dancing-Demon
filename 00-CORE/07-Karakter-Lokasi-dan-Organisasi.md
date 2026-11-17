@@ -28,6 +28,8 @@ Jangan mengisi detail yang belum tercantum sebagai fakta.
 -   Fasilitas Hollow Vale
 -   Rookbridge
 
+Lihat `../01-CANON/Location-Bible.md` untuk fakta lokasi yang terdokumentasi dan rincian yang masih belum ditentukan.
+
 ## Organisasi
 
 -   Konsorsium Survei Meridian

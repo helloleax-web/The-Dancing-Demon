@@ -20,7 +20,7 @@ Dokumen ini adalah pusat dokumentasi dunia LEAX. Isinya memisahkan fakta yang su
 
 ### Struktur repository
 - `00-CORE/` — dokumentasi inti dunia, sistem mana, cerita, karakter/lokasi/organisasi, dan kontinuitas.
-- `01-CANON/` — dokumen kanon tentang dunia, karakter, peradaban kuno, kosmologi, Great War, prasasti, International Authority, dan KVK. Lihat `01-CANON/Character-Bible.md` untuk dokumentasi karakter.
+- `01-CANON/` — dokumen kanon tentang dunia, karakter, lokasi, peradaban kuno, kosmologi, Great War, prasasti, International Authority, dan KVK. Lihat `01-CANON/Character-Bible.md` untuk dokumentasi karakter dan `01-CANON/Location-Bible.md` untuk dokumentasi lokasi.
 - `98-CATATAN PENGEMBANGAN/` — usulan dan rancangan yang belum disahkan sebagai kanon.
 - `99-ADMIN/` — changelog kanon dan pertanyaan terbuka.
 - `BACA-DULU.md` — panduan untuk paket dokumen lanjutan.
