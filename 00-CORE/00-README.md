@@ -40,7 +40,7 @@ Dokumen berikut merupakan draft NON-CANON dan tidak menggantikan Bible rujukan:
 
 ## Aturan
 
--   Jangan mengubah canon tanpa persetujuan kreator.
+-   Jangan mengubah canon di luar mandat atau keputusan kreator; catat setiap perubahan dalam Canon Changelog.
 -   Jangan mengangkat proposal menjadi canon secara diam-diam.
 -   Jangan mengisi misteri dengan asumsi.
 -   Jika menemukan kontradiksi, catat terlebih dahulu.
