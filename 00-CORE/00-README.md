@@ -18,6 +18,7 @@ Paket ini berisi ringkasan, indeks, dan panduan kontinuitas untuk lore *The Danc
 ## Administrasi dan pemeliharaan
 
 - [Canon Audit Report](../99-ADMIN/Canon-Audit-Report-2026-11-18.md) — temuan audit konsistensi, status perbaikan, dan batas validasi.
+- [Repository Maintenance Report](../99-ADMIN/Repository-Maintenance-Report-2026-11-18.md) — pemeliharaan dokumentasi atlas dan matriks worldbuilding.
 - [Editorial and Repository Maintenance Policy](../99-ADMIN/Editorial-Maintenance-Policy.md) — standar editorial dan pemeliharaan repository.
 - [Open Questions](../99-ADMIN/Open-Questions.md) — daftar keputusan dan pengembangan yang masih terbuka.
 - [Canon Changelog](../99-ADMIN/Canon-Changelog.md) — riwayat perubahan canon dan dokumentasi.
