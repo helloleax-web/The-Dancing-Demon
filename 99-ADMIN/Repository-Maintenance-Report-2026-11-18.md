@@ -243,3 +243,14 @@ Tidak ada perubahan CANON.
 - Audit konvergensi memuat empat resolusi grid sampai 9.216.000 sel. Selisih maksimum matriks pada dua resolusi tertinggi 0,01317 poin persentase; perubahan rata-rata dominasi 0,00286 poin.
 - Matriks clipping poligon R0.2, rotasi, dan geometri sumber tidak diubah.
 - Seluruh artefak tetap NON-CANON. Tidak ada perubahan CANON atau retcon.
+
+
+## Inventaris topologi batas lempeng V0.1 — 2026-11-19
+
+Dibuat inventaris topologi dari geometri V1.0-R: 21 sisi batas, 9 muka, dan 14 triple junction. Setiap sisi diverifikasi berbatasan dengan tepat dua muka; setiap simpul memiliki derajat tiga dan mempertemukan tiga muka. Dokumen menyimpan daftar pasangan muka untuk setiap sisi, adjacency antarmuka, serta daftar muka pada tiap simpul.
+
+Artefak: [inventaris Markdown](../98-CATATAN%20PENGEMBANGAN/Plate-Boundary-Topology-Inventory-V0.1.md), [data JSON](../98-CATATAN%20PENGEMBANGAN/Plate-Boundary-Topology-Inventory-V0.1.json).
+
+Batas interpretasi: tidak ada tipe batas, arah gerak, kecepatan, jenis kerak, subduksi, atau pemekaran yang ditetapkan. Inventaris hanya mengunci adjacency topologis. Semua tetap NON-CANON.
+
+Tidak ada perubahan CANON.
