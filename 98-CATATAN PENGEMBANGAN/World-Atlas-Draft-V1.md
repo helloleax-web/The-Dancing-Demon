@@ -305,3 +305,10 @@ Paket atlas ini menjadi acuan tunggal untuk menyelesaikan:
 7. audit kontinuitas cerita.
 
 **Status akhir saat dokumen dibuat:** atlas konseptual lengkap sebagai rancangan kerja; belum merupakan peta koordinat final, belum lolos uji containment, dan belum CANON.
+
+
+## Lampiran teknis: referensi geometri V1.0
+
+Data simpul, sisi, siklus muka, dan tabel luas V1.0 yang berhasil dipulihkan dari dokumentasi historis tersedia di `World-Plate-Geometry-V1.0-reference.json`. Ini adalah transkripsi terstruktur dari data yang dipublikasikan, bukan file koordinat planar asli. Koordinat simpulnya dibulatkan dua desimal; karena itu file tersebut tidak dapat dipakai untuk mengklaim reproduksi independen atas presisi luas V1.0.
+
+Audit pemulihan dicatat di bagian 7.38 `World-Map-Framework.md`. Sampai koordinat planar asli ditemukan atau rekonstruksi numerik baru selesai divalidasi, atlas ini tetap berupa draft konseptual NON-CANON dan belum menjadi peta globe produksi.
