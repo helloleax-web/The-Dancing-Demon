@@ -1582,6 +1582,60 @@ V1.0 dinyatakan **FIX sebagai baseline geometri pengembangan**, dengan batas ber
 
 **Kesimpulan:** satu partisi bola V1.0 sekarang tersedia dengan 9 wilayah, 14 triple junction, 21 batas, penutupan 100%, dan luas yang memenuhi target dalam toleransi 0,10 poin persentase. Gunakan V1.0 sebagai baseline tetap untuk tahap penempatan benua dan pengembangan geologi berikutnya. Jangan menyebutnya CANON sebelum kreator mengesahkannya.
 
+### 7.26 Uji kompatibilitas luas daratan dengan lempeng pembawa
+
+**Status: CATATAN PENGEMBANGAN / NON-CANON.** Bagian ini menguji syarat luas minimum untuk rancangan satu benua utama pada setiap lempeng pembawa. Ini adalah uji kelayakan aritmetis, bukan bukti bahwa siluet benua sudah muat secara geometris di dalam poligon lempeng.
+
+#### 7.26.1 Data masukan
+
+Dua distribusi yang dibandingkan berasal dari bagian sebelumnya:
+- Porsi benua pada 7.7 adalah persentase dari **total luas daratan keenam benua**: Central 24%, Veiled 21%, Verdant 18%, Frost 15%, Sands 13%, Ashen 9%.
+- Porsi lempeng pada 7.25 adalah persentase dari **seluruh permukaan planet**: Central 18%, Veiled 11%, Verdant 12%, Frost 8%, Sands 10%, Ashen 7%.
+
+Penyebut kedua distribusi berbeda. Karena persentase luas daratan terhadap seluruh permukaan planet belum diputuskan, keduanya tidak boleh dibandingkan langsung seolah-olah memakai satu skala.
+
+#### 7.26.2 Syarat luas agar satu benua muat di lempeng pembawanya
+
+Definisikan:
+- (L) = total luas daratan keenam benua sebagai fraksi luas permukaan planet.
+- (s_i) = porsi benua ke-i dari total luas daratan.
+- (p_i) = porsi luas lempeng pembawa ke-i dari seluruh permukaan planet.
+
+Syarat perlu agar seluruh benua ke-i dapat berada di dalam lempeng pembawanya adalah:
+
+`L \times s_i \leq p_i`
+
+Maka batas maksimum total luas daratan untuk setiap pasangan adalah `L \leq p_i/s_i`.
+
+| Benua | Porsi daratan (sᵢ) | Luas lempeng (pᵢ) | Batas maksimum L |
+|---|---:|---:|---:|
+| The Central Reach | 24% | 18% | 75,00% |
+| The Veiled Continent | 21% | 11% | 52,38% |
+| The Verdant Wilds | 18% | 12% | 66,67% |
+| The Frostbound Expanse | 15% | 8% | 53,33% |
+| The Sunken Sands | 13% | 10% | 76,92% |
+| The Ashen Frontier | 9% | 7% | 77,78% |
+
+**Batas paling ketat berasal dari The Veiled Continent:** jika satu benua harus seluruhnya berada pada lempeng pembawanya, total luas keenam benua tidak boleh melebihi sekitar **52,38% permukaan planet**. Ini hanya batas atas matematis dari pasangan yang tersedia, bukan rekomendasi bahwa planet harus memiliki luas daratan sebesar itu.
+
+#### 7.26.3 Implikasi dan batas kesimpulan
+
+1. Rancangan satu-benua-satu-lempeng belum otomatis mustahil. Secara luas, ada rentang nilai L yang memenuhi semua enam ketaksamaan, yakni sampai batas paling ketat 52,38%.
+2. L belum ditetapkan. Karena itu, uji ini belum dapat menyatakan rancangan lulus atau gagal untuk luas daratan aktual.
+3. Ketaksamaan luas adalah syarat perlu, bukan syarat cukup. Walaupun luas benua lebih kecil daripada luas lempeng, siluetnya masih mungkin tidak muat akibat bentuk, lekukan, atau posisi wilayah lempeng.
+4. Uji bentuk yang sah membutuhkan geometri batas tiap lempeng dengan presisi memadai dan poligon siluet keenam benua. Koordinat simpul 7.25 yang dibulatkan dua desimal tidak cukup untuk menggantikan data kurva batas lengkap; peta skematis juga tidak dapat dipakai sebagai geometri ukur.
+5. Garis pantai tidak boleh disamakan dengan batas lempeng. Benua harus ditempatkan sebagai geometri daratan di dalam wilayah lempeng pembawa, dengan kemungkinan margin samudra di sekelilingnya.
+6. Jika kelak siluet tidak muat, opsi revisi adalah mengubah porsi luas benua, luas lempeng, atau aturan satu-benua-satu-lempeng. Tidak satu pun opsi tersebut dipilih pada tahap ini.
+
+#### 7.26.4 Status hasil
+
+- **Lulus:** pemeriksaan aritmetis menunjukkan rancangan belum bertentangan secara otomatis; batas atas total luas daratan adalah 52,38% berdasarkan pasangan paling ketat.
+- **Belum diuji:** containment poligon, bentuk garis pantai, margin samudra, posisi geografis, dan kecocokan terhadap topologi 14 simpul/21 segmen.
+- **Belum diputuskan:** fraksi total permukaan planet yang tertutup daratan.
+- **NON-CANON:** seluruh distribusi dan pemetaan tetap keputusan pengembangan.
+
+**Kesimpulan kerja:** jangan menyebut enam benua telah terbukti muat pada lempeng pembawanya. Yang sudah terbukti dari angka saat ini hanya bahwa ada batas luas matematis yang konsisten, selama total luas daratan tidak lebih dari 52,38% permukaan planet. Tahap selanjutnya memerlukan data geometri poligon penuh dan keputusan fraksi daratan sebelum uji containment spasial dapat dilakukan.
+
 ## 8. Proposal geografi lama yang belum diputuskan
 
 Dokumen [Geography](Geography.md) sebelumnya mencatat enam nama benua sebagai konsep kerja:
