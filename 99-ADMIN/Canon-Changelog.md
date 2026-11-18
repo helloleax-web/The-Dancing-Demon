@@ -262,3 +262,12 @@ Dokumen konsolidasi ini dibuat berdasarkan lore yang telah ditetapkan dalam perc
 - Keputusan: World Atlas Draft V1 diperbarui agar V1.0-R tercatat sebagai baseline geometri lempeng aktif yang tervalidasi, sementara V1.0-reference tetap arsip historis dan V1.1 tetap arsip eksperimen. Worldbuilding Coverage Matrix diperbarui agar tidak lagi memuat ambiguitas World Overview yang telah selesai dan agar mencerminkan model planet bergaya Bumi sebagai pilihan kerja, asumsi luas daratan/perairan, draft enam benua, serta dossier karakter, lokasi/organisasi, outline Buku I, arsitektur seri, dan mystery ledger yang sudah tersedia. World Map Framework juga memperjelas judul bagian arsitektur daratan agar status draft aktif tidak tertukar dengan keputusan CANON. Seluruh materi pengembangan tetap NON-CANON.
 - Dokumen yang diperbarui: `98-CATATAN PENGEMBANGAN/World-Atlas-Draft-V1.md`, `98-CATATAN PENGEMBANGAN/World-Map-Framework.md`, `98-CATATAN PENGEMBANGAN/Worldbuilding-Coverage-Matrix.md`, `README.md`, `BACA-DULU.md`, `00-CORE/00-README.md`, dan dokumen baru `99-ADMIN/Repository-Maintenance-Report-2026-11-18.md`.
 - Apakah ini retcon?: Tidak.
+
+
+## Pengembangan kerangka spesies dan ekologi — 2026-11-18
+
+- Tanggal: 2026-11-18
+- Topik: Pengembangan dokumen Species and Creatures menjadi Draft 0.2.
+- Perubahan: klasifikasi dipisahkan menurut ontologi, biologi, kondisi, habitat, dan fungsi ekologis; daftar ras dan makhluk legendaris tetap kandidat; kategori monster diperlakukan sebagai label lapangan; hubungan mana-organisme diberi batas; skala ancaman E–EX dijelaskan sebagai risiko operasional, bukan kekuatan absolut; ditambahkan format bestiary dan prioritas pengembangan.
+- Dampak CANON: tidak ada. Tidak ada spesies, ras, makhluk, atau sistem peringkat yang disahkan.
+- Dokumen terkait: `98-CATATAN PENGEMBANGAN/Species-and-Creatures.md`, `98-CATATAN PENGEMBANGAN/Worldbuilding-Coverage-Matrix.md`, `00-CORE/00-README.md`, `99-ADMIN/Repository-Maintenance-Report-2026-11-18.md`.
