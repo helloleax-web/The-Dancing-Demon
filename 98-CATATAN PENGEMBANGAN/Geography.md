@@ -2,13 +2,13 @@
 
 **Status: CATATAN PENGEMBANGAN — usulan belum disahkan.**
 
-Untuk kerangka pemetaan dunia yang memisahkan jangkar cerita, lokasi canon, dan keputusan geografis yang masih terbuka, lihat [World Map Framework](World-Map-Framework.md). Dokumen ini tetap menyimpan inventaris proposal geografi lama; tidak ada proposal yang otomatis diterima sebagai canon.
+Untuk keputusan pengembangan geografi terbaru, gunakan [World Map Framework](World-Map-Framework.md) dan [World Atlas Draft V1](World-Atlas-Draft-V1.md). Dokumen ini mempertahankan inventaris proposal awal sebagai arsip ide; status dan susunan draft aktif dijelaskan dalam World Map Framework. Tidak ada materi di sini yang otomatis menjadi CANON.
 
 ## Bentuk dunia
 Usulan awal: planet dengan geografi fisik normal, benua, pulau, samudra, pegunungan, dan wilayah bawah tanah. Ukuran, gravitasi, satelit, dan astronomi belum ditentukan.
 
 ## Enam benua — konsep kerja
-Enam benua pernah diusulkan sebagai titik awal:
+Enam benua saat ini dipilih sebagai arsitektur draft pertama dalam World Map Framework. Pilihan ini adalah CATATAN PENGEMBANGAN, bukan CANON. Nama dan karakterisasi berikut tetap berupa proposal:
 1. The Central Reach — wilayah relatif subur dan beragam.
 2. The Frostbound Expanse — wilayah dingin utara.
 3. The Sunken Sands — wilayah gurun dan kering.
