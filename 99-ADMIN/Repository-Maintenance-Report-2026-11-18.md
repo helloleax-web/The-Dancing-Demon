@@ -36,8 +36,8 @@ Tiga ketidaksinkronan dokumentasi yang masih tersisa diperbaiki:
 - **V1.0-reference:** arsip historis yang menyimpan hasil dan topologi yang dipublikasikan; koordinat planar asli belum ditemukan.
 - **V1.0-R:** baseline geometri lempeng aktif yang dapat direproduksi dan telah lolos validator.
 - **V1.1 / eksperimen terkait:** tetap disimpan sebagai arsip, bukan baseline aktif.
-- **Containment enam benua:** belum diuji.
-- **Orientasi globe, geologi, dan geodinamika:** belum divalidasi.
+- **Hubungan benua–lempeng:** aturan konseptual banyak-ke-banyak telah ditetapkan; overlay geografis bersama dan matriks irisan belum dihitung.
+- **Orientasi globe, klasifikasi kerak, geologi, dan geodinamika:** belum divalidasi.
 - **Status keseluruhan:** NON-CANON / CATATAN PENGEMBANGAN.
 
 Lihat [Plate Geometry V1.0-R — Validation Report](../98-CATATAN%20PENGEMBANGAN/World-Plate-Geometry-V1.0-R-Validation.md).
@@ -58,7 +58,7 @@ Seluruh detail kreatif di dalam dossier dan outline tersebut tetap NON-CANON. Ch
 
 Pekerjaan yang masih terbuka:
 1. Menentukan kebutuhan ekologi dan makhluk yang benar-benar diperlukan oleh adegan Buku I, tanpa membuat daftar spesies generik.
-2. Menempatkan enam siluet benua secara geometris pada lempeng pembawa dan menjalankan uji containment.
+2. Memilih orientasi globe bersama dan menghitung matriks irisan sferis enam benua terhadap sembilan muka lempeng.
 3. Menentukan orientasi globe dan menguji apakah peta fisik konsisten dengan relief, hidrologi, iklim, serta perjalanan.
 4. Menyempurnakan lokasi dan rute Buku I tanpa menyamakan lokasi yang belum dikonfirmasi.
 5. Mengembangkan profil karakter dan hubungan kelompok melalui revisi dossier, lalu memilih bagian yang benar-benar dibutuhkan untuk manuskrip.
@@ -100,7 +100,7 @@ Berkas:
 
 Hasil audit pada koordinat hasil render: total 30,00017% permukaan bola. Frostbound diperlebar secara longitudinal agar tidak melewati kutub; rotasi bujur global −10° menghindari pemotongan Veiled pada seam. Semua perubahan bersifat geometri pengembangan.
 
-Batas: containment terhadap lempeng V1.0-R, geodinamika, relief, hidrologi, iklim, dan bioma belum divalidasi. Tidak ada perubahan CANON atau retcon.
+Batas: overlay geografis bersama, matriks irisan benua–lempeng, klasifikasi kerak, geodinamika, relief, hidrologi, iklim, dan bioma belum divalidasi. Tidak ada perubahan CANON atau retcon.
 
 ## Uji containment lempeng — 2026-11-18
 
