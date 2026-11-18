@@ -1902,6 +1902,37 @@ Pendelegasian ini memberi kewenangan untuk menetapkan **baseline pengembangan**,
 
 **Keputusan aktif:** gunakan baseline di atas dan lanjutkan optimasi V1.1 tanpa menunggu persetujuan antara. Kreator berperan sebagai pengamat dan penilai hasil akhir; semua keputusan teknis sementara harus tetap transparan, dapat diaudit, dan dapat dibalik.
 
+### 7.31 Audit awal optimasi luas V1.1 dan penolakan solusi tak-valid
+
+**Status: CATATAN PENGEMBANGAN / NON-CANON.** Optimasi numerik awal dilakukan terhadap delapan muka terbatas, dengan muka Central sebagai komplemen pada bola.
+
+#### 7.31.1 Hasil optimasi tanpa kendala planaritas
+
+Eksperimen least-squares menemukan koordinat yang secara numerik membuat luas delapan muka mendekati target 12%, 10%, 8%, 7%, 11%, 14%, 11%, dan 9%. Namun, audit geometri terhadap 21 segmen menemukan persilangan antarsisi yang tidak berbagi simpul.
+
+**Solusi tersebut ditolak.** Kecocokan luas saja tidak cukup; peta dengan garis batas saling silang bukan partisi lempeng yang sah. Koordinat hasil eksperimen ini tidak boleh dipakai sebagai geometri, tidak disimpan sebagai kandidat, dan tidak boleh dipakai untuk menempatkan benua.
+
+#### 7.31.2 Perubahan metode yang ditetapkan
+
+Optimasi berikutnya wajib menggabungkan target luas dengan pelestarian embedding planar. Jalur yang dipilih:
+1. Pertahankan urutan muka dan insidensi graf dari bagian 7.17–7.19.
+2. Gunakan embedding planar yang dijamin, dengan batas muka luar cembung dan posisi simpul interior diturunkan melalui embedding barycentric/Tutte, atau kendala ekuivalen yang menjamin tidak ada persilangan.
+3. Optimalkan bentuk batas luar dan parameter embedding untuk mengejar target luas.
+4. Tolak setiap kandidat yang memiliki sisi berpotongan, muka terbalik/degenerat, luas negatif, atau total luas yang tidak menutup 100%.
+5. Laporkan deviasi target jika target tidak dapat dicapai di bawah kendala topologi; jangan melonggarkan planaritas demi angka luas.
+
+#### 7.31.3 Kriteria kelulusan kandidat
+
+Kandidat geometri baru hanya boleh disebut **lolos audit awal** bila seluruh syarat berikut terpenuhi:
+- 14 simpul, 21 segmen, dan 9 muka tetap sesuai graf.
+- Tidak ada persilangan antara dua segmen yang tidak berbagi simpul.
+- Semua siklus muka tertutup dan tidak degenerat.
+- Kesembilan muka membentuk partisi bola tanpa tumpang tindih atau celah.
+- Jumlah luas seluruh muka = 100% dalam toleransi numerik yang dinyatakan.
+- Deviasi tiap luas muka dari target dicatat secara eksplisit.
+
+**Keputusan:** eksperimen yang hanya mencocokkan luas ditolak. Jalur kerja beralih ke optimasi yang mempertahankan embedding planar sebagai kendala keras. Belum ada koordinat V1.1 yang disahkan untuk containment benua.
+
 ## 8. Proposal geografi lama yang belum diputuskan
 
 Dokumen [Geography](Geography.md) sebelumnya mencatat enam nama benua sebagai konsep kerja:
