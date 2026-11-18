@@ -29,7 +29,7 @@ terbentuknya dunia sekarang belum ditentukan.
 -   **Entitas Kosmik:** keberadaan abstrak yang menghancurkan Bumi.
     Hakikat, motif, kesadaran, dan batas kemampuannya belum diketahui.
 -   **Great War:** perang besar yang pernah terjadi. Selama perang,
-    musik NVR AGAIN terdengar di seluruh dunia dan sekutu LEAX
+    musik yang kemudian diketahui bernama NVR AGAIN terdengar di seluruh dunia dan sekutu LEAX
     memperoleh jubah mana hitam dengan pertahanan luar biasa serta
     regenerasi HP dan MP berkelanjutan.
 -   **Resonansi Hitam:** nama historis yang digunakan untuk menyebut
