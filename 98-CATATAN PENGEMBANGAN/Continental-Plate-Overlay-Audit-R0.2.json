@@ -72,7 +72,7 @@
       "Veiled": 11.000827356027456,
       "West Ocean": 10.99676089571142,
       "Southeast Ocean": 8.997393957810516,
-      "North Ocean": 14.003622133139118
+      "North Ocean": 14.009059588775514
     },
     "continent_area_percent_surface": {
       "Frostbound": 4.499840837040239,
@@ -246,9 +246,9 @@
       }
     },
     "mean_dominant_plate_share_percent": 87.25228399460134,
-    "max_plate_area_target_deviation_percentage_points": 0.003622133139118,
+    "max_plate_area_target_deviation_percentage_points": 0.009059588775514,
     "max_continent_area_target_deviation_percentage_points": 0.000159162959761,
-    "conservation_note": "The chart-pole-containing North Ocean face is represented as the complement of the other eight faces. For each continent, its North Ocean intersection is the residual after the eight bounded-face intersections; area closure is therefore enforced by complement construction, not an independent ninth polygon clip."
+    "conservation_note": "North Ocean contains the chart pole and is represented as the complement of the other eight faces. For each continent, its North Ocean intersection is the residual after the eight bounded-face intersections; area closure is therefore enforced by complement construction, not an independent ninth polygon clip. North Ocean area is likewise the residual of the other eight face areas."
   },
   "raster_audit": {
     "method": "Equal-area raster using uniform longitude and uniform sin(latitude); cell-center point-in-polygon classification",
