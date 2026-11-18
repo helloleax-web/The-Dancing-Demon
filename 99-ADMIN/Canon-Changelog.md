@@ -3,8 +3,8 @@
 Catat setiap perubahan canon di sini.
 
 Format:
-- Tanggal:
-- Topik:
+  Tanggal:
+  Topik:
 - Keputusan:
 - Dokumen yang diperbarui:
 - Apakah ini retcon?:
@@ -415,7 +415,7 @@ Matriks rotasi R0.2 diperiksa ulang dan diperbaiki agar ortogonal (deviasi maksi
 ## Eksperimen prosa pembuka Buku I — 2026-11-19
 
 - Dibuat `98-CATATAN PENGEMBANGAN/Book-I-Manuscript-Chapter-01-Draft-0.1.md`, eksperimen prosa untuk Scene 1 “Pekerjaan yang Tidak Terlihat”.
-- Pembuka berfokus pada tugas survei Tavian dan ketidaksesuaian pengukuran yang belum memiliki penjelasan.
+- Pembuka berfokus pada tugas survei Tavian, ketidaksesuaian pengukuran yang belum memiliki penjelasan, serta perbedaan cara kerja Tavian, Seraphine, dan Kael.
 - Tidak menambahkan nama lokasi/karakter/organisasi, sistem kekuatan, atau penjelasan fasilitas sebagai fakta.
 - Detail tindakan, dialog, dan karakterisasi adalah eksperimen NON-CANON; belum menjadi manuskrip final.
 - Scene Outline diberi tautan ke eksperimen tersebut.
