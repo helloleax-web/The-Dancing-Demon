@@ -14,6 +14,13 @@ Paket ini berisi ringkasan, indeks, dan panduan kontinuitas untuk lore *The Danc
 8.  [Cerita dan Rencana Delapan Buku](08-Cerita-dan-Rencana-Delapan-Buku.md) — premis, Buku I, dan kerangka delapan buku; rincian cerita tersedia dalam dokumen ini.
 9.  [Kanon dan Kontinuitas](09-Kanon-dan-Kontinuitas.md) — aturan canon dan daftar misteri yang harus dijaga; rujukan administrasi: [Open Questions](../99-ADMIN/Open-Questions.md) dan [Canon Changelog](../99-ADMIN/Canon-Changelog.md). Untuk rincian kelembagaan, lihat [International Authority](../01-CANON/International-Authority.md) dan [KVK](../01-CANON/KVK.md).
 
+## Administrasi dan pemeliharaan
+
+- [Canon Audit Report](../99-ADMIN/Canon-Audit-Report-2026-11-18.md) — temuan audit konsistensi, status perbaikan, dan batas validasi.
+- [Editorial and Repository Maintenance Policy](../99-ADMIN/Editorial-Maintenance-Policy.md) — standar editorial dan pemeliharaan repository.
+- [Open Questions](../99-ADMIN/Open-Questions.md) — daftar keputusan dan pengembangan yang masih terbuka.
+- [Canon Changelog](../99-ADMIN/Canon-Changelog.md) — riwayat perubahan canon dan dokumentasi.
+
 ## Status informasi
 
 -   **CANON** --- telah ditetapkan kreator.
