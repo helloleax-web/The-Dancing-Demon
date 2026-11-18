@@ -410,3 +410,13 @@ Matriks rotasi R0.2 diperiksa ulang dan diperbaiki agar ortogonal (deviasi maksi
 - Ditambahkan tautan silang dari Scene Outline, Mystery & Foreshadowing Ledger, dan Eight-Book Series Architecture.
 - Tidak mengubah Character Bible, fakta cerita, identitas pemberi tugas Kael, identitas kontak tak dikenal, atau misteri lain.
 - Dampak CANON: tidak ada.
+
+
+## Eksperimen prosa pembuka Buku I — 2026-11-19
+
+- Dibuat `98-CATATAN PENGEMBANGAN/Book-I-Manuscript-Chapter-01-Draft-0.1.md`, eksperimen prosa untuk Scene 1 “Pekerjaan yang Tidak Terlihat”.
+- Pembuka berfokus pada tugas survei Tavian dan ketidaksesuaian pengukuran yang belum memiliki penjelasan.
+- Tidak menambahkan nama lokasi/karakter/organisasi, sistem kekuatan, atau penjelasan fasilitas sebagai fakta.
+- Detail tindakan, dialog, dan karakterisasi adalah eksperimen NON-CANON; belum menjadi manuskrip final.
+- Scene Outline diberi tautan ke eksperimen tersebut.
+- Dampak CANON: tidak ada.
