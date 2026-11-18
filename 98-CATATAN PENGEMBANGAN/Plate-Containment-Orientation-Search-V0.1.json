@@ -1,0 +1,91 @@
+{
+  "version": "V0.1",
+  "title": "Plate Containment Orientation Search",
+  "status": "DEVELOPMENT / NON-CANON / EXPLORATORY FAILURE TO FIND A COMMON ROTATION",
+  "inputs": {
+    "continents": "World-Atlas-Continental-Silhouette-V0.6.svg",
+    "plateGeometry": "World-Plate-Geometry-V1.0-R-reconstructed.json",
+    "plateAssignment": {
+      "Frostbound Expanse": "Frost",
+      "Verdant Wilds": "Verdant",
+      "The Central Reach": "Central",
+      "The Sunken Sands": "Sands",
+      "The Ashen Frontier": "Ashen",
+      "The Veiled Continent": "Veiled"
+    }
+  },
+  "method": {
+    "sphereRotation": "One common 3D rotation applied to all six continent footprints; Euler rotations in XYZ order.",
+    "projection": "Inverse of the plate baseline's inverse-stereographic projection: x = X/(1-Z), y = Y/(1-Z).",
+    "containment": "A continent sample point must lie inside its assigned bounded plate-face polygon. Central is treated as the complementary spherical face, so its sample points must lie outside the outer polygon.",
+    "sampling": "Every sixth rendered SVG vertex, approximately two samples per original coastline edge.",
+    "search": "40,000 deterministic pseudo-random global rotations using fixed seed 20261118; also checked a coarse 30-degree Euler grid.",
+    "interpretation": "This is a search for a shared global orientation, not an exhaustive proof that no orientation exists. Sample-point containment is a screening test; it does not replace exact polygon-edge intersection and full spherical topology validation."
+  },
+  "result": {
+    "commonOrientationFoundForAllSix": false,
+    "bestSampledOrientationEulerXYZDegrees": [
+      178.8696997705847,
+      211.99510272592306,
+      313.3493373077363
+    ],
+    "sampleCounts": {
+      "Frostbound Expanse": 60,
+      "Verdant Wilds": 62,
+      "The Central Reach": 74,
+      "The Sunken Sands": 50,
+      "The Ashen Frontier": 54,
+      "The Veiled Continent": 68
+    },
+    "bestOrientationCorrectlyContainedSamples": {
+      "Frostbound Expanse": "0/60",
+      "Verdant Wilds": "16/62",
+      "The Central Reach": "35/74",
+      "The Sunken Sands": "50/50",
+      "Ashen Frontier": "0/54",
+      "Veiled Continent": "14/68"
+    },
+    "fullyContainedContinentsAtBestSampledOrientation": 1,
+    "totalCorrectlyContainedSamples": 115,
+    "totalSamples": 368,
+    "coarseGridFoundCommonOrientation": false
+  },
+  "areaComparison": {
+    "Frostbound Expanse": {
+      "continentPlanetAreaPercent": 4.5,
+      "carrierPlatePlanetAreaPercent": 8
+    },
+    "Verdant Wilds": {
+      "continentPlanetAreaPercent": 5.4,
+      "carrierPlatePlanetAreaPercent": 12
+    },
+    "The Central Reach": {
+      "continentPlanetAreaPercent": 7.2,
+      "carrierPlatePlanetAreaPercent": 18
+    },
+    "The Sunken Sands": {
+      "continentPlanetAreaPercent": 3.9,
+      "carrierPlatePlanetAreaPercent": 10
+    },
+    "The Ashen Frontier": {
+      "continentPlanetAreaPercent": 2.7,
+      "carrierPlatePlanetAreaPercent": 7
+    },
+    "The Veiled Continent": {
+      "continentPlanetAreaPercent": 6.3,
+      "carrierPlatePlanetAreaPercent": 11
+    }
+  },
+  "decision": {
+    "conclusion": "V0.6 continent area targets fit below the nominal area of their assigned carrier plates, but the present continent placements and V1.0-R plate partition have not been reconciled by a common globe rotation.",
+    "notProven": "This search does not prove that a valid orientation is mathematically impossible.",
+    "nextSteps": [
+      "Do not describe continent containment as passed.",
+      "Choose whether to preserve the current continent macro-layout or preserve the current plate partition as the stronger design constraint.",
+      "If preserving the plate partition, redesign continent placement within carrier faces while retaining area targets and checking inter-continent separation.",
+      "If preserving continent placement, revise the plate graph geometry/topology or carrier-face assignment and revalidate spherical plate areas.",
+      "After a candidate is found, run exact spherical polygon containment and boundary-intersection tests rather than relying on samples."
+    ],
+    "canonChanged": false
+  }
+}
