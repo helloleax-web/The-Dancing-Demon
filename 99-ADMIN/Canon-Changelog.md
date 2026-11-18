@@ -118,3 +118,6 @@ Dokumen konsolidasi ini dibuat berdasarkan lore yang telah ditetapkan dalam perc
 - Keputusan: Menambahkan konfigurasi cerita yang direkomendasikan: Konsorsium Survei Meridian mengorganisasi ekspedisi, Vellum & Iron Recovery mengajukan klaim komersial, dan seorang perantara yang terkait secara profesional dengan Arsip Lentera membayar Kael untuk memverifikasi rumor arsip serta memperoleh salinan indeks. Pihak komersial dan pemberi tugas Kael dipisahkan agar konflik memiliki kepentingan berbeda. Identitas pribadi pemberi tugas, kontak tak dikenal, isi indeks, dan dasar klaim tetap terbuka.
 - Dokumen yang diperbarui: `98-CATATAN PENGEMBANGAN/Book-I-Scene-Outline-Draft-0.1.md`, `Location-Organization-Development-Dossier-Draft-0.1.md`, dan `Character-Development-Dossier-Draft-0.1.md`.
 - Apakah ini retcon?: Tidak. Konfigurasi baru hanya merupakan CATATAN PENGEMBANGAN / NON-CANON.
+
+
+- Tindak lanjut: menambahkan tautan silang dari Book I Scene Outline ke Character Development Dossier, Location & Organization Dossier, Eight-Book Series Architecture, dan sumber premis delapan buku agar draft dapat dibaca sebagai satu paket kerja.
