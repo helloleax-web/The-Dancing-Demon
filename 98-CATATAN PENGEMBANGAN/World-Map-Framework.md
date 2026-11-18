@@ -2324,3 +2324,23 @@ Validator menggunakan standard library Python dan memeriksa topologi, konektivit
 - Geometri ini bukan CANON dan belum menjadi peta geografis final.
 
 **Keputusan:** V1.0-R menjadi baseline teknis yang direkomendasikan untuk pekerjaan containment dan pengembangan atlas selanjutnya. Referensi V1.0 asli dan eksperimen V1.1 tetap dipertahankan sebagai arsip.
+
+### 7.43 Audit luas sferis siluet benua V0.5
+
+Audit shoelace terdahulu mengukur proporsi poligon pada bidang SVG. Karena bingkai V0.5 memetakan bujur dan lintang secara linear, luas bidang tersebut tidak setara dengan luas permukaan bola.
+
+Audit [World-Atlas-Spherical-Continental-Area-Audit-V0.1.md](World-Atlas-Spherical-Continental-Area-Audit-V0.1.md) menggunakan transformasi bingkai SVG ke koordinat longitude/latitude dan integral luas sferis untuk mengukur poligon yang benar-benar tersimpan pada V0.5.
+
+Hasil porsi dari gabungan enam poligon:
+- Frostbound Expanse 9,19% (target bidang lama 15%).
+- Verdant Wilds 21,57% (target bidang lama 18%).
+- Central Reach 28,76% (target bidang lama 24%).
+- Sunken Sands 11,75% (target bidang lama 13%).
+- Ashen Frontier 8,21% (target bidang lama 9%).
+- Veiled Continent 20,51% (target bidang lama 21%).
+
+Gabungan keenam siluet mencakup **26,44% permukaan bola**, sehingga belum memenuhi asumsi kerja 30% daratan. Angka target lama tetap dicatat sebagai proporsi desain planar historis, bukan hasil pengukuran geodesik/sferis.
+
+Berkas data: [World-Atlas-Spherical-Continental-Area-Audit-V0.1.json](World-Atlas-Spherical-Continental-Area-Audit-V0.1.json).
+
+**Implikasi:** status atlas diturunkan secara eksplisit menjadi belum lolos audit luas sferis dan belum lolos containment lempeng. Jangan menurunkan iklim, bioma, hidrologi rinci, atau jarak perjalanan final dari siluet ini. Seluruh hasil NON-CANON; tidak ada lokasi cerita atau CANON yang diubah.
