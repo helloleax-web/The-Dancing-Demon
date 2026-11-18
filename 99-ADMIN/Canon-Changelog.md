@@ -290,3 +290,13 @@ Dokumen konsolidasi ini dibuat berdasarkan lore yang telah ditetapkan dalam perc
 - Perubahan: “Harga Sebuah Informasi” dipisahkan dari “Hak atas Peninggalan” menjadi Bagian IV; “Keadaan Darurat” menjadi Bagian V; “Peta Tanpa Negeri” menjadi Bagian VI. Nomor adegan dan urutan kejadian tidak berubah.
 - Dampak CANON: tidak ada; outline tetap NON-CANON.
 - Dokumen terkait: `98-CATATAN PENGEMBANGAN/Book-I-Scene-Outline-Draft-0.1.md`, `98-CATATAN PENGEMBANGAN/Worldbuilding-Coverage-Matrix.md`, `99-ADMIN/Repository-Maintenance-Report-2026-11-18.md`.
+
+
+## Konsolidasi versi atlas dan status model planet — 2026-11-18
+
+- Tanggal: 2026-11-18
+- Topik: Menyelaraskan World Map Framework dengan artefak atlas V0.6–V1.0 dan rekonstruksi V1.0-R.
+- Perubahan: tabel status planet kini merujuk proposal parameter V0.6; kerangka iklim V0.7, relief V0.8, hidrologi V0.9, dan elevasi/drainase V1.0 dibedakan dari keputusan final; nama enam benua dan fitur relief dicatat sebagai draft/kandidat; V1.0-reference dipisahkan sebagai arsip historis dan V1.0-R sebagai baseline geometri yang dapat direproduksi; uji luas benua-lempeng diperbarui memakai asumsi 30% daratan dari V0.6.
+- Batas validasi: lolosnya uji luas aritmetis tidak membuktikan containment poligon. Penempatan geografis, iklim regional, geologi, dan hidrologi terukur tetap belum divalidasi.
+- Dampak CANON: tidak ada. Semua materi atlas tetap NON-CANON.
+- Dokumen terkait: `98-CATATAN PENGEMBANGAN/World-Map-Framework.md`, `98-CATATAN PENGEMBANGAN/World-Atlas-Draft-V1.md`, dan audit JSON V0.6–V1.0.
