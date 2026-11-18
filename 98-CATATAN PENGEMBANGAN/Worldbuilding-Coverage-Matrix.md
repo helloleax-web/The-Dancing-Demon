@@ -88,7 +88,9 @@ Tidak ada bidang yang diberi status **BELUM ADA** karena setiap bidang memiliki 
 **Sumber:** [Indeks Karakter, Lokasi, dan Organisasi](../00-CORE/07-Karakter-Lokasi-dan-Organisasi.md), [Location Bible](../01-CANON/Location-Bible.md).
 
 **CATATAN PENGEMBANGAN**
+- Draft aktif menggunakan planet terestrial dengan skala kurang lebih setara Bumi sebagai pilihan kerja sementara; parameter fisik rinci pada V0.6 tetap proposal, bukan CANON.
 - Draft aktif memilih enam benua terpisah (Alternatif A) dengan susunan satu kelompok utama dan beberapa daratan terpencil (Alternatif C). Pilihan ini tetap NON-CANON.
+- Asumsi kerja atlas saat ini: 30% daratan dan 70% perairan; distribusi luas benua dihitung dari total daratan, sedangkan target lempeng dihitung dari luas seluruh planet.
 - World Atlas Draft V1 menyimpan pembagian luas relatif benua, target luas sembilan wilayah lempeng, serta konsep relief dan hidrologi.
 - Plate Geometry V1.0-R telah menjadi baseline geometri lempeng yang dapat direproduksi; containment benua, orientasi globe, dan validasi geodinamika belum selesai.
 - Pegunungan, hutan, ngarai, rawa, kategori perairan, dan wilayah mana tetap berupa rancangan.
