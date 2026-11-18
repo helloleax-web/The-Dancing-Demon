@@ -340,3 +340,13 @@ Dokumen konsolidasi ini dibuat berdasarkan lore yang telah ditetapkan dalam perc
 - Batas: hasil bergantung pada interpretasi garis poligon sebagai segmen linear longitude/latitude; tidak memvalidasi geologi, containment lempeng, atau peta final.
 - Dampak CANON: tidak ada.
 - Dokumen terkait: 98-CATATAN PENGEMBANGAN/World-Atlas-Spherical-Continental-Area-Audit-V0.1.md, 98-CATATAN PENGEMBANGAN/World-Atlas-Spherical-Continental-Area-Audit-V0.1.json, 98-CATATAN PENGEMBANGAN/World-Atlas-Draft-V1.md, dan 98-CATATAN PENGEMBANGAN/World-Map-Framework.md.
+
+## Siluet benua V0.6 — 2026-11-18
+
+- Tanggal: 2026-11-18
+- Topik: Kandidat siluet benua dengan luas sferis dinormalisasi V0.6.
+- Perubahan: dibuat siluet SVG baru dengan mempertahankan target proporsi relatif daratan 15/18/24/13/9/21 dan menyesuaikan luas absolut pada koordinat silinder luas-sama agar total daratan 30% permukaan planet. Frostbound diperlebar pada sumbu bujur untuk menghindari perluasan melewati kutub; rotasi bujur global −10° digunakan untuk menjaga Veiled tetap di dalam bingkai.
+- Hasil audit render: total 30,00017% permukaan bola; setiap benua berada sangat dekat dengan target absolutnya.
+- Batas: belum ada uji containment pada lempeng V1.0-R, validasi geodinamika, relief, hidrologi, iklim, atau bioma.
+- Dampak CANON: tidak ada.
+- Dokumen terkait: 98-CATATAN PENGEMBANGAN/World-Atlas-Continental-Silhouette-V0.6.svg dan 98-CATATAN PENGEMBANGAN/World-Atlas-Continental-Area-Normalization-Audit-V0.6.json.
