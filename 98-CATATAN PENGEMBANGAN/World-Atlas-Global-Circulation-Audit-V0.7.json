@@ -1,0 +1,118 @@
+{
+  "version": "V0.7",
+  "status": "NON-CANON / CATATAN PENGEMBANGAN",
+  "basis": "Earth-reference planetary parameters inherited from V0.6; circulation is a conceptual first-order model, not a numerical climate simulation.",
+  "atmospheric_model": {
+    "circulation_cells_each_hemisphere": {
+      "hadley": "approximately 0°–30°; rising motion concentrated near the migrating ITCZ and subsidence in the subtropics",
+      "ferrel": "approximately 30°–60°; mid-latitude eddy-driven circulation, not a simple thermally direct cell",
+      "polar": "approximately 60°–90°; cold polar air and polar-front interaction"
+    },
+    "pressure_belts": [
+      {
+        "name": "Equatorial low / ITCZ",
+        "approximate_latitude": "near 0°, with seasonal migration generally several degrees into the summer hemisphere",
+        "status": "conceptual"
+      },
+      {
+        "name": "Subtropical highs",
+        "approximate_latitude": "roughly 25°–35° in both hemispheres",
+        "status": "conceptual"
+      },
+      {
+        "name": "Subpolar lows",
+        "approximate_latitude": "roughly 50°–65° in both hemispheres",
+        "status": "conceptual"
+      },
+      {
+        "name": "Polar highs",
+        "approximate_latitude": "toward high polar latitudes; not drawn as a fixed boundary",
+        "status": "conceptual"
+      }
+    ],
+    "prevailing_surface_winds": [
+      {
+        "name": "Northeast trade winds",
+        "latitude": "approximately 0°–30°N",
+        "direction": "east to west, with equatorward component"
+      },
+      {
+        "name": "Southeast trade winds",
+        "latitude": "approximately 0°–30°S",
+        "direction": "east to west, with equatorward component"
+      },
+      {
+        "name": "Northern westerlies",
+        "latitude": "approximately 30°–60°N",
+        "direction": "west to east"
+      },
+      {
+        "name": "Southern westerlies",
+        "latitude": "approximately 30°–60°S",
+        "direction": "west to east"
+      },
+      {
+        "name": "Northern polar easterlies",
+        "latitude": "approximately 60°–90°N",
+        "direction": "east to west"
+      },
+      {
+        "name": "Southern polar easterlies",
+        "latitude": "approximately 60°–90°S",
+        "direction": "east to west"
+      }
+    ],
+    "seasonal_behavior": "Pressure belts and the ITCZ migrate with the seasonal shift of maximum solar heating. Continents, mountains, sea-surface temperatures and transient weather systems distort the idealized zonal pattern."
+  },
+  "ocean_circulation": {
+    "status": "Not geographically plotted; basin topology and bathymetry are insufficiently validated.",
+    "broad_expectations": [
+      "Subtropical gyres may form in sufficiently large, connected ocean basins under trade winds and westerlies.",
+      "Equatorial surface currents are commonly westward, while equatorial countercurrents can flow eastward in some basins.",
+      "Western boundary currents are commonly narrow and poleward; eastern boundary currents are commonly broader and equatorward.",
+      "These are general Earth-like tendencies, not a commitment that every basin on this planet has a complete gyre or a named current."
+    ],
+    "withheld_decisions": [
+      "Number, centers, boundaries and exact paths of ocean gyres",
+      "Named warm and cold currents",
+      "Current speed, temperature anomaly and seasonal strength",
+      "Upwelling zones and deep-ocean overturning circulation"
+    ]
+  },
+  "regional_climate": {
+    "assigned": false,
+    "withheld": [
+      "regional temperature",
+      "rainfall totals",
+      "desert locations",
+      "forest or grassland biomes",
+      "snow and ice coverage",
+      "monsoon regions",
+      "rain-shadow regions"
+    ]
+  },
+  "map_representation": {
+    "source": "V0.6 SVG coordinate scaffold",
+    "method": "Schematic latitude bands and directional arrows placed on the existing linear latitude-longitude drawing.",
+    "projection_validated": false,
+    "geodesic_validation": false,
+    "climate_simulation": false,
+    "note": "The overlay is an explanatory diagram. It does not trace actual winds around terrain or coastlines and is not a projection-correct global circulation map."
+  },
+  "validation": {
+    "inherited_v0_6_parameter_baseline_preserved": true,
+    "continent_polygons_unchanged_from_v0_6": true,
+    "plate_geometry_changed": false,
+    "canon_changed": false,
+    "exact_ocean_basin_topology_validated": false,
+    "regional_climate_validated": false
+  },
+  "limitations": [
+    "Atmospheric composition, surface pressure, atmospheric mass, greenhouse forcing, cloud feedback and humidity remain unspecified.",
+    "Topography, mountain chains, elevation, bathymetry and detailed coastline-to-ocean-basin geometry remain incomplete.",
+    "The circulation cells and wind belts are approximate Earth-like climatological averages; actual winds vary by season and weather.",
+    "The map uses a provisional linear SVG scaffold rather than a validated cartographic projection.",
+    "No specific ocean current, biome, desert, rainfall regime or regional climate is assigned.",
+    "All content remains NON-CANON until explicitly approved."
+  ]
+}
