@@ -214,3 +214,5 @@ Konfigurasi berikut dipilih sebagai arah draft agar organisasi memiliki kepentin
 - Identitas pemberi tugas, dasar klaim perusahaan, dan kebenaran rumor arsip tetap dapat menjadi misteri.
 
 **Batas:** ini adalah arah cerita yang direkomendasikan, bukan fakta CANON. Organization Bible tetap menjadi sumber fakta resmi sampai keputusan status dibuat.
+
+Untuk memisahkan hak tanah, akses, penelitian, pemulihan, dan penjagaan dalam konflik fasilitas, gunakan [Book I Heritage Dispute Framework — Draft 0.1](Book-I-Heritage-Dispute-Framework-Draft-0.1.md). Kerangka tersebut juga NON-CANON.
