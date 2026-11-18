@@ -2452,3 +2452,14 @@ Matriks irisan pada 7.50 telah diperiksa silang dengan klasifikasi titik langsun
 Hasil tersebut mendukung kestabilan numerik overlay, bukan validasi geologi. Clipping poligon sferis tersampel tetap menjadi hasil utama; raster berfungsi sebagai pemeriksaan silang independen. Rujukan: [laporan konvergensi R0.2](Continental-Plate-Overlay-Convergence-R0.2.md), [data JSON](Continental-Plate-Overlay-Convergence-Audit-R0.2.json).
 
 **Status:** NON-CANON. Tidak ada perubahan CANON.
+
+
+### 7.52 Inventaris topologi batas lempeng V0.1
+
+Geometri V1.0-R kini memiliki inventaris eksplisit untuk 21 sisi batas, pasangan dua muka yang berbagi setiap sisi, adjacency sembilan muka, dan 14 triple junction. Pemeriksaan menemukan setiap sisi menjadi batas tepat dua muka dan setiap simpul mempertemukan tiga muka. Inventaris ini hanya menyatakan topologi; tidak ada batas yang diberi label konvergen, divergen, atau transform.
+
+Rujukan: [Plate Boundary Topology Inventory V0.1](Plate-Boundary-Topology-Inventory-V0.1.md) dan [data JSON](Plate-Boundary-Topology-Inventory-V0.1.json).
+
+**Tahap berikutnya:** jika model gerak dikembangkan, gunakan satu vektor kecepatan sudut kaku untuk tiap lempeng. Selisih gerak relatif pada simpul harus konsisten secara siklik sebelum klasifikasi batas, subduksi, atau pemekaran ditetapkan. Nama muka tidak boleh dipakai sebagai pengganti data jenis kerak.
+
+**Status:** NON-CANON. Tidak ada perubahan CANON.
