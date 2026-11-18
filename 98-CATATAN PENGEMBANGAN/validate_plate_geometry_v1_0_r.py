@@ -191,6 +191,25 @@ def main():
     record("all interior vertices are inside boundary",
            all(point_in_polygon(coords[n], boundary_xy) for n in interior))
 
+    radius = float(data["boundary"]["radius"])
+    angles = data["boundary"]["angles_rad"]
+    gaps = data["boundary"]["gaps_rad"]
+    radius_error = max(abs(math.hypot(*coords[n]) - radius) for n in boundary)
+    gap_sum = sum(float(gaps[n]) for n in boundary)
+    angle_error = 0.0
+    for i, node in enumerate(boundary):
+        next_node = boundary[(i + 1) % len(boundary)]
+        expected = (float(angles[node]) + float(gaps[node])) % (2.0 * math.pi)
+        actual = float(angles[next_node]) % (2.0 * math.pi)
+        difference = abs(expected - actual)
+        angle_error = max(angle_error, min(difference, 2.0 * math.pi - difference))
+        coord_angle = math.atan2(coords[node][1], coords[node][0]) % (2.0 * math.pi)
+        difference = abs(coord_angle - float(angles[node]) % (2.0 * math.pi))
+        angle_error = max(angle_error, min(difference, 2.0 * math.pi - difference))
+    record("boundary radius and angular metadata reproduce",
+           radius_error < 1e-8 and abs(gap_sum - 2.0 * math.pi) < 1e-8 and angle_error < 1e-8,
+           f"radius error={radius_error:.3e}; gap sum error={abs(gap_sum-2.0*math.pi):.3e}; angle error={angle_error:.3e}")
+
     crossing_pairs = []
     for i, (a, b) in enumerate(edges):
         for j in range(i + 1, len(edges)):
