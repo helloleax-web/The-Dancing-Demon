@@ -277,7 +277,7 @@ Urutan berikut adalah rekomendasi administratif, bukan keputusan canon.
 
 **Hasil:** tidak ditemukan kontradiksi CANON langsung dalam dokumen utama yang diperiksa. A-01 sampai A-04 telah diselesaikan pada 2026-11-18. A-05 masih terbuka sebagai keterbatasan reproduksibilitas teknis; baseline V1.0 belum diverifikasi ulang secara independen.
 
-**Batas:** audit ini bukan pemeriksaan baris demi baris terhadap seluruh file, aset visual, seluruh riwayat commit, atau seluruh percakapan sumber. Pemeriksaan lanjutan diperlukan sebelum menyatakan seluruh repository bebas konflik.
+**Batas:** audit ini mencakup seluruh dokumen Markdown yang terdaftar pada branch saat pemeriksaan dan pemeriksaan tautan relatif antarfile. File SVG, JSON, dan aset visual diperiksa secara selektif berdasarkan keterkaitan dengan temuan; belum seluruhnya divalidasi secara teknis. Riwayat percakapan sumber dan seluruh riwayat commit tidak diaudit secara menyeluruh. Karena itu, laporan ini tidak menyatakan seluruh repository bebas konflik.
 
 **Perubahan CANON:** tidak ada retcon terhadap fakta cerita. Klarifikasi prosedural International Authority dan KVK dicatat dalam Canon Changelog.  
 **Retcon:** tidak ada.  
