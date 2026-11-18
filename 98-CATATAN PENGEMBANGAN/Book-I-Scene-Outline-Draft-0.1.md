@@ -168,6 +168,46 @@ Lokasi diamankan sementara. Kelompok membawa salinan sebagian catatan, bukan jaw
 - Jangan ungkap identitas kontak atau maksud pesan.
 - **Fungsi:** menutup Buku I dengan ancaman informasi, bukan cliffhanger aksi.
 
+## 3.1 Matriks fungsi dan transisi adegan
+
+Matriks ini membantu memastikan setiap adegan memiliki tujuan, hambatan, perubahan keadaan, dan alasan untuk berpindah ke adegan berikutnya. Detailnya merupakan arahan penulisan NON-CANON; jangan mengubahnya menjadi fakta dunia tanpa kebutuhan cerita.
+
+| Scene | Tujuan langsung | Hambatan utama | Perubahan / hasil yang harus terasa |
+|---:|---|---|---|
+| 1 | Membuat pembaca memahami pekerjaan survei melalui tindakan Tavian | Rutinitas, data yang tidak sempurna, dan tekanan menyelesaikan pekerjaan | Pembaca memahami bahwa kesalahan kecil dalam survei dapat berdampak; ada ketidaksesuaian yang layak diperiksa |
+| 2 | Memperlihatkan perbedaan cara kerja Tavian, Seraphine, dan Kael | Mereka memiliki standar bukti dan kepentingan yang berbeda | Ketiganya punya alasan praktis untuk bekerja bersama, tetapi belum saling percaya sepenuhnya |
+| 3 | Mengubah ketidaksesuaian peta menjadi masalah yang tidak dapat diabaikan | Medan tidak cocok dengan catatan resmi; kesalahan ukur biasa belum menjelaskan semuanya | Tim memutuskan melakukan verifikasi lapangan lebih lanjut, bukan langsung menyimpulkan ada jalan kuno |
+| 4 | Mengungkap peta kedua Kael dan mengubah arah ekspedisi | Kael menahan informasi; Tavian dan Seraphine mempertanyakan alasan serta keandalannya | Jalan batu menjadi hipotesis rute yang dapat diperiksa; kepercayaan terhadap Kael menurun |
+| 5 | Menguji apakah jalan batu benar-benar ada dan mengikuti rute pada peta kedua | Kondisi jalan, vegetasi, kerusakan, atau jejak yang tidak lengkap | Tim memperoleh bukti fisik yang lebih kuat, tetapi belum mengetahui siapa pembuat atau kapan jalan dibuat |
+| 6 | Mengantar kelompok ke titik penemuan fasilitas | Akses tidak jelas dan ekspedisi tidak memiliki prosedur untuk situs seperti ini | Mereka memilih memeriksa akses; keputusan ini menandai perubahan dari survei rute menjadi eksplorasi peninggalan |
+| 7 | Menetapkan kondisi awal fasilitas sebelum interaksi | Antarmuka atau mekanisme masih aktif dan belum dipahami | Seraphine mencatat keadaan awal; tim menyadari bahwa fasilitas tidak sepenuhnya mati |
+| 8 | Menampilkan respons sistem yang dapat diamati | Bahasa, fungsi, dan aturan antarmuka tidak dipahami | Akses bagian luar bangunan terbuka; keberhasilan interaksi tidak berarti sistem telah dipahami |
+| 9 | Memperlihatkan bukti Bumi kuno dan batas interpretasinya | Catatan rusak, konteks hilang, dan teknologi tidak dapat dibaca sepenuhnya | Kelompok dapat menyatakan beberapa fakta observasional, tetapi tidak mampu menyusun sejarah lengkap |
+| 10 | Mengubah penemuan privat menjadi persoalan yang menarik pihak lain | Informasi bocor, keamanan lokasi lemah, dan nilai temuan belum diketahui | Perusahaan pemulihan tiba dengan klaim komersial; konflik kepentingan menjadi terbuka |
+| 11 | Membuat dasar klaim perusahaan dapat dipahami pembaca | Kelompok ekspedisi tidak memiliki kewenangan tunggal; dasar hukum belum tentu diterima semua pihak | Sengketa berubah menjadi persoalan yurisdiksi dan bukti, bukan sekadar adu keberanian |
+| 12 | Menguji apakah pihak-pihak dapat membuat kesepakatan sementara | Tidak ada kepercayaan penuh; setiap pihak menginginkan akses dan perlindungan berbeda | Kesepakatan hanya dapat dicapai dengan batas yang sempit dan mudah runtuh |
+| 13 | Membayar foreshadowing peta kedua dan kontrak Kael | Pengungkapan mengubah cara kelompok menilai tindakan Kael | Pembaca memahami alasan operasional Kael, tetapi identitas pribadi pemberi tugas dan jaringan lebih luas tetap dapat ditahan |
+| 14 | Mengubah sengketa menjadi keadaan darurat melalui tindakan yang jelas | Pengambilan paksa dilakukan meski risiko belum dipahami | Sistem pertahanan terpicu sebagai konsekuensi tindakan, bukan kebetulan |
+| 15 | Memecah kendali kelompok dan menaikkan risiko | Sistem mengunci atau mengubah akses; orang-orang terjebak | Prosedur normal tidak cukup; karakter harus memilih prioritas dengan informasi terbatas |
+| 16 | Menyelesaikan keadaan darurat melalui kerja sama | Keahlian tiap orang terbatas dan keselamatan tidak dapat dijamin | Orang-orang berhasil diselamatkan atau risiko dikurangi, tetapi fasilitas tetap belum dipahami dan tidak dikuasai |
+| 17 | Menetapkan resolusi praktis setelah insiden | Sengketa kepemilikan dan kepentingan para pihak belum hilang | Lokasi dijaga sementara; kesepakatan tidak menyelesaikan hak akhir atau semua konflik |
+| 18 | Memberi hasil konkret yang mendorong perjalanan berikutnya | Salinan catatan hanya sebagian, rusak, atau tanpa konteks | Kelompok memperoleh petunjuk menuju tempat lain; petunjuk cukup untuk bergerak, belum cukup untuk menjawab misteri |
+| 19 | Menutup buku dengan tekanan informasi, bukan ancaman aksi besar | Kael harus memutuskan apa yang dilakukan terhadap pesan dan hubungan yang diwakilinya | Kontak tak dikenal terasa relevan; identitas dan maksudnya tetap tidak diketahui |
+
+### Uji transisi antarscene
+
+Sebelum menulis transisi, pastikan:
+- Scene 3 menghasilkan alasan yang cukup bagi peta kedua Scene 4 untuk relevan.
+- Scene 5 menghasilkan bukti yang cukup untuk membenarkan keputusan Scene 6.
+- Scene 9 menghasilkan alasan yang masuk akal bagi pihak luar untuk mengetahui penemuan pada Scene 10.
+- Scene 10–12 menjelaskan mengapa klaim dan negosiasi terjadi sebelum keadaan darurat.
+- Scene 13 memberi informasi yang mengubah hubungan kelompok, bukan sekadar menyampaikan eksposisi.
+- Scene 14 dipicu oleh tindakan yang terlihat dan dapat dipertanggungjawabkan.
+- Scene 15 menciptakan masalah spesifik yang hanya dapat diatasi melalui tindakan Scene 16.
+- Scene 17 menyelesaikan krisis langsung tanpa menyelesaikan sengketa kepemilikan.
+- Scene 18 menyediakan alasan praktis untuk perjalanan berikutnya.
+- Scene 19 memperluas pertanyaan pembaca tanpa membatalkan resolusi lokal Buku I.
+
 ## 4. Perkembangan karakter sepanjang Buku I
 
 | Karakter | Awal | Tekanan utama | Perubahan yang diusulkan |
