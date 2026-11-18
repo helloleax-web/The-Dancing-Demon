@@ -1,0 +1,35 @@
+{
+  "version": "V0.4",
+  "status": "NON-CANON / CATATAN PENGEMBANGAN",
+  "source": "Derived from V0.3 macro placement; new coastline geometry. V0.1-V0.3 files remain unchanged.",
+  "method": {
+    "geometry": "One closed irregular SVG polygon per continent. Coastline modulation introduces distinct promontories, narrow peninsulas, deeper bays and asymmetric margins; Sunken Sands is rotated into a northwest-southeast diagonal. Vertices are simplified for readable vector geometry, then area-normalized.",
+    "area_measurement": "Shoelace planar area in SVG canvas coordinates, using vertices rounded to 0.01 SVG units.",
+    "target_basis": "Target shares are percentages of total land area, not planetary surface area.",
+    "limitations": [
+      "Not geodesic area.",
+      "No map projection or globe orientation is defined.",
+      "No geographic coordinates, coast-distance or plate-containment validation.",
+      "Illustrative grid is not a latitude/longitude grid.",
+      "The Veiled Continent's deep inward notch is a conceptual bay, not a validated inland sea/strait hydrology model."
+    ]
+  },
+  "continents": {
+    "Frostbound Expanse": {"target_land_share_percent":15,"measured_canvas_share_percent":15.000013,"absolute_deviation_percentage_points":0.000013,"canvas_area":36669.0654,"bounds":[735.12,151.11,1069.06,320.65],"valid_polygon":true,"within_map_frame":true},
+    "Verdant Wilds": {"target_land_share_percent":18,"measured_canvas_share_percent":18.000064,"absolute_deviation_percentage_points":0.000064,"canvas_area":44002.998,"bounds":[351.31,381.65,631.76,656.85],"valid_polygon":true,"within_map_frame":true},
+    "The Central Reach": {"target_land_share_percent":24,"measured_canvas_share_percent":23.999861,"absolute_deviation_percentage_points":0.000139,"canvas_area":58670.1145,"bounds":[751.84,347.58,1234.63,538.19],"valid_polygon":true,"within_map_frame":true},
+    "The Sunken Sands": {"target_land_share_percent":13,"measured_canvas_share_percent":13.000027,"absolute_deviation_percentage_points":0.000027,"canvas_area":31779.8958,"bounds":[1004.55,641.74,1281.82,844.54],"valid_polygon":true,"within_map_frame":true},
+    "The Ashen Frontier": {"target_land_share_percent":9,"measured_canvas_share_percent":8.999998,"absolute_deviation_percentage_points":0.000002,"canvas_area":22001.4142,"bounds":[722.08,633.77,942.34,797.29],"valid_polygon":true,"within_map_frame":true},
+    "The Veiled Continent": {"target_land_share_percent":21,"measured_canvas_share_percent":21.000037,"absolute_deviation_percentage_points":0.000037,"canvas_area":51336.7367,"bounds":[1316.15,511.52,1699.14,737.29],"valid_polygon":true,"within_map_frame":true}
+  },
+  "checks": {
+    "continent_polygon_count":6,
+    "all_polygons_valid":true,
+    "all_polygons_inside_frame":true,
+    "pairwise_overlaps":[],
+    "no_pairwise_overlap":true,
+    "total_canvas_land_area":244460.8299,
+    "measured_share_total_percent":100.0,
+    "max_absolute_share_deviation_percentage_points":0.000684
+  }
+}
