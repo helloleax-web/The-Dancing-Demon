@@ -37,7 +37,7 @@ Hasil validasi V1.0-R:
 - V1.0-reference tetap dipertahankan sebagai arsip hasil dan topologi historis;
 - V1.0-R menjadi baseline numerik yang dapat direproduksi untuk tahap berikutnya;
 - V1.1 Tutte dan prototipe V1.1 tetap arsip eksperimen;
-- V1.0-R belum menguji containment enam benua, orientasi globe, geologi, atau geodinamika.
+- V1.0-R belum diregistrasikan bersama siluet benua V0.6 dalam orientasi geografis yang sama; matriks irisan, geologi, dan geodinamika belum diuji.
 
 Rincian metode dan batas validasi tersedia dalam [Plate Geometry V1.0-R — Validation Report](World-Plate-Geometry-V1.0-R-Validation.md).
 
@@ -897,14 +897,16 @@ Berkas:
 ### Batas validasi
 
 V0.6 memperbaiki target luas dan bingkai koordinat, tetapi belum menyelesaikan:
-- containment setiap benua pada lempeng pembawanya;
+- overlay geografis bersama dan matriks irisan benua–lempeng;
 - orientasi geografis yang dipilih terhadap geometri lempeng V1.0-R;
 - geodinamika, batas lempeng aktif, relief, hidrologi, iklim, dan bioma;
 - pulau-pulau kecil dan garis pantai rinci.
 
 **Status:** V0.6 adalah kandidat geometri kerja NON-CANON. Ia menggantikan V0.5 sebagai kandidat luas sferis untuk pengujian berikutnya, bukan sebagai peta final.
 
-### 7.45 Uji orientasi dan containment lempeng
+### 7.45 Arsip uji containment untuk hipotesis satu-benua-satu-lempeng
+
+**Catatan status:** bagian ini merekam pengujian asumsi historis satu-benua-satu-lempeng pembawa. Asumsi tersebut telah disupersesi oleh Bagian 10 dan tidak lagi menjadi syarat penerimaan atlas.
 
 Uji awal [Plate Containment — Common Orientation Search V0.1](Plate-Containment-Orientation-Search-V0.1.md) membandingkan siluet V0.6 dengan muka lempeng V1.0-R. Dalam 40.000 rotasi global acak deterministik dan pemeriksaan grid kasar, tidak ditemukan satu orientasi bersama yang menempatkan keenam benua sepenuhnya di dalam lempeng pembawanya.
 
@@ -912,7 +914,7 @@ Pada orientasi sampel terbaik, hanya Sunken Sands yang lolos seluruh titik sampe
 
 Luas nominal setiap benua tetap lebih kecil daripada luas lempeng pembawanya. Masalah yang terlihat adalah bentuk dan penempatan, bukan kekurangan anggaran luas semata.
 
-**Keputusan kerja:** tahan pengembangan relief rinci. Tahap berikutnya adalah menguji penempatan ulang benua di dalam muka lempeng sambil mempertahankan target luas, atau meninjau ulang geometri/penetapan muka lempeng. Semua NON-CANON.
+**Keputusan historis:** hasil ini dahulu memicu opsi penempatan ulang benua atau revisi geometri lempeng. Opsi tersebut tidak lagi menjadi arahan aktif setelah aturan satu-ke-satu dihentikan. Tahap aktif adalah memilih orientasi bersama dan menghitung overlay sferis banyak-ke-banyak sebagaimana dijelaskan pada Bagian 10. Semua NON-CANON.
 
 Berkas data: [Plate Containment Orientation Search V0.1 JSON](Plate-Containment-Orientation-Search-V0.1.json).
 
