@@ -52,7 +52,7 @@ Bagian ini membedakan pilihan kerja yang sudah disampaikan kreator dari keputusa
 | Tahap | Pertanyaan yang perlu diputuskan | Status |
 |---|---|---|
 | A. Model dunia | Planet, dunia datar, struktur berlapis, atau model lain? | **PILIHAN SEMENTARA: planet** — menunggu konfirmasi final sebelum CANON. |
-| B. Skala fisik | Ukuran dunia, gravitasi, satelit, dan siklus astronomi seperti apa? | **PILIHAN SEMENTARA: kurang lebih setara Bumi** — menunggu konfirmasi final sebelum CANON. Gravitasi, satelit, rotasi, dan orbit belum diputuskan. |
+| B. Skala fisik | Ukuran dunia, gravitasi, satelit, dan siklus astronomi seperti apa? | **MODEL KERJA V0.6:** acuan planet terestrial bergaya Bumi tersedia (radius 6.371 km, gravitasi 9,81 m/s², hari 24 jam, kemiringan sumbu 23,44°, tahun 365,2422 hari). Semua nilai masih proposal NON-CANON; atmosfer, satelit, dan arsitektur orbit belum ditentukan. |
 | C. Bentuk daratan | Bagaimana bentuk garis pantai, pulau besar, dan detail bentuk daratan? | **DRAFT TERPILIH:** enam benua terpisah, berukuran sangat bervariasi, dengan satu kelompok utama dan beberapa daratan terpencil. Belum CANON; bentuk rinci, garis pantai, dan posisi tepat masih terbuka. |
 | D. Perairan | Bagaimana pembagian samudra, laut, dan perairan pedalaman? | BELUM DIPUTUSKAN |
 | E. Iklim dan bioma | Bagaimana pola iklim, arus, angin, dan bioma? | BELUM DIPUTUSKAN |
@@ -70,14 +70,17 @@ Isi hanya setelah keputusan dibuat. Kolom kosong berarti belum ditentukan, bukan
 
 | Elemen | Keputusan kreator | Catatan / sumber |
 |---|---|---|
-| Model dunia | PILIHAN SEMENTARA: planet; menunggu konfirmasi final sebelum CANON | Pilihan kreator dalam percakapan perancangan geografi. |
+| Model dunia | PILIHAN KERJA: planet terestrial; belum CANON | Dipilih sebagai model kerja dalam pengembangan geografi. |
 | Nama dunia | BELUM DIPUTUSKAN | |
-| Ukuran / skala | PILIHAN SEMENTARA: kurang lebih setara Bumi; menunggu konfirmasi final sebelum CANON | Tidak menetapkan gravitasi, komposisi, atmosfer, satelit, rotasi, atau orbit. |
-| Gravitasi | BELUM DIPUTUSKAN | |
-| Satelit | BELUM DIPUTUSKAN | |
-| Durasi satu hari | BELUM DIPUTUSKAN | |
-| Durasi satu tahun | BELUM DIPUTUSKAN | |
-| Astronomi lain | BELUM DIPUTUSKAN | |
+| Ukuran / skala | PROPOSAL V0.6: radius rata-rata 6.371 km; keliling ±40.030 km; luas ±510,1 juta km² | Acuan bergaya Bumi; bukan ukuran final atau CANON. |
+| Massa | PROPOSAL V0.6: 5,972 × 10²⁴ kg | Acuan bergaya Bumi. |
+| Gravitasi | PROPOSAL V0.6: 9,81 m/s² | Konsisten dengan massa dan radius acuan. |
+| Satelit | BELUM DIPUTUSKAN | Jumlah, ukuran, dan orbit satelit belum ditentukan. |
+| Durasi satu hari | PROPOSAL V0.6: 24 jam matahari; ±23 jam 56 menit sideris | Acuan rotasi bergaya Bumi; belum CANON. |
+| Durasi satu tahun | PROPOSAL V0.6: 365,2422 hari tropis | Acuan orbit bergaya Bumi; belum CANON. |
+| Kemiringan sumbu | PROPOSAL V0.6: 23,44° | Lingkar tropis dan kutub hanya konsekuensi matematis jika nilai ini dipakai. |
+| Orbit dan bintang | PROPOSAL V0.6: eksentrisitas 0,0167; jarak rata-rata 1 AU; luminositas bintang 1 Matahari | Model referensi, belum menetapkan identitas atau arsitektur sistem bintang. |
+| Atmosfer dan hidrosfer | BELUM DIPUTUSKAN | Komposisi, tekanan, massa atmosfer, kimia perairan, dan efek rumah kaca belum ditentukan. |
 
 ### 4.2 Daratan dan perairan
 
@@ -86,24 +89,24 @@ Isi hanya setelah keputusan dibuat. Kolom kosong berarti belum ditentukan, bukan
 | Jumlah benua | DRAFT PENGEMBANGAN: enam benua terpisah; belum CANON | Dipilih kreator sebagai arsitektur draft pertama. |
 | Ukuran relatif benua | DRAFT PENGEMBANGAN: sangat bervariasi; belum CANON | Dipilih kreator. Proporsi dan urutan ukuran masih berupa proposal perancangan. |
 | Komposisi posisi benua | DRAFT PENGEMBANGAN: satu kelompok utama dan beberapa daratan terpencil; belum CANON | Melanjutkan rekomendasi Alternatif C sebagai kerangka susunan spasial. Identitas anggota kelompok dan posisi tepat masih berupa proposal. |
-| Nama benua | BELUM DIPUTUSKAN | |
-| Pulau besar | BELUM DIPUTUSKAN | |
-| Samudra dan laut | BELUM DIPUTUSKAN | Susunan draft mengusulkan satu kawasan kelompok benua utama dan beberapa benua yang dipisahkan perairan luas; nama dan jumlah samudra belum ditentukan. |
-| Pegunungan utama | BELUM DIPUTUSKAN | |
-| Sungai dan danau utama | BELUM DIPUTUSKAN | |
-| Gurun / wilayah kering | BELUM DIPUTUSKAN | |
-| Hutan / bioma utama | BELUM DIPUTUSKAN | |
-| Wilayah ekstrem / anomali | BELUM DIPUTUSKAN | |
+| Nama benua | DRAFT KERJA: The Central Reach, The Frostbound Expanse, The Sunken Sands, The Verdant Wilds, The Ashen Frontier, The Veiled Continent | Nama-nama dari inventaris pengembangan; belum CANON dan masih dapat direvisi. |
+| Pulau besar | BELUM DIPUTUSKAN | Belum ada poligon pulau yang disahkan. |
+| Samudra dan laut | KERANGKA KONSEPTUAL | Tiga lempeng samudra dalam model lempeng; nama, jumlah laut, cekungan, selat, dan garis pantai final belum ditetapkan. |
+| Pegunungan utama | KANDIDAT RELIEF V0.8 | Rangkaian pegunungan dan dataran tinggi telah ditandai secara skematis; koordinat, elevasi, dan sebab geologinya belum divalidasi. |
+| Sungai dan danau utama | BELUM DIPUTUSKAN | V0.9–V1.0 hanya memuat kecenderungan drainase dan kandidat cekungan; belum ada alur sungai, danau, atau outlet terverifikasi. |
+| Gurun / wilayah kering | KANDIDAT KONSEPTUAL | The Sunken Sands memiliki konsep wilayah kering, tetapi penyebab iklim, batas, dan luas gurun belum ditentukan. |
+| Hutan / bioma utama | BELUM DIPUTUSKAN | Bioma regional belum ditetapkan; tidak boleh diturunkan hanya dari nama benua. |
+| Wilayah ekstrem / anomali | BELUM DIPUTUSKAN | Tidak ada zona anomali yang dipetakan sebagai fakta. |
 
 ### 4.3 Iklim dan lingkungan
 
 | Elemen | Keputusan kreator | Catatan / sumber |
 |---|---|---|
-| Sistem iklim global | BELUM DIPUTUSKAN | |
-| Zona iklim | BELUM DIPUTUSKAN | |
-| Arus laut dan angin | BELUM DIPUTUSKAN | |
-| Musim | BELUM DIPUTUSKAN | |
-| Bioma | BELUM DIPUTUSKAN | |
+| Sistem iklim global | KERANGKA KONSEPTUAL V0.7 | Sirkulasi tiga sel per belahan, sabuk tekanan, dan angin dominan merupakan model rata-rata bergaya Bumi; bukan simulasi iklim. |
+| Zona iklim | BELUM DIPUTUSKAN | Belum ada suhu atau curah hujan regional. |
+| Arus laut dan angin | KERANGKA KONSEPTUAL V0.7 | Angin dominan digambarkan secara umum; arus laut dan pola regional belum ditetapkan. |
+| Musim | PROPOSAL V0.6 | Fase musim berlawanan ant belahan sebagai konsekuensi kemiringan 23,44°; intensitas musim belum dihitung. |
+| Bioma | BELUM DIPUTUSKAN | Perlu topografi, curah hujan, suhu, dan hidrologi regional. |
 | Fenomena geografis khusus | BELUM DIPUTUSKAN | |
 
 ### 4.4 Wilayah politik
@@ -1568,9 +1571,9 @@ Orientasi globe dapat diputar tanpa mengubah topologi atau luas. Koordinat ini t
 
 Pemetaan inverse stereografis adalah homeomorfisme antara bidang dan bola tanpa satu titik proyeksi. Muka luar menjadi wilayah komplemen yang memuat titik proyeksi tersebut. Karena embedding planar mempertahankan muka dan tidak memiliki persilangan, sembilan wilayah membentuk partisi topologis bola. Batas pada bola tetap merupakan kurva hasil proyeksi, bukan batas geodesik.
 
-#### 7.25.5 Batas validasi dan keputusan versi
+#### 7.25.5 Batas validasi dan status historis versi
 
-V1.0 dinyatakan **FIX sebagai baseline geometri pengembangan**, dengan batas berikut:
+**Status terkini: V1.0-reference adalah arsip historis, bukan baseline aktif.** V1.0-R pada bagian 7.37 dan 7.42 menggantikan peran baseline kerja karena koordinat planar presisi asli V1.0 tidak ditemukan. Hasil V1.0 berikut tetap dipertahankan sebagai catatan historis dan tidak boleh diklaim telah direproduksi dari sumber presisi:
 - Topologi, siklus muka, geometri partisi, dan target luas dibekukan untuk versi V1.0.
 - V1.0 bukan CANON; kreator tetap dapat mengubah atau membatalkannya.
 - Jenis batas konvergen, divergen, transform, atau pasif belum ditetapkan.
@@ -1580,7 +1583,7 @@ V1.0 dinyatakan **FIX sebagai baseline geometri pengembangan**, dengan batas ber
 - Koordinat matematis belum diputar atau dikalibrasi terhadap orientasi geografis final.
 - Peta globe ini tidak membuktikan bahwa lempeng bergerak secara geodinamik realistis.
 
-**Kesimpulan:** satu partisi bola V1.0 sekarang tersedia dengan 9 wilayah, 14 triple junction, 21 batas, penutupan 100%, dan luas yang memenuhi target dalam toleransi 0,10 poin persentase. Gunakan V1.0 sebagai baseline tetap untuk tahap penempatan benua dan pengembangan geologi berikutnya. Jangan menyebutnya CANON sebelum kreator mengesahkannya.
+**Kesimpulan historis:** V1.0-reference mencatat satu partisi bola dengan 9 wilayah, 14 triple junction, 21 batas, penutupan 100%, dan deviasi luas maksimum 0,0675 poin persentase. Gunakan hasil ini sebagai referensi historis; untuk perhitungan yang dapat direproduksi, gunakan V1.0-R. Keduanya tetap NON-CANON.
 
 ### 7.26B Uji kompatibilitas luas daratan dengan lempeng pembawa
 
@@ -1592,7 +1595,7 @@ Dua distribusi yang dibandingkan berasal dari bagian sebelumnya:
 - Porsi benua pada 7.7 adalah persentase dari **total luas daratan keenam benua**: Central 24%, Veiled 21%, Verdant 18%, Frost 15%, Sands 13%, Ashen 9%.
 - Porsi lempeng pada 7.25 adalah persentase dari **seluruh permukaan planet**: Central 18%, Veiled 11%, Verdant 12%, Frost 8%, Sands 10%, Ashen 7%.
 
-Penyebut kedua distribusi berbeda. Karena persentase luas daratan terhadap seluruh permukaan planet belum diputuskan, keduanya tidak boleh dibandingkan langsung seolah-olah memakai satu skala.
+Penyebut kedua distribusi berbeda. Proposal V0.6 menetapkan asumsi kerja **30% daratan / 70% perairan**. Dengan asumsi tersebut, porsi tiap benua dari seluruh permukaan planet dapat dihitung sementara. Nilai ini tetap proposal NON-CANON dan tidak mengubah target luas lempeng.
 
 #### 7.26B.2 Syarat luas agar satu benua muat di lempeng pembawanya
 
@@ -1616,12 +1619,23 @@ Maka batas maksimum total luas daratan untuk setiap pasangan adalah `L \leq p_i/
 | The Sunken Sands | 13% | 10% | 76,92% |
 | The Ashen Frontier | 9% | 7% | 77,78% |
 
-**Batas paling ketat berasal dari The Veiled Continent:** jika satu benua harus seluruhnya berada pada lempeng pembawanya, total luas keenam benua tidak boleh melebihi sekitar **52,38% permukaan planet**. Ini hanya batas atas matematis dari pasangan yang tersedia, bukan rekomendasi bahwa planet harus memiliki luas daratan sebesar itu.
+Dengan asumsi total daratan 30% permukaan planet, anggaran luas tiap benua dapat dihitung:
+
+| Benua | Porsi dari total daratan | Luas benua jika daratan 30% planet | Target luas lempeng pembawa | Sisa luas lempeng setelah dikurangi benua |
+|---|---:|---:|---:|---:|
+| The Central Reach | 24% | 7,20% | 18% | 10,80 pp |
+| The Veiled Continent | 21% | 6,30% | 11% | 4,70 pp |
+| The Verdant Wilds | 18% | 5,40% | 12% | 6,60 pp |
+| The Frostbound Expanse | 15% | 4,50% | 8% | 3,50 pp |
+| The Sunken Sands | 13% | 3,90% | 10% | 6,10 pp |
+| The Ashen Frontier | 9% | 2,70% | 7% | 4,30 pp |
+
+**Hasil aritmetis:** pada asumsi 30% daratan, seluruh enam benua memiliki luas yang lebih kecil daripada target luas lempeng pembawanya. Sisa luas lempeng adalah anggaran area untuk margin samudra atau wilayah kerak lain; angka ini tidak membuktikan bahwa bentuk poligon benua benar-benar dapat ditempatkan di dalam lempeng.
 
 #### 7.26B.3 Implikasi dan batas kesimpulan
 
-1. Rancangan satu-benua-satu-lempeng belum otomatis mustahil. Secara luas, ada rentang nilai L yang memenuhi semua enam ketaksamaan, yakni sampai batas paling ketat 52,38%.
-2. L belum ditetapkan. Karena itu, uji ini belum dapat menyatakan rancangan lulus atau gagal untuk luas daratan aktual.
+1. Rancangan satu-benua-satu-lempeng lolos syarat perlu berbasis luas pada asumsi kerja V0.6 sebesar 30% daratan; nilai ini masih NON-CANON.
+2. Anggaran luas tiap benua lebih kecil daripada lempeng pembawanya, tetapi bentuk, lekukan, dan posisi masih dapat menyebabkan containment gagal.
 3. Ketaksamaan luas adalah syarat perlu, bukan syarat cukup. Walaupun luas benua lebih kecil daripada luas lempeng, siluetnya masih mungkin tidak muat akibat bentuk, lekukan, atau posisi wilayah lempeng.
 4. Uji bentuk yang sah membutuhkan geometri batas tiap lempeng dengan presisi memadai dan poligon siluet keenam benua. Koordinat simpul 7.25 yang dibulatkan dua desimal tidak cukup untuk menggantikan data kurva batas lengkap; peta skematis juga tidak dapat dipakai sebagai geometri ukur.
 5. Garis pantai tidak boleh disamakan dengan batas lempeng. Benua harus ditempatkan sebagai geometri daratan di dalam wilayah lempeng pembawa, dengan kemungkinan margin samudra di sekelilingnya.
@@ -1629,12 +1643,12 @@ Maka batas maksimum total luas daratan untuk setiap pasangan adalah `L \leq p_i/
 
 #### 7.26B.4 Status hasil
 
-- **Lulus:** pemeriksaan aritmetis menunjukkan rancangan belum bertentangan secara otomatis; batas atas total luas daratan adalah 52,38% berdasarkan pasangan paling ketat.
+- **Lulus:** pemeriksaan aritmetis pada asumsi 30% daratan; seluruh enam benua memiliki anggaran luas di bawah target luas lempeng pembawanya.
 - **Belum diuji:** containment poligon, bentuk garis pantai, margin samudra, posisi geografis, dan kecocokan terhadap topologi 14 simpul/21 segmen.
-- **Belum diputuskan:** fraksi total permukaan planet yang tertutup daratan.
+- **Belum diputuskan:** apakah asumsi 30/70 dipertahankan dan bagaimana distribusi bentuk benua ditempatkan di dalam lempeng.
 - **NON-CANON:** seluruh distribusi dan pemetaan tetap keputusan pengembangan.
 
-**Kesimpulan kerja:** jangan menyebut enam benua telah terbukti muat pada lempeng pembawanya. Yang sudah terbukti dari angka saat ini hanya bahwa ada batas luas matematis yang konsisten, selama total luas daratan tidak lebih dari 52,38% permukaan planet. Tahap selanjutnya memerlukan data geometri poligon penuh dan keputusan fraksi daratan sebelum uji containment spasial dapat dilakukan.
+**Kesimpulan kerja:** pada asumsi 30% daratan, pasangan luas benua–lempeng tidak menunjukkan konflik aritmetis. Ini baru syarat perlu. Enam benua **belum terbukti muat secara geometris** karena containment poligon belum diuji. Tahap berikutnya harus memakai geometri presisi V1.0-R dan siluet benua untuk menguji penempatan, bukan mengandalkan rasio luas saja.
 
 ### 7.27B Rancangan makro daratan V1.0 — komposisi dan anggaran luas
 
