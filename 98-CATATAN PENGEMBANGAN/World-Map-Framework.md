@@ -449,11 +449,11 @@ Untuk tahap ini, jangan menetapkan bahwa:
 6. Letak ekspedisi Buku I belum boleh ditentukan hanya karena disebut “jalur utara”.
 7. Peta pertama cukup menunjukkan enam daratan, perairan besar, dan garis lintang perkiraan; detail fisik menyusul setelah komposisi disetujui.
 
-### 7.26 Penempatan makro enam benua pada sembilan lempeng
+### 7.26A Penempatan makro enam benua pada sembilan lempeng
 
 **Status: CATATAN PENGEMBANGAN / NON-CANON.** Bagian ini menghubungkan rancangan enam benua pada 7.7–7.12 dengan partisi lempeng V1.0 pada 7.25. Penempatan ini merupakan rancangan spasial aktif untuk diuji, bukan koordinat geografis final dan bukan keputusan CANON.
 
-#### 7.26.1 Prinsip penempatan
+#### 7.26A.1 Prinsip penempatan
 
 - Setiap benua utama ditempatkan pada lempeng pembawa dengan nama yang berpadanan.
 - Benua tidak harus memenuhi seluruh permukaan lempeng. Sebagian besar lempeng pembawa dapat berupa kerak samudra.
@@ -461,7 +461,7 @@ Untuk tahap ini, jangan menetapkan bahwa:
 - Garis batas lempeng tidak sama dengan garis pantai. Sebuah benua dapat memiliki pesisir yang jauh dari batas lempeng, dan sebagian batas lempeng dapat berada di dasar samudra.
 - Posisi benua harus mempertahankan komposisi satu kelompok utama dan tiga daratan terpencil dari 7.8, tetapi jarak dan orientasi masih berupa hubungan relatif.
 
-#### 7.26.2 Pemetaan benua ke lempeng pembawa
+#### 7.26A.2 Pemetaan benua ke lempeng pembawa
 
 | Benua | Lempeng pembawa | Porsi dari total luas daratan (proposal 7.7) | Target luas lempeng (7.21) | Catatan penempatan |
 |---|---|---:|---:|---|
@@ -474,7 +474,7 @@ Untuk tahap ini, jangan menetapkan bahwa:
 
 Angka luas benua adalah porsi dari total luas daratan enam benua. Angka luas lempeng adalah porsi dari seluruh permukaan planet. Keduanya memakai penyebut berbeda dan tidak dapat dibandingkan langsung.
 
-#### 7.26.3 Susunan relatif yang dipilih untuk sketsa makro
+#### 7.26A.3 Susunan relatif yang dipilih untuk sketsa makro
 
 Pertahankan komposisi konseptual berikut:
 - **Kelompok utama:** Central Reach sebagai jangkar; Verdant Wilds di sisi barat daya; Sunken Sands di sisi tenggara.
@@ -484,7 +484,7 @@ Pertahankan komposisi konseptual berikut:
 
 Hubungan ini adalah komposisi relatif. Belum ada bujur, lintang geografis, jarak kilometer, atau durasi pelayaran yang ditetapkan.
 
-#### 7.26.4 Hubungan topologi lempeng dan ruang benua
+#### 7.26A.4 Hubungan topologi lempeng dan ruang benua
 
 Graf 7.17 memberi ketetanggaan lempeng, bukan kedekatan garis pantai. Hubungan relevan untuk penempatan:
 - Central bertetangga dengan Verdant, Sands, Frost, Ashen, dan Veiled.
@@ -496,7 +496,7 @@ Graf 7.17 memberi ketetanggaan lempeng, bukan kedekatan garis pantai. Hubungan r
 
 Konsekuensi desain: keterpencilan benua ditentukan oleh posisi daratan di dalam lempeng, lebar margin samudra, dan jaringan laut—bukan oleh ketiadaan batas lempeng dengan lempeng lain. Batas antara dua lempeng dapat membentang di dasar samudra tanpa membuat dua benua di atasnya saling bersentuhan.
 
-#### 7.26.5 Skema konseptual (bukan peta berskala)
+#### 7.26A.5 Skema konseptual (bukan peta berskala)
 
 ```text
                               UTARA
@@ -531,7 +531,7 @@ Konsekuensi desain: keterpencilan benua ditentukan oleh posisi daratan di dalam 
 
 Skema ini hanya menjelaskan susunan relatif dari rancangan 7.8. Tidak menunjukkan bentuk poligon lempeng V1.0, koordinat, ukuran, atau garis pantai sebenarnya.
 
-#### 7.26.6 Pemeriksaan konsistensi dan batas tahap
+#### 7.26A.6 Pemeriksaan konsistensi dan batas tahap
 
 - Keenam benua dipasangkan satu-ke-satu dengan enam lempeng pembawa.
 - Tiga lempeng samudra tetap menjadi wilayah kerak samudra pada rancangan awal.
@@ -551,11 +551,11 @@ Belum diuji:
 
 **Kesimpulan kerja:** enam benua sekarang memiliki lempeng pembawa yang jelas dan susunan relatif makro yang konsisten dengan rancangan kelompok utama plus tiga daratan terpencil. Tahap ini belum menghasilkan peta geografis berskala. Langkah berikutnya adalah menguji siluet enam benua di dalam poligon lempeng V1.0, kemudian membuat sketsa peta dunia draft dengan garis pantai dan margin samudra yang tidak melanggar batas lempeng.
 
-### 7.27 Peta dunia konseptual — Draft V1
+### 7.27A Peta dunia konseptual — Draft V1
 
 **Status: CATATAN PENGEMBANGAN / NON-CANON.** Bagian ini mencatat komposisi visual makro enam benua untuk Draft V1. Peta dibuat sebagai sketsa hubungan relatif, bukan peta koordinat geografis dan bukan hasil overlay tervalidasi dari poligon lempeng V1.0.
 
-#### 7.27.1 Komposisi yang ditampilkan
+#### 7.27A.1 Komposisi yang ditampilkan
 
 Draft V1 menampilkan:
 - **Kelompok utama:** Central Reach sebagai daratan jangkar, Verdant Wilds di sisi barat daya, dan Sunken Sands di sisi tenggara.
@@ -564,7 +564,7 @@ Draft V1 menampilkan:
 - Setiap benua memakai siluet berbeda yang mengambil karakter awal dari 7.12.
 - Garis relief di dalam benua hanya tanda visual pegunungan/dataran tinggi kandidat, bukan data elevasi atau rangkaian pegunungan yang sudah ditetapkan.
 
-#### 7.27.2 Aturan interpretasi peta
+#### 7.27A.2 Aturan interpretasi peta
 
 Peta Draft V1:
 - Tidak berskala dan belum memakai proyeksi geografis yang ditentukan.
@@ -574,9 +574,9 @@ Peta Draft V1:
 - Tidak menetapkan iklim, arus laut, angin, negara, kota, atau lokasi cerita.
 - Tidak mengubah porsi luas relatif 24/21/18/15/13/9 dari 7.7 menjadi pengukuran aktual; ukuran visual hanya pendekatan komposisi.
 
-#### 7.27.3 Pemeriksaan konsistensi makro
+#### 7.27A.3 Pemeriksaan konsistensi makro
 
-- Enam nama benua sesuai daftar pada 7.7 dan 7.26.
+- Enam nama benua sesuai daftar pada 7.7 dan 7.26A.
 - Kelompok utama tetap terdiri dari Central Reach, Verdant Wilds, dan Sunken Sands.
 - Frostbound, Ashen, dan Veiled tetap diperlakukan sebagai tiga daratan terpencil.
 - Tidak ada lokasi cerita canon yang dipindahkan atau diberi koordinat.
@@ -1288,7 +1288,7 @@ Koordinat ini berasal dari layout graf matematis, bukan hasil keputusan kreatif 
 - Transformasi ke bola satuan: dibuat sebagai visualisasi matematis.
 - Geometri geodesik batas pada globe: belum divalidasi.
 - Luas relatif lempeng: belum ditetapkan.
-- Pada tahap 7.20 ini, penempatan enam benua memang belum dilakukan; pemetaan konseptual benua ke lempeng dikembangkan kemudian pada bagian 7.26.
+- Pada tahap 7.20 ini, penempatan enam benua memang belum dilakukan; pemetaan konseptual benua ke lempeng dikembangkan kemudian pada bagian 7.26A.
 - Geografi fisik, iklim, dan tektonik nyata: belum ditetapkan.
 
 **Kesimpulan kerja:** sekarang tersedia satu kerangka bola abstrak yang dapat dipakai untuk visualisasi dan eksperimen. Ini belum menjadi globe geografis dunia LEAX. Tahap berikutnya adalah merancang luas relatif wilayah lempeng dan menentukan orientasi globe yang memudahkan penempatan benua, tanpa menganggap koordinat matematis ini sebagai lokasi canon.
@@ -1576,17 +1576,17 @@ V1.0 dinyatakan **FIX sebagai baseline geometri pengembangan**, dengan batas ber
 - Jenis batas konvergen, divergen, transform, atau pasif belum ditetapkan.
 - Arah dan kecepatan gerak lempeng serta kestabilan triple junction belum diuji.
 - Relief dasar laut, palung, busur vulkanik, hotspot, dan sejarah geologi belum ditetapkan.
-- Siluet keenam benua belum ditempatkan secara geometris di dalam poligon lempeng. Pemetaan konseptual setiap benua ke lempeng pembawa dan susunan makronya dijelaskan kemudian pada bagian 7.26; uji containment tetap belum dilakukan.
+- Siluet keenam benua belum ditempatkan secara geometris di dalam poligon lempeng. Pemetaan konseptual setiap benua ke lempeng pembawa dan susunan makronya dijelaskan kemudian pada bagian 7.26A; uji containment tetap belum dilakukan.
 - Koordinat matematis belum diputar atau dikalibrasi terhadap orientasi geografis final.
 - Peta globe ini tidak membuktikan bahwa lempeng bergerak secara geodinamik realistis.
 
 **Kesimpulan:** satu partisi bola V1.0 sekarang tersedia dengan 9 wilayah, 14 triple junction, 21 batas, penutupan 100%, dan luas yang memenuhi target dalam toleransi 0,10 poin persentase. Gunakan V1.0 sebagai baseline tetap untuk tahap penempatan benua dan pengembangan geologi berikutnya. Jangan menyebutnya CANON sebelum kreator mengesahkannya.
 
-### 7.26 Uji kompatibilitas luas daratan dengan lempeng pembawa
+### 7.26B Uji kompatibilitas luas daratan dengan lempeng pembawa
 
 **Status: CATATAN PENGEMBANGAN / NON-CANON.** Bagian ini menguji syarat luas minimum untuk rancangan satu benua utama pada setiap lempeng pembawa. Ini adalah uji kelayakan aritmetis, bukan bukti bahwa siluet benua sudah muat secara geometris di dalam poligon lempeng.
 
-#### 7.26.1 Data masukan
+#### 7.26B.1 Data masukan
 
 Dua distribusi yang dibandingkan berasal dari bagian sebelumnya:
 - Porsi benua pada 7.7 adalah persentase dari **total luas daratan keenam benua**: Central 24%, Veiled 21%, Verdant 18%, Frost 15%, Sands 13%, Ashen 9%.
@@ -1594,7 +1594,7 @@ Dua distribusi yang dibandingkan berasal dari bagian sebelumnya:
 
 Penyebut kedua distribusi berbeda. Karena persentase luas daratan terhadap seluruh permukaan planet belum diputuskan, keduanya tidak boleh dibandingkan langsung seolah-olah memakai satu skala.
 
-#### 7.26.2 Syarat luas agar satu benua muat di lempeng pembawanya
+#### 7.26B.2 Syarat luas agar satu benua muat di lempeng pembawanya
 
 Definisikan:
 - (L) = total luas daratan keenam benua sebagai fraksi luas permukaan planet.
@@ -1618,7 +1618,7 @@ Maka batas maksimum total luas daratan untuk setiap pasangan adalah `L \leq p_i/
 
 **Batas paling ketat berasal dari The Veiled Continent:** jika satu benua harus seluruhnya berada pada lempeng pembawanya, total luas keenam benua tidak boleh melebihi sekitar **52,38% permukaan planet**. Ini hanya batas atas matematis dari pasangan yang tersedia, bukan rekomendasi bahwa planet harus memiliki luas daratan sebesar itu.
 
-#### 7.26.3 Implikasi dan batas kesimpulan
+#### 7.26B.3 Implikasi dan batas kesimpulan
 
 1. Rancangan satu-benua-satu-lempeng belum otomatis mustahil. Secara luas, ada rentang nilai L yang memenuhi semua enam ketaksamaan, yakni sampai batas paling ketat 52,38%.
 2. L belum ditetapkan. Karena itu, uji ini belum dapat menyatakan rancangan lulus atau gagal untuk luas daratan aktual.
@@ -1627,7 +1627,7 @@ Maka batas maksimum total luas daratan untuk setiap pasangan adalah `L \leq p_i/
 5. Garis pantai tidak boleh disamakan dengan batas lempeng. Benua harus ditempatkan sebagai geometri daratan di dalam wilayah lempeng pembawa, dengan kemungkinan margin samudra di sekelilingnya.
 6. Jika kelak siluet tidak muat, opsi revisi adalah mengubah porsi luas benua, luas lempeng, atau aturan satu-benua-satu-lempeng. Tidak satu pun opsi tersebut dipilih pada tahap ini.
 
-#### 7.26.4 Status hasil
+#### 7.26B.4 Status hasil
 
 - **Lulus:** pemeriksaan aritmetis menunjukkan rancangan belum bertentangan secara otomatis; batas atas total luas daratan adalah 52,38% berdasarkan pasangan paling ketat.
 - **Belum diuji:** containment poligon, bentuk garis pantai, margin samudra, posisi geografis, dan kecocokan terhadap topologi 14 simpul/21 segmen.
@@ -1636,11 +1636,11 @@ Maka batas maksimum total luas daratan untuk setiap pasangan adalah `L \leq p_i/
 
 **Kesimpulan kerja:** jangan menyebut enam benua telah terbukti muat pada lempeng pembawanya. Yang sudah terbukti dari angka saat ini hanya bahwa ada batas luas matematis yang konsisten, selama total luas daratan tidak lebih dari 52,38% permukaan planet. Tahap selanjutnya memerlukan data geometri poligon penuh dan keputusan fraksi daratan sebelum uji containment spasial dapat dilakukan.
 
-### 7.27 Rancangan makro daratan V1.0 — komposisi dan anggaran luas
+### 7.27B Rancangan makro daratan V1.0 — komposisi dan anggaran luas
 
 **Status: CATATAN PENGEMBANGAN / NON-CANON.** Bagian ini mengunci satu rancangan kerja lengkap untuk tahap makro agar pengembangan tidak terus berputar pada pilihan yang sama. Angka dan penempatan di bawah adalah rekomendasi kerja yang dapat direvisi kreator; tidak ada yang otomatis menjadi CANON.
 
-#### 7.27.1 Asumsi kerja yang dipakai
+#### 7.27B.1 Asumsi kerja yang dipakai
 
 Untuk menguji apakah rancangan enam benua dapat diteruskan tanpa menabrak anggaran luas lempeng, gunakan **30% permukaan planet sebagai total luas daratan**. Angka ini dipilih sebagai nilai kerja yang moderat dan mudah diuji, bukan karena telah ditetapkan kreator atau diwajibkan oleh model planet.
 
@@ -1651,7 +1651,7 @@ Konsekuensinya:
 - Sembilan target luas lempeng pada 7.25 tetap dipakai tanpa perubahan.
 - Setiap benua tetap ditempatkan pada lempeng pembawa yang namanya bersesuaian; benua tidak harus memenuhi seluruh permukaan lempeng.
 
-#### 7.27.2 Anggaran luas daratan dan kapasitas lempeng
+#### 7.27B.2 Anggaran luas daratan dan kapasitas lempeng
 
 Dengan total daratan kerja sebesar 30%, luas setiap benua terhadap seluruh permukaan planet menjadi:
 
@@ -1667,9 +1667,9 @@ Dengan total daratan kerja sebesar 30%, luas setiap benua terhadap seluruh permu
 
 **Hasil uji anggaran:** keenam benua secara aritmetis memakai 38,57–57,27% dari luas lempeng pembawanya. Tidak ada pasangan yang melampaui luas lempeng. Sisa luas pada enam lempeng benua menjadi ruang untuk margin samudra, cekungan, busur kepulauan, dan kerak samudra; tiga lempeng samudra tetap sepenuhnya menjadi wilayah samudra dalam rancangan ini.
 
-Hasil ini memperkuat kelayakan luas yang dibahas pada 7.26, tetapi **belum membuktikan containment geometris**. Luas yang cukup tidak menjamin siluet tertentu benar-benar dapat ditempatkan di dalam batas lempeng tanpa melintasi batas.
+Hasil ini memperkuat kelayakan luas yang dibahas pada 7.26B, tetapi **belum membuktikan containment geometris**. Luas yang cukup tidak menjamin siluet tertentu benar-benar dapat ditempatkan di dalam batas lempeng tanpa melintasi batas.
 
-#### 7.27.3 Penempatan makro yang dipilih untuk draft
+#### 7.27B.3 Penempatan makro yang dipilih untuk draft
 
 Pertahankan komposisi 7.8 sebagai susunan kerja:
 
@@ -1685,7 +1685,7 @@ Pertahankan komposisi 7.8 sebagai susunan kerja:
 
 Penempatan ini adalah hubungan relatif, bukan koordinat. Rotasi globe V1.0 masih bebas; koordinat matematis 7.25 tidak boleh langsung dibaca sebagai utara, selatan, timur, atau barat geografis dunia sebelum orientasi final dipilih.
 
-#### 7.27.4 Brief siluet final untuk sketsa makro
+#### 7.27B.4 Brief siluet final untuk sketsa makro
 
 | Benua | Brief bentuk yang harus dipertahankan | Hal yang dihindari |
 |---|---|---|
@@ -1698,7 +1698,7 @@ Penempatan ini adalah hubungan relatif, bukan koordinat. Rotasi globe V1.0 masih
 
 Brief ini menjadi panduan ilustrasi, bukan bentuk poligon yang telah lolos pengujian.
 
-#### 7.27.5 Hubungan daratan dengan sistem lempeng
+#### 7.27B.5 Hubungan daratan dengan sistem lempeng
 
 Pertahankan pemetaan konseptual satu benua utama pada satu lempeng pembawa:
 - Central Reach → Central (CR).
@@ -1710,7 +1710,7 @@ Pertahankan pemetaan konseptual satu benua utama pada satu lempeng pembawa:
 
 Batas lempeng tidak boleh dipakai sebagai garis pantai. Setiap siluet benua harus berada di bagian dalam lempeng pembawanya dan menyisakan margin yang cukup agar wilayah lempeng tidak seluruhnya menjadi daratan. Tiga lempeng NO, WO, dan SE tetap menjadi lempeng samudra dalam rancangan awal.
 
-#### 7.27.6 Status penyelesaian dan pemeriksaan yang masih wajib
+#### 7.27B.6 Status penyelesaian dan pemeriksaan yang masih wajib
 
 **Selesai pada tahap rancangan makro:**
 - Enam kandidat benua dipertahankan.
@@ -1727,7 +1727,7 @@ Batas lempeng tidak boleh dipakai sebagai garis pantai. Setiap siluet benua haru
 4. Margin samudra, selat, dan jarak antarbenua belum dihitung.
 5. Iklim, arus laut, relief, dan geologi belum diaudit terhadap posisi final.
 
-**Kriteria kelulusan tahap geometri berikutnya:** setiap poligon benua harus berada sepenuhnya di dalam poligon lempeng pembawanya, luasnya sesuai anggaran 7.27.2 dalam toleransi yang dinyatakan, tidak memotong batas lempeng, dan tetap mempertahankan jarak laut yang diperlukan oleh komposisi 7.27.3.
+**Kriteria kelulusan tahap geometri berikutnya:** setiap poligon benua harus berada sepenuhnya di dalam poligon lempeng pembawanya, luasnya sesuai anggaran 7.27B.2 dalam toleransi yang dinyatakan, tidak memotong batas lempeng, dan tetap mempertahankan jarak laut yang diperlukan oleh komposisi 7.27B.3.
 
 **Kesimpulan kerja:** rancangan makro V1.0 kini memiliki satu set asumsi konsisten untuk diteruskan: enam benua, total daratan kerja 30%, enam lempeng pembawa, dan komposisi tiga-plus-tiga. Anggaran luas lolos secara aritmetis. Peta belum boleh disebut selesai secara geometris atau CANON sampai uji containment dan persetujuan kreator dilakukan.
 
@@ -1877,7 +1877,7 @@ Pendelegasian ini memberi kewenangan untuk menetapkan **baseline pengembangan**,
 | Lempeng pembawa | Satu benua utama pada masing-masing Central, Veiled, Verdant, Frost, Sands, dan Ashen | Memudahkan containment dan kesinambungan geografis |
 | Komposisi makro | Tiga benua kelompok utama dan tiga daratan terpencil | Menyediakan pusat interaksi serta wilayah terisolasi dengan fungsi berbeda |
 | Definisi batas geometri | Pertahankan batas sebagai kurva hasil inverse stereographic projection dari segmen planar selama optimasi V1.1 | Konsisten dengan pendekatan prototipe yang sudah dibangun; jangan berganti ke busur geodesik di tengah proses |
-| Orientasi geografis | Belum dikunci sampai geometri dan siluet stabil; setelah itu globe diputar untuk memenuhi susunan makro 7.27 | Rotasi tidak mengubah topologi atau luas dan lebih aman dilakukan setelah bentuk stabil |
+| Orientasi geografis | Belum dikunci sampai geometri dan siluet stabil; setelah itu globe diputar untuk memenuhi susunan makro 7.27B | Rotasi tidak mengubah topologi atau luas dan lebih aman dilakukan setelah bentuk stabil |
 
 #### 7.30.2 Urutan eksekusi yang ditetapkan
 
@@ -2124,7 +2124,7 @@ Langkah pemulihan yang ditetapkan:
 
 Pekerjaan berikutnya tidak lagi menunggu eksperimen optimasi tanpa akhir. Jalankan dalam satu rangkaian:
 1. Pulihkan atau rekonstruksi geometri lempeng berdasarkan V1.0.
-2. Gunakan komposisi makro enam benua pada bagian 7.27 dan spesifikasi siluet pada bagian 7.12 sebagai rancangan awal.
+2. Gunakan komposisi makro enam benua pada bagian 7.27B dan spesifikasi siluet pada bagian 7.12 sebagai rancangan awal.
 3. Tetapkan keenam benua pada lempeng pembawa yang sudah ditentukan di bagian 7.30; ukur containment setelah poligon presisi tersedia.
 4. Susun garis pantai, pulau, selat, teluk, semenanjung, dan margin pesisir dengan menjaga proporsi relatif 24/21/18/15/13/9.
 5. Tetapkan orientasi globe dan koordinat geografis setelah bentuk daratan stabil.
@@ -2172,12 +2172,12 @@ Proposal lama lain yang belum disahkan:
 
 ## 10. Langkah kerja berikutnya
 
-Rancangan makro enam benua dan anggaran luas kerja sudah dicatat pada 7.27. Urutan pekerjaan yang tersisa:
+Rancangan makro enam benua dan anggaran luas kerja sudah dicatat pada 7.27B. Urutan pekerjaan yang tersisa:
 
 1. Minta persetujuan kreator atas asumsi total daratan 30% dan distribusi ukuran benua 24/21/18/15/13/9; keduanya masih NON-CANON.
 2. Pulihkan atau simpan koordinat planar presisi V1.0, bukan hanya koordinat bola yang dibulatkan dua desimal.
 3. Bangun poligon siluet keenam benua di dalam enam lempeng pembawa, lalu uji containment, margin samudra, dan luas aktual pada bola.
-4. Putar orientasi globe agar susunan tiga benua utama dan tiga daratan terpencil sesuai hubungan relatif pada 7.27.3.
+4. Putar orientasi globe agar susunan tiga benua utama dan tiga daratan terpencil sesuai hubungan relatif pada 7.27B.3.
 5. Buat peta visual draft dengan proyeksi yang dinyatakan, lalu audit garis pantai, jarak, dan hubungan antarbenua.
 6. Setelah bentuk dan orientasi disetujui, tentukan lintang iklim, arus laut, angin, relief, dan bioma.
 7. Tempatkan jangkar cerita Buku I hanya setelah hubungan geografisnya mendapat keputusan kreator.
@@ -2190,7 +2190,7 @@ Pertanyaan ini sengaja dibiarkan terbuka. Jangan isi berdasarkan asumsi.
 - Apakah pilihan sementara planet dan skala kurang lebih setara Bumi dikonfirmasi sebagai CANON?
 - Apakah rancangan kerja penempatan enam benua pada bagian 7.8 perlu direvisi setelah dibuat sketsa visual?
 - Apakah distribusi ukuran relatif pada bagian 7.7 (24/21/18/15/13/9 dari total luas daratan) disetujui sebagai baseline, atau perlu diubah?
-- Apakah asumsi kerja total luas daratan 30% pada bagian 7.27 disetujui untuk menjadi dasar uji geometri, atau kreator ingin angka lain?
+- Apakah asumsi kerja total luas daratan 30% pada bagian 7.27B disetujui untuk menjadi dasar uji geometri, atau kreator ingin angka lain?
 - Apakah karakter siluet awal keenam benua pada bagian 7.7 sesuai, atau ada benua yang ingin lu bentuk ulang?
 - Apakah peta awal harus mencakup seluruh dunia atau hanya wilayah cerita Buku I?
 - Apakah enam nama benua dari proposal lama dipertahankan sebagai nama draft, atau perlu diganti sebelum peta final?
