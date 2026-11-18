@@ -2344,3 +2344,19 @@ Gabungan keenam siluet mencakup **26,44% permukaan bola**, sehingga belum memenu
 Berkas data: [World-Atlas-Spherical-Continental-Area-Audit-V0.1.json](World-Atlas-Spherical-Continental-Area-Audit-V0.1.json).
 
 **Implikasi:** status atlas diturunkan secara eksplisit menjadi belum lolos audit luas sferis dan belum lolos containment lempeng. Jangan menurunkan iklim, bioma, hidrologi rinci, atau jarak perjalanan final dari siluet ini. Seluruh hasil NON-CANON; tidak ada lokasi cerita atau CANON yang diubah.
+
+### 7.44 Siluet luas sferis V0.6
+
+Berdasarkan audit V0.5, dibuat kandidat [World-Atlas-Continental-Silhouette-V0.6.svg](World-Atlas-Continental-Silhouette-V0.6.svg) dan [audit normalisasi V0.6](World-Atlas-Continental-Area-Normalization-Audit-V0.6.json).
+
+Target proporsi relatif historis 15/18/24/13/9/21 dipertahankan. Dengan asumsi 30% daratan, target absolut permukaan planet adalah Frostbound 4,5%, Verdant 5,4%, Central 7,2%, Sands 3,9%, Ashen 2,7%, dan Veiled 6,3%.
+
+Penyesuaian dilakukan pada koordinat silinder luas-sama, lalu sisi hasilnya didensifikasi sebelum diproyeksikan kembali ke bingkai SVG lintang-bujur. Frostbound diperlebar secara longitudinal agar tidak melewati kutub. Rotasi bujur global −10° dipakai untuk menghindari pemotongan Veiled pada seam ±180°.
+
+Audit hasil render:
+- Total luas enam benua: **30,00017%** permukaan bola.
+- Selisih terhadap target global 30%: sekitar **+0,00017 poin persentase**.
+- Semua titik berada dalam bingkai longitude/latitude.
+- Uji containment terhadap lempeng belum dilakukan.
+
+**Status:** V0.6 adalah kandidat luas sferis NON-CANON dan menjadi geometri kerja untuk uji containment berikutnya. Jangan menganggapnya peta final atau menurunkan geologi/iklim/hidrologi sebelum validasi lempeng.
