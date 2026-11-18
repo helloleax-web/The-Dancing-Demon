@@ -354,3 +354,4 @@ Konfigurasi ini direkomendasikan untuk draft karena menghubungkan tiga organisas
 - [Location & Organization Development Dossier — Draft 0.1](Location-Organization-Development-Dossier-Draft-0.1.md) — fungsi dan hubungan organisasi serta lokasi dalam draft.
 - [Eight-Book Series Architecture — Draft 0.1](Eight-Book-Series-Architecture-Draft-0.1.md) — fungsi Buku I dalam kesinambungan delapan buku.
 - [Cerita dan Rencana Delapan Buku](../00-CORE/08-Cerita-dan-Rencana-Delapan-Buku.md) — premis dan kerangka cerita yang menjadi dasar outline ini.
+- [Book I Heritage Dispute Framework — Draft 0.1](Book-I-Heritage-Dispute-Framework-Draft-0.1.md) — model konflik hak dan pemulihan fasilitas; seluruh detail baru tetap NON-CANON.
