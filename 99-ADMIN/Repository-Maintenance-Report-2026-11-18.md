@@ -115,3 +115,16 @@ Dokumen:
 - [Data JSON](../98-CATATAN%20PENGEMBANGAN/Plate-Containment-Orientation-Search-V0.1.json)
 
 Tidak ada perubahan CANON.
+
+
+## Revisi model hubungan benua–lempeng — 2026-11-18
+
+Aturan satu-benua-satu-lempeng pembawa dihentikan sebagai syarat desain. Uji orientasi sebelumnya tetap benar untuk hipotesis containment ketat, tetapi tidak membatalkan geometri lempeng V1.0-R. Model aktif kini memperlakukan benua dan lempeng sebagai dua sistem spasial yang dapat saling beririsan: benua dapat melintasi beberapa lempeng dan satu lempeng dapat memuat kerak benua maupun samudra.
+
+Baseline V0.6 (luas daratan sekitar 30,00017% permukaan bola) dan V1.0-R (9 muka, 100% permukaan bola, deviasi luas maksimum 0,002188 poin persentase) dipertahankan tanpa perubahan. Belum dibuat overlay geografis bersama; orientasi globe, matriks irisan sferis, klasifikasi kerak, dan geodinamika tetap terbuka.
+
+Dokumen baru:
+- [Plate–Continent Relationship Framework V0.1](../98-CATATAN%20PENGEMBANGAN/Plate-Continent-Relationship-Framework-V0.1.md)
+- [Data JSON](../98-CATATAN%20PENGEMBANGAN/Plate-Continent-Relationship-Framework-V0.1.json)
+
+Dampak CANON: tidak ada.
