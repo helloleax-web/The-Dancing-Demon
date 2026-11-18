@@ -1,0 +1,64 @@
+{
+  "document": "World-Atlas-Continental-Polygon-Audit-V0.3",
+  "status": "NON-CANON / PRESENTATION REVISION AUDIT",
+  "source_file": "World-Atlas-Continental-Silhouette-V0.3.svg",
+  "geometry_source": "V0.2 polygons retained without coordinate changes.",
+  "method": "Shoelace area on SVG polygon vertices; pairwise overlap tested using segment intersection and point-in-polygon; frame containment tested against x=100..1700 and y=120..850.",
+  "results": [
+    {
+      "name": "Frostbound Expanse",
+      "target_land_share_percent": 15,
+      "measured_canvas_land_share_percent": 15,
+      "area_px2": 36668.9756
+    },
+    {
+      "name": "Verdant Wilds",
+      "target_land_share_percent": 18,
+      "measured_canvas_land_share_percent": 18,
+      "area_px2": 44002.7802
+    },
+    {
+      "name": "The Central Reach",
+      "target_land_share_percent": 24,
+      "measured_canvas_land_share_percent": 24,
+      "area_px2": 58670.3771
+    },
+    {
+      "name": "The Sunken Sands",
+      "target_land_share_percent": 13,
+      "measured_canvas_land_share_percent": 13,
+      "area_px2": 31779.7862
+    },
+    {
+      "name": "The Ashen Frontier",
+      "target_land_share_percent": 9,
+      "measured_canvas_land_share_percent": 9,
+      "area_px2": 22001.3906
+    },
+    {
+      "name": "The Veiled Continent",
+      "target_land_share_percent": 21,
+      "measured_canvas_land_share_percent": 21,
+      "area_px2": 51336.5598
+    }
+  ],
+  "checks": {
+    "polygon_count": 6,
+    "all_vertices_within_map_frame": true,
+    "pairwise_overlap_pairs": [],
+    "geometry_changed_from_v0_2": false,
+    "area_shares_unchanged": true,
+    "result": "PASS"
+  },
+  "presentation_changes": [
+    "Removed the equator label and dashed equator line because globe orientation and latitude are not yet established.",
+    "Improved continent-label contrast and spacing.",
+    "Clarified that the grid is illustrative and does not encode validated coordinates.",
+    "Updated title, versioning and status notes."
+  ],
+  "limitations": [
+    "This is a presentation cleanup, not a coastline-shape redesign.",
+    "Canvas-area shares are not geodesic planetary land-area shares.",
+    "No plate-containment or projection validation has been performed."
+  ]
+}
