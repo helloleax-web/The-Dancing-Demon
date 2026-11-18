@@ -350,3 +350,13 @@ Dokumen konsolidasi ini dibuat berdasarkan lore yang telah ditetapkan dalam perc
 - Batas: belum ada uji containment pada lempeng V1.0-R, validasi geodinamika, relief, hidrologi, iklim, atau bioma.
 - Dampak CANON: tidak ada.
 - Dokumen terkait: 98-CATATAN PENGEMBANGAN/World-Atlas-Continental-Silhouette-V0.6.svg dan 98-CATATAN PENGEMBANGAN/World-Atlas-Continental-Area-Normalization-Audit-V0.6.json.
+
+## Uji containment lempeng — 2026-11-18
+
+- Tanggal: 2026-11-18
+- Topik: Uji satu rotasi globe bersama untuk containment enam benua V0.6 pada muka lempeng V1.0-R.
+- Perubahan: dibuat laporan dan data pencarian 40.000 rotasi global acak deterministik serta pemeriksaan grid kasar.
+- Hasil: tidak ditemukan satu orientasi bersama yang meloloskan keenam benua. Pada orientasi sampel terbaik, Sunken Sands satu-satunya benua yang seluruh titik sampelnya berada di muka lempeng yang ditetapkan; 115/368 titik sampel total berada pada muka yang benar.
+- Batas: hasil pencarian bukan bukti matematis bahwa orientasi valid mustahil; belum menggantikan uji perpotongan poligon sferis penuh.
+- Dampak CANON: tidak ada.
+- Dokumen terkait: 98-CATATAN PENGEMBANGAN/Plate-Containment-Orientation-Search-V0.1.md dan 98-CATATAN PENGEMBANGAN/Plate-Containment-Orientation-Search-V0.1.json.
