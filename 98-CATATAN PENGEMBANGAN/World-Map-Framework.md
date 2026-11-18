@@ -2431,6 +2431,6 @@ Rujukan: [Overlay R0.1](Continental-Plate-Overlay-R0.1.md), [peta SVG](World-Atl
 
 ### 7.49 Kandidat registrasi kompak R0.2
 
-Dibandingkan registrasi identitas R0.1, diuji 3.000 rotasi global dengan metrik rata-rata proporsi benua pada muka dominannya. R0.2 mencapai 87,50% pada screening kasar dan 87,27% pada audit raster; R0.1 sekitar 67,61% pada audit yang sama. Karena itu R0.2 dipilih sebagai kandidat kerja untuk pengujian lanjutan, bukan sebagai orientasi final.
+Dibandingkan registrasi identitas R0.1, diuji 3.000 rotasi global dengan metrik rata-rata proporsi benua pada muka dominannya. R0.2 mencapai 87,50% pada screening kasar dan 87,25% pada audit raster 576.000 sel (0,5° bujur × 0,0025 sin(latitude)); R0.1 sekitar 67,59% pada audit grid yang sama. Karena itu R0.2 dipilih sebagai kandidat kerja untuk pengujian lanjutan, bukan sebagai orientasi final.
 
 Artefak: [laporan R0.2](Continental-Plate-Overlay-R0.2.md), [peta SVG](World-Atlas-Continental-Plate-Overlay-R0.2.svg), [audit JSON](Continental-Plate-Overlay-Audit-R0.2.json). R0.1 tetap sebagai referensi identitas. Metrik kekompakan tidak membuktikan geologi atau jenis kerak. Semua NON-CANON.
