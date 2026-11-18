@@ -277,5 +277,33 @@
     "Plate-face names do not determine crust type.",
     "No plate-boundary kinematics, subduction, spreading, or geodynamic validation is implied."
   ],
-  "canon_changed": false
+  "canon_changed": false,
+  "raster_convergence_audit": {
+    "status": "INDEPENDENT EQUAL-AREA RASTER CONVERGENCE CHECK",
+    "report": "Continental-Plate-Overlay-Convergence-R0.2.md",
+    "data": "Continental-Plate-Overlay-Convergence-Audit-R0.2.json",
+    "grids_tested": [
+      "1° × 0.005 sin(latitude), 144000 cells",
+      "0.5° × 0.0025 sin(latitude), 576000 cells",
+      "0.25° × 0.00125 sin(latitude), 2304000 cells",
+      "0.125° × 0.000625 sin(latitude), 9216000 cells"
+    ],
+    "mean_dominant_share_percent": {
+      "coarse_1deg": 87.27465794114258,
+      "baseline_0_5deg": 87.24987744593716,
+      "quarter_degree": 87.25729651609579,
+      "eighth_degree": 87.25443432257148
+    },
+    "max_adjacent_matrix_cell_difference_percentage_points": {
+      "from_0_5_to_0_25": 0.06595313601682129,
+      "from_0_25_to_0_125": 0.013174654273134578
+    },
+    "max_matrix_cell_difference_location": "Veiled Continent × North Ocean",
+    "mean_dominant_share_change_percentage_points": {
+      "from_0_5_to_0_25": 0.00741907015863319,
+      "from_0_25_to_0_125": 0.0028621935243080543
+    },
+    "decision": "Retain sampled spherical polygon clipping as primary; 0.125° raster is an independent convergence cross-check. No geometry or registration change.",
+    "canon_changed": false
+  }
 }
