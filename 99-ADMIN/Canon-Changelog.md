@@ -360,3 +360,13 @@ Dokumen konsolidasi ini dibuat berdasarkan lore yang telah ditetapkan dalam perc
 - Batas: hasil pencarian bukan bukti matematis bahwa orientasi valid mustahil; belum menggantikan uji perpotongan poligon sferis penuh.
 - Dampak CANON: tidak ada.
 - Dokumen terkait: 98-CATATAN PENGEMBANGAN/Plate-Containment-Orientation-Search-V0.1.md dan 98-CATATAN PENGEMBANGAN/Plate-Containment-Orientation-Search-V0.1.json.
+
+
+## Revisi hubungan benua–lempeng — 2026-11-18
+
+- Tanggal: 2026-11-18
+- Topik: Mengganti aturan desain satu-benua-satu-lempeng pembawa dengan hubungan spasial banyak-ke-banyak.
+- Keputusan: Benua dapat melintasi beberapa lempeng dan satu lempeng dapat memuat kerak benua maupun samudra. Nama muka lempeng diperlakukan sebagai label sementara, bukan klasifikasi kerak atau penetapan eksklusif. Geometri V1.0-R dan siluet V0.6 dipertahankan; uji containment lama tetap sah hanya untuk hipotesis satu-ke-satu yang kini disupersesi.
+- Batas: orientasi geografis bersama, overlay sferis, matriks irisan luas, klasifikasi kerak, dan geodinamika belum divalidasi.
+- Dampak CANON: tidak ada.
+- Dokumen terkait: Plate–Continent Relationship Framework V0.1, World Atlas Draft V1, World Map Framework, Worldbuilding Coverage Matrix, dan Repository Maintenance Report.
