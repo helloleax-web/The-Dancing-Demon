@@ -37,3 +37,12 @@ Dokumen konsolidasi ini dibuat berdasarkan lore yang telah ditetapkan dalam perc
 - Keputusan: Menambahkan kebijakan pemeliharaan repository sesuai mandat editorial kreator; memperjelas bahwa pertanyaan terbuka dapat dikembangkan sebagai CATATAN PENGEMBANGAN tanpa otomatis menjadi CANON; memperbarui laporan audit agar mencerminkan penyelesaian A-01 sampai A-04 dan memusatkan tindak lanjut pada validasi teknis geometri serta pengembangan materi cerita. README dan indeks diperbarui agar dokumen administrasi mudah ditemukan.
 - Dokumen yang diperbarui: `README.md`, `BACA-DULU.md`, `00-CORE/00-README.md`, `99-ADMIN/Open-Questions.md`, `99-ADMIN/Canon-Audit-Report-2026-11-18.md`, dan dokumen baru `99-ADMIN/Editorial-Maintenance-Policy.md`.
 - Apakah ini retcon?: Tidak. Perubahan administratif; tidak mengubah fakta cerita.
+
+
+## Catatan pengembangan 2026-11-18
+
+- Tanggal: 2026-11-18
+- Topik: Pengembangan draft karakter, lokasi, organisasi, dan outline Buku I.
+- Keputusan: Membuat tiga dossier CATATAN PENGEMBANGAN: Character Development Dossier Draft 0.1, Location & Organization Development Dossier Draft 0.1, dan Book I Scene Outline Draft 0.1. Materi tersebut mengusulkan profil, fungsi naratif, dinamika, dan struktur adegan berdasarkan premis yang telah ada. Tidak ada proposal yang dipromosikan menjadi CANON; misteri Kael, identitas fasilitas Buku I, dan hubungan organisasi tetap ditandai terbuka. README, indeks inti, panduan baca, dan Coverage Matrix diperbarui untuk menautkan materi baru.
+- Dokumen yang diperbarui: `README.md`, `BACA-DULU.md`, `00-CORE/00-README.md`, `98-CATATAN PENGEMBANGAN/Worldbuilding-Coverage-Matrix.md`, `99-ADMIN/Canon-Audit-Report-2026-11-18.md`, dan tiga dossier pengembangan baru.
+- Apakah ini retcon?: Tidak. Semua materi baru berstatus CATATAN PENGEMBANGAN.
