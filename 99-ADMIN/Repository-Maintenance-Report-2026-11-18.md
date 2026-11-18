@@ -283,3 +283,11 @@ Tidak ada perubahan CANON.
 - Tautan silang ditambahkan ke Book I Scene Outline, Mystery & Foreshadowing Ledger, dan Eight-Book Series Architecture.
 - Dokumen baru berstatus NON-CANON dan berfungsi sebagai alat kontinuitas pengetahuan karakter/pembaca pada 19 scene Buku I.
 - Character Bible dan dokumen CANON tidak diubah.
+
+
+## Pemeliharaan manuskrip draft Buku I — 2026-11-19
+
+- Berkas baru: `98-CATATAN PENGEMBANGAN/Book-I-Manuscript-Chapter-01-Draft-0.1.md`.
+- Berisi eksperimen prosa Scene 1 berdasarkan outline dan fakta karakter yang terdokumentasi.
+- Tautan silang ditambahkan ke Book I Scene Outline.
+- Status NON-CANON; belum dianggap manuskrip final dan tidak mengubah dokumen CANON.
