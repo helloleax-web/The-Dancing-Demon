@@ -805,3 +805,20 @@ Istilah *exorheic* dan *endorheic* hanya menjadi kategori yang akan dipakai sete
 - Seluruh isi V1.0 tetap NON-CANON.
 
 **Status keputusan:** V1.0 menyediakan kosakata dan klasifikasi awal untuk relief yang telah dideskripsikan. Langkah berikutnya bukan langsung menggambar sungai, melainkan menyelesaikan sisi relief yang belum dipilih, hubungan punggung–pelana–cekungan, serta ambang outlet setiap cekungan.
+
+
+---
+
+## Referensi geometri lempeng — versi terpisah
+
+Penomoran versi pada dokumen atlas dan geometri lempeng berjalan terpisah:
+- **World Atlas Draft V1 / V1.0** di dokumen ini mengacu pada tahap klasifikasi relief relatif dan kerangka drainase.
+- **Plate Geometry V1.0-R** mengacu pada rekonstruksi matematis partisi sembilan wilayah lempeng.
+
+Geometri lempeng kerja yang dapat direproduksi kini tersedia:
+- [Plate Geometry V1.0-R — JSON](World-Plate-Geometry-V1.0-R-reconstructed.json)
+- [Plate Geometry V1.0-R — Validation Report](World-Plate-Geometry-V1.0-R-Validation.md)
+- [Plate Geometry V1.0-R — Planar SVG](World-Plate-Geometry-V1.0-R-planar.svg)
+- [Plate Geometry V1.0-R — Python Validator](validate_plate_geometry_v1_0_r.py)
+
+V1.0-R belum menguji containment enam benua dan bukan peta geografis final. Jangan mencampur statusnya dengan klasifikasi relief/drainase V1.0 dalam dokumen ini.
