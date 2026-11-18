@@ -23,14 +23,23 @@
 
 ### 2.1 Baseline yang dipilih
 
-V1.0 dipilih kembali sebagai baseline geometri pengembangan karena bagian 7.25 mencatat hasil luas yang mendekati target dengan deviasi maksimum 0,0675 poin persentase, tanpa persilangan, dan penutupan bola 100%.
+**V1.0-R adalah baseline geometri lempeng aktif untuk pengembangan.** V1.0-R merupakan rekonstruksi numerik baru yang mempertahankan topologi dan target luas yang dipublikasikan pada referensi V1.0, tetapi menggunakan koordinat planar dan bobot Tutte baru.
 
-Namun, data koordinat planar presisi dan skrip konstruksi V1.0 belum ditemukan pada sumber yang diperiksa. Oleh karena itu:
-- angka hasil V1.0 dipertahankan sebagai hasil terdokumentasi;
-- belum ada reproduksi independen dari koordinat presisi;
-- koordinat lintang-bujur yang dibulatkan tidak cukup untuk membangun ulang poligon;
-- V1.1 Tutte dan prototipe V1.1 tetap arsip eksperimen, bukan geometri produksi;
-- jika sumber V1.0 tidak dapat dipulihkan, rekonstruksi baru harus diberi label V1.0-R dan tidak boleh disebut identik.
+Hasil validasi V1.0-R:
+- 14 simpul, 21 sisi, dan 9 muka; karakteristik Euler = 2;
+- seluruh simpul berderajat 3 dan graf memiliki konektivitas 3;
+- tidak ditemukan persilangan sisi non-insiden;
+- delapan muka terbatas menutup poligon luar tanpa tumpang tindih planar;
+- total luas permukaan 100%, dengan deviasi maksimum 0,002188 poin persentase;
+- validator mandiri menghasilkan `RESULT: PASS`.
+
+**V1.0-R bukan pemulihan identik V1.0.** Koordinat planar asli V1.0 dan input konstruksinya belum ditemukan. Karena itu:
+- V1.0-reference tetap dipertahankan sebagai arsip hasil dan topologi historis;
+- V1.0-R menjadi baseline numerik yang dapat direproduksi untuk tahap berikutnya;
+- V1.1 Tutte dan prototipe V1.1 tetap arsip eksperimen;
+- V1.0-R belum menguji containment enam benua, orientasi globe, geologi, atau geodinamika.
+
+Rincian metode dan batas validasi tersedia dalam [Plate Geometry V1.0-R — Validation Report](World-Plate-Geometry-V1.0-R-Validation.md).
 
 ### 2.2 Pemetaan benua ke lempeng pembawa
 
@@ -293,18 +302,21 @@ Awal cerita menyebut ekspedisi pemetaan jalur utara oleh Tavian Rell. Frasa ters
 
 ## 9. Keputusan kerja dan keluaran
 
-**Keputusan aktif:** V1.0 menjadi baseline geometri yang hendak dipulihkan. Jika sumber presisi tidak tersedia, buat rekonstruksi V1.0-R yang transparan. V1.1 tetap arsip eksperimen.
+**Keputusan aktif:**
+- V1.0-R menjadi baseline geometri lempeng yang dapat direproduksi.
+- V1.0-reference dipertahankan sebagai arsip historis; koordinat planar asli V1.0 belum ditemukan.
+- V1.1 dan prototipe terkait dipertahankan sebagai arsip eksperimen, bukan baseline aktif.
+- Enam benua terpisah dan komposisi satu kelompok utama plus beberapa daratan terpencil merupakan draft pengembangan terpilih, bukan CANON.
 
-Paket atlas ini menjadi acuan tunggal untuk menyelesaikan:
-1. pemulihan/rekonstruksi geometri lempeng;
-2. enam siluet benua;
-3. margin samudra dan garis pantai;
-4. orientasi globe;
-5. relief dan hidrologi;
-6. iklim dan bioma;
-7. audit kontinuitas cerita.
+Paket atlas ini menjadi acuan kerja untuk:
+1. menguji containment enam siluet benua pada enam lempeng pembawa;
+2. menyelesaikan margin samudra dan garis pantai;
+3. menentukan orientasi globe dan kerangka koordinat geografis;
+4. menyelesaikan relief, hidrologi, iklim, dan bioma;
+5. menguji konsistensi geografi dengan rute serta kebutuhan cerita;
+6. menyiapkan peta final setelah ketergantungan teknis selesai.
 
-**Status akhir saat dokumen dibuat:** atlas konseptual lengkap sebagai rancangan kerja; belum merupakan peta koordinat final, belum lolos uji containment, dan belum CANON.
+**Status:** atlas tetap CATATAN PENGEMBANGAN / NON-CANON. V1.0-R lolos validasi topologi dan target luas, tetapi belum lolos uji containment benua atau validasi geologi/geodinamika. Dokumen ini bukan peta geografis final.
 
 
 ## Lampiran teknis: referensi geometri V1.0
