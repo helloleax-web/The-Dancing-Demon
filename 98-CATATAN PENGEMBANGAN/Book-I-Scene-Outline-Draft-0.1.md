@@ -349,6 +349,8 @@ Konfigurasi ini direkomendasikan untuk draft karena menghubungkan tiga organisas
 
 
 ## 10. Dokumen terkait
+- [Book I Character Knowledge Matrix — Draft 0.1](Book-I-Character-Knowledge-Matrix-Draft-0.1.md) — melacak informasi yang diketahui tiap karakter dan pembaca pada setiap tahap Buku I.
+
 
 - [Character Development Dossier — Draft 0.1](Character-Development-Dossier-Draft-0.1.md) — motivasi, kelemahan, dan arc karakter.
 - [Location & Organization Development Dossier — Draft 0.1](Location-Organization-Development-Dossier-Draft-0.1.md) — fungsi dan hubungan organisasi serta lokasi dalam draft.
