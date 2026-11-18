@@ -194,3 +194,16 @@ Pemeriksaan lanjutan menemukan bahwa matriks rotasi pada artefak R0.2 awal tidak
 Audit raster diperhalus dari 144.000 menjadi 576.000 sel (0,5° bujur × 0,0025 sin(latitude)). R0.2 menghasilkan rata-rata dominasi muka 87,25%; R0.1 pada grid yang sama 67,59%. Luas sembilan muka R0.2 berjumlah 100,00% pada grid. Ini tetap estimasi raster dan bukan clipping sferis eksak.
 
 Tidak ada perubahan CANON.
+
+
+## Audit clipping poligon sferis R0.2 — 2026-11-18
+
+Matriks irisan benua–lempeng R0.2 ditingkatkan dari raster menjadi clipping poligon pada chart stereografis. Kutub chart ditempatkan di laut terbuka pada muka North Ocean; enam benua dan delapan muka terbatas diproyeksikan sebagai poligon, ditriangulasi, lalu diiris dengan clipping segitiga konveks. Luas sferis hasil clipping dihitung melalui integral garis analitik pada segmen lurus poliline tersampel.
+
+- Total luas enam benua: 29,999996% permukaan bola.
+- Total luas sembilan muka: 100%; North Ocean dihitung sebagai komplemen dari delapan muka terbatas.
+- Rata-rata dominasi muka per benua: 87,25% untuk R0.2; pembanding R0.1 pada raster: 67,59%.
+- Coastline didensifikasi tiga subdivisi per segmen SVG; batas lempeng disampel 100 subdivisi per sisi.
+- Batas: hasil analitik untuk poliline tersampel, bukan clipping kurva kontinu tak tersampel; geologi dan geodinamika tetap belum divalidasi.
+
+Tidak ada perubahan CANON.
