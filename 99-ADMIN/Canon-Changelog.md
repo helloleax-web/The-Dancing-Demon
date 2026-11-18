@@ -163,3 +163,12 @@ Dokumen konsolidasi ini dibuat berdasarkan lore yang telah ditetapkan dalam perc
 - Keputusan: Setelah Mystery & Foreshadowing Ledger ditambahkan, jumlah dokumen Markdown menjadi 40. Tautan relatif pada ledger dan dokumen indeks yang menautkannya diperiksa; tidak ditemukan target file yang hilang. Laporan audit diperbarui untuk mencerminkan jumlah terbaru.
 - Dokumen yang diperbarui: `99-ADMIN/Canon-Audit-Report-2026-11-18.md`.
 - Apakah ini retcon?: Tidak.
+
+
+## Catatan konsistensi status draft geografi 2026-11-18
+
+- Tanggal: 2026-11-18
+- Topik: Penyelarasan rekomendasi historis enam benua dengan pilihan draft aktif.
+- Keputusan: World Map Framework kini menjelaskan bahwa rekomendasi awal enam kawasan daratan telah dipilih kreator sebagai draft enam benua terpisah. Bagian rekomendasi historis ditandai sebagai tahap sebelumnya; jumlah enam benua tetap belum CANON. Pertanyaan nama benua diubah menjadi keputusan apakah nama draft dipertahankan atau diganti.
+- Dokumen yang diperbarui: `98-CATATAN PENGEMBANGAN/World-Map-Framework.md`.
+- Apakah ini retcon?: Tidak. Klarifikasi status pengembangan.
