@@ -41,20 +41,28 @@ Hasil validasi V1.0-R:
 
 Rincian metode dan batas validasi tersedia dalam [Plate Geometry V1.0-R — Validation Report](World-Plate-Geometry-V1.0-R-Validation.md).
 
-### 2.2 Pemetaan benua ke lempeng pembawa
+### 2.2 Hubungan benua dan lempeng — aturan aktif yang direvisi
 
-| Benua | Lempeng pembawa | Porsi dari daratan | Target luas lempeng |
-|---|---|---:|---:|
-| The Central Reach | Central (CR) | 24% | 18% permukaan planet |
-| The Verdant Wilds | Verdant (VW) | 18% | 12% permukaan planet |
-| The Sunken Sands | Sands (SS) | 13% | 10% permukaan planet |
-| The Frostbound Expanse | Frost (FR) | 15% | 8% permukaan planet |
-| The Ashen Frontier | Ashen (AF) | 9% | 7% permukaan planet |
-| The Veiled Continent | Veiled (VC) | 21% | 11% permukaan planet |
+Pemetaan satu-benua-satu-lempeng pembawa pada rancangan terdahulu **tidak lagi menjadi syarat desain**. Enam benua dan sembilan muka lempeng diperlakukan sebagai dua geometri yang dapat saling beririsan.
 
-Satu benua utama ditempatkan pada masing-masing lempeng pembawa. Daratan tidak memenuhi seluruh lempeng; margin kerak samudra harus tersisa. Tiga lempeng samudra tidak membawa benua utama.
+- Satu benua boleh melintasi lebih dari satu lempeng.
+- Satu lempeng boleh mencakup kerak benua dan kerak samudra.
+- Garis pantai tidak harus berimpit dengan batas lempeng.
+- Nama Central, Verdant, Sands, Frost, Ashen, Veiled, North Ocean, West Ocean, dan Southeast Ocean adalah label muka sementara; nama tidak menetapkan jenis kerak atau penempatan benua secara eksklusif.
+- Tidak ada pasangan benua–lempeng dominan yang ditetapkan sebelum overlay sferis dihitung.
 
-**Batas penting:** batas lempeng bukan garis pantai. Segmen batas dapat berada di dasar laut, jauh dari tepi daratan.
+| Benua | Porsi dari total daratan | Target luas benua jika daratan 30% planet |
+|---|---:|---:|
+| The Central Reach | 24% | 7,20% permukaan planet |
+| The Veiled Continent | 21% | 6,30% permukaan planet |
+| The Verdant Wilds | 18% | 5,40% permukaan planet |
+| The Frostbound Expanse | 15% | 4,50% permukaan planet |
+| The Sunken Sands | 13% | 3,90% permukaan planet |
+| The Ashen Frontier | 9% | 2,70% permukaan planet |
+
+Target luas sembilan muka lempeng tetap seperti tabel pada Bagian 1 dan tetap berjumlah 100% permukaan planet. Luas benua dan luas lempeng memiliki penyebut berbeda sebelum asumsi 30% daratan diterapkan; keduanya tidak membentuk pasangan kapasitas satu-ke-satu.
+
+**Batas penting:** garis pantai dan batas lempeng adalah dua sistem berbeda. Hasil overlay dan luas irisan per lempeng belum dihitung karena orientasi geografis bersama belum dipilih. Lihat [Plate–Continent Relationship Framework V0.1](Plate-Continent-Relationship-Framework-V0.1.md).
 
 ## 3. Susunan global konseptual
 
@@ -279,7 +287,7 @@ Awal cerita menyebut ekspedisi pemetaan jalur utara oleh Tavian Rell. Frasa ters
 - [ ] Tidak ada persilangan segmen non-insiden.
 - [ ] Luas sembilan wilayah menutup 100%.
 - [ ] Deviasi luas terhadap target dicatat.
-- [ ] Keenam benua terbukti berada di dalam lempeng pembawanya.
+- [ ] Overlay sferis benua–lempeng memakai satu orientasi globe bersama dan lolos pemeriksaan irisan/luas.
 
 ### Komposisi
 - [ ] Tiga benua utama dan tiga daratan terpencil terbaca jelas.
@@ -309,14 +317,14 @@ Awal cerita menyebut ekspedisi pemetaan jalur utara oleh Tavian Rell. Frasa ters
 - Enam benua terpisah dan komposisi satu kelompok utama plus beberapa daratan terpencil merupakan draft pengembangan terpilih, bukan CANON.
 
 Paket atlas ini menjadi acuan kerja untuk:
-1. menguji containment enam siluet benua pada enam lempeng pembawa;
+1. memilih orientasi globe bersama dan menghitung overlay sferis benua–lempeng;
 2. menyelesaikan margin samudra dan garis pantai;
 3. menentukan orientasi globe dan kerangka koordinat geografis;
 4. menyelesaikan relief, hidrologi, iklim, dan bioma;
 5. menguji konsistensi geografi dengan rute serta kebutuhan cerita;
 6. menyiapkan peta final setelah ketergantungan teknis selesai.
 
-**Status:** atlas tetap CATATAN PENGEMBANGAN / NON-CANON. V1.0-R lolos validasi topologi dan target luas, tetapi belum lolos uji containment benua atau validasi geologi/geodinamika. Dokumen ini bukan peta geografis final.
+**Status:** atlas tetap CATATAN PENGEMBANGAN / NON-CANON. V1.0-R lolos validasi topologi dan target luas; V0.6 lolos normalisasi luas benua. Keduanya belum diregistrasikan dalam satu orientasi geografis bersama. Aturan satu-benua-satu-lempeng telah dihentikan; overlay sferis, geologi, dan geodinamika tetap belum divalidasi. Dokumen ini bukan peta geografis final.
 
 
 ## Lampiran teknis: referensi geometri V1.0
@@ -907,3 +915,14 @@ Luas nominal setiap benua tetap lebih kecil daripada luas lempeng pembawanya. Ma
 **Keputusan kerja:** tahan pengembangan relief rinci. Tahap berikutnya adalah menguji penempatan ulang benua di dalam muka lempeng sambil mempertahankan target luas, atau meninjau ulang geometri/penetapan muka lempeng. Semua NON-CANON.
 
 Berkas data: [Plate Containment Orientation Search V0.1 JSON](Plate-Containment-Orientation-Search-V0.1.json).
+
+
+## 10. Revisi hubungan benua–lempeng V0.1
+
+Rancangan satu-benua-satu-lempeng pembawa pada bagian-bagian historis dokumen ini **disupersesi sebagai aturan aktif**. Hasil pencarian orientasi terdahulu tetap benar untuk pertanyaan containment ketat, tetapi pertanyaan tersebut tidak lagi menjadi syarat penerimaan atlas.
+
+Aturan aktif memperlakukan benua dan lempeng sebagai dua sistem yang saling beririsan: benua dapat melintasi beberapa lempeng, dan satu lempeng dapat memuat kerak benua maupun samudra. Nama muka lempeng tetap label kerja, bukan klasifikasi jenis kerak. Target luas benua V0.6 dan target luas muka V1.0-R tidak diubah.
+
+Rincian prinsip, batas inferensi, dan urutan kerja ada di [Plate–Continent Relationship Framework V0.1](Plate-Continent-Relationship-Framework-V0.1.md) dan [data JSON](Plate-Continent-Relationship-Framework-V0.1.json).
+
+**Status teknis setelah revisi:** geometri lempeng V1.0-R tetap valid secara matematis; siluet benua V0.6 tetap valid terhadap target luasnya. Overlay geografis bersama belum dibuat. Tidak ada perubahan CANON.
