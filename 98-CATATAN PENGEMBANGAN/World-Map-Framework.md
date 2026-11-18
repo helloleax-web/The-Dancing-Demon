@@ -1636,6 +1636,101 @@ Maka batas maksimum total luas daratan untuk setiap pasangan adalah `L \leq p_i/
 
 **Kesimpulan kerja:** jangan menyebut enam benua telah terbukti muat pada lempeng pembawanya. Yang sudah terbukti dari angka saat ini hanya bahwa ada batas luas matematis yang konsisten, selama total luas daratan tidak lebih dari 52,38% permukaan planet. Tahap selanjutnya memerlukan data geometri poligon penuh dan keputusan fraksi daratan sebelum uji containment spasial dapat dilakukan.
 
+### 7.27 Rancangan makro daratan V1.0 — komposisi dan anggaran luas
+
+**Status: CATATAN PENGEMBANGAN / NON-CANON.** Bagian ini mengunci satu rancangan kerja lengkap untuk tahap makro agar pengembangan tidak terus berputar pada pilihan yang sama. Angka dan penempatan di bawah adalah rekomendasi kerja yang dapat direvisi kreator; tidak ada yang otomatis menjadi CANON.
+
+#### 7.27.1 Asumsi kerja yang dipakai
+
+Untuk menguji apakah rancangan enam benua dapat diteruskan tanpa menabrak anggaran luas lempeng, gunakan **30% permukaan planet sebagai total luas daratan**. Angka ini dipilih sebagai nilai kerja yang moderat dan mudah diuji, bukan karena telah ditetapkan kreator atau diwajibkan oleh model planet.
+
+Konsekuensinya:
+- Total daratan: 30% permukaan planet.
+- Total samudra dan perairan: 70% permukaan planet.
+- Enam porsi benua pada 7.7 tetap dipakai sebagai distribusi relatif total daratan.
+- Sembilan target luas lempeng pada 7.25 tetap dipakai tanpa perubahan.
+- Setiap benua tetap ditempatkan pada lempeng pembawa yang namanya bersesuaian; benua tidak harus memenuhi seluruh permukaan lempeng.
+
+#### 7.27.2 Anggaran luas daratan dan kapasitas lempeng
+
+Dengan total daratan kerja sebesar 30%, luas setiap benua terhadap seluruh permukaan planet menjadi:
+
+| Benua | Porsi dari total daratan | Luas benua terhadap planet | Luas lempeng pembawa | Pemakaian lempeng |
+|---|---:|---:|---:|---:|
+| The Central Reach | 24% | 7,20% | 18% | 40,00% |
+| The Veiled Continent | 21% | 6,30% | 11% | 57,27% |
+| The Verdant Wilds | 18% | 5,40% | 12% | 45,00% |
+| The Frostbound Expanse | 15% | 4,50% | 8% | 56,25% |
+| The Sunken Sands | 13% | 3,90% | 10% | 39,00% |
+| The Ashen Frontier | 9% | 2,70% | 7% | 38,57% |
+| **Total** | **100%** | **30,00%** | **66%** | — |
+
+**Hasil uji anggaran:** keenam benua secara aritmetis memakai 38,57–57,27% dari luas lempeng pembawanya. Tidak ada pasangan yang melampaui luas lempeng. Sisa luas pada enam lempeng benua menjadi ruang untuk margin samudra, cekungan, busur kepulauan, dan kerak samudra; tiga lempeng samudra tetap sepenuhnya menjadi wilayah samudra dalam rancangan ini.
+
+Hasil ini memperkuat kelayakan luas yang dibahas pada 7.26, tetapi **belum membuktikan containment geometris**. Luas yang cukup tidak menjamin siluet tertentu benar-benar dapat ditempatkan di dalam batas lempeng tanpa melintasi batas.
+
+#### 7.27.3 Penempatan makro yang dipilih untuk draft
+
+Pertahankan komposisi 7.8 sebagai susunan kerja:
+
+**Kelompok utama belahan utara**
+1. **The Central Reach** — jangkar kelompok utama; daratan terbesar, berada di posisi tengah/utara kelompok.
+2. **The Verdant Wilds** — sisi barat daya Central Reach, dipisahkan laut regional.
+3. **The Sunken Sands** — sisi tenggara Central Reach dan relatif dekat dengan Verdant Wilds, dipisahkan laut regional.
+
+**Daratan terpencil**
+4. **The Frostbound Expanse** — lintang tinggi utara, terpisah samudra luas dari kelompok utama.
+5. **The Ashen Frontier** — belahan selatan lintang menengah, terpisah samudra dari kelompok utama.
+6. **The Veiled Continent** — kawasan selatan/tenggara jauh; paling terpencil dari jaringan kelompok utama.
+
+Penempatan ini adalah hubungan relatif, bukan koordinat. Rotasi globe V1.0 masih bebas; koordinat matematis 7.25 tidak boleh langsung dibaca sebagai utara, selatan, timur, atau barat geografis dunia sebelum orientasi final dipilih.
+
+#### 7.27.4 Brief siluet final untuk sketsa makro
+
+| Benua | Brief bentuk yang harus dipertahankan | Hal yang dihindari |
+|---|---|---|
+| The Central Reach | Daratan lebar dan asimetris; satu semenanjung besar; beberapa teluk; garis pantai tidak rata | Oval simetris atau bentuk lingkaran |
+| The Veiled Continent | Daratan besar memanjang; satu teluk dalam; pesisir pada sisi lain lebih terjal/pecah | Pulau bulat sederhana |
+| The Verdant Wilds | Bentuk agak membulat; beberapa teluk, muara, dan semenanjung | Bentuk bintang atau terlalu banyak tonjolan kecil dekoratif |
+| The Frostbound Expanse | Satu sisi melebar dan sisi lain menyempit; beberapa lekukan pesisir yang dapat dikembangkan menjadi fjord jika geologi mendukung | Fjord berlebihan tanpa sejarah glasiasi |
+| The Sunken Sands | Daratan memanjang; satu sisi relatif lebih lurus dan sisi lain bergerigi; interior cukup luas | Garis pantai lurus di seluruh sisi atau bentuk oval generik |
+| The Ashen Frontier | Daratan paling kecil; kompak atau melengkung; pesisir kasar dan patah-patah | Menganggap seluruh benua sebagai gunung berapi |
+
+Brief ini menjadi panduan ilustrasi, bukan bentuk poligon yang telah lolos pengujian.
+
+#### 7.27.5 Hubungan daratan dengan sistem lempeng
+
+Pertahankan pemetaan konseptual satu benua utama pada satu lempeng pembawa:
+- Central Reach → Central (CR).
+- Verdant Wilds → Verdant (VW).
+- Sunken Sands → Sands (SS).
+- Frostbound Expanse → Frost (FR).
+- Ashen Frontier → Ashen (AF).
+- Veiled Continent → Veiled (VC).
+
+Batas lempeng tidak boleh dipakai sebagai garis pantai. Setiap siluet benua harus berada di bagian dalam lempeng pembawanya dan menyisakan margin yang cukup agar wilayah lempeng tidak seluruhnya menjadi daratan. Tiga lempeng NO, WO, dan SE tetap menjadi lempeng samudra dalam rancangan awal.
+
+#### 7.27.6 Status penyelesaian dan pemeriksaan yang masih wajib
+
+**Selesai pada tahap rancangan makro:**
+- Enam kandidat benua dipertahankan.
+- Distribusi ukuran relatif 24/21/18/15/13/9 dipakai sebagai baseline.
+- Total luas daratan kerja 30% dipilih untuk uji anggaran.
+- Keenam benua mendapat lempeng pembawa konseptual.
+- Komposisi tiga benua utama dan tiga daratan terpencil dipertahankan.
+- Brief siluet masing-masing benua dirapikan.
+
+**Belum lulus / tidak boleh diklaim selesai:**
+1. Containment poligon setiap benua di dalam lempeng pembawanya belum diuji.
+2. Koordinat geografis benua dan orientasi final globe belum ditetapkan.
+3. Garis pantai dan bentuk final enam siluet belum dibuat sebagai poligon.
+4. Margin samudra, selat, dan jarak antarbenua belum dihitung.
+5. Iklim, arus laut, relief, dan geologi belum diaudit terhadap posisi final.
+
+**Kriteria kelulusan tahap geometri berikutnya:** setiap poligon benua harus berada sepenuhnya di dalam poligon lempeng pembawanya, luasnya sesuai anggaran 7.27.2 dalam toleransi yang dinyatakan, tidak memotong batas lempeng, dan tetap mempertahankan jarak laut yang diperlukan oleh komposisi 7.27.3.
+
+**Kesimpulan kerja:** rancangan makro V1.0 kini memiliki satu set asumsi konsisten untuk diteruskan: enam benua, total daratan kerja 30%, enam lempeng pembawa, dan komposisi tiga-plus-tiga. Anggaran luas lolos secara aritmetis. Peta belum boleh disebut selesai secara geometris atau CANON sampai uji containment dan persetujuan kreator dilakukan.
+
 ## 8. Proposal geografi lama yang belum diputuskan
 
 Dokumen [Geography](Geography.md) sebelumnya mencatat enam nama benua sebagai konsep kerja:
