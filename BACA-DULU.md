@@ -15,6 +15,7 @@ Paket ini berisi dokumen selain `00-CORE`, sehingga tidak mengulang 10 dokumen i
 - [Character Development Dossier — Draft 0.1](98-CATATAN%20PENGEMBANGAN/Character-Development-Dossier-Draft-0.1.md) — proposal pengembangan karakter.
 - [Book I Scene Outline — Draft 0.1](98-CATATAN%20PENGEMBANGAN/Book-I-Scene-Outline-Draft-0.1.md) — rancangan adegan Buku I.
 - [Location & Organization Dossier — Draft 0.1](98-CATATAN%20PENGEMBANGAN/Location-Organization-Development-Dossier-Draft-0.1.md) — proposal lokasi dan organisasi.
+- [Eight-Book Series Architecture — Draft 0.1](98-CATATAN%20PENGEMBANGAN/Eight-Book-Series-Architecture-Draft-0.1.md) — arsitektur pengembangan delapan buku.
 - `README.md` — panduan repository.
 
 ## Jalur baca
