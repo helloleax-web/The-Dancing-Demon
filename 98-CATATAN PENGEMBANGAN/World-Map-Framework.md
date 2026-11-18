@@ -2,7 +2,7 @@
 
 **Status: CATATAN PENGEMBANGAN — kerangka kerja pemetaan, bukan geografi CANON.**
 
-**Keputusan pengembangan terbaru:** kreator memilih **Alternatif A — enam benua terpisah** sebagai draft pertama arsitektur daratan, dengan **ukuran yang sangat bervariasi**. Kreator kemudian menyetujui untuk melanjutkan rekomendasi komposisi **Alternatif C — satu kelompok utama dan beberapa daratan terpencil** sebagai susunan spasial draft. Semua pilihan ini merupakan keputusan pengembangan dan belum disahkan sebagai CANON. Geometri lempeng kini memiliki baseline rekonstruksi **V1.0-R** yang telah lolos validasi topologi dan target luas; containment benua dan kelayakan geodinamika tetap belum diuji.
+**Keputusan pengembangan terbaru:** kreator memilih **Alternatif A — enam benua terpisah** sebagai draft pertama arsitektur daratan, dengan **ukuran yang sangat bervariasi**. Kreator kemudian menyetujui untuk melanjutkan rekomendasi komposisi **Alternatif C — satu kelompok utama dan beberapa daratan terpencil** sebagai susunan spasial draft. Semua pilihan ini merupakan keputusan pengembangan dan belum disahkan sebagai CANON. Geometri lempeng memiliki baseline rekonstruksi **V1.0-R** yang lolos validasi topologi dan target luas. Aturan satu-benua-satu-lempeng pembawa telah disupersesi: benua dan lempeng kini diperlakukan sebagai geometri yang dapat saling beririsan; overlay geografis bersama dan kelayakan geodinamika tetap belum diuji.
 
 Dokumen ini menjadi ruang kerja untuk membangun geografi dunia secara bertahap. Pilihan awal kreator yang dicatat di sini adalah **planet dengan skala kurang lebih setara Bumi**; pilihan ini masih berstatus keputusan kerja yang menunggu konfirmasi final sebelum dapat diperlakukan sebagai CANON. Draft pengembangan aktif memakai enam benua terpisah, tetapi jumlah benua belum disahkan sebagai CANON. Dokumen ini tidak menetapkan posisi negara, koordinat lokasi, atau hubungan geografis yang belum diputuskan kreator.
 
@@ -452,7 +452,7 @@ Untuk tahap ini, jangan menetapkan bahwa:
 6. Letak ekspedisi Buku I belum boleh ditentukan hanya karena disebut “jalur utara”.
 7. Peta pertama cukup menunjukkan enam daratan, perairan besar, dan garis lintang perkiraan; detail fisik menyusul setelah komposisi disetujui.
 
-### 7.26A Penempatan makro enam benua pada sembilan lempeng
+### 7.26A Penempatan makro enam benua pada sembilan lempeng — rancangan historis yang disupersesi
 
 **Status: CATATAN PENGEMBANGAN / NON-CANON.** Bagian ini menghubungkan rancangan enam benua pada 7.7–7.12 dengan partisi lempeng V1.0 pada 7.25. Penempatan ini merupakan rancangan spasial aktif untuk diuji, bukan koordinat geografis final dan bukan keputusan CANON.
 
@@ -1585,7 +1585,7 @@ Pemetaan inverse stereografis adalah homeomorfisme antara bidang dan bola tanpa 
 
 **Kesimpulan historis:** V1.0-reference mencatat satu partisi bola dengan 9 wilayah, 14 triple junction, 21 batas, penutupan 100%, dan deviasi luas maksimum 0,0675 poin persentase. Gunakan hasil ini sebagai referensi historis; untuk perhitungan yang dapat direproduksi, gunakan V1.0-R. Keduanya tetap NON-CANON.
 
-### 7.26B Uji kompatibilitas luas daratan dengan lempeng pembawa
+### 7.26B Uji kompatibilitas luas daratan dengan lempeng pembawa — uji historis untuk model satu-ke-satu
 
 **Status: CATATAN PENGEMBANGAN / NON-CANON.** Bagian ini menguji syarat luas minimum untuk rancangan satu benua utama pada setiap lempeng pembawa. Ini adalah uji kelayakan aritmetis, bukan bukti bahwa siluet benua sudah muat secara geometris di dalam poligon lempeng.
 
@@ -1649,7 +1649,7 @@ Dengan asumsi total daratan 30% permukaan planet, anggaran luas tiap benua dapat
 
 **Kesimpulan kerja:** pada asumsi 30% daratan, pasangan luas benua–lempeng tidak menunjukkan konflik aritmetis. Ini baru syarat perlu. Enam benua **belum terbukti muat secara geometris** karena containment poligon belum diuji. Tahap berikutnya harus memakai geometri presisi V1.0-R dan siluet benua untuk menguji penempatan, bukan mengandalkan rasio luas saja.
 
-### 7.27B Rancangan makro daratan V1.0 — komposisi dan anggaran luas
+### 7.27B Rancangan makro daratan V1.0 — komposisi dan anggaran luas (asumsi lempeng historis)
 
 **Status: CATATAN PENGEMBANGAN / NON-CANON.** Bagian ini mengunci satu rancangan kerja lengkap untuk tahap makro agar pengembangan tidak terus berputar pada pilihan yang sama. Angka dan penempatan di bawah adalah rekomendasi kerja yang dapat direvisi kreator; tidak ada yang otomatis menjadi CANON.
 
@@ -2370,3 +2370,49 @@ Lihat [Plate Containment Orientation Search V0.1](Plate-Containment-Orientation-
 Hasil ini bukan bukti matematis bahwa tidak ada orientasi yang mungkin; ini adalah kegagalan pencarian eksploratif yang cukup untuk menahan klaim containment. Luas benua lebih kecil dari luas lempeng masing-masing, sehingga ketidakcocokan awal tampaknya berada pada bentuk/posisi relatif, bukan total anggaran luas.
 
 Langkah berikutnya: uji penempatan ulang benua di dalam muka lempeng atau revisi geometri/penetapan muka lempeng, lalu jalankan pemeriksaan poligon sferis penuh. Jangan mengunci relief, sungai, iklim, atau bioma sebelum tahap ini diselesaikan. NON-CANON.
+
+
+### 7.47 Revisi hubungan benua–lempeng V0.1 — aturan aktif
+
+**Status: CATATAN PENGEMBANGAN / NON-CANON.** Bagian ini menggantikan aturan satu-benua-satu-lempeng pada 7.26A, 7.26B, dan asumsi terkait di 7.27B. Bagian lama dipertahankan sebagai riwayat keputusan, bukan aturan aktif.
+
+#### 7.47.1 Keputusan desain
+
+Benua dan lempeng adalah dua sistem spasial berbeda. Garis pantai memisahkan daratan dari perairan; batas lempeng memisahkan wilayah litosfer yang bergerak relatif. Karena itu:
+- satu benua boleh melintasi beberapa lempeng;
+- satu lempeng boleh memuat kerak benua dan kerak samudra;
+- lempeng tidak harus memiliki satu benua utama;
+- benua tidak harus berada seluruhnya di satu lempeng;
+- tiga muka yang memakai label samudra tidak otomatis terbukti bebas daratan;
+- enam muka yang memakai nama benua tidak otomatis terbukti seluruhnya berkerak benua.
+
+Nama sembilan muka dipertahankan sementara sebagai ID geografis/topologis. Nama tersebut tidak menetapkan jenis kerak, arah gerak, atau jenis batas tektonik.
+
+#### 7.47.2 Baseline yang tetap dipertahankan
+
+- **Benua:** siluet V0.6, enam poligon, total hasil audit 30,00017% permukaan bola.
+- **Lempeng:** geometri V1.0-R, 14 simpul, 21 sisi, 9 muka, total luas 100%, deviasi maksimum target 0,002188 poin persentase.
+- **Makro daratan:** satu kelompok utama dan tiga daratan terpencil tetap menjadi susunan konseptual draft.
+- **Target luas:** distribusi relatif benua 24/21/18/15/13/9 dari total daratan dan target luas muka lempeng 18/12/10/8/7/11/14/11/9 dari permukaan planet tidak diubah.
+
+#### 7.47.3 Makna uji containment terdahulu
+
+Uji 40.000 rotasi pada [Plate Containment Orientation Search V0.1](Plate-Containment-Orientation-Search-V0.1.md) menguji aturan ketat bahwa setiap benua harus seluruhnya berada di dalam satu muka lempeng yang namanya berpadanan. Tidak ditemukan orientasi bersama yang memenuhi aturan itu. Hasil ini tetap sah untuk hipotesis lama, tetapi hipotesis tersebut tidak lagi menjadi kriteria desain.
+
+Hasil tersebut **tidak** membuktikan bahwa V1.0-R tidak dapat digunakan, bahwa keenam benua tidak dapat ditempatkan di permukaan bola, atau bahwa tidak ada overlay benua–lempeng yang masuk akal.
+
+#### 7.47.4 Tahap overlay berikutnya
+
+Setelah orientasi globe dipilih, seluruh geometri harus memakai satu rotasi bersama. Hitung luas irisan masing-masing benua terhadap kesembilan muka lempeng, lalu periksa bahwa jumlah irisan mereproduksi luas total benua dan luas tiap muka dalam toleransi numerik. Jangan menetapkan persentase dominasi atau klasifikasi kerak sebelum hasil itu tersedia.
+
+Setelah overlay terukur, baru tentukan tipe batas, arah gerak, zona subduksi, punggung pemekaran, sesar transform, busur vulkanik, dan relief tektonik. Geometri muka saja tidak cukup untuk menyimpulkan semua itu.
+
+#### 7.47.5 Status dan batas
+
+**Selesai:** aturan hubungan benua–lempeng untuk tahap desain; V1.0-R dan V0.6 dipertahankan sebagai baseline terpisah.
+
+**Belum selesai:** orientasi geografis bersama, matriks irisan luas benua × lempeng, klasifikasi kerak, geodinamika, relief, bathimetri, iklim, arus, hidrologi, dan bioma.
+
+Seluruhnya tetap NON-CANON. Tidak ada lokasi cerita, karakter, organisasi, atau misteri yang diubah.
+
+Rujukan: [Plate–Continent Relationship Framework V0.1](Plate-Continent-Relationship-Framework-V0.1.md).
