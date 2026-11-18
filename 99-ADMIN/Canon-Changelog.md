@@ -370,3 +370,12 @@ Dokumen konsolidasi ini dibuat berdasarkan lore yang telah ditetapkan dalam perc
 - Batas: orientasi geografis bersama, overlay sferis, matriks irisan luas, klasifikasi kerak, dan geodinamika belum divalidasi.
 - Dampak CANON: tidak ada.
 - Dokumen terkait: Plate–Continent Relationship Framework V0.1, World Atlas Draft V1, World Map Framework, Worldbuilding Coverage Matrix, dan Repository Maintenance Report.
+
+
+## Overlay benua–lempeng R0.1 — 2026-11-18
+
+- Topik: Registrasi identitas V0.6 dan V1.0-R dalam satu bingkai geografis serta matriks irisan awal.
+- Hasil: overlay dan audit raster luas sama 144.000 sel dibuat. Ini estimasi awal, bukan clipping sferis eksak.
+- Batas: orientasi geografis final, klasifikasi kerak, dan geodinamika belum dipilih/divalidasi.
+- Dampak CANON: tidak ada.
+- Artefak: Continental–Plate Overlay R0.1, SVG overlay, dan audit JSON.
