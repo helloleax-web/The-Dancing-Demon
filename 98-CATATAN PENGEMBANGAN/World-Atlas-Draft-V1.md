@@ -317,3 +317,20 @@ Audit pemulihan dicatat di bagian 7.38 `World-Map-Framework.md`. Sampai koordina
 ## Pratinjau koordinat triple junction
 
 Pratinjau locator visual untuk 14 simpul V1.0 tersedia di [World-Plate-V1.0-coordinate-locator.svg](World-Plate-V1.0-coordinate-locator.svg). Garis pada pratinjau adalah panduan geodesik terpendek untuk membantu membaca hubungan antarsimpul; garis tersebut bukan batas asli V1.0. Gunakan hanya sebagai locator NON-CANON, bukan peta lempeng final.
+
+
+## 10. Studi siluet enam benua
+
+Pratinjau visual pertama tersedia di [World-Atlas-Continental-Silhouette-Draft.svg](World-Atlas-Continental-Silhouette-Draft.svg). Sketsa menerjemahkan susunan makro dan arahan siluet enam benua menjadi satu bidang lintang-bujur konseptual agar hubungan spasialnya dapat dibaca.
+
+Sketsa ini adalah interpretasi desain baru, bukan koordinat geografis yang dipulihkan. Bentuk garis pantai, posisi, ukuran tampak, dan jarak antarbenua belum diukur terhadap target luas; proyeksi equirectangular juga mendistorsi luas dan bentuk terutama di lintang tinggi. Karena itu, gambar hanya dipakai untuk menilai komposisi kasar dan arah siluet. Jangan gunakan untuk klaim persentase luas, containment lempeng, jarak navigasi, atau geografi CANON.
+
+Catatan desain pada iterasi berikutnya:
+- Central Reach menjadi jangkar kelompok utama dengan bentuk melebar dan asimetris.
+- Verdant Wilds berada di barat daya dan memakai garis pantai lebih terfragmentasi.
+- Sunken Sands berada di tenggara kelompok utama dan memanjang diagonal.
+- Frostbound Expanse menempati lintang tinggi utara.
+- Ashen Frontier menjadi daratan kompak di belahan selatan.
+- Veiled Continent menjadi daratan terpencil di bagian tenggara.
+
+**Status:** siluet konseptual V0.1, NON-CANON, belum lolos audit luas dan containment.
