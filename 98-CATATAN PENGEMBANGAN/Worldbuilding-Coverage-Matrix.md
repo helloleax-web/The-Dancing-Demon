@@ -393,7 +393,10 @@ Tidak ada bidang yang diberi status **BELUM ADA** karena setiap bidang memiliki 
 **Sumber:** [Sejarah dan Bumi Kuno](../00-CORE/02-Sejarah-dan-Bumi-Kuno.md), [Ancient Civilization and Remnants](../01-CANON/Ancient-Civilization-and-Remnants.md), [Cerita dan Rencana Delapan Buku](../00-CORE/08-Cerita-dan-Rencana-Delapan-Buku.md).
 
 **UNKNOWN / kekosongan**
-- Kerangka hukum kepemilikan yang lengkap, mekanisme pembuktian klaim, prosedur lintas negara, serta hasil akhir sengketa fasilitas Buku I.
+- [Book I Heritage Dispute Framework — Draft 0.1](Book-I-Heritage-Dispute-Framework-Draft-0.1.md) kini memisahkan hak tanah, akses, penelitian, pemulihan, dan penjagaan; model ini tetap NON-CANON.
+- Yurisdiksi lokal, isi kontrak perusahaan, pemegang hak, prosedur banding, dan hasil akhir sengketa fasilitas Buku I masih belum ditentukan.
+
+**Sumber pengembangan:** [Book I Heritage Dispute Framework — Draft 0.1](Book-I-Heritage-Dispute-Framework-Draft-0.1.md).
 
 **Ketergantungan:** sejarah, teknologi, geografi, ekonomi, hukum, organisasi, dan konflik.
 
