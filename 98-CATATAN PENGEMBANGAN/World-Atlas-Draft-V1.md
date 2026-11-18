@@ -6,7 +6,7 @@
 
 | Elemen | Baseline kerja |
 |---|---|
-| Planet | Planet dengan geografi fisik normal; ukuran, gravitasi, satelit, dan astronomi belum ditetapkan |
+| Planet | Planet terestrial dengan acuan ukuran dan parameter bergaya Bumi sebagai proposal kerja V0.6; belum CANON dan belum final |
 | Benua utama | 6 |
 | Wilayah lempeng | 9 |
 | Triple junction | 14 |
@@ -491,15 +491,17 @@ Rentang di atas merupakan konversi *bounding box* SVG ke kerangka sementara, buk
 - Audit proporsi bidang V0.4 tetap berlaku: Frostbound 15.000013%, Verdant 18.000064%, Central 23.999861%, Sunken Sands 13.000027%, Ashen 8.999998%, dan Veiled 21.000037%.
 - Deviasi maksimum yang diwarisi dari audit V0.4 adalah 0.000684 poin persentase.
 
-### 13.4 Hal yang sengaja belum diputuskan
+### 13.4 Hal yang belum disahkan atau belum diselesaikan
 
-- Ukuran planet, panjang keliling, dan skala jarak.
-- Kemiringan sumbu, periode rotasi, orbit, panjang tahun, dan musim.
-- Lingkar tropis dan lingkar kutub.
-- Proyeksi peta final dan koreksi distorsi.
-- Luas geodesik, jarak antarbenua, arus laut, angin, iklim, bioma, dan containment lempeng.
+Bagian ini membedakan parameter yang sudah memiliki proposal kerja dari keputusan yang belum dibuat. Nilai V0.6 pada Bagian 14 merupakan model referensi bergaya Bumi untuk menjaga konsistensi perhitungan; nilai tersebut **belum disahkan sebagai CANON** dan masih dapat diubah.
 
-Tidak ada garis batas lempeng yang ditambahkan. Garis pantai tidak sama dengan batas lempeng. Seluruh penempatan dan koreksi pada V0.5 tetap NON-CANON.
+- Ukuran planet, panjang keliling, dan skala jarak: tersedia acuan kerja bergaya Bumi pada V0.6, belum final.
+- Kemiringan sumbu, periode rotasi, orbit, panjang tahun, dan musim: tersedia proposal V0.6, belum final.
+- Lingkar tropis dan lingkar kutub: hanya konsekuensi matematis jika proposal kemiringan sumbu 23,44° dipakai.
+- Proyeksi peta final dan koreksi distorsi: belum ditentukan.
+- Luas geodesik, jarak antarbenua, arus laut, angin, iklim, bioma, dan containment lempeng: belum diselesaikan.
+
+Tidak ada garis batas lempeng yang ditambahkan pada tahap V0.5. Garis pantai tidak sama dengan batas lempeng. Seluruh penempatan dan koreksi pada V0.5 tetap NON-CANON.
 
 ## 14. Parameter planet dan kerangka lintang iklim — V0.6
 
