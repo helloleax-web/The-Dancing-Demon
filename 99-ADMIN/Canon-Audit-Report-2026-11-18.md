@@ -4,6 +4,7 @@
 **Repository:** `helloleax-web/The-Dancing-Demon`  
 **Branch sumber:** `main`  
 **Status dokumen:** CATATAN ADMINISTRATIF / NON-CANON  
+**Pembaruan:** 2026-11-18 — A-01 sampai A-04 telah ditangani; A-05 tetap terbuka sebagai batas validasi teknis.  
 **Tujuan:** mencatat hasil pemeriksaan silang dokumen utama, membedakan kontradiksi dari ambiguitas dan kekosongan dokumentasi, serta memberi rekomendasi tanpa mengubah keputusan kreator.
 
 > Audit ini bukan pengesahan lore, bukan retcon, dan bukan perintah untuk mengisi seluruh misteri. Temuan hanya berlaku pada dokumen dan versi sumber yang tercantum di bawah. Tidak ditemukannya masalah dalam sampel ini bukan bukti bahwa seluruh repository bebas kontradiksi.
@@ -12,12 +13,7 @@
 
 Dalam dokumen utama yang diperiksa, **tidak ditemukan kontradiksi langsung yang cukup kuat untuk dinyatakan sebagai konflik CANON**.
 
-Temuan yang teridentifikasi terutama berupa:
-- Ambiguitas redaksional pada istilah masyarakat era cerita.
-- Kondisi Ketua sementara yang belum memiliki urutan prioritas eksplisit.
-- Dasar penghitungan kuorum KVK ketika terdapat kursi definitif kosong belum dijelaskan.
-- Tabel status di dalam World Map Framework yang belum sepenuhnya diselaraskan dengan keputusan pengembangan yang dicatat pada bagian pembuka.
-- Klaim hasil geometri V1.0 yang terdokumentasi, tetapi belum dapat direproduksi secara independen dari data presisi yang tersedia.
+Temuan awal A-01 sampai A-04 telah ditangani pada pembaruan 2026-11-18. A-05 masih terbuka sebagai batas validasi teknis: klaim hasil geometri V1.0 tercatat, tetapi belum dapat direproduksi secara independen dari data presisi yang tersedia.
 
 Kekosongan profil karakter, detail lokasi, organisasi, sejarah, dan plot lanjutan sebagian besar **sudah ditandai secara terbuka** di Bible masing-masing dan/atau `99-ADMIN/Open-Questions.md`. Hal tersebut merupakan ruang pengembangan yang diketahui, bukan kontradiksi.
 
@@ -76,7 +72,7 @@ Prioritas:
 
 **Klasifikasi:** Ambiguitas redaksional  
 **Prioritas:** P1  
-**Status:** Sudah dicatat dalam Worldbuilding Coverage Matrix
+**Status:** SELESAI — redaksi diperjelas pada 2026-11-18
 
 World Overview menggunakan frasa “Era teknologi masyarakat modern secara umum menyerupai fantasi abad pertengahan”. Dokumen lain, termasuk Kanon dan Kontinuitas, menggunakan istilah “masyarakat masa kini” untuk membedakan masyarakat era cerita dari peradaban Bumi modern yang meninggalkan peninggalan.
 
@@ -84,7 +80,7 @@ Konteks dokumen memberi petunjuk bahwa yang dibahas adalah masyarakat era cerita
 
 **Dampak:** pembaca dapat salah mengira tingkat teknologi masyarakat era cerita atau mencampuradukkan dua periode peradaban.
 
-**Rekomendasi:** minta keputusan redaksional kreator. Jika maksudnya masyarakat era cerita, pertimbangkan istilah “masyarakat masa kini” atau “masyarakat pada era cerita”. Jangan mengubahnya otomatis tanpa persetujuan.
+**Tindakan:** redaksi diperbarui menjadi “masyarakat masa kini” untuk membedakan era cerita dari peradaban Bumi modern. Tidak ada fakta lore yang diubah.
 
 **Sumber:** [World Overview](../01-CANON/World-Overview.md); [Kanon dan Kontinuitas](../00-CORE/09-Kanon-dan-Kontinuitas.md); [Worldbuilding Coverage Matrix](../98-CATATAN%20PENGEMBANGAN/Worldbuilding-Coverage-Matrix.md), bidang 1.
 
@@ -92,7 +88,7 @@ Konteks dokumen memberi petunjuk bahwa yang dibahas adalah masyarakat era cerita
 
 **Klasifikasi:** Ambiguitas prosedural  
 **Prioritas:** P2  
-**Status:** Ketentuan dasar sudah CANON; urutan kondisi belum dijelaskan eksplisit
+**Status:** SELESAI — urutan kondisi diperjelas pada 2026-11-18
 
 International Authority mencatat tiga kondisi:
 1. Wakil Ketua tersedia dan dapat mengambil alih.
@@ -103,7 +99,7 @@ Dokumen menyebut mekanisme ini sebagai kombinasi berdasarkan situasi, tetapi bel
 
 **Dampak:** dua pembaca dapat menerapkan urutan suksesi sementara yang berbeda pada situasi yang sama.
 
-**Rekomendasi:** tetapkan urutan prioritas atau jelaskan kondisi eksklusif masing-masing skenario. Pertahankan seluruh batas kewenangan Ketua sementara yang sudah ditetapkan; audit ini tidak merekomendasikan perluasan kewenangannya.
+**Tindakan:** urutan kini ditetapkan: kelanjutan mandat yang masih sah dan tidak diperpanjang sendiri; jika tidak berlaku, Wakil Ketua mengambil alih; jika Wakil tidak tersedia/layak, Majelis Umum memilih Ketua sementara. Ketua yang diberhentikan atau kehilangan dasar kewenangan tidak dapat melanjutkan. Batas kewenangan darurat tetap berlaku.
 
 **Sumber:** [International Authority](../01-CANON/International-Authority.md).
 
@@ -111,7 +107,7 @@ Dokumen menyebut mekanisme ini sebagai kombinasi berdasarkan situasi, tetapi bel
 
 **Klasifikasi:** Ambiguitas operasional / kekosongan aturan  
 **Prioritas:** P2  
-**Status:** Belum ditemukan ketentuan eksplisit
+**Status:** SELESAI — denominator ditetapkan pada 2026-11-18
 
 KVK menetapkan:
 - Rentang 11–15 anggota definitif.
@@ -124,7 +120,7 @@ Dokumen belum menjelaskan secara eksplisit apakah denominator kuorum kehadiran t
 
 **Dampak:** penerapan kuorum dapat berbeda ketika anggota berhenti sebelum masa jabatan berakhir dan kursinya belum terisi.
 
-**Rekomendasi:** tentukan denominator untuk kondisi kursi kosong, serta bedakan dengan jelas antara jumlah kursi yang ditetapkan, jumlah anggota definitif yang sedang menjabat, jumlah anggota definitif aktif, dan jumlah kehadiran. Jangan mengubah rumus atau ambang yang sudah ditetapkan sebelum keputusan kreator.
+**Tindakan:** denominator kuorum adalah jumlah kursi definitif yang ditetapkan untuk komposisi KVK pada periode itu. Kursi kosong tetap masuk denominator sampai terisi; anggota sementara tidak mengubah denominator. Jika kuorum atau minimum delapan anggota definitif aktif tidak terpenuhi, keputusan resmi tidak dapat diambil.
 
 **Sumber:** [KVK](../01-CANON/KVK.md); [Open Questions](Open-Questions.md).
 
@@ -132,7 +128,7 @@ Dokumen belum menjelaskan secara eksplisit apakah denominator kuorum kehadiran t
 
 **Klasifikasi:** Risiko versi/dokumentasi internal  
 **Prioritas:** P2  
-**Status:** Perlu perapian dokumen pengembangan; bukan konflik CANON
+**Status:** SELESAI — tabel status diselaraskan pada 2026-11-18
 
 Bagian pembuka World Map Framework menyatakan kreator telah memilih Alternatif A — enam benua terpisah — sebagai draft pertama, lalu menyetujui komposisi Alternatif C berupa satu kelompok utama dan beberapa daratan terpencil.
 
@@ -142,12 +138,7 @@ Kedua pernyataan dapat dibaca selaras jika tabel bagian 3 dimaksudkan sebagai da
 
 **Dampak:** pembaca dapat mengira pilihan enam benua belum pernah dipilih bahkan sebagai draft, atau sebaliknya menganggap draft tersebut sudah menjadi CANON.
 
-**Rekomendasi:** ubah tabel agar membedakan:
-- keputusan pengembangan yang sudah dipilih;
-- detail yang masih terbuka di dalam draft;
-- keputusan CANON yang belum disahkan.
-
-Jangan memindahkan enam benua, komposisi makro, atau pilihan skala planet ke CANON melalui perapian ini.
+**Tindakan:** tabel tahap keputusan kini mencatat enam benua terpisah dan susunan satu kelompok utama plus daratan terpencil sebagai draft terpilih, sementara detail bentuk, garis pantai, dan posisi tepat tetap terbuka. Tidak ada promosi ke CANON.
 
 **Sumber:** [World Map Framework](../98-CATATAN%20PENGEMBANGAN/World-Map-Framework.md); [World Atlas Draft V1](../98-CATATAN%20PENGEMBANGAN/World-Atlas-Draft-V1.md); [Geography](../98-CATATAN%20PENGEMBANGAN/Geography.md).
 
@@ -285,10 +276,10 @@ Urutan berikut adalah rekomendasi administratif, bukan keputusan canon.
 
 ## 8. Status audit
 
-**Hasil:** tidak ditemukan kontradiksi CANON langsung dalam dokumen utama yang diperiksa. Terdapat lima temuan yang memerlukan klarifikasi atau validasi, sebagaimana dicatat pada A-01 sampai A-05.
+**Hasil:** tidak ditemukan kontradiksi CANON langsung dalam dokumen utama yang diperiksa. A-01 sampai A-04 telah ditangani; A-05 tetap memerlukan pemulihan data presisi atau rekonstruksi teknis berversi baru.
 
 **Batas:** audit ini bukan pemeriksaan baris demi baris terhadap seluruh file, aset visual, seluruh riwayat commit, atau seluruh percakapan sumber. Pemeriksaan lanjutan diperlukan sebelum menyatakan seluruh repository bebas konflik.
 
-**Perubahan CANON:** tidak ada.  
+**Perubahan CANON:** tidak ada retcon terhadap fakta cerita. Klarifikasi prosedural International Authority dan KVK dicatat dalam Canon Changelog.  
 **Retcon:** tidak ada.  
-**Dokumen CANON yang diubah oleh audit ini:** tidak ada.
+**Dokumen CANON yang diperbarui:** World Overview, International Authority, dan KVK.
