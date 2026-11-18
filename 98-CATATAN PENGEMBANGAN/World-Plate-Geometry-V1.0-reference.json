@@ -1,0 +1,356 @@
+{
+  "document": "World-Plate-Geometry-V1.0-reference",
+  "status": "NON-CANON / RECOVERED REFERENCE",
+  "purpose": "Machine-readable transcription of the V1.0 data explicitly published in World-Map-Framework.md section 7.25. This is not the original optimizer input or a bit-for-bit reconstruction.",
+  "source": {
+    "repository": "helloleax-web/The-Dancing-Demon",
+    "commit": "3e6ef02d11a95c2227364c693d966d1568a59294",
+    "file": "98-CATATAN PENGEMBANGAN/World-Map-Framework.md",
+    "section": "7.25",
+    "source_commit_url": "https://github.com/helloleax-web/The-Dancing-Demon/commit/3e6ef02d11a95c2227364c693d966d1568a59294"
+  },
+  "geometry": {
+    "construction": "Planar embedding transformed to a unit sphere by inverse stereographic projection; each planar straight edge maps to a projected curve, not necessarily a shortest geodesic.",
+    "projection_formula": {
+      "X": "2x / (1 + x^2 + y^2)",
+      "Y": "2y / (1 + x^2 + y^2)",
+      "Z": "(x^2 + y^2 - 1) / (1 + x^2 + y^2)"
+    },
+    "nodes_coordinate_note": "Latitude and longitude are the published mathematical coordinates rounded to 0.01 degree. Exact optimized planar x/y coordinates were not found in the recovered V1.0 commit tree.",
+    "nodes": [
+      {
+        "id": "TJ-01",
+        "lat": 45.46,
+        "lon": -57.31
+      },
+      {
+        "id": "TJ-02",
+        "lat": -3.61,
+        "lon": -120.49
+      },
+      {
+        "id": "TJ-03",
+        "lat": -60.54,
+        "lon": 138.35
+      },
+      {
+        "id": "TJ-04",
+        "lat": -3.26,
+        "lon": -45.93
+      },
+      {
+        "id": "TJ-05",
+        "lat": -42.24,
+        "lon": -46.98
+      },
+      {
+        "id": "TJ-06",
+        "lat": -67.9,
+        "lon": 122.71
+      },
+      {
+        "id": "TJ-07",
+        "lat": 38.56,
+        "lon": 38.63
+      },
+      {
+        "id": "TJ-08",
+        "lat": 36.98,
+        "lon": -0.26
+      },
+      {
+        "id": "TJ-09",
+        "lat": 35.99,
+        "lon": -29.13
+      },
+      {
+        "id": "TJ-10",
+        "lat": 52.09,
+        "lon": -141.73
+      },
+      {
+        "id": "TJ-11",
+        "lat": -49.47,
+        "lon": 112.45
+      },
+      {
+        "id": "TJ-12",
+        "lat": 47.19,
+        "lon": 140.14
+      },
+      {
+        "id": "TJ-13",
+        "lat": 42.38,
+        "lon": 79.86
+      },
+      {
+        "id": "TJ-14",
+        "lat": -60.58,
+        "lon": 134.89
+      }
+    ],
+    "edges": [
+      [
+        1,
+        9
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        12,
+        13
+      ],
+      [
+        10,
+        12
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        7,
+        13
+      ],
+      [
+        8,
+        9
+      ],
+      [
+        1,
+        10
+      ],
+      [
+        11,
+        12
+      ],
+      [
+        13,
+        14
+      ],
+      [
+        11,
+        14
+      ],
+      [
+        10,
+        11
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        3,
+        14
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "faces": [
+      {
+        "id": "CR",
+        "name": "Central",
+        "cycle": [
+          10,
+          12,
+          13,
+          7,
+          8,
+          9,
+          1
+        ]
+      },
+      {
+        "id": "VW",
+        "name": "Verdant",
+        "cycle": [
+          10,
+          11,
+          14,
+          3,
+          2,
+          1
+        ]
+      },
+      {
+        "id": "SS",
+        "name": "Sands",
+        "cycle": [
+          13,
+          14,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "id": "FR",
+        "name": "Frost",
+        "cycle": [
+          11,
+          12,
+          13,
+          14
+        ]
+      },
+      {
+        "id": "AF",
+        "name": "Ashen",
+        "cycle": [
+          1,
+          2,
+          4,
+          5,
+          9
+        ]
+      },
+      {
+        "id": "VC",
+        "name": "Veiled",
+        "cycle": [
+          5,
+          6,
+          8,
+          9
+        ]
+      },
+      {
+        "id": "NO",
+        "name": "North Ocean",
+        "cycle": [
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "id": "WO",
+        "name": "West Ocean",
+        "cycle": [
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "id": "SE",
+        "name": "Southeast Ocean",
+        "cycle": [
+          6,
+          7,
+          8
+        ]
+      }
+    ]
+  },
+  "areaAudit": {
+    "unit": "percent of whole planetary surface",
+    "tolerance_percentage_points": 0.1,
+    "total_percent": 100,
+    "maximum_deviation_percentage_points": 0.0675,
+    "values": [
+      {
+        "id": "CR",
+        "target": 18,
+        "result": 18.0675,
+        "deviation": 0.0675
+      },
+      {
+        "id": "VW",
+        "target": 12,
+        "result": 11.9931,
+        "deviation": -0.0069
+      },
+      {
+        "id": "SS",
+        "target": 10,
+        "result": 9.9911,
+        "deviation": -0.0089
+      },
+      {
+        "id": "FR",
+        "target": 8,
+        "result": 7.996,
+        "deviation": -0.004
+      },
+      {
+        "id": "AF",
+        "target": 7,
+        "result": 7.001,
+        "deviation": 0.001
+      },
+      {
+        "id": "VC",
+        "target": 11,
+        "result": 10.99,
+        "deviation": -0.01
+      },
+      {
+        "id": "NO",
+        "target": 14,
+        "result": 13.9858,
+        "deviation": -0.0142
+      },
+      {
+        "id": "WO",
+        "target": 11,
+        "result": 10.9869,
+        "deviation": -0.0131
+      },
+      {
+        "id": "SE",
+        "target": 9,
+        "result": 8.9886,
+        "deviation": -0.0114
+      }
+    ]
+  },
+  "validation_record": {
+    "nodes": 14,
+    "edges": 21,
+    "faces": 9,
+    "degree_of_each_node": 3,
+    "planar_embedding": "reported passed in source section 7.25.4",
+    "nonincident_segment_separation_pairs": 168,
+    "crossings": "none reported in optimized planar embedding",
+    "sphere_partition": "reported complete by stereographic partition and complementary outer face"
+  },
+  "limitations": [
+    "This file transcribes published rounded spherical coordinates and documented topology; it does not contain the exact optimized planar x/y coordinates.",
+    "The rounded coordinates must not be treated as sufficient to independently reproduce the published area percentages.",
+    "Do not reinterpret the boundaries as shortest great-circle arcs; section 7.24 documents that this alternate interpretation fails to close the sphere.",
+    "No final geographic orientation, continent placement, climate, ocean circulation, or plate-motion kinematics are established here.",
+    "NON-CANON: this is a development baseline only."
+  ]
+}
