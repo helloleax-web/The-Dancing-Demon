@@ -36,6 +36,7 @@ Dokumen berikut merupakan draft NON-CANON dan tidak menggantikan Bible rujukan:
 - [Book I Heritage Dispute Framework — Draft 0.1](../98-CATATAN%20PENGEMBANGAN/Book-I-Heritage-Dispute-Framework-Draft-0.1.md) — model sengketa hak, klaim pemulihan, dan kesepakatan sementara fasilitas Buku I; NON-CANON.
 - [World Atlas — Spherical Continental Area Audit V0.1](../98-CATATAN%20PENGEMBANGAN/World-Atlas-Spherical-Continental-Area-Audit-V0.1.md) — audit luas sferis siluet enam benua; NON-CANON.
 - [World Atlas Continental Silhouette V0.6](../98-CATATAN%20PENGEMBANGAN/World-Atlas-Continental-Silhouette-V0.6.svg) — kandidat siluet enam benua dengan luas sferis dinormalisasi; NON-CANON.
+- [Plate Containment Orientation Search V0.1](../98-CATATAN%20PENGEMBANGAN/Plate-Containment-Orientation-Search-V0.1.md) — hasil uji orientasi bersama antara siluet benua dan geometri lempeng; containment belum lolos.
 
 ## Status informasi
 
