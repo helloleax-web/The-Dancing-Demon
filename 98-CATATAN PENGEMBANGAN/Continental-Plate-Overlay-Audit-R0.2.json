@@ -1,0 +1,242 @@
+{
+  "model": "The Dancing Demon — Continental and Plate Overlay R0.2",
+  "version": "0.2",
+  "date": "2026-11-18",
+  "status": "DEVELOPMENT / NON-CANON / CANDIDATE REGISTRATION",
+  "registration": {
+    "method": "Global rigid rotation of inverse-stereographic plate model into V0.6 geographic coordinates",
+    "euler_xyz_degrees": [
+      261.93475968204444,
+      38.51290569387009,
+      158.86401266790926
+    ],
+    "rotation_convention": "R = Rz(gamma) * Ry(beta) * Rx(alpha); angles are alpha, beta, gamma respectively; local plate-sphere vectors map to geographic vectors by R.",
+    "selection_metric": "Maximize the unweighted mean, across six continents, of the fraction of each continent lying on its single largest-area plate face. Cartographic compactness heuristic only; no same-name plate assignment or geological correctness implied.",
+    "search": {
+      "method": "Deterministic pseudo-random global Euler rotations",
+      "trials": 3000,
+      "screening_grid": "2° longitude × 0.025 sin(latitude)",
+      "best_screening_mean_dominant_plate_share_pct": 87.50231713478742,
+      "high_resolution_audit_mean_dominant_plate_share_pct": 87.27465794114259,
+      "reference_R0_1_mean_dominant_plate_share_pct": 67.60799804568285,
+      "global_optimum_proven": false
+    }
+  },
+  "sources": {
+    "continents": "World-Atlas-Continental-Silhouette-V0.6.svg",
+    "plates": "World-Plate-Geometry-V1.0-R-reconstructed.json"
+  },
+  "raster_audit": {
+    "method": "Equal-area raster using uniform longitude and uniform sin(latitude); cell-center point-in-polygon classification",
+    "longitude_step_degrees": 1,
+    "sin_latitude_step": 0.005,
+    "cells": 144000,
+    "plate_area_percent_surface": {
+      "Central": 18.01388888888889,
+      "Verdant": 11.999305555555555,
+      "Sands": 10.002777777777778,
+      "Frost": 7.998611111111111,
+      "Ashen": 6.990277777777778,
+      "Veiled": 11.015277777777778,
+      "North Ocean": 13.996527777777779,
+      "West Ocean": 11.001388888888888,
+      "Southeast Ocean": 8.981944444444444
+    },
+    "continent_area_percent_surface": {
+      "Frostbound": 4.5055555555555555,
+      "Verdant Wilds": 5.4,
+      "Central Reach": 7.196527777777778,
+      "Sunken Sands": 3.9,
+      "Ashen Frontier": 2.703472222222222,
+      "Veiled Continent": 6.2972222222222225
+    },
+    "dominant_plate_by_continent": {
+      "Frostbound": {
+        "plate": "Southeast Ocean",
+        "share_pct": 90.21270036991369
+      },
+      "Verdant Wilds": {
+        "plate": "Central",
+        "share_pct": 100
+      },
+      "Central Reach": {
+        "plate": "Sands",
+        "share_pct": 71.40789346714271
+      },
+      "Sunken Sands": {
+        "plate": "North Ocean",
+        "share_pct": 87.9985754985755
+      },
+      "Ashen Frontier": {
+        "plate": "Frost",
+        "share_pct": 94.06627279732854
+      },
+      "Veiled Continent": {
+        "plate": "Verdant",
+        "share_pct": 79.96250551389501
+      }
+    },
+    "intersection_share_of_continent_percent": {
+      "Frostbound": {
+        "Central": 0,
+        "Verdant": 0,
+        "Sands": 9.787299630086313,
+        "Frost": 0,
+        "Ashen": 0,
+        "Veiled": 0,
+        "North Ocean": 0,
+        "West Ocean": 0,
+        "Southeast Ocean": 90.21270036991369
+      },
+      "Verdant Wilds": {
+        "Central": 100,
+        "Verdant": 0,
+        "Sands": 0,
+        "Frost": 0,
+        "Ashen": 0,
+        "Veiled": 0,
+        "North Ocean": 0,
+        "West Ocean": 0,
+        "Southeast Ocean": 0
+      },
+      "Central Reach": {
+        "Central": 0,
+        "Verdant": 4.236225031361575,
+        "Sands": 71.40789346714271,
+        "Frost": 10.093602238733958,
+        "Ashen": 0,
+        "Veiled": 0,
+        "North Ocean": 0.01929943066679533,
+        "West Ocean": 13.635047766090901,
+        "Southeast Ocean": 0.6079320660040529
+      },
+      "Sunken Sands": {
+        "Central": 0,
+        "Verdant": 6.428062678062678,
+        "Sands": 0,
+        "Frost": 5.573361823361823,
+        "Ashen": 0,
+        "Veiled": 0,
+        "North Ocean": 87.9985754985755,
+        "West Ocean": 0,
+        "Southeast Ocean": 0
+      },
+      "Ashen Frontier": {
+        "Central": 0,
+        "Verdant": 0,
+        "Sands": 0,
+        "Frost": 94.06627279732854,
+        "Ashen": 0,
+        "Veiled": 0,
+        "North Ocean": 5.933727202671462,
+        "West Ocean": 0,
+        "Southeast Ocean": 0
+      },
+      "Veiled Continent": {
+        "Central": 0,
+        "Verdant": 79.96250551389501,
+        "Sands": 0,
+        "Frost": 0,
+        "Ashen": 0,
+        "Veiled": 0,
+        "North Ocean": 12.95765328628143,
+        "West Ocean": 7.079841199823555,
+        "Southeast Ocean": 0
+      }
+    },
+    "raw_cell_counts": {
+      "Frostbound": {
+        "total": 6488,
+        "byPlate": {
+          "Central": 0,
+          "Verdant": 0,
+          "Sands": 635,
+          "Frost": 0,
+          "Ashen": 0,
+          "Veiled": 0,
+          "North Ocean": 0,
+          "West Ocean": 0,
+          "Southeast Ocean": 5853
+        }
+      },
+      "Verdant Wilds": {
+        "total": 7776,
+        "byPlate": {
+          "Central": 7776,
+          "Verdant": 0,
+          "Sands": 0,
+          "Frost": 0,
+          "Ashen": 0,
+          "Veiled": 0,
+          "North Ocean": 0,
+          "West Ocean": 0,
+          "Southeast Ocean": 0
+        }
+      },
+      "Central Reach": {
+        "total": 10363,
+        "byPlate": {
+          "Central": 0,
+          "Verdant": 439,
+          "Sands": 7400,
+          "Frost": 1046,
+          "Ashen": 0,
+          "Veiled": 0,
+          "North Ocean": 2,
+          "West Ocean": 1413,
+          "Southeast Ocean": 63
+        }
+      },
+      "Sunken Sands": {
+        "total": 5616,
+        "byPlate": {
+          "Central": 0,
+          "Verdant": 361,
+          "Sands": 0,
+          "Frost": 313,
+          "Ashen": 0,
+          "Veiled": 0,
+          "North Ocean": 4942,
+          "West Ocean": 0,
+          "Southeast Ocean": 0
+        }
+      },
+      "Ashen Frontier": {
+        "total": 3893,
+        "byPlate": {
+          "Central": 0,
+          "Verdant": 0,
+          "Sands": 0,
+          "Frost": 3662,
+          "Ashen": 0,
+          "Veiled": 0,
+          "North Ocean": 231,
+          "West Ocean": 0,
+          "Southeast Ocean": 0
+        }
+      },
+      "Veiled Continent": {
+        "total": 9068,
+        "byPlate": {
+          "Central": 0,
+          "Verdant": 7251,
+          "Sands": 0,
+          "Frost": 0,
+          "Ashen": 0,
+          "Veiled": 0,
+          "North Ocean": 1175,
+          "West Ocean": 642,
+          "Southeast Ocean": 0
+        }
+      }
+    },
+    "note": "Raster estimates, not exact spherical polygon clipping. Grid quantization and cell-center classification introduce small errors."
+  },
+  "limits": [
+    "Candidate orientation only; not final geography.",
+    "Dominant-plate compactness is a cartographic heuristic, not a tectonic law.",
+    "Plate-face names do not determine crust type.",
+    "No plate-boundary kinematics, subduction, spreading, or geodynamic validation is implied."
+  ],
+  "canon_changed": false
+}
