@@ -158,7 +158,7 @@ Untuk menyelesaikan hambatan pengembangan, dibuat **V1.0-R**, rekonstruksi baru 
 - Batas luar cembung; semua simpul interior berada di dalam batas.
 - Tidak ada persilangan sisi non-insiden; setiap muka adalah poligon sederhana.
 - Setiap sisi menjadi batas tepat dua muka; delapan muka terbatas menutup poligon luar tanpa tumpang tindih.
-- Koordinat Tutte dapat direproduksi dari bobot sisi yang disimpan.
+- Koordinat Tutte dapat direproduksi dari bobot sisi yang disimpan; radius batas dan metadata sudut juga lolos pemeriksaan.
 - Proyeksi inverse stereographic menghasilkan titik pada bola satuan.
 - Total luas 100%; deviasi maksimum terhadap target **0,002188 poin persentase**, di bawah toleransi 0,01 poin.
 
