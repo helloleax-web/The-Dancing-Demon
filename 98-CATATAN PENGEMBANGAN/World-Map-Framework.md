@@ -2204,3 +2204,35 @@ Pertanyaan ini sengaja dibiarkan terbuka. Jangan isi berdasarkan asumsi.
 - [Indeks Karakter, Lokasi, dan Organisasi](../00-CORE/07-Karakter-Lokasi-dan-Organisasi.md)
 - [Cerita dan Rencana Delapan Buku](../00-CORE/08-Cerita-dan-Rencana-Delapan-Buku.md)
 - [Open Questions](../99-ADMIN/Open-Questions.md)
+
+
+### 7.38 Audit pemulihan artefak geometri V1.0
+
+**Status: CATATAN PENGEMBANGAN / NON-CANON.** Audit histori Git dilakukan untuk mencari sumber geometri V1.0 yang dapat dipakai ulang secara langsung.
+
+#### 7.38.1 Temuan histori
+
+Commit `3e6ef02d11a95c2227364c693d966d1568a59294` (`docs: finalize optimized spherical plate partition v1.0`) ditemukan pada histori `World-Map-Framework.md`. Pada commit tersebut, bagian 7.25 sudah memuat:
+- Metode inverse stereographic projection dan metode integrasi luas.
+- Hasil luas sembilan muka dengan total 100% dan deviasi maksimum 0,0675 poin persentase.
+- Koordinat matematis 14 simpul, dibulatkan dua angka desimal.
+- Ringkasan pemeriksaan topologi dan klaim tidak adanya persilangan pada embedding planar teroptimasi.
+
+Pemeriksaan isi commit dan pohon direktori pada titik histori tersebut tidak menemukan file geometri terpisah, skrip optimizer, atau tabel koordinat planar `(x,y)` yang menjadi input konstruksi. Artefak yang dapat dipulihkan secara langsung adalah dokumentasi dan koordinat bola yang telah dibulatkan, bukan seluruh sumber numerik asli.
+
+#### 7.38.2 Artefak referensi terstruktur
+
+Transkripsi data yang benar-benar dipublikasikan pada bagian 7.25 disimpan sebagai:
+
+`98-CATATAN PENGEMBANGAN/World-Plate-Geometry-V1.0-reference.json`
+
+File ini memuat 14 simpul, 21 sisi, sembilan siklus muka, target dan hasil luas, serta catatan batas validasi. File tersebut merupakan referensi terstruktur, bukan pemulihan bit-for-bit dari input optimizer.
+
+#### 7.38.3 Batas penggunaan
+
+- Koordinat bola dua desimal tidak cukup untuk mereproduksi secara independen angka luas V1.0 hingga presisi yang tercantum.
+- Jangan mengganti batas hasil proyeksi stereografis dengan busur geodesik terpendek. Audit 7.24 sudah menunjukkan bahwa interpretasi alternatif tersebut tidak menghasilkan partisi bola tertutup.
+- Jangan mengklaim bahwa peta final atau geometri sumber V1.0 telah berhasil dipulihkan.
+- Untuk menghasilkan geometri yang dapat direproduksi penuh, dibutuhkan koordinat planar asli atau konstruksi ulang yang didokumentasikan dan diaudit ulang dari awal.
+
+**Keputusan kerja:** V1.0 tetap dipertahankan sebagai baseline terdokumentasi. Data referensi terstruktur dapat dipakai untuk pemeriksaan topologi dan orientasi awal, tetapi pembuatan peta produksi yang mengklaim presisi luas V1.0 harus menunggu sumber planar asli atau rekonstruksi numerik baru yang tervalidasi. Status seluruh materi tetap NON-CANON.
