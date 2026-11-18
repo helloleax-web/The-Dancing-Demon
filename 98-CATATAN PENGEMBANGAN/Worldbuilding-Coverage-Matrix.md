@@ -92,7 +92,9 @@ Tidak ada bidang yang diberi status **BELUM ADA** karena setiap bidang memiliki 
 - Draft aktif memilih enam benua terpisah (Alternatif A) dengan susunan satu kelompok utama dan beberapa daratan terpencil (Alternatif C). Pilihan ini tetap NON-CANON.
 - Asumsi kerja atlas saat ini: 30% daratan dan 70% perairan; distribusi luas benua dihitung dari total daratan, sedangkan target lempeng dihitung dari luas seluruh planet.
 - World Atlas Draft V1 menyimpan pembagian luas relatif benua, target luas sembilan wilayah lempeng, serta konsep relief dan hidrologi.
-- Plate Geometry V1.0-R telah menjadi baseline geometri lempeng yang dapat direproduksi; containment benua, orientasi globe, dan validasi geodinamika belum selesai.
+- Plate Geometry V1.0-R menjadi baseline geometri lempeng yang dapat direproduksi; siluet benua V0.6 menjadi baseline luas daratan.
+- Aturan satu-benua-satu-lempeng pembawa telah dihentikan. Benua dapat melintasi beberapa lempeng dan satu lempeng dapat memuat kerak benua maupun samudra.
+- Orientasi globe bersama, overlay sferis benua–lempeng, klasifikasi kerak, dan validasi geodinamika belum selesai.
 - Pegunungan, hutan, ngarai, rawa, kategori perairan, dan wilayah mana tetap berupa rancangan.
 - Teleportasi dan portal belum ditetapkan sebagai teknologi yang tersedia.
 
@@ -104,7 +106,7 @@ Tidak ada bidang yang diberi status **BELUM ADA** karena setiap bidang memiliki 
 
 **Ketergantungan:** identitas dunia, perjalanan, politik, ekonomi, konflik, ekologi, dan lokasi cerita.
 
-**Langkah pengembangan:** pertahankan enam benua sebagai draft kerja saat ini; lanjutkan containment, orientasi globe, relief, hidrologi, dan penempatan lokasi. Jumlah benua belum menjadi CANON.
+**Langkah pengembangan:** pertahankan enam benua sebagai draft kerja; pilih orientasi globe bersama, hitung matriks irisan benua–lempeng, lalu lanjutkan relief, hidrologi, dan penempatan lokasi. Jumlah benua belum menjadi CANON.
 
 ### 3. Sejarah Bumi kuno dan kehancurannya
 
@@ -590,3 +592,12 @@ Dossier tersebut berfungsi sebagai bahan kerja. Jika proposal dipilih, perbarui 
 - Orientasi sampel terbaik hanya menempatkan seluruh titik sampel Sunken Sands di dalam muka Sands; total 115/368 titik sampel berada pada muka yang ditetapkan.
 - Batas: pencarian ini bukan bukti matematis bahwa orientasi valid mustahil dan belum merupakan uji poligon sferis penuh.
 - Status: containment BELUM LOLOS; seluruh hasil NON-CANON.
+
+
+## Revisi hubungan benua–lempeng
+
+- [Plate–Continent Relationship Framework V0.1](Plate-Continent-Relationship-Framework-V0.1.md) — mengganti syarat satu-benua-satu-lempeng dengan model irisan spasial banyak-ke-banyak.
+- Geometri lempeng V1.0-R dan siluet benua V0.6 dipertahankan sebagai baseline terpisah; target luas keduanya tidak berubah.
+- Uji containment lama tetap dicatat sebagai penolakan terhadap pasangan satu-ke-satu, bukan kegagalan partisi lempeng.
+- Status aktif: aturan hubungan konseptual selesai; orientasi geografis bersama dan matriks irisan sferis masih terbuka.
+- Seluruh materi NON-CANON.
