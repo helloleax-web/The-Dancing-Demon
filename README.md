@@ -38,6 +38,7 @@ Dokumen ini adalah pusat dokumentasi dunia LEAX. Isinya memisahkan fakta yang su
 - [Plate–Continent Relationship Framework V0.1](98-CATATAN%20PENGEMBANGAN/Plate-Continent-Relationship-Framework-V0.1.md) — aturan aktif hubungan benua–lempeng; NON-CANON.
 - [Continental–Plate Overlay R0.1](98-CATATAN%20PENGEMBANGAN/Continental-Plate-Overlay-R0.1.md) — overlay identitas awal.
 - [Continental–Plate Overlay R0.2](98-CATATAN%20PENGEMBANGAN/Continental-Plate-Overlay-R0.2.md) — kandidat registrasi kompak terbaik dari 3.000 rotasi sampel; NON-CANON.
+- [R0.2 Raster Convergence Audit](98-CATATAN%20PENGEMBANGAN/Continental-Plate-Overlay-Convergence-R0.2.md) — pemeriksaan silang kestabilan matriks pada grid hingga 9,216 juta sel; NON-CANON.
 
 ### Catatan
 Dokumen ini merupakan konsolidasi berdasarkan informasi yang tersedia dalam percakapan worldbuilding. Bagian yang belum memiliki dasar canon secara eksplisit ditandai sebagai catatan pengembangan atau unknown.
