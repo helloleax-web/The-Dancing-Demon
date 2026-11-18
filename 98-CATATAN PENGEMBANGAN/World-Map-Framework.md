@@ -1933,6 +1933,43 @@ Kandidat geometri baru hanya boleh disebut **lolos audit awal** bila seluruh sya
 
 **Keputusan:** eksperimen yang hanya mencocokkan luas ditolak. Jalur kerja beralih ke optimasi yang mempertahankan embedding planar sebagai kendala keras. Belum ada koordinat V1.1 yang disahkan untuk containment benua.
 
+### 7.32 Kandidat embedding Tutte bebas persilangan
+
+**Status: CATATAN PENGEMBANGAN / NON-CANON.** Untuk menghindari kegagalan optimasi sebelumnya, dibuat baseline geometris menggunakan teorema embedding Tutte. Graf diperiksa 3-connected dan planar. Siklus Central ditempatkan pada heptagon cembung beraturan; simpul lain dihitung melalui koordinat barycentric dengan bobot seragam.
+
+#### 7.32.1 Validasi topologi dan geometri
+
+Kandidat ini mempertahankan 14 simpul, 21 sisi, dan 9 muka. Pemeriksaan geometri segmen menemukan **nol persilangan sisi non-insiden**. Embedding memenuhi sifat planar dan siklus muka sesuai bagian 7.18. Koordinat kemudian dipetakan ke bola satuan menggunakan inverse stereographic projection.
+
+#### 7.32.2 Luas terukur
+
+| Muka | Luas aktual (%) | Target (%) |
+|---|---:|---:|
+| Central | 53.491842 | 18 |
+| Verdant | 10.883803 | 12 |
+| Sands | 21.132626 | 10 |
+| Frost | 3.593981 | 8 |
+| Ashen | 5.378856 | 7 |
+| Veiled | 2.946628 | 11 |
+| Samudra Utara | 0.842987 | 14 |
+| Samudra Barat | 0.776530 | 11 |
+| Samudra Timur-Selatan | 0.952746 | 9 |
+| **Total** | **100.000000** | **100** |
+
+Kandidat ini **lolos sebagai embedding bebas persilangan, tetapi gagal memenuhi target luas**. Perbedaan sangat besar pada Central dan ketiga muka samudra menunjukkan bahwa heptagon beraturan dengan bobot barycentric seragam hanya baseline, bukan bentuk akhir.
+
+#### 7.32.3 Keputusan lanjutan
+
+- Simpan kandidat ini sebagai pembanding geometris yang valid; jangan menggantikan prototipe sebelumnya.
+- Pertahankan batas planaritas sebagai kendala keras.
+- Tahap optimasi berikutnya harus mengubah bentuk batas luar dan/atau bobot barycentric positif, lalu menghitung ulang posisi simpul interior.
+- Setiap kandidat harus kembali diuji terhadap persilangan, orientasi muka, kelengkapan partisi bola, serta luas total.
+- Jangan menempatkan benua sebelum distribusi luas dan containment lolos audit.
+
+Data koordinat lengkap disimpan pada `World-Plate-Geometry-V1.1-Tutte-candidate.json`.
+
+**Kesimpulan:** kini tersedia satu kandidat embedding V1.1 yang secara geometris bebas persilangan dan dapat direproduksi. Kandidat belum layak menjadi peta lempeng final karena distribusi luasnya masih jauh dari target.
+
 ## 8. Proposal geografi lama yang belum diputuskan
 
 Dokumen [Geography](Geography.md) sebelumnya mencatat enam nama benua sebagai konsep kerja:
