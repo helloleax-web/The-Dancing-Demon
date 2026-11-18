@@ -1,0 +1,35 @@
+{
+  "document": "World-Atlas-Continental-Polygon-Audit-V0.1",
+  "status": "NON-CANON / MEASURED SILHOUETTE AUDIT",
+  "source_file": "World-Atlas-Continental-Silhouette-Draft.svg",
+  "method": "Shoelace formula applied to each SVG polygon in canvas coordinates. Normalize each polygon area by the sum of all six land polygon areas. Exclude background, grid, labels and water.",
+  "projection_warning": "This is a 2D SVG canvas-area audit, not geodesic surface area and not a true planetary land-area measurement. The conceptual latitude-like canvas is not a validated map projection.",
+  "canvas": {
+    "width": 1800,
+    "height": 1000,
+    "map_frame": { "x": 100, "y": 120, "width": 1600, "height": 730 }
+  },
+  "total_land_polygon_area_px2": 244459.8765,
+  "results": [
+    { "name": "The Frostbound Expanse", "target_land_share_percent": 15, "measured_canvas_area_px2": 33904.4444, "measured_land_share_percent": 13.8691, "deviation_percentage_points": -1.1309, "vertices": 17, "bounds_px": [682.2222, 168.6667, 1113.3333, 302.5] },
+    { "name": "The Verdant Wilds", "target_land_share_percent": 18, "measured_canvas_area_px2": 40780.8642, "measured_land_share_percent": 16.6820, "deviation_percentage_points": -1.3180, "vertices": 13, "bounds_px": [362.2222, 379.5556, 660.0, 610.7222] },
+    { "name": "The Central Reach", "target_land_share_percent": 24, "measured_canvas_area_px2": 86527.5309, "measured_land_share_percent": 35.3954, "deviation_percentage_points": 11.3954, "vertices": 22, "bounds_px": [673.3333, 314.6667, 1237.7778, 570.1667] },
+    { "name": "The Sunken Sands", "target_land_share_percent": 13, "measured_canvas_area_px2": 20854.5679, "measured_land_share_percent": 8.5309, "deviation_percentage_points": -4.4691, "vertices": 12, "bounds_px": [953.3333, 549.8889, 1260.0, 691.8333] },
+    { "name": "The Ashen Frontier", "target_land_share_percent": 9, "measured_canvas_area_px2": 21151.9753, "measured_land_share_percent": 8.6525, "deviation_percentage_points": -0.3475, "vertices": 10, "bounds_px": [722.2222, 626.9444, 957.7778, 772.9444] },
+    { "name": "The Veiled Continent", "target_land_share_percent": 21, "measured_canvas_area_px2": 41240.4938, "measured_land_share_percent": 16.8700, "deviation_percentage_points": -4.1300, "vertices": 12, "bounds_px": [1340.0, 525.5556, 1651.1111, 736.4444] }
+  ],
+  "findings": {
+    "target_total_percent": 100,
+    "measured_total_percent": 100,
+    "largest_oversized_continent": "The Central Reach (+11.3954 percentage points)",
+    "largest_undersized_continent": "The Sunken Sands (-4.4691 percentage points)",
+    "result": "FAIL: current silhouette polygons do not match the target relative land-area proportions."
+  },
+  "interpretation": [
+    "The Central Reach is substantially oversized in the current canvas drawing.",
+    "Sunken Sands and Veiled Continent are materially undersized.",
+    "Frostbound Expanse, Verdant Wilds and Ashen Frontier are closer to their targets but still do not match them.",
+    "This audit measures only the current drawing; it does not establish the actual area of any fictional continent."
+  ],
+  "next_step": "Build a separate V0.2 polygon revision. Adjust area while preserving each continent's recognizable silhouette and macro placement; then re-run area, overlap, map-frame and plate-containment checks. Do not overwrite this V0.1 source."
+}
