@@ -1800,6 +1800,65 @@ V1.1 harus dicatat sebagai versi geometri baru; jangan menimpa atau menyebutnya 
 
 **Kesimpulan kerja:** hambatan saat ini bukan pilihan bentuk benua, melainkan tidak tersedianya geometri presisi yang diperlukan untuk menguji bentuk tersebut terhadap lempeng. Menjaga integritas model lebih penting daripada menghasilkan klaim kelulusan dari data yang tidak cocok.
 
+### 7.29 Geometri bola V1.1 — prototipe topologi pertama
+
+**Status: CATATAN PENGEMBANGAN / NON-CANON / BELUM LAYAK UNTUK PENEMPATAN BENUA.** Setelah audit 7.28 tidak menemukan sumber presisi V1.0, dibuat prototipe geometri baru yang dapat direproduksi dari graf dan siklus muka 7.17–7.18. Prototipe ini sengaja dipisahkan dari V1.0 dan tidak mengklaim telah memenuhi target luas.
+
+#### 7.29.1 Konstruksi
+
+1. Bangun graf dari 14 simpul dan 21 sisi pada 7.17.
+2. Periksa planaritas graf dan ambil satu embedding planar.
+3. Telusuri sembilan muka embedding dan cocokkan urutan siklusnya dengan 7.18.
+4. Petakan koordinat planar simpul ke bola satuan dengan inverse stereographic projection.
+5. Perlakukan muka luar embedding sebagai komplemen bola; untuk prototipe ini muka luar adalah Central.
+6. Hitung luas delapan muka terbatas melalui integral batas pada metrik stereografis, lalu hitung luas Central sebagai komplemen dari 4π steradian.
+
+Koordinat planar presisi, koordinat bola, daftar sisi, siklus muka, formula proyeksi, serta luas hasil disimpan dalam berkas terpisah:
+`World-Plate-Geometry-V1.1-prototype.json`.
+
+#### 7.29.2 Pemeriksaan topologi
+
+| Pemeriksaan | Hasil |
+|---|---|
+| Simpul | 14 |
+| Segmen | 21 |
+| Muka | 9 |
+| Euler V − E + F | 14 − 21 + 9 = 2 |
+| Graf planar | Lolos |
+| Derajat seluruh simpul | 3 |
+| Siklus sembilan muka cocok dengan 7.18 | Lolos |
+| Partisi topologis bola | Lolos melalui proyeksi embedding dan muka komplemen |
+| Target luas 7.25 | Gagal |
+| Containment enam benua | Belum diuji |
+
+#### 7.29.3 Luas aktual prototipe
+
+| Lempeng | Target 7.25 | V1.1 prototipe | Deviasi |
+|---|---:|---:|---:|
+| Central | 18,00% | 83,4076% | +65,4076 pp |
+| Verdant | 12,00% | 4,7120% | −7,2880 pp |
+| Sands | 10,00% | 4,2301% | −5,7699 pp |
+| Frost | 8,00% | 1,0837% | −6,9163 pp |
+| Ashen | 7,00% | 4,4007% | −2,5993 pp |
+| Veiled | 11,00% | 1,1975% | −9,8025 pp |
+| Samudra Utara | 14,00% | 0,1952% | −13,8048 pp |
+| Samudra Barat | 11,00% | 0,0828% | −10,9172 pp |
+| Samudra Timur-Selatan | 9,00% | 0,6905% | −8,3095 pp |
+| **Total** | **100,00%** | **100,0000%** | **0,0000 pp** |
+
+Hasil ini **tidak layak dipakai sebagai distribusi lempeng**. Muka Central mengambil sebagian besar bola dan delapan muka lain terlalu kecil. Prototipe hanya membuktikan bahwa siklus muka yang dipilih dapat diwujudkan sebagai partisi topologis bola melalui satu embedding planar.
+
+#### 7.29.4 Keputusan teknis
+
+- Simpan prototipe ini sebagai bukti konstruksi topologi yang dapat direproduksi, bukan sebagai geometri final.
+- Jangan menempatkan benua pada geometri ini.
+- Jangan mengubah target luas 7.25 untuk menyesuaikan prototipe.
+- Tahap berikutnya adalah optimasi koordinat 14 simpul dengan kendala embedding tetap, tanpa persilangan sisi, sembilan muka tetap, dan luas mendekati target 7.25.
+- Setelah optimasi, hitung ulang luas secara independen dan validasi penutupan bola, ketetanggaan, serta orientasi siklus.
+- Simpan setiap kandidat yang lolos sebagai versi tersendiri bersama data koordinat presisi dan metode reproduksinya.
+
+**Kesimpulan kerja:** V1.1 prototipe berhasil mempertahankan topologi 9 muka, 14 simpul, dan 21 segmen pada bola, tetapi gagal total pada distribusi luas. Ini adalah kemajuan teknis yang terbatas dan terukur, bukan penyelesaian peta lempeng. Optimasi luas tetap menjadi pekerjaan aktif berikutnya.
+
 ## 8. Proposal geografi lama yang belum diputuskan
 
 Dokumen [Geography](Geography.md) sebelumnya mencatat enam nama benua sebagai konsep kerja:
