@@ -320,3 +320,13 @@ Dokumen konsolidasi ini dibuat berdasarkan lore yang telah ditetapkan dalam perc
 - Batas: tidak menetapkan negara, hukum nasional, pejabat, kontrak spesifik, atau kepemilikan fasilitas sebagai CANON.
 - Dampak CANON: tidak ada.
 - Dokumen terkait: `98-CATATAN PENGEMBANGAN/Book-I-Heritage-Dispute-Framework-Draft-0.1.md`, `98-CATATAN PENGEMBANGAN/Book-I-Scene-Outline-Draft-0.1.md`, `98-CATATAN PENGEMBANGAN/Location-Organization-Development-Dossier-Draft-0.1.md`, dan `98-CATATAN PENGEMBANGAN/Worldbuilding-Coverage-Matrix.md`.
+
+
+## Peta kesinambungan delapan buku — 2026-11-18
+
+- Tanggal: 2026-11-18
+- Topik: Penambahan jembatan sebab-akibat antarbuku pada Eight-Book Series Architecture.
+- Perubahan: ditambahkan tujuh transisi Buku I–VIII yang mencatat informasi yang dibawa, payoff yang perlu terjadi, dan misteri yang tetap terbuka; ditambahkan tujuh gerbang kontinuitas untuk memeriksa resolusi lokal, konsekuensi, sumber informasi, alasan perjalanan, eskalasi, dan pengulangan konflik.
+- Batas: seluruh materi merupakan kerangka pengembangan NON-CANON dan tidak menetapkan peristiwa baru atau jawaban misteri.
+- Dampak CANON: tidak ada.
+- Dokumen terkait: `98-CATATAN PENGEMBANGAN/Eight-Book-Series-Architecture-Draft-0.1.md`, `98-CATATAN PENGEMBANGAN/Worldbuilding-Coverage-Matrix.md`, dan `99-ADMIN/Repository-Maintenance-Report-2026-11-18.md`.
