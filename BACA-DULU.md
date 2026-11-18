@@ -11,6 +11,7 @@ Paket ini berisi dokumen selain `00-CORE`, sehingga tidak mengulang 10 dokumen i
 - [Worldbuilding Coverage Matrix](98-CATATAN%20PENGEMBANGAN/Worldbuilding-Coverage-Matrix.md) — audit kelengkapan dokumentasi 19 bidang worldbuilding. Status cakupan dan prioritasnya adalah alat perencanaan, bukan penetapan canon.
 - `99-ADMIN/` — laporan audit, kebijakan editorial, changelog, dan pertanyaan terbuka.
 - [Canon Audit Report](99-ADMIN/Canon-Audit-Report-2026-11-18.md) — hasil audit konsistensi dan status temuan.
+- [Repository Maintenance Report](99-ADMIN/Repository-Maintenance-Report-2026-11-18.md) — catatan koreksi dokumentasi atlas dan matriks worldbuilding.
 - [Editorial and Repository Maintenance Policy](99-ADMIN/Editorial-Maintenance-Policy.md) — standar pemeliharaan dan pengembangan.
 - [Character Development Dossier — Draft 0.1](98-CATATAN%20PENGEMBANGAN/Character-Development-Dossier-Draft-0.1.md) — proposal pengembangan karakter.
 - [Book I Scene Outline — Draft 0.1](98-CATATAN%20PENGEMBANGAN/Book-I-Scene-Outline-Draft-0.1.md) — rancangan adegan Buku I.
