@@ -698,3 +698,48 @@ Fjord, lembah glasial, dan danau glasial hanya dapat ditambahkan jika sejarah gl
 - Seluruh fitur tetap NON-CANON.
 
 **Status keputusan:** V0.8 menyediakan inventaris relief makro dan kosakata batimetri. Sebelum arus laut rinci dan bioma, pekerjaan berikutnya adalah menyelesaikan model elevasi relatif dan drainase utama tanpa mengunci lokasi cerita.
+
+
+## 17. Kerangka daerah aliran sungai dan hidrologi — V0.9
+
+**Status: CATATAN PENGEMBANGAN / NON-CANON.** V0.9 menerjemahkan kandidat relief V0.8 menjadi kerangka hidrologi awal. Garis pembagi DAS, zona cekungan, dan panah arah drainase hanya bersifat skematis. V0.9 bukan model elevasi digital (DEM), peta sungai, atau simulasi hidrologi.
+
+Berkas:
+- [World-Atlas-Watershed-Hydrology-Framework-V0.9.svg](World-Atlas-Watershed-Hydrology-Framework-V0.9.svg)
+- [World-Atlas-Watershed-Hydrology-Audit-V0.9.json](World-Atlas-Watershed-Hydrology-Audit-V0.9.json)
+
+### 17.1 Prinsip konstruksi
+- Garis pembagi DAS kandidat hanya mengikuti simbol pegunungan/dataran tinggi yang sudah ada pada V0.8.
+- Garis tersebut bukan punggung topografi terukur dan belum menjadi batas DAS tervalidasi.
+- Panah menunjukkan kecenderungan arah turun secara umum dari relief tinggi; bukan jalur sungai, anak sungai, atau lokasi muara.
+- Zona cekungan menandai kandidat tampungan/topografi rendah. Status tertutup (endorheik) atau terbuka ke laut (eksorheik) belum diputuskan.
+- Tidak ada garis pantai, poligon benua, atau geometri lempeng yang diubah.
+
+### 17.2 Kandidat pembagi DAS
+| Benua | Dasar kandidat | Batas pengetahuan |
+|---|---|---|
+| The Central Reach | Sabuk pegunungan barat laut | Jejak punggung, batas DAS, dan hubungan dengan cekungan tengah belum tervalidasi |
+| The Verdant Wilds | Busur pegunungan barat laut–tengah | Ujung busur dan pembagian daerah tangkapan belum dikunci |
+| The Frostbound Expanse | Dataran tinggi tengah-utara | Lembah, outlet pesisir, dan pengaruh glasial belum dipetakan |
+| The Ashen Frontier | Dataran tinggi diagonal | Hubungan dengan patahan/vulkanisme dan batas DAS belum diketahui |
+
+### 17.3 Zona cekungan kandidat
+- **The Central Reach:** cekungan tengah tetap kandidat. Belum diketahui apakah cekungan tertutup, memiliki outlet permukaan, atau hanya dataran rendah luas.
+- **The Sunken Sands:** cekungan tengah tetap kandidat. Tidak ada dasar yang cukup untuk menyatakan sistem danau garam atau drainase endoreik.
+- **The Veiled Continent:** cekungan pedalaman tetap kandidat. Hubungannya dengan laut, teluk tertutup, atau danau belum ditentukan.
+
+### 17.4 Hal yang belum digambar atau disahkan
+- Tidak ada sungai utama, anak sungai, danau, delta, rawa, atau muara yang ditempatkan.
+- Tidak ada nama perairan yang dibuat.
+- Tidak ada sistem glasial, fjord, atau danau glasial yang disimpulkan.
+- Tidak ada bioma, curah hujan, atau iklim regional yang diturunkan dari kerangka ini.
+- Tidak ada lokasi cerita yang dipindahkan atau ditambahkan.
+
+### 17.5 Validasi dan keterbatasan
+- Enam poligon benua diwarisi tanpa perubahan; garis pantai dan geometri lempeng tetap.
+- Tidak ada data elevasi numerik, DEM, gradien lereng, atau simulasi hidrologi.
+- Topologi DAS, jalur aliran menurun, dan outlet cekungan belum diverifikasi.
+- Kerangka koordinat linear SVG tetap bukan proyeksi kartografis tervalidasi.
+- Seluruh fitur V0.9 tetap NON-CANON.
+
+**Status keputusan:** V0.9 menyediakan kerangka untuk menyusun hidrologi tanpa mengarang sungai. Tahap selanjutnya memerlukan urutan elevasi relatif dan punggung topografi yang lebih pasti, penentuan outlet cekungan, serta pemeriksaan bahwa aliran tidak menembus pembagi DAS. Sungai baru layak digambar setelah pemeriksaan tersebut.
