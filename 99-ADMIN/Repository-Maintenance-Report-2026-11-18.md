@@ -174,3 +174,14 @@ Artefak: [laporan R0.2](../98-CATATAN%20PENGEMBANGAN/Continental-Plate-Overlay-R
 - Registrasi R0.2 dipilih sebagai kandidat kerja karena rata-rata dominasi muka benua meningkat dari sekitar 67,61% (R0.1) menjadi 87,27% pada audit raster resolusi lebih tinggi.
 - Hasil ini merupakan metrik kekompakan kartografis, bukan optimum global dan bukan validasi geologi.
 - Seluruh dokumen dan peta tetap NON-CANON; tidak ada perubahan CANON.
+
+
+## Verifikasi repository setelah R0.2 — 2026-11-18
+
+- Jumlah berkas repository: 84.
+- Empat belas dokumen terkait R0.1/R0.2 dan indeks dibaca ulang dari branch `main`.
+- Sebanyak 278 tautan relatif berkas/folder diperiksa; tidak ditemukan tautan rusak.
+- JSON audit R0.2 valid; SVG overlay memuat enam poligon benua, 26 polyline batas (21 sisi graf dengan pemisahan tambahan pada seam), dan 14 penanda simpul plus satu penanda legenda.
+- Jumlah luas sembilan muka pada audit raster R0.2 = 100,00%; total daratan mendekati target 30%.
+- Metrik dominasi muka rata-rata: R0.1 = 67,61%; R0.2 = 87,27% pada audit resolusi lebih tinggi. R0.2 dipilih sebagai kandidat kerja, bukan optimum global.
+- Tidak ada perubahan CANON.
