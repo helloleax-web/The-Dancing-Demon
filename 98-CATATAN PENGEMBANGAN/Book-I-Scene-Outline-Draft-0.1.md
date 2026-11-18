@@ -221,3 +221,86 @@ Sebelum bab dianggap selesai, periksa:
 ## 8. Catatan produksi
 
 Draft ini adalah kerangka adegan, bukan manuskrip final. Dialog, nama karakter pendukung, lokasi geografis, teknologi fasilitas, detail hukum, dan hasil akhir sengketa harus dikembangkan sesuai kebutuhan adegan serta dokumen dunia yang relevan.
+
+
+## 9. Konfigurasi konflik yang direkomendasikan
+
+Bagian ini memilih satu konfigurasi kerja agar konflik Buku I memiliki hubungan sebab-akibat yang lebih jelas. Seluruh konfigurasi berstatus **CATATAN PENGEMBANGAN / NON-CANON**.
+
+### 9.1 Tiga kepentingan yang bertemu
+
+**Konsorsium Survei Meridian — kepentingan pemetaan**
+- Draft yang direkomendasikan: ekspedisi pemetaan jalur utara diselenggarakan atau dikontrak melalui Konsorsium Survei Meridian.
+- Tavian bekerja sebagai asisten survei dalam proyek tersebut.
+- Seraphine mengikuti ekspedisi sebagai peneliti lapangan yang membutuhkan akses terhadap temuan.
+- Konsorsium berfokus pada survei dan pencatatan; keikutsertaan dalam ekspedisi tidak otomatis memberi hak kepemilikan atas fasilitas.
+
+**Vellum & Iron Recovery — kepentingan komersial**
+- Draft yang direkomendasikan: perusahaan ini adalah perusahaan pengambilan peninggalan yang datang dan mengajukan klaim komersial dalam Buku I.
+- Klaimnya didasarkan pada kontrak atau hak pemulihan yang berlaku di wilayah setempat, bukan kewenangan universal.
+- Klaim tersebut dapat memberi dasar untuk bernegosiasi, tetapi tidak otomatis membuktikan kepemilikan fasilitas atau semua benda di dalamnya.
+- Perusahaan tidak perlu digambarkan sebagai organisasi jahat. Sebagian pekerjanya dapat benar-benar percaya bahwa mereka sedang menjalankan kontrak yang sah.
+
+**Arsip Lentera — kepentingan pengetahuan**
+- Draft yang direkomendasikan: Kael dibayar oleh seorang perantara lapangan yang bekerja untuk peneliti atau kurator yang memiliki hubungan profesional dengan Arsip Lentera.
+- Pemberi tugas tidak harus mewakili keputusan resmi seluruh organisasi.
+- Tujuannya adalah memverifikasi rumor tentang sebuah arsip di bawah jalan dan memperoleh salinan indeks atau catatan akses jika ditemukan.
+- Tujuan tersebut berfokus pada informasi, bukan penguasaan fisik fasilitas.
+- Jangan menyatakan bahwa Arsip Lentera secara keseluruhan menyetujui metode rahasia tersebut.
+
+### 9.2 Pengungkapan Kael pada “Harga Sebuah Informasi”
+
+**Pilihan draft yang direkomendasikan:**
+- Kael tidak sekadar membawa peta kedua untuk keuntungan pribadi. Ia menerima kontrak untuk memverifikasi rute dan memastikan apakah lokasi tersebut benar-benar menyimpan arsip.
+- Ia diminta merahasiakan peta kedua agar pihak lain tidak mendahului pemberi tugas.
+- Ia ditugaskan mengirim salinan indeks atau bukti keberadaan arsip, bukan mengambil semua artefak.
+- Ia menyembunyikan kontrak tersebut dari Tavian dan Seraphine karena tahu mereka mungkin menolak jika mengetahui bahwa ekspedisi dipakai untuk tujuan pihak luar.
+- Kael tidak mengetahui seluruh agenda pemberi tugas dan tidak memahami sepenuhnya mengapa arsip itu penting.
+
+**Efek dramatis:**
+- Pengkhianatan Kael bersifat nyata, tetapi tidak menjadikannya antagonis satu dimensi.
+- Seraphine memiliki alasan kuat untuk mempertanyakan validitas dan etika kerja sama.
+- Tavian harus memutuskan apakah kesalahan Kael menghapus seluruh nilai kerja sama mereka.
+- Kael harus menghadapi fakta bahwa ia telah mengubah ekspedisi orang lain menjadi bagian dari kontrak rahasia.
+
+### 9.3 Hubungan antara klaim perusahaan dan kontrak Kael
+
+Dalam draft ini, Vellum & Iron Recovery dan pihak yang membayar Kael bukan satu pihak yang sama.
+
+- Vellum & Iron Recovery datang dengan kepentingan komersial atas lokasi dan pemulihan benda.
+- Pemberi tugas Kael menginginkan bukti dan salinan informasi tentang arsip.
+- Kedua pihak dapat memiliki sumber informasi yang berbeda dan tidak harus mengetahui seluruh tujuan pihak lain.
+- Jangan membuat International Authority tiba-tiba menyita fasilitas atau memerintahkan perusahaan pergi; kewenangannya tidak mencakup tindakan tersebut.
+- Konflik harus diselesaikan melalui negosiasi, aturan lokal, bukti, dan keadaan darurat di fasilitas.
+
+Pemisahan kepentingan ini membuat konflik tidak sekadar “perusahaan jahat melawan peneliti baik”.
+
+### 9.4 Makna pesan penutup
+
+Pesan “arsip di bawah jalan” tetap dikirim oleh kontak tak dikenal.
+
+Pilihan draft:
+- Kontak tersebut bukan pemberi tugas yang sudah ditemui Kael.
+- Penggunaan istilah “arsip” menunjukkan bahwa pihak lain juga mengenal rumor atau klasifikasi lokasi tersebut.
+- Pesan itu tidak membuktikan bahwa fasilitas benar-benar arsip, bahwa kontak mengetahui seluruh isinya, atau bahwa ada jaringan rahasia yang mengendalikan semua penemuan.
+- Kael membakar pesan tetapi menyimpan kertasnya karena ia ingin menghilangkan isi yang dapat dibaca orang lain, namun belum siap memutus hubungan dengan sumber informasi tersebut.
+
+### 9.5 Konsekuensi untuk akhir Buku I
+
+- Kesepakatan sementara melindungi lokasi dari pengambilan lebih lanjut, tetapi tidak menyelesaikan sengketa hak.
+- Salinan catatan yang dibawa kelompok tidak harus merupakan salinan lengkap indeks arsip yang dicari pemberi tugas Kael.
+- Kael tidak memperoleh seluruh hasil kontrak yang diharapkan.
+- Tavian dan Seraphine memiliki alasan untuk melanjutkan perjalanan, sementara hubungan mereka dengan Kael belum pulih sepenuhnya.
+- Petunjuk ke tempat lain menjadi tujuan praktis berikutnya, bukan sekadar janji misteri abstrak.
+
+### 9.6 Batas yang tetap terbuka
+
+- Identitas pribadi pemberi tugas Kael.
+- Apakah pemberi tugas benar-benar bekerja atas nama Arsip Lentera atau hanya memiliki hubungan profesional dengannya.
+- Isi dan arti indeks yang dicari.
+- Dasar hukum spesifik klaim Vellum & Iron Recovery.
+- Siapa yang pertama kali membocorkan keberadaan fasilitas kepada perusahaan.
+- Identitas kontak tak dikenal pada pesan penutup.
+- Apakah fasilitas benar-benar arsip atau hanya disebut demikian oleh pihak yang mencari.
+
+Konfigurasi ini direkomendasikan untuk draft karena menghubungkan tiga organisasi dengan kepentingan berbeda, memberi alasan konkret bagi peta kedua Kael, dan mempertahankan misteri yang dibutuhkan buku berikutnya.
