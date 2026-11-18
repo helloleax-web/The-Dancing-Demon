@@ -382,3 +382,25 @@ Hasil 15/18/24/13/9/21 persen adalah proporsi luas pada bidang gambar SVG berdas
 
 **Status:** V0.2 lulus audit luas bidang, bingkai, dan non-overlap. Tetap NON-CANON dan bukan peta geografis final.
 
+## 12. Presentation refinement — V0.3
+
+V0.3 merupakan revisi presentasi dari geometri V0.2. Koordinat keenam poligon tidak diubah, sehingga hasil audit proporsi bidang V0.2 tetap berlaku.
+
+Berkas:
+- [World-Atlas-Continental-Silhouette-V0.3.svg](World-Atlas-Continental-Silhouette-V0.3.svg)
+- [World-Atlas-Continental-Polygon-Audit-V0.3.json](World-Atlas-Continental-Polygon-Audit-V0.3.json)
+
+### Perubahan
+- Garis putus-putus dan label ekuator dihapus. Orientasi globe dan posisi lintang belum ditetapkan, sehingga penandaan ekuator sebelumnya terlalu dini.
+- Kontras, ukuran, dan jarak visual label benua dirapikan.
+- Grid ditegaskan sebagai grid ilustratif, bukan koordinat geografis.
+- Judul, versi, dan catatan status diperjelas.
+
+### Validasi
+- Enam poligon tetap berada di dalam bingkai.
+- Tidak ditemukan tumpang tindih antarbenua.
+- Koordinat poligon identik dengan V0.2.
+- Porsi luas bidang SVG tetap 15% / 18% / 24% / 13% / 9% / 21%.
+
+**Status:** V0.3 lulus pemeriksaan presentasi dasar dan geometri bidang. Ini bukan redesign garis pantai, bukan proyeksi globe, bukan validasi luas geodesik, dan bukan uji containment lempeng. Seluruhnya tetap NON-CANON.
+
