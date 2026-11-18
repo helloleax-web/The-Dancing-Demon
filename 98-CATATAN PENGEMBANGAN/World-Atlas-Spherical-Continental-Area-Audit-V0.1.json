@@ -1,0 +1,126 @@
+{
+  "version": "V0.5 spherical area audit / 0.1",
+  "status": "DEVELOPMENT / NON-CANON / REPRODUCIBLE MEASUREMENT OF EXISTING SVG",
+  "source": {
+    "svg": "World-Atlas-Continental-Silhouette-V0.5.svg",
+    "coordinate_framework": "World-Atlas-Geographic-Framework-Audit-V0.5.json",
+    "map_draft": "World-Atlas-Draft-V1.md sections 11-13 and coordinate framework V0.5"
+  },
+  "coordinate_transform": {
+    "svg_viewbox": [
+      0,
+      0,
+      1800,
+      1000
+    ],
+    "map_frame": {
+      "x_min": 100,
+      "x_max": 1700,
+      "y_min": 120,
+      "y_max": 850
+    },
+    "longitude_deg": "((x - 100) / 1600) * 360 - 180",
+    "latitude_deg": "90 - ((y - 120) / 730) * 180",
+    "interpretation": "The SVG uses a linear longitude/latitude plotting scaffold equivalent to an equirectangular (Plate Carrée) coordinate layout. It is not an equal-area projection."
+  },
+  "method": {
+    "surface": "Unit sphere; area fractions do not depend on chosen sphere radius.",
+    "edge_interpretation": "Each straight SVG polygon edge is treated as linear interpolation in longitude and latitude between its endpoint coordinates.",
+    "area_integral": "For each edge, integrate sin(latitude) d(longitude) analytically; take the absolute signed spherical polygon area, selecting the smaller region.",
+    "formula": "A = abs(sum over edges of delta_lambda * (cos(phi_start) - cos(phi_end)) / (phi_end - phi_start)); for a horizontal edge use delta_lambda * sin(phi_start).",
+    "earth_radius_km_for_illustration": 6371,
+    "limitations": [
+      "This measures the existing V0.5 polygon paths under the stated linear lon/lat edge interpretation; it does not validate whether those paths are the desired final coastlines.",
+      "No cartographic projection beyond the SVG coordinate scaffold is asserted as the production map projection.",
+      "No plate containment, plate-motion, tectonic, climate, relief, or hydrology validation is included.",
+      "The Earth-like radius is used only to express illustrative area in km2; area fractions are radius-independent.",
+      "The six-continent fraction is the sum of the six mapped polygons only; islands and any additional land are not included."
+    ]
+  },
+  "continent_areas": {
+    "Frostbound Expanse": {
+      "vertices": 30,
+      "area_steradians": 0.30542488496651066,
+      "area_million_km2_earth_radius": 12.397086433256964,
+      "share_of_six_continents_percent": 9.19237888619903,
+      "previous_planar_target_percent": 15,
+      "deviation_from_target_percentage_points": -5.80762111380097
+    },
+    "Verdant Wilds": {
+      "vertices": 31,
+      "area_steradians": 0.7168343723491166,
+      "area_million_km2_earth_radius": 29.096049830110967,
+      "share_of_six_continents_percent": 21.574578476165335,
+      "previous_planar_target_percent": 18,
+      "deviation_from_target_percentage_points": 3.574578476165335
+    },
+    "The Central Reach": {
+      "vertices": 37,
+      "area_steradians": 0.955659267692701,
+      "area_million_km2_earth_radius": 38.789866593969634,
+      "share_of_six_continents_percent": 28.762496139442106,
+      "previous_planar_target_percent": 24,
+      "deviation_from_target_percentage_points": 4.762496139442106
+    },
+    "The Sunken Sands": {
+      "vertices": 25,
+      "area_steradians": 0.3903457584049268,
+      "area_million_km2_earth_radius": 15.84399419952871,
+      "share_of_six_continents_percent": 11.748244116625395,
+      "previous_planar_target_percent": 13,
+      "deviation_from_target_percentage_points": -1.251755883374605
+    },
+    "The Ashen Frontier": {
+      "vertices": 27,
+      "area_steradians": 0.27290702871600486,
+      "area_million_km2_earth_radius": 11.077198321959328,
+      "share_of_six_continents_percent": 8.213688314687872,
+      "previous_planar_target_percent": 9,
+      "deviation_from_target_percentage_points": -0.786311685312128
+    },
+    "The Veiled Continent": {
+      "vertices": 34,
+      "area_steradians": 0.6814167659694358,
+      "area_million_km2_earth_radius": 27.658461902080415,
+      "share_of_six_continents_percent": 20.508614066880266,
+      "previous_planar_target_percent": 21,
+      "deviation_from_target_percentage_points": -0.491385933119734
+    }
+  },
+  "global_land_coverage": {
+    "six_continent_area_steradians": 3.3225880780986956,
+    "sphere_area_steradians": 12.566370614359172,
+    "six_continent_share_of_planet_surface_percent": 26.440315824380388,
+    "working_land_target_percent": 30,
+    "difference_percentage_points": -3.559684175619612,
+    "illustrative_land_area_million_km2_earth_radius": 134.86265728090603,
+    "illustrative_gap_to_30_percent_million_km2_earth_radius": 18.156684292030462
+  },
+  "validation": {
+    "six_polygon_elements_found": true,
+    "polygon_vertex_counts": [
+      30,
+      31,
+      37,
+      25,
+      27,
+      34
+    ],
+    "all_polygons_stay_within_map_frame": true,
+    "spherical_area_computed": true,
+    "planar_target_shares_reproduced": false,
+    "30_percent_global_land_assumption_met": false,
+    "plate_containment_tested": false,
+    "canon_changed": false
+  },
+  "decision": {
+    "retain_old_planar_targets_as": "historical design targets only; do not label them measured spherical land shares",
+    "current_geographic_status": "V0.5 remains a coordinate scaffold and six-continent concept, not a final geographic atlas",
+    "next_steps": [
+      "Decide whether the spherical measured shares or the old 15/18/24/13/9/21 targets should guide revised coastlines.",
+      "If the 30% land assumption is retained, revise continent geometry or explicitly reserve additional land for islands/other landmasses.",
+      "Define the globe orientation and plate rotation, then test each continent polygon against its assigned carrier-plate spherical face.",
+      "Only after containment and area targets pass, proceed to relief, hydrology, climate, and biomes."
+    ]
+  }
+}
