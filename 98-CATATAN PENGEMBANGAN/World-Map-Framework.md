@@ -54,8 +54,8 @@ Bagian ini membedakan pilihan kerja yang sudah disampaikan kreator dari keputusa
 | A. Model dunia | Planet, dunia datar, struktur berlapis, atau model lain? | **PILIHAN SEMENTARA: planet** — menunggu konfirmasi final sebelum CANON. |
 | B. Skala fisik | Ukuran dunia, gravitasi, satelit, dan siklus astronomi seperti apa? | **MODEL KERJA V0.6:** acuan planet terestrial bergaya Bumi tersedia (radius 6.371 km, gravitasi 9,81 m/s², hari 24 jam, kemiringan sumbu 23,44°, tahun 365,2422 hari). Semua nilai masih proposal NON-CANON; atmosfer, satelit, dan arsitektur orbit belum ditentukan. |
 | C. Bentuk daratan | Bagaimana bentuk garis pantai, pulau besar, dan detail bentuk daratan? | **DRAFT TERPILIH:** enam benua terpisah, berukuran sangat bervariasi, dengan satu kelompok utama dan beberapa daratan terpencil. Belum CANON; bentuk rinci, garis pantai, dan posisi tepat masih terbuka. |
-| D. Perairan | Bagaimana pembagian samudra, laut, dan perairan pedalaman? | BELUM DIPUTUSKAN |
-| E. Iklim dan bioma | Bagaimana pola iklim, arus, angin, dan bioma? | BELUM DIPUTUSKAN |
+| D. Perairan | Bagaimana pembagian samudra, laut, dan perairan pedalaman? | **KERANGKA KERJA:** asumsi 30% daratan / 70% perairan dan tiga lempeng samudra tersedia; jumlah, nama, dan geometri cekungan air belum final. |
+| E. Iklim dan bioma | Bagaimana pola iklim, arus, angin, dan bioma? | **KERANGKA V0.6–V0.7:** parameter planet, lintang astronomis, dan sirkulasi global konseptual tersedia; iklim regional, arus laut, curah hujan, dan bioma belum ditetapkan. |
 | F. Wilayah politik | Negara, kerajaan, wilayah otonom, dan perbatasan mana yang diperlukan? | BELUM DIPUTUSKAN |
 | G. Jaringan perjalanan | Jalan, sungai, pelabuhan, jalur laut, dan rute ekspedisi mana yang ada? | BELUM DIPUTUSKAN |
 | H. Penempatan lokasi cerita | Di mana lokasi canon dan lokasi Buku I ditempatkan? | BELUM DIPUTUSKAN |
@@ -105,7 +105,7 @@ Isi hanya setelah keputusan dibuat. Kolom kosong berarti belum ditentukan, bukan
 | Sistem iklim global | KERANGKA KONSEPTUAL V0.7 | Sirkulasi tiga sel per belahan, sabuk tekanan, dan angin dominan merupakan model rata-rata bergaya Bumi; bukan simulasi iklim. |
 | Zona iklim | BELUM DIPUTUSKAN | Belum ada suhu atau curah hujan regional. |
 | Arus laut dan angin | KERANGKA KONSEPTUAL V0.7 | Angin dominan digambarkan secara umum; arus laut dan pola regional belum ditetapkan. |
-| Musim | PROPOSAL V0.6 | Fase musim berlawanan ant belahan sebagai konsekuensi kemiringan 23,44°; intensitas musim belum dihitung. |
+| Musim | PROPOSAL V0.6 | Fase musim berlawanan antarbelahan sebagai konsekuensi kemiringan 23,44°; intensitas musim belum dihitung. |
 | Bioma | BELUM DIPUTUSKAN | Perlu topografi, curah hujan, suhu, dan hidrologi regional. |
 | Fenomena geografis khusus | BELUM DIPUTUSKAN | |
 
@@ -1636,10 +1636,9 @@ Dengan asumsi total daratan 30% permukaan planet, anggaran luas tiap benua dapat
 
 1. Rancangan satu-benua-satu-lempeng lolos syarat perlu berbasis luas pada asumsi kerja V0.6 sebesar 30% daratan; nilai ini masih NON-CANON.
 2. Anggaran luas tiap benua lebih kecil daripada lempeng pembawanya, tetapi bentuk, lekukan, dan posisi masih dapat menyebabkan containment gagal.
-3. Ketaksamaan luas adalah syarat perlu, bukan syarat cukup. Walaupun luas benua lebih kecil daripada luas lempeng, siluetnya masih mungkin tidak muat akibat bentuk, lekukan, atau posisi wilayah lempeng.
-4. Uji bentuk yang sah membutuhkan geometri batas tiap lempeng dengan presisi memadai dan poligon siluet keenam benua. Koordinat simpul 7.25 yang dibulatkan dua desimal tidak cukup untuk menggantikan data kurva batas lengkap; peta skematis juga tidak dapat dipakai sebagai geometri ukur.
-5. Garis pantai tidak boleh disamakan dengan batas lempeng. Benua harus ditempatkan sebagai geometri daratan di dalam wilayah lempeng pembawa, dengan kemungkinan margin samudra di sekelilingnya.
-6. Jika kelak siluet tidak muat, opsi revisi adalah mengubah porsi luas benua, luas lempeng, atau aturan satu-benua-satu-lempeng. Tidak satu pun opsi tersebut dipilih pada tahap ini.
+3. Uji bentuk yang sah membutuhkan geometri batas tiap lempeng dengan presisi memadai dan poligon siluet keenam benua. Koordinat simpul 7.25 yang dibulatkan dua desimal tidak cukup untuk menggantikan data kurva batas lengkap; peta skematis juga tidak dapat dipakai sebagai geometri ukur.
+4. Garis pantai tidak boleh disamakan dengan batas lempeng. Benua harus ditempatkan sebagai geometri daratan di dalam wilayah lempeng pembawa, dengan kemungkinan margin samudra di sekelilingnya.
+5. Jika kelak siluet tidak muat, opsi revisi adalah mengubah porsi luas benua, luas lempeng, atau aturan satu-benua-satu-lempeng. Tidak satu pun opsi tersebut dipilih pada tahap ini.
 
 #### 7.26B.4 Status hasil
 
