@@ -124,4 +124,4 @@ Nama keenam karakter tersebut dinyatakan sebagai nama yang telah ditetapkan dala
 
 ## CATATAN PENGEMBANGAN yang terpisah
 
-`98-CATATAN PENGEMBANGAN/Story-Framework.md` memuat kerangka umum tentang unsur yang dapat dimiliki profil karakter, seperti identitas, penampilan, kepribadian, latar belakang, motivasi, konflik, kemampuan, relasi, dan perkembangan. Itu merupakan CATATAN PENGEMBANGAN umum, bukan informasi karakter CANON dan bukan rincian khusus keenam karakter di atas.
+`98-CATATAN PENGEMBANGAN/Story-Framework.md` memuat kerangka umum tentang unsur yang dapat dimiliki profil karakter, seperti identitas, penampilan, kepribadian, latar belakang, motivasi, konflik, kemampuan, relasi, dan perkembangan. Itu merupakan CATATAN PENGEMBANGAN umum, bukan informasi karakter CANON dan bukan rincian khusus keenam karakter di atas. Proposal khusus keenam nama karakter tersedia dalam [Character Development Dossier — Draft 0.1](../98-CATATAN%20PENGEMBANGAN/Character-Development-Dossier-Draft-0.1.md). Seluruh profil, motivasi, visual, dan arc dalam dossier tersebut tetap CATATAN PENGEMBANGAN / NON-CANON; bagian UNKNOWN di Bible ini belum berubah.
