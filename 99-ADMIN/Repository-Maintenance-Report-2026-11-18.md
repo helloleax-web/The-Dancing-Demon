@@ -275,3 +275,11 @@ Tidak ada perubahan CANON.
 - Inventaris topologi mengonfirmasi 21 sisi, 9 muka, dan 14 triple junction; setiap sisi berbatasan dengan tepat dua muka dan setiap simpul mempertemukan tiga muka.
 - Kerangka kinematika mencatat 27 komponen kecepatan sudut mentah, tiga derajat kebebasan rotasi global, dan 24 parameter gerak relatif independen. Belum ada gerak atau tipe batas yang ditetapkan.
 - Semua artefak geografi dan kinematika tetap NON-CANON. Tidak ada perubahan CANON atau retcon.
+
+
+## Pemeliharaan dokumentasi cerita — 2026-11-19
+
+- Berkas baru: `98-CATATAN PENGEMBANGAN/Book-I-Character-Knowledge-Matrix-Draft-0.1.md`.
+- Tautan silang ditambahkan ke Book I Scene Outline, Mystery & Foreshadowing Ledger, dan Eight-Book Series Architecture.
+- Dokumen baru berstatus NON-CANON dan berfungsi sebagai alat kontinuitas pengetahuan karakter/pembaca pada 19 scene Buku I.
+- Character Bible dan dokumen CANON tidak diubah.
