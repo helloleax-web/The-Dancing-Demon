@@ -149,3 +149,13 @@ Artefak baru:
 - [Audit JSON](../98-CATATAN%20PENGEMBANGAN/Continental-Plate-Overlay-Audit-R0.1.json)
 
 Orientasi ini ilustratif, bukan geografis final. Tidak ada validasi kerak/geodinamika dan tidak ada perubahan CANON.
+
+
+## Verifikasi repository setelah overlay R0.1 — 2026-11-18
+
+- Jumlah berkas repository: 81.
+- Sebelas dokumen terkait dibaca ulang dari branch `main`, termasuk tiga artefak overlay.
+- Sebanyak 263 tautan relatif berkas/folder diperiksa; tidak ditemukan tautan rusak.
+- JSON audit dapat diparse; SVG overlay memiliki enam poligon benua, 24 polyline batas (21 sisi graf, dengan pemisahan tambahan pada seam proyeksi), dan 14 penanda simpul plus satu penanda legenda.
+- Audit raster memakai 144.000 sel berluas sama; jumlah estimasi luas sembilan muka lempeng mendekati 100% dan total daratan mendekati 30%.
+- Registrasi R0.1 tetap ilustratif. Tidak ada perubahan CANON.
