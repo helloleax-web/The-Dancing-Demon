@@ -9,10 +9,11 @@
 
 ## 1. Ringkasan
 
-Dua ketidaksinkronan dokumentasi yang masih tersisa diperbaiki:
+Tiga ketidaksinkronan dokumentasi yang masih tersisa diperbaiki:
 
 1. **World Atlas Draft V1** masih menyebut V1.0 sebagai baseline geometri aktif dan menyatakan V1.0-R baru akan dibuat jika data lama tidak ditemukan. Ini sudah tertinggal dari keputusan teknis terbaru. Dokumen kini menyatakan V1.0-R sebagai baseline aktif yang tervalidasi, sedangkan V1.0-reference tetap menjadi arsip historis.
-2. **Worldbuilding Coverage Matrix** masih memuat pertanyaan dan status lama yang sudah dijawab atau sudah memiliki materi pengembangan baru. Matriks kini mencerminkan klarifikasi istilah World Overview, pilihan enam benua sebagai draft aktif, baseline V1.0-R, serta dossier karakter, lokasi/organisasi, outline Buku I, arsitektur delapan buku, dan mystery ledger.
+2. **Worldbuilding Coverage Matrix** masih memuat pertanyaan dan status lama yang sudah dijawab atau sudah memiliki materi pengembangan baru. Matriks kini mencerminkan klarifikasi istilah World Overview, pilihan planet terestrial bergaya Bumi sebagai model kerja, asumsi 30% daratan, pilihan enam benua sebagai draft aktif, baseline V1.0-R, serta dossier karakter, lokasi/organisasi, outline Buku I, arsitektur delapan buku, dan mystery ledger.
+3. **World Map Framework** masih memakai judul historis pada bagian arsitektur daratan yang dapat terbaca seolah enam benua belum dipilih. Judul diperjelas menjadi draft aktif terpilih, tetap NON-CANON.
 
 ## 2. File yang diperbarui
 
@@ -20,6 +21,7 @@ Dua ketidaksinkronan dokumentasi yang masih tersisa diperbaiki:
 |---|---|
 | [World Atlas Draft V1](../98-CATATAN%20PENGEMBANGAN/World-Atlas-Draft-V1.md) | Menyelaraskan bagian baseline geometri dan keputusan kerja dengan V1.0-R. |
 | [Worldbuilding Coverage Matrix](../98-CATATAN%20PENGEMBANGAN/Worldbuilding-Coverage-Matrix.md) | Memperbarui status bidang dunia, geografi, organisasi, karakter, lokasi, dan cerita berdasarkan dokumen yang kini tersedia. |
+| [World Map Framework](../98-CATATAN%20PENGEMBANGAN/World-Map-Framework.md) | Memperjelas bahwa enam benua adalah draft aktif terpilih, bukan opsi yang belum dipilih atau CANON. |
 
 ## 3. Status geometri atlas
 
