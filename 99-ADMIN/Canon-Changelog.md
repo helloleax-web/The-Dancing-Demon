@@ -154,3 +154,6 @@ Dokumen konsolidasi ini dibuat berdasarkan lore yang telah ditetapkan dalam perc
 - Keputusan: Menambahkan Mystery and Foreshadowing Ledger Draft 0.1 untuk membedakan fakta yang diketahui, informasi karakter, petunjuk, jendela pengungkapan, dan batas misteri. Ledger menggunakan fakta serta urutan buku yang sudah ada; pilihan pengembangan baru tetap NON-CANON. README, indeks inti, panduan baca, Story Framework, Series Architecture, dan Coverage Matrix ditautkan ke dokumen ini.
 - Dokumen yang diperbarui: `README.md`, `BACA-DULU.md`, `00-CORE/00-README.md`, `98-CATATAN PENGEMBANGAN/Story-Framework.md`, `Eight-Book-Series-Architecture-Draft-0.1.md`, `Worldbuilding-Coverage-Matrix.md`, dan dokumen baru `Mystery-and-Foreshadowing-Ledger-Draft-0.1.md`.
 - Apakah ini retcon?: Tidak. Dokumen baru berstatus CATATAN PENGEMBANGAN.
+
+
+- Tindak lanjut audit: jumlah file Markdown aktif bertambah menjadi 40 setelah penambahan Mystery & Foreshadowing Ledger. Pemeriksaan tautan relatif pada ledger baru lolos; laporan audit diperbarui untuk mencerminkan jumlah terbaru.
