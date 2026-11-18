@@ -454,7 +454,7 @@ Untuk tahap ini, jangan menetapkan bahwa:
 
 ### 7.26A Penempatan makro enam benua pada sembilan lempeng — rancangan historis yang disupersesi
 
-**Status: CATATAN PENGEMBANGAN / NON-CANON.** Bagian ini menghubungkan rancangan enam benua pada 7.7–7.12 dengan partisi lempeng V1.0 pada 7.25. Penempatan ini merupakan rancangan spasial aktif untuk diuji, bukan koordinat geografis final dan bukan keputusan CANON.
+**Status: CATATAN PENGEMBANGAN / NON-CANON — RANCANGAN HISTORIS, DISUPERSESI.** Bagian ini merekam model satu-benua-satu-lempeng yang pernah dipakai. Aturannya tidak lagi aktif; gunakan Bagian 7.47 untuk hubungan benua–lempeng terbaru. Isi berikut dipertahankan sebagai riwayat, bukan batas desain.
 
 #### 7.26A.1 Prinsip penempatan
 
@@ -1587,7 +1587,7 @@ Pemetaan inverse stereografis adalah homeomorfisme antara bidang dan bola tanpa 
 
 ### 7.26B Uji kompatibilitas luas daratan dengan lempeng pembawa — uji historis untuk model satu-ke-satu
 
-**Status: CATATAN PENGEMBANGAN / NON-CANON.** Bagian ini menguji syarat luas minimum untuk rancangan satu benua utama pada setiap lempeng pembawa. Ini adalah uji kelayakan aritmetis, bukan bukti bahwa siluet benua sudah muat secara geometris di dalam poligon lempeng.
+**Status: CATATAN PENGEMBANGAN / NON-CANON — UJI HISTORIS MODEL SATU-KE-SATU.** Bagian ini menguji syarat luas minimum pada rancangan lama. Perhitungan aritmetisnya tetap benar sebagai riwayat, tetapi tidak lagi menjadi syarat desain aktif setelah revisi Bagian 7.47.
 
 #### 7.26B.1 Data masukan
 
@@ -1651,7 +1651,7 @@ Dengan asumsi total daratan 30% permukaan planet, anggaran luas tiap benua dapat
 
 ### 7.27B Rancangan makro daratan V1.0 — komposisi dan anggaran luas (asumsi lempeng historis)
 
-**Status: CATATAN PENGEMBANGAN / NON-CANON.** Bagian ini mengunci satu rancangan kerja lengkap untuk tahap makro agar pengembangan tidak terus berputar pada pilihan yang sama. Angka dan penempatan di bawah adalah rekomendasi kerja yang dapat direvisi kreator; tidak ada yang otomatis menjadi CANON.
+**Status: CATATAN PENGEMBANGAN / NON-CANON — BASELINE HISTORIS.** Bagian ini merekam anggaran luas dan asumsi pasangan benua–lempeng yang digunakan sebelum revisi Bagian 7.47. Komposisi makro dan target luas tetap menjadi referensi kerja; penetapan satu-ke-satu tidak lagi aktif.
 
 #### 7.27B.1 Asumsi kerja yang dipakai
 
