@@ -743,3 +743,65 @@ Berkas:
 - Seluruh fitur V0.9 tetap NON-CANON.
 
 **Status keputusan:** V0.9 menyediakan kerangka untuk menyusun hidrologi tanpa mengarang sungai. Tahap selanjutnya memerlukan urutan elevasi relatif dan punggung topografi yang lebih pasti, penentuan outlet cekungan, serta pemeriksaan bahwa aliran tidak menembus pembagi DAS. Sungai baru layak digambar setelah pemeriksaan tersebut.
+
+
+## 18. Kelas elevasi relatif dan topologi drainase — V1.0
+
+**Status: CATATAN PENGEMBANGAN / NON-CANON.** V1.0 mengelompokkan kandidat relief yang sudah tercatat menjadi kelas elevasi relatif kualitatif. Versi ini tidak memberikan angka ketinggian, tidak membandingkan elevasi antarbenua, dan belum menetapkan topologi drainase final.
+
+Berkas:
+- [World-Atlas-Relative-Elevation-Drainage-Topology-Framework-V1.0.svg](World-Atlas-Relative-Elevation-Drainage-Topology-Framework-V1.0.svg)
+- [World-Atlas-Relative-Elevation-Drainage-Topology-Audit-V1.0.json](World-Atlas-Relative-Elevation-Drainage-Topology-Audit-V1.0.json)
+
+### 18.1 Kelas elevasi kualitatif
+
+| Kode | Kelas | Penggunaan |
+|---|---|---|
+| R1 | Kandidat relief tinggi | Pegunungan dan dataran tinggi yang sudah tercatat |
+| R2 | Kandidat relief menengah | Plateau lebih rendah, perbukitan, atau upland |
+| R3 | Kandidat relief rendah | Cekungan atau dataran rendah luas |
+| RX | Belum terklasifikasi | Sisi, kesinambungan, atau hubungan relief belum diketahui |
+
+Kode tersebut bukan rentang meter, bukan hasil pengukuran, dan tidak boleh dipakai untuk menyimpulkan bahwa R1 di satu benua lebih tinggi daripada R1 di benua lain. Klasifikasi hanya membantu mengorganisasi deskripsi relief yang sudah tersedia.
+
+### 18.2 Penilaian per benua
+
+| Benua | Kandidat yang dapat diklasifikasikan | Bagian yang tetap belum diketahui |
+|---|---|---|
+| The Central Reach | R1: sabuk pegunungan barat laut; R2: plateau timur yang lebih rendah; R3: cekungan tengah | Jejak punggung persis, lantai cekungan, dan outlet |
+| The Verdant Wilds | R1: busur pegunungan barat laut–tengah; R2: dataran tinggi dan perbukitan | Ujung busur, kesinambungan, dan urutan elevasi lokal |
+| The Sunken Sands | R3: cekungan tengah | Sisi pegunungan memanjang dan dataran tinggi lawan belum dipilih |
+| The Frostbound Expanse | R1: dataran tinggi tengah-utara | Ketinggian, gradien lembah, dan jalur keluar ke pesisir |
+| The Ashen Frontier | R1: zona pegunungan/dataran tinggi diagonal; R2: kandidat upland diagonal | Hubungan antarzona, keberadaan lembah patahan, dan urutan elevasi |
+| The Veiled Continent | R3: cekungan pedalaman | Pesisir yang membawa pegunungan utama dan posisi plateau sekunder |
+
+Kelas yang belum didukung catatan relief tidak dipaksakan. Area tersebut tetap RX atau tidak diklasifikasikan.
+
+### 18.3 Topologi drainase dan status cekungan
+
+Tiga cekungan kandidat masih belum memiliki status outlet:
+- **Central Reach:** belum diketahui apakah cekungan tengah merupakan depresi tertutup, dataran rendah dengan outlet permukaan, atau dataran luas yang tidak membentuk cekungan tertutup.
+- **Sunken Sands:** belum diputuskan apakah air mengalir keluar ke laut atau tertahan dalam sistem endoreik.
+- **Veiled Continent:** belum diketahui apakah cekungan pedalaman terhubung ke laut, teluk tertutup, danau, atau tidak memiliki outlet permukaan.
+
+Istilah *exorheic* dan *endorheic* hanya menjadi kategori yang akan dipakai setelah elevasi ambang dan jalur keluar ditentukan. V1.0 belum menetapkan satu pun cekungan sebagai exorheic atau endorheic.
+
+### 18.4 Aturan sebelum menggambar sungai
+
+1. Tetapkan kesinambungan punggung topografi dan titik pelana (saddle/pass).
+2. Tentukan urutan elevasi relatif antara punggung, lembah, cekungan, dan ambang outlet.
+3. Pastikan batas DAS mengikuti punggung dan tidak terpotong jalur aliran yang tidak masuk akal.
+4. Bentuk graf elevasi dan hubungan outlet yang saling konsisten.
+5. Baru setelah itu gambar sungai utama, anak sungai, danau, serta muara.
+
+### 18.5 Audit dan batas klaim
+
+- Tidak ada angka elevasi, DEM, kontur hasil perhitungan, atau gradien lereng.
+- Tidak ada urutan elevasi lintas benua yang divalidasi.
+- Tidak ada outlet cekungan, batas DAS, atau graf drainase yang disahkan.
+- Tidak ada sungai, danau, delta, rawa, atau nama perairan yang ditambahkan.
+- Geometri benua, garis pantai, lempeng, dan lokasi cerita tidak diubah.
+- Kerangka koordinat SVG tetap bukan proyeksi kartografis tervalidasi.
+- Seluruh isi V1.0 tetap NON-CANON.
+
+**Status keputusan:** V1.0 menyediakan kosakata dan klasifikasi awal untuk relief yang telah dideskripsikan. Langkah berikutnya bukan langsung menggambar sungai, melainkan menyelesaikan sisi relief yang belum dipilih, hubungan punggung–pelana–cekungan, serta ambang outlet setiap cekungan.
