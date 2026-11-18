@@ -192,6 +192,8 @@ Sebelum satu misteri diungkap, pastikan:
 7. Misteri yang sengaja ditahan tetap memiliki fungsi setelah jawaban diberikan.
 
 ## 5. Dokumen sumber
+- [Book I Character Knowledge Matrix — Draft 0.1](Book-I-Character-Knowledge-Matrix-Draft-0.1.md) — kontrol kontinuitas pengetahuan Tavian, Seraphine, Kael, dan pembaca sepanjang Buku I.
+
 
 - [Cerita dan Rencana Delapan Buku](../00-CORE/08-Cerita-dan-Rencana-Delapan-Buku.md)
 - [Book I Scene Outline — Draft 0.1](Book-I-Scene-Outline-Draft-0.1.md)
