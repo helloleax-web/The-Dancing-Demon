@@ -47,4 +47,8 @@ Jangan menganggap semua monster jahat atau semua makhluk di wilayah kaya mana ot
 E, D, C, B, A, S, SS, EX.
 
 Peringkat ini dimaksudkan sebagai klasifikasi ancaman administratif, bukan ukuran kekuatan mutlak.
-\n\n## Batas dengan entitas kosmik\n\nEntitas kosmik dalam [Cosmology and the Cosmic Entity](../01-CANON/Cosmology-and-Entity.md) dikategorikan sebagai **Abstract Existence**, bukan organisme normal atau monster konvensional. Jangan memasukkannya ke klasifikasi spesies, monster, atau ras hanya karena istilah populer atau judul cerita terdengar seperti kategori makhluk.\n
+
+
+## Batas dengan entitas kosmik
+
+Entitas kosmik dalam [Cosmology and the Cosmic Entity](../01-CANON/Cosmology-and-Entity.md) dikategorikan sebagai **Abstract Existence**, bukan organisme normal atau monster konvensional. Jangan memasukkannya ke klasifikasi spesies, monster, atau ras hanya karena istilah populer atau judul cerita terdengar seperti kategori makhluk.
