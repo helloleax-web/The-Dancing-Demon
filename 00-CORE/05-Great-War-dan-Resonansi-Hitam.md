@@ -5,7 +5,7 @@
 ## Fakta yang ditetapkan
 
 -   Terjadi sebuah perang besar yang dikenal sebagai **Great War**.
--   Selama perang, musik bernama **NVR AGAIN** terdengar di seluruh
+-   Selama perang, musik yang kemudian diketahui bernama **NVR AGAIN** terdengar di seluruh
     dunia.
 -   Sekutu LEAX memperoleh jubah mana hitam.
 -   Jubah tersebut memberikan pertahanan luar biasa serta regenerasi HP
