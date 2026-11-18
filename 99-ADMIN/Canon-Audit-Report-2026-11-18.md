@@ -207,7 +207,7 @@ International Authority adalah otoritas pengawasan dan mediasi, bukan pemerintah
 
 KVK memiliki rentang 11–15 anggota definitif, masa jabatan anggota enam tahun tanpa pengangkatan kembali setelah satu masa jabatan, sistem rotasi bertahap, ambang minimal delapan anggota definitif aktif, dan proses konsensus sebagaimana dijelaskan dalam dokumen khusus.
 
-Tidak ditemukan pertentangan langsung antara fungsi KVK dan kewenangan Majelis Umum. Ambiguitas yang tersisa dicatat pada A-02 dan A-03.
+Tidak ditemukan pertentangan langsung antara fungsi KVK dan kewenangan Majelis Umum. Ambiguitas A-02 dan A-03 telah diselesaikan melalui klarifikasi prosedural pada dokumen CANON dan dicatat dalam Canon Changelog. Ketentuan masa jabatan definitif, kuorum Majelis Umum, serta prosedur lain yang belum dibahas tetap terbuka.
 
 **Sumber:** [International Authority](../01-CANON/International-Authority.md); [KVK](../01-CANON/KVK.md).
 
@@ -256,17 +256,16 @@ Urutan berikut adalah rekomendasi administratif, bukan keputusan canon.
 
 | Urutan | Tindakan | Alasan |
 |---|---|---|
-| 1 | Minta keputusan redaksional untuk A-01 | Menghindari ambiguitas istilah dasar dunia |
-| 2 | Perjelas prioritas kondisi Ketua sementara (A-02) | Mencegah dua interpretasi prosedur |
-| 3 | Tetapkan denominator kuorum KVK saat kursi kosong (A-03) | Membuat penerapan aturan dapat diuji |
-| 4 | Selaraskan label status pada World Map Framework (A-04) | Membedakan draft terpilih, detail terbuka, dan CANON |
-| 5 | Pulihkan atau rekonstruksi geometri dengan versi transparan (A-05) | Memungkinkan validasi teknis yang dapat diulang |
-| 6 | Kembangkan karakter, lokasi, organisasi, dan alur sesuai kebutuhan cerita | Mengisi ruang dokumentasi tanpa memaksakan jawaban pada misteri |
+| 1 | Pulihkan koordinat planar dan metode konstruksi V1.0 jika masih tersedia | Menentukan apakah baseline lama dapat direproduksi |
+| 2 | Jika data asli tidak tersedia, buat rekonstruksi teknis dengan versi baru dan validasi independen | Hindari mengklaim rekonstruksi sebagai V1.0 asli |
+| 3 | Lengkapi profil karakter, lokasi, dan organisasi sebagai materi pengembangan | Mendukung penulisan tanpa mengarang fakta CANON |
+| 4 | Perluas kerangka Buku I menjadi outline adegan dan sebab-akibat | Menguji motivasi, eskalasi, dan konsekuensi sebelum prosa final |
+| 5 | Kembangkan buku II–VIII bertahap setelah kebutuhan alur sebelumnya stabil | Menjaga kesinambungan delapan buku tanpa mengunci jawaban misteri terlalu dini |
 
 ## 7. Aturan tindak lanjut dan penjagaan canon
 
 1. Tidak ada temuan dalam laporan ini yang otomatis mengubah CANON.
-2. Ambiguitas prosedural harus diajukan kepada kreator sebelum teks sumber diubah.
+2. Klarifikasi prosedural yang sudah tercatat sebagai CANON harus diterapkan konsisten pada semua ringkasan dan indeks. Aturan baru atau perubahan substansial tetap harus dibedakan dari koreksi dokumentasi.
 3. Proposal geografi dan hasil eksperimen tetap berada di `98-CATATAN PENGEMBANGAN/` sampai disahkan secara eksplisit.
 4. UNKNOWN dan MYSTERY tidak wajib dijawab hanya karena muncul dalam daftar audit.
 5. Jangan menyamakan karakter, lokasi, organisasi, atau peristiwa hanya berdasarkan kemiripan nama atau konteks.
@@ -276,7 +275,7 @@ Urutan berikut adalah rekomendasi administratif, bukan keputusan canon.
 
 ## 8. Status audit
 
-**Hasil:** tidak ditemukan kontradiksi CANON langsung dalam dokumen utama yang diperiksa. A-01 sampai A-04 telah ditangani; A-05 tetap memerlukan pemulihan data presisi atau rekonstruksi teknis berversi baru.
+**Hasil:** tidak ditemukan kontradiksi CANON langsung dalam dokumen utama yang diperiksa. A-01 sampai A-04 telah diselesaikan pada 2026-11-18. A-05 masih terbuka sebagai keterbatasan reproduksibilitas teknis; baseline V1.0 belum diverifikasi ulang secara independen.
 
 **Batas:** audit ini bukan pemeriksaan baris demi baris terhadap seluruh file, aset visual, seluruh riwayat commit, atau seluruh percakapan sumber. Pemeriksaan lanjutan diperlukan sebelum menyatakan seluruh repository bebas konflik.
 
