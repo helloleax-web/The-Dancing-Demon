@@ -601,3 +601,10 @@ Dossier tersebut berfungsi sebagai bahan kerja. Jika proposal dipilih, perbarui 
 - Uji containment lama tetap dicatat sebagai penolakan terhadap pasangan satu-ke-satu, bukan kegagalan partisi lempeng.
 - Status aktif: aturan hubungan konseptual selesai; orientasi geografis bersama dan matriks irisan sferis masih terbuka.
 - Seluruh materi NON-CANON.
+
+
+## Overlay geografis benua–lempeng
+
+- [Continental–Plate Overlay R0.1](Continental-Plate-Overlay-R0.1.md) — registrasi ilustratif satu globe dan matriks irisan awal berbasis raster luas sama.
+- [Peta overlay SVG](World-Atlas-Continental-Plate-Overlay-R0.1.svg) dan [audit JSON](Continental-Plate-Overlay-Audit-R0.1.json).
+- Status: overlay koordinat awal selesai; orientasi final dan clipping sferis eksak belum selesai. NON-CANON.
