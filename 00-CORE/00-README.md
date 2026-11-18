@@ -13,6 +13,7 @@ Paket ini berisi ringkasan, indeks, dan panduan kontinuitas untuk lore *The Danc
 7.  [Indeks Karakter, Lokasi, dan Organisasi](07-Karakter-Lokasi-dan-Organisasi.md) — indeks elemen cerita yang telah ditetapkan; rujukan detail: [Character Bible](../01-CANON/Character-Bible.md), [Location Bible](../01-CANON/Location-Bible.md), dan [Organization Bible](../01-CANON/Organization-Bible.md).
 8.  [Cerita dan Rencana Delapan Buku](08-Cerita-dan-Rencana-Delapan-Buku.md) — premis, Buku I, dan kerangka delapan buku; rincian cerita tersedia dalam dokumen ini.
 9.  [Kanon dan Kontinuitas](09-Kanon-dan-Kontinuitas.md) — aturan canon dan daftar misteri yang harus dijaga; rujukan administrasi: [Open Questions](../99-ADMIN/Open-Questions.md) dan [Canon Changelog](../99-ADMIN/Canon-Changelog.md). Untuk rincian kelembagaan, lihat [International Authority](../01-CANON/International-Authority.md) dan [KVK](../01-CANON/KVK.md).
+10. [Glosarium dan Panduan Istilah](10-Glosarium-dan-Panduan-Istilah.md) — istilah baku, kapitalisasi, dan batas kontinuitas lintas dokumen.
 
 ## Administrasi dan pemeliharaan
 
