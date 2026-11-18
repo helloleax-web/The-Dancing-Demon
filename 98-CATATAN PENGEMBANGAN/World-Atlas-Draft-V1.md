@@ -937,3 +937,12 @@ Dibuat registrasi identitas R0.1 untuk memproyeksikan V1.0-R dan V0.6 ke satu bi
 Artefak: [peta overlay R0.1](World-Atlas-Continental-Plate-Overlay-R0.1.svg), [laporan audit](Continental-Plate-Overlay-R0.1.md), [data JSON](Continental-Plate-Overlay-Audit-R0.1.json).
 
 **Status:** overlay dan matriks awal selesai; pemilihan orientasi final, presisi poligon sferis, klasifikasi kerak, serta geodinamika belum selesai. Semua NON-CANON.
+
+
+## 12. Kandidat registrasi kompak R0.2
+
+Pencarian 3.000 rotasi global deterministik memakai metrik rata-rata proporsi tiap benua pada muka dominannya. Kandidat R0.2 memperoleh 87,50% pada grid screening dan 87,27% pada audit raster resolusi lebih tinggi; registrasi referensi R0.1 memperoleh 67,61% pada audit yang sama. R0.2 menjadi kandidat kerja yang lebih baik menurut metrik kekompakan tersebut, bukan orientasi geografis final.
+
+Artefak: [peta overlay R0.2](World-Atlas-Continental-Plate-Overlay-R0.2.svg), [laporan R0.2](Continental-Plate-Overlay-R0.2.md), [audit JSON](Continental-Plate-Overlay-Audit-R0.2.json). R0.1 dipertahankan sebagai baseline registrasi identitas.
+
+**Batas:** metrik ini kartografis, bukan hukum tektonik; raster bukan clipping sferis eksak. Tidak ada perubahan CANON.
