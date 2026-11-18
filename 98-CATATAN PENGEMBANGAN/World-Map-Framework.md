@@ -2236,3 +2236,12 @@ File ini memuat 14 simpul, 21 sisi, sembilan siklus muka, target dan hasil luas,
 - Untuk menghasilkan geometri yang dapat direproduksi penuh, dibutuhkan koordinat planar asli atau konstruksi ulang yang didokumentasikan dan diaudit ulang dari awal.
 
 **Keputusan kerja:** V1.0 tetap dipertahankan sebagai baseline terdokumentasi. Data referensi terstruktur dapat dipakai untuk pemeriksaan topologi dan orientasi awal, tetapi pembuatan peta produksi yang mengklaim presisi luas V1.0 harus menunggu sumber planar asli atau rekonstruksi numerik baru yang tervalidasi. Status seluruh materi tetap NON-CANON.
+
+
+### 7.39 Pratinjau locator koordinat V1.0
+
+**Status: CATATAN PENGEMBANGAN / NON-CANON.** Berkas `World-Plate-V1.0-coordinate-locator.svg` dibuat sebagai alat bantu visual untuk membaca sebaran 14 triple junction dari koordinat matematis yang dipublikasikan pada 7.25.
+
+Pratinjau menggunakan proyeksi equirectangular untuk menempatkan simpul. Garis penghubung digambar sebagai panduan busur geodesik terpendek agar hubungan antarsimpul mudah dibaca. Garis tersebut **bukan** kurva batas asli V1.0, sebab geometri V1.0 menggunakan hasil proyeksi stereografis dari segmen planar. Karena koordinat yang tersedia dibulatkan, pratinjau juga bukan rekonstruksi numerik presisi.
+
+Pratinjau ini hanya untuk inspeksi lokasi simpul dan konektivitas kasar. Jangan gunakan untuk mengukur luas, menetapkan batas lempeng final, menentukan posisi benua, atau mengklaim validasi geodesik. Statusnya NON-CANON.
