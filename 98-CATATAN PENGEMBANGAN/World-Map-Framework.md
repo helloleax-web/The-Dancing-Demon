@@ -1997,6 +1997,31 @@ Temuan ini memperjelas bahwa target luas tidak boleh dikejar dengan optimasi beb
 
 **Kesimpulan:** target luas dapat dicocokkan oleh solver bebas, tetapi solusi itu bukan embedding Tutte yang sah karena batas luarnya tidak cembung. Belum ada kandidat baru yang lolos audit. Optimasi berikutnya harus menjadikan kecembungan sebagai kendala eksplisit, bukan sekadar penalti.
 
+### 7.34 Koreksi definisi muka komplemen dan uji batas cembung terikat
+
+**Status: CATATAN PENGEMBANGAN / NON-CANON.** Audit ulang menemukan satu detail penting dalam perhitungan: Central adalah muka luar pada embedding planar, sehingga luasnya pada bola harus dihitung sebagai komplemen jumlah delapan muka terbatas, bukan dengan memperlakukan siklus Central sebagai muka terbatas biasa. Perhitungan optimasi sebelumnya yang tidak menerapkan definisi komplemen ini tidak boleh dijadikan dasar keputusan.
+
+#### 7.34.1 Hasil dengan definisi luas yang benar
+
+Dengan luas Central dihitung sebagai komplemen jumlah delapan muka lain, solver berhasil menemukan kecocokan numerik hampir sempurna terhadap sembilan target. Akan tetapi, koordinat batas luar yang dihasilkan sangat ekstrem: simpul-simpul tersebar pada rentang koordinat yang besar, beberapa sisi menjadi sangat pendek dibanding sisi lain, dan satu nilai belokan cembung mendekati batas degenerasi. Ini bukan bentuk yang layak dipakai sebagai geometri dunia.
+
+#### 7.34.2 Uji regularitas
+
+Eksperimen lanjutan menormalkan centroid dan skala, membatasi radius simpul, serta mewajibkan belokan cembung positif dengan margin minimum. Dari inisialisasi reguler yang diuji, solver tidak menemukan solusi yang sekaligus memenuhi target luas dan batas regularitas tersebut.
+
+Hasil ini **bukan bukti matematis bahwa solusi teratur mustahil**. Ini hanya menunjukkan bahwa parameterisasi dan pencarian numerik saat ini belum menemukannya.
+
+#### 7.34.3 Koreksi catatan dan keputusan
+
+- Luas Central wajib diperlakukan sebagai komplemen muka luar dalam seluruh kalkulasi berikutnya.
+- Klaim optimasi luas dari eksperimen terdahulu harus dibaca dengan koreksi ini.
+- Solusi yang mencocokkan luas tetapi memiliki skala koordinat ekstrem atau batas mendekati degenerasi ditolak.
+- Solusi dengan penalti regularitas yang gagal konvergen juga ditolak.
+- Baseline Tutte pada bagian 7.32 tetap menjadi satu-satunya kandidat bebas persilangan yang tersimpan, tetapi belum memenuhi target luas.
+- Langkah berikutnya adalah mengganti parameterisasi: gunakan koordinat batas pada lingkaran/kurva cembung dengan urutan sudut terjaga, lalu optimalkan parameter yang lebih stabil. Jika perlu, lakukan pencarian global multi-start dan dokumentasikan batas ketercapaian, bukan memaksakan satu hasil.
+
+**Kesimpulan:** target luas dapat dicocokkan secara numerik hanya dengan bentuk yang terlalu ekstrem pada eksperimen ini. Belum ada geometri baru yang lolos sekaligus syarat luas, kecembungan, dan regularitas. Koreksi definisi Central sebagai komplemen kini menjadi aturan wajib.
+
 ## 8. Proposal geografi lama yang belum diputuskan
 
 Dokumen [Geography](Geography.md) sebelumnya mencatat enam nama benua sebagai konsep kerja:
