@@ -928,3 +928,12 @@ Aturan aktif memperlakukan benua dan lempeng sebagai dua sistem yang saling beri
 Rincian prinsip, batas inferensi, dan urutan kerja ada di [Plate–Continent Relationship Framework V0.1](Plate-Continent-Relationship-Framework-V0.1.md) dan [data JSON](Plate-Continent-Relationship-Framework-V0.1.json).
 
 **Status teknis setelah revisi:** geometri lempeng V1.0-R tetap valid secara matematis; siluet benua V0.6 tetap valid terhadap target luasnya. Overlay geografis bersama belum dibuat. Tidak ada perubahan CANON.
+
+
+## 11. Overlay benua–lempeng R0.1
+
+Dibuat registrasi identitas R0.1 untuk memproyeksikan V1.0-R dan V0.6 ke satu bingkai bujur–lintang. Ini konvensi koordinat ilustratif, bukan orientasi geografis final. Matriks irisan dihitung memakai raster luas sama 1° bujur × 0,005 sin(latitude), sehingga hasilnya estimasi dan belum menggantikan clipping poligon sferis eksak.
+
+Artefak: [peta overlay R0.1](World-Atlas-Continental-Plate-Overlay-R0.1.svg), [laporan audit](Continental-Plate-Overlay-R0.1.md), [data JSON](Continental-Plate-Overlay-Audit-R0.1.json).
+
+**Status:** overlay dan matriks awal selesai; pemilihan orientasi final, presisi poligon sferis, klasifikasi kerak, serta geodinamika belum selesai. Semua NON-CANON.
