@@ -21,6 +21,7 @@ Paket ini berisi dokumen selain `00-CORE`, sehingga tidak mengulang 10 dokumen i
 ## Jalur baca
 1. Mulai dari [README repository](README.md) untuk gambaran struktur.
 2. Gunakan [indeks dokumentasi inti](00-CORE/00-README.md) untuk topik dan sumber detail.
+3. Gunakan [Glosarium dan Panduan Istilah](00-CORE/10-Glosarium-dan-Panduan-Istilah.md) untuk menjaga istilah dan kapitalisasi tetap konsisten.
 3. Baca dokumen `01-CANON/` yang ditautkan dari indeks sesuai topik.
 4. Gunakan [Worldbuilding Coverage Matrix](98-CATATAN%20PENGEMBANGAN/Worldbuilding-Coverage-Matrix.md) untuk melihat cakupan, kekosongan, dan urutan pengembangan yang direkomendasikan.
 5. Perlakukan `98-CATATAN PENGEMBANGAN/` sebagai materi pengembangan yang belum otomatis menjadi CANON.
