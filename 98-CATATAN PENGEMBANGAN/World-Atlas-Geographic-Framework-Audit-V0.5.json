@@ -1,0 +1,207 @@
+{
+  "version": "V0.5",
+  "status": "NON-CANON / CATATAN PENGEMBANGAN",
+  "source": "V0.4 coastlines retained. Sunken Sands translated 90 SVG units north and Ashen Frontier 50 SVG units north; no polygon shape was altered. V0.1-V0.4 remain unchanged.",
+  "coordinate_framework": {
+    "orientation": "North is up; east is right.",
+    "latitude_range_deg": [
+      90,
+      -90
+    ],
+    "longitude_range_deg": [
+      -180,
+      180
+    ],
+    "equator_y_svg": 485,
+    "prime_meridian_x_svg": 900,
+    "longitude_seam": "Map frame edges represent ±180°.",
+    "grid_interval_deg": 30,
+    "coordinate_assignment": "Provisional linear mapping from SVG frame to labelled latitude and longitude values.",
+    "projection_status": "No cartographic projection has been selected or validated. The frame is a coordinate scaffold, not a production projection or metrically accurate equirectangular map.",
+    "axial_tilt_and_seasons": "Undecided; no tropics, polar circles, seasons or climate zones are assigned."
+  },
+  "adjustments": [
+    {
+      "continent": "The Sunken Sands",
+      "translation_svg_units": {
+        "x": 0,
+        "y": -90
+      },
+      "reason": "Moved north from a near-south-polar placement while remaining southeast of Central Reach."
+    },
+    {
+      "continent": "The Ashen Frontier",
+      "translation_svg_units": {
+        "x": 0,
+        "y": -50
+      },
+      "reason": "Moved away from near-polar placement while remaining a southern mid-latitude candidate."
+    }
+  ],
+  "continents": {
+    "The Frostbound Expanse": {
+      "vertex_count": 30,
+      "bounds_svg": [
+        734.86,
+        150.97,
+        1069.32,
+        320.29
+      ],
+      "approximate_latitude_range_deg": [
+        40.61,
+        82.36
+      ],
+      "approximate_longitude_range_deg": [
+        -37.16,
+        38.1
+      ],
+      "all_vertices_inside_frame": true
+    },
+    "The Verdant Wilds": {
+      "vertex_count": 31,
+      "bounds_svg": [
+        351.12,
+        381.5,
+        631.91,
+        657.04
+      ],
+      "approximate_latitude_range_deg": [
+        -42.42,
+        25.52
+      ],
+      "approximate_longitude_range_deg": [
+        -123.5,
+        -60.32
+      ],
+      "all_vertices_inside_frame": true
+    },
+    "The Central Reach": {
+      "vertex_count": 37,
+      "bounds_svg": [
+        751.67,
+        348.55,
+        1234.87,
+        536.92
+      ],
+      "approximate_latitude_range_deg": [
+        -12.8,
+        33.65
+      ],
+      "approximate_longitude_range_deg": [
+        -33.37,
+        75.35
+      ],
+      "all_vertices_inside_frame": true
+    },
+    "The Sunken Sands": {
+      "vertex_count": 25,
+      "bounds_svg": [
+        1005.53,
+        551.24,
+        1282.53,
+        753.29
+      ],
+      "approximate_latitude_range_deg": [
+        -66.15,
+        -16.33
+      ],
+      "approximate_longitude_range_deg": [
+        23.74,
+        86.07
+      ],
+      "all_vertices_inside_frame": true
+    },
+    "The Ashen Frontier": {
+      "vertex_count": 27,
+      "bounds_svg": [
+        721.99,
+        583.71,
+        942.43,
+        747.37
+      ],
+      "approximate_latitude_range_deg": [
+        -64.69,
+        -24.34
+      ],
+      "approximate_longitude_range_deg": [
+        -40.05,
+        9.55
+      ],
+      "all_vertices_inside_frame": true
+    },
+    "The Veiled Continent": {
+      "vertex_count": 34,
+      "bounds_svg": [
+        1315.97,
+        511.39,
+        1699.35,
+        735.36
+      ],
+      "approximate_latitude_range_deg": [
+        -61.73,
+        -6.51
+      ],
+      "approximate_longitude_range_deg": [
+        93.59,
+        179.85
+      ],
+      "all_vertices_inside_frame": true
+    }
+  },
+  "area_audit": {
+    "measurement": "Shoelace planar area in SVG coordinates.",
+    "shares": {
+      "Frostbound Expanse": {
+        "target_land_share_percent": 15,
+        "measured_canvas_share_percent": 15.000013,
+        "absolute_deviation_percentage_points": 0.000013
+      },
+      "Verdant Wilds": {
+        "target_land_share_percent": 18,
+        "measured_canvas_share_percent": 18.000064,
+        "absolute_deviation_percentage_points": 0.000064
+      },
+      "The Central Reach": {
+        "target_land_share_percent": 24,
+        "measured_canvas_share_percent": 23.999861,
+        "absolute_deviation_percentage_points": 0.000139
+      },
+      "The Sunken Sands": {
+        "target_land_share_percent": 13,
+        "measured_canvas_share_percent": 13.000027,
+        "absolute_deviation_percentage_points": 0.000027
+      },
+      "The Ashen Frontier": {
+        "target_land_share_percent": 9,
+        "measured_canvas_share_percent": 8.999998,
+        "absolute_deviation_percentage_points": 0.000002
+      },
+      "The Veiled Continent": {
+        "target_land_share_percent": 21,
+        "measured_canvas_share_percent": 21.000037,
+        "absolute_deviation_percentage_points": 0.000037
+      }
+    },
+    "max_absolute_share_deviation_percentage_points": 0.000684,
+    "note": "Rigid translations preserve polygon areas; V0.4 canvas-area shares remain unchanged."
+  },
+  "checks": {
+    "polygon_count": 6,
+    "all_vertices_inside_frame": true,
+    "post_translation_bounding_boxes_pairwise_disjoint": true,
+    "overlap_basis": "V0.4 passed polygon-level overlap checks. After the two rigid translations, axis-aligned bounding boxes remain pairwise disjoint, which rules out new polygon overlap.",
+    "area_preserved_by_translation": true,
+    "geographic_validation": false,
+    "geodesic_area_validation": false,
+    "plate_containment_validation": false
+  },
+  "limitations": [
+    "Latitude/longitude ranges are approximate conversions of SVG bounding boxes, not surveyed coastline coordinates.",
+    "No geodesic area, distance, direction or navigation measurement is established.",
+    "No cartographic projection has been selected or validated.",
+    "Planet size, axial tilt, rotation period, orbital parameters, seasons, tropics and polar circles remain undecided.",
+    "No climate, current, wind, biome or tectonic boundary is derived from this scaffold.",
+    "Plate boundaries are not coastlines; no plate-containment test is performed.",
+    "All continent placements and geographic adjustments remain NON-CANON."
+  ]
+}
