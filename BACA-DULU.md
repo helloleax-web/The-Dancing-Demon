@@ -17,6 +17,7 @@ Paket ini berisi dokumen selain `00-CORE`, sehingga tidak mengulang 10 dokumen i
 - [Location & Organization Dossier — Draft 0.1](98-CATATAN%20PENGEMBANGAN/Location-Organization-Development-Dossier-Draft-0.1.md) — proposal lokasi dan organisasi.
 - [Eight-Book Series Architecture — Draft 0.1](98-CATATAN%20PENGEMBANGAN/Eight-Book-Series-Architecture-Draft-0.1.md) — arsitektur pengembangan delapan buku.
 - [Mystery & Foreshadowing Ledger — Draft 0.1](98-CATATAN%20PENGEMBANGAN/Mystery-and-Foreshadowing-Ledger-Draft-0.1.md) — pengelolaan misteri dan petunjuk.
+- [Plate Geometry V1.0-R — Validation Report](98-CATATAN%20PENGEMBANGAN/World-Plate-Geometry-V1.0-R-Validation.md) — baseline geometri lempeng matematis yang dapat direproduksi; NON-CANON.
 - `README.md` — panduan repository.
 
 ## Jalur baca
