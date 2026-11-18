@@ -207,3 +207,14 @@ Matriks irisan benua–lempeng R0.2 ditingkatkan dari raster menjadi clipping po
 - Batas: hasil analitik untuk poliline tersampel, bukan clipping kurva kontinu tak tersampel; geologi dan geodinamika tetap belum divalidasi.
 
 Tidak ada perubahan CANON.
+
+
+## Verifikasi final setelah clipping poligon — 2026-11-18
+
+- Repository: 84 berkas.
+- Sebelas dokumen terkait atlas, audit R0.2, dan indeks dibaca ulang dari branch `main`.
+- Sebanyak 279 tautan relatif berkas/folder diperiksa; tidak ditemukan tautan rusak.
+- JSON audit R0.2 valid; SVG overlay memuat enam poligon benua, 26 polyline batas hasil pemisahan seam, dan 14 simpul plus satu penanda legenda.
+- Audit clipping: total luas benua 29,999996%; total luas sembilan muka 100%; rata-rata dominasi muka 87,25%; matriks rotasi ortogonal hingga deviasi numerik 1,11 × 10⁻¹⁶.
+- Hasil clipping berlaku untuk poliline tersampel; validasi geologi dan geodinamika belum dilakukan.
+- Tidak ada perubahan CANON.
