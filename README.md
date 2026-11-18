@@ -25,6 +25,7 @@ Dokumen ini adalah pusat dokumentasi dunia LEAX. Isinya memisahkan fakta yang su
 - [`99-ADMIN/`](99-ADMIN/) — changelog dan pertanyaan terbuka.
 - [BACA-DULU.md](BACA-DULU.md) — panduan paket dokumen dan jalur baca.
 - [Canon Audit Report — 2026-11-18](99-ADMIN/Canon-Audit-Report-2026-11-18.md) — audit administratif konsistensi dan kontinuitas; tidak mengubah canon.
+- [Editorial and Repository Maintenance Policy](99-ADMIN/Editorial-Maintenance-Policy.md) — mandat editorial, status materi, hierarki sumber, dan standar pemeliharaan.
 
 ### Catatan
 Dokumen ini merupakan konsolidasi berdasarkan informasi yang tersedia dalam percakapan worldbuilding. Bagian yang belum memiliki dasar canon secara eksplisit ditandai sebagai catatan pengembangan atau unknown.
