@@ -312,3 +312,8 @@ Paket atlas ini menjadi acuan tunggal untuk menyelesaikan:
 Data simpul, sisi, siklus muka, dan tabel luas V1.0 yang berhasil dipulihkan dari dokumentasi historis tersedia di `World-Plate-Geometry-V1.0-reference.json`. Ini adalah transkripsi terstruktur dari data yang dipublikasikan, bukan file koordinat planar asli. Koordinat simpulnya dibulatkan dua desimal; karena itu file tersebut tidak dapat dipakai untuk mengklaim reproduksi independen atas presisi luas V1.0.
 
 Audit pemulihan dicatat di bagian 7.38 `World-Map-Framework.md`. Sampai koordinat planar asli ditemukan atau rekonstruksi numerik baru selesai divalidasi, atlas ini tetap berupa draft konseptual NON-CANON dan belum menjadi peta globe produksi.
+
+
+## Pratinjau koordinat triple junction
+
+Pratinjau locator visual untuk 14 simpul V1.0 tersedia di [World-Plate-V1.0-coordinate-locator.svg](World-Plate-V1.0-coordinate-locator.svg). Garis pada pratinjau adalah panduan geodesik terpendek untuk membantu membaca hubungan antarsimpul; garis tersebut bukan batas asli V1.0. Gunakan hanya sebagai locator NON-CANON, bukan peta lempeng final.
