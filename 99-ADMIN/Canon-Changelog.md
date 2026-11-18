@@ -64,3 +64,12 @@ Dokumen konsolidasi ini dibuat berdasarkan lore yang telah ditetapkan dalam perc
 - Keputusan: Geography.md kini secara eksplisit membedakan inventaris proposal lama dari draft enam benua aktif. Mana-and-Power-System.md menyelaraskan istilah Recovery dengan parameter CANON Pemulihan dan menjelaskan bahwa Mana Control dalam proposal bukan komponen fisik tambahan. Story-Framework.md ditautkan ke premis dan rencana delapan buku yang telah ada. Species-and-Creatures.md menegaskan bahwa entitas kosmik Abstract Existence tidak otomatis termasuk klasifikasi organisme atau monster.
 - Dokumen yang diperbarui: `98-CATATAN PENGEMBANGAN/Geography.md`, `Mana-and-Power-System.md`, `Story-Framework.md`, dan `Species-and-Creatures.md`.
 - Apakah ini retcon?: Tidak. Sinkronisasi istilah dan batas proposal; tidak mengubah CANON.
+
+
+## Catatan arsitektur seri 2026-11-18
+
+- Tanggal: 2026-11-18
+- Topik: Pengembangan fungsi dramatik dan kesinambungan delapan buku.
+- Keputusan: Menambahkan Eight-Book Series Architecture Draft 0.1 untuk menguraikan skala konflik, fungsi tiap buku, arc karakter lintas seri, pengelolaan misteri, dan aturan kontinuitas. Dokumen menggunakan urutan serta premis delapan buku yang sudah tercatat dan tidak menetapkan isi baru sebagai CANON. README, indeks inti, panduan baca, Story Framework, dan Coverage Matrix diperbarui agar draft mudah ditemukan.
+- Dokumen yang diperbarui: `README.md`, `BACA-DULU.md`, `00-CORE/00-README.md`, `98-CATATAN PENGEMBANGAN/Story-Framework.md`, `98-CATATAN PENGEMBANGAN/Worldbuilding-Coverage-Matrix.md`, dan dokumen baru `98-CATATAN PENGEMBANGAN/Eight-Book-Series-Architecture-Draft-0.1.md`.
+- Apakah ini retcon?: Tidak. Materi baru berstatus CATATAN PENGEMBANGAN.
