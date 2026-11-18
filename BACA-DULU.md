@@ -22,10 +22,10 @@ Paket ini berisi dokumen selain `00-CORE`, sehingga tidak mengulang 10 dokumen i
 1. Mulai dari [README repository](README.md) untuk gambaran struktur.
 2. Gunakan [indeks dokumentasi inti](00-CORE/00-README.md) untuk topik dan sumber detail.
 3. Gunakan [Glosarium dan Panduan Istilah](00-CORE/10-Glosarium-dan-Panduan-Istilah.md) untuk menjaga istilah dan kapitalisasi tetap konsisten.
-3. Baca dokumen `01-CANON/` yang ditautkan dari indeks sesuai topik.
-4. Gunakan [Worldbuilding Coverage Matrix](98-CATATAN%20PENGEMBANGAN/Worldbuilding-Coverage-Matrix.md) untuk melihat cakupan, kekosongan, dan urutan pengembangan yang direkomendasikan.
-5. Perlakukan `98-CATATAN PENGEMBANGAN/` sebagai materi pengembangan yang belum otomatis menjadi CANON.
-6. Gunakan kebijakan editorial untuk memahami cara perubahan, usulan, dan keputusan dicatat.
+4. Baca dokumen `01-CANON/` yang ditautkan dari indeks sesuai topik.
+5. Gunakan [Worldbuilding Coverage Matrix](98-CATATAN%20PENGEMBANGAN/Worldbuilding-Coverage-Matrix.md) untuk melihat cakupan, kekosongan, dan urutan pengembangan yang direkomendasikan.
+6. Perlakukan `98-CATATAN PENGEMBANGAN/` sebagai materi pengembangan yang belum otomatis menjadi CANON.
+7. Gunakan kebijakan editorial untuk memahami cara perubahan, usulan, dan keputusan dicatat.
 
 ## Catatan
 Dokumen dipertahankan berdasarkan arsip ZIP sebelumnya. Tidak ada materi yang dipromosikan menjadi kanon hanya karena dipindahkan atau diganti nama foldernya. Paket ini tidak memuat ulang `00-CORE/`. Nama folder pada daftar di atas mengikuti path yang tersedia di repository.
