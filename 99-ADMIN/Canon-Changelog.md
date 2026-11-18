@@ -271,3 +271,13 @@ Dokumen konsolidasi ini dibuat berdasarkan lore yang telah ditetapkan dalam perc
 - Perubahan: klasifikasi dipisahkan menurut ontologi, biologi, kondisi, habitat, dan fungsi ekologis; daftar ras dan makhluk legendaris tetap kandidat; kategori monster diperlakukan sebagai label lapangan; hubungan mana-organisme diberi batas; skala ancaman E–EX dijelaskan sebagai risiko operasional, bukan kekuatan absolut; ditambahkan format bestiary dan prioritas pengembangan.
 - Dampak CANON: tidak ada. Tidak ada spesies, ras, makhluk, atau sistem peringkat yang disahkan.
 - Dokumen terkait: `98-CATATAN PENGEMBANGAN/Species-and-Creatures.md`, `98-CATATAN PENGEMBANGAN/Worldbuilding-Coverage-Matrix.md`, `00-CORE/00-README.md`, `99-ADMIN/Repository-Maintenance-Report-2026-11-18.md`.
+
+
+## Pengembangan kerangka peradaban dan masyarakat — 2026-11-18
+
+- Tanggal: 2026-11-18
+- Topik: Pengembangan dokumen Civilizations, Politics, Economy, and Culture menjadi Draft 0.2.
+- Perubahan: ditambahkan kerangka desain pemerintahan dan legitimasi, perbedaan negara/wilayah budaya/kekuasaan de facto, politik internasional, batas kewenangan International Authority, sengketa peninggalan, rantai pasok, ekonomi peninggalan, mata uang dan biaya hidup, kelas sosial, bahasa, budaya, agama, pendidikan, militer, profesi, serta template masyarakat.
+- Batas: tidak ada negara, mata uang, bahasa, agama, organisasi, atau sistem pemerintahan baru yang disahkan sebagai CANON.
+- Dampak CANON: tidak ada.
+- Dokumen terkait: `98-CATATAN PENGEMBANGAN/Civilizations-Politics-Economy-Culture.md`, `98-CATATAN PENGEMBANGAN/Worldbuilding-Coverage-Matrix.md`, `00-CORE/00-README.md`, `99-ADMIN/Repository-Maintenance-Report-2026-11-18.md`.
