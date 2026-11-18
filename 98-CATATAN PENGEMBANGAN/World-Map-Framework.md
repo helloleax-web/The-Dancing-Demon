@@ -2360,3 +2360,13 @@ Audit hasil render:
 - Uji containment terhadap lempeng belum dilakukan.
 
 **Status:** V0.6 adalah kandidat luas sferis NON-CANON dan menjadi geometri kerja untuk uji containment berikutnya. Jangan menganggapnya peta final atau menurunkan geologi/iklim/hidrologi sebelum validasi lempeng.
+
+### 7.46 Status containment setelah V0.6
+
+Siluet V0.6 memenuhi target luas sferis sekitar 30% permukaan bola, tetapi **belum memenuhi uji containment lempeng**. Pencarian 40.000 rotasi global bersama tidak menemukan satu orientasi yang menempatkan keenam benua di muka lempeng pembawanya. Pada hasil sampel terbaik, hanya Sunken Sands yang sepenuhnya lolos pemeriksaan titik sampel.
+
+Lihat [Plate Containment Orientation Search V0.1](Plate-Containment-Orientation-Search-V0.1.md) dan [data JSON](Plate-Containment-Orientation-Search-V0.1.json).
+
+Hasil ini bukan bukti matematis bahwa tidak ada orientasi yang mungkin; ini adalah kegagalan pencarian eksploratif yang cukup untuk menahan klaim containment. Luas benua lebih kecil dari luas lempeng masing-masing, sehingga ketidakcocokan awal tampaknya berada pada bentuk/posisi relatif, bukan total anggaran luas.
+
+Langkah berikutnya: uji penempatan ulang benua di dalam muka lempeng atau revisi geometri/penetapan muka lempeng, lalu jalankan pemeriksaan poligon sferis penuh. Jangan mengunci relief, sungai, iklim, atau bioma sebelum tahap ini diselesaikan. NON-CANON.
