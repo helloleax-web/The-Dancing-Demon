@@ -1859,6 +1859,49 @@ Hasil ini **tidak layak dipakai sebagai distribusi lempeng**. Muka Central menga
 
 **Kesimpulan kerja:** V1.1 prototipe berhasil mempertahankan topologi 9 muka, 14 simpul, dan 21 segmen pada bola, tetapi gagal total pada distribusi luas. Ini adalah kemajuan teknis yang terbatas dan terukur, bukan penyelesaian peta lempeng. Optimasi luas tetap menjadi pekerjaan aktif berikutnya.
 
+### 7.30 Keputusan kerja terdelegasi — arah pengembangan peta
+
+**Status: KEPUTUSAN KERJA AKTIF / NON-CANON.** Kreator telah mendelegasikan penentuan pilihan teknis dan rancangan tahap pengembangan peta kepada asisten, dengan kreator berperan sebagai pengamat. Karena itu, pekerjaan tidak perlu berhenti untuk meminta persetujuan pada setiap pilihan antara yang dapat dibalik. Asisten bertanggung jawab memilih default yang konsisten, menguji hasilnya, mencatat alasan, dan memperbaiki keputusan yang gagal.
+
+Pendelegasian ini memberi kewenangan untuk menetapkan **baseline pengembangan**, bukan kewenangan untuk diam-diam mengubah dokumen CANON. Promosi menjadi CANON tetap memerlukan keputusan eksplisit pada tahap pengesahan hasil akhir.
+
+#### 7.30.1 Keputusan baseline yang ditetapkan
+
+| Aspek | Keputusan kerja | Alasan |
+|---|---|---|
+| Jalur geometri | Lanjutkan V1.1; V1.0 dipertahankan sebagai arsip | Sumber presisi V1.0 tidak ditemukan dan tidak boleh direkayasa ulang |
+| Topologi | Pertahankan 9 lempeng, 14 simpul, 21 segmen, dan 9 siklus muka | Kerangka ini lolos uji kombinatorial dan planaritas |
+| Target luas lempeng | Pertahankan target 18/12/10/8/7/11/14/11/9 persen | Target lama tetap menjadi sasaran optimasi, bukan disesuaikan agar cocok dengan layout yang buruk |
+| Total luas daratan | Gunakan 30% permukaan planet sebagai baseline | Memberi anggaran kerja yang cukup untuk enam benua dan ruang samudra; tetap dapat direvisi bila bertentangan dengan hasil geometri |
+| Distribusi enam benua | Pertahankan 24/21/18/15/13/9 dari total daratan | Mempertahankan hierarki ukuran yang sudah dirancang |
+| Lempeng pembawa | Satu benua utama pada masing-masing Central, Veiled, Verdant, Frost, Sands, dan Ashen | Memudahkan containment dan kesinambungan geografis |
+| Komposisi makro | Tiga benua kelompok utama dan tiga daratan terpencil | Menyediakan pusat interaksi serta wilayah terisolasi dengan fungsi berbeda |
+| Definisi batas geometri | Pertahankan batas sebagai kurva hasil inverse stereographic projection dari segmen planar selama optimasi V1.1 | Konsisten dengan pendekatan prototipe yang sudah dibangun; jangan berganti ke busur geodesik di tengah proses |
+| Orientasi geografis | Belum dikunci sampai geometri dan siluet stabil; setelah itu globe diputar untuk memenuhi susunan makro 7.27 | Rotasi tidak mengubah topologi atau luas dan lebih aman dilakukan setelah bentuk stabil |
+
+#### 7.30.2 Urutan eksekusi yang ditetapkan
+
+1. Optimalkan koordinat 14 simpul V1.1 agar luas sembilan muka mendekati target, dengan topologi, siklus muka, dan planaritas tetap.
+2. Uji ulang bahwa sisi tidak berpotongan, semua muka tertutup, seluruh permukaan bola terpartisi, dan jumlah luas tepat 100%.
+3. Simpan koordinat presisi, metode, parameter optimasi, toleransi, dan hasil audit ke berkas data terpisah.
+4. Jika optimasi tidak konvergen, lakukan beberapa inisialisasi dan laporkan solusi terbaik; jangan menyatakan target tercapai bila deviasi masih besar.
+5. Setelah distribusi luas lolos toleransi, rancang enam siluet benua di dalam lempeng pembawanya.
+6. Uji containment, margin pesisir-ke-batas-lempeng, luas aktual, dan jarak laut.
+7. Putar orientasi globe untuk menyelaraskan komposisi kelompok utama dan tiga daratan terpencil.
+8. Audit iklim, arus laut, relief, dan geologi terhadap hasil geometri.
+9. Siapkan satu paket peta V1.1 yang utuh untuk ditinjau kreator sebelum pengesahan CANON.
+
+#### 7.30.3 Aturan pengambilan keputusan selama proses
+
+- Pilih solusi yang paling konsisten dengan batasan yang sudah ada, bukan solusi yang sekadar tampak menarik pada satu gambar.
+- Jika dua solusi sama-sama memenuhi syarat, pilih yang lebih sederhana, mudah direproduksi, dan menyisakan ruang revisi.
+- Jangan mengubah target luas, nama, topologi, atau relasi benua hanya untuk menyembunyikan kegagalan optimasi.
+- Setiap perubahan baseline harus disertai alasan dan catatan versi.
+- Kreator tidak perlu diminta memilih detail teknis rutin; tampilkan hasil, konsekuensi, dan keputusan yang sudah diambil.
+- Jika suatu keputusan akan mengubah fakta cerita, sejarah, atau dokumen CANON yang telah ada, tahan perubahan tersebut dan laporkan sebagai konflik untuk pengesahan.
+
+**Keputusan aktif:** gunakan baseline di atas dan lanjutkan optimasi V1.1 tanpa menunggu persetujuan antara. Kreator berperan sebagai pengamat dan penilai hasil akhir; semua keputusan teknis sementara harus tetap transparan, dapat diaudit, dan dapat dibalik.
+
 ## 8. Proposal geografi lama yang belum diputuskan
 
 Dokumen [Geography](Geography.md) sebelumnya mencatat enam nama benua sebagai konsep kerja:
