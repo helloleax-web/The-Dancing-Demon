@@ -85,3 +85,15 @@ Audit raster luas sama 576.000 sel menghasilkan total daratan 29,99896% dan juml
 - Relief, bathimetri, iklim, arus, dan hidrologi belum divalidasi.
 
 **Dampak CANON: tidak ada.**
+
+## 7. Uji konvergensi raster independen — 2026-11-19
+
+Matriks clipping R0.2 diperiksa silang dengan klasifikasi titik langsung pada grid luas-sama. Grid diperhalus dari 0,5° × 0,0025 sin(latitude) (576.000 sel) menjadi 0,25° × 0,00125 (2.304.000 sel), lalu 0,125° × 0,000625 (9.216.000 sel). Metode ini tidak memakai triangulasi atau clipping poligon: titik geografis diputar balik ke bidang stereografis lokal untuk klasifikasi muka lempeng, sementara benua diuji pada koordinat SVG.
+
+- Rata-rata dominasi muka: 87,24988% pada 0,5°; 87,25730% pada 0,25°; 87,25443% pada 0,125°.
+- Selisih maksimum satu sel matriks turun dari 0,06595 poin persentase (0,5° → 0,25°) menjadi 0,01317 poin (0,25° → 0,125°).
+- Perubahan rata-rata dominasi turun dari 0,00742 menjadi 0,00286 poin persentase.
+
+**Keputusan:** clipping poligon sferis tersampel tetap menjadi matriks utama. Grid 0,125° disimpan sebagai pemeriksaan silang independen; tidak ada perubahan rotasi, geometri, atau matriks utama. Detail dan data per resolusi: [laporan konvergensi](Continental-Plate-Overlay-Convergence-R0.2.md) dan [audit JSON](Continental-Plate-Overlay-Convergence-Audit-R0.2.json).
+
+**Batas:** uji ini mengukur kestabilan numerik terhadap resolusi grid, bukan validasi geologi/geodinamika. Seluruh hasil tetap NON-CANON.
