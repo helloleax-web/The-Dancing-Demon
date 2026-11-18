@@ -169,6 +169,31 @@
 
 **Batas:** jangan menetapkan arti judul atau jawaban akhir misteri dalam draft ini. Bagian tersebut memerlukan keputusan kreatif tersendiri.
 
+## 3.1 Jembatan sebab-akibat antarbuku
+
+Tiap buku harus memiliki resolusi lokal yang memuaskan sekaligus meninggalkan konsekuensi yang secara alami membawa kelompok ke buku berikutnya. Hubungan ini tidak boleh hanya berupa cliffhanger atau petunjuk misterius yang muncul tanpa sebab.
+
+| Transisi | Yang dibawa dari buku sebelumnya | Yang harus mendapat payoff di buku berikutnya | Yang tetap boleh terbuka |
+|---|---|---|---|
+| I → II | Salinan catatan sebagian, sengketa fasilitas yang belum final, dan kepercayaan kelompok yang berubah setelah rahasia Kael | Perjalanan baru harus memberi kebutuhan praktis dan konflik lokal; kelompok mulai menghadapi perbedaan aturan serta pengetahuan antarmasyarakat | Identitas kontak Kael, arti penuh arsip di bawah jalan, dan tujuan akhir catatan |
+| II → III | Pengalaman lintas wilayah, hubungan sosial baru, dan bukti bahwa pengetahuan peta tidak seragam | Pola fasilitas yang berulang harus muncul dari bukti yang dapat dibandingkan, bukan kebetulan | Apakah semua fasilitas berasal dari proyek atau tujuan yang sama |
+| III → IV | Pola jaringan fasilitas dan petunjuk yang belum dapat ditafsirkan | Penemuan Prasasti pertama harus menjadi hasil investigasi yang memiliki rantai bukti; nama NVR AGAIN terungkap pada tahap ini sesuai kerangka CANON | Asal-usul musik, mekanisme Resonansi Hitam, dan isi Prasasti lain |
+| IV → V | Nama NVR AGAIN dan interpretasi awal yang saling bersaing | Kelompok menelusuri Great War melalui kesaksian, arsip, dan peninggalan yang tidak lengkap | Penyebab penuh perang, mekanisme jubah mana hitam, dan keadaan LEAX |
+| V → VI | Gambaran Great War yang lebih kaya tetapi belum utuh, termasuk celah sejarah yang tidak terjawab | Anomali dan pengaruh entitas menjadi relevan melalui kejadian yang dapat diamati dan dampak sosialnya | Hakikat, motif, kesadaran, dan batas entitas kosmik |
+| VI → VII | Pengalaman menghadapi fenomena yang tidak mudah diklasifikasikan serta teori yang saling bertentangan | Rangkaian 13 Prasasti menjadi fokus dan hubungan antarpetunjuk diuji dengan bukti | Makna akhir semua informasi dan jawaban kosmik yang memang tidak perlu dibuka |
+| VII → VIII | Pola besar dari Prasasti, keputusan karakter, dan konsekuensi hubungan lintas seri | Konflik karakter dan pertanyaan tematik utama harus memperoleh resolusi; makna judul diungkap sesuai rancangan akhir | Detail kosmologi yang tidak dibutuhkan untuk menyelesaikan pertanyaan emosional utama |
+
+### Gerbang kontinuitas
+
+Sebelum berpindah dari satu buku ke buku berikutnya, periksa:
+1. Konflik lokal buku sebelumnya benar-benar selesai atau memiliki status akhir yang jelas.
+2. Ada konsekuensi nyata yang dibawa ke buku berikutnya.
+3. Informasi baru berasal dari petunjuk atau sumber yang sudah masuk akal.
+4. Kelompok memiliki alasan praktis untuk bergerak, bukan hanya karena penulis membutuhkan lokasi baru.
+5. Skala konflik membesar tanpa membuat pekerjaan, hubungan, dan kebutuhan sehari-hari menghilang.
+6. Buku berikutnya tidak mengulang konflik lama dengan nama organisasi atau lokasi yang berbeda.
+7. Pengungkapan baru tidak menghapus fakta yang telah diketahui pembaca tanpa penjelasan.
+
 ## 4. Arc lintas seri yang diusulkan
 
 | Karakter | Arah perkembangan jangka panjang |
@@ -221,6 +246,7 @@ Jangan memakai misteri kosmik untuk menyelesaikan konflik lokal. Jangan pula mem
 - [Canon Audit Report](../99-ADMIN/Canon-Audit-Report-2026-11-18.md) — temuan kontinuitas dan batas validasi.
 
 - [Mystery & Foreshadowing Ledger — Draft 0.1](Mystery-and-Foreshadowing-Ledger-Draft-0.1.md) — pengelolaan informasi, petunjuk, dan jendela pengungkapan.
+- [Book I Heritage Dispute Framework — Draft 0.1](Book-I-Heritage-Dispute-Framework-Draft-0.1.md) — model sengketa dan kepentingan yang menjadi dasar konflik awal seri.
 
 ## 8. Cara menggunakan draft
 
