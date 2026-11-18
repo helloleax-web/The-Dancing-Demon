@@ -2,7 +2,7 @@
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON  
 **Tanggal:** 2026-11-18  
-**Hasil:** <badge>PASS</badge> — geometri planar dan target luas tervalidasi ulang
+**Hasil:** PASS — geometri planar dan target luas tervalidasi ulang
 
 ## 1. Ringkasan
 
