@@ -20,6 +20,7 @@ Paket ini berisi dokumen selain `00-CORE`, sehingga tidak mengulang 10 dokumen i
 - [Mystery & Foreshadowing Ledger — Draft 0.1](98-CATATAN%20PENGEMBANGAN/Mystery-and-Foreshadowing-Ledger-Draft-0.1.md) — pengelolaan misteri dan petunjuk.
 - [Plate Geometry V1.0-R — Validation Report](98-CATATAN%20PENGEMBANGAN/World-Plate-Geometry-V1.0-R-Validation.md) — baseline geometri lempeng matematis yang dapat direproduksi; NON-CANON.
 - [Plate–Continent Relationship Framework V0.1](98-CATATAN%20PENGEMBANGAN/Plate-Continent-Relationship-Framework-V0.1.md) — aturan aktif hubungan benua dan lempeng; NON-CANON.
+- [Continental–Plate Overlay R0.1](98-CATATAN%20PENGEMBANGAN/Continental-Plate-Overlay-R0.1.md) — overlay koordinat dan matriks irisan awal; registrasi ilustratif, NON-CANON.
 - `README.md` — panduan repository.
 
 ## Jalur baca
