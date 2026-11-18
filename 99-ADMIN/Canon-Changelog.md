@@ -330,3 +330,13 @@ Dokumen konsolidasi ini dibuat berdasarkan lore yang telah ditetapkan dalam perc
 - Batas: seluruh materi merupakan kerangka pengembangan NON-CANON dan tidak menetapkan peristiwa baru atau jawaban misteri.
 - Dampak CANON: tidak ada.
 - Dokumen terkait: `98-CATATAN PENGEMBANGAN/Eight-Book-Series-Architecture-Draft-0.1.md`, `98-CATATAN PENGEMBANGAN/Worldbuilding-Coverage-Matrix.md`, dan `99-ADMIN/Repository-Maintenance-Report-2026-11-18.md`.
+
+## Audit luas sferis siluet benua — 2026-11-18
+
+- Tanggal: 2026-11-18
+- Topik: Pengukuran luas sferis enam poligon pada World-Atlas-Continental-Silhouette-V0.5.svg.
+- Perubahan: dibuat laporan dan JSON audit yang mengubah koordinat bingkai SVG menjadi longitude/latitude lalu menghitung luas poligon pada bola. Hasil gabungan enam siluet adalah sekitar 26,44% permukaan bola, bukan asumsi kerja 30%. Porsi relatif benua juga berbeda dari target planar historis 15/18/24/13/9/21.
+- Klarifikasi: target lama tetap merupakan target proporsi pada bidang gambar, bukan luas daratan sferis yang sudah tervalidasi.
+- Batas: hasil bergantung pada interpretasi garis poligon sebagai segmen linear longitude/latitude; tidak memvalidasi geologi, containment lempeng, atau peta final.
+- Dampak CANON: tidak ada.
+- Dokumen terkait: 98-CATATAN PENGEMBANGAN/World-Atlas-Spherical-Continental-Area-Audit-V0.1.md, 98-CATATAN PENGEMBANGAN/World-Atlas-Spherical-Continental-Area-Audit-V0.1.json, 98-CATATAN PENGEMBANGAN/World-Atlas-Draft-V1.md, dan 98-CATATAN PENGEMBANGAN/World-Map-Framework.md.
