@@ -479,7 +479,7 @@ Tidak ada bidang yang diberi status **BELUM ADA** karena setiap bidang memiliki 
 
 **CATATAN PENGEMBANGAN**
 - [Book I Scene Outline — Draft 0.1](Book-I-Scene-Outline-Draft-0.1.md) mengembangkan premis Buku I menjadi rangkaian adegan dan kini mengikuti enam bagian yang tercantum dalam kerangka CANON.
-- [Eight-Book Series Architecture — Draft 0.1](Eight-Book-Series-Architecture-Draft-0.1.md) mengembangkan fungsi dramatik dan arc lintas seri.
+- [Eight-Book Series Architecture — Draft 0.1](Eight-Book-Series-Architecture-Draft-0.1.md) mengembangkan fungsi dramatik, arc lintas seri, serta jembatan sebab-akibat dan gerbang kontinuitas antarbuku.
 - [Mystery & Foreshadowing Ledger — Draft 0.1](Mystery-and-Foreshadowing-Ledger-Draft-0.1.md) mengelola informasi, petunjuk, dan jendela pengungkapan.
 - Semua materi tersebut tetap CATATAN PENGEMBANGAN / NON-CANON.
 
