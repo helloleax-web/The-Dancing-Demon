@@ -230,7 +230,7 @@ Tidak ada bidang yang diberi status **BELUM ADA** karena setiap bidang memiliki 
 **CATATAN PENGEMBANGAN**
 - Kerangka klasifikasi kini memisahkan kategori ontologis, biologis, kondisi makhluk, habitat, dan fungsi ekologis. Kandidat ras humanoid, makhluk legendaris, kategori monster, hubungan mana-organisme, serta peringkat ancaman E sampai EX tetap proposal NON-CANON.
 
-**Sumber:** [Species and Creatures](Species-and-Creatures.md).
+**Sumber:** [Species, Creatures, and Ecology — Draft 0.2](Species-and-Creatures.md).
 
 **UNKNOWN / kekosongan**
 - Daftar spesies CANON, persebaran aktual, biologi, umur, reproduksi, kecerdasan, ekologi spesifik, dan hubungan spesies dengan mana belum ditetapkan. Draft 0.2 menyediakan metode untuk mengembangkan dan menilai proposal tanpa mengesahkannya.
