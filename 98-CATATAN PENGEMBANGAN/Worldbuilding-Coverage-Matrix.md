@@ -574,3 +574,11 @@ Dossier tersebut berfungsi sebagai bahan kerja. Jika proposal dipilih, perbarui 
 - Status: enam poligon saat ini mencakup sekitar 26,44% permukaan bola, bukan asumsi kerja 30%. Target proporsi planar historis belum dapat diperlakukan sebagai luas daratan sferis.
 - Pekerjaan lanjutan: keputusan target luas, penyesuaian cakupan daratan, orientasi globe, dan uji containment terhadap lempeng pembawa.
 - Semua hasil NON-CANON.
+
+## Siluet benua luas sferis V0.6
+
+- [World Atlas Continental Silhouette V0.6](World-Atlas-Continental-Silhouette-V0.6.svg) — kandidat siluet enam benua yang dinormalisasi pada koordinat luas-sama.
+- [Continental Area Normalization Audit V0.6](World-Atlas-Continental-Area-Normalization-Audit-V0.6.json) — target dan hasil pengukuran sferis.
+- Status: total daratan hasil render sekitar 30,00017% permukaan bola; proporsi relatif target lama dipertahankan.
+- Pekerjaan terbuka: uji containment pada geometri lempeng V1.0-R, orientasi globe, lalu konsistensi relief dan hidrologi.
+- Seluruh geometri tetap NON-CANON.
