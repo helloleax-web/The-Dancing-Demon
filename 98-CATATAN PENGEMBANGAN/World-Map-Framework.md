@@ -2070,7 +2070,7 @@ Solusi terbaik yang ditemukan menghasilkan:
 
 | Muka | Aktual (%) | Target (%) |
 |---|---:|---:|
-| Central | 45.66 | 18 |
+| Central | 46.14 | 18 |
 | Verdant | 13.84 | 12 |
 | Sands | 10.73 | 10 |
 | Frost | 6.85 | 8 |
@@ -2079,9 +2079,9 @@ Solusi terbaik yang ditemukan menghasilkan:
 | Samudra Utara | 6.33 | 14 |
 | Samudra Barat | 0.93 | 11 |
 | Samudra Timur-Selatan | 1.60 | 9 |
-| **Total** | **99.53** | **100** |
+| **Total** | **100.00** | **100** |
 
-Catatan: angka di atas adalah pembulatan dari fraksi luas numerik; jumlah tabel dapat berbeda sedikit dari 100% akibat pembulatan. Central dihitung sebagai komplemen delapan muka lain sehingga angka internal menutup 100%.
+Catatan: angka dibulatkan dari fraksi luas numerik. Central dihitung sebagai komplemen delapan muka lain; jumlah internal menutup tepat 100%.
 
 #### 7.36.2 Audit dan penolakan kandidat
 
