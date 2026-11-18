@@ -89,3 +89,15 @@ Tindakan:
 - Menetapkan urutan kerja berikutnya: keputusan target luas, penyesuaian cakupan daratan, orientasi globe, lalu uji containment terhadap lempeng pembawa.
 
 Tidak ada perubahan CANON, retcon, atau lokasi cerita.
+
+## Kandidat siluet luas sferis V0.6 — 2026-11-18
+
+Dibuat kandidat baru yang mempertahankan target proporsi relatif enam benua 15/18/24/13/9/21, tetapi menyesuaikan luas absolut pada koordinat silinder luas-sama agar total daratan mendekati 30% permukaan bola.
+
+Berkas:
+- [Siluet enam benua V0.6](../98-CATATAN%20PENGEMBANGAN/World-Atlas-Continental-Silhouette-V0.6.svg)
+- [Audit normalisasi luas V0.6](../98-CATATAN%20PENGEMBANGAN/World-Atlas-Continental-Area-Normalization-Audit-V0.6.json)
+
+Hasil audit pada koordinat hasil render: total 30,00017% permukaan bola. Frostbound diperlebar secara longitudinal agar tidak melewati kutub; rotasi bujur global −10° menghindari pemotongan Veiled pada seam. Semua perubahan bersifat geometri pengembangan.
+
+Batas: containment terhadap lempeng V1.0-R, geodinamika, relief, hidrologi, iklim, dan bioma belum divalidasi. Tidak ada perubahan CANON atau retcon.
