@@ -36,7 +36,7 @@ Indeks menyatakan nama-nama tersebut telah ditetapkan dalam paket kanon. Pencant
 
 ### CATATAN PENGEMBANGAN
 
-- Tidak ditemukan proposal yang secara eksplisit menyebut Konsorsium Survei Meridian.
+- Proposal fungsi sebagai konsorsium profesional survei dan pemetaan tersedia dalam [Location & Organization Development Dossier — Draft 0.1](../98-CATATAN%20PENGEMBANGAN/Location-Organization-Development-Dossier-Draft-0.1.md). Proposal tersebut NON-CANON dan tidak menetapkan bahwa ekspedisi Tavian berada di bawah konsorsium ini.
 
 ### UNKNOWN
 
@@ -58,7 +58,7 @@ Indeks menyatakan nama-nama tersebut telah ditetapkan dalam paket kanon. Pencant
 
 ### CATATAN PENGEMBANGAN
 
-- Tidak ditemukan proposal yang secara eksplisit menyebut Vellum & Iron Recovery.
+- Proposal fungsi sebagai perusahaan komersial pemulihan peninggalan tersedia dalam [Location & Organization Development Dossier — Draft 0.1](../98-CATATAN%20PENGEMBANGAN/Location-Organization-Development-Dossier-Draft-0.1.md). Proposal tersebut NON-CANON dan tidak mengonfirmasi bahwa perusahaan ini adalah pihak tak bernama dalam Buku I.
 
 ### UNKNOWN
 
@@ -81,7 +81,7 @@ Indeks menyatakan nama-nama tersebut telah ditetapkan dalam paket kanon. Pencant
 
 ### CATATAN PENGEMBANGAN
 
-- Tidak ditemukan proposal yang secara eksplisit menyebut Arsip Lentera.
+- Proposal fungsi sebagai lembaga arsip dan preservasi pengetahuan tersedia dalam [Location & Organization Development Dossier — Draft 0.1](../98-CATATAN%20PENGEMBANGAN/Location-Organization-Development-Dossier-Draft-0.1.md). Proposal tersebut NON-CANON dan tidak menetapkan afiliasi dengan Seraphine, Ilyra, International Authority, atau KVK.
 
 ### UNKNOWN
 
@@ -97,7 +97,7 @@ Indeks menyatakan nama-nama tersebut telah ditetapkan dalam paket kanon. Pencant
 
 ## CATATAN PENGEMBANGAN organisasi umum
 
-Dokumen CATATAN PENGEMBANGAN tentang peradaban, politik, ekonomi, dan budaya menyebut Adventurer Guild atau organisasi sejenis sebagai kemungkinan yang dapat menangani eksplorasi, pengawalan, monster, artefak, penyelamatan, dan informasi. Dokumen itu menyatakan keberadaan serta kewenangannya belum ditetapkan. Proposal umum tersebut tidak menyebut atau mengidentifikasi Konsorsium Survei Meridian, Vellum & Iron Recovery, maupun Arsip Lentera. Sumber: [`98-CATATAN PENGEMBANGAN/Civilizations-Politics-Economy-Culture.md`](../98-CATATAN%20PENGEMBANGAN/Civilizations-Politics-Economy-Culture.md), bagian “Organisasi petualang”.
+Dokumen CATATAN PENGEMBANGAN tentang peradaban, politik, ekonomi, dan budaya menyebut Adventurer Guild atau organisasi sejenis sebagai kemungkinan yang dapat menangani eksplorasi, pengawalan, monster, artefak, penyelamatan, dan informasi. Dokumen itu menyatakan keberadaan serta kewenangannya belum ditetapkan. Proposal umum tersebut tidak mengidentifikasi organisasi indeks; proposal fungsi khusus untuk ketiganya kini tersedia secara terpisah dalam dossier pengembangan dan tetap NON-CANON. Sumber: [`98-CATATAN PENGEMBANGAN/Civilizations-Politics-Economy-Culture.md`](../98-CATATAN%20PENGEMBANGAN/Civilizations-Politics-Economy-Culture.md), bagian “Organisasi petualang”.
 
 ## Batas dengan International Authority dan KVK
 
