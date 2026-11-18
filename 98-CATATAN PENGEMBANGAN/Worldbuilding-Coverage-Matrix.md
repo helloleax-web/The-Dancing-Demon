@@ -72,11 +72,11 @@ Tidak ada bidang yang diberi status **BELUM ADA** karena setiap bidang memiliki 
 
 **UNKNOWN / kekosongan**
 - Nama dunia, ukuran planet, satelit, astronomi, kalender, dan struktur fisik kosmos belum ditentukan.
-- Frasa di [World Overview](../01-CANON/World-Overview.md) yang berbunyi “Era teknologi masyarakat modern secara umum menyerupai fantasi abad pertengahan” perlu klarifikasi redaksional dari kreator. Frasa tersebut berpotensi ambigu karena dokumen lain menggunakan istilah “masyarakat masa kini”. Matriks ini tidak mengoreksi atau memilih makna secara sepihak.
+- Redaksi [World Overview](../01-CANON/World-Overview.md) telah diperjelas menjadi “masyarakat masa kini”, sehingga berbeda jelas dari peradaban Bumi modern yang meninggalkan peninggalan.
 
 **Ketergantungan:** geografi, sejarah, politik, ekonomi, budaya, perjalanan, dan konsistensi teknologi.
 
-**Pertanyaan kreator:** Apa nama dunia dan bagaimana struktur fisik/astronominya? Apa istilah yang tepat untuk masyarakat pada era cerita dalam World Overview?
+**Langkah pengembangan:** nama dunia, struktur fisik/astronomi, kalender, dan ukuran planet dapat ditentukan sesuai kebutuhan cerita. Klarifikasi istilah masyarakat era cerita telah selesai.
 
 ### 2. Geografi dan peta dunia
 
@@ -88,12 +88,13 @@ Tidak ada bidang yang diberi status **BELUM ADA** karena setiap bidang memiliki 
 **Sumber:** [Indeks Karakter, Lokasi, dan Organisasi](../00-CORE/07-Karakter-Lokasi-dan-Organisasi.md), [Location Bible](../01-CANON/Location-Bible.md).
 
 **CATATAN PENGEMBANGAN**
-- Planet dengan geografi fisik normal.
-- Enam benua konsep kerja: The Central Reach, The Frostbound Expanse, The Sunken Sands, The Verdant Wilds, The Ashen Frontier, dan The Veiled Continent.
-- Pegunungan, hutan purba, ngarai, rawa, wilayah bawah tanah, kategori perairan, dan klasifikasi wilayah mana.
+- Draft aktif memilih enam benua terpisah (Alternatif A) dengan susunan satu kelompok utama dan beberapa daratan terpencil (Alternatif C). Pilihan ini tetap NON-CANON.
+- World Atlas Draft V1 menyimpan pembagian luas relatif benua, target luas sembilan wilayah lempeng, serta konsep relief dan hidrologi.
+- Plate Geometry V1.0-R telah menjadi baseline geometri lempeng yang dapat direproduksi; containment benua, orientasi globe, dan validasi geodinamika belum selesai.
+- Pegunungan, hutan, ngarai, rawa, kategori perairan, dan wilayah mana tetap berupa rancangan.
 - Teleportasi dan portal belum ditetapkan sebagai teknologi yang tersedia.
 
-**Sumber:** [Geography](Geography.md).
+**Sumber:** [Geography](Geography.md), [World Map Framework](World-Map-Framework.md), [World Atlas Draft V1](World-Atlas-Draft-V1.md), [Plate Geometry V1.0-R Validation](World-Plate-Geometry-V1.0-R-Validation.md).
 
 **UNKNOWN / kekosongan**
 - Peta dunia, ukuran benua, garis pantai, koordinat, jarak, iklim, negara, jalur perdagangan, dan hubungan spasial lokasi belum ditentukan.
@@ -101,7 +102,7 @@ Tidak ada bidang yang diberi status **BELUM ADA** karena setiap bidang memiliki 
 
 **Ketergantungan:** identitas dunia, perjalanan, politik, ekonomi, konflik, ekologi, dan lokasi cerita.
 
-**Pertanyaan kreator:** Apakah model enam benua dipertahankan, diubah, atau ditinggalkan? Seperti apa peta dan skala dunia yang dibutuhkan cerita?
+**Langkah pengembangan:** pertahankan enam benua sebagai draft kerja saat ini; lanjutkan containment, orientasi globe, relief, hidrologi, dan penempatan lokasi. Jumlah benua belum menjadi CANON.
 
 ### 3. Sejarah Bumi kuno dan kehancurannya
 
@@ -409,9 +410,9 @@ Tidak ada bidang yang diberi status **BELUM ADA** karena setiap bidang memiliki 
 **Sumber:** [Indeks Karakter, Lokasi, dan Organisasi](../00-CORE/07-Karakter-Lokasi-dan-Organisasi.md), [Organization Bible](../01-CANON/Organization-Bible.md), [International Authority](../01-CANON/International-Authority.md), [KVK](../01-CANON/KVK.md).
 
 **UNKNOWN / kekosongan**
-- Fungsi, sejarah, kepemimpinan, anggota, struktur, lokasi, dan hubungan tiga organisasi dalam indeks belum terdokumentasi.
-- Belum dikonfirmasi apakah Vellum & Iron Recovery adalah perusahaan yang mengajukan klaim komersial di Buku I.
-- Adventurer Guild hanya proposal umum; bukan organisasi canon yang sudah dikonfirmasi.
+- Fakta nama tiga organisasi sudah terdokumentasi. Proposal fungsi dan hubungan untuk Buku I kini tersedia dalam [Location & Organization Development Dossier — Draft 0.1](Location-Organization-Development-Dossier-Draft-0.1.md); semuanya tetap NON-CANON.
+- Draft Buku I merekomendasikan Konsorsium Survei Meridian sebagai pengorganisasi ekspedisi, Vellum & Iron Recovery sebagai pihak komersial yang mengajukan klaim, dan pemberi tugas Kael yang memiliki hubungan profesional dengan Arsip Lentera. Hubungan ini belum menjadi CANON.
+- Adventurer Guild tetap proposal umum, bukan organisasi canon yang sudah dikonfirmasi.
 
 **Ketergantungan:** politik, hukum, ekonomi, eksplorasi, karakter, dan konflik.
 
@@ -431,8 +432,8 @@ Tidak ada bidang yang diberi status **BELUM ADA** karena setiap bidang memiliki 
 **Sumber:** [Character Bible](../01-CANON/Character-Bible.md), [Cerita dan Rencana Delapan Buku](../00-CORE/08-Cerita-dan-Rencana-Delapan-Buku.md).
 
 **UNKNOWN / kekosongan**
-- Profil lengkap, penampilan, kepribadian, keluarga, motivasi, kemampuan, relasi personal, dan perkembangan sebagian besar karakter belum terdokumentasi dalam sumber yang diperiksa.
-- Mira, Daren, dan Ilyra saat ini terutama tercantum sebagai nama indeks.
+- [Character Development Dossier — Draft 0.1](Character-Development-Dossier-Draft-0.1.md) kini menyediakan proposal kepribadian, motivasi, kelemahan, fungsi naratif, visual, relasi, dan arc untuk enam karakter.
+- Semua rincian baru dalam dossier tetap NON-CANON. Mira, Daren, dan Ilyra belum memiliki fakta CANON karakter selain nama yang tercantum dalam indeks.
 
 **Ketergantungan:** alur cerita, budaya, pekerjaan, organisasi, perjalanan, dan konflik.
 
@@ -451,8 +452,9 @@ Tidak ada bidang yang diberi status **BELUM ADA** karena setiap bidang memiliki 
 **Sumber:** [Location Bible](../01-CANON/Location-Bible.md), [Cerita dan Rencana Delapan Buku](../00-CORE/08-Cerita-dan-Rencana-Delapan-Buku.md).
 
 **UNKNOWN / kekosongan**
-- Koordinat, negara, jarak, arah, iklim, fungsi, kepemilikan, dan hubungan antarlokasi.
-- Nama resmi fasilitas bawah tanah Buku I belum disebutkan dalam sumber yang diperiksa.
+- Koordinat, negara, jarak, arah, iklim, fungsi, kepemilikan, dan hubungan antarlokasi tetap belum ditetapkan.
+- [Location & Organization Development Dossier — Draft 0.1](Location-Organization-Development-Dossier-Draft-0.1.md) menyediakan proposal fungsi naratif lokasi dan titik yang dapat dipakai untuk pengembangan cerita, tanpa menetapkan posisi geografis.
+- [Book I Scene Outline — Draft 0.1](Book-I-Scene-Outline-Draft-0.1.md) memperjelas urutan penemuan fasilitas, sengketa, keadaan darurat, dan kesepakatan sementara. Nama resmi fasilitas Buku I tetap belum ditetapkan.
 
 **Ketergantungan:** geografi dunia, perjalanan, politik, ekonomi, dan struktur Buku I.
 
@@ -471,7 +473,10 @@ Tidak ada bidang yang diberi status **BELUM ADA** karena setiap bidang memiliki 
 **Sumber:** [Cerita dan Rencana Delapan Buku](../00-CORE/08-Cerita-dan-Rencana-Delapan-Buku.md), [Character Bible](../01-CANON/Character-Bible.md).
 
 **CATATAN PENGEMBANGAN**
-- [Story Framework](Story-Framework.md) memuat pola arc, database karakter, kategori misteri, dan pencatatan foreshadowing sebagai kerangka kerja umum. Itu tidak menggantikan kerangka delapan buku yang sudah terdokumentasi.
+- [Book I Scene Outline — Draft 0.1](Book-I-Scene-Outline-Draft-0.1.md) mengembangkan premis Buku I menjadi rangkaian adegan.
+- [Eight-Book Series Architecture — Draft 0.1](Eight-Book-Series-Architecture-Draft-0.1.md) mengembangkan fungsi dramatik dan arc lintas seri.
+- [Mystery & Foreshadowing Ledger — Draft 0.1](Mystery-and-Foreshadowing-Ledger-Draft-0.1.md) mengelola informasi, petunjuk, dan jendela pengungkapan.
+- Semua materi tersebut tetap CATATAN PENGEMBANGAN / NON-CANON.
 
 **UNKNOWN / kekosongan**
 - Detail buku II–VIII masih kerangka jangka panjang, bukan peristiwa yang telah ditulis lengkap.
@@ -488,10 +493,9 @@ Tidak ada bidang yang diberi status **BELUM ADA** karena setiap bidang memiliki 
 Urutan ini merupakan rekomendasi kerja berdasarkan ketergantungan antarbidang, bukan daftar keputusan canon yang harus segera dibuat.
 
 ### Tahap 1 — Kunci fondasi yang dibutuhkan cerita
-1. Klarifikasi redaksi World Overview tentang “masyarakat modern”.
-2. Tentukan kebutuhan minimum identitas dunia, kalender, dan skala geografis.
-3. Putuskan kerangka geografi yang diperlukan untuk rute cerita awal; jangan otomatis mengesahkan enam benua.
-4. Rapikan kronologi relatif: kehancuran Bumi, era cerita, dan Great War hanya sejauh diperlukan; pertahankan hal yang memang ingin menjadi misteri.
+1. Tentukan kebutuhan minimum identitas dunia, kalender, dan skala geografis.
+2. Lanjutkan draft enam benua melalui containment, orientasi globe, relief, hidrologi, iklim, dan bioma; jangan menganggap draft sebagai CANON.
+3. Rapikan kronologi relatif kehancuran Bumi, era cerita, dan Great War hanya sejauh diperlukan; pertahankan misteri yang memiliki fungsi naratif.
 
 ### Tahap 2 — Stabilkan aturan dunia yang sering dipakai
 1. Tinjau batas dan contoh penerapan sistem mana.
