@@ -36,7 +36,8 @@ Dokumen ini adalah pusat dokumentasi dunia LEAX. Isinya memisahkan fakta yang su
 - [Mystery & Foreshadowing Ledger — Draft 0.1](98-CATATAN%20PENGEMBANGAN/Mystery-and-Foreshadowing-Ledger-Draft-0.1.md) — pengelolaan petunjuk, informasi karakter, dan jendela pengungkapan.
 - [Plate Geometry V1.0-R — Validation Report](98-CATATAN%20PENGEMBANGAN/World-Plate-Geometry-V1.0-R-Validation.md) — baseline geometri lempeng yang dapat direproduksi; NON-CANON.
 - [Plate–Continent Relationship Framework V0.1](98-CATATAN%20PENGEMBANGAN/Plate-Continent-Relationship-Framework-V0.1.md) — aturan aktif hubungan benua–lempeng; NON-CANON.
-- [Continental–Plate Overlay R0.1](98-CATATAN%20PENGEMBANGAN/Continental-Plate-Overlay-R0.1.md) — overlay koordinat dan matriks irisan awal; registrasi ilustratif, NON-CANON.
+- [Continental–Plate Overlay R0.1](98-CATATAN%20PENGEMBANGAN/Continental-Plate-Overlay-R0.1.md) — overlay identitas awal.
+- [Continental–Plate Overlay R0.2](98-CATATAN%20PENGEMBANGAN/Continental-Plate-Overlay-R0.2.md) — kandidat registrasi kompak terbaik dari 3.000 rotasi sampel; NON-CANON.
 
 ### Catatan
 Dokumen ini merupakan konsolidasi berdasarkan informasi yang tersedia dalam percakapan worldbuilding. Bagian yang belum memiliki dasar canon secara eksplisit ditandai sebagai catatan pengembangan atau unknown.
