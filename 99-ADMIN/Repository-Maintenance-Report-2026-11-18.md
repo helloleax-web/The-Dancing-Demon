@@ -159,3 +159,10 @@ Orientasi ini ilustratif, bukan geografis final. Tidak ada validasi kerak/geodin
 - JSON audit dapat diparse; SVG overlay memiliki enam poligon benua, 24 polyline batas (21 sisi graf, dengan pemisahan tambahan pada seam proyeksi), dan 14 penanda simpul plus satu penanda legenda.
 - Audit raster memakai 144.000 sel berluas sama; jumlah estimasi luas sembilan muka lempeng mendekati 100% dan total daratan mendekati 30%.
 - Registrasi R0.1 tetap ilustratif. Tidak ada perubahan CANON.
+
+
+## Kandidat registrasi kompak R0.2 — 2026-11-18
+
+Diuji 3.000 rotasi global deterministik menggunakan metrik rata-rata proporsi tiap benua yang berada pada muka dominannya. R0.2 mencapai 87,50% pada screening kasar dan 87,27% pada audit raster 144.000 sel. R0.1 memperoleh 67,61% pada audit grid yang sama. R0.2 dipilih sebagai kandidat kerja berdasarkan kekompakan kartografis, bukan validasi geologi atau optimum global.
+
+Artefak: [laporan R0.2](../98-CATATAN%20PENGEMBANGAN/Continental-Plate-Overlay-R0.2.md), [peta SVG](../98-CATATAN%20PENGEMBANGAN/World-Atlas-Continental-Plate-Overlay-R0.2.svg), [audit JSON](../98-CATATAN%20PENGEMBANGAN/Continental-Plate-Overlay-Audit-R0.2.json). Tidak ada perubahan CANON.
