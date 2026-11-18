@@ -1,4 +1,4 @@
-# Repository Maintenance Report — 2026-11-18
+# Repository Maintenance Report — 2026 11 18
 
 **Status:** CATATAN ADMINISTRATIF / NON-CANON  
 **Branch kerja:** `main`  
