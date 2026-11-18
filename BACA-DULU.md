@@ -28,4 +28,4 @@ Paket ini berisi dokumen selain `00-CORE`, sehingga tidak mengulang 10 dokumen i
 7. Gunakan kebijakan editorial untuk memahami cara perubahan, usulan, dan keputusan dicatat.
 
 ## Catatan
-Dokumen dipertahankan berdasarkan arsip ZIP sebelumnya. Tidak ada materi yang dipromosikan menjadi kanon hanya karena dipindahkan atau diganti nama foldernya. Paket ini tidak memuat ulang `00-CORE/`. Nama folder pada daftar di atas mengikuti path yang tersedia di repository.
+Dokumen sumber dipertahankan berdasarkan arsip ZIP sebelumnya; dokumen pengembangan dan administrasi baru ditambahkan secara terpisah serta diberi status yang jelas. Tidak ada materi yang dipromosikan menjadi CANON hanya karena dipindahkan, diganti nama, atau ditautkan. Paket ini tidak memuat ulang `00-CORE/`. Nama folder pada daftar di atas mengikuti path yang tersedia di repository.
