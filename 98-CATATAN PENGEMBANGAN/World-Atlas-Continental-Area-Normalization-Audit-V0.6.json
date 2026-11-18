@@ -1,0 +1,109 @@
+{
+  "version": "V0.6",
+  "status": "DEVELOPMENT / NON-CANON / AREA-NORMALIZED CANDIDATE",
+  "source": "World-Atlas-Continental-Silhouette-V0.5.svg",
+  "method": {
+    "equalAreaCoordinates": "x = longitude in radians; y = sin(latitude)",
+    "scaling": "Each continent was scaled about its equal-area polygon centroid to target 30% of planetary surface multiplied by its retained historical land-share target. Frostbound was widened in longitude only to avoid extending beyond the pole in the current north-up orientation.",
+    "longitudeRotationDeg": -10,
+    "rendering": "Each transformed straight edge in equal-area coordinates was densified into 12 segments before inverse transformation to longitude/latitude and SVG coordinates.",
+    "areaValidation": "Spherical boundary integral applied to the densified rendered coordinates."
+  },
+  "continents": [
+    {
+      "name": "Frostbound Expanse",
+      "sourceVertices": 30,
+      "renderedVertices": 360,
+      "previousSphericalShareOfPlanetPercent": 2.429184637486601,
+      "targetShareOfPlanetPercent": 4.5,
+      "targetShareOfTotalLandPercent": 15,
+      "equalAreaScaleX": 1.852473431025813,
+      "equalAreaScaleY": 1,
+      "measuredRenderedSphericalShareOfPlanetPercent": 4.500018006830623,
+      "errorPercentagePoints": 0.000018006830623029657
+    },
+    {
+      "name": "Verdant Wilds",
+      "sourceVertices": 31,
+      "renderedVertices": 372,
+      "previousSphericalShareOfPlanetPercent": 5.699352339942511,
+      "targetShareOfPlanetPercent": 5.3999999999999995,
+      "targetShareOfTotalLandPercent": 18,
+      "equalAreaScaleX": 0.9733838285157336,
+      "equalAreaScaleY": 0.9733838285157336,
+      "measuredRenderedSphericalShareOfPlanetPercent": 5.4000310341376485,
+      "errorPercentagePoints": 0.00003103413764904417
+    },
+    {
+      "name": "The Central Reach",
+      "sourceVertices": 37,
+      "renderedVertices": 444,
+      "previousSphericalShareOfPlanetPercent": 7.603193201516856,
+      "targetShareOfPlanetPercent": 7.199999999999999,
+      "targetShareOfTotalLandPercent": 24,
+      "equalAreaScaleX": 0.9731241152667036,
+      "equalAreaScaleY": 0.9731241152667036,
+      "measuredRenderedSphericalShareOfPlanetPercent": 7.200010500331673,
+      "errorPercentagePoints": 0.000010500331673490848
+    },
+    {
+      "name": "The Sunken Sands",
+      "sourceVertices": 25,
+      "renderedVertices": 300,
+      "previousSphericalShareOfPlanetPercent": 3.1017773038435545,
+      "targetShareOfPlanetPercent": 3.9,
+      "targetShareOfTotalLandPercent": 13,
+      "equalAreaScaleX": 1.1213133598880027,
+      "equalAreaScaleY": 1.1213133598880027,
+      "measuredRenderedSphericalShareOfPlanetPercent": 3.9000512092253046,
+      "errorPercentagePoints": 0.00005120922530466032
+    },
+    {
+      "name": "The Ashen Frontier",
+      "sourceVertices": 27,
+      "renderedVertices": 324,
+      "previousSphericalShareOfPlanetPercent": 2.17001328867288,
+      "targetShareOfPlanetPercent": 2.6999999999999997,
+      "targetShareOfTotalLandPercent": 9,
+      "equalAreaScaleX": 1.1154514834330531,
+      "equalAreaScaleY": 1.1154514834330531,
+      "measuredRenderedSphericalShareOfPlanetPercent": 2.700022002778155,
+      "errorPercentagePoints": 0.00002200277815544993
+    },
+    {
+      "name": "The Veiled Continent",
+      "sourceVertices": 34,
+      "renderedVertices": 408,
+      "previousSphericalShareOfPlanetPercent": 5.418905983620811,
+      "targetShareOfPlanetPercent": 6.3,
+      "targetShareOfTotalLandPercent": 21,
+      "equalAreaScaleX": 1.0782375857850062,
+      "equalAreaScaleY": 1.0782375857850062,
+      "measuredRenderedSphericalShareOfPlanetPercent": 6.300038609504714,
+      "errorPercentagePoints": 0.00003860950471423763
+    }
+  ],
+  "global": {
+    "targetLandShareOfPlanetPercent": 30,
+    "measuredRenderedLandShareOfPlanetPercent": 30.000171362808118,
+    "absoluteErrorPercentagePoints": 0.0001713628081176921,
+    "landShareTargetsPreserved": true
+  },
+  "checks": {
+    "sixPolygons": true,
+    "allVerticesWithinLongitudeLatitudeFrame": true,
+    "pairwiseOverlapCheckedInEqualAreaCoordinates": true,
+    "pairwiseOverlaps": [],
+    "sphericalAreaMeasuredAfterRendering": true,
+    "plateContainmentValidated": false,
+    "geodynamicsValidated": false,
+    "canonChanged": false
+  },
+  "limitations": [
+    "This is an area-normalized geometry candidate, not a final map or canon.",
+    "The longitude rotation and Frostbound anisotropic widening are design choices, not canon decisions.",
+    "The equal-area projection used for fitting is cylindrical equal-area; the SVG display remains a linear longitude/latitude scaffold.",
+    "Containment against Plate Geometry V1.0-R has not been tested.",
+    "No plate-motion, geodynamic, relief, drainage, climate, biome, island, or navigation model is validated."
+  ]
+}
