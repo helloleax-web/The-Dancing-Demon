@@ -383,7 +383,12 @@ Dokumen konsolidasi ini dibuat berdasarkan lore yang telah ditetapkan dalam perc
 
 ## Kandidat registrasi R0.2 — 2026-11-18
 
-- Keputusan pengembangan: R0.2 menjadi kandidat kerja berdasarkan metrik kekompakan overlay; 87,50% pada screening dan 87,27% pada audit raster resolusi lebih tinggi, dibanding 67,61% untuk R0.1.
+- Keputusan pengembangan: R0.2 menjadi kandidat kerja berdasarkan metrik kekompakan overlay; 87,50% pada screening dan 87,25% pada audit raster resolusi lebih tinggi, dibanding 67,59% untuk R0.1.
 - Batas: bukan optimum global, bukan validasi geologi, dan bukan orientasi CANON.
 - Artefak: Continental–Plate Overlay R0.2, SVG overlay, dan audit JSON.
 - Dampak CANON: tidak ada.
+
+
+## Koreksi numerik R0.2 — 2026-11-18
+
+Matriks rotasi R0.2 diperiksa ulang dan diperbaiki agar ortogonal (deviasi maksimum 1,11 × 10⁻¹⁶). Audit resolusi tinggi kini memakai 576.000 sel; metrik dominasi muka rata-rata R0.2 = 87,25%, dibanding R0.1 = 67,59%. Status tetap NON-CANON; dampak CANON tidak ada.
