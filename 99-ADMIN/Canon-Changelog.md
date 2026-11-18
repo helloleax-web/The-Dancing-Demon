@@ -130,3 +130,12 @@ Dokumen konsolidasi ini dibuat berdasarkan lore yang telah ditetapkan dalam perc
 - Keputusan: Seluruh 39 file Markdown pada branch main diperiksa untuk tautan relatif dan tidak ditemukan target file yang hilang. Seluruh 13 file JSON berhasil diparse. Sebelas file SVG memiliki elemen root, penutup, dan viewBox yang terdeteksi. Pemeriksaan ini bersifat struktural; tidak membuktikan validitas visual, validasi XML penuh, atau akurasi geometri/geodesik.
 - Dokumen yang diperbarui: `99-ADMIN/Canon-Audit-Report-2026-11-18.md`.
 - Apakah ini retcon?: Tidak.
+
+
+## Catatan klarifikasi kronologi nama NVR AGAIN 2026-11-18
+
+- Tanggal: 2026-11-18
+- Topik: Pembedaan peristiwa musik selama Great War dan waktu nama NVR AGAIN diketahui.
+- Keputusan: Redaksi pada ringkasan dunia, ringkasan Great War, panduan kontinuitas, dokumen CANON Great War, dan laporan audit diperjelas menjadi “musik yang kemudian diketahui bernama NVR AGAIN”. Ini menghindari kesan bahwa nama tersebut telah diketahui masyarakat saat perang berlangsung, sementara fakta bahwa Prasasti pertama mengungkap nama itu tetap dipertahankan.
+- Dokumen yang diperbarui: `00-CORE/01-Ringkasan-Dunia.md`, `00-CORE/05-Great-War-dan-Resonansi-Hitam.md`, `00-CORE/09-Kanon-dan-Kontinuitas.md`, `01-CANON/Great-War-and-Resonansi-Hitam.md`, dan `99-ADMIN/Canon-Audit-Report-2026-11-18.md`.
+- Apakah ini retcon?: Tidak. Klarifikasi redaksional tanpa perubahan fakta.
