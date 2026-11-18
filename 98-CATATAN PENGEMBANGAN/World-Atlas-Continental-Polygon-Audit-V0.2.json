@@ -1,0 +1,87 @@
+{
+  "document": "World-Atlas-Continental-Polygon-Audit-V0.2",
+  "status": "NON-CANON / REVISED SILHOUETTE AUDIT",
+  "source_file": "World-Atlas-Continental-Silhouette-V0.2.svg",
+  "method": "Shoelace formula on revised SVG polygons. All six polygons were scaled about their area centroids to target proportions. Sunken Sands was then transformed with horizontal factor 0.9 and vertical factor 1/0.9 (area-preserving), and repositioned to the southern gap.",
+  "projection_warning": "Canvas-area proportions only; not geodesic area, not a validated map projection, and not plate-containment validation.",
+  "results": [
+    {
+      "name": "Frostbound Expanse",
+      "target_land_share_percent": 15,
+      "measured_land_share_percent": 15,
+      "bounds_px": [
+        673.545,
+        165.924,
+        1121.888,
+        305.107
+      ]
+    },
+    {
+      "name": "Verdant Wilds",
+      "target_land_share_percent": 18,
+      "measured_land_share_percent": 18,
+      "bounds_px": [
+        356.044,
+        375.436,
+        665.361,
+        615.561
+      ]
+    },
+    {
+      "name": "The Central Reach",
+      "target_land_share_percent": 24,
+      "measured_land_share_percent": 24,
+      "bounds_px": [
+        720.931,
+        336.961,
+        1185.718,
+        547.35
+      ]
+    },
+    {
+      "name": "Sunken Sands",
+      "target_land_share_percent": 13,
+      "measured_land_share_percent": 13,
+      "bounds_px": [
+        964.11,
+        650.299,
+        1304.819,
+        844.992
+      ]
+    },
+    {
+      "name": "Ashen Frontier",
+      "target_land_share_percent": 9,
+      "measured_land_share_percent": 9,
+      "bounds_px": [
+        719.737,
+        625.574,
+        959.976,
+        774.476
+      ]
+    },
+    {
+      "name": "The Veiled Continent",
+      "target_land_share_percent": 21,
+      "measured_land_share_percent": 21,
+      "bounds_px": [
+        1320.987,
+        513.698,
+        1668.097,
+        748.989
+      ]
+    }
+  ],
+  "checks": {
+    "polygon_count": 6,
+    "all_vertices_within_map_frame": true,
+    "pairwise_overlap_pairs": [],
+    "result": "PASS"
+  },
+  "notes": [
+    "V0.1 remains unchanged.",
+    "Sunken Sands repositioned southward and reshaped with an area-preserving anisotropic transform to clear adjacent landmasses.",
+    "Labels approximate; visual review still required.",
+    "Plate containment not tested; available plate reference is not a compatible validated coordinate system."
+  ]
+}
