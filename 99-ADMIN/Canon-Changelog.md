@@ -100,3 +100,12 @@ Dokumen konsolidasi ini dibuat berdasarkan lore yang telah ditetapkan dalam perc
 - Keputusan: README dan indeks inti kini menyatakan bahwa perubahan CANON harus berada dalam mandat atau keputusan kreator dan dicatat. Isi folder administrasi diperjelas. Panduan baca menjelaskan bahwa dokumen sumber dari arsip dipertahankan, sementara dokumen baru ditambahkan secara terpisah dengan status yang jelas.
 - Dokumen yang diperbarui: `README.md`, `00-CORE/00-README.md`, dan `BACA-DULU.md`.
 - Apakah ini retcon?: Tidak.
+
+
+## Catatan penyempurnaan laporan audit 2026-11-18
+
+- Tanggal: 2026-11-18
+- Topik: Penajaman batas audit dan bukti historis geometri V1.0.
+- Keputusan: Laporan audit kini mencatat pemeriksaan tree commit sumber V1.0, yang tidak memuat koordinat planar presisi atau input optimizer. Batas cakupan juga diperbarui untuk mengecualikan draft pengembangan dan glosarium yang dibuat setelah pemeriksaan utama. Pembaruan referensi pada Character, Location, dan Organization Bible dibedakan dari perubahan fakta CANON.
+- Dokumen yang diperbarui: `99-ADMIN/Canon-Audit-Report-2026-11-18.md`.
+- Apakah ini retcon?: Tidak.
