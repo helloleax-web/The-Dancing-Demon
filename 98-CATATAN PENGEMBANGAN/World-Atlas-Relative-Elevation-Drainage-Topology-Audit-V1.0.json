@@ -1,0 +1,153 @@
+{
+  "version": "V1.0",
+  "status": "NON-CANON / CATATAN PENGEMBANGAN",
+  "basis": {
+    "inherited_framework": "World-Atlas-Watershed-Hydrology-Framework-V0.9.svg",
+    "inherited_audit": "World-Atlas-Watershed-Hydrology-Audit-V0.9.json",
+    "relief_source": "World-Atlas-Relief-Bathymetry-Audit-V0.8.json",
+    "method": "Qualitative classification of already documented relief candidates; no new terrain features or numeric elevation values are inferred."
+  },
+  "elevation_classes": {
+    "R1": "High-relief candidate: mountain belts and highlands explicitly present in prior relief notes.",
+    "R2": "Intermediate-relief candidate: lower plateau, hills, or uplands; relative rank remains provisional.",
+    "R3": "Low-relief candidate: basin or broad lowland candidate; not necessarily a closed depression.",
+    "RX": "Unclassified: side, continuity, or relief relationship remains unresolved.",
+    "numeric_elevation_m": null,
+    "cross_continent_comparison": false,
+    "rank_meaning": "Qualitative within-continent design classes only; not absolute heights and not a validated elevation ordering."
+  },
+  "continent_assessment": [
+    {
+      "continent": "The Central Reach",
+      "R1": [
+        "northwest mountain belt"
+      ],
+      "R2": [
+        "eastern lower plateau candidate",
+        "central hills/valleys remain broadly described"
+      ],
+      "R3": [
+        "central basin candidate"
+      ],
+      "RX": [
+        "exact ridge trace",
+        "basin floor and outlet relationship"
+      ],
+      "drainage": "Unknown; basin may be open, closed, or a broad lowland."
+    },
+    {
+      "continent": "The Verdant Wilds",
+      "R1": [
+        "northwest-to-central mountain arc candidate"
+      ],
+      "R2": [
+        "highlands and hills candidate"
+      ],
+      "R3": [],
+      "RX": [
+        "arc endpoints",
+        "continuity and relative heights of adjacent terrain"
+      ],
+      "drainage": "Catchments and outlets unknown."
+    },
+    {
+      "continent": "The Sunken Sands",
+      "R1": [],
+      "R2": [],
+      "R3": [
+        "central basin candidate"
+      ],
+      "RX": [
+        "which side carries the elongated range",
+        "opposite-side highland location"
+      ],
+      "drainage": "Endorheic versus exorheic status unknown."
+    },
+    {
+      "continent": "The Frostbound Expanse",
+      "R1": [
+        "central-northern highland candidate"
+      ],
+      "R2": [],
+      "R3": [],
+      "RX": [
+        "exact elevation",
+        "valley gradients and coastal exits"
+      ],
+      "drainage": "No verified coastal outlets or glacial drainage."
+    },
+    {
+      "continent": "The Ashen Frontier",
+      "R1": [
+        "diagonal mountain/highland zone candidate"
+      ],
+      "R2": [
+        "diagonal upland candidate"
+      ],
+      "R3": [],
+      "RX": [
+        "mountain versus plateau balance",
+        "fault valley/basin presence"
+      ],
+      "drainage": "No tectonic or volcanic drainage inference."
+    },
+    {
+      "continent": "The Veiled Continent",
+      "R1": [],
+      "R2": [],
+      "R3": [
+        "interior basin candidate"
+      ],
+      "RX": [
+        "main mountain-belt coast",
+        "secondary plateau position"
+      ],
+      "drainage": "Sea connection, enclosed bay, lake, or closed basin unresolved."
+    }
+  ],
+  "drainage_topology": {
+    "basin_types_considered": [
+      "exorheic",
+      "endorheic",
+      "mixed / internally drained sub-basins"
+    ],
+    "assigned_basins": 0,
+    "assigned_outlets": 0,
+    "verified_watershed_boundaries": 0,
+    "river_networks_drawn": false,
+    "rule": "Do not assign basin closure or river direction until continuous relative elevations, saddle elevations, and outlet thresholds are specified."
+  },
+  "validation": {
+    "six_continent_polygons_changed": false,
+    "coastline_geometry_changed": false,
+    "plate_geometry_changed": false,
+    "story_locations_changed": false,
+    "numeric_elevation_claimed": false,
+    "elevation_raster_used": false,
+    "contours_calculated": false,
+    "slopes_calculated": false,
+    "cross_continent_elevation_order_validated": false,
+    "basin_outlets_assigned": false,
+    "watershed_topology_verified": false,
+    "drainage_graph_verified": false,
+    "geodesic_or_projection_validation": false,
+    "canon_changed": false
+  },
+  "limitations": [
+    "All classes remain NON-CANON and qualitative.",
+    "R1-R3 labels do not represent fixed height intervals or meter values.",
+    "Ranks must not be compared across different continents.",
+    "Some continents have insufficiently specified relief for a complete hierarchy; these areas remain RX.",
+    "The three basin candidates retain unresolved outlet status.",
+    "No river centerlines, lakes, deltas, wetlands, glaciers, or named waters are added.",
+    "No plate boundary type, motion, volcanic arc, or fault is inferred.",
+    "The inherited SVG coordinate scaffold is not a validated map projection."
+  ],
+  "next_requirements": [
+    "Resolve the unknown side and continuity of the Sunken Sands range and Veiled Continent range.",
+    "Specify whether broad lowland candidates have a lower outlet or a closed topographic rim.",
+    "Establish relative saddles and passes before tracing drainage divides.",
+    "Build a connected qualitative elevation graph before drawing rivers.",
+    "Only after topology checks, draft main river courses and tributaries."
+  ]
+}
