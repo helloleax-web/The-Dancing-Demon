@@ -1288,7 +1288,7 @@ Koordinat ini berasal dari layout graf matematis, bukan hasil keputusan kreatif 
 - Transformasi ke bola satuan: dibuat sebagai visualisasi matematis.
 - Geometri geodesik batas pada globe: belum divalidasi.
 - Luas relatif lempeng: belum ditetapkan.
-- Penempatan enam benua: belum dilakukan.
+- Pada tahap 7.20 ini, penempatan enam benua memang belum dilakukan; pemetaan konseptual benua ke lempeng dikembangkan kemudian pada bagian 7.26.
 - Geografi fisik, iklim, dan tektonik nyata: belum ditetapkan.
 
 **Kesimpulan kerja:** sekarang tersedia satu kerangka bola abstrak yang dapat dipakai untuk visualisasi dan eksperimen. Ini belum menjadi globe geografis dunia LEAX. Tahap berikutnya adalah merancang luas relatif wilayah lempeng dan menentukan orientasi globe yang memudahkan penempatan benua, tanpa menganggap koordinat matematis ini sebagai lokasi canon.
@@ -1576,7 +1576,7 @@ V1.0 dinyatakan **FIX sebagai baseline geometri pengembangan**, dengan batas ber
 - Jenis batas konvergen, divergen, transform, atau pasif belum ditetapkan.
 - Arah dan kecepatan gerak lempeng serta kestabilan triple junction belum diuji.
 - Relief dasar laut, palung, busur vulkanik, hotspot, dan sejarah geologi belum ditetapkan.
-- Keenam benua belum ditempatkan pada lempeng.
+- Siluet keenam benua belum ditempatkan secara geometris di dalam poligon lempeng. Pemetaan konseptual setiap benua ke lempeng pembawa dan susunan makronya dijelaskan kemudian pada bagian 7.26; uji containment tetap belum dilakukan.
 - Koordinat matematis belum diputar atau dikalibrasi terhadap orientasi geografis final.
 - Peta globe ini tidak membuktikan bahwa lempeng bergerak secara geodinamik realistis.
 
