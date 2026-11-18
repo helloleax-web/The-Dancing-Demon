@@ -11,14 +11,32 @@
       158.86401266790926
     ],
     "rotation_convention": "R = Rz(gamma) * Ry(beta) * Rx(alpha); angles are alpha, beta, gamma respectively; local plate-sphere vectors map to geographic vectors by R.",
+    "rotation_matrix": [
+      [
+        -0.7298291393471718,
+        0.6256460059872982,
+        -0.2755294948855893
+      ],
+      [
+        0.28214441220386854,
+        -0.09144854936001992,
+        -0.9550035044344505
+      ],
+      [
+        -0.6226909008664733,
+        -0.7747284930942514,
+        -0.10978070853301365
+      ]
+    ],
+    "orthogonality_max_error": 1.1102230246251565e-16,
     "selection_metric": "Maximize the unweighted mean, across six continents, of the fraction of each continent lying on its single largest-area plate face. Cartographic compactness heuristic only; no same-name plate assignment or geological correctness implied.",
     "search": {
       "method": "Deterministic pseudo-random global Euler rotations",
       "trials": 3000,
       "screening_grid": "2° longitude × 0.025 sin(latitude)",
       "best_screening_mean_dominant_plate_share_pct": 87.50231713478742,
-      "high_resolution_audit_mean_dominant_plate_share_pct": 87.27465794114259,
-      "reference_R0_1_mean_dominant_plate_share_pct": 67.60799804568285,
+      "high_resolution_audit_mean_dominant_plate_share_pct": 87.24987744593716,
+      "reference_R0_1_mean_dominant_plate_share_pct": 67.59393151218137,
       "global_optimum_proven": false
     }
   },
@@ -28,32 +46,25 @@
   },
   "raster_audit": {
     "method": "Equal-area raster using uniform longitude and uniform sin(latitude); cell-center point-in-polygon classification",
-    "longitude_step_degrees": 1,
-    "sin_latitude_step": 0.005,
-    "cells": 144000,
+    "longitude_step_degrees": 0.5,
+    "sin_latitude_step": 0.0025,
+    "cells": 576000,
+    "total_land_percent_surface": 29.998958333333334,
     "plate_area_percent_surface": {
-      "Central": 18.01388888888889,
-      "Verdant": 11.999305555555555,
-      "Sands": 10.002777777777778,
+      "Central": 17.9984375,
+      "Verdant": 12.000347222222222,
+      "Sands": 10.003125,
       "Frost": 7.998611111111111,
-      "Ashen": 6.990277777777778,
-      "Veiled": 11.015277777777778,
-      "North Ocean": 13.996527777777779,
-      "West Ocean": 11.001388888888888,
-      "Southeast Ocean": 8.981944444444444
-    },
-    "continent_area_percent_surface": {
-      "Frostbound": 4.5055555555555555,
-      "Verdant Wilds": 5.4,
-      "Central Reach": 7.196527777777778,
-      "Sunken Sands": 3.9,
-      "Ashen Frontier": 2.703472222222222,
-      "Veiled Continent": 6.2972222222222225
+      "Ashen": 7.001215277777778,
+      "Veiled": 11.009027777777778,
+      "North Ocean": 14.00173611111111,
+      "West Ocean": 10.997569444444444,
+      "Southeast Ocean": 8.989930555555556
     },
     "dominant_plate_by_continent": {
       "Frostbound": {
         "plate": "Southeast Ocean",
-        "share_pct": 90.21270036991369
+        "share_pct": 90.2165939539014
       },
       "Verdant Wilds": {
         "plate": "Central",
@@ -61,32 +72,32 @@
       },
       "Central Reach": {
         "plate": "Sands",
-        "share_pct": 71.40789346714271
+        "share_pct": 71.349682895657
       },
       "Sunken Sands": {
         "plate": "North Ocean",
-        "share_pct": 87.9985754985755
+        "share_pct": 87.97738805305795
       },
       "Ashen Frontier": {
         "plate": "Frost",
-        "share_pct": 94.06627279732854
+        "share_pct": 94.11651234567901
       },
       "Veiled Continent": {
         "plate": "Verdant",
-        "share_pct": 79.96250551389501
+        "share_pct": 79.83908742732758
       }
     },
     "intersection_share_of_continent_percent": {
       "Frostbound": {
         "Central": 0,
         "Verdant": 0,
-        "Sands": 9.787299630086313,
+        "Sands": 9.783406046098607,
         "Frost": 0,
         "Ashen": 0,
         "Veiled": 0,
         "North Ocean": 0,
         "West Ocean": 0,
-        "Southeast Ocean": 90.21270036991369
+        "Southeast Ocean": 90.2165939539014
       },
       "Verdant Wilds": {
         "Central": 100,
@@ -101,23 +112,23 @@
       },
       "Central Reach": {
         "Central": 0,
-        "Verdant": 4.236225031361575,
-        "Sands": 71.40789346714271,
-        "Frost": 10.093602238733958,
+        "Verdant": 4.232076973160674,
+        "Sands": 71.349682895657,
+        "Frost": 10.07258434010948,
         "Ashen": 0,
         "Veiled": 0,
-        "North Ocean": 0.01929943066679533,
-        "West Ocean": 13.635047766090901,
-        "Southeast Ocean": 0.6079320660040529
+        "North Ocean": 0.01688007909522776,
+        "West Ocean": 13.721092864549423,
+        "Southeast Ocean": 0.6076828474281993
       },
       "Sunken Sands": {
         "Central": 0,
-        "Verdant": 6.428062678062678,
+        "Verdant": 6.423039259325202,
         "Sands": 0,
-        "Frost": 5.573361823361823,
+        "Frost": 5.599572687616843,
         "Ashen": 0,
         "Veiled": 0,
-        "North Ocean": 87.9985754985755,
+        "North Ocean": 87.97738805305795,
         "West Ocean": 0,
         "Southeast Ocean": 0
       },
@@ -125,109 +136,23 @@
         "Central": 0,
         "Verdant": 0,
         "Sands": 0,
-        "Frost": 94.06627279732854,
+        "Frost": 94.11651234567901,
         "Ashen": 0,
         "Veiled": 0,
-        "North Ocean": 5.933727202671462,
+        "North Ocean": 5.883487654320987,
         "West Ocean": 0,
         "Southeast Ocean": 0
       },
       "Veiled Continent": {
         "Central": 0,
-        "Verdant": 79.96250551389501,
+        "Verdant": 79.83908742732758,
         "Sands": 0,
         "Frost": 0,
         "Ashen": 0,
         "Veiled": 0,
-        "North Ocean": 12.95765328628143,
-        "West Ocean": 7.079841199823555,
+        "North Ocean": 13.096189347808117,
+        "West Ocean": 7.064723224864299,
         "Southeast Ocean": 0
-      }
-    },
-    "raw_cell_counts": {
-      "Frostbound": {
-        "total": 6488,
-        "byPlate": {
-          "Central": 0,
-          "Verdant": 0,
-          "Sands": 635,
-          "Frost": 0,
-          "Ashen": 0,
-          "Veiled": 0,
-          "North Ocean": 0,
-          "West Ocean": 0,
-          "Southeast Ocean": 5853
-        }
-      },
-      "Verdant Wilds": {
-        "total": 7776,
-        "byPlate": {
-          "Central": 7776,
-          "Verdant": 0,
-          "Sands": 0,
-          "Frost": 0,
-          "Ashen": 0,
-          "Veiled": 0,
-          "North Ocean": 0,
-          "West Ocean": 0,
-          "Southeast Ocean": 0
-        }
-      },
-      "Central Reach": {
-        "total": 10363,
-        "byPlate": {
-          "Central": 0,
-          "Verdant": 439,
-          "Sands": 7400,
-          "Frost": 1046,
-          "Ashen": 0,
-          "Veiled": 0,
-          "North Ocean": 2,
-          "West Ocean": 1413,
-          "Southeast Ocean": 63
-        }
-      },
-      "Sunken Sands": {
-        "total": 5616,
-        "byPlate": {
-          "Central": 0,
-          "Verdant": 361,
-          "Sands": 0,
-          "Frost": 313,
-          "Ashen": 0,
-          "Veiled": 0,
-          "North Ocean": 4942,
-          "West Ocean": 0,
-          "Southeast Ocean": 0
-        }
-      },
-      "Ashen Frontier": {
-        "total": 3893,
-        "byPlate": {
-          "Central": 0,
-          "Verdant": 0,
-          "Sands": 0,
-          "Frost": 3662,
-          "Ashen": 0,
-          "Veiled": 0,
-          "North Ocean": 231,
-          "West Ocean": 0,
-          "Southeast Ocean": 0
-        }
-      },
-      "Veiled Continent": {
-        "total": 9068,
-        "byPlate": {
-          "Central": 0,
-          "Verdant": 7251,
-          "Sands": 0,
-          "Frost": 0,
-          "Ashen": 0,
-          "Veiled": 0,
-          "North Ocean": 1175,
-          "West Ocean": 642,
-          "Southeast Ocean": 0
-        }
       }
     },
     "note": "Raster estimates, not exact spherical polygon clipping. Grid quantization and cell-center classification introduce small errors."
