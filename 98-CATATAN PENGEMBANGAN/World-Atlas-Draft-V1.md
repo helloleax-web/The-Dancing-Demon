@@ -836,3 +836,26 @@ Geometri lempeng kerja yang dapat direproduksi kini tersedia:
 - [Plate Geometry V1.0-R — Python Validator](validate_plate_geometry_v1_0_r.py)
 
 V1.0-R belum menguji containment enam benua dan bukan peta geografis final. Jangan mencampur statusnya dengan klasifikasi relief/drainase V1.0 dalam dokumen ini.
+
+## 19. Audit luas sferis siluet V0.5
+
+Audit bidang sebelumnya mengukur porsi poligon menggunakan shoelace pada koordinat SVG. Itu hanya mengukur proporsi gambar. Karena V0.5 memakai koordinat lintang-bujur yang dipetakan secara linear, luas bidang yang sama pada lintang berbeda tidak mewakili luas permukaan bola yang sama.
+
+Audit baru [World Atlas — Spherical Continental Area Audit V0.1](World-Atlas-Spherical-Continental-Area-Audit-V0.1.md) mengukur enam poligon V0.5 pada bola menggunakan transformasi koordinat dari bingkai SVG dan integral luas sferis. Hasilnya:
+
+| Benua | Target bidang lama | Porsi sferis terukur dari enam benua |
+|---|---:|---:|
+| Frostbound Expanse | 15% | 9,19% |
+| Verdant Wilds | 18% | 21,57% |
+| Central Reach | 24% | 28,76% |
+| Sunken Sands | 13% | 11,75% |
+| Ashen Frontier | 9% | 8,21% |
+| Veiled Continent | 21% | 20,51% |
+
+Enam poligon yang sekarang tergambar menutup sekitar **26,44% permukaan bola**, bukan asumsi kerja 30%. Angka km² dalam laporan memakai radius Bumi hanya sebagai ilustrasi; fraksi permukaan tidak bergantung pada radius.
+
+**Koreksi status angka:** target 15/18/24/13/9/21 tetap sah sebagai target proporsi bidang desain historis, tetapi tidak boleh disebut sebagai porsi luas daratan sferis yang sudah terukur. Asumsi 30% daratan juga belum diwujudkan oleh siluet V0.5.
+
+Berkas audit terstruktur: [World-Atlas-Spherical-Continental-Area-Audit-V0.1.json](World-Atlas-Spherical-Continental-Area-Audit-V0.1.json).
+
+**Keputusan kerja:** jangan lanjut mengunci relief rinci, sungai, atau bioma. Tahap berikutnya adalah memilih target luas relatif benua, menyelesaikan selisih terhadap asumsi 30%, menentukan rotasi globe, dan menguji containment tiap benua pada lempeng pembawanya. Semua tetap NON-CANON.
