@@ -91,3 +91,12 @@ Dokumen konsolidasi ini dibuat berdasarkan lore yang telah ditetapkan dalam perc
 - Keputusan: Menambahkan Glosarium dan Panduan Istilah sebagai referensi editorial untuk nama utama, sistem mana, institusi, lokasi, status dokumentasi, serta istilah yang tidak boleh disamakan. Indeks inti dan panduan baca diperbarui. Glosarium merangkum ketentuan yang sudah ada dan tidak menetapkan lore baru.
 - Dokumen yang diperbarui: `00-CORE/00-README.md`, `BACA-DULU.md`, dan dokumen baru `00-CORE/10-Glosarium-dan-Panduan-Istilah.md`.
 - Apakah ini retcon?: Tidak.
+
+
+## Catatan penyelarasan tata kelola 2026-11-18
+
+- Tanggal: 2026-11-18
+- Topik: Penyelarasan aturan repository dengan kebijakan editorial aktif.
+- Keputusan: README dan indeks inti kini menyatakan bahwa perubahan CANON harus berada dalam mandat atau keputusan kreator dan dicatat. Isi folder administrasi diperjelas. Panduan baca menjelaskan bahwa dokumen sumber dari arsip dipertahankan, sementara dokumen baru ditambahkan secara terpisah dengan status yang jelas.
+- Dokumen yang diperbarui: `README.md`, `00-CORE/00-README.md`, dan `BACA-DULU.md`.
+- Apakah ini retcon?: Tidak.
