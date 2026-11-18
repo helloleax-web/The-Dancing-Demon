@@ -249,9 +249,9 @@ Tidak ada bidang yang diberi status **BELUM ADA** karena setiap bidang memiliki 
 **Sumber:** [Sejarah dan Bumi Kuno](../00-CORE/02-Sejarah-dan-Bumi-Kuno.md), [Cerita dan Rencana Delapan Buku](../00-CORE/08-Cerita-dan-Rencana-Delapan-Buku.md).
 
 **CATATAN PENGEMBANGAN**
-- Monarki, kekaisaran, republik, oligarki, teokrasi, city-state, dan tribal confederation adalah contoh bentuk pemerintahan yang mungkin.
+- Draft 0.2 kini menyediakan kerangka desain pemerintahan, hukum peninggalan, ekonomi dan rantai pasok, mata uang, kelas sosial, budaya, bahasa, agama, pendidikan, militer, serta organisasi eksplorasi. Seluruh contoh tetap NON-CANON.
 
-**Sumber:** [Civilizations, Politics, Economy, and Culture](Civilizations-Politics-Economy-Culture.md).
+**Sumber:** [Civilizations, Politics, Economy, and Culture — Draft 0.2](Civilizations-Politics-Economy-Culture.md).
 
 **UNKNOWN / kekosongan**
 - Nama negara, perbatasan, ibu kota, penguasa, struktur administrasi, hukum domestik, dan hubungan negara dengan lokasi cerita.
