@@ -349,7 +349,8 @@ Konfigurasi ini direkomendasikan untuk draft karena menghubungkan tiga organisas
 
 
 ## 10. Dokumen terkait
-- [Book I Character Knowledge Matrix — Draft 0.1](Book-I-Character-Knowledge-Matrix-Draft-0.1.md) — melacak informasi yang diketahui tiap karakter dan pembaca pada setiap tahap Buku I.
+- [Book I Character Knowledge Matrix — Draft 0.1](Book-I-Character-Knowledge-Matrix-Draft-0.1.md)
+- [Book I — Manuscript Chapter 01 — Draft 0.1](Book-I-Manuscript-Chapter-01-Draft-0.1.md) — eksperimen prosa untuk pembuka Scene 1. — melacak informasi yang diketahui tiap karakter dan pembaca pada setiap tahap Buku I.
 
 
 - [Character Development Dossier — Draft 0.1](Character-Development-Dossier-Draft-0.1.md) — motivasi, kelemahan, dan arc karakter.
