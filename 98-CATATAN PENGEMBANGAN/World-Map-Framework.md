@@ -1731,6 +1731,75 @@ Batas lempeng tidak boleh dipakai sebagai garis pantai. Setiap siluet benua haru
 
 **Kesimpulan kerja:** rancangan makro V1.0 kini memiliki satu set asumsi konsisten untuk diteruskan: enam benua, total daratan kerja 30%, enam lempeng pembawa, dan komposisi tiga-plus-tiga. Anggaran luas lolos secara aritmetis. Peta belum boleh disebut selesai secara geometris atau CANON sampai uji containment dan persetujuan kreator dilakukan.
 
+### 7.28 Audit ketersediaan geometri presisi untuk uji containment
+
+**Status: CATATAN PENGEMBANGAN / NON-CANON.** Bagian ini mencatat audit sumber sebelum uji containment poligon dijalankan. Tujuannya mencegah hasil yang tampak presisi tetapi sebenarnya dibangun dari koordinat yang tidak memadai.
+
+#### 7.28.1 Sumber yang diperiksa
+
+Audit dilakukan terhadap seluruh file yang tercatat pada tree branch `main` repository The-Dancing-Demon, termasuk:
+- `98-CATATAN PENGEMBANGAN/World-Map-Framework.md`
+- `98-CATATAN PENGEMBANGAN/Geography.md`
+- dokumen inti dan dokumen pengembangan lain yang tercantum pada tree repository.
+
+Pada `World-Map-Framework.md`, data relevan yang tersedia adalah:
+- 14 simpul triple junction.
+- 21 segmen batas.
+- 9 siklus muka lempeng.
+- koordinat bola matematis 14 simpul pada 7.25.3 yang dibulatkan dua desimal.
+- deskripsi metode inverse stereographic projection dan hasil luas pada 7.25.
+
+Tidak ditemukan file terpisah yang menyimpan posisi planar presisi hasil optimasi, parameter kurva batas, atau ekspor geometri poligon V1.0. Tree repository yang diperiksa juga tidak memuat berkas data geometri, skrip konstruksi, atau berkas model yang dapat dipakai untuk mereproduksi koordinat presisi tersebut.
+
+#### 7.28.2 Keputusan metodologis
+
+**Uji containment belum dijalankan.** Koordinat lintang-bujur 7.25.3 tidak akan dipakai sebagai pengganti data presisi karena:
+1. Nilainya dibulatkan dua desimal.
+2. Batas V1.0 didefinisikan sebagai hasil proyeksi segmen planar, bukan otomatis busur geodesik terpendek.
+3. Menghubungkan koordinat bulat dengan busur geodesik akan menghasilkan geometri berbeda dari model V1.0.
+4. Mengarang ulang posisi planar atau menggeser simpul berdasarkan gambar skematis akan menghasilkan model baru, bukan memvalidasi V1.0 yang sudah dicatat.
+
+Karena itu, tidak ada klaim bahwa enam benua telah muat secara geometris pada lempeng pembawanya.
+
+#### 7.28.3 Data minimum untuk melanjutkan tanpa mengubah V1.0
+
+Salah satu paket berikut harus tersedia:
+
+**Paket A — sumber konstruksi asli (pilihan terbaik)**
+- Koordinat planar presisi 14 simpul sebelum inverse stereographic projection.
+- Definisi transformasi, faktor skala, dan orientasi yang dipakai.
+- Daftar sisi/urutan muka yang sama dengan 7.17–7.18.
+- Parameter atau aturan interpolasi setiap batas.
+
+**Paket B — ekspor geometri final**
+- Poligon atau kurva batas kesembilan lempeng dalam format GeoJSON, SVG path dengan sistem koordinat yang terdokumentasi, atau format vektor setara.
+- Sistem koordinat dan proyeksi yang jelas.
+- Presisi koordinat yang memadai untuk pengukuran luas dan containment.
+- Identitas lempeng untuk setiap poligon.
+
+Setelah salah satu paket tersedia, tahap berikutnya adalah menguji enam siluet benua terhadap enam lempeng pembawa, menghitung margin minimum ke batas, memeriksa tidak ada perpotongan, dan menghitung ulang luas pada permukaan bola.
+
+#### 7.28.4 Jalur alternatif jika sumber V1.0 tidak dapat dipulihkan
+
+Jika data asli hilang, jangan merekayasa data lama seolah-olah berhasil dipulihkan. Pilihan yang sah adalah membuat **V1.1 baru** dari awal:
+1. Bangun ulang sembilan poligon bola dari topologi 14 simpul, 21 segmen, dan sembilan siklus muka.
+2. Tetapkan definisi batas secara eksplisit (geodesik atau hasil proyeksi) dan gunakan konsisten.
+3. Optimalkan luas agar mendekati target 7.25.2 dengan toleransi yang ditentukan.
+4. Validasi penutupan bola, tidak ada tumpang tindih/celah, ketetanggaan, serta derajat tiga pada setiap triple junction.
+5. Simpan koordinat presisi dan skrip/data sumber ke repository agar dapat direproduksi.
+6. Baru setelah partisi lempeng lolos, rancang siluet benua dan jalankan uji containment.
+
+V1.1 harus dicatat sebagai versi geometri baru; jangan menimpa atau menyebutnya sebagai reproduksi identik V1.0.
+
+#### 7.28.5 Status audit
+
+- **Ditemukan:** topologi, siklus muka, target luas, koordinat bola yang dibulatkan, dan ringkasan metode V1.0.
+- **Tidak ditemukan:** koordinat planar presisi, data kurva batas, ekspor poligon presisi, atau skrip konstruksi V1.0.
+- **Belum dilakukan:** uji containment benua, pengukuran margin, dan audit geometri siluet.
+- **Keputusan:** tahan uji containment sampai Paket A/Paket B tersedia; jika tidak dapat dipulihkan, bangun V1.1 secara eksplisit sebagai versi baru.
+
+**Kesimpulan kerja:** hambatan saat ini bukan pilihan bentuk benua, melainkan tidak tersedianya geometri presisi yang diperlukan untuk menguji bentuk tersebut terhadap lempeng. Menjaga integritas model lebih penting daripada menghasilkan klaim kelulusan dari data yang tidak cocok.
+
 ## 8. Proposal geografi lama yang belum diputuskan
 
 Dokumen [Geography](Geography.md) sebelumnya mencatat enam nama benua sebagai konsep kerja:
