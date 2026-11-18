@@ -1,0 +1,63 @@
+{
+  "model": "The Dancing Demon — Plate Kinematics Model Framework",
+  "version": "0.1",
+  "date": "2026-11-19",
+  "status": "DEVELOPMENT / NON-CANON / METHOD SPECIFICATION ONLY",
+  "source_topology": "Plate-Boundary-Topology-Inventory-V0.1.json",
+  "geometry": "World-Plate-Geometry-V1.0-R-reconstructed.json",
+  "registration": "R0.2 corrected global rotation; all positions evaluated in the common geographic frame",
+  "unknowns": {
+    "plate_count": 9,
+    "angular_velocity_vector_per_plate": 3,
+    "raw_scalar_parameters": 27,
+    "global_rotation_gauge_degrees_of_freedom": 3,
+    "independent_relative_motion_parameters": 24,
+    "units": "Angular rate units are deliberately unspecified until a planetary time/scale convention is chosen",
+    "reference_plate": "Not selected; a reference may be fixed to zero only as a coordinate gauge, not as a physical claim"
+  },
+  "equations": {
+    "rigid_plate_velocity": "v_i(r) = omega_i × r, for unit position vector r on the sphere",
+    "relative_velocity": "v_ij(r) = (omega_j - omega_i) × r",
+    "boundary_normal_component": "v_n = v_ij · n_ij; n_ij points from face i toward face j. Positive is separation; negative is convergence.",
+    "boundary_tangential_component": "v_t = v_ij · t_ij; t_ij is the local boundary tangent. Nonzero v_t indicates transform-parallel motion.",
+    "triple_junction_condition": "For a triple junction at r, solve (u_TJ - v_i(r)) · n_ij = 0 for each of the three incident boundaries, with u_TJ constrained to the tangent plane.",
+    "triple_junction_residual": "The three boundary-normal constraints must admit one common tangent-plane junction velocity within a declared numerical tolerance."
+  },
+  "required_tests": [
+    "Sample each of the 21 boundary curves at multiple points, not only at its endpoints.",
+    "Determine the oriented boundary normal from the two adjacent face interiors; do not infer orientation from face names.",
+    "Resolve relative velocity into normal and tangential components along each boundary.",
+    "Detect sign changes in normal velocity along a boundary; if present, split the boundary into kinematic segments or classify it as mixed.",
+    "At all 14 triple junctions, solve the three normal-velocity constraints for one junction velocity and report residuals.",
+    "Check whether boundary classifications remain stable under increased sampling density.",
+    "Only after kinematics pass, combine motion with separately justified crust-type assignments."
+  ],
+  "classification_rules": {
+    "divergent": "Consistently positive v_n under the declared i-to-j normal convention.",
+    "convergent": "Consistently negative v_n under the declared i-to-j normal convention.",
+    "transform": "Normal component near zero while tangential component is materially nonzero.",
+    "oblique_or_mixed": "Both components materially nonzero, or normal sign changes along the boundary.",
+    "unclassified": "Velocity magnitude or component is below the declared resolution/tolerance."
+  },
+  "crust_and_geology_separation": [
+    "Plate face names do not determine crust type.",
+    "Convergent motion alone does not determine which side subducts.",
+    "Subduction requires an independently justified density/buoyancy and lithosphere-age model.",
+    "Continental collision, oceanic subduction, and oceanic spreading require different crustal context.",
+    "Mountain building and volcanism must follow from the resulting boundary process and crust type, not be assigned directly from the map."
+  ],
+  "acceptance_gates": [
+    "All 21 boundaries have two identified adjacent faces and a stable orientation convention.",
+    "All 14 triple junctions pass the junction-velocity residual test.",
+    "Boundary classifications are stable under boundary sampling refinement.",
+    "Any assigned crust type is supported by a separate crust map and area accounting.",
+    "Any subduction polarity is supported by a density/age rationale.",
+    "No boundary type is assigned solely to make a desired mountain range or plot location possible."
+  ],
+  "limits": [
+    "No angular velocity vectors or Euler poles have been selected.",
+    "No plate speeds, directions, crust types, subduction polarity, spreading centers, transform faults, or mountain belts are defined.",
+    "This file is a method specification, not a geodynamic model.",
+    "All content remains NON-CANON."
+  ]
+}
