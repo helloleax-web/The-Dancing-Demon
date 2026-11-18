@@ -54,13 +54,13 @@ Untuk menghindari singularitas proyeksi pada daratan, chart stereografis dibangu
 | Frost | 8,00% |
 | Ashen | 7,00% |
 | Veiled | 11,00% |
-| North Ocean | 14,00% |
+| North Ocean | 14,01% |
 | West Ocean | 11,00% |
 | Southeast Ocean | 9,00% |
 
-Total luas enam benua: **30,00%** permukaan bola. Jumlah luas sembilan muka: **100,00%**. Deviasi target maksimum muka lempeng: sekitar **0,00362 poin persentase**. Deviasi target maksimum luas benua: sekitar **0,00016 poin persentase**.
+Total luas enam benua: **30,00%** permukaan bola. Jumlah luas sembilan muka: **100,00%**. Deviasi target maksimum muka lempeng: sekitar **0,00906 poin persentase**. Deviasi target maksimum luas benua: sekitar **0,00016 poin persentase**.
 
-North Ocean adalah muka yang memuat kutub chart. Karena itu poligon muka tersebut direpresentasikan sebagai komplemen delapan muka terbatas lainnya. Irisan North Ocean untuk setiap benua dihitung sebagai sisa luas setelah delapan irisan terbatas dijumlahkan. Penutupan luas ini dibangun lewat komplemen, bukan hasil clipping independen kesembilan.
+North Ocean adalah muka yang memuat kutub chart. Karena itu poligon muka tersebut direpresentasikan sebagai komplemen delapan muka terbatas lainnya. Irisan North Ocean untuk setiap benua dihitung sebagai sisa luas setelah delapan irisan terbatas dijumlahkan. Luas North Ocean juga dihitung sebagai komplemen delapan muka lain. Penutupan luas ini dibangun lewat komplemen, bukan hasil clipping independen kesembilan.
 
 ## 4. Muka dominan tiap benua
 
