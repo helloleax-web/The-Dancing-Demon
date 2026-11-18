@@ -9,7 +9,9 @@ Paket ini berisi dokumen selain `00-CORE`, sehingga tidak mengulang 10 dokumen i
 - `01-CANON/Organization-Bible.md` — dokumentasi fakta organisasi yang tercantum dalam repository serta informasi organisasi yang belum ditentukan.
 - `98-CATATAN PENGEMBANGAN/` — materi pengembangan yang dipertahankan dari arsip sumber. Isinya tidak otomatis menjadi kanon.
 - [Worldbuilding Coverage Matrix](98-CATATAN%20PENGEMBANGAN/Worldbuilding-Coverage-Matrix.md) — audit kelengkapan dokumentasi 19 bidang worldbuilding. Status cakupan dan prioritasnya adalah alat perencanaan, bukan penetapan canon.
-- `99-ADMIN/` — catatan perubahan dan pertanyaan terbuka.
+- `99-ADMIN/` — laporan audit, kebijakan editorial, changelog, dan pertanyaan terbuka.
+- [Canon Audit Report](99-ADMIN/Canon-Audit-Report-2026-11-18.md) — hasil audit konsistensi dan status temuan.
+- [Editorial and Repository Maintenance Policy](99-ADMIN/Editorial-Maintenance-Policy.md) — standar pemeliharaan dan pengembangan.
 - `README.md` — panduan repository.
 
 ## Jalur baca
@@ -17,7 +19,8 @@ Paket ini berisi dokumen selain `00-CORE`, sehingga tidak mengulang 10 dokumen i
 2. Gunakan [indeks dokumentasi inti](00-CORE/00-README.md) untuk topik dan sumber detail.
 3. Baca dokumen `01-CANON/` yang ditautkan dari indeks sesuai topik.
 4. Gunakan [Worldbuilding Coverage Matrix](98-CATATAN%20PENGEMBANGAN/Worldbuilding-Coverage-Matrix.md) untuk melihat cakupan, kekosongan, dan urutan pengembangan yang direkomendasikan.
-5. Perlakukan `98-CATATAN PENGEMBANGAN/` sebagai materi yang belum disahkan.
+5. Perlakukan `98-CATATAN PENGEMBANGAN/` sebagai materi pengembangan yang belum otomatis menjadi CANON.
+6. Gunakan kebijakan editorial untuk memahami cara perubahan, usulan, dan keputusan dicatat.
 
 ## Catatan
 Dokumen dipertahankan berdasarkan arsip ZIP sebelumnya. Tidak ada materi yang dipromosikan menjadi kanon hanya karena dipindahkan atau diganti nama foldernya. Paket ini tidak memuat ulang `00-CORE/`. Nama folder pada daftar di atas mengikuti path yang tersedia di repository.
