@@ -47,10 +47,12 @@ Empat kategori pertama memiliki hak suara. Observer tidak memiliki hak suara.
 - Jika tidak ada kandidat yang lolos, tidak ada kandidat yang dapat dipilih melalui jalur normal.
 
 ## Ketua sementara
-Mekanisme kombinasi berdasarkan situasi:
-- Jika Wakil Ketua tersedia dan dapat mengambil alih, Wakil Ketua menjalankan tugas sementara.
-- Jika Wakil Ketua tidak tersedia, Majelis Umum memilih Ketua sementara.
-- Jika Ketua sebelumnya masih sah dan mampu, ia dapat melanjutkan tugas sementara.
+Mekanisme sementara mengikuti urutan berikut:
+1. **Kelanjutan mandat yang masih sah:** jika Ketua sebelumnya masih memiliki dasar kewenangan yang sah untuk menjalankan tugas sementara dan tetap mampu bertugas, ia dapat melanjutkan tugas sampai proses pengalihan selesai. Ketentuan ini tidak memberi Ketua hak untuk memperpanjang masa jabatannya sendiri atau menciptakan perpanjangan mandat baru.
+2. **Pengambilalihan oleh Wakil Ketua:** jika Ketua sebelumnya tidak dapat atau tidak lagi berwenang menjalankan tugas sementara, Wakil Ketua mengambil alih selama tersedia dan memenuhi syarat.
+3. **Pemilihan oleh Majelis Umum:** jika Ketua sebelumnya dan Wakil Ketua sama-sama tidak dapat mengambil alih, Majelis Umum memilih Ketua sementara.
+
+Ketua yang diberhentikan, dinyatakan tidak layak, atau kehilangan dasar kewenangan tidak dapat menggunakan ketentuan kelanjutan mandat.
 
 Ketua sementara memiliki kewenangan terbatas, dengan pengecualian untuk keadaan mendesak. Tindakan mendesak wajib dilaporkan dan diajukan untuk pengesahan Majelis Umum.
 
