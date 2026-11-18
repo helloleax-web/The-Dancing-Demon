@@ -1,87 +1,38 @@
 {
-  "model": "The Dancing Demon — Plate Geometry V1.1 prototype",
-  "status": "DEVELOPMENT / NON-CANON / AREA TARGETS NOT MET",
-  "method": "NetworkX planar embedding of the 14-node, 21-edge graph; bounded faces mapped to unit sphere by inverse stereographic projection; Central is the complementary face.",
-  "projection": {
-    "type": "inverse_stereographic",
-    "formula": {
-      "X": "2x/(1+x^2+y^2)",
-      "Y": "2y/(1+x^2+y^2)",
-      "Z": "(x^2+y^2-1)/(1+x^2+y^2)"
-    }
+  "model":"The Dancing Demon — Plate Geometry V1.1 prototype",
+  "status":"DEVELOPMENT / NON-CANON / AREA TARGETS NOT MET",
+  "method":"NetworkX planar embedding of the 14-node, 21-edge graph; bounded faces mapped to the unit sphere by inverse stereographic projection; Central is the complementary face.",
+  "projection":{"type":"inverse_stereographic","formula":{"X":"2x/(1+x^2+y^2)","Y":"2y/(1+x^2+y^2)","Z":"(x^2+y^2-1)/(1+x^2+y^2)"}},
+  "validation":{"vertices":14,"edges":21,"faces":9,"euler_V_minus_E_plus_F":2,"planar_graph":true,"face_cycles_match_7_18":true,"area_targets_met":false,"containment_tested":false},
+  "area_percent_surface":{"Central":83.407587,"Verdant":4.712045,"Sands":4.230092,"Frost":1.083670,"Ashen":4.400663,"Veiled":1.197482,"North Ocean":0.195159,"West Ocean":0.082789,"Southeast Ocean":0.690513},
+  "target_percent_surface":{"Central":18,"Verdant":12,"Sands":10,"Frost":8,"Ashen":7,"Veiled":11,"North Ocean":14,"West Ocean":11,"Southeast Ocean":9},
+  "nodes":{
+    "TJ-01":{"planar_xy":[-1.0,-0.34759358288770054],"sphere_xyz":[-0.9430308914148564,-0.327791486320672,0.05696910858514357],"math_lat_lon_deg":[3.2658576572865807,-160.8328765995142]},
+    "TJ-02":{"planar_xy":[0.12299465240641706,-0.12299465240641713],"sphere_xyz":[0.23876537041663184,-0.23876537041663198,-0.9412662725178338],"math_lat_lon_deg":[-70.2653093497377,-45.0]},
+    "TJ-03":{"planar_xy":[0.12299465240641706,-0.04812834224598933],"sphere_xyz":[0.2417718316984737,-0.09460636892548979,-0.9657101098962869],"math_lat_lon_deg":[-74.95232005690275,-21.370622269343205]},
+    "TJ-04":{"planar_xy":[0.19786096256684488,-0.19786096256684493],"sphere_xyz":[0.36698756199114224,-0.3669875619911423,-0.854774975468746],"math_lat_lon_deg":[-58.73488393009928,-45.0]},
+    "TJ-05":{"planar_xy":[0.6470588235294117,-0.2727272727272727],"sphere_xyz":[0.8667522169657734,-0.36532531458887973,-0.3395261534925591],"math_lat_lon_deg":[-19.84800741810318,-22.85481996177672]},
+    "TJ-06":{"planar_xy":[0.19786096256684488,0.02673796791443847],"sphere_xyz":[0.38055165965404386,0.05142589995324912,-0.9233286582515194],"math_lat_lon_deg":[-67.41766529855818,7.696051722016563]},
+    "TJ-07":{"planar_xy":[0.12299465240641706,0.3262032085561497],"sphere_xyz":[0.21933246640658857,0.5817078456870394,-0.7832683138274816],"math_lat_lon_deg":[-51.56080092015984,69.34108993669251]},
+    "TJ-08":{"planar_xy":[0.3475935828877005,0.10160427807486627],"sphere_xyz":[0.6145872835292631,0.17964859057009225,-0.7681203387688031],"math_lat_lon_deg":[-50.18539567224338,16.294047456598907]},
+    "TJ-09":{"planar_xy":[0.7967914438502672,-0.34759358288770054],"sphere_xyz":[0.9076634905122566,-0.3959605831093737,-0.13914813909927531],"math_lat_lon_deg":[-7.998555737800685,-23.568832723766807]},
+    "TJ-10":{"planar_xy":[-0.32620320855614976,0.3262032085561497],"sphere_xyz":[-0.537926481337389,0.5379264813373889,-0.6490533116408479],"math_lat_lon_deg":[-40.47026360017346,135.0]},
+    "TJ-11":{"planar_xy":[-0.40106951871657753,0.17647058823529407],"sphere_xyz":[-0.6729362090060695,0.29609193196267053,-0.6778542811218002],"math_lat_lon_deg":[-42.67619569205517,156.25050550713325]},
+    "TJ-12":{"planar_xy":[-0.25133689839572193,0.2513368983957219],"sphere_xyz":[-0.4462893848224034,0.44628938482240327,-0.7756620204636049],"math_lat_lon_deg":[-50.86509224108984,135.0]},
+    "TJ-13":{"planar_xy":[-0.10160427807486634,0.10160427807486627],"sphere_xyz":[-0.19909781177327626,0.19909781177327612,-0.9595416211369815],"math_lat_lon_deg":[-73.64625996432642,135.0]},
+    "TJ-14":{"planar_xy":[-0.47593582887700536,0.02673796791443847],"sphere_xyz":[-0.7756262379121518,0.04357450774787364,-0.6296865897704764],"math_lat_lon_deg":[-39.027003481416855,176.7845160082518]}
   },
-  "validation": {
-    "vertices": 14,
-    "edges": 21,
-    "faces": 9,
-    "euler_V_minus_E_plus_F": 2,
-    "planar_graph": true,
-    "face_cycles_match_7_18": true,
-    "surface_partition": "topological partition via planar embedding and complementary outer face",
-    "area_targets_met": false,
-    "containment_tested": false
+  "edges":[["TJ-01","TJ-09"],["TJ-04","TJ-05"],["TJ-05","TJ-09"],["TJ-01","TJ-02"],["TJ-02","TJ-04"],["TJ-12","TJ-13"],["TJ-10","TJ-12"],["TJ-07","TJ-08"],["TJ-07","TJ-13"],["TJ-08","TJ-09"],["TJ-01","TJ-10"],["TJ-11","TJ-12"],["TJ-13","TJ-14"],["TJ-11","TJ-14"],["TJ-10","TJ-11"],["TJ-06","TJ-07"],["TJ-06","TJ-08"],["TJ-05","TJ-06"],["TJ-03","TJ-14"],["TJ-03","TJ-04"],["TJ-02","TJ-03"]],
+  "faces":{
+    "Central":["TJ-10","TJ-12","TJ-13","TJ-07","TJ-08","TJ-09","TJ-01"],
+    "Verdant":["TJ-10","TJ-11","TJ-14","TJ-03","TJ-02","TJ-01"],
+    "Sands":["TJ-13","TJ-14","TJ-03","TJ-04","TJ-05","TJ-06","TJ-07"],
+    "Frost":["TJ-11","TJ-12","TJ-13","TJ-14"],
+    "Ashen":["TJ-01","TJ-02","TJ-04","TJ-05","TJ-09"],
+    "Veiled":["TJ-05","TJ-06","TJ-08","TJ-09"],
+    "North Ocean":["TJ-10","TJ-11","TJ-12"],
+    "West Ocean":["TJ-02","TJ-03","TJ-04"],
+    "Southeast Ocean":["TJ-06","TJ-07","TJ-08"]
   },
-  "area_percent_surface": {
-    "Verdant": 4.712045,
-    "Sands": 4.230092,
-    "Frost": 1.083670,
-    "Ashen": 4.400663,
-    "Veiled": 1.197482,
-    "North Ocean": 0.195158,
-    "West Ocean": 0.082789,
-    "Southeast Ocean": 0.690513,
-    "Central": 83.407587
-  },
-  "target_percent_surface": {
-    "Central": 18,
-    "Verdant": 12,
-    "Sands": 10,
-    "Frost": 8,
-    "Ashen": 7,
-    "Veiled": 11,
-    "North Ocean": 14,
-    "West Ocean": 11,
-    "Southeast Ocean": 9
-  },
-  "nodes": {
-    "TJ-01": {"planar_xy": [-0.5714285714, 0.1428571429], "sphere_xyz": [-0.8620689655, 0.4137931034, -0.2931034483], "math_lat_lon_deg": [-17.0357, 154.3662]},
-    "TJ-02": {"planar_xy": [-0.4285714286, -0.5714285714], "sphere_xyz": [-0.7868852459, -0.5245901639, -0.3278688525], "math_lat_lon_deg": [-19.1402, -146.3099]},
-    "TJ-03": {"planar_xy": [-0.1428571429, -1.0], "sphere_xyz": [-0.2666666667, -0.9333333333, 0.1333333333], "math_lat_lon_deg": [7.6623, -105.9454]},
-    "TJ-04": {"planar_xy": [0.0, -0.7142857143], "sphere_xyz": [0.0, -0.9467455621, -0.3219538462], "math_lat_lon_deg": [-18.7776, -90.0]},
-    "TJ-05": {"planar_xy": [0.2857142857, -0.5714285714], "sphere_xyz": [0.4854368932, -0.9708737864, -0.2038834951], "math_lat_lon_deg": [-11.7663, -63.4218]},
-    "TJ-06": {"planar_xy": [0.7142857143, -0.4285714286], "sphere_xyz": [0.9220779221, -0.5532467532, -0.1844155844], "math_lat_lon_deg": [-10.6125, -31.0027]},
-    "TJ-07": {"planar_xy": [1.0, -0.1428571429], "sphere_xyz": [0.9333333333, -0.1333333333, 0.3333333333], "math_lat_lon_deg": [19.4712, -8.1301]},
-    "TJ-08": {"planar_xy": [0.8571428571, 0.2857142857], "sphere_xyz": [0.8641975309, 0.2880658436, 0.412345679], "math_lat_lon_deg": [24.3460, 18.4349]},
-    "TJ-09": {"planar_xy": [0.4285714286, 0.4285714286], "sphere_xyz": [0.65625, 0.65625, -0.375], "math_lat_lon_deg": [-22.0243, 45.0]},
-    "TJ-10": {"planar_xy": [-1.0, 0.7142857143], "sphere_xyz": [-0.7619047619, 0.5442176871, 0.3537414966], "math_lat_lon_deg": [20.7030, 144.4623]},
-    "TJ-11": {"planar_xy": [-0.8571428571, 1.0], "sphere_xyz": [-0.724137931, 0.8448275862, 0.1206896552], "math_lat_lon_deg": [6.9285, 130.6013]},
-    "TJ-12": {"planar_xy": [-0.4285714286, 1.0], "sphere_xyz": [-0.4246575342, 0.9917808219, 0.1164383562], "math_lat_lon_deg": [6.6842, 113.1986]},
-    "TJ-13": {"planar_xy": [0.0, 0.7142857143], "sphere_xyz": [0.0, 0.9467455621, -0.3219538462], "math_lat_lon_deg": [-18.7776, 90.0]},
-    "TJ-14": {"planar_xy": [-0.1428571429, 0.2857142857], "sphere_xyz": [-0.2564102564, 0.5128205128, -0.8192307692], "math_lat_lon_deg": [-54.9650, 116.5651]}
-  },
-  "edges": [
-    ["TJ-01","TJ-09"], ["TJ-04","TJ-05"], ["TJ-05","TJ-09"], ["TJ-01","TJ-02"],
-    ["TJ-02","TJ-04"], ["TJ-12","TJ-13"], ["TJ-10","TJ-12"], ["TJ-07","TJ-08"],
-    ["TJ-07","TJ-13"], ["TJ-08","TJ-09"], ["TJ-01","TJ-10"], ["TJ-11","TJ-12"],
-    ["TJ-13","TJ-14"], ["TJ-11","TJ-14"], ["TJ-10","TJ-11"], ["TJ-06","TJ-07"],
-    ["TJ-06","TJ-08"], ["TJ-05","TJ-06"], ["TJ-03","TJ-14"], ["TJ-03","TJ-04"],
-    ["TJ-02","TJ-03"]
-  ],
-  "faces": {
-    "Central": ["TJ-10","TJ-12","TJ-13","TJ-07","TJ-08","TJ-09","TJ-01"],
-    "Verdant": ["TJ-10","TJ-11","TJ-14","TJ-03","TJ-02","TJ-01"],
-    "Sands": ["TJ-13","TJ-14","TJ-03","TJ-04","TJ-05","TJ-06","TJ-07"],
-    "Frost": ["TJ-11","TJ-12","TJ-13","TJ-14"],
-    "Ashen": ["TJ-01","TJ-02","TJ-04","TJ-05","TJ-09"],
-    "Veiled": ["TJ-05","TJ-06","TJ-08","TJ-09"],
-    "North Ocean": ["TJ-10","TJ-11","TJ-12"],
-    "West Ocean": ["TJ-02","TJ-03","TJ-04"],
-    "Southeast Ocean": ["TJ-06","TJ-07","TJ-08"]
-  },
-  "notes": [
-    "Coordinates are mathematical, not geographic.",
-    "Each boundary is the stereographic image of a straight planar segment; it is not a shortest geodesic arc.",
-    "The current NetworkX planar_layout is a topology-preserving prototype only; measured areas deviate substantially from targets.",
-    "Do not use this geometry for continent containment until area optimization and geometry validation are complete."
-  ]
+  "notes":["Coordinates are mathematical, not geographic.","Boundaries are projected straight planar segments, not shortest geodesic arcs.","This prototype preserves face topology but its areas deviate substantially from targets.","Do not use for continent containment until area optimization is complete."]
 }
