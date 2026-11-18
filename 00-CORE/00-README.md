@@ -21,6 +21,13 @@ Paket ini berisi ringkasan, indeks, dan panduan kontinuitas untuk lore *The Danc
 - [Open Questions](../99-ADMIN/Open-Questions.md) — daftar keputusan dan pengembangan yang masih terbuka.
 - [Canon Changelog](../99-ADMIN/Canon-Changelog.md) — riwayat perubahan canon dan dokumentasi.
 
+## Materi pengembangan cerita
+
+Dokumen berikut merupakan draft NON-CANON dan tidak menggantikan Bible rujukan:
+- [Character Development Dossier — Draft 0.1](../98-CATATAN%20PENGEMBANGAN/Character-Development-Dossier-Draft-0.1.md) — proposal profil dan arc karakter.
+- [Book I Scene Outline — Draft 0.1](../98-CATATAN%20PENGEMBANGAN/Book-I-Scene-Outline-Draft-0.1.md) — pengembangan premis Buku I menjadi rangkaian adegan.
+- [Location & Organization Dossier — Draft 0.1](../98-CATATAN%20PENGEMBANGAN/Location-Organization-Development-Dossier-Draft-0.1.md) — proposal fungsi lokasi dan organisasi.
+
 ## Status informasi
 
 -   **CANON** --- telah ditetapkan kreator.
