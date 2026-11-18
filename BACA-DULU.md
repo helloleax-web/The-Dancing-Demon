@@ -16,6 +16,7 @@ Paket ini berisi dokumen selain `00-CORE`, sehingga tidak mengulang 10 dokumen i
 - [Book I Scene Outline — Draft 0.1](98-CATATAN%20PENGEMBANGAN/Book-I-Scene-Outline-Draft-0.1.md) — rancangan adegan Buku I.
 - [Location & Organization Dossier — Draft 0.1](98-CATATAN%20PENGEMBANGAN/Location-Organization-Development-Dossier-Draft-0.1.md) — proposal lokasi dan organisasi.
 - [Eight-Book Series Architecture — Draft 0.1](98-CATATAN%20PENGEMBANGAN/Eight-Book-Series-Architecture-Draft-0.1.md) — arsitektur pengembangan delapan buku.
+- [Mystery & Foreshadowing Ledger — Draft 0.1](98-CATATAN%20PENGEMBANGAN/Mystery-and-Foreshadowing-Ledger-Draft-0.1.md) — pengelolaan misteri dan petunjuk.
 - `README.md` — panduan repository.
 
 ## Jalur baca
