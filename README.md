@@ -31,6 +31,7 @@ Dokumen ini adalah pusat dokumentasi dunia LEAX. Isinya memisahkan fakta yang su
 - [Character Development Dossier — Draft 0.1](98-CATATAN%20PENGEMBANGAN/Character-Development-Dossier-Draft-0.1.md) — rancangan motivasi, kepribadian, kelemahan, dan arc enam karakter.
 - [Book I Scene Outline — Draft 0.1](98-CATATAN%20PENGEMBANGAN/Book-I-Scene-Outline-Draft-0.1.md) — kerangka 19 adegan Buku I.
 - [Location & Organization Dossier — Draft 0.1](98-CATATAN%20PENGEMBANGAN/Location-Organization-Development-Dossier-Draft-0.1.md) — proposal fungsi lokasi dan organisasi yang telah terdaftar.
+- [Eight-Book Series Architecture — Draft 0.1](98-CATATAN%20PENGEMBANGAN/Eight-Book-Series-Architecture-Draft-0.1.md) — fungsi dramatik delapan buku, eskalasi konflik, dan arc lintas seri.
 
 ### Catatan
 Dokumen ini merupakan konsolidasi berdasarkan informasi yang tersedia dalam percakapan worldbuilding. Bagian yang belum memiliki dasar canon secara eksplisit ditandai sebagai catatan pengembangan atau unknown.
