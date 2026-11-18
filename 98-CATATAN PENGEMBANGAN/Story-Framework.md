@@ -42,5 +42,11 @@ Catat untuk setiap petunjuk:
 - Makna sebenarnya (jika telah ditentukan).
 - Waktu pengungkapan.
 - Karakter yang mengetahuinya.
-\n\n## Dokumen pengembangan terkait\n\n- [Character Development Dossier — Draft 0.1](Character-Development-Dossier-Draft-0.1.md) — proposal profil dan arc karakter.\n- [Book I Scene Outline — Draft 0.1](Book-I-Scene-Outline-Draft-0.1.md) — pengembangan adegan Buku I.\n- [Eight-Book Series Architecture — Draft 0.1](Eight-Book-Series-Architecture-Draft-0.1.md) — fungsi dramatik dan kesinambungan seri.
+
+
+## Dokumen pengembangan terkait
+
+- [Character Development Dossier — Draft 0.1](Character-Development-Dossier-Draft-0.1.md) — proposal profil dan arc karakter.
+- [Book I Scene Outline — Draft 0.1](Book-I-Scene-Outline-Draft-0.1.md) — pengembangan adegan Buku I.
+- [Eight-Book Series Architecture — Draft 0.1](Eight-Book-Series-Architecture-Draft-0.1.md) — fungsi dramatik dan kesinambungan seri.
 - [Mystery & Foreshadowing Ledger — Draft 0.1](Mystery-and-Foreshadowing-Ledger-Draft-0.1.md) — pencatatan petunjuk dan urutan pengungkapan misteri.
