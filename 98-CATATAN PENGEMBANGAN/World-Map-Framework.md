@@ -2022,6 +2022,42 @@ Hasil ini **bukan bukti matematis bahwa solusi teratur mustahil**. Ini hanya men
 
 **Kesimpulan:** target luas dapat dicocokkan secara numerik hanya dengan bentuk yang terlalu ekstrem pada eksperimen ini. Belum ada geometri baru yang lolos sekaligus syarat luas, kecembungan, dan regularitas. Koreksi definisi Central sebagai komplemen kini menjadi aturan wajib.
 
+### 7.35 Optimasi sudut batas cembung pada lingkaran
+
+**Status: CATATAN PENGEMBANGAN / NON-CANON.** Tahap ini menguji parameterisasi yang lebih stabil daripada koordinat Cartesian bebas: tujuh simpul pada batas Central ditempatkan berurutan pada lingkaran, dengan tujuh celah sudut positif yang jumlahnya tepat 360 derajat. Tujuh simpul interior dihitung ulang menggunakan persamaan barycentric Tutte dengan bobot seragam.
+
+#### 7.35.1 Validitas konstruksi
+
+Karena simpul batas berada pada lingkaran dan urutan sudut dipertahankan, batas luar selalu cembung. Dengan graf planar 3-connected dan konstruksi Tutte, embedding bidang mempertahankan sifat bebas persilangan. Luas muka dihitung pada bola satuan setelah inverse stereographic projection; Central dihitung sebagai komplemen delapan muka terbatas.
+
+#### 7.35.2 Hasil pencarian awal
+
+Optimasi multi-start dilakukan dari sepuluh inisialisasi sudut. Solusi terbaik yang ditemukan menghasilkan luas berikut:
+
+| Muka | Aktual (%) | Target (%) |
+|---|---:|---:|
+| Central | 54.23 | 18 |
+| Verdant | 13.05 | 12 |
+| Sands | 14.95 | 10 |
+| Frost | 4.93 | 8 |
+| Ashen | 5.90 | 7 |
+| Veiled | 3.74 | 11 |
+| Samudra Utara | 1.27 | 14 |
+| Samudra Barat | 0.74 | 11 |
+| Samudra Timur-Selatan | 1.19 | 9 |
+| **Total** | **100.00** | **100** |
+
+Parameterisasi lingkaran menjaga kecembungan dan planaritas, tetapi tidak cukup fleksibel untuk mendekati target luas. Tiga muka samudra tetap terlalu kecil, sementara Central tetap terlalu besar. Hasil ini adalah solusi terbaik dari pencarian awal yang dijalankan, bukan bukti optimum global.
+
+#### 7.35.3 Keputusan
+
+- Pertahankan hasil ini hanya sebagai audit pembanding; jangan simpan sebagai kandidat geometri pengganti Tutte V1.1.
+- Jangan mengubah target luas untuk menyesuaikan keterbatasan lingkaran.
+- Tahap berikutnya menggunakan poligon batas cembung umum, bukan lingkaran: sudut tetap berurutan, tetapi panjang radial dan bentuk sisi dapat berubah dengan kendala kecembungan eksplisit.
+- Setiap hasil tetap wajib lolos uji persilangan, non-degenerasi, dan penutupan luas 100%.
+
+**Kesimpulan:** lingkaran cembung memberi jaminan konstruksi yang bersih, tetapi parameterisasi ini terlalu terbatas untuk distribusi luas yang ditargetkan. Optimasi beralih ke batas luar cembung umum dengan lebih banyak derajat kebebasan.
+
 ## 8. Proposal geografi lama yang belum diputuskan
 
 Dokumen [Geography](Geography.md) sebelumnya mencatat enam nama benua sebagai konsep kerja:
