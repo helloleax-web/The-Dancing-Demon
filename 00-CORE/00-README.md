@@ -27,6 +27,7 @@ Dokumen berikut merupakan draft NON-CANON dan tidak menggantikan Bible rujukan:
 - [Character Development Dossier — Draft 0.1](../98-CATATAN%20PENGEMBANGAN/Character-Development-Dossier-Draft-0.1.md) — proposal profil dan arc karakter.
 - [Book I Scene Outline — Draft 0.1](../98-CATATAN%20PENGEMBANGAN/Book-I-Scene-Outline-Draft-0.1.md) — pengembangan premis Buku I menjadi rangkaian adegan.
 - [Location & Organization Dossier — Draft 0.1](../98-CATATAN%20PENGEMBANGAN/Location-Organization-Development-Dossier-Draft-0.1.md) — proposal fungsi lokasi dan organisasi.
+- [Eight-Book Series Architecture — Draft 0.1](../98-CATATAN%20PENGEMBANGAN/Eight-Book-Series-Architecture-Draft-0.1.md) — rancangan fungsi dan kesinambungan delapan buku.
 
 ## Status informasi
 
