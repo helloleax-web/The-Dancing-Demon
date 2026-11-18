@@ -21,14 +21,14 @@ V1.0-R adalah rekonstruksi numerik baru dari geometri lempeng yang sebelumnya di
 | Derajat semua simpul | 3 |
 | Konektivitas simpul | 3 |
 | Persilangan sisi non-insiden | 0 |
-| Batas luar | Cembung |
+| Batas luar | Cembung; radius dan metadata sudut dapat direproduksi |
 | Poligon setiap muka | Valid |
 | Delapan muka terbatas menutup poligon luar | Ya |
 | Luas tumpang tindih planar | Mendekati 0 (presisi floating point) |
 | Jumlah luas permukaan | 100% |
 | Deviasi luas maksimum | 0,002188 poin persentase |
 
-Semua 7 simpul interior berada di dalam batas luar. Koordinat interior dapat direproduksi dari bobot sisi positif yang tersimpan menggunakan persamaan barycentric Tutte. Proyeksi inverse stereographic menghasilkan titik pada bola satuan.
+Semua 7 simpul interior berada di dalam batas luar. Koordinat interior dapat direproduksi dari bobot sisi positif yang tersimpan menggunakan persamaan barycentric Tutte. Radius batas, sudut simpul, dan celah sudut berjumlah 2π juga lolos pemeriksaan. Proyeksi inverse stereographic menghasilkan titik pada bola satuan.
 
 ## 3. Luas permukaan
 
