@@ -379,3 +379,11 @@ Dokumen konsolidasi ini dibuat berdasarkan lore yang telah ditetapkan dalam perc
 - Batas: orientasi geografis final, klasifikasi kerak, dan geodinamika belum dipilih/divalidasi.
 - Dampak CANON: tidak ada.
 - Artefak: Continental–Plate Overlay R0.1, SVG overlay, dan audit JSON.
+
+
+## Kandidat registrasi R0.2 — 2026-11-18
+
+- Keputusan pengembangan: R0.2 menjadi kandidat kerja berdasarkan metrik kekompakan overlay; 87,50% pada screening dan 87,27% pada audit raster resolusi lebih tinggi, dibanding 67,61% untuk R0.1.
+- Batas: bukan optimum global, bukan validasi geologi, dan bukan orientasi CANON.
+- Artefak: Continental–Plate Overlay R0.2, SVG overlay, dan audit JSON.
+- Dampak CANON: tidak ada.
