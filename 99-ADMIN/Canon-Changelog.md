@@ -244,3 +244,12 @@ Dokumen konsolidasi ini dibuat berdasarkan lore yang telah ditetapkan dalam perc
 - Keputusan: Validator V1.0-R diperluas untuk memastikan seluruh sisi memiliki bobot Tutte positif dan target persentase luas berjumlah tepat 100%. Uji ulang pada salinan data kerja menghasilkan RESULT: PASS; laporan validasi diperbarui.
 - Dokumen yang diperbarui: `98-CATATAN PENGEMBANGAN/validate_plate_geometry_v1_0_r.py` dan `World-Plate-Geometry-V1.0-R-Validation.md`.
 - Apakah ini retcon?: Tidak.
+
+
+## Catatan navigasi geometri V1.0-R 2026-11-18
+
+- Tanggal: 2026-11-18
+- Topik: Penambahan jalur baca geometri lempeng tervalidasi.
+- Keputusan: BACA-DULU.md ditautkan ke laporan validasi V1.0-R agar baseline geometri terbaru mudah ditemukan tanpa menganggapnya sebagai CANON.
+- Dokumen yang diperbarui: `BACA-DULU.md`.
+- Apakah ini retcon?: Tidak.
