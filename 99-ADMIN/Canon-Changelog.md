@@ -181,3 +181,12 @@ Dokumen konsolidasi ini dibuat berdasarkan lore yang telah ditetapkan dalam perc
 - Keputusan: World Map Framework kini menjelaskan bahwa pada tahap geometri V1.0 siluet benua belum ditempatkan secara geometris di dalam poligon lempeng. Pemetaan konseptual benua ke lempeng pembawa telah dibuat pada bagian berikutnya, tetapi containment tetap belum diuji. Status tahap awal 7.20 juga diberi konteks historis agar tidak terbaca sebagai status terbaru.
 - Dokumen yang diperbarui: `98-CATATAN PENGEMBANGAN/World-Map-Framework.md`.
 - Apakah ini retcon?: Tidak. Klarifikasi tahapan pengembangan.
+
+
+## Catatan perapian struktur Atlas Draft V1 2026-11-18
+
+- Tanggal: 2026-11-18
+- Topik: Penghapusan nomor bagian ganda pada riwayat iterasi atlas.
+- Keputusan: Dua heading iterasi siluet makro V1 dan kerangka koordinat V0.5 diubah menjadi heading berbasis versi tanpa nomor bagian yang duplikat. Isi dan rujukan teknis tidak diubah.
+- Dokumen yang diperbarui: `98-CATATAN PENGEMBANGAN/World-Atlas-Draft-V1.md`.
+- Apakah ini retcon?: Tidak.
