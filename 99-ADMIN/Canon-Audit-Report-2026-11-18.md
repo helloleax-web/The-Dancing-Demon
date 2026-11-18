@@ -184,7 +184,7 @@ Tidak ada kontradiksi langsung antara “peradaban musnah sepenuhnya” dan “s
 
 Dokumen inti dan dokumen CANON mempertahankan fakta yang sama:
 - Great War pernah terjadi.
-- NVR AGAIN terdengar di seluruh dunia selama perang.
+- Musik yang kemudian diketahui bernama NVR AGAIN terdengar di seluruh dunia selama perang.
 - Sekutu LEAX memperoleh jubah mana hitam dengan pertahanan luar biasa dan regenerasi HP serta MP berkelanjutan.
 - Peristiwa tersebut dikenal sebagai Resonansi Hitam.
 - Nama NVR AGAIN diketahui ketika Prasasti pertama ditemukan.
