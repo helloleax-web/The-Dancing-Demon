@@ -4,7 +4,7 @@
 **Repository:** `helloleax-web/The-Dancing-Demon`  
 **Branch sumber:** `main`  
 **Status dokumen:** CATATAN ADMINISTRATIF / NON-CANON  
-**Pembaruan:** 2026-11-18 — A-01 sampai A-04 telah ditangani; A-05 tetap terbuka sebagai batas validasi teknis.  
+**Pembaruan:** 2026-11-18 — A-01 sampai A-04, A-06, dan A-07 telah ditangani. A-05 diselesaikan untuk pengembangan aktif melalui V1.0-R; koordinat asli V1.0 tetap tidak pulih.  
 **Tujuan:** mencatat hasil pemeriksaan silang dokumen utama, membedakan kontradiksi dari ambiguitas dan kekosongan dokumentasi, serta memberi rekomendasi tanpa mengubah keputusan kreator.
 
 > Audit ini bukan pengesahan lore, bukan retcon, dan bukan perintah untuk mengisi seluruh misteri. Temuan hanya berlaku pada dokumen dan versi sumber yang tercantum di bawah. Tidak ditemukannya masalah dalam sampel ini bukan bukti bahwa seluruh repository bebas kontradiksi.
@@ -13,7 +13,7 @@
 
 Dalam dokumen utama yang diperiksa, **tidak ditemukan kontradiksi langsung yang cukup kuat untuk dinyatakan sebagai konflik CANON**.
 
-Temuan awal A-01 sampai A-04 telah ditangani pada pembaruan 2026-11-18. A-05 masih terbuka sebagai batas validasi teknis: klaim hasil geometri V1.0 tercatat, tetapi belum dapat direproduksi secara independen dari data presisi yang tersedia.
+Temuan awal A-01 sampai A-04 telah ditangani pada pembaruan 2026-11-18. A-05 awalnya terbuka karena hasil geometri V1.0 tidak dapat direproduksi dari data presisi yang tersedia. Setelah itu V1.0-R dibuat dan divalidasi sebagai baseline kerja baru; hambatan untuk pengembangan aktif telah diselesaikan, meskipun koordinat asli V1.0 tetap tidak ditemukan.
 
 Kekosongan profil karakter, detail lokasi, organisasi, sejarah, dan plot lanjutan sebagian besar **sudah ditandai secara terbuka** di Bible masing-masing dan/atau `99-ADMIN/Open-Questions.md`. Hal tersebut merupakan ruang pengembangan yang diketahui, bukan kontradiksi.
 
