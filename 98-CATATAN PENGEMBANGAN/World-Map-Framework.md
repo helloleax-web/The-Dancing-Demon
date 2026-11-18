@@ -2,7 +2,7 @@
 
 **Status: CATATAN PENGEMBANGAN — kerangka kerja pemetaan, bukan geografi CANON.**
 
-**Keputusan pengembangan terbaru:** kreator memilih **Alternatif A — enam benua terpisah** sebagai draft pertama arsitektur daratan, dengan **ukuran yang sangat bervariasi**. Kreator kemudian menyetujui untuk melanjutkan rekomendasi komposisi **Alternatif C — satu kelompok utama dan beberapa daratan terpencil** sebagai susunan spasial draft. Semua pilihan ini merupakan keputusan pengembangan dan belum disahkan sebagai CANON.
+**Keputusan pengembangan terbaru:** kreator memilih **Alternatif A — enam benua terpisah** sebagai draft pertama arsitektur daratan, dengan **ukuran yang sangat bervariasi**. Kreator kemudian menyetujui untuk melanjutkan rekomendasi komposisi **Alternatif C — satu kelompok utama dan beberapa daratan terpencil** sebagai susunan spasial draft. Semua pilihan ini merupakan keputusan pengembangan dan belum disahkan sebagai CANON. Geometri lempeng kini memiliki baseline rekonstruksi **V1.0-R** yang telah lolos validasi topologi dan target luas; containment benua dan kelayakan geodinamika tetap belum diuji.
 
 Dokumen ini menjadi ruang kerja untuk membangun geografi dunia secara bertahap. Pilihan awal kreator yang dicatat di sini adalah **planet dengan skala kurang lebih setara Bumi**; pilihan ini masih berstatus keputusan kerja yang menunggu konfirmasi final sebelum dapat diperlakukan sebagai CANON. Draft pengembangan aktif memakai enam benua terpisah, tetapi jumlah benua belum disahkan sebagai CANON. Dokumen ini tidak menetapkan posisi negara, koordinat lokasi, atau hubungan geografis yang belum diputuskan kreator.
 
