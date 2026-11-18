@@ -9,7 +9,7 @@
 
 ## 1. Ringkasan
 
-Putaran pemeliharaan lanjutan memperluas dokumen spesies dan ekologi dari inventaris singkat menjadi kerangka klasifikasi yang dapat dipakai tanpa mengesahkan ras atau makhluk baru. Dokumen peradaban, politik, ekonomi, dan budaya juga diperluas menjadi kerangka desain masyarakat dengan batas kewenangan lembaga CANON yang dijaga. Outline Buku I diselaraskan kembali dengan enam bagian yang telah tercantum dalam kerangka cerita CANON, lalu ditambah matriks fungsi dan transisi untuk seluruh 19 adegan agar tujuan, hambatan, perubahan keadaan, dan sebab-akibat lebih mudah diuji. World Map Framework juga diselaraskan dengan perkembangan V0.6–V1.0: parameter planet, asumsi 30/70, sirkulasi global, dan kandidat relief/hidrologi kini dicatat sebagai proposal kerja bertahap; V1.0-reference ditandai sebagai arsip historis dan V1.0-R sebagai baseline yang dapat direproduksi.
+Putaran pemeliharaan lanjutan memperluas dokumen spesies dan ekologi dari inventaris singkat menjadi kerangka klasifikasi yang dapat dipakai tanpa mengesahkan ras atau makhluk baru. Dokumen peradaban, politik, ekonomi, dan budaya juga diperluas menjadi kerangka desain masyarakat dengan batas kewenangan lembaga CANON yang dijaga. Outline Buku I diselaraskan kembali dengan enam bagian yang telah tercantum dalam kerangka cerita CANON, lalu ditambah matriks fungsi dan transisi untuk seluruh 19 adegan agar tujuan, hambatan, perubahan keadaan, dan sebab-akibat lebih mudah diuji. Dibuat pula kerangka sengketa peninggalan khusus Buku I untuk memisahkan hak tanah, akses, penelitian, pemulihan, dan penjagaan tanpa melampaui kewenangan International Authority. World Map Framework juga diselaraskan dengan perkembangan V0.6–V1.0: parameter planet, asumsi 30/70, sirkulasi global, dan kandidat relief/hidrologi kini dicatat sebagai proposal kerja bertahap; V1.0-reference ditandai sebagai arsip historis dan V1.0-R sebagai baseline yang dapat direproduksi.
 
 Tiga ketidaksinkronan dokumentasi yang masih tersisa diperbaiki:
 
@@ -28,6 +28,7 @@ Tiga ketidaksinkronan dokumentasi yang masih tersisa diperbaiki:
 | [Civilizations, Politics, Economy, and Culture](../98-CATATAN%20PENGEMBANGAN/Civilizations-Politics-Economy-Culture.md) | Dikembangkan menjadi Draft 0.2: desain pemerintahan, hukum peninggalan, ekonomi, mata uang, kelas sosial, budaya, pendidikan, militer, dan organisasi eksplorasi. |
 | [Book I Scene Outline](../98-CATATAN%20PENGEMBANGAN/Book-I-Scene-Outline-Draft-0.1.md) | Memisahkan “Harga Sebuah Informasi” menjadi bagian IV dan menambahkan matriks fungsi/transisi untuk 19 adegan. |
 | [World Map Framework](../98-CATATAN%20PENGEMBANGAN/World-Map-Framework.md) | Menyelaraskan status parameter planet, iklim, asumsi 30/70, data luas benua, dan sejarah versi V1.0/V1.0-R. |
+| [Book I Heritage Dispute Framework](../98-CATATAN%20PENGEMBANGAN/Book-I-Heritage-Dispute-Framework-Draft-0.1.md) | Menyusun model sengketa hak peninggalan dan kesepakatan sementara yang konsisten dengan batas kewenangan International Authority. |
 
 ## 3. Status geometri atlas
 
