@@ -120,7 +120,13 @@ Dokumen konsolidasi ini dibuat berdasarkan lore yang telah ditetapkan dalam perc
 - Apakah ini retcon?: Tidak. Konfigurasi baru hanya merupakan CATATAN PENGEMBANGAN / NON-CANON.
 
 
-- Tindak lanjut: menambahkan tautan silang dari Book I Scene Outline ke Character Development Dossier, Location & Organization Dossier, Eight-Book Series Architecture, dan sumber premis delapan buku agar draft dapat dibaca sebagai satu paket kerja.
+## Catatan navigasi draft Buku I 2026-11-18
+
+- Tanggal: 2026-11-18
+- Topik: Tautan silang materi pengembangan Buku I.
+- Keputusan: Menambahkan tautan dari Book I Scene Outline ke Character Development Dossier, Location & Organization Dossier, Eight-Book Series Architecture, dan sumber premis delapan buku agar seluruh draft dapat dibaca sebagai satu paket kerja.
+- Dokumen yang diperbarui: `98-CATATAN PENGEMBANGAN/Book-I-Scene-Outline-Draft-0.1.md`.
+- Apakah ini retcon?: Tidak.
 
 
 ## Catatan pemeriksaan integritas repository 2026-11-18
