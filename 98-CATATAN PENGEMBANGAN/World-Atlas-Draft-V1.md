@@ -557,3 +557,70 @@ Angka ini hanya hasil aritmetika dari asumsi 30/70. Belum ada pengukuran geodesi
 **Peringatan:** lingkar tropis dan lingkar kutub pada SVG hanya diturunkan dari kemiringan sumbu usulan. Jangan menganggapnya sebagai batas iklim atau bioma. Peta V0.6 belum merupakan peta iklim.
 
 **Status keputusan:** baseline Bumi dipilih sebagai proposal kerja NON-CANON untuk melanjutkan pemodelan. Tidak ada perubahan pada siluet benua, geometri lempeng, lokasi cerita, atau CANON.
+
+
+## 15. Kerangka sirkulasi global — V0.7
+
+**Status: CATATAN PENGEMBANGAN / NON-CANON.** V0.7 menerjemahkan baseline planet V0.6 menjadi model konseptual sirkulasi atmosfer Bumi-referensi. Ini merupakan kerangka arah dan sabuk global, bukan simulasi iklim atau peta cuaca.
+
+Berkas:
+- [World-Atlas-Global-Circulation-Framework-V0.7.svg](World-Atlas-Global-Circulation-Framework-V0.7.svg)
+- [World-Atlas-Global-Circulation-Audit-V0.7.json](World-Atlas-Global-Circulation-Audit-V0.7.json)
+
+### 15.1 Tiga sel sirkulasi per belahan
+
+Kerangka awal mempertahankan tiga sel atmosfer pada masing-masing belahan:
+- **Hadley (sekitar 0°–30°):** udara cenderung naik di sekitar ITCZ dan turun di wilayah subtropis.
+- **Ferrel (sekitar 30°–60°):** sirkulasi lintang menengah yang terutama digerakkan oleh sistem cuaca dan gelombang atmosfer.
+- **Polar (sekitar 60°–90°):** sirkulasi lintang tinggi yang berinteraksi dengan udara dingin kutub dan front polar.
+
+Batas sel tidak tetap dan bukan garis iklim yang kaku. Posisi serta intensitasnya berubah menurut musim dan kondisi permukaan.
+
+### 15.2 Sabuk tekanan konseptual
+
+| Sabuk | Lintang perkiraan | Peran umum |
+|---|---|---|
+| Tekanan rendah ekuatorial / ITCZ | Sekitar ekuator; bermigrasi ke belahan yang sedang mengalami musim panas | Konvergensi angin pasat dan gerak naik udara |
+| Tekanan tinggi subtropis | Sekitar 25°–35° LU dan LS | Subsiden udara; wilayah kering dapat terbentuk, tetapi tidak otomatis |
+| Tekanan rendah subpolar | Sekitar 50°–65° LU dan LS | Zona pertemuan massa udara dan aktivitas siklon lintang menengah |
+| Tekanan tinggi kutub | Lintang kutub tinggi | Udara dingin cenderung turun; posisi persis tidak dikunci |
+
+ITCZ bukan garis permanen di 0°. Pergerakannya mengikuti pergeseran musiman pemanasan maksimum dan dipengaruhi distribusi daratan-lautan.
+
+### 15.3 Angin permukaan dominan
+
+| Sabuk angin | Lintang perkiraan | Arah umum |
+|---|---|---|
+| Angin pasat timur laut | 0°–30° LU | Timur ke barat, dengan komponen menuju ekuator |
+| Angin pasat tenggara | 0°–30° LS | Timur ke barat, dengan komponen menuju ekuator |
+| Westerlies utara | 30°–60° LU | Barat ke timur |
+| Westerlies selatan | 30°–60° LS | Barat ke timur |
+| Easterlies kutub utara | 60°–90° LU | Timur ke barat |
+| Easterlies kutub selatan | 60°–90° LS | Timur ke barat |
+
+Arah pada diagram adalah pola dominan rata-rata, bukan arah angin yang berlaku setiap hari. Benua, pegunungan, perbedaan suhu laut, dan sistem cuaca akan membelokkan atau mengganggu pola zonal tersebut.
+
+### 15.4 Kerangka arus samudra
+
+V0.7 belum menggambar jalur arus laut spesifik. Secara umum, planet dengan rotasi dan sirkulasi atmosfer mirip Bumi dapat memiliki:
+- kandidat gyre subtropis pada cekungan samudra luas yang cukup terbuka dan saling terhubung;
+- arus permukaan ekuatorial yang cenderung bergerak ke barat, dengan kemungkinan arus balik ekuatorial ke timur pada cekungan tertentu;
+- arus batas barat yang cenderung sempit dan mengalir ke arah kutub;
+- arus batas timur yang cenderung lebih lebar dan mengalir ke arah ekuator.
+
+Pola ini merupakan ekspektasi umum dari model Bumi, bukan bukti bahwa setiap cekungan di peta ini memiliki gyre lengkap. Jumlah gyre, pusat pusaran, jalur arus hangat/dingin, upwelling, kecepatan, dan sirkulasi laut dalam belum ditentukan. Penetapannya menunggu geometri cekungan samudra dan batimetri yang lebih kuat.
+
+### 15.5 Batas interpretasi iklim
+
+V0.7 tidak menetapkan suhu regional, angka curah hujan, lokasi gurun, hutan, padang rumput, monsun, bayangan hujan, maupun tutupan es. Tekanan tinggi subtropis dapat mendukung kondisi kering, tetapi gurun tidak boleh ditempatkan hanya berdasarkan lintang. Relief, jarak dari sumber kelembapan, arus laut, dan pola hujan harus diperiksa terlebih dahulu.
+
+### 15.6 Batas validasi
+
+- Diagram memakai kerangka koordinat linear SVG dari V0.6; belum ada proyeksi kartografis final.
+- Panah angin adalah simbol pola lintang global dan tidak mengikuti topografi atau garis pantai.
+- Tidak ada simulasi numerik atmosfer atau samudra.
+- Geometri cekungan samudra dan batimetri belum divalidasi.
+- Tidak ada perubahan pada poligon benua, geometri lempeng, atau lokasi cerita.
+- Seluruh isi tetap NON-CANON.
+
+**Status keputusan:** V0.7 menyediakan baseline konseptual untuk melanjutkan pemodelan. Tahap berikutnya yang logis adalah membangun relief makro dan batimetri konseptual sebelum menurunkan arus laut rinci, pola hujan, dan bioma.
