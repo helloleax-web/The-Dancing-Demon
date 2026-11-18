@@ -475,7 +475,7 @@ Tidak ada bidang yang diberi status **BELUM ADA** karena setiap bidang memiliki 
 **Sumber:** [Cerita dan Rencana Delapan Buku](../00-CORE/08-Cerita-dan-Rencana-Delapan-Buku.md), [Character Bible](../01-CANON/Character-Bible.md).
 
 **CATATAN PENGEMBANGAN**
-- [Book I Scene Outline — Draft 0.1](Book-I-Scene-Outline-Draft-0.1.md) mengembangkan premis Buku I menjadi rangkaian adegan.
+- [Book I Scene Outline — Draft 0.1](Book-I-Scene-Outline-Draft-0.1.md) mengembangkan premis Buku I menjadi rangkaian adegan dan kini mengikuti enam bagian yang tercantum dalam kerangka CANON.
 - [Eight-Book Series Architecture — Draft 0.1](Eight-Book-Series-Architecture-Draft-0.1.md) mengembangkan fungsi dramatik dan arc lintas seri.
 - [Mystery & Foreshadowing Ledger — Draft 0.1](Mystery-and-Foreshadowing-Ledger-Draft-0.1.md) mengelola informasi, petunjuk, dan jendela pengungkapan.
 - Semua materi tersebut tetap CATATAN PENGEMBANGAN / NON-CANON.
