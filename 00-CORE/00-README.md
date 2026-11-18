@@ -38,7 +38,8 @@ Dokumen berikut merupakan draft NON-CANON dan tidak menggantikan Bible rujukan:
 - [World Atlas Continental Silhouette V0.6](../98-CATATAN%20PENGEMBANGAN/World-Atlas-Continental-Silhouette-V0.6.svg) — kandidat siluet enam benua dengan luas sferis dinormalisasi; NON-CANON.
 - [Plate Containment Orientation Search V0.1](../98-CATATAN%20PENGEMBANGAN/Plate-Containment-Orientation-Search-V0.1.md) — arsip uji hipotesis lama satu-benua-satu-lempeng.
 - [Plate–Continent Relationship Framework V0.1](../98-CATATAN%20PENGEMBANGAN/Plate-Continent-Relationship-Framework-V0.1.md) — aturan aktif hubungan benua dan lempeng sebagai dua geometri yang dapat saling beririsan; NON-CANON.
-- [Continental–Plate Overlay R0.1](../98-CATATAN%20PENGEMBANGAN/Continental-Plate-Overlay-R0.1.md) — overlay koordinat dan matriks irisan awal; registrasi ilustratif, NON-CANON.
+- [Continental–Plate Overlay R0.1](../98-CATATAN%20PENGEMBANGAN/Continental-Plate-Overlay-R0.1.md) — overlay identitas awal.
+- [Continental–Plate Overlay R0.2](../98-CATATAN%20PENGEMBANGAN/Continental-Plate-Overlay-R0.2.md) — kandidat registrasi kompak dari 3.000 rotasi sampel; NON-CANON.
 
 ## Status informasi
 
