@@ -195,3 +195,22 @@ Perbedaan ini merupakan model kerja yang direkomendasikan, bukan penetapan hubun
 - Jangan mengubah Location Bible atau Organization Bible hanya dengan menyalin proposal.
 - Jika satu rancangan dipilih, perbarui dokumen rujukan dengan status yang tepat dan catat keputusan yang berdampak pada canon.
 - Jika ada konflik dengan lore baru, revisi proposal ini.
+
+
+## 9. Konfigurasi hubungan organisasi yang direkomendasikan untuk Buku I
+
+Konfigurasi berikut dipilih sebagai arah draft agar organisasi memiliki kepentingan yang saling berhadapan, bukan fungsi yang tumpang tindih. Semuanya tetap NON-CANON.
+
+1. **Konsorsium Survei Meridian** menjadi penyelenggara atau kontraktor ekspedisi pemetaan jalur utara. Fokusnya adalah survei, pencatatan, dan keselamatan kerja lapangan; bukan kepemilikan otomatis atas fasilitas.
+2. **Vellum & Iron Recovery** menjadi perusahaan pengambilan peninggalan yang mengajukan klaim komersial atas lokasi Buku I. Dasar klaimnya berasal dari kontrak atau hak pemulihan setempat yang masih dapat diperdebatkan.
+3. **Arsip Lentera** memiliki seorang peneliti atau kurator yang memakai perantara lapangan untuk memverifikasi rumor tentang arsip di bawah jalan dan memperoleh salinan indeks jika ditemukan. Tindakan perantara tersebut tidak otomatis mewakili keputusan resmi seluruh organisasi.
+4. Kael menerima kontrak dari perantara tersebut. Ia diminta mengonfirmasi rute dan mencari bukti/indeks arsip, bukan menguasai seluruh fasilitas.
+5. Perusahaan komersial dan pemberi tugas Kael bukan pihak yang sama. Mereka memiliki kepentingan berbeda: pemulihan benda versus preservasi dan akses informasi.
+
+**Keunggulan konfigurasi:**
+- Ketiga organisasi memiliki fungsi yang berbeda.
+- Konflik Buku I tumbuh dari kepentingan yang masuk akal, bukan pembagian sederhana antara pihak baik dan jahat.
+- Organisasi yang sudah terdaftar memperoleh fungsi naratif tanpa harus langsung diberi hubungan dengan International Authority atau KVK.
+- Identitas pemberi tugas, dasar klaim perusahaan, dan kebenaran rumor arsip tetap dapat menjadi misteri.
+
+**Batas:** ini adalah arah cerita yang direkomendasikan, bukan fakta CANON. Organization Bible tetap menjadi sumber fakta resmi sampai keputusan status dibuat.
