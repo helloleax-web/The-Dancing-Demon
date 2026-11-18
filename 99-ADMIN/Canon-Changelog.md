@@ -172,3 +172,12 @@ Dokumen konsolidasi ini dibuat berdasarkan lore yang telah ditetapkan dalam perc
 - Keputusan: World Map Framework kini menjelaskan bahwa rekomendasi awal enam kawasan daratan telah dipilih kreator sebagai draft enam benua terpisah. Bagian rekomendasi historis ditandai sebagai tahap sebelumnya; jumlah enam benua tetap belum CANON. Pertanyaan nama benua diubah menjadi keputusan apakah nama draft dipertahankan atau diganti.
 - Dokumen yang diperbarui: `98-CATATAN PENGEMBANGAN/World-Map-Framework.md`.
 - Apakah ini retcon?: Tidak. Klarifikasi status pengembangan.
+
+
+## Catatan sinkronisasi tahapan atlas 2026-11-18
+
+- Tanggal: 2026-11-18
+- Topik: Pembedaan status historis penempatan benua dan pemetaan konseptual lempeng.
+- Keputusan: World Map Framework kini menjelaskan bahwa pada tahap geometri V1.0 siluet benua belum ditempatkan secara geometris di dalam poligon lempeng. Pemetaan konseptual benua ke lempeng pembawa telah dibuat pada bagian berikutnya, tetapi containment tetap belum diuji. Status tahap awal 7.20 juga diberi konteks historis agar tidak terbaca sebagai status terbaru.
+- Dokumen yang diperbarui: `98-CATATAN PENGEMBANGAN/World-Map-Framework.md`.
+- Apakah ini retcon?: Tidak. Klarifikasi tahapan pengembangan.
