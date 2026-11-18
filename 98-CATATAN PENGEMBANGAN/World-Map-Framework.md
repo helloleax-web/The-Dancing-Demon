@@ -2245,3 +2245,20 @@ File ini memuat 14 simpul, 21 sisi, sembilan siklus muka, target dan hasil luas,
 Pratinjau menggunakan proyeksi equirectangular untuk menempatkan simpul. Garis penghubung digambar sebagai panduan busur geodesik terpendek agar hubungan antarsimpul mudah dibaca. Garis tersebut **bukan** kurva batas asli V1.0, sebab geometri V1.0 menggunakan hasil proyeksi stereografis dari segmen planar. Karena koordinat yang tersedia dibulatkan, pratinjau juga bukan rekonstruksi numerik presisi.
 
 Pratinjau ini hanya untuk inspeksi lokasi simpul dan konektivitas kasar. Jangan gunakan untuk mengukur luas, menetapkan batas lempeng final, menentukan posisi benua, atau mengklaim validasi geodesik. Statusnya NON-CANON.
+
+
+### 7.40 Studi siluet enam benua — V0.1
+
+**Status: CATATAN PENGEMBANGAN / NON-CANON.** Berkas `World-Atlas-Continental-Silhouette-Draft.svg` menerjemahkan arahan siluet pada atlas bagian 4 dan susunan makro bagian 3 menjadi sketsa komposisi lintang-bujur.
+
+Sketsa ini adalah interpretasi desain, bukan pemulihan koordinat lama. Garis pantai dan penempatan benua belum diukur untuk memenuhi rasio luas relatif, belum diuji containment terhadap lempeng pembawa, dan belum dikoreksi terhadap distorsi proyeksi equirectangular. Bentuk tersebut hanya berguna untuk membaca hubungan spasial dan menilai arah desain.
+
+Poin komposisi yang dipertahankan:
+- Central Reach menjadi jangkar kelompok utama.
+- Verdant Wilds berada di barat daya kelompok utama.
+- Sunken Sands berada di tenggara kelompok utama.
+- Frostbound Expanse berada di lintang tinggi utara.
+- Ashen Frontier menjadi daratan kompak di belahan selatan.
+- Veiled Continent menjadi daratan terpencil di bagian tenggara.
+
+**Keputusan kerja:** siluet V0.1 diperlakukan sebagai sketsa eksplorasi. Iterasi berikutnya harus memperbaiki bentuk dan proporsi, menguji luas daratan relatif dalam proyeksi yang sesuai, dan memastikan setiap benua berada di lempeng pembawanya. Tidak ada perubahan CANON.
