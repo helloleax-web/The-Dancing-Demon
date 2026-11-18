@@ -117,6 +117,8 @@ Lokasi diamankan sementara. Kelompok membawa salinan sebagian catatan, bukan jaw
 - Tavian menghadapi dilema: tetap mengikuti prosedur atau menyampaikan risiko yang belum dapat dibuktikan.
 - **Fungsi:** membuat konflik hukum dan kepentingan terasa personal.
 
+### Bagian IV — Harga Sebuah Informasi
+
 **Scene 13 — Harga Sebuah Informasi**
 - Pihak yang membayar Kael dan tujuan tersembunyinya terungkap sesuai keputusan penulisan Buku I.
 - Pengungkapan harus mengubah pemahaman pembaca tentang tindakan Kael, tetapi tidak perlu menjelaskan seluruh jaringan informasi.
@@ -124,7 +126,7 @@ Lokasi diamankan sementara. Kelompok membawa salinan sebagian catatan, bukan jaw
 - **Fungsi:** membayar foreshadowing yang ditanam sejak bagian pertama.
 - **Batas:** identitas dan tujuan spesifik tetap belum ditulis dalam dokumen pengembangan ini.
 
-### Bagian IV — Keadaan Darurat
+### Bagian V — Keadaan Darurat
 
 **Scene 14 — Pengambilan Paksa**
 - Pihak perusahaan atau orang yang bertindak atas klaimnya mencoba mengambil benda secara paksa.
@@ -145,7 +147,7 @@ Lokasi diamankan sementara. Kelompok membawa salinan sebagian catatan, bukan jaw
 - Keberhasilan tidak berarti mereka memahami atau menguasai fasilitas.
 - **Fungsi:** membangun kepercayaan melalui kerja sama yang diperoleh dengan susah payah.
 
-### Bagian V — Peta Tanpa Negeri
+### Bagian VI — Peta Tanpa Negeri
 
 **Scene 17 — Menjaga, Bukan Memiliki**
 - Setelah keadaan darurat, para pihak menyadari bahwa fasilitas belum aman untuk dieksploitasi.
