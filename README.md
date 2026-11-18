@@ -27,5 +27,10 @@ Dokumen ini adalah pusat dokumentasi dunia LEAX. Isinya memisahkan fakta yang su
 - [Canon Audit Report — 2026-11-18](99-ADMIN/Canon-Audit-Report-2026-11-18.md) — audit administratif konsistensi dan kontinuitas; tidak mengubah canon.
 - [Editorial and Repository Maintenance Policy](99-ADMIN/Editorial-Maintenance-Policy.md) — mandat editorial, status materi, hierarki sumber, dan standar pemeliharaan.
 
+### Materi pengembangan terbaru
+- [Character Development Dossier — Draft 0.1](98-CATATAN%20PENGEMBANGAN/Character-Development-Dossier-Draft-0.1.md) — rancangan motivasi, kepribadian, kelemahan, dan arc enam karakter.
+- [Book I Scene Outline — Draft 0.1](98-CATATAN%20PENGEMBANGAN/Book-I-Scene-Outline-Draft-0.1.md) — kerangka 19 adegan Buku I.
+- [Location & Organization Dossier — Draft 0.1](98-CATATAN%20PENGEMBANGAN/Location-Organization-Development-Dossier-Draft-0.1.md) — proposal fungsi lokasi dan organisasi yang telah terdaftar.
+
 ### Catatan
 Dokumen ini merupakan konsolidasi berdasarkan informasi yang tersedia dalam percakapan worldbuilding. Bagian yang belum memiliki dasar canon secara eksplisit ditandai sebagai catatan pengembangan atau unknown.
