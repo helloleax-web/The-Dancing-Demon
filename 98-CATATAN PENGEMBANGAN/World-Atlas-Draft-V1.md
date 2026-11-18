@@ -859,3 +859,39 @@ Enam poligon yang sekarang tergambar menutup sekitar **26,44% permukaan bola**, 
 Berkas audit terstruktur: [World-Atlas-Spherical-Continental-Area-Audit-V0.1.json](World-Atlas-Spherical-Continental-Area-Audit-V0.1.json).
 
 **Keputusan kerja:** jangan lanjut mengunci relief rinci, sungai, atau bioma. Tahap berikutnya adalah memilih target luas relatif benua, menyelesaikan selisih terhadap asumsi 30%, menentukan rotasi globe, dan menguji containment tiap benua pada lempeng pembawanya. Semua tetap NON-CANON.
+
+## 20. Siluet benua dengan luas sferis dinormalisasi — V0.6
+
+V0.6 adalah kandidat geometri baru yang menindaklanjuti audit V0.5. Target proporsi historis dipertahankan sebagai target luas relatif daratan: Frostbound 15%, Verdant 18%, Central 24%, Sunken Sands 13%, Ashen 9%, dan Veiled 21%. Dengan asumsi daratan global 30%, target masing-masing menjadi 4,5%, 5,4%, 7,2%, 3,9%, 2,7%, dan 6,3% dari seluruh permukaan planet.
+
+Berkas:
+- [Siluet enam benua V0.6 — SVG](World-Atlas-Continental-Silhouette-V0.6.svg)
+- [Audit normalisasi luas V0.6 — JSON](World-Atlas-Continental-Area-Normalization-Audit-V0.6.json)
+
+### Metode dan hasil
+
+- Bentuk V0.5 diproyeksikan ke koordinat silinder luas-sama: (x=\lambda), (y=\sin\varphi).
+- Tiap benua diskalakan terhadap centroid luas-sama untuk mencapai target luas sferis.
+- Frostbound diperlebar terutama pada sumbu bujur, bukan diperbesar ke arah kutub, agar tetap berada di dalam rentang lintang.
+- Seluruh globe diberi rotasi bujur −10° untuk menempatkan Veiled Continent di dalam bingkai tanpa memotong garis tanggal.
+- Setiap sisi hasil transformasi didensifikasi menjadi 12 segmen sebelum diproyeksikan kembali ke bingkai SVG lintang-bujur.
+- Audit sferis pada koordinat hasil render menghasilkan total **30,00017%** permukaan planet; deviasi gabungan sekitar 0,00017 poin persentase.
+
+| Benua | Target permukaan planet | Hasil terukur |
+|---|---:|---:|
+| Frostbound Expanse | 4,50% | 4,50002% |
+| Verdant Wilds | 5,40% | 5,40003% |
+| Central Reach | 7,20% | 7,20001% |
+| Sunken Sands | 3,90% | 3,90005% |
+| Ashen Frontier | 2,70% | 2,70002% |
+| Veiled Continent | 6,30% | 6,30004% |
+
+### Batas validasi
+
+V0.6 memperbaiki target luas dan bingkai koordinat, tetapi belum menyelesaikan:
+- containment setiap benua pada lempeng pembawanya;
+- orientasi geografis yang dipilih terhadap geometri lempeng V1.0-R;
+- geodinamika, batas lempeng aktif, relief, hidrologi, iklim, dan bioma;
+- pulau-pulau kecil dan garis pantai rinci.
+
+**Status:** V0.6 adalah kandidat geometri kerja NON-CANON. Ia menggantikan V0.5 sebagai kandidat luas sferis untuk pengujian berikutnya, bukan sebagai peta final.
