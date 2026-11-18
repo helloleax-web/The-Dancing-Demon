@@ -9,6 +9,8 @@
 
 ## 1. Ringkasan
 
+Putaran pemeliharaan lanjutan memperluas dokumen spesies dan ekologi dari inventaris singkat menjadi kerangka klasifikasi yang dapat dipakai tanpa mengesahkan ras atau makhluk baru.
+
 Tiga ketidaksinkronan dokumentasi yang masih tersisa diperbaiki:
 
 1. **World Atlas Draft V1** masih menyebut V1.0 sebagai baseline geometri aktif dan menyatakan V1.0-R baru akan dibuat jika data lama tidak ditemukan. Ini sudah tertinggal dari keputusan teknis terbaru. Dokumen kini menyatakan V1.0-R sebagai baseline aktif yang tervalidasi, sedangkan V1.0-reference tetap menjadi arsip historis.
@@ -22,6 +24,7 @@ Tiga ketidaksinkronan dokumentasi yang masih tersisa diperbaiki:
 | [World Atlas Draft V1](../98-CATATAN%20PENGEMBANGAN/World-Atlas-Draft-V1.md) | Menyelaraskan bagian baseline geometri dan keputusan kerja dengan V1.0-R. |
 | [Worldbuilding Coverage Matrix](../98-CATATAN%20PENGEMBANGAN/Worldbuilding-Coverage-Matrix.md) | Memperbarui status bidang dunia, geografi, organisasi, karakter, lokasi, dan cerita berdasarkan dokumen yang kini tersedia. |
 | [World Map Framework](../98-CATATAN%20PENGEMBANGAN/World-Map-Framework.md) | Memperjelas bahwa enam benua adalah draft aktif terpilih, bukan opsi yang belum dipilih atau CANON. |
+| [Species and Creatures](../98-CATATAN%20PENGEMBANGAN/Species-and-Creatures.md) | Dikembangkan menjadi Draft 0.2: klasifikasi berlapis, ekologi, relasi mana-organisme, ancaman administratif, dan format bestiary. |
 
 ## 3. Status geometri atlas
 
@@ -49,11 +52,12 @@ Seluruh detail kreatif di dalam dossier dan outline tersebut tetap NON-CANON. Ch
 ## 5. Batas dan pekerjaan berikutnya
 
 Pekerjaan yang masih terbuka:
-1. Menempatkan enam siluet benua secara geometris pada lempeng pembawa dan menjalankan uji containment.
-2. Menentukan orientasi globe dan menguji apakah peta fisik konsisten dengan relief, hidrologi, iklim, serta perjalanan.
-3. Menyempurnakan lokasi dan rute Buku I tanpa menyamakan lokasi yang belum dikonfirmasi.
-4. Mengembangkan profil karakter dan hubungan kelompok melalui revisi dossier, lalu memilih bagian yang benar-benar dibutuhkan untuk manuskrip.
-5. Menguji sebab-akibat outline Buku I dan memastikan misteri Kael, fasilitas, serta pihak-pihak yang terlibat tidak terungkap terlalu dini.
+1. Menentukan kebutuhan ekologi dan makhluk yang benar-benar diperlukan oleh adegan Buku I, tanpa membuat daftar spesies generik.
+2. Menempatkan enam siluet benua secara geometris pada lempeng pembawa dan menjalankan uji containment.
+3. Menentukan orientasi globe dan menguji apakah peta fisik konsisten dengan relief, hidrologi, iklim, serta perjalanan.
+4. Menyempurnakan lokasi dan rute Buku I tanpa menyamakan lokasi yang belum dikonfirmasi.
+5. Mengembangkan profil karakter dan hubungan kelompok melalui revisi dossier, lalu memilih bagian yang benar-benar dibutuhkan untuk manuskrip.
+6. Menguji sebab-akibat outline Buku I dan memastikan misteri Kael, fasilitas, serta pihak-pihak yang terlibat tidak terungkap terlalu dini.
 
 Tidak ada alasan untuk mengisi semua UNKNOWN atau MYSTERY sekaligus. Prioritasnya adalah membuat fondasi yang cukup kuat untuk menulis cerita, bukan menutup setiap pertanyaan worldbuilding.
 
