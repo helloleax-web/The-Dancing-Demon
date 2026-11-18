@@ -234,3 +234,18 @@ Urutan ini fleksibel. Jangan memasukkan karakter hanya untuk memenuhi daftar nam
 - Jangan menyalin proposal ke Character Bible sebagai CANON sebelum statusnya ditetapkan.
 - Jika satu proposal dipilih, perbarui Character Bible dengan pemisahan jelas antara fakta yang disahkan dan rincian yang masih berkembang.
 - Jika proposal bertentangan dengan lore baru, revisi dossier; jangan memaksa lore baru mengikuti draft ini.
+
+
+## 12. Arah hubungan Kael dengan konflik organisasi Buku I
+
+Pilihan draft yang direkomendasikan:
+- Kael menerima pekerjaan dari seorang perantara lapangan yang bekerja untuk peneliti atau kurator yang memiliki hubungan profesional dengan Arsip Lentera.
+- Tugasnya adalah memverifikasi rumor tentang arsip di bawah jalan dan memperoleh salinan indeks atau bukti keberadaannya.
+- Ia tidak ditugaskan mengambil semua artefak atau menguasai fasilitas.
+- Kael menyembunyikan peta kedua karena kontrak mensyaratkan kerahasiaan dan karena ia tahu informasi itu dapat mengubah keputusan ekspedisi.
+- Ia tidak mengetahui seluruh agenda pemberi tugas; ia hanya mengetahui sasaran operasional yang diberikan kepadanya.
+- Vellum & Iron Recovery menjadi pihak komersial yang mengajukan klaim lokasi dalam draft Buku I, bukan pemberi tugas Kael.
+
+**Fungsi karakter:** Kael tetap bertanggung jawab atas kebohongannya, tetapi konflik tidak harus berubah menjadi pengkhianatan mutlak. Ia dapat percaya bahwa ia hanya menjual informasi, lalu menyadari bahwa informasi yang ia jual telah membawa orang lain ke dalam bahaya.
+
+Identitas pribadi pemberi tugas, isi indeks, kontak tak dikenal, dan hubungan lebih luas Arsip Lentera tetap belum ditentukan dalam draft ini.
