@@ -38,14 +38,15 @@ Dokumen ini mencatat hal yang belum ditentukan. Jangan mengisi sendiri tanpa kep
 ## International Authority
 - Definisi dan persyaratan final kategori anggota serta status observer.
 - Masa jabatan Ketua dan Wakil.
-- Masa tugas dan perpanjangan Ketua sementara.
-- Kuorum, prosedur sidang, dan mekanisme pemberhentian.
+- Urutan prosedural Ketua sementara telah diperjelas dalam `01-CANON/International-Authority.md`; masa tugas dan perpanjangannya tetap belum ditentukan.
+- Kuorum Majelis Umum, prosedur sidang, dan mekanisme pemberhentian.
 
 ## KVK
 - Jumlah anggota definitif yang dipilih dalam rentang kanon 11–15.
 - Komposisi unit dan jumlah kursi.
 - Pihak yang berhak menominasikan anggota.
 - Detail prosedur seleksi, klasifikasi, dan penegakan.
+- Ketentuan denominator kuorum KVK saat kursi definitif kosong telah ditetapkan; rincian operasional lain tetap terbuka.
 
 ## Cerita
 - Identitas protagonis Tavian Rell dan karakter utama yang telah ditetapkan merupakan CANON dan tidak dipertanyakan kembali.
