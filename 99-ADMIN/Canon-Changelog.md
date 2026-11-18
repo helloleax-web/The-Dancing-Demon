@@ -55,3 +55,12 @@ Dokumen konsolidasi ini dibuat berdasarkan lore yang telah ditetapkan dalam perc
 - Keputusan: Pemeriksaan aritmetika dan struktur transkripsi V1.0 berhasil: 14 simpul, 21 sisi, 9 muka, derajat setiap simpul 3, seluruh sisi batas muka cocok dengan daftar sisi, Euler = 2, jumlah target dan hasil luas masing-masing 100%, serta deviasi maksimum tercatat 0,0675 poin persentase. Hasil ini tidak menggantikan validasi geometri independen karena koordinat planar presisi V1.0 belum tersedia. Kandidat V1.1 Tutte memiliki embedding planar tanpa persilangan, tetapi target luas dan containment belum terpenuhi; tidak dipromosikan menjadi baseline final.
 - Dokumen yang diperbarui: `99-ADMIN/Canon-Audit-Report-2026-11-18.md`.
 - Apakah ini retcon?: Tidak. Validasi administratif/teknis atas materi pengembangan NON-CANON.
+
+
+## Catatan sinkronisasi dokumen pengembangan 2026-11-18
+
+- Tanggal: 2026-11-18
+- Topik: Penyelarasan proposal geografi, sistem mana, kerangka cerita, dan taksonomi spesies.
+- Keputusan: Geography.md kini secara eksplisit membedakan inventaris proposal lama dari draft enam benua aktif. Mana-and-Power-System.md menyelaraskan istilah Recovery dengan parameter CANON Pemulihan dan menjelaskan bahwa Mana Control dalam proposal bukan komponen fisik tambahan. Story-Framework.md ditautkan ke premis dan rencana delapan buku yang telah ada. Species-and-Creatures.md menegaskan bahwa entitas kosmik Abstract Existence tidak otomatis termasuk klasifikasi organisme atau monster.
+- Dokumen yang diperbarui: `98-CATATAN PENGEMBANGAN/Geography.md`, `Mana-and-Power-System.md`, `Story-Framework.md`, dan `Species-and-Creatures.md`.
+- Apakah ini retcon?: Tidak. Sinkronisasi istilah dan batas proposal; tidak mengubah CANON.
