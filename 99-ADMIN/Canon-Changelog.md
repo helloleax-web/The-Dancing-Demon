@@ -310,3 +310,13 @@ Dokumen konsolidasi ini dibuat berdasarkan lore yang telah ditetapkan dalam perc
 - Batas: matriks merupakan arahan penulisan NON-CANON dan tidak menambah fakta plot atau mengubah misteri utama.
 - Dampak CANON: tidak ada.
 - Dokumen terkait: `98-CATATAN PENGEMBANGAN/Book-I-Scene-Outline-Draft-0.1.md` dan `99-ADMIN/Repository-Maintenance-Report-2026-11-18.md`.
+
+
+## Kerangka sengketa peninggalan Buku I — 2026-11-18
+
+- Tanggal: 2026-11-18
+- Topik: Penambahan Book I Heritage Dispute Framework — Draft 0.1.
+- Perubahan: dibuat model kerja yang memisahkan hak tanah, akses, penelitian/dokumentasi, pemulihan, dan penjagaan; menetapkan kepentingan berbeda bagi Konsorsium Survei Meridian, Vellum & Iron Recovery, Arsip Lentera, serta otoritas lokal; menjelaskan cara memakai International Authority sesuai kewenangan CANON dan mengecualikan KVK dari sengketa situs; menyediakan rantai konflik dan bentuk kesepakatan sementara.
+- Batas: tidak menetapkan negara, hukum nasional, pejabat, kontrak spesifik, atau kepemilikan fasilitas sebagai CANON.
+- Dampak CANON: tidak ada.
+- Dokumen terkait: `98-CATATAN PENGEMBANGAN/Book-I-Heritage-Dispute-Framework-Draft-0.1.md`, `98-CATATAN PENGEMBANGAN/Book-I-Scene-Outline-Draft-0.1.md`, `98-CATATAN PENGEMBANGAN/Location-Organization-Development-Dossier-Draft-0.1.md`, dan `98-CATATAN PENGEMBANGAN/Worldbuilding-Coverage-Matrix.md`.
