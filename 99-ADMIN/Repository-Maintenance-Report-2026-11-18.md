@@ -9,7 +9,7 @@
 
 ## 1. Ringkasan
 
-Putaran pemeliharaan lanjutan memperluas dokumen spesies dan ekologi dari inventaris singkat menjadi kerangka klasifikasi yang dapat dipakai tanpa mengesahkan ras atau makhluk baru.
+Putaran pemeliharaan lanjutan memperluas dokumen spesies dan ekologi dari inventaris singkat menjadi kerangka klasifikasi yang dapat dipakai tanpa mengesahkan ras atau makhluk baru. Dokumen peradaban, politik, ekonomi, dan budaya juga diperluas menjadi kerangka desain masyarakat dengan batas kewenangan lembaga CANON yang dijaga.
 
 Tiga ketidaksinkronan dokumentasi yang masih tersisa diperbaiki:
 
@@ -25,6 +25,7 @@ Tiga ketidaksinkronan dokumentasi yang masih tersisa diperbaiki:
 | [Worldbuilding Coverage Matrix](../98-CATATAN%20PENGEMBANGAN/Worldbuilding-Coverage-Matrix.md) | Memperbarui status bidang dunia, geografi, organisasi, karakter, lokasi, dan cerita berdasarkan dokumen yang kini tersedia. |
 | [World Map Framework](../98-CATATAN%20PENGEMBANGAN/World-Map-Framework.md) | Memperjelas bahwa enam benua adalah draft aktif terpilih, bukan opsi yang belum dipilih atau CANON. |
 | [Species and Creatures](../98-CATATAN%20PENGEMBANGAN/Species-and-Creatures.md) | Dikembangkan menjadi Draft 0.2: klasifikasi berlapis, ekologi, relasi mana-organisme, ancaman administratif, dan format bestiary. |
+| [Civilizations, Politics, Economy, and Culture](../98-CATATAN%20PENGEMBANGAN/Civilizations-Politics-Economy-Culture.md) | Dikembangkan menjadi Draft 0.2: desain pemerintahan, hukum peninggalan, ekonomi, mata uang, kelas sosial, budaya, pendidikan, militer, dan organisasi eksplorasi. |
 
 ## 3. Status geometri atlas
 
@@ -58,6 +59,7 @@ Pekerjaan yang masih terbuka:
 4. Menyempurnakan lokasi dan rute Buku I tanpa menyamakan lokasi yang belum dikonfirmasi.
 5. Mengembangkan profil karakter dan hubungan kelompok melalui revisi dossier, lalu memilih bagian yang benar-benar dibutuhkan untuk manuskrip.
 6. Menguji sebab-akibat outline Buku I dan memastikan misteri Kael, fasilitas, serta pihak-pihak yang terlibat tidak terungkap terlalu dini.
+7. Menentukan masyarakat dan aturan lokal yang diperlukan untuk membuat sengketa kepemilikan fasilitas Buku I terasa konkret.
 
 Tidak ada alasan untuk mengisi semua UNKNOWN atau MYSTERY sekaligus. Prioritasnya adalah membuat fondasi yang cukup kuat untuk menulis cerita, bukan menutup setiap pertanyaan worldbuilding.
 
