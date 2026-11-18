@@ -150,7 +150,7 @@ Kedua pernyataan dapat dibaca selaras jika tabel bagian 3 dimaksudkan sebagai da
 
 Referensi geometri mencatat 14 simpul, 21 segmen, 9 muka, penutupan bola 100%, tidak adanya persilangan yang dilaporkan, dan deviasi luas maksimum 0,0675 poin persentase terhadap target.
 
-Namun, koordinat planar presisi dan skrip konstruksi V1.0 tidak ditemukan pada sumber yang diperiksa. Referensi yang dipulihkan hanya memuat koordinat lintang-bujur yang dibulatkan serta transkripsi topologi. Dokumen juga memperingatkan agar koordinat tersebut tidak diperlakukan sebagai data yang cukup untuk mereproduksi persentase luas secara independen.
+Namun, koordinat planar presisi dan skrip konstruksi V1.0 tidak ditemukan pada sumber yang diperiksa. Referensi yang dipulihkan hanya memuat koordinat lintang-bujur yang dibulatkan serta transkripsi topologi. Dokumen juga memperingatkan agar koordinat tersebut tidak diperlakukan sebagai data yang cukup untuk mereproduksi persentase luas secara independen. Pemeriksaan terhadap tree commit sumber V1.0 (3e6ef02) juga hanya menemukan World-Map-Framework.md sebagai file atlas terkait; bagian 7.25 mempublikasikan koordinat matematis lintang-bujur yang dibulatkan, bukan tabel x/y planar presisi atau berkas input optimizer.
 
 Pemeriksaan Euler:
 `14 - 21 + 9 = 2`
@@ -281,8 +281,8 @@ Urutan berikut adalah rekomendasi administratif, bukan keputusan canon.
 
 **Hasil:** tidak ditemukan kontradiksi CANON langsung dalam dokumen utama yang diperiksa. A-01 sampai A-04 telah diselesaikan pada 2026-11-18. A-05 masih terbuka sebagai keterbatasan reproduksibilitas teknis; baseline V1.0 belum diverifikasi ulang secara independen.
 
-**Batas:** audit ini mencakup seluruh dokumen Markdown yang terdaftar pada branch saat pemeriksaan dan pemeriksaan tautan relatif antarfile. File SVG, JSON, dan aset visual diperiksa secara selektif berdasarkan keterkaitan dengan temuan; belum seluruhnya divalidasi secara teknis. Riwayat percakapan sumber dan seluruh riwayat commit tidak diaudit secara menyeluruh. Karena itu, laporan ini tidak menyatakan seluruh repository bebas konflik. Tiga dossier pengembangan yang ditambahkan setelah pemeriksaan utama—Character Development, Book I Scene Outline, dan Location & Organization—tidak termasuk dalam penilaian audit awal ini.
+**Batas:** audit ini mencakup seluruh dokumen Markdown yang terdaftar pada branch saat pemeriksaan dan pemeriksaan tautan relatif antarfile. File SVG, JSON, dan aset visual diperiksa secara selektif berdasarkan keterkaitan dengan temuan; belum seluruhnya divalidasi secara teknis. Riwayat percakapan sumber dan seluruh riwayat commit tidak diaudit secara menyeluruh. Karena itu, laporan ini tidak menyatakan seluruh repository bebas konflik. Dokumen yang ditambahkan setelah pemeriksaan utama—Character Development Dossier, Book I Scene Outline, Location & Organization Dossier, Eight-Book Series Architecture, dan Glosarium—tidak termasuk dalam penilaian audit awal ini. Tautan relatifnya diperiksa setelah penambahan, tetapi isi kreatif draft tersebut belum menjadi bagian dari audit kontinuitas awal.
 
 **Perubahan CANON:** tidak ada retcon terhadap fakta cerita. Klarifikasi prosedural International Authority dan KVK dicatat dalam Canon Changelog.  
 **Retcon:** tidak ada.  
-**Dokumen CANON yang diperbarui:** World Overview, International Authority, dan KVK.
+**Dokumen CANON yang diperbarui untuk klarifikasi substansi:** World Overview, International Authority, dan KVK. Character Bible, Location Bible, dan Organization Bible kemudian diperbarui hanya untuk menautkan proposal pengembangan baru; tidak ada fakta CANON pada ketiga Bible tersebut yang diubah.
