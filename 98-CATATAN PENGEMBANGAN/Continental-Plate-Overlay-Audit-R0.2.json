@@ -35,7 +35,8 @@
       "trials": 3000,
       "screening_grid": "2° longitude × 0.025 sin(latitude)",
       "best_screening_mean_dominant_plate_share_pct": 87.50231713478742,
-      "high_resolution_audit_mean_dominant_plate_share_pct": 87.24987744593716,
+      "high_resolution_raster_mean_dominant_plate_share_pct": 87.24987744593716,
+      "spherical_clip_mean_dominant_plate_share_pct": 87.25228399460134,
       "reference_R0_1_mean_dominant_plate_share_pct": 67.59393151218137,
       "global_optimum_proven": false
     }
@@ -43,6 +44,211 @@
   "sources": {
     "continents": "World-Atlas-Continental-Silhouette-V0.6.svg",
     "plates": "World-Plate-Geometry-V1.0-R-reconstructed.json"
+  },
+  "spherical_polygon_clip": {
+    "status": "HIGH-RESOLUTION SAMPLED-POLYGON CLIPPING / ANALYTIC SPHERICAL AREA INTEGRAL",
+    "chart": {
+      "projection": "Stereographic",
+      "pole_latitude_degrees": -77.16143185901595,
+      "pole_longitude_degrees": -177.5,
+      "pole_containing_plate_face": "North Ocean",
+      "nearest_coastline_distance_degrees": 15.071126947625078,
+      "nearest_plate_boundary_distance_degrees": 25.651334883339846,
+      "reason": "Projection pole placed in open ocean, outside every continent and away from plate boundaries, so all continent polygons remain bounded in the chart."
+    },
+    "sampling": {
+      "continent_coastline_subdivisions_per_svg_segment": 3,
+      "plate_boundary_subdivisions_per_edge": 100,
+      "triangulation": "Ear clipping",
+      "intersection": "Convex triangle clipping",
+      "area": "Analytic line integral on each clipped straight segment: A = integral 2(x dy - y dx)/(1 + x^2 + y^2)."
+    },
+    "plate_area_percent_surface": {
+      "Central": 17.998079244990855,
+      "Verdant": 11.999552115972353,
+      "Sands": 9.999701528377416,
+      "Frost": 7.999031435812524,
+      "Ashen": 6.999593876521952,
+      "Veiled": 11.000827356027456,
+      "West Ocean": 10.99676089571142,
+      "Southeast Ocean": 8.997393957810516,
+      "North Ocean": 14.003622133139118
+    },
+    "continent_area_percent_surface": {
+      "Frostbound": 4.499840837040239,
+      "Verdant Wilds": 5.400031525849423,
+      "Central Reach": 7.200005132359367,
+      "Sunken Sands": 3.900052693528133,
+      "Ashen Frontier": 2.7000236894573395,
+      "Veiled Continent": 6.300042439976997
+    },
+    "total_continent_area_percent_surface": 29.9999963182115,
+    "intersection_share_of_continent_percent": {
+      "Frostbound": {
+        "Central": 0,
+        "Verdant": 0,
+        "Sands": 9.81431208710863,
+        "Frost": 0,
+        "Ashen": 0,
+        "Veiled": 0,
+        "West Ocean": 0,
+        "Southeast Ocean": 90.18568789975,
+        "North Ocean": 1.3141378031281917e-8
+      },
+      "Verdant Wilds": {
+        "Central": 99.99999999982502,
+        "Verdant": 0,
+        "Sands": 0,
+        "Frost": 0,
+        "Ashen": 0,
+        "Veiled": 0,
+        "West Ocean": 0,
+        "Southeast Ocean": 0,
+        "North Ocean": 1.749785685685398e-10
+      },
+      "Central Reach": {
+        "Central": 0,
+        "Verdant": 4.238494673234191,
+        "Sands": 71.35445002720593,
+        "Frost": 10.070965125405927,
+        "Ashen": 0,
+        "Veiled": 0,
+        "West Ocean": 13.696181036748328,
+        "Southeast Ocean": 0.6153550643299169,
+        "North Ocean": 0.024554073075701673
+      },
+      "Sunken Sands": {
+        "Central": 0,
+        "Verdant": 6.4157044158209455,
+        "Sands": 0,
+        "Frost": 5.5816616139482536,
+        "Ashen": 0,
+        "Veiled": 0,
+        "West Ocean": 0,
+        "Southeast Ocean": 2.3355442873559317e-11,
+        "North Ocean": 88.0026339702308
+      },
+      "Ashen Frontier": {
+        "Central": 0,
+        "Verdant": 0,
+        "Sands": 0,
+        "Frost": 94.10159708152092,
+        "Ashen": 0,
+        "Veiled": 0,
+        "West Ocean": 0,
+        "Southeast Ocean": 2.3419291200191337e-9,
+        "North Ocean": 5.898402918479082
+      },
+      "Veiled Continent": {
+        "Central": 0,
+        "Verdant": 79.86933498890038,
+        "Sands": 0,
+        "Frost": 0,
+        "Ashen": 0,
+        "Veiled": 0,
+        "West Ocean": 7.0646469114175385,
+        "Southeast Ocean": 4.238733347280898e-9,
+        "North Ocean": 13.066018099682083
+      }
+    },
+    "intersection_area_percent_surface": {
+      "Frostbound": {
+        "Central": 0,
+        "Verdant": 0,
+        "Sands": 0.44162842317029033,
+        "Frost": 0,
+        "Ashen": 0,
+        "Veiled": 0,
+        "West Ocean": 0,
+        "Southeast Ocean": 4.058212413278607,
+        "North Ocean": 5.913410952014584e-10
+      },
+      "Verdant Wilds": {
+        "Central": 5.400031525839974,
+        "Verdant": 0,
+        "Sands": 0,
+        "Frost": 0,
+        "Ashen": 0,
+        "Veiled": 0,
+        "West Ocean": 0,
+        "Southeast Ocean": 0,
+        "North Ocean": 9.448897866181198e-12
+      },
+      "Central Reach": {
+        "Central": 0,
+        "Verdant": 0.30517183400764014,
+        "Sands": 5.137524064125627,
+        "Frost": 0.7251100059073486,
+        "Ashen": 0,
+        "Veiled": 0,
+        "West Ocean": 0.9861257375831101,
+        "Southeast Ocean": 0.0443055962139873,
+        "North Ocean": 0.00176789452165379
+      },
+      "Sunken Sands": {
+        "Central": 0,
+        "Verdant": 0.25021585287802817,
+        "Sands": 0,
+        "Frost": 0.21768774411841474,
+        "Ashen": 0,
+        "Veiled": 0,
+        "West Ocean": 0,
+        "Southeast Ocean": 9.108745788756747e-13,
+        "North Ocean": 3.4321490965316905
+      },
+      "Ashen Frontier": {
+        "Central": 0,
+        "Verdant": 0,
+        "Sands": 0,
+        "Frost": 2.5407654133587614,
+        "Ashen": 0,
+        "Veiled": 0,
+        "West Ocean": 0,
+        "Southeast Ocean": 6.323264103081642e-11,
+        "North Ocean": 0.1592582760985783
+      },
+      "Veiled Continent": {
+        "Central": 0,
+        "Verdant": 5.0318020008281215,
+        "Sands": 0,
+        "Frost": 0,
+        "Ashen": 0,
+        "Veiled": 0,
+        "West Ocean": 0.44507575365382906,
+        "Southeast Ocean": 2.670419997961541e-10,
+        "North Ocean": 0.8231646854950472
+      }
+    },
+    "dominant_plate_by_continent": {
+      "Frostbound": {
+        "plate": "Southeast Ocean",
+        "share_pct": 90.18568789975
+      },
+      "Verdant Wilds": {
+        "plate": "Central",
+        "share_pct": 99.99999999982502
+      },
+      "Central Reach": {
+        "plate": "Sands",
+        "share_pct": 71.35445002720593
+      },
+      "Sunken Sands": {
+        "plate": "North Ocean",
+        "share_pct": 88.0026339702308
+      },
+      "Ashen Frontier": {
+        "plate": "Frost",
+        "share_pct": 94.10159708152092
+      },
+      "Veiled Continent": {
+        "plate": "Verdant",
+        "share_pct": 79.86933498890038
+      }
+    },
+    "mean_dominant_plate_share_percent": 87.25228399460134,
+    "max_plate_area_target_deviation_percentage_points": 0.003622133139118,
+    "max_continent_area_target_deviation_percentage_points": 0.000159162959761,
+    "conservation_note": "The chart-pole-containing North Ocean face is represented as the complement of the other eight faces. For each continent, its North Ocean intersection is the residual after the eight bounded-face intersections; area closure is therefore enforced by complement construction, not an independent ninth polygon clip."
   },
   "raster_audit": {
     "method": "Equal-area raster using uniform longitude and uniform sin(latitude); cell-center point-in-polygon classification",
@@ -61,104 +267,12 @@
       "West Ocean": 10.997569444444444,
       "Southeast Ocean": 8.989930555555556
     },
-    "dominant_plate_by_continent": {
-      "Frostbound": {
-        "plate": "Southeast Ocean",
-        "share_pct": 90.2165939539014
-      },
-      "Verdant Wilds": {
-        "plate": "Central",
-        "share_pct": 100
-      },
-      "Central Reach": {
-        "plate": "Sands",
-        "share_pct": 71.349682895657
-      },
-      "Sunken Sands": {
-        "plate": "North Ocean",
-        "share_pct": 87.97738805305795
-      },
-      "Ashen Frontier": {
-        "plate": "Frost",
-        "share_pct": 94.11651234567901
-      },
-      "Veiled Continent": {
-        "plate": "Verdant",
-        "share_pct": 79.83908742732758
-      }
-    },
-    "intersection_share_of_continent_percent": {
-      "Frostbound": {
-        "Central": 0,
-        "Verdant": 0,
-        "Sands": 9.783406046098607,
-        "Frost": 0,
-        "Ashen": 0,
-        "Veiled": 0,
-        "North Ocean": 0,
-        "West Ocean": 0,
-        "Southeast Ocean": 90.2165939539014
-      },
-      "Verdant Wilds": {
-        "Central": 100,
-        "Verdant": 0,
-        "Sands": 0,
-        "Frost": 0,
-        "Ashen": 0,
-        "Veiled": 0,
-        "North Ocean": 0,
-        "West Ocean": 0,
-        "Southeast Ocean": 0
-      },
-      "Central Reach": {
-        "Central": 0,
-        "Verdant": 4.232076973160674,
-        "Sands": 71.349682895657,
-        "Frost": 10.07258434010948,
-        "Ashen": 0,
-        "Veiled": 0,
-        "North Ocean": 0.01688007909522776,
-        "West Ocean": 13.721092864549423,
-        "Southeast Ocean": 0.6076828474281993
-      },
-      "Sunken Sands": {
-        "Central": 0,
-        "Verdant": 6.423039259325202,
-        "Sands": 0,
-        "Frost": 5.599572687616843,
-        "Ashen": 0,
-        "Veiled": 0,
-        "North Ocean": 87.97738805305795,
-        "West Ocean": 0,
-        "Southeast Ocean": 0
-      },
-      "Ashen Frontier": {
-        "Central": 0,
-        "Verdant": 0,
-        "Sands": 0,
-        "Frost": 94.11651234567901,
-        "Ashen": 0,
-        "Veiled": 0,
-        "North Ocean": 5.883487654320987,
-        "West Ocean": 0,
-        "Southeast Ocean": 0
-      },
-      "Veiled Continent": {
-        "Central": 0,
-        "Verdant": 79.83908742732758,
-        "Sands": 0,
-        "Frost": 0,
-        "Ashen": 0,
-        "Veiled": 0,
-        "North Ocean": 13.096189347808117,
-        "West Ocean": 7.064723224864299,
-        "Southeast Ocean": 0
-      }
-    },
-    "note": "Raster estimates, not exact spherical polygon clipping. Grid quantization and cell-center classification introduce small errors."
+    "mean_dominant_plate_share_percent": 87.24987744593716,
+    "note": "Retained as an independent numerical cross-check. Raster estimates are not the primary matrix after the sampled spherical clipping audit."
   },
   "limits": [
-    "Candidate orientation only; not final geography.",
+    "R0.2 is a candidate orientation, not final geography or CANON.",
+    "Coastlines and plate edges are represented by sampled polylines; the area integral is analytic for the resulting clipped piecewise-linear chart polygons, not for an unknown continuous coastline.",
     "Dominant-plate compactness is a cartographic heuristic, not a tectonic law.",
     "Plate-face names do not determine crust type.",
     "No plate-boundary kinematics, subduction, spreading, or geodynamic validation is implied."
