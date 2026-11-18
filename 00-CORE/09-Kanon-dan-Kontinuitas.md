@@ -23,7 +23,7 @@ batas informasi yang belum boleh diisi.
 -   Entitas kosmik bersifat abstrak; hakikat, motif, dan batas
     kemampuannya belum diketahui.
 -   Great War pernah terjadi.
--   NVR AGAIN terdengar di seluruh dunia selama perang.
+-   Musik yang kemudian diketahui bernama NVR AGAIN terdengar di seluruh dunia selama perang.
 -   Sekutu LEAX memperoleh jubah mana hitam dengan pertahanan luar biasa
     serta pemulihan HP dan MP terus-menerus.
 -   Peristiwa tersebut dikenal sebagai Resonansi Hitam.
