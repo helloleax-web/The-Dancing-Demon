@@ -895,3 +895,15 @@ V0.6 memperbaiki target luas dan bingkai koordinat, tetapi belum menyelesaikan:
 - pulau-pulau kecil dan garis pantai rinci.
 
 **Status:** V0.6 adalah kandidat geometri kerja NON-CANON. Ia menggantikan V0.5 sebagai kandidat luas sferis untuk pengujian berikutnya, bukan sebagai peta final.
+
+### 7.45 Uji orientasi dan containment lempeng
+
+Uji awal [Plate Containment — Common Orientation Search V0.1](Plate-Containment-Orientation-Search-V0.1.md) membandingkan siluet V0.6 dengan muka lempeng V1.0-R. Dalam 40.000 rotasi global acak deterministik dan pemeriksaan grid kasar, tidak ditemukan satu orientasi bersama yang menempatkan keenam benua sepenuhnya di dalam lempeng pembawanya.
+
+Pada orientasi sampel terbaik, hanya Sunken Sands yang lolos seluruh titik sampelnya; total 115 dari 368 titik sampel berada di muka lempeng yang ditetapkan. Ini bukan bukti matematis bahwa orientasi valid mustahil, dan belum menggantikan uji perpotongan batas poligon sferis. Namun, containment tidak boleh dinyatakan lolos.
+
+Luas nominal setiap benua tetap lebih kecil daripada luas lempeng pembawanya. Masalah yang terlihat adalah bentuk dan penempatan, bukan kekurangan anggaran luas semata.
+
+**Keputusan kerja:** tahan pengembangan relief rinci. Tahap berikutnya adalah menguji penempatan ulang benua di dalam muka lempeng sambil mempertahankan target luas, atau meninjau ulang geometri/penetapan muka lempeng. Semua NON-CANON.
+
+Berkas data: [Plate Containment Orientation Search V0.1 JSON](Plate-Containment-Orientation-Search-V0.1.json).
