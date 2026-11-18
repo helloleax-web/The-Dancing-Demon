@@ -624,3 +624,77 @@ V0.7 tidak menetapkan suhu regional, angka curah hujan, lokasi gurun, hutan, pad
 - Seluruh isi tetap NON-CANON.
 
 **Status keputusan:** V0.7 menyediakan baseline konseptual untuk melanjutkan pemodelan. Tahap berikutnya yang logis adalah membangun relief makro dan batimetri konseptual sebelum menurunkan arus laut rinci, pola hujan, dan bioma.
+
+
+## 16. Kerangka relief makro dan batimetri — V0.8
+
+**Status: CATATAN PENGEMBANGAN / NON-CANON.** V0.8 menerjemahkan arahan relief yang telah tercatat pada Bagian 4 menjadi kerangka visual awal. Penanda relief adalah kandidat desain, bukan pengukuran elevasi atau keputusan CANON. Bagian batimetri hanya menetapkan kosakata bentuk dasar laut dan belum menempatkan fitur bawah laut pada koordinat tertentu.
+
+Berkas:
+- [World-Atlas-Relief-Bathymetry-Framework-V0.8.svg](World-Atlas-Relief-Bathymetry-Framework-V0.8.svg)
+- [World-Atlas-Relief-Bathymetry-Audit-V0.8.json](World-Atlas-Relief-Bathymetry-Audit-V0.8.json)
+
+### 16.1 Prinsip konstruksi
+
+- Relief mengikuti arahan desain yang sudah tercatat pada Bagian 4; V0.8 tidak membuat pegunungan baru berdasarkan tebakan batas lempeng.
+- Ketinggian hanya dibedakan secara relatif: pegunungan/dataran tinggi, perbukitan, dataran rendah, dan cekungan. Tidak ada angka meter yang diberikan.
+- Garis pantai tetap berasal dari siluet draft terdahulu; tidak diubah.
+- Batas lempeng tidak diperlakukan sebagai garis pantai.
+- Tidak ada sungai final yang digambar sebelum punggung bukit, elevasi, dan daerah aliran sungai diselesaikan.
+- Tidak ada palung, punggung tengah samudra, atau busur vulkanik yang ditempatkan hanya dari simpul triple junction.
+
+### 16.2 Kandidat relief per benua
+
+| Benua | Kandidat relief dari catatan desain | Status spasial |
+|---|---|---|
+| The Central Reach | Pegunungan panjang di barat/barat laut; dataran tinggi lebih rendah di timur; cekungan atau dataran luas pemisah; perbukitan dan lembah di dataran tengah | Zona barat laut dan dataran tinggi timur ditampilkan sebagai skema; cekungan tengah masih kandidat |
+| The Verdant Wilds | Busur pegunungan tidak sempurna dari barat laut ke tengah; dataran tinggi dan perbukitan pembagi DAS | Busur ditampilkan secara skematis; elevasi dan ujung busur belum dikunci |
+| The Sunken Sands | Pegunungan memanjang pada salah satu sisi; cekungan luas di tengah; dataran tinggi di sisi berlawanan | Cekungan ditandai sebagai kandidat; sisi pegunungan dan dataran tinggi sengaja belum dipilih |
+| The Frostbound Expanse | Pegunungan atau dataran tinggi tengah-utara; lembah menuju pesisir | Dataran tinggi tengah-utara ditampilkan sebagai kandidat; fitur glasial belum digambar |
+| The Ashen Frontier | Zona pegunungan/dataran tinggi diagonal; kandidat busur vulkanik atau dataran vulkanik di salah satu sisi; lembah patahan atau cekungan | Zona tinggi diagonal ditampilkan; vulkanisme dan patahan belum ditetapkan |
+| The Veiled Continent | Pegunungan dekat salah satu pesisir panjang; dataran tinggi sekunder di sisi berlawanan; cekungan pedalaman | Cekungan ditandai; sisi pegunungan dan dataran tinggi sengaja belum dipilih |
+
+### 16.3 Batimetri: kelas bentuk dasar laut
+
+Penampang pada SVG hanya menjelaskan bentuk umum margin benua dan dasar laut, bukan profil kedalaman aktual. Kerangka istilah yang dipakai:
+- **Landas kontinen (continental shelf):** tepian dangkal yang berlanjut dari benua.
+- **Lereng kontinen (continental slope):** transisi curam menuju laut dalam.
+- **Kaki lereng (continental rise):** zona akumulasi sedimen yang dapat berkembang di kaki lereng.
+- **Dataran abisal (abyssal plain):** dasar laut dalam yang relatif datar.
+- **Punggung samudra, palung, gunung laut, dan dataran tinggi samudra:** fitur yang mungkin ada, tetapi belum dipetakan.
+
+Tidak ada kedalaman numerik atau lokasi cekungan yang ditetapkan pada tahap ini. Tiga wilayah lempeng samudra (NO, WO, SE) tetap merupakan label muka lempeng dalam referensi geometri; label itu tidak otomatis menjadi nama samudra atau deskripsi kedalaman.
+
+### 16.4 Hubungan dengan tektonik
+
+Referensi V1.0 yang dipulihkan memuat 14 triple junction, 21 segmen, dan 9 muka lempeng, tetapi koordinat planar asli tidak tersedia. Koordinat lintang-bujur simpul dibulatkan dan tidak cukup untuk mereproduksi batas secara presisi. Dokumen referensi juga menyatakan belum ada kinematika gerak lempeng.
+
+Karena itu, V0.8 tidak menyimpulkan:
+- batas konvergen, divergen, atau transform;
+- arah dan laju gerak setiap lempeng;
+- lokasi zona subduksi, rift, atau sesar transform;
+- posisi palung, punggung tengah samudra, busur vulkanik, atau hotspot.
+
+Vulkanisme Ashen Frontier tetap berupa kemungkinan desain, bukan hasil turunan yang sudah dibuktikan dari geometri lempeng.
+
+### 16.5 Hidrologi yang ditunda
+
+Sungai, danau, delta, rawa, dan cekungan endoreik belum ditempatkan. Tahap berikutnya harus menetapkan:
+1. punggung topografi dan elevasi relatif;
+2. batas daerah aliran sungai;
+3. arah aliran dari daerah tinggi menuju laut/danau/cekungan;
+4. titik muara dan danau;
+5. pemeriksaan bahwa sungai tidak melintasi punggung topografi tanpa celah atau mekanisme yang masuk akal.
+
+Fjord, lembah glasial, dan danau glasial hanya dapat ditambahkan jika sejarah glasiasi dan reliefnya mendukung.
+
+### 16.6 Audit dan batas klaim
+
+- Enam poligon benua diwarisi tanpa perubahan dari V0.6.
+- Tidak ada geometri lempeng atau koordinat triple junction yang diubah.
+- Tidak ada elevasi absolut, kedalaman laut, atau gradien lereng yang diklaim.
+- Tidak ada sistem sungai atau danau yang disahkan.
+- Diagram memakai kerangka koordinat linear sementara, bukan proyeksi kartografis tervalidasi.
+- Seluruh fitur tetap NON-CANON.
+
+**Status keputusan:** V0.8 menyediakan inventaris relief makro dan kosakata batimetri. Sebelum arus laut rinci dan bioma, pekerjaan berikutnya adalah menyelesaikan model elevasi relatif dan drainase utama tanpa mengunci lokasi cerita.
