@@ -404,3 +404,34 @@ Berkas:
 
 **Status:** V0.3 lulus pemeriksaan presentasi dasar dan geometri bidang. Ini bukan redesign garis pantai, bukan proyeksi globe, bukan validasi luas geodesik, dan bukan uji containment lempeng. Seluruhnya tetap NON-CANON.
 
+
+
+## 13. Coastline refinement — V0.4
+
+V0.4 merupakan redesign geometri garis pantai berdasarkan arahan bentuk pada Bagian 4. Versi V0.1, V0.2, dan V0.3 tidak ditimpa.
+
+Berkas:
+- [World-Atlas-Continental-Silhouette-V0.4.svg](World-Atlas-Continental-Silhouette-V0.4.svg)
+- [World-Atlas-Continental-Polygon-Audit-V0.4.json](World-Atlas-Continental-Polygon-Audit-V0.4.json)
+
+### Perubahan siluet
+- **Frostbound Expanse:** tonjolan utara lebih tegas, dua tonjolan semenanjung ke selatan, dan lekukan pesisir lebih dalam.
+- **Verdant Wilds:** semenanjung selatan diperjelas; pesisir barat lebih terfragmentasi dan sisi timur memiliki teluk yang lebih kuat.
+- **The Central Reach:** semenanjung timur dan barat laut diperjelas, dengan beberapa teluk pada sisi utara dan lekukan besar di sisi selatan.
+- **The Sunken Sands:** siluet diputar menjadi diagonal barat laut–tenggara, dengan bagian pesisir berlekuk dan ujung yang lebih tegas.
+- **The Ashen Frontier:** bentuk kompak melengkung dipertahankan, dengan teluk sisi dalam dan tonjolan sempit ke selatan.
+- **The Veiled Continent:** pesisir lebih asimetris, dengan teluk dalam yang masuk dari sisi selatan dan semenanjung timur. Lekukan tersebut masih berupa teluk konseptual; belum ditetapkan sebagai laut pedalaman yang tersambung selat.
+
+### Audit geometri bidang
+- Enam poligon tertutup dan valid.
+- Semua poligon berada di dalam bingkai peta.
+- Tidak ditemukan tumpang tindih antarbenua.
+- Porsi luas bidang SVG hasil pengukuran: Frostbound 15.000013%, Verdant 18.000064%, Central 23.999861%, Sunken Sands 13.000027%, Ashen 8.999998%, dan Veiled 21.000037%.
+- Deviasi maksimum dari target: 0.000684 poin persentase.
+
+Pengukuran menggunakan rumus Shoelace pada koordinat bidang SVG setelah penyederhanaan titik dan normalisasi luas. Persentase tersebut hanya menunjukkan proporsi luas pada bidang gambar, bukan luas permukaan geodesik planet.
+
+### Batas validasi
+V0.4 belum menetapkan proyeksi, orientasi globe, koordinat geografis, jarak nyata, bentuk relief, sistem drainase, atau containment terhadap lempeng. Grid tetap ilustratif. Garis pantai tidak boleh ditafsirkan sebagai batas lempeng.
+
+**Status:** V0.4 lulus audit geometri bidang, bingkai, dan non-overlap. Tetap NON-CANON dan merupakan studi desain garis pantai, bukan peta geografis final.
