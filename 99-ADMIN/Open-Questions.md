@@ -1,6 +1,6 @@
 # Open Questions and Unresolved Details
 
-Dokumen ini mencatat hal yang belum ditentukan. Jangan mengisi sendiri tanpa keputusan kreator.
+Dokumen ini mencatat hal yang belum ditentukan. Pertanyaan terbuka dapat dikembangkan menjadi CATATAN PENGEMBANGAN di bawah mandat editorial aktif, tetapi tidak otomatis menjadi CANON. Pertahankan MYSTERY yang memang dibutuhkan cerita. Lihat [Editorial and Repository Maintenance Policy](Editorial-Maintenance-Policy.md).
 
 ## Dunia dan kosmologi
 - Nama dunia.
@@ -32,7 +32,8 @@ Dokumen ini mencatat hal yang belum ditentukan. Jangan mengisi sendiri tanpa kep
 
 ## Spesies dan geografi
 - Spesies yang benar-benar ada.
-- Peta, nama benua, kerajaan, lokasi, dan persebaran spesies.
+- Peta final, nama dan posisi politik/geografis, kerajaan, lokasi, dan persebaran spesies.
+- Validasi independen geometri lempeng V1.0 atau rekonstruksi dengan nomor versi baru; koordinat planar asli belum tersedia pada referensi yang dipulihkan.
 - Status naga dan makhluk legendaris.
 
 ## International Authority
