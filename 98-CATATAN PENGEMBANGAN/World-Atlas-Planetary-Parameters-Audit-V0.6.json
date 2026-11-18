@@ -1,0 +1,146 @@
+{
+  "version": "V0.6",
+  "status": "NON-CANON / CATATAN PENGEMBANGAN",
+  "model": "Earth-reference terrestrial baseline; chosen to make physical and climate modelling internally consistent, not to assert that the fictional planet is identical to Earth.",
+  "parameters": {
+    "mean_radius_km": {
+      "value": 6371,
+      "source": "Earth-reference baseline",
+      "status": "provisional"
+    },
+    "mass_kg": {
+      "value": 5.972e+24,
+      "source": "Earth-reference baseline",
+      "status": "provisional"
+    },
+    "mean_surface_gravity_m_s2": {
+      "value": 9.81,
+      "source": "Consistent with Earth-reference mass and radius",
+      "status": "provisional"
+    },
+    "mean_circumference_km": {
+      "value": 40030,
+      "source": "Derived from radius; rounded",
+      "status": "derived"
+    },
+    "total_surface_area_million_km2": {
+      "value": 510.1,
+      "source": "Derived from spherical surface area; rounded",
+      "status": "derived"
+    },
+    "land_water_split_percent": {
+      "land": 30,
+      "water": 70,
+      "status": "Inherited working assumption; not approved as canon"
+    },
+    "estimated_land_area_million_km2": {
+      "value": 153,
+      "source": "30% of rounded total surface area",
+      "status": "derived"
+    },
+    "estimated_water_area_million_km2": {
+      "value": 357.1,
+      "source": "70% of rounded total surface area",
+      "status": "derived"
+    },
+    "mean_solar_day_hours": {
+      "value": 24,
+      "status": "provisional"
+    },
+    "sidereal_rotation_hours": {
+      "value": 23.9345,
+      "status": "Earth-reference equivalent"
+    },
+    "axial_tilt_deg": {
+      "value": 23.44,
+      "status": "provisional"
+    },
+    "orbital_period_tropical_days": {
+      "value": 365.2422,
+      "status": "provisional"
+    },
+    "orbital_eccentricity": {
+      "value": 0.0167,
+      "status": "provisional"
+    },
+    "mean_orbital_distance_AU": {
+      "value": 1,
+      "status": "Reference orbit around a solar-mass star; provisional"
+    },
+    "stellar_luminosity_solar": {
+      "value": 1,
+      "status": "Solar-equivalent reference; provisional"
+    },
+    "mean_top_of_atmosphere_stellar_irradiance_W_m2": {
+      "value": 1361,
+      "status": "Earth-reference value; provisional"
+    }
+  },
+  "derived_latitude_bands": {
+    "north_tropic_deg": 23.44,
+    "south_tropic_deg": -23.44,
+    "north_polar_circle_deg": 66.56,
+    "south_polar_circle_deg": -66.56,
+    "astronomical_zone_ranges": {
+      "northern_tropics": [
+        0,
+        23.44
+      ],
+      "southern_tropics": [
+        -23.44,
+        0
+      ],
+      "northern_mid_latitudes": [
+        23.44,
+        66.56
+      ],
+      "southern_mid_latitudes": [
+        -66.56,
+        -23.44
+      ],
+      "northern_polar_zone": [
+        66.56,
+        90
+      ],
+      "southern_polar_zone": [
+        -90,
+        -66.56
+      ]
+    },
+    "svg_y_positions": {
+      "arctic_circle": 215.06,
+      "tropic_of_cancer": 389.94,
+      "equator": 485,
+      "tropic_of_capricorn": 580.06,
+      "antarctic_circle": 754.94
+    }
+  },
+  "climate_interpretation": {
+    "note": "Astronomical latitude bands are not climate classifications.",
+    "approximate_general_circulation_cells": {
+      "hadley": "roughly 0°–30° in each hemisphere, variable and seasonal",
+      "ferrel": "roughly 30°–60° in each hemisphere, variable and seasonal",
+      "polar": "roughly 60°–90° in each hemisphere, variable and seasonal"
+    },
+    "seasons": "Opposite seasonal phases in the two hemispheres; seasonal intensity depends on axial tilt, orbital eccentricity, land-ocean distribution, atmosphere and ocean circulation.",
+    "unresolved": "Atmospheric mass and composition, greenhouse gases, cloud behaviour, ocean heat transport, prevailing winds, rainfall and regional climates are not yet assigned."
+  },
+  "checks": {
+    "earth_reference_values_internally_consistent": true,
+    "axial_tilt_complementary_latitudes_sum_to_90": true,
+    "latitude_bands_fit_existing_coordinate_frame": true,
+    "climate_zones_not_inferred_from_latitude_alone": true,
+    "geodesic_map_validation": false,
+    "regional_climate_validation": false,
+    "canonical_approval": false
+  },
+  "limitations": [
+    "All parameter values are a working Earth-reference proposal, not CANON.",
+    "The planet's exact atmosphere, hydrosphere chemistry, star type, moons and orbital architecture remain undecided.",
+    "The 30/70 land-water split remains a prior working assumption, not a confirmed fact.",
+    "The latitude overlay is drawn on a provisional linear SVG scaffold; no final cartographic projection is selected.",
+    "The tropics and polar circles are astronomical latitude limits derived from the proposed axial tilt, not biome or climate boundaries.",
+    "No regional temperatures, precipitation, ocean currents, wind belts, deserts, forests or ice coverage are assigned.",
+    "No plate geometry, plate boundaries or plate containment is changed."
+  ]
+}
