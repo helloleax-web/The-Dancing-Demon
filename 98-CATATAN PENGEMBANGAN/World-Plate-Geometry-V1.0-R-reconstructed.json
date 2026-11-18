@@ -1,0 +1,512 @@
+{
+  "model": "The Dancing Demon — Plate Geometry V1.0-R",
+  "version": "1.0-R",
+  "created_date": "2026-11-18",
+  "status": "DEVELOPMENT / NON-CANON / RECONSTRUCTED BASELINE / AREA TARGETS MET",
+  "reconstruction_note": "New reproducible reconstruction using the published V1.0 topology and target area percentages. It is not a recovery of the original V1.0 optimized planar coordinates and must not be represented as identical to the original baseline.",
+  "source_basis": {
+    "topology_and_face_cycles": "World-Plate-Geometry-V1.0-reference.json",
+    "target_area_percentages": "World-Plate-Geometry-V1.0-reference.json",
+    "comparison_candidate": "World-Plate-Geometry-V1.1-Tutte-candidate.json"
+  },
+  "method": {
+    "embedding": "Tutte barycentric embedding of the 3-connected planar graph using positive symmetric edge weights",
+    "boundary": "Seven Central-face boundary vertices lie on a convex circle with optimized nonuniform angular gaps",
+    "edge_weights": "Positive symmetric weights are stored per edge for reproducibility",
+    "projection": "Inverse stereographic projection from the plane to the unit sphere",
+    "area_method": "Spherical face area is computed by the boundary integral A = integral 2(x dy - y dx)/(1 + x^2 + y^2) along straight planar edges; Central is the spherical complement of the eight bounded faces",
+    "optimizer": "Least-squares optimization of log edge weights, boundary angular gaps, and boundary radius with regularization"
+  },
+  "projection": {
+    "type": "inverse_stereographic",
+    "formula": {
+      "X": "2x/(1+x^2+y^2)",
+      "Y": "2y/(1+x^2+y^2)",
+      "Z": "(x^2+y^2-1)/(1+x^2+y^2)"
+    }
+  },
+  "validation": {
+    "vertices": 14,
+    "edges": 21,
+    "faces": 9,
+    "euler_V_minus_E_plus_F": 2,
+    "connected": true,
+    "vertex_connectivity": 3,
+    "all_vertex_degrees_equal_3": true,
+    "planar_graph": true,
+    "outer_boundary_convex": true,
+    "tutte_embedding": true,
+    "crossing_edges": 0,
+    "min_nonincident_edge_distance_planar": 0.05242891969081599,
+    "min_edge_length_planar": 0.05263454103339453,
+    "all_interior_vertices_inside_outer_boundary": true,
+    "min_interior_vertex_boundary_margin_planar": 0.32883829320239194,
+    "all_face_polygons_valid": true,
+    "bounded_faces_union_equals_outer_polygon": true,
+    "planar_overlap_area": 1.7763568394002505e-15,
+    "planar_coverage_symmetric_difference": 0,
+    "area_targets_met": true,
+    "max_area_deviation_percentage_points": 0.002187612552845053,
+    "surface_area_sum_percent": 100,
+    "continent_containment_tested": false,
+    "geodynamic_or_geophysical_validation": false
+  },
+  "boundary": {
+    "nodes": [
+      "TJ-10",
+      "TJ-12",
+      "TJ-13",
+      "TJ-07",
+      "TJ-08",
+      "TJ-09",
+      "TJ-01"
+    ],
+    "radius": 2.392376445189565,
+    "angles_rad": {
+      "TJ-10": 0,
+      "TJ-12": 1.0045111560799047,
+      "TJ-13": 1.9804875872704988,
+      "TJ-07": 2.55898196110609,
+      "TJ-08": 3.7711408079616535,
+      "TJ-09": 4.997411577832415,
+      "TJ-01": 5.730177546649442
+    },
+    "gaps_rad": {
+      "TJ-10": 1.229628010786846,
+      "TJ-12": 1.2296280171535028,
+      "TJ-13": 0.45235486780185047,
+      "TJ-07": 1.2296280171607636,
+      "TJ-08": 1.2296280170761396,
+      "TJ-09": 0.459963509398633,
+      "TJ-01": 0.45235486780185047
+    },
+    "bounded_region_area_percent": 81.99975112338007,
+    "complementary_face": "Central"
+  },
+  "area_percent_surface": {
+    "Central": 18.000248876619935,
+    "Verdant": 12.001698050033772,
+    "Sands": 10.002187612552845,
+    "Frost": 7.999276355484914,
+    "Ashen": 7.000404942577941,
+    "Veiled": 11.0003745683892,
+    "North Ocean": 13.999195336307801,
+    "West Ocean": 10.99869750138414,
+    "Southeast Ocean": 8.997916756649452
+  },
+  "target_percent_surface": {
+    "Central": 18,
+    "Verdant": 12,
+    "Sands": 10,
+    "Frost": 8,
+    "Ashen": 7,
+    "Veiled": 11,
+    "North Ocean": 14,
+    "West Ocean": 11,
+    "Southeast Ocean": 9
+  },
+  "area_deviation_percentage_points": {
+    "Central": 0.0002488766199348902,
+    "Verdant": 0.0016980500337719917,
+    "Sands": 0.002187612552845053,
+    "Frost": -0.0007236445150864412,
+    "Ashen": 0.000404942577940659,
+    "Veiled": 0.000374568389199581,
+    "North Ocean": -0.0008046636921985595,
+    "West Ocean": -0.0013024986158605145,
+    "Southeast Ocean": -0.002083243350547548
+  },
+  "nodes": {
+    "TJ-01": {
+      "planar_xy": [
+        2.1517519886071566,
+        -1.0456712844020377
+      ]
+    },
+    "TJ-02": {
+      "planar_xy": [
+        1.844783837239105,
+        -0.9020006217786457
+      ]
+    },
+    "TJ-03": {
+      "planar_xy": [
+        -0.3900549234956041,
+        0.36968101738478676
+      ]
+    },
+    "TJ-04": {
+      "planar_xy": [
+        -0.21833762959723524,
+        -0.2292267536741343
+      ]
+    },
+    "TJ-05": {
+      "planar_xy": [
+        -0.23017312426180742,
+        -0.28051335987732323
+      ]
+    },
+    "TJ-06": {
+      "planar_xy": [
+        -0.29143819582725256,
+        -0.2807705693306268
+      ]
+    },
+    "TJ-07": {
+      "planar_xy": [
+        -2.3293864979128216,
+        0.5453655644054719
+      ]
+    },
+    "TJ-08": {
+      "planar_xy": [
+        -1.2933185497634754,
+        -2.01265798990677
+      ]
+    },
+    "TJ-09": {
+      "planar_xy": [
+        1.4639280043238116,
+        -1.8921891696271704
+      ]
+    },
+    "TJ-10": {
+      "planar_xy": [
+        2.392376445189565,
+        0
+      ]
+    },
+    "TJ-11": {
+      "planar_xy": [
+        -0.29535295320336563,
+        0.4313688596823268
+      ]
+    },
+    "TJ-12": {
+      "planar_xy": [
+        0.8004611669402637,
+        2.254490402667195
+      ]
+    },
+    "TJ-13": {
+      "planar_xy": [
+        -1.856726573215402,
+        1.5086522090308452
+      ]
+    },
+    "TJ-14": {
+      "planar_xy": [
+        -0.42654952256677164,
+        0.4221585032484034
+      ]
+    }
+  },
+  "edges": [
+    [
+      "TJ-01",
+      "TJ-09"
+    ],
+    [
+      "TJ-04",
+      "TJ-05"
+    ],
+    [
+      "TJ-05",
+      "TJ-09"
+    ],
+    [
+      "TJ-01",
+      "TJ-02"
+    ],
+    [
+      "TJ-02",
+      "TJ-04"
+    ],
+    [
+      "TJ-12",
+      "TJ-13"
+    ],
+    [
+      "TJ-10",
+      "TJ-12"
+    ],
+    [
+      "TJ-07",
+      "TJ-08"
+    ],
+    [
+      "TJ-07",
+      "TJ-13"
+    ],
+    [
+      "TJ-08",
+      "TJ-09"
+    ],
+    [
+      "TJ-01",
+      "TJ-10"
+    ],
+    [
+      "TJ-11",
+      "TJ-12"
+    ],
+    [
+      "TJ-13",
+      "TJ-14"
+    ],
+    [
+      "TJ-11",
+      "TJ-14"
+    ],
+    [
+      "TJ-10",
+      "TJ-11"
+    ],
+    [
+      "TJ-06",
+      "TJ-07"
+    ],
+    [
+      "TJ-06",
+      "TJ-08"
+    ],
+    [
+      "TJ-05",
+      "TJ-06"
+    ],
+    [
+      "TJ-03",
+      "TJ-14"
+    ],
+    [
+      "TJ-03",
+      "TJ-04"
+    ],
+    [
+      "TJ-02",
+      "TJ-03"
+    ]
+  ],
+  "edge_weights": [
+    {
+      "edge": [
+        "TJ-01",
+        "TJ-09"
+      ],
+      "weight": 1.0000019234141269
+    },
+    {
+      "edge": [
+        "TJ-04",
+        "TJ-05"
+      ],
+      "weight": 13.009600331354111
+    },
+    {
+      "edge": [
+        "TJ-05",
+        "TJ-09"
+      ],
+      "weight": 0.4117721083537105
+    },
+    {
+      "edge": [
+        "TJ-01",
+        "TJ-02"
+      ],
+      "weight": 2.9846255381423816
+    },
+    {
+      "edge": [
+        "TJ-02",
+        "TJ-04"
+      ],
+      "weight": 0.18461846340111596
+    },
+    {
+      "edge": [
+        "TJ-12",
+        "TJ-13"
+      ],
+      "weight": 1.0000019234141269
+    },
+    {
+      "edge": [
+        "TJ-10",
+        "TJ-12"
+      ],
+      "weight": 1.0000019234141269
+    },
+    {
+      "edge": [
+        "TJ-07",
+        "TJ-08"
+      ],
+      "weight": 1.0000019234141269
+    },
+    {
+      "edge": [
+        "TJ-07",
+        "TJ-13"
+      ],
+      "weight": 1.0000019234141266
+    },
+    {
+      "edge": [
+        "TJ-08",
+        "TJ-09"
+      ],
+      "weight": 1.0000019234141266
+    },
+    {
+      "edge": [
+        "TJ-01",
+        "TJ-10"
+      ],
+      "weight": 1.0000019234141266
+    },
+    {
+      "edge": [
+        "TJ-11",
+        "TJ-12"
+      ],
+      "weight": 0.07189207094397408
+    },
+    {
+      "edge": [
+        "TJ-13",
+        "TJ-14"
+      ],
+      "weight": 0.9685183554590094
+    },
+    {
+      "edge": [
+        "TJ-11",
+        "TJ-14"
+      ],
+      "weight": 4.748163762761474
+    },
+    {
+      "edge": [
+        "TJ-10",
+        "TJ-11"
+      ],
+      "weight": 0.20246176951762412
+    },
+    {
+      "edge": [
+        "TJ-06",
+        "TJ-07"
+      ],
+      "weight": 0.3376540930500913
+    },
+    {
+      "edge": [
+        "TJ-06",
+        "TJ-08"
+      ],
+      "weight": 0.16313032042824754
+    },
+    {
+      "edge": [
+        "TJ-05",
+        "TJ-06"
+      ],
+      "weight": 13.899578128826601
+    },
+    {
+      "edge": [
+        "TJ-03",
+        "TJ-14"
+      ],
+      "weight": 20.88555424798915
+    },
+    {
+      "edge": [
+        "TJ-03",
+        "TJ-04"
+      ],
+      "weight": 1.3214467486397903
+    },
+    {
+      "edge": [
+        "TJ-02",
+        "TJ-03"
+      ],
+      "weight": 0.2395227245728817
+    }
+  ],
+  "faces": {
+    "Central": [
+      "TJ-10",
+      "TJ-12",
+      "TJ-13",
+      "TJ-07",
+      "TJ-08",
+      "TJ-09",
+      "TJ-01"
+    ],
+    "Verdant": [
+      "TJ-10",
+      "TJ-11",
+      "TJ-14",
+      "TJ-03",
+      "TJ-02",
+      "TJ-01"
+    ],
+    "Sands": [
+      "TJ-13",
+      "TJ-14",
+      "TJ-03",
+      "TJ-04",
+      "TJ-05",
+      "TJ-06",
+      "TJ-07"
+    ],
+    "Frost": [
+      "TJ-11",
+      "TJ-12",
+      "TJ-13",
+      "TJ-14"
+    ],
+    "Ashen": [
+      "TJ-01",
+      "TJ-02",
+      "TJ-04",
+      "TJ-05",
+      "TJ-09"
+    ],
+    "Veiled": [
+      "TJ-05",
+      "TJ-06",
+      "TJ-08",
+      "TJ-09"
+    ],
+    "North Ocean": [
+      "TJ-10",
+      "TJ-11",
+      "TJ-12"
+    ],
+    "West Ocean": [
+      "TJ-02",
+      "TJ-03",
+      "TJ-04"
+    ],
+    "Southeast Ocean": [
+      "TJ-06",
+      "TJ-07",
+      "TJ-08"
+    ]
+  },
+  "notes": [
+    "Preserves the published 14-node, 21-edge, 9-face topology and target area percentages.",
+    "All vertices have degree 3; graph vertex connectivity is 3.",
+    "Embedding is non-crossing and every face polygon is valid.",
+    "Eight bounded faces cover the outer polygon exactly without overlap; Central is the complementary spherical face.",
+    "Maximum area error is below 0.003 percentage points.",
+    "Coordinates are mathematical, not geographic. Geographic orientation remains undecided.",
+    "Continent containment and geodynamic plausibility have not been tested.",
+    "Recommended as the reproducible development baseline; original V1.0 reference remains preserved."
+  ]
+}
