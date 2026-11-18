@@ -1970,6 +1970,33 @@ Data koordinat lengkap disimpan pada `World-Plate-Geometry-V1.1-Tutte-candidate.
 
 **Kesimpulan:** kini tersedia satu kandidat embedding V1.1 yang secara geometris bebas persilangan dan dapat direproduksi. Kandidat belum layak menjadi peta lempeng final karena distribusi luasnya masih jauh dari target.
 
+### 7.33 Eksperimen optimasi target luas dengan batas luar bebas
+
+**Status: CATATAN PENGEMBANGAN / NON-CANON.** Parameter batas luar heptagon dan embedding barycentric diuji sebagai variabel optimasi. Eksperimen ini penting untuk mengetahui apakah target luas dapat dicapai hanya dengan mengubah bentuk batas luar, tanpa mengubah graf dan siklus muka.
+
+#### 7.33.1 Hasil numerik
+
+Least-squares menemukan satu konfigurasi yang mencocokkan sembilan target luas dengan galat numerik sangat kecil. Namun, konfigurasi tersebut menghasilkan batas luar Central yang **tidak cembung**: tanda cross-product belokan poligon berubah. Radius dan jarak sudut antarsimpul juga menjadi sangat ekstrem.
+
+Ketika penalti kecembungan dan regularisasi bentuk ditambahkan, solver tidak menghasilkan kandidat yang memenuhi seluruh target sekaligus. Hasil terbaik pada percobaan terbatas itu masih memiliki setidaknya satu belokan cekung dan deviasi luas yang nyata.
+
+#### 7.33.2 Keputusan audit
+
+Solusi pencocokan luas nyaris sempurna **ditolak** karena tidak memenuhi prasyarat embedding Tutte dengan batas luar cembung. Hasil solver berpenalti juga belum lolos. Tidak satu pun koordinat dari eksperimen ini ditetapkan sebagai kandidat geometri.
+
+Temuan ini memperjelas bahwa target luas tidak boleh dikejar dengan optimasi bebas yang dapat merusak kecembungan batas luar. Untuk mempertahankan jaminan planaritas Tutte, batas luar harus tetap cembung secara eksplisit.
+
+#### 7.33.3 Metode berikutnya
+
+1. Gunakan parameterisasi poligon cembung yang intrinsik, bukan penalti kecembungan lunak.
+2. Optimalkan posisi tujuh simpul batas dalam koordinat Cartesian dengan kendala cross-product setiap belokan positif.
+3. Hilangkan derajat kebebasan translasi, rotasi, dan skala melalui normalisasi.
+4. Hitung ulang simpul interior menggunakan persamaan barycentric.
+5. Gunakan beberapa titik awal dan laporkan trade-off terbaik antara galat luas dan regularitas bentuk.
+6. Jika target tidak dapat dicapai dengan batas luar cembung, pertimbangkan perubahan kelas konstruksi geometri yang tetap mempertahankan topologi; jangan mengubah target secara diam-diam.
+
+**Kesimpulan:** target luas dapat dicocokkan oleh solver bebas, tetapi solusi itu bukan embedding Tutte yang sah karena batas luarnya tidak cembung. Belum ada kandidat baru yang lolos audit. Optimasi berikutnya harus menjadikan kecembungan sebagai kendala eksplisit, bukan sekadar penalti.
+
 ## 8. Proposal geografi lama yang belum diputuskan
 
 Dokumen [Geography](Geography.md) sebelumnya mencatat enam nama benua sebagai konsep kerja:
