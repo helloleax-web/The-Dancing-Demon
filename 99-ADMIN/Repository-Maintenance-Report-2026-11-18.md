@@ -73,3 +73,19 @@ Tidak ada alasan untuk mengisi semua UNKNOWN atau MYSTERY sekaligus. Prioritasny
 - Retcon: **tidak ada**.
 - Proposal dipromosikan menjadi CANON: **tidak ada**.
 - Perubahan yang dilakukan: sinkronisasi dokumentasi dan status pengembangan.
+
+## Audit geografi sferis — 2026-11-18
+
+Pekerjaan atlas menemukan perbedaan antara target luas planar SVG dan luas permukaan bola pada siluet V0.5. Enam poligon saat ini mencakup sekitar 26,44% permukaan bola, bukan asumsi kerja 30%; porsi relatif beberapa benua juga bergeser cukup besar ketika diukur sferis.
+
+Berkas baru:
+- [World Atlas — Spherical Continental Area Audit V0.1](../98-CATATAN%20PENGEMBANGAN/World-Atlas-Spherical-Continental-Area-Audit-V0.1.md)
+- [Data audit JSON](../98-CATATAN%20PENGEMBANGAN/World-Atlas-Spherical-Continental-Area-Audit-V0.1.json)
+
+Tindakan:
+- Memisahkan target proporsi bidang historis dari hasil luas sferis.
+- Menambahkan hasil pengukuran ke World Atlas Draft dan World Map Framework.
+- Mempertahankan seluruh geografi sebagai NON-CANON.
+- Menetapkan urutan kerja berikutnya: keputusan target luas, penyesuaian cakupan daratan, orientasi globe, lalu uji containment terhadap lempeng pembawa.
+
+Tidak ada perubahan CANON, retcon, atau lokasi cerita.
