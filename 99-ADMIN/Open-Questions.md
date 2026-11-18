@@ -33,7 +33,7 @@ Dokumen ini mencatat hal yang belum ditentukan. Pertanyaan terbuka dapat dikemba
 ## Spesies dan geografi
 - Spesies yang benar-benar ada.
 - Peta final, nama dan posisi politik/geografis, kerajaan, lokasi, dan persebaran spesies.
-- Validasi independen geometri lempeng V1.0 atau rekonstruksi dengan nomor versi baru; koordinat planar asli belum tersedia pada referensi yang dipulihkan.
+- Koordinat planar asli V1.0 belum ditemukan. V1.0-R kini tersedia sebagai baseline kerja yang tervalidasi; jika koordinat asli ditemukan kemudian, lakukan perbandingan terpisah tanpa mengklaim V1.0-R identik.
 - Status naga dan makhluk legendaris.
 
 ## International Authority
