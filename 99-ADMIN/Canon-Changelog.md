@@ -401,3 +401,12 @@ Matriks rotasi R0.2 diperiksa ulang dan diperbaiki agar ortogonal (deviasi maksi
 - Metode: triangulasi, clipping segitiga konveks, dan integral luas sferis pada poliline tersampel.
 - Batas: bukan validasi geologi/geodinamika dan bukan CANON.
 - Artefak: Continental–Plate Overlay R0.2 dan audit JSON.
+
+
+## Matriks pengetahuan dan kontinuitas karakter Buku I — 2026-11-19
+
+- Dibuat `98-CATATAN PENGEMBANGAN/Book-I-Character-Knowledge-Matrix-Draft-0.1.md`.
+- Dokumen memetakan informasi yang diketahui Tavian, Seraphine, Kael, dan pembaca dari scene 1–19, serta memisahkan fakta CANON, pengetahuan karakter, interpretasi, dan proposal NON-CANON.
+- Ditambahkan tautan silang dari Scene Outline, Mystery & Foreshadowing Ledger, dan Eight-Book Series Architecture.
+- Tidak mengubah Character Bible, fakta cerita, identitas pemberi tugas Kael, identitas kontak tak dikenal, atau misteri lain.
+- Dampak CANON: tidak ada.
