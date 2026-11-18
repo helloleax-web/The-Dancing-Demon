@@ -82,3 +82,12 @@ Dokumen konsolidasi ini dibuat berdasarkan lore yang telah ditetapkan dalam perc
 - Keputusan: Character Bible kini menautkan dossier karakter sambil mempertahankan seluruh profil baru sebagai NON-CANON. Location Bible membedakan inventaris geografi lama dari draft enam benua aktif pada World Map Framework serta menautkan proposal fungsi lokasi. Organization Bible mengganti pernyataan lama bahwa tidak ada proposal organisasi dengan rujukan ke dossier fungsi organisasi yang baru, tanpa mempromosikannya menjadi CANON.
 - Dokumen yang diperbarui: `01-CANON/Character-Bible.md`, `01-CANON/Location-Bible.md`, dan `01-CANON/Organization-Bible.md`.
 - Apakah ini retcon?: Tidak. Penyelarasan referensi dan status dokumentasi; fakta CANON tidak berubah.
+
+
+## Catatan glosarium 2026-11-18
+
+- Tanggal: 2026-11-18
+- Topik: Standardisasi istilah dan kapitalisasi lintas dokumen.
+- Keputusan: Menambahkan Glosarium dan Panduan Istilah sebagai referensi editorial untuk nama utama, sistem mana, institusi, lokasi, status dokumentasi, serta istilah yang tidak boleh disamakan. Indeks inti dan panduan baca diperbarui. Glosarium merangkum ketentuan yang sudah ada dan tidak menetapkan lore baru.
+- Dokumen yang diperbarui: `00-CORE/00-README.md`, `BACA-DULU.md`, dan dokumen baru `00-CORE/10-Glosarium-dan-Panduan-Istilah.md`.
+- Apakah ini retcon?: Tidak.
