@@ -208,3 +208,12 @@ Dokumen konsolidasi ini dibuat berdasarkan lore yang telah ditetapkan dalam perc
 - Keputusan: Laporan audit diperluas untuk mencatat duplikasi nomor bagian pada World Map Framework dan World Atlas Draft V1, serta perbedaan status historis antara pilihan draft enam benua, pemetaan konseptual ke lempeng, dan containment geometris. Kedua temuan ditandai selesai setelah perapian nomor bagian dan klarifikasi konteks tahap. A-05 tetap menjadi keterbatasan teknis yang belum selesai.
 - Dokumen yang diperbarui: `99-ADMIN/Canon-Audit-Report-2026-11-18.md`.
 - Apakah ini retcon?: Tidak.
+
+
+## Catatan baseline geometri lempeng V1.0-R 2026-11-18
+
+- Tanggal: 2026-11-18
+- Topik: Rekonstruksi geometri lempeng yang dapat direproduksi.
+- Keputusan: Karena koordinat planar asli V1.0 tidak ditemukan, dibuat rekonstruksi V1.0-R dengan topologi dan target luas yang sama. V1.0-R lolos pemeriksaan graf, konektivitas, non-crossing, validitas muka, reproduksi embedding Tutte, proyeksi bola satuan, dan luas permukaan. Deviasi maksimum luas 0,002188 poin persentase. V1.0-R bukan pemulihan identik V1.0 dan tetap NON-CANON. V1.1 tetap arsip eksperimen. Validator Python, laporan, dan SVG planar disimpan bersama JSON.
+- Dokumen yang diperbarui: `98-CATATAN PENGEMBANGAN/World-Map-Framework.md`, `World-Atlas-Draft-V1.md`, `World-Plate-Geometry-V1.0-R-reconstructed.json`, `validate_plate_geometry_v1_0_r.py`, `World-Plate-Geometry-V1.0-R-planar.svg`, `World-Plate-Geometry-V1.0-R-Validation.md`, `99-ADMIN/Canon-Audit-Report-2026-11-18.md`, `99-ADMIN/Open-Questions.md`, `README.md`, dan `Worldbuilding-Coverage-Matrix.md`.
+- Apakah ini retcon?: Tidak. Ini baseline matematis pengembangan NON-CANON.
