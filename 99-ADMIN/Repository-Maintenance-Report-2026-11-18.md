@@ -288,6 +288,6 @@ Tidak ada perubahan CANON.
 ## Pemeliharaan manuskrip draft Buku I — 2026-11-19
 
 - Berkas baru: `98-CATATAN PENGEMBANGAN/Book-I-Manuscript-Chapter-01-Draft-0.1.md`.
-- Berisi eksperimen prosa Scene 1 berdasarkan outline dan fakta karakter yang terdokumentasi.
+- Berisi eksperimen prosa Scenes 1–2 berdasarkan outline dan fakta karakter yang terdokumentasi.
 - Tautan silang ditambahkan ke Book I Scene Outline.
 - Status NON-CANON; belum dianggap manuskrip final dan tidak mengubah dokumen CANON.
