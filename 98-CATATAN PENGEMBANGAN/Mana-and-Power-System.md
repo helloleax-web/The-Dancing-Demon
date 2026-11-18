@@ -13,7 +13,7 @@ Belum diputuskan apakah semua fenomena supernatural berkaitan dengan mana. Rekom
 Model yang diusulkan:
 - Mana Core — penyimpanan/pengelolaan mana.
 - Mana Circuit — jalur penyaluran mana.
-- Mana Control — kemampuan mengatur manipulasi mana.
+- Mana Control — istilah proposal untuk kemampuan mengatur manipulasi mana; secara konsep berdekatan dengan parameter CANON Kendali, bukan organ atau komponen fisik tambahan.
 
 Ini hanya model kerja. Belum ditetapkan apakah semua spesies memiliki struktur tersebut.
 
@@ -22,10 +22,10 @@ Ini hanya model kerja. Belum ditetapkan apakah semua spesies memiliki struktur t
 - Output.
 - Control.
 - Efficiency.
-- Regeneration.
+- Recovery (padanan istilah proposal untuk parameter CANON: Pemulihan).
 - Stability.
 
-Jumlah mana tidak otomatis menentukan siapa yang menang.
+Jumlah mana tidak otomatis menentukan siapa yang menang. Enam parameter CANON adalah Kapasitas, Daya keluaran, Kendali, Efisiensi, Pemulihan, dan Stabilitas; istilah Inggris di bagian ini merupakan label proposal.
 
 ## 4. Kategori sihir yang diusulkan
 1. Manifestation.
