@@ -101,3 +101,17 @@ Berkas:
 Hasil audit pada koordinat hasil render: total 30,00017% permukaan bola. Frostbound diperlebar secara longitudinal agar tidak melewati kutub; rotasi bujur global −10° menghindari pemotongan Veiled pada seam. Semua perubahan bersifat geometri pengembangan.
 
 Batas: containment terhadap lempeng V1.0-R, geodinamika, relief, hidrologi, iklim, dan bioma belum divalidasi. Tidak ada perubahan CANON atau retcon.
+
+## Uji containment lempeng — 2026-11-18
+
+Diuji apakah siluet enam benua V0.6 dapat masuk ke muka lempeng pembawanya pada geometri lempeng V1.0-R hanya dengan satu rotasi globe bersama.
+
+Pencarian 40.000 rotasi acak deterministik ditambah grid kasar tidak menemukan satu orientasi yang membuat keenam benua sepenuhnya terkandung. Orientasi sampel terbaik hanya meloloskan seluruh titik sampel Sunken Sands; total 115 dari 368 titik sampel berada pada muka lempeng yang benar.
+
+Hasil ini bukan bukti matematis bahwa orientasi valid mustahil, dan pemeriksaan titik sampel bukan pengganti uji poligon sferis penuh. Namun status containment harus tetap BELUM LOLOS. Area benua lebih kecil dari area lempeng pembawa; persoalan awal ada pada kecocokan bentuk dan penempatan, bukan total area saja.
+
+Dokumen:
+- [Laporan pencarian orientasi containment](../98-CATATAN%20PENGEMBANGAN/Plate-Containment-Orientation-Search-V0.1.md)
+- [Data JSON](../98-CATATAN%20PENGEMBANGAN/Plate-Containment-Orientation-Search-V0.1.json)
+
+Tidak ada perubahan CANON.
