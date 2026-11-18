@@ -2098,6 +2098,46 @@ Hasil ini bukan bukti bahwa target tidak mungkin dicapai. Ini menunjukkan parame
 
 **Kesimpulan:** batas radial umum memberi lebih banyak fleksibilitas daripada lingkaran, tetapi pencarian multi-start belum menghasilkan kandidat layak. Geometri final belum ditetapkan.
 
+### 7.37 Keputusan konsolidasi — V1.0 kembali menjadi baseline utama
+
+**Status: KEPUTUSAN KERJA AKTIF / NON-CANON.** Atas mandat kreator untuk mempercepat penyelesaian dan mengurangi iterasi yang tidak produktif, jalur optimasi V1.1 dihentikan sementara. Bagian 7.25 mencatat V1.0 mencapai target luas sembilan wilayah dengan deviasi maksimum 0,0675 poin persentase, total luas 100%, serta pemeriksaan planaritas dan penutupan bola dinyatakan lolos. Seluruh kandidat V1.1 yang dibangun setelahnya belum menyamai hasil itu.
+
+#### 7.37.1 Keputusan versi
+
+- **Baseline geometri utama: V1.0**, sesuai hasil dan batas validasi pada bagian 7.25.
+- **V1.1: arsip eksperimen**, tidak dipakai untuk containment benua atau peta produksi.
+- Topologi tetap 9 wilayah, 14 triple junction, 21 segmen, dan sembilan siklus muka.
+- Target luas tetap 18/12/10/8/7/11/14/11/9 persen.
+- V1.0 belum CANON dan tidak otomatis menjadi peta geografis final.
+
+#### 7.37.2 Kekurangan data yang wajib diselesaikan
+
+Dokumentasi V1.0 menyimpan hasil luas dan koordinat matematis simpul yang dibulatkan, tetapi belum menyediakan sumber koordinat planar presisi, definisi konstruksi yang dapat dijalankan ulang, atau ekspor poligon final yang dapat dipakai untuk containment. Karena itu, klaim validasi luas V1.0 dipertahankan sebagai hasil yang tercatat dalam dokumen, tetapi tidak boleh diklaim telah direproduksi ulang dari sumber presisi yang saat ini tersedia.
+
+Langkah pemulihan yang ditetapkan:
+1. Cari sumber asli V1.0, termasuk file data, commit lama, lampiran, atau skrip konstruksi.
+2. Jika sumber ditemukan, verifikasi ulang seluruh 14 simpul, 21 segmen, luas sembilan muka, dan persilangan.
+3. Jika sumber tidak ditemukan, bangun ulang kandidat V1.0-R dari target dan topologi yang sama; beri label rekonstruksi, bukan pemulihan identik.
+4. Jangan mengklaim V1.0-R identik dengan V1.0 tanpa bukti koordinat.
+
+#### 7.37.3 Jalur penyelesaian peta dunia
+
+Pekerjaan berikutnya tidak lagi menunggu eksperimen optimasi tanpa akhir. Jalankan dalam satu rangkaian:
+1. Pulihkan atau rekonstruksi geometri lempeng berdasarkan V1.0.
+2. Gunakan komposisi makro enam benua pada bagian 7.27 dan spesifikasi siluet pada bagian 7.12 sebagai rancangan awal.
+3. Tetapkan keenam benua pada lempeng pembawa yang sudah ditentukan di bagian 7.30; ukur containment setelah poligon presisi tersedia.
+4. Susun garis pantai, pulau, selat, teluk, semenanjung, dan margin pesisir dengan menjaga proporsi relatif 24/21/18/15/13/9.
+5. Tetapkan orientasi globe dan koordinat geografis setelah bentuk daratan stabil.
+6. Bangun relief utama, dataran tinggi, cekungan, sungai, danau, gurun, hutan, serta zona iklim berdasarkan lintang dan topografi.
+7. Audit konsistensi geologi, arus laut, iklim, dan hubungan antarbenua.
+8. Hasilkan satu atlas/peta dunia kerja lengkap beserta data geometri dan daftar keputusan yang belum disahkan.
+
+#### 7.37.4 Batas kewenangan dan status akhir
+
+Asisten boleh menetapkan pilihan desain teknis dan geografis sementara agar pekerjaan bergerak tanpa meminta persetujuan pada setiap detail. Namun, semua penambahan fakta dunia tetap NON-CANON sampai kreator mengesahkannya. Jika sumber presisi tidak tersedia, keterbatasan itu harus dinyatakan; jangan mengganti bukti dengan angka atau koordinat rekaan.
+
+**Keputusan aktif:** berhenti mengejar optimasi V1.1 sebagai jalur utama. Pulihkan V1.0 terlebih dahulu; jika tidak mungkin, buat rekonstruksi V1.0-R yang dapat diuji. Setelah itu selesaikan rancangan enam benua dan atlas fisik sebagai satu paket, bukan rangkaian percobaan terpisah.
+
 ## 8. Proposal geografi lama yang belum diputuskan
 
 Dokumen [Geography](Geography.md) sebelumnya mencatat enam nama benua sebagai konsep kerja:
