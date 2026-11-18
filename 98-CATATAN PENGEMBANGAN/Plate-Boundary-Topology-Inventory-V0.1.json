@@ -1,0 +1,640 @@
+{
+  "model": "The Dancing Demon — Plate Boundary Topology Inventory",
+  "version": "0.1",
+  "date": "2026-11-19",
+  "status": "DEVELOPMENT / NON-CANON / TOPOLOGY ONLY",
+  "source": "World-Plate-Geometry-V1.0-R-reconstructed.json",
+  "summary": {
+    "vertices": 14,
+    "edges": 21,
+    "faces": 9,
+    "all_edges_have_two_incident_faces": true,
+    "all_junctions_degree_three": true,
+    "all_junctions_have_three_incident_faces": true
+  },
+  "boundaries": [
+    {
+      "edge": [
+        "TJ-01",
+        "TJ-09"
+      ],
+      "adjacent_faces": [
+        "Ashen",
+        "Central"
+      ],
+      "incidence_count": 2
+    },
+    {
+      "edge": [
+        "TJ-04",
+        "TJ-05"
+      ],
+      "adjacent_faces": [
+        "Ashen",
+        "Sands"
+      ],
+      "incidence_count": 2
+    },
+    {
+      "edge": [
+        "TJ-05",
+        "TJ-09"
+      ],
+      "adjacent_faces": [
+        "Ashen",
+        "Veiled"
+      ],
+      "incidence_count": 2
+    },
+    {
+      "edge": [
+        "TJ-01",
+        "TJ-02"
+      ],
+      "adjacent_faces": [
+        "Ashen",
+        "Verdant"
+      ],
+      "incidence_count": 2
+    },
+    {
+      "edge": [
+        "TJ-02",
+        "TJ-04"
+      ],
+      "adjacent_faces": [
+        "Ashen",
+        "West Ocean"
+      ],
+      "incidence_count": 2
+    },
+    {
+      "edge": [
+        "TJ-12",
+        "TJ-13"
+      ],
+      "adjacent_faces": [
+        "Central",
+        "Frost"
+      ],
+      "incidence_count": 2
+    },
+    {
+      "edge": [
+        "TJ-10",
+        "TJ-12"
+      ],
+      "adjacent_faces": [
+        "Central",
+        "North Ocean"
+      ],
+      "incidence_count": 2
+    },
+    {
+      "edge": [
+        "TJ-07",
+        "TJ-08"
+      ],
+      "adjacent_faces": [
+        "Central",
+        "Southeast Ocean"
+      ],
+      "incidence_count": 2
+    },
+    {
+      "edge": [
+        "TJ-07",
+        "TJ-13"
+      ],
+      "adjacent_faces": [
+        "Central",
+        "Sands"
+      ],
+      "incidence_count": 2
+    },
+    {
+      "edge": [
+        "TJ-08",
+        "TJ-09"
+      ],
+      "adjacent_faces": [
+        "Central",
+        "Veiled"
+      ],
+      "incidence_count": 2
+    },
+    {
+      "edge": [
+        "TJ-01",
+        "TJ-10"
+      ],
+      "adjacent_faces": [
+        "Central",
+        "Verdant"
+      ],
+      "incidence_count": 2
+    },
+    {
+      "edge": [
+        "TJ-11",
+        "TJ-12"
+      ],
+      "adjacent_faces": [
+        "Frost",
+        "North Ocean"
+      ],
+      "incidence_count": 2
+    },
+    {
+      "edge": [
+        "TJ-13",
+        "TJ-14"
+      ],
+      "adjacent_faces": [
+        "Frost",
+        "Sands"
+      ],
+      "incidence_count": 2
+    },
+    {
+      "edge": [
+        "TJ-11",
+        "TJ-14"
+      ],
+      "adjacent_faces": [
+        "Frost",
+        "Verdant"
+      ],
+      "incidence_count": 2
+    },
+    {
+      "edge": [
+        "TJ-10",
+        "TJ-11"
+      ],
+      "adjacent_faces": [
+        "North Ocean",
+        "Verdant"
+      ],
+      "incidence_count": 2
+    },
+    {
+      "edge": [
+        "TJ-06",
+        "TJ-07"
+      ],
+      "adjacent_faces": [
+        "Sands",
+        "Southeast Ocean"
+      ],
+      "incidence_count": 2
+    },
+    {
+      "edge": [
+        "TJ-06",
+        "TJ-08"
+      ],
+      "adjacent_faces": [
+        "Southeast Ocean",
+        "Veiled"
+      ],
+      "incidence_count": 2
+    },
+    {
+      "edge": [
+        "TJ-05",
+        "TJ-06"
+      ],
+      "adjacent_faces": [
+        "Sands",
+        "Veiled"
+      ],
+      "incidence_count": 2
+    },
+    {
+      "edge": [
+        "TJ-03",
+        "TJ-14"
+      ],
+      "adjacent_faces": [
+        "Sands",
+        "Verdant"
+      ],
+      "incidence_count": 2
+    },
+    {
+      "edge": [
+        "TJ-03",
+        "TJ-04"
+      ],
+      "adjacent_faces": [
+        "Sands",
+        "West Ocean"
+      ],
+      "incidence_count": 2
+    },
+    {
+      "edge": [
+        "TJ-02",
+        "TJ-03"
+      ],
+      "adjacent_faces": [
+        "Verdant",
+        "West Ocean"
+      ],
+      "incidence_count": 2
+    }
+  ],
+  "plate_adjacency": {
+    "Central": {
+      "Ashen": 1,
+      "Frost": 1,
+      "North Ocean": 1,
+      "Southeast Ocean": 1,
+      "Sands": 1,
+      "Veiled": 1,
+      "Verdant": 1
+    },
+    "Verdant": {
+      "Ashen": 1,
+      "Central": 1,
+      "Frost": 1,
+      "North Ocean": 1,
+      "Sands": 1,
+      "West Ocean": 1
+    },
+    "Sands": {
+      "Ashen": 1,
+      "Central": 1,
+      "Frost": 1,
+      "Southeast Ocean": 1,
+      "Veiled": 1,
+      "Verdant": 1,
+      "West Ocean": 1
+    },
+    "Frost": {
+      "Central": 1,
+      "North Ocean": 1,
+      "Sands": 1,
+      "Verdant": 1
+    },
+    "Ashen": {
+      "Central": 1,
+      "Sands": 1,
+      "Veiled": 1,
+      "Verdant": 1,
+      "West Ocean": 1
+    },
+    "Veiled": {
+      "Ashen": 1,
+      "Central": 1,
+      "Southeast Ocean": 1,
+      "Sands": 1
+    },
+    "North Ocean": {
+      "Central": 1,
+      "Frost": 1,
+      "Verdant": 1
+    },
+    "West Ocean": {
+      "Ashen": 1,
+      "Sands": 1,
+      "Verdant": 1
+    },
+    "Southeast Ocean": {
+      "Central": 1,
+      "Sands": 1,
+      "Veiled": 1
+    }
+  },
+  "triple_junctions": [
+    {
+      "node": "TJ-01",
+      "degree": 3,
+      "incident_faces": [
+        "Ashen",
+        "Central",
+        "Verdant"
+      ],
+      "incident_edges": [
+        [
+          "TJ-01",
+          "TJ-09"
+        ],
+        [
+          "TJ-01",
+          "TJ-02"
+        ],
+        [
+          "TJ-01",
+          "TJ-10"
+        ]
+      ]
+    },
+    {
+      "node": "TJ-02",
+      "degree": 3,
+      "incident_faces": [
+        "Ashen",
+        "Verdant",
+        "West Ocean"
+      ],
+      "incident_edges": [
+        [
+          "TJ-01",
+          "TJ-02"
+        ],
+        [
+          "TJ-02",
+          "TJ-04"
+        ],
+        [
+          "TJ-02",
+          "TJ-03"
+        ]
+      ]
+    },
+    {
+      "node": "TJ-03",
+      "degree": 3,
+      "incident_faces": [
+        "Sands",
+        "Verdant",
+        "West Ocean"
+      ],
+      "incident_edges": [
+        [
+          "TJ-03",
+          "TJ-14"
+        ],
+        [
+          "TJ-03",
+          "TJ-04"
+        ],
+        [
+          "TJ-02",
+          "TJ-03"
+        ]
+      ]
+    },
+    {
+      "node": "TJ-04",
+      "degree": 3,
+      "incident_faces": [
+        "Ashen",
+        "Sands",
+        "West Ocean"
+      ],
+      "incident_edges": [
+        [
+          "TJ-04",
+          "TJ-05"
+        ],
+        [
+          "TJ-02",
+          "TJ-04"
+        ],
+        [
+          "TJ-03",
+          "TJ-04"
+        ]
+      ]
+    },
+    {
+      "node": "TJ-05",
+      "degree": 3,
+      "incident_faces": [
+        "Ashen",
+        "Sands",
+        "Veiled"
+      ],
+      "incident_edges": [
+        [
+          "TJ-04",
+          "TJ-05"
+        ],
+        [
+          "TJ-05",
+          "TJ-09"
+        ],
+        [
+          "TJ-05",
+          "TJ-06"
+        ]
+      ]
+    },
+    {
+      "node": "TJ-06",
+      "degree": 3,
+      "incident_faces": [
+        "Sands",
+        "Southeast Ocean",
+        "Veiled"
+      ],
+      "incident_edges": [
+        [
+          "TJ-06",
+          "TJ-07"
+        ],
+        [
+          "TJ-06",
+          "TJ-08"
+        ],
+        [
+          "TJ-05",
+          "TJ-06"
+        ]
+      ]
+    },
+    {
+      "node": "TJ-07",
+      "degree": 3,
+      "incident_faces": [
+        "Central",
+        "Sands",
+        "Southeast Ocean"
+      ],
+      "incident_edges": [
+        [
+          "TJ-07",
+          "TJ-08"
+        ],
+        [
+          "TJ-07",
+          "TJ-13"
+        ],
+        [
+          "TJ-06",
+          "TJ-07"
+        ]
+      ]
+    },
+    {
+      "node": "TJ-08",
+      "degree": 3,
+      "incident_faces": [
+        "Central",
+        "Southeast Ocean",
+        "Veiled"
+      ],
+      "incident_edges": [
+        [
+          "TJ-07",
+          "TJ-08"
+        ],
+        [
+          "TJ-08",
+          "TJ-09"
+        ],
+        [
+          "TJ-06",
+          "TJ-08"
+        ]
+      ]
+    },
+    {
+      "node": "TJ-09",
+      "degree": 3,
+      "incident_faces": [
+        "Ashen",
+        "Central",
+        "Veiled"
+      ],
+      "incident_edges": [
+        [
+          "TJ-01",
+          "TJ-09"
+        ],
+        [
+          "TJ-05",
+          "TJ-09"
+        ],
+        [
+          "TJ-08",
+          "TJ-09"
+        ]
+      ]
+    },
+    {
+      "node": "TJ-10",
+      "degree": 3,
+      "incident_faces": [
+        "Central",
+        "North Ocean",
+        "Verdant"
+      ],
+      "incident_edges": [
+        [
+          "TJ-10",
+          "TJ-12"
+        ],
+        [
+          "TJ-01",
+          "TJ-10"
+        ],
+        [
+          "TJ-10",
+          "TJ-11"
+        ]
+      ]
+    },
+    {
+      "node": "TJ-11",
+      "degree": 3,
+      "incident_faces": [
+        "Frost",
+        "North Ocean",
+        "Verdant"
+      ],
+      "incident_edges": [
+        [
+          "TJ-11",
+          "TJ-12"
+        ],
+        [
+          "TJ-11",
+          "TJ-14"
+        ],
+        [
+          "TJ-10",
+          "TJ-11"
+        ]
+      ]
+    },
+    {
+      "node": "TJ-12",
+      "degree": 3,
+      "incident_faces": [
+        "Central",
+        "Frost",
+        "North Ocean"
+      ],
+      "incident_edges": [
+        [
+          "TJ-12",
+          "TJ-13"
+        ],
+        [
+          "TJ-10",
+          "TJ-12"
+        ],
+        [
+          "TJ-11",
+          "TJ-12"
+        ]
+      ]
+    },
+    {
+      "node": "TJ-13",
+      "degree": 3,
+      "incident_faces": [
+        "Central",
+        "Frost",
+        "Sands"
+      ],
+      "incident_edges": [
+        [
+          "TJ-12",
+          "TJ-13"
+        ],
+        [
+          "TJ-07",
+          "TJ-13"
+        ],
+        [
+          "TJ-13",
+          "TJ-14"
+        ]
+      ]
+    },
+    {
+      "node": "TJ-14",
+      "degree": 3,
+      "incident_faces": [
+        "Frost",
+        "Sands",
+        "Verdant"
+      ],
+      "incident_edges": [
+        [
+          "TJ-13",
+          "TJ-14"
+        ],
+        [
+          "TJ-11",
+          "TJ-14"
+        ],
+        [
+          "TJ-03",
+          "TJ-14"
+        ]
+      ]
+    }
+  ],
+  "limits": [
+    "Boundary entries identify topological adjacency only; they do not classify convergent, divergent, or transform motion.",
+    "Face names do not establish continental or oceanic crust type.",
+    "No Euler poles, angular velocities, spreading rates, subduction zones, or mountain-building systems are assigned.",
+    "The topology is inherited from the reconstructed V1.0-R development baseline and remains NON-CANON."
+  ]
+}
