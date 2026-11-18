@@ -11,7 +11,7 @@
 6. Convergence Arc.
 7. Final Arc.
 
-Ini hanya kerangka umum. Belum ada premis, protagonis, antagonis, urutan arc, atau ending final yang ditetapkan di dokumen ini.
+Ini hanya kerangka umum, bukan sumber utama premis atau urutan seri. Premis Tavian Rell, kerangka Buku I, dan rencana delapan buku sudah dicatat dalam [Cerita dan Rencana Delapan Buku](../00-CORE/08-Cerita-dan-Rencana-Delapan-Buku.md). Detail antagonis, arc rinci, dan ending final masih terbuka.
 
 ## Database karakter
 Setiap karakter dapat memiliki:
@@ -42,3 +42,4 @@ Catat untuk setiap petunjuk:
 - Makna sebenarnya (jika telah ditentukan).
 - Waktu pengungkapan.
 - Karakter yang mengetahuinya.
+\n\n## Dokumen pengembangan terkait\n\n- [Character Development Dossier — Draft 0.1](Character-Development-Dossier-Draft-0.1.md) — proposal profil dan arc karakter.\n- [Book I Scene Outline — Draft 0.1](Book-I-Scene-Outline-Draft-0.1.md) — pengembangan adegan Buku I.\n
