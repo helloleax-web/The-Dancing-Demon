@@ -553,5 +553,6 @@ Dokumen berikut dibuat untuk menindaklanjuti kekosongan yang dipetakan dalam mat
 - [Character Development Dossier — Draft 0.1](Character-Development-Dossier-Draft-0.1.md) — proposal motivasi, kepribadian, kelemahan, fungsi naratif, dinamika, dan arc enam karakter.
 - [Location & Organization Dossier — Draft 0.1](Location-Organization-Development-Dossier-Draft-0.1.md) — proposal fungsi dan kebutuhan cerita untuk lima lokasi serta tiga organisasi yang sudah terdaftar.
 - [Book I Scene Outline — Draft 0.1](Book-I-Scene-Outline-Draft-0.1.md) — pengembangan premis dan enam bagian Buku I menjadi rangkaian 19 adegan dengan rantai sebab-akibat.
+- [Eight-Book Series Architecture — Draft 0.1](Eight-Book-Series-Architecture-Draft-0.1.md) — fungsi dramatik tiap buku, eskalasi skala, arc karakter, dan pengelolaan misteri.
 
 Dossier tersebut berfungsi sebagai bahan kerja. Jika proposal dipilih, perbarui Bible dan dokumen cerita secara terpisah dengan status yang tepat. Jangan menganggap proposal sebagai fakta hanya karena telah ditulis atau ditautkan dari matriks.
