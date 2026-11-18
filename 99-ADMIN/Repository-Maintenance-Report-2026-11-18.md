@@ -218,3 +218,18 @@ Tidak ada perubahan CANON.
 - Audit clipping: total luas benua 29,999996%; total luas sembilan muka 100%; rata-rata dominasi muka 87,25%; matriks rotasi ortogonal hingga deviasi numerik 1,11 × 10⁻¹⁶.
 - Hasil clipping berlaku untuk poliline tersampel; validasi geologi dan geodinamika belum dilakukan.
 - Tidak ada perubahan CANON.
+
+
+## Uji konvergensi raster independen R0.2 — 2026-11-19
+
+Matriks clipping sferis R0.2 diperiksa silang memakai klasifikasi titik langsung pada grid luas-sama, dengan empat resolusi: 1° (144.000 sel), 0,5° (576.000), 0,25° (2.304.000), dan 0,125° (9.216.000). Titik geografis dipetakan balik ke bidang stereografis lokal untuk klasifikasi lempeng; keanggotaan benua diuji pada koordinat SVG. Ini metode raster independen, bukan clipping poligon.
+
+- Rata-rata dominasi muka pada tiga grid terhalus: 87,24988%; 87,25730%; 87,25443%.
+- Selisih maksimum satu sel matriks antara 0,5° dan 0,25°: 0,06595 poin persentase.
+- Selisih maksimum antara 0,25° dan 0,125°: 0,01317 poin persentase.
+- Perubahan rata-rata dominasi pada interval terakhir: 0,00286 poin persentase.
+- Sel paling sensitif tetap Veiled Continent × North Ocean. Tidak ada indikasi perubahan identitas muka dominan benua.
+
+Kesimpulan: estimasi raster menunjukkan konvergensi yang cukup untuk mempertahankan clipping poligon sferis tersampel sebagai hasil utama. Tidak ada perubahan geometri atau rotasi R0.2. Artefak: [laporan](../98-CATATAN%20PENGEMBANGAN/Continental-Plate-Overlay-Convergence-R0.2.md), [data JSON](../98-CATATAN%20PENGEMBANGAN/Continental-Plate-Overlay-Convergence-Audit-R0.2.json). Semua tetap NON-CANON.
+
+Tidak ada perubahan CANON.
