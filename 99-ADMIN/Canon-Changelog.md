@@ -253,3 +253,12 @@ Dokumen konsolidasi ini dibuat berdasarkan lore yang telah ditetapkan dalam perc
 - Keputusan: BACA-DULU.md ditautkan ke laporan validasi V1.0-R agar baseline geometri terbaru mudah ditemukan tanpa menganggapnya sebagai CANON.
 - Dokumen yang diperbarui: `BACA-DULU.md`.
 - Apakah ini retcon?: Tidak.
+
+
+## Catatan pemeliharaan atlas dan matriks worldbuilding 2026-11-18
+
+- Tanggal: 2026-11-18
+- Topik: Sinkronisasi baseline geometri aktif dan pembaruan matriks cakupan worldbuilding.
+- Keputusan: World Atlas Draft V1 diperbarui agar V1.0-R tercatat sebagai baseline geometri lempeng aktif yang tervalidasi, sementara V1.0-reference tetap arsip historis dan V1.1 tetap arsip eksperimen. Worldbuilding Coverage Matrix diperbarui agar tidak lagi memuat ambiguitas World Overview yang telah selesai dan agar mencerminkan draft enam benua serta dossier karakter, lokasi/organisasi, outline Buku I, arsitektur seri, dan mystery ledger yang sudah tersedia. Seluruh materi pengembangan tetap NON-CANON.
+- Dokumen yang diperbarui: `98-CATATAN PENGEMBANGAN/World-Atlas-Draft-V1.md`, `98-CATATAN PENGEMBANGAN/Worldbuilding-Coverage-Matrix.md`, `README.md`, `BACA-DULU.md`, `00-CORE/00-README.md`, dan dokumen baru `99-ADMIN/Repository-Maintenance-Report-2026-11-18.md`.
+- Apakah ini retcon?: Tidak.
