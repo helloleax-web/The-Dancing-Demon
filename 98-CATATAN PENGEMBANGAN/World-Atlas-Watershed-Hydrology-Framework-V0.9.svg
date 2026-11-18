@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1390" viewBox="0 0 1800 1390"><rect width="100%" height="100%" fill="#101722"/><text x="100" y="55" fill="#f7f8fa" font-family="Arial" font-size="34" font-weight="bold">THE DANCING DEMON — WORLD ATLAS</text><text x="100" y="88" fill="#9eacbf" font-family="Arial" font-size="18">WATERSHED & HYDROLOGY FRAMEWORK · V0.9</text><rect x="100" y="120" width="1600" height="730" fill="#17283a" stroke="#64748b" stroke-width="2"/><g id="astronomical-latitude-bands">
+<rect x="100" y="120" width="1600" height="95.06" fill="#9bbad0" opacity=".11"/>
+<rect x="100" y="215.06" width="1600" height="174.88" fill="#8da9bd" opacity=".045"/>
+<rect x="100" y="389.94" width="1600" height="190.12" fill="#d7b46c" opacity=".085"/>
+<rect x="100" y="580.06" width="1600" height="174.88" fill="#8da9bd" opacity=".045"/>
+<rect x="100" y="754.94" width="1600" height="95.06" fill="#9bbad0" opacity=".11"/>
+<line x1="100" y1="215.06" x2="1700" y2="215.06" stroke="#9bbad0" stroke-width="1.5" stroke-dasharray="7 6"/>
+<line x1="100" y1="389.94" x2="1700" y2="389.94" stroke="#d7b46c" stroke-width="1.5" stroke-dasharray="7 6"/>
+<line x1="100" y1="580.06" x2="1700" y2="580.06" stroke="#d7b46c" stroke-width="1.5" stroke-dasharray="7 6"/>
+<line x1="100" y1="754.94" x2="1700" y2="754.94" stroke="#9bbad0" stroke-width="1.5" stroke-dasharray="7 6"/>
+<g fill="#dbe4ee" font-family="Arial" font-size="12" opacity=".9">
+<text x="112" y="208.06">ARCTIC CIRCLE · 66.56°N</text>
+<text x="112" y="382.94">TROPIC OF CANCER · 23.44°N</text>
+<text x="112" y="573.06">TROPIC OF CAPRICORN · 23.44°S</text>
+<text x="112" y="747.94">ANTARCTIC CIRCLE · 66.56°S</text>
+</g>
+</g><line x1="233.33" y1="120" x2="233.33" y2="850" stroke="#344255" stroke-width="1" opacity=".42"/><line x1="366.67" y1="120" x2="366.67" y2="850" stroke="#344255" stroke-width="1" opacity=".42"/><line x1="500.00" y1="120" x2="500.00" y2="850" stroke="#344255" stroke-width="1" opacity=".42"/><line x1="633.33" y1="120" x2="633.33" y2="850" stroke="#344255" stroke-width="1" opacity=".42"/><line x1="766.67" y1="120" x2="766.67" y2="850" stroke="#344255" stroke-width="1" opacity=".42"/><line x1="900.00" y1="120" x2="900.00" y2="850" stroke="#344255" stroke-width="1" opacity=".42"/><line x1="1033.33" y1="120" x2="1033.33" y2="850" stroke="#344255" stroke-width="1" opacity=".42"/><line x1="1166.67" y1="120" x2="1166.67" y2="850" stroke="#344255" stroke-width="1" opacity=".42"/><line x1="1300.00" y1="120" x2="1300.00" y2="850" stroke="#344255" stroke-width="1" opacity=".42"/><line x1="1433.33" y1="120" x2="1433.33" y2="850" stroke="#344255" stroke-width="1" opacity=".42"/><line x1="1566.67" y1="120" x2="1566.67" y2="850" stroke="#344255" stroke-width="1" opacity=".42"/><line x1="100" y1="241.67" x2="1700" y2="241.67" stroke="#344255" stroke-width="1" opacity=".42"/><line x1="100" y1="363.33" x2="1700" y2="363.33" stroke="#344255" stroke-width="1" opacity=".42"/><line x1="100" y1="485.00" x2="1700" y2="485.00" stroke="#344255" stroke-width="1" opacity=".42"/><line x1="100" y1="606.67" x2="1700" y2="606.67" stroke="#344255" stroke-width="1" opacity=".42"/><line x1="100" y1="728.33" x2="1700" y2="728.33" stroke="#344255" stroke-width="1" opacity=".42"/><line x1="100" y1="485.00" x2="1700" y2="485.00" stroke="#f0c36b" stroke-width="2.4" opacity=".95"/><line x1="900.00" y1="120" x2="900.00" y2="850" stroke="#8bb9d8" stroke-width="2" stroke-dasharray="8 7" opacity=".9"/><text x="100.00" y="875" fill="#aebdce" font-family="Arial" font-size="13" text-anchor="middle">-180°</text><text x="233.33" y="875" fill="#aebdce" font-family="Arial" font-size="13" text-anchor="middle">-150°</text><text x="366.67" y="875" fill="#aebdce" font-family="Arial" font-size="13" text-anchor="middle">-120°</text><text x="500.00" y="875" fill="#aebdce" font-family="Arial" font-size="13" text-anchor="middle">-90°</text><text x="633.33" y="875" fill="#aebdce" font-family="Arial" font-size="13" text-anchor="middle">-60°</text><text x="766.67" y="875" fill="#aebdce" font-family="Arial" font-size="13" text-anchor="middle">-30°</text><text x="900.00" y="875" fill="#aebdce" font-family="Arial" font-size="13" text-anchor="middle">0°</text><text x="1033.33" y="875" fill="#aebdce" font-family="Arial" font-size="13" text-anchor="middle">+30°</text><text x="1166.67" y="875" fill="#aebdce" font-family="Arial" font-size="13" text-anchor="middle">+60°</text><text x="1300.00" y="875" fill="#aebdce" font-family="Arial" font-size="13" text-anchor="middle">+90°</text><text x="1433.33" y="875" fill="#aebdce" font-family="Arial" font-size="13" text-anchor="middle">+120°</text><text x="1566.67" y="875" fill="#aebdce" font-family="Arial" font-size="13" text-anchor="middle">+150°</text><text x="1700.00" y="875" fill="#aebdce" font-family="Arial" font-size="13" text-anchor="middle">+180°</text><text x="88" y="124.00" fill="#aebdce" font-family="Arial" font-size="13" text-anchor="end">+90°</text><text x="88" y="245.67" fill="#aebdce" font-family="Arial" font-size="13" text-anchor="end">+60°</text><text x="88" y="367.33" fill="#aebdce" font-family="Arial" font-size="13" text-anchor="end">+30°</text><text x="88" y="489.00" fill="#f0c36b" font-family="Arial" font-size="13" text-anchor="end">0°</text><text x="88" y="610.67" fill="#aebdce" font-family="Arial" font-size="13" text-anchor="end">-30°</text><text x="88" y="732.33" fill="#aebdce" font-family="Arial" font-size="13" text-anchor="end">-60°</text><text x="88" y="854.00" fill="#aebdce" font-family="Arial" font-size="13" text-anchor="end">-90°</text><text x="100" y="112" fill="#8bb9d8" font-family="Arial" font-size="13">NORTH ↑ · EAST → · LONGITUDE SEAM ±180°</text><text x="900" y="140" fill="#8bb9d8" font-family="Arial" font-size="12" text-anchor="middle">0° MERIDIAN</text><text x="1688" y="478" fill="#f0c36b" font-family="Arial" font-size="12" text-anchor="end">EQUATOR 0°</text>
+<g id="macro-relief-candidates" opacity=".92">
+  <g fill="none" stroke="#f2eee2" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M790 389 Q825 370 850 378 L878 369 L905 383 L934 377 L956 391"/>
+    <path d="M425 445 Q449 426 470 438 L493 428 L515 445 L540 438"/>
+    <path d="M835 190 Q860 174 882 184 L905 171 L930 182 L954 174 L981 187"/>
+    <path d="M770 640 Q797 625 820 635 L845 620 L870 635 L894 650"/>
+  </g>
+  <g fill="#e9d7a5" opacity=".23" stroke="#f2eee2" stroke-width="1.4" stroke-dasharray="5 5">
+    <ellipse cx="1120" cy="480" rx="72" ry="27"/>
+    <ellipse cx="1135" cy="686" rx="70" ry="32"/>
+    <ellipse cx="1135" cy="588" rx="78" ry="24"/>
+    <ellipse cx="1075" cy="470" rx="42" ry="18"/>
+    <ellipse cx="1545" cy="685" rx="82" ry="30"/>
+  </g>
+  <g fill="#fff7e6" font-family="Arial" font-size="11" font-weight="bold" stroke="#101722" stroke-width="3" paint-order="stroke fill">
+    <text x="875" y="407" text-anchor="middle">NW MOUNTAIN BELT</text>
+    <text x="486" y="463" text-anchor="middle">NW–CENTRAL ARC</text>
+    <text x="909" y="207" text-anchor="middle">CENTRAL-NORTH HIGHLANDS</text>
+    <text x="837" y="669" text-anchor="middle">DIAGONAL UPLANDS</text>
+    <text x="1120" y="493" text-anchor="middle">EASTERN LOW PLATEAU</text>
+    <text x="1135" y="694" text-anchor="middle">CENTRAL BASIN CANDIDATE</text>
+    <text x="1135" y="592" text-anchor="middle">RANGE SIDE TBD</text>
+    <text x="1545" y="693" text-anchor="middle">INTERIOR BASIN CANDIDATE</text>
+    <text x="1508" y="710" text-anchor="middle">RANGE COAST TBD</text>
+  </g>
+  <g fill="none" stroke="#f2eee2" stroke-width="2" opacity=".75">
+    <path d="M810 420 Q835 412 858 420"/>
+    <path d="M455 482 Q480 474 505 482"/>
+    <path d="M850 222 Q890 214 930 222"/>
+    <path d="M790 682 Q825 674 860 686"/>
+  </g>
+</g>
+<polygon points="1063.09,237.99 1061.40,219.39 1051.07,207.99 972.83,181.97 936.25,156.84 909.63,150.97 890.66,153.81 874.41,161.35 843.92,194.86 780.54,195.63 747.72,207.76 739.74,217.03 761.08,234.12 739.72,246.99 734.86,254.50 743.01,263.65 780.48,287.60 775.67,309.92 776.28,316.31 781.71,320.29 806.69,317.86 859.17,298.27 881.01,294.87 1003.94,317.93 1015.73,311.27 1016.46,290.36 1020.41,284.18 1046.56,269.83 1067.86,252.28 1069.32,245.09" fill="#b8d9e8" fill-opacity=".90" stroke="#e5e7eb" stroke-width="3" stroke-linejoin="round"/><text x="902" y="238" fill="#ffffff" stroke="#101722" stroke-width="1.5" paint-order="stroke fill" stroke-linejoin="round" font-family="Arial" font-size="18" font-weight="bold" letter-spacing="1.1" text-anchor="middle">FROSTBOUND EXPANSE</text><polygon points="592.57,492.97 628.95,469.95 631.91,456.71 627.28,444.79 617.99,434.80 604.43,427.95 562.07,424.49 545.66,391.07 531.92,381.50 515.44,381.73 490.06,391.34 455.80,398.11 402.54,424.64 357.87,436.41 351.12,445.70 365.03,464.90 417.03,492.97 387.35,520.87 388.81,533.46 404.83,559.85 439.62,585.62 478.19,599.91 495.54,641.45 510.02,657.04 517.96,655.78 525.22,648.71 552.37,598.08 593.05,577.90 620.86,547.74 625.44,531.53 623.81,518.85" fill="#5e9b72" fill-opacity=".90" stroke="#e5e7eb" stroke-width="3" stroke-linejoin="round"/><text x="492" y="525" fill="#ffffff" stroke="#101722" stroke-width="1.5" paint-order="stroke fill" stroke-linejoin="round" font-family="Arial" font-size="18" font-weight="bold" letter-spacing="1.1" text-anchor="middle">VERDANT WILDS</text><polygon points="1234.87,443.00 1230.62,436.97 1216.72,431.52 1134.33,414.71 1109.89,394.40 1097.94,389.43 1046.32,387.15 1039.98,381.97 1036.45,367.67 1030.05,359.35 1008.48,348.55 986.62,349.51 948.11,374.15 922.73,358.79 899.41,351.78 844.05,360.05 769.72,349.28 751.67,355.20 752.19,362.30 775.13,392.87 768.88,418.55 782.67,446.71 752.41,483.94 752.80,494.06 764.50,501.40 834.01,520.07 889.28,519.47 911.23,524.94 948.17,510.97 993.76,536.92 1022.94,536.40 1055.89,528.19 1076.99,517.21 1102.26,498.17 1114.84,476.03 1123.92,469.67 1211.64,454.26" fill="#d2b06d" fill-opacity=".90" stroke="#e5e7eb" stroke-width="3" stroke-linejoin="round"/><text x="978" y="447" fill="#ffffff" stroke="#101722" stroke-width="1.5" paint-order="stroke fill" stroke-linejoin="round" font-family="Arial" font-size="18" font-weight="bold" letter-spacing="1.1" text-anchor="middle">THE CENTRAL REACH</text><polygon points="1281.70,753.29 1282.53,744.42 1257.79,706.97 1247.42,679.72 1216.46,650.68 1212.92,621.08 1195.73,596.66 1135.72,572.44 1128.11,576.41 1117.48,595.44 1091.97,570.67 1073.92,558.80 1028.28,551.24 1006.52,556.17 1005.53,572.57 1022.56,616.43 1020.34,626.22 1009.52,640.25 1010.76,649.30 1082.30,697.09 1110.82,725.92 1165.80,747.23 1197.81,747.56 1224.96,741.53 1262.59,753.19" fill="#c99a55" fill-opacity=".90" stroke="#e5e7eb" stroke-width="3" stroke-linejoin="round"/><text x="1145" y="660.00" fill="#ffffff" stroke="#101722" stroke-width="1.5" paint-order="stroke fill" stroke-linejoin="round" font-family="Arial" font-size="18" font-weight="bold" letter-spacing="1.1" text-anchor="middle">THE SUNKEN SANDS</text><polygon points="942.43,649.98 936.72,641.62 918.00,631.46 922.21,616.34 917.53,608.82 896.09,593.57 869.48,583.71 857.20,586.83 837.69,606.60 815.93,587.59 799.96,586.50 757.88,606.37 727.20,615.83 721.99,621.95 724.63,629.73 746.58,649.98 747.34,671.98 764.20,697.30 791.12,713.78 817.01,720.00 840.02,747.37 850.17,744.27 871.22,720.18 895.44,710.59 909.20,700.54 922.18,686.77 928.67,668.25" fill="#a87976" fill-opacity=".90" stroke="#e5e7eb" stroke-width="3" stroke-linejoin="round"/><text x="834" y="669.00" fill="#ffffff" stroke="#101722" stroke-width="1.5" paint-order="stroke fill" stroke-linejoin="round" font-family="Arial" font-size="18" font-weight="bold" letter-spacing="1.1" text-anchor="middle">THE ASHEN FRONTIER</text><polygon points="1699.35,629.99 1687.75,617.88 1632.91,598.64 1612.17,571.76 1584.33,550.60 1567.16,547.36 1541.70,551.03 1524.48,518.23 1508.02,511.39 1489.98,514.64 1453.84,530.33 1438.82,565.06 1400.67,554.85 1386.83,555.84 1359.58,573.19 1322.22,587.60 1315.97,597.50 1323.47,609.48 1352.50,634.19 1353.40,664.51 1378.24,704.22 1413.08,727.59 1434.26,734.63 1446.77,733.43 1460.17,726.54 1489.98,688.90 1508.92,722.97 1522.46,735.24 1615.21,735.36 1622.50,725.27 1616.09,684.92 1620.60,663.01 1631.33,656.39 1683.72,641.85" fill="#8c82b5" fill-opacity=".90" stroke="#e5e7eb" stroke-width="3" stroke-linejoin="round"/><text x="1502" y="630" fill="#ffffff" stroke="#101722" stroke-width="1.5" paint-order="stroke fill" stroke-linejoin="round" font-family="Arial" font-size="18" font-weight="bold" letter-spacing="1.1" text-anchor="middle">THE VEILED CONTINENT</text><text x="100" y="900" fill="#e2e8f0" font-family="Arial" font-size="18">EARTH-REFERENCE GEOGRAPHY  ·  RELATIVE RELIEF CANDIDATES / OCEAN-FLOOR FRAMEWORK</text><text x="100" y="930" fill="#f4c56a" font-family="Arial" font-size="17">NON-CANON  ·  SCHEMATIC RELIEF STUDY  ·  NOT A VALIDATED ELEVATION OR BATHYMETRY MAP</text><text x="100" y="960" fill="#9eacbf" font-family="Arial" font-size="15">Relief symbols translate prior design notes; positions are schematic and do not encode measured elevations or tectonic kinematics.</text><text x="100" y="985" fill="#9eacbf" font-family="Arial" font-size="13">V0.8 · Candidate mountain belts, uplands and basins; ocean-floor depth classes are explained below but not spatially assigned.</text>
+<g id="bathymetry-concept-panel">
+  <text x="100" y="1030" fill="#f7f8fa" font-family="Arial" font-size="21" font-weight="bold">OCEAN-FLOOR MORPHOLOGY · GENERIC CROSS-SECTION, NOT GEOGRAPHICALLY PLACED</text>
+  <rect x="100" y="1050" width="1600" height="95" rx="8" fill="#14283a" stroke="#64748b" stroke-width="1.5"/>
+  <path d="M120 1083 L285 1083 Q325 1084 355 1108 Q390 1130 445 1130 L1550 1130 Q1605 1129 1640 1102 L1680 1083" fill="none" stroke="#80b7d7" stroke-width="4"/>
+  <path d="M120 1083 L285 1083 Q325 1084 355 1108 Q390 1130 445 1130 L1550 1130 Q1605 1129 1640 1102 L1680 1083 L1680 1140 L120 1140 Z" fill="#32708d" opacity=".28"/>
+  <g fill="#dbeafe" font-family="Arial" font-size="12" font-weight="bold">
+    <text x="190" y="1075">CONTINENTAL SHELF</text>
+    <text x="350" y="1110">SLOPE / RISE</text>
+    <text x="830" y="1122">ABYSSAL PLAIN</text>
+    <text x="1450" y="1075">SHELF / MARGIN</text>
+  </g>
+  <text x="100" y="1175" fill="#f4c56a" font-family="Arial" font-size="14">DEPTH VALUES, TRENCHES, RIDGES, SEAMOUNTS AND BASIN POSITIONS: UNASSIGNED PENDING VERIFIED PLATE MOTION & BATHYMETRY.</text>
+</g>
+
+<g id="hydrology-candidates" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <g stroke="#75d5d0" stroke-width="3.2" stroke-dasharray="10 7" opacity=".95">
+    <path d="M790 385 Q825 370 850 378 L878 369 L905 383 L934 377 L956 391"/>
+    <path d="M425 445 Q449 426 470 438 L493 428 L515 445 L540 438"/>
+    <path d="M835 190 Q860 174 882 184 L905 171 L930 182 L954 174 L981 187"/>
+    <path d="M770 640 Q797 625 820 635 L845 620 L870 635 L894 650"/>
+  </g>
+  <g stroke="#f6d58a" stroke-width="2.6" stroke-dasharray="5 7" opacity=".9">
+    <ellipse cx="1135" cy="686" rx="78" ry="30"/>
+    <ellipse cx="1545" cy="685" rx="88" ry="34"/>
+    <path d="M900 420 Q980 405 1050 430"/>
+    <path d="M465 490 Q530 505 575 540"/>
+  </g>
+  <g stroke="#f3f7fb" stroke-width="3" opacity=".9">
+    <path d="M858 405 L820 448 M820 448 l2 -13 M820 448 l13 -4"/>
+    <path d="M905 402 L965 430 M965 430 l-14 -1 M965 430 l-6 -12"/>
+    <path d="M470 468 L430 510 M430 510 l2 -14 M430 510 l13 -4"/>
+    <path d="M515 461 L560 485 M560 485 l-14 0 M560 485 l-6 -12"/>
+    <path d="M880 215 L840 250 M840 250 l2 -14 M840 250 l13 -4"/>
+    <path d="M935 211 L980 240 M980 240 l-14 0 M980 240 l-6 -12"/>
+    <path d="M820 665 L785 710 M785 710 l2 -14 M785 710 l13 -4"/>
+    <path d="M870 655 L915 690 M915 690 l-14 0 M915 690 l-6 -12"/>
+  </g>
+  <g fill="#e7fbfa" stroke="#101722" stroke-width="3" paint-order="stroke fill" font-family="Arial" font-size="11" font-weight="bold">
+    <text x="870" y="433">DIVIDE CANDIDATE</text>
+    <text x="480" y="505">DIVIDE CANDIDATE</text>
+    <text x="905" y="235">DIVIDE CANDIDATE</text>
+    <text x="840" y="705">DIVIDE CANDIDATE</text>
+  </g>
+</g>
+<g id="hydrology-framework-panel">
+  <rect x="100" y="1205" width="1600" height="150" rx="8" fill="#14283a" stroke="#64748b" stroke-width="1.5"/>
+  <text x="125" y="1237" fill="#f7f8fa" font-family="Arial" font-size="20" font-weight="bold">HYDROLOGY LEGEND · CANDIDATE ONLY</text>
+  <line x1="135" y1="1270" x2="235" y2="1270" stroke="#75d5d0" stroke-width="4" stroke-dasharray="10 7"/>
+  <text x="255" y="1276" fill="#dbeafe" font-family="Arial" font-size="15">Watershed divide / topographic ridge candidate</text>
+  <ellipse cx="185" cy="1315" rx="48" ry="17" fill="none" stroke="#f6d58a" stroke-width="3" stroke-dasharray="5 7"/>
+  <text x="255" y="1321" fill="#dbeafe" font-family="Arial" font-size="15">Potential basin / storage zone; outlet status unresolved</text>
+  <path d="M900 1270 L1000 1270 M1000 1270 l-15 -7 M1000 1270 l-15 7" stroke="#f3f7fb" stroke-width="3" fill="none"/>
+  <text x="1025" y="1276" fill="#dbeafe" font-family="Arial" font-size="15">General downhill tendency, not a river channel</text>
+  <text x="900" y="1321" fill="#f4c56a" font-family="Arial" font-size="14">NO RIVER COURSES · NO LAKE LOCATIONS · NO VERIFIED OUTLETS · NOT A DEM OR DRAINAGE SIMULATION</text>
+</g>
+</svg>
