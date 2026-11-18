@@ -230,6 +230,8 @@ def main():
 
     weights = {tuple(sorted(item["edge"])): float(item["weight"])
                for item in data["edge_weights"]}
+    record("all Tutte edge weights are positive", all(w > 0.0 for w in weights.values()))
+    record("one stored weight exists for every edge", set(weights) == edge_set)
     adjacency = {n: [] for n in all_nodes}
     for a, b in edges:
         w = weights[tuple(sorted((a, b)))]
@@ -262,6 +264,8 @@ def main():
                 for name, area in bounded_areas.items()}
     measured["Central"] = 100.0 - sum(measured.values())
     targets = data["target_percent_surface"]
+    record("target area percentages sum to 100%", abs(sum(targets.values()) - 100.0) < 1e-8,
+           f"target sum={sum(targets.values()):.12f}%")
     deviations = {name: measured[name] - targets[name] for name in targets}
     max_deviation = max(abs(v) for v in deviations.values())
     record("surface area sums to 100%", abs(sum(measured.values()) - 100.0) < 1e-8,
