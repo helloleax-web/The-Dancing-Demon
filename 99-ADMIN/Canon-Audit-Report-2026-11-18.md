@@ -146,25 +146,27 @@ Kedua pernyataan dapat dibaca selaras jika tabel bagian 3 dimaksudkan sebagai da
 
 **Klasifikasi:** Batas validasi teknis  
 **Prioritas:** P2  
-**Status:** Keterbatasan sudah diakui dalam dokumen atlas
+**Status:** SELESAI UNTUK PENGEMBANGAN AKTIF — V1.0-R telah dibuat dan tervalidasi; V1.0 asli tetap tidak pulih
 
-Referensi geometri mencatat 14 simpul, 21 segmen, 9 muka, penutupan bola 100%, tidak adanya persilangan yang dilaporkan, dan deviasi luas maksimum 0,0675 poin persentase terhadap target.
+Referensi V1.0 mencatat 14 simpul, 21 sisi, 9 muka, total luas 100%, dan deviasi maksimum 0,0675 poin persentase. Namun, koordinat planar presisi dan skrip konstruksi asli tidak ditemukan. Pemeriksaan tree commit sumber V1.0 (3e6ef02) hanya menemukan World-Map-Framework.md sebagai file atlas terkait; bagian 7.25 mempublikasikan koordinat matematis lintang-bujur yang dibulatkan, bukan tabel x/y planar presisi atau input optimizer.
 
-Namun, koordinat planar presisi dan skrip konstruksi V1.0 tidak ditemukan pada sumber yang diperiksa. Referensi yang dipulihkan hanya memuat koordinat lintang-bujur yang dibulatkan serta transkripsi topologi. Dokumen juga memperingatkan agar koordinat tersebut tidak diperlakukan sebagai data yang cukup untuk mereproduksi persentase luas secara independen. Pemeriksaan terhadap tree commit sumber V1.0 (3e6ef02) juga hanya menemukan World-Map-Framework.md sebagai file atlas terkait; bagian 7.25 mempublikasikan koordinat matematis lintang-bujur yang dibulatkan, bukan tabel x/y planar presisi atau berkas input optimizer.
+Pemeriksaan konsistensi transkripsi V1.0 tetap lolos: semua simpul berderajat 3, Euler = 2, seluruh sisi muka cocok dengan graf, serta jumlah target dan hasil luas masing-masing 100%. Pemeriksaan ini tidak menghitung ulang luas dari koordinat asli yang hilang.
 
-Pemeriksaan Euler:
-`14 - 21 + 9 = 2`
-konsisten dengan karakteristik topologi partisi bola, tetapi tidak membuktikan sendiri ketepatan embedding, luas, atau geometri batas.
+Untuk menyelesaikan hambatan pengembangan, dibuat **V1.0-R**, rekonstruksi baru dengan topologi dan target luas yang sama. V1.0-R bukan pemulihan identik dari V1.0. Validator yang diunggah dan dijalankan pada file repository menghasilkan **RESULT: PASS** dengan pemeriksaan:
+- 14 simpul, 21 sisi, 9 muka; graf terhubung dan konektivitas simpul 3.
+- Semua simpul berderajat 3; karakteristik Euler = 2.
+- Batas luar cembung; semua simpul interior berada di dalam batas.
+- Tidak ada persilangan sisi non-insiden; setiap muka adalah poligon sederhana.
+- Setiap sisi menjadi batas tepat dua muka; delapan muka terbatas menutup poligon luar tanpa tumpang tindih.
+- Koordinat Tutte dapat direproduksi dari bobot sisi yang disimpan.
+- Proyeksi inverse stereographic menghasilkan titik pada bola satuan.
+- Total luas 100%; deviasi maksimum terhadap target **0,002188 poin persentase**, di bawah toleransi 0,01 poin.
 
-**Pemeriksaan konsistensi data referensi yang dapat diulang pada file JSON:** 14 simpul, 21 sisi, dan 9 muka; semua simpul memiliki derajat 3; seluruh 42 sisi batas muka ditemukan pada daftar sisi; rumus Euler menghasilkan 2; jumlah target luas 100%; jumlah hasil luas yang dipublikasikan 100%; deviasi maksimum 0,0675 poin persentase. Pemeriksaan ini mengonfirmasi konsistensi internal transkripsi dan aritmetika yang tercatat, tetapi tidak menghitung ulang luas muka dari koordinat presisi karena koordinat planar asli tidak tersedia.
+**Dampak:** pengembangan peta kini memiliki baseline matematis yang dapat direproduksi. Namun, V1.0 asli tetap hanya referensi historis; jangan mengklaim V1.0-R identik dengannya.
 
-Referensi pengembangan V1.1 berbasis Tutte kini juga tersedia. Kandidat tersebut melaporkan embedding planar tanpa persilangan dan memenuhi pemeriksaan topologi dasar, tetapi target luas permukaan tidak terpenuhi dan uji containment belum dilakukan. Distribusi luasnya menyimpang besar dari target (misalnya Central 53,49% dibanding target 18%; Southeast Ocean 0,95% dibanding target 9%). Karena itu V1.1 adalah kandidat embedding, bukan pengganti peta lempeng yang sudah seimbang.
+**Tindakan:** gunakan V1.0-R sebagai baseline geometri kerja. Pertahankan V1.0-reference dan V1.1 sebagai arsip pembanding. Jika koordinat asli V1.0 ditemukan di kemudian hari, bandingkan secara terpisah dan jangan menimpa V1.0-R tanpa validasi.
 
-**Dampak:** angka hasil V1.0 dapat dikutip sebagai hasil yang terdokumentasi, tetapi belum layak diklaim telah diverifikasi ulang secara independen dari data presisi yang tersedia.
-
-**Rekomendasi:** pulihkan koordinat planar dan skrip asli jika tersedia. Jika tidak, lakukan rekonstruksi baru dengan label versi baru (misalnya V1.0-R), dokumentasikan metode, dan jalankan ulang pemeriksaan geometri serta luas. Jangan menyebut rekonstruksi sebagai identik dengan V1.0 asli tanpa bukti.
-
-**Sumber:** [World Atlas Draft V1](../98-CATATAN%20PENGEMBANGAN/World-Atlas-Draft-V1.md), bagian status geometri dan lampiran; [World Map Framework](../98-CATATAN%20PENGEMBANGAN/World-Map-Framework.md), bagian pemulihan V1.0; referensi [World Plate Geometry V1.0](../98-CATATAN%20PENGEMBANGAN/World-Plate-Geometry-V1.0-reference.json). Kandidat pembanding: [World Plate Geometry V1.1 Tutte](../98-CATATAN%20PENGEMBANGAN/World-Plate-Geometry-V1.1-Tutte-candidate.json).
+**Sumber:** [World Map Framework](../98-CATATAN%20PENGEMBANGAN/World-Map-Framework.md), bagian 7.38 dan 7.42; [V1.0-R JSON](../98-CATATAN%20PENGEMBANGAN/World-Plate-Geometry-V1.0-R-reconstructed.json); [V1.0-R Validation Report](../98-CATATAN%20PENGEMBANGAN/World-Plate-Geometry-V1.0-R-Validation.md); [V1.0-R Validator](../98-CATATAN%20PENGEMBANGAN/validate_plate_geometry_v1_0_r.py); [V1.0-R Planar SVG](../98-CATATAN%20PENGEMBANGAN/World-Plate-Geometry-V1.0-R-planar.svg); [V1.0 Reference](../98-CATATAN%20PENGEMBANGAN/World-Plate-Geometry-V1.0-reference.json); [V1.1 Tutte Candidate](../98-CATATAN%20PENGEMBANGAN/World-Plate-Geometry-V1.1-Tutte-candidate.json).
 
 ### A-06 — Nomor bagian duplikat pada dokumen atlas
 
@@ -293,7 +295,7 @@ Urutan berikut adalah rekomendasi administratif, bukan keputusan canon.
 
 | Urutan | Tindakan | Alasan |
 |---|---|---|
-| 1 | Pulihkan koordinat planar dan metode konstruksi V1.0 jika masih tersedia | Menentukan apakah baseline lama dapat direproduksi |
+| 1 | Gunakan V1.0-R sebagai baseline kerja; simpan V1.0 asli sebagai arsip dan bandingkan jika koordinat asli ditemukan | Menjaga pengembangan berjalan dengan geometri yang dapat direproduksi |
 | 2 | Jika data asli tidak tersedia, buat rekonstruksi teknis dengan versi baru dan validasi independen | Hindari mengklaim rekonstruksi sebagai V1.0 asli |
 | 3 | Lengkapi profil karakter, lokasi, dan organisasi sebagai materi pengembangan | Mendukung penulisan tanpa mengarang fakta CANON |
 | 4 | Perluas kerangka Buku I menjadi outline adegan dan sebab-akibat | Menguji motivasi, eskalasi, dan konsekuensi sebelum prosa final |
@@ -312,9 +314,9 @@ Urutan berikut adalah rekomendasi administratif, bukan keputusan canon.
 
 ## 8. Status audit
 
-**Hasil:** tidak ditemukan kontradiksi CANON langsung dalam dokumen utama yang diperiksa. A-01 sampai A-04 serta A-06 dan A-07 telah diselesaikan pada 2026-11-18. A-05 masih terbuka sebagai keterbatasan reproduksibilitas teknis; baseline V1.0 belum dapat dihitung ulang secara independen dari koordinat planar presisi.
+**Hasil:** tidak ditemukan kontradiksi CANON langsung dalam dokumen utama yang diperiksa. A-01 sampai A-04 serta A-06 dan A-07 telah diselesaikan pada 2026-11-18. A-05 telah diselesaikan untuk pengembangan aktif melalui V1.0-R. Koordinat asli V1.0 tetap belum ditemukan, sehingga V1.0-R tidak diklaim identik dengan baseline historis.
 
-**Batas:** audit ini mencakup seluruh dokumen Markdown yang terdaftar pada branch saat pemeriksaan dan pemeriksaan tautan relatif antarfile. File SVG, JSON, dan aset visual diperiksa secara selektif berdasarkan keterkaitan dengan temuan; belum seluruhnya divalidasi secara teknis. Riwayat percakapan sumber dan seluruh riwayat commit tidak diaudit secara menyeluruh. Karena itu, laporan ini tidak menyatakan seluruh repository bebas konflik. Dokumen yang ditambahkan setelah pemeriksaan utama—Character Development Dossier, Book I Scene Outline, Location & Organization Dossier, Eight-Book Series Architecture, Glosarium, dan Mystery & Foreshadowing Ledger—tidak termasuk dalam penilaian audit awal ini. Tautan relatifnya diperiksa setelah penambahan, tetapi isi kreatif draft tersebut belum menjadi bagian dari audit kontinuitas awal. Pemeriksaan integritas repository lanjutan kemudian mencakup 40 file Markdown (seluruh tautan relatif lolos), 13 file JSON (semuanya dapat diparse), dan 11 file SVG (masing-masing memiliki elemen root, penutup, dan viewBox). Pemeriksaan struktural ini tidak menggantikan peninjauan visual, validasi XML penuh, atau validasi geometri/geodesik.
+**Batas:** audit ini mencakup seluruh dokumen Markdown yang terdaftar pada branch saat pemeriksaan dan pemeriksaan tautan relatif antarfile. File SVG, JSON, dan aset visual diperiksa secara selektif berdasarkan keterkaitan dengan temuan; belum seluruhnya divalidasi secara teknis. Riwayat percakapan sumber dan seluruh riwayat commit tidak diaudit secara menyeluruh. Karena itu, laporan ini tidak menyatakan seluruh repository bebas konflik. Dokumen yang ditambahkan setelah pemeriksaan utama—Character Development Dossier, Book I Scene Outline, Location & Organization Dossier, Eight-Book Series Architecture, Glosarium, dan Mystery & Foreshadowing Ledger—tidak termasuk dalam penilaian audit awal ini. Tautan relatifnya diperiksa setelah penambahan, tetapi isi kreatif draft tersebut belum menjadi bagian dari audit kontinuitas awal. Pemeriksaan integritas repository lanjutan kemudian mencakup 41 file Markdown (seluruh tautan relatif lolos), 14 file JSON (semuanya dapat diparse), dan 12 file SVG (masing-masing memiliki elemen root, penutup, dan viewBox). Pemeriksaan struktural ini tidak menggantikan peninjauan visual, validasi XML penuh, atau validasi geometri/geodesik.
 
 **Perubahan CANON:** tidak ada retcon terhadap fakta cerita. Klarifikasi prosedural International Authority dan KVK dicatat dalam Canon Changelog.  
 **Retcon:** tidak ada.  
