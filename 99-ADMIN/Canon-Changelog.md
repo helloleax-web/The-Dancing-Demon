@@ -190,3 +190,12 @@ Dokumen konsolidasi ini dibuat berdasarkan lore yang telah ditetapkan dalam perc
 - Keputusan: Dua heading iterasi siluet makro V1 dan kerangka koordinat V0.5 diubah menjadi heading berbasis versi tanpa nomor bagian yang duplikat. Isi dan rujukan teknis tidak diubah.
 - Dokumen yang diperbarui: `98-CATATAN PENGEMBANGAN/World-Atlas-Draft-V1.md`.
 - Apakah ini retcon?: Tidak.
+
+
+## Catatan penomoran bagian World Map Framework 2026-11-18
+
+- Tanggal: 2026-11-18
+- Topik: Disambiguasi nomor bagian yang terduplikasi akibat penambahan iterasi pengembangan.
+- Keputusan: Dua rangkaian bagian 7.26 dan 7.27 diberi suffix A/B agar penempatan makro awal, audit kompatibilitas luas, peta konseptual, dan rancangan makro V1.0 dapat dirujuk tanpa ambiguitas. Rujukan internal terkait diperbarui. Isi teknis dan status CANON tidak berubah.
+- Dokumen yang diperbarui: `98-CATATAN PENGEMBANGAN/World-Map-Framework.md`.
+- Apakah ini retcon?: Tidak. Perapian struktur dokumentasi.
