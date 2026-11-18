@@ -156,6 +156,8 @@ Pemeriksaan Euler:
 `14 - 21 + 9 = 2`
 konsisten dengan karakteristik topologi partisi bola, tetapi tidak membuktikan sendiri ketepatan embedding, luas, atau geometri batas.
 
+**Pemeriksaan konsistensi data referensi yang dapat diulang pada file JSON:** 14 simpul, 21 sisi, dan 9 muka; semua simpul memiliki derajat 3; seluruh 42 sisi batas muka ditemukan pada daftar sisi; rumus Euler menghasilkan 2; jumlah target luas 100%; jumlah hasil luas yang dipublikasikan 100%; deviasi maksimum 0,0675 poin persentase. Pemeriksaan ini mengonfirmasi konsistensi internal transkripsi dan aritmetika yang tercatat, tetapi tidak menghitung ulang luas muka dari koordinat presisi karena koordinat planar asli tidak tersedia.
+
 Referensi pengembangan V1.1 berbasis Tutte kini juga tersedia. Kandidat tersebut melaporkan embedding planar tanpa persilangan dan memenuhi pemeriksaan topologi dasar, tetapi target luas permukaan tidak terpenuhi dan uji containment belum dilakukan. Distribusi luasnya menyimpang besar dari target (misalnya Central 53,49% dibanding target 18%; Southeast Ocean 0,95% dibanding target 9%). Karena itu V1.1 adalah kandidat embedding, bukan pengganti peta lempeng yang sudah seimbang.
 
 **Dampak:** angka hasil V1.0 dapat dikutip sebagai hasil yang terdokumentasi, tetapi belum layak diklaim telah diverifikasi ulang secara independen dari data presisi yang tersedia.
