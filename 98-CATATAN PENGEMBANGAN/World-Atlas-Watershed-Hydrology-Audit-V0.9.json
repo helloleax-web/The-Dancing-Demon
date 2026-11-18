@@ -1,0 +1,90 @@
+{
+  "version": "V0.9",
+  "status": "NON-CANON / CATATAN PENGEMBANGAN",
+  "basis": {
+    "inherited_relief": "World-Atlas-Relief-Bathymetry-Framework-V0.8.svg",
+    "inherited_audit": "World-Atlas-Relief-Bathymetry-Audit-V0.8.json",
+    "primary_notes": "World-Atlas-Draft-V1.md sections 4, 6 and 16",
+    "method": "Qualitative watershed and hydrology framework derived only from existing schematic relief candidates; no DEM, numeric elevations, or hydrologic simulation."
+  },
+  "features": {
+    "candidate_divides": [
+      {
+        "continent": "The Central Reach",
+        "basis": "northwest mountain belt candidate",
+        "status": "schematic ridge/divide trace only; exact watershed boundary unresolved"
+      },
+      {
+        "continent": "The Verdant Wilds",
+        "basis": "northwest-to-central mountain arc candidate",
+        "status": "schematic ridge/divide trace only; arc endpoints and catchments unresolved"
+      },
+      {
+        "continent": "The Frostbound Expanse",
+        "basis": "central-northern highland candidate",
+        "status": "schematic ridge/divide trace only; valley outlets unresolved"
+      },
+      {
+        "continent": "The Ashen Frontier",
+        "basis": "diagonal upland candidate",
+        "status": "schematic ridge/divide trace only; tectonic cause and catchments unresolved"
+      }
+    ],
+    "potential_basin_zones": [
+      {
+        "continent": "The Central Reach",
+        "status": "central basin inherited as candidate; closed versus open drainage unresolved"
+      },
+      {
+        "continent": "The Sunken Sands",
+        "status": "central basin candidate; endorheic versus exorheic drainage unresolved"
+      },
+      {
+        "continent": "The Veiled Continent",
+        "status": "interior basin candidate; connection to sea, enclosed bay, or lake unresolved"
+      }
+    ],
+    "general_drainage_tendencies": "Arrows indicate only broad downhill tendencies away from candidate highlands. They are not river centerlines, verified flow paths, or mapped outlets."
+  },
+  "continent_status": {
+    "The Central Reach": "NW divide candidate; central basin remains unresolved; eastern plateau is lower relief candidate, not a proven drainage destination.",
+    "The Verdant Wilds": "NW-central arc used as a possible divide; no catchment boundaries or river courses assigned.",
+    "The Frostbound Expanse": "Central-northern highland used as a possible divide; no glacial drainage or fjord system inferred.",
+    "The Ashen Frontier": "Diagonal upland used as a possible divide; no volcanic or fault-controlled drainage inferred.",
+    "The Sunken Sands": "Central basin retained as an unresolved storage candidate; no desert, salt lake, or endorheic system inferred.",
+    "The Veiled Continent": "Interior basin retained as unresolved; no lake or enclosed-bay connection inferred."
+  },
+  "validation": {
+    "inherited_six_continent_polygons_changed": false,
+    "coastline_geometry_changed": false,
+    "plate_geometry_changed": false,
+    "candidate_divides_are_measured_ridges": false,
+    "watershed_topology_verified": false,
+    "downhill_flow_paths_verified": false,
+    "river_channels_drawn": false,
+    "lakes_or_deltas_assigned": false,
+    "basin_outlets_verified": false,
+    "elevation_or_dem_data_used": false,
+    "hydrologic_simulation_performed": false,
+    "projection_validated": false,
+    "geodesic_validation": false,
+    "canon_changed": false
+  },
+  "limitations": [
+    "All hydrology features are schematic candidates and remain NON-CANON.",
+    "V0.8 relief marks do not provide numeric elevations, ridge continuity, or slope gradients.",
+    "Candidate divide traces follow existing schematic mountain/highland symbols and are not validated watershed boundaries.",
+    "Arrows show broad conceptual drainage tendencies only; they are not river courses.",
+    "The Central Reach, Sunken Sands, and Veiled Continent basin candidates have unresolved outlet status.",
+    "No rivers, lakes, deltas, wetlands, glaciers, named waters, or settlements are assigned.",
+    "No story location is placed or repositioned.",
+    "The SVG uses an inherited linear coordinate scaffold, not a validated cartographic projection."
+  ],
+  "next_requirements": [
+    "Establish relative elevation ordering and continuous ridge geometry.",
+    "Decide basin closure and outlet thresholds for each candidate basin.",
+    "Define catchment boundaries and check all flow paths against divides.",
+    "Only then draw river centerlines, tributaries, lakes, and outlets.",
+    "Validate coastline connectivity and any endorheic systems before assigning names."
+  ]
+}
