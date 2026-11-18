@@ -2262,3 +2262,12 @@ Poin komposisi yang dipertahankan:
 - Veiled Continent menjadi daratan terpencil di bagian tenggara.
 
 **Keputusan kerja:** siluet V0.1 diperlakukan sebagai sketsa eksplorasi. Iterasi berikutnya harus memperbaiki bentuk dan proporsi, menguji luas daratan relatif dalam proyeksi yang sesuai, dan memastikan setiap benua berada di lempeng pembawanya. Tidak ada perubahan CANON.
+
+
+### 7.41 Konsolidasi referensi siluet benua
+
+Audit ulang menemukan bahwa pratinjau siluet yang sudah ada pada 7.40, `World-Atlas-Continental-Silhouette-Draft.svg`, telah memuat enam nama benua, garis ekuator, asumsi daratan/perairan 30/70, dan catatan bahwa gambar bukan peta skala-ukur atau hasil containment tervalidasi.
+
+File tersebut dipertahankan sebagai **referensi siluet utama**. Atlas Draft V1 kini diarahkan ke file itu. Sebuah alternatif SVG yang dibuat saat iterasi berikutnya ternyata redundan dan telah dihapus agar tidak ada dua gambar konsep yang bersaing sebagai acuan.
+
+**Status:** siluet utama tetap NON-CANON dan konseptual. Proporsi visual belum menguji rasio luas 24/21/18/15/13/9 secara matematis. Tahap selanjutnya harus mengubah bentuk siluet menjadi poligon terukur, lalu mengaudit luas daratan dan containment terhadap enam lempeng pembawa. Tidak ada fakta CANON yang berubah.
