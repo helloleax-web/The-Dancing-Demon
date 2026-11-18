@@ -1,0 +1,245 @@
+{
+  "model": "The Dancing Demon — Continental–Plate Overlay R0.2 Raster Convergence Audit",
+  "version": "0.1",
+  "date": "2026-11-19",
+  "status": "DEVELOPMENT / NON-CANON / INDEPENDENT RASTER CONVERGENCE CHECK",
+  "method": {
+    "classification": "Direct equal-area grid point classification; no polygon triangulation or triangle clipping",
+    "grid": "Uniform longitude and uniform sin(latitude), cell-center sampling",
+    "continent_membership": "Point-in-polygon in the V0.6 geographic SVG coordinate frame",
+    "plate_membership": "Geographic sample point inverse-rotated by the R0.2 matrix, inverse-stereographic projected to the V1.0-R local plane, then point-in-polygon tested against the eight bounded face cycles; Central is the complement",
+    "area_weighting": "All cells have equal spherical area by construction",
+    "rotation_matrix": "Same corrected R0.2 matrix and convention as Continental-Plate-Overlay-Audit-R0.2.json",
+    "purpose": "Independent raster cross-check of the sampled spherical polygon clipping matrix and its resolution sensitivity"
+  },
+  "levels": {
+    "1deg": {
+      "cells": 144000,
+      "mean": 87.27465794114258,
+      "plate": {
+        "Verdant": 11.999305555555557,
+        "Sands": 10.002777777777776,
+        "Frost": 7.998611111111111,
+        "Ashen": 6.990277777777777,
+        "Veiled": 11.015277777777778,
+        "North Ocean": 13.996527777777779,
+        "West Ocean": 11.001388888888888,
+        "Southeast Ocean": 8.981944444444444,
+        "Central": 18.01388888888889
+      },
+      "continent": {
+        "Frostbound": 4.505555555555555,
+        "Verdant Wilds": 5.4,
+        "Central Reach": 7.196527777777778,
+        "Sunken Sands": 3.9,
+        "Ashen Frontier": 2.7034722222222225,
+        "Veiled Continent": 6.2972222222222225
+      }
+    },
+    "0.5deg": {
+      "cells": 576000,
+      "mean": 87.24987744593716,
+      "plate": {
+        "Verdant": 12.000347222222222,
+        "Sands": 10.003125,
+        "Frost": 7.998611111111111,
+        "Ashen": 7.001215277777778,
+        "Veiled": 11.009027777777778,
+        "North Ocean": 14.00173611111111,
+        "West Ocean": 10.997569444444444,
+        "Southeast Ocean": 8.989930555555556,
+        "Central": 17.9984375
+      },
+      "continent": {
+        "Frostbound": 4.496701388888889,
+        "Verdant Wilds": 5.4015625,
+        "Central Reach": 7.199479166666666,
+        "Sunken Sands": 3.9003472222222224,
+        "Ashen Frontier": 2.7,
+        "Veiled Continent": 6.300868055555556
+      }
+    },
+    "0.25deg": {
+      "cells": 2304000,
+      "mean": 87.25729651609579,
+      "plate": {
+        "Verdant": 12.000434027777777,
+        "Sands": 10.001996527777777,
+        "Frost": 8.000347222222222,
+        "Ashen": 6.999609375,
+        "Veiled": 11.00334201388889,
+        "North Ocean": 13.998524305555557,
+        "West Ocean": 10.999739583333334,
+        "Southeast Ocean": 8.995355902777778,
+        "Central": 18.000651041666664
+      },
+      "continent": {
+        "Frostbound": 4.500260416666666,
+        "Verdant Wilds": 5.400477430555556,
+        "Central Reach": 7.200303819444444,
+        "Sunken Sands": 3.9002170138888888,
+        "Ashen Frontier": 2.700434027777778,
+        "Veiled Continent": 6.298784722222223
+      }
+    },
+    "0.125deg": {
+      "cells": 9216000,
+      "mean": 87.25443432257148,
+      "plate": {
+        "Verdant": 12.001801215277778,
+        "Sands": 10.002495659722223,
+        "Frost": 7.999435763888889,
+        "Ashen": 7.0011176215277775,
+        "Veiled": 10.998394097222222,
+        "North Ocean": 13.999153645833335,
+        "West Ocean": 10.998166232638889,
+        "Southeast Ocean": 8.999348958333334,
+        "Central": 18.000086805555558
+      },
+      "continent": {
+        "Frostbound": 4.499967447916667,
+        "Verdant Wilds": 5.400032552083333,
+        "Central Reach": 7.200227864583334,
+        "Sunken Sands": 3.8999348958333333,
+        "Ashen Frontier": 2.7000325520833335,
+        "Veiled Continent": 6.300075954861111
+      }
+    }
+  },
+  "intersection_share_of_continent_percent": {
+    "0.5deg": {
+      "Frostbound": {
+        "Sands": 9.783406046098607,
+        "Southeast Ocean": 90.2165939539014
+      },
+      "Verdant Wilds": {
+        "Central": 100
+      },
+      "Central Reach": {
+        "Verdant": 4.232076973160674,
+        "Sands": 71.349682895657,
+        "Frost": 10.07258434010948,
+        "North Ocean": 0.016880079095227762,
+        "West Ocean": 13.721092864549423,
+        "Southeast Ocean": 0.6076828474281994
+      },
+      "Sunken Sands": {
+        "Verdant": 6.423039259325202,
+        "Frost": 5.599572687616843,
+        "North Ocean": 87.97738805305796
+      },
+      "Ashen Frontier": {
+        "Frost": 94.11651234567901,
+        "North Ocean": 5.883487654320987
+      },
+      "Veiled Continent": {
+        "Verdant": 79.83908742732758,
+        "North Ocean": 13.096189347808117,
+        "West Ocean": 7.064723224864299
+      }
+    },
+    "0.25deg": {
+      "Frostbound": {
+        "Sands": 9.810389059275119,
+        "Southeast Ocean": 90.18961094072489
+      },
+      "Verdant Wilds": {
+        "Central": 100
+      },
+      "Central Reach": {
+        "Verdant": 4.232195063142349,
+        "Sands": 71.36622562464208,
+        "Frost": 10.070225142409356,
+        "North Ocean": 0.025920009644654754,
+        "West Ocean": 13.689984628831489,
+        "Southeast Ocean": 0.6154495313300582
+      },
+      "Sunken Sands": {
+        "Verdant": 6.427705011072657,
+        "Frost": 5.587518500795674,
+        "North Ocean": 87.98477648813167
+      },
+      "Ashen Frontier": {
+        "Frost": 94.11424346652095,
+        "North Ocean": 5.885756533479058
+      },
+      "Veiled Continent": {
+        "Verdant": 79.88892257655522,
+        "North Ocean": 13.030236211791296,
+        "West Ocean": 7.080841211653483
+      }
+    },
+    "0.125deg": {
+      "Frostbound": {
+        "Sands": 9.814885813699464,
+        "Southeast Ocean": 90.18511418630054
+      },
+      "Verdant Wilds": {
+        "Central": 100
+      },
+      "Central Reach": {
+        "Verdant": 4.234650897489802,
+        "Sands": 71.35808720366863,
+        "Frost": 10.0695778761342,
+        "North Ocean": 0.02441328987164939,
+        "West Ocean": 13.697513310517456,
+        "Southeast Ocean": 0.6157574223182679
+      },
+      "Sunken Sands": {
+        "Verdant": 6.422327206762043,
+        "Frost": 5.585696876617198,
+        "North Ocean": 87.99197591662076
+      },
+      "Ashen Frontier": {
+        "Frost": 94.11095705989912,
+        "North Ocean": 5.88904294010087
+      },
+      "Veiled Continent": {
+        "Verdant": 79.88047156893983,
+        "North Ocean": 13.04341086606443,
+        "West Ocean": 7.076117564995737
+      }
+    }
+  },
+  "comparisons": {
+    "0.5_to_0.25": {
+      "max_matrix_cell_difference": {
+        "percentage_points": 0.06595313601682129,
+        "continent": "Veiled Continent",
+        "plate": "North Ocean"
+      },
+      "mean_dominant_difference": 0.00741907015863319
+    },
+    "0.25_to_0.125": {
+      "max_matrix_cell_difference": {
+        "percentage_points": 0.013174654273134578,
+        "continent": "Veiled Continent",
+        "plate": "North Ocean"
+      },
+      "mean_dominant_difference": 0.0028621935243080543
+    },
+    "0.5_to_0.125": {
+      "max_matrix_cell_difference": {
+        "percentage_points": 0.05277848174368671,
+        "continent": "Veiled Continent",
+        "plate": "North Ocean"
+      },
+      "mean_dominant_difference": 0.0045568766343251355
+    }
+  },
+  "conclusion": {
+    "mean_dominant_range_percent": [
+      87.24987744593716,
+      87.25729651609579
+    ],
+    "max_adjacent_matrix_difference_decreases": true,
+    "highest_resolution": "0.125° longitude × 0.000625 sin(latitude), 9,216,000 cells",
+    "decision": "Retain the existing sampled spherical clipping matrix as primary. The 0.125° raster is an independent convergence check, not a replacement for the analytic sampled-polyline clipping result.",
+    "limits": [
+      "Raster cell-center classification remains an approximation; it is not an exact polygon intersection.",
+      "The raster grid uses the existing SVG coastlines and V1.0-R plate geometry; it does not validate their artistic or geophysical correctness.",
+      "The mean dominant-share metric is cartographic compactness only.",
+      "All results remain NON-CANON."
+    ]
+  }
+}
