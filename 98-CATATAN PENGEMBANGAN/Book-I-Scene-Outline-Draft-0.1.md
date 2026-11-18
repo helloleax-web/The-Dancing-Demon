@@ -304,3 +304,11 @@ Pilihan draft:
 - Apakah fasilitas benar-benar arsip atau hanya disebut demikian oleh pihak yang mencari.
 
 Konfigurasi ini direkomendasikan untuk draft karena menghubungkan tiga organisasi dengan kepentingan berbeda, memberi alasan konkret bagi peta kedua Kael, dan mempertahankan misteri yang dibutuhkan buku berikutnya.
+
+
+## 10. Dokumen terkait
+
+- [Character Development Dossier — Draft 0.1](Character-Development-Dossier-Draft-0.1.md) — motivasi, kelemahan, dan arc karakter.
+- [Location & Organization Development Dossier — Draft 0.1](Location-Organization-Development-Dossier-Draft-0.1.md) — fungsi dan hubungan organisasi serta lokasi dalam draft.
+- [Eight-Book Series Architecture — Draft 0.1](Eight-Book-Series-Architecture-Draft-0.1.md) — fungsi Buku I dalam kesinambungan delapan buku.
+- [Cerita dan Rencana Delapan Buku](../00-CORE/08-Cerita-dan-Rencana-Delapan-Buku.md) — premis dan kerangka cerita yang menjadi dasar outline ini.
