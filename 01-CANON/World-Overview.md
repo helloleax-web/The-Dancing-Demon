@@ -11,9 +11,9 @@ Dunia LEAX menggabungkan:
 - Adventure Fantasy
 
 ## Tingkat teknologi
-Era teknologi masyarakat modern secara umum menyerupai fantasi abad pertengahan. Namun, terdapat peninggalan peradaban kuno dengan teknologi yang jauh lebih maju daripada teknologi modern dalam sejumlah bidang.
+Pada era cerita, tingkat teknologi masyarakat masa kini secara umum menyerupai fantasi abad pertengahan. Namun, peninggalan peradaban Bumi kuno memiliki teknologi yang jauh lebih maju daripada masyarakat masa kini dalam sejumlah bidang.
 
-Teknologi kuno tidak otomatis lebih unggul dalam segala hal. Masyarakat modern juga tidak selalu memahami cara kerja teknologi tersebut.
+Teknologi Bumi kuno tidak otomatis lebih unggul dalam segala hal. Masyarakat masa kini juga tidak selalu memahami cara kerja peninggalan tersebut.
 
 ## Prinsip dokumentasi
 Dunia memiliki sejarah, spesies, fenomena, dan peninggalan yang belum sepenuhnya dipahami. Ketidaktahuan tersebut dapat menjadi bagian sengaja dari cerita, bukan kekurangan yang harus selalu diisi.
