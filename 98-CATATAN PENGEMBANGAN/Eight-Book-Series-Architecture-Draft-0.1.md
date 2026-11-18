@@ -236,6 +236,8 @@ Jangan memakai misteri kosmik untuk menyelesaikan konflik lokal. Jangan pula mem
 10. Setiap buku harus mengubah sesuatu dalam hubungan, pengetahuan, atau keadaan kelompok.
 
 ## 7. Dokumen yang harus menjadi sumber utama
+- [Book I Character Knowledge Matrix — Draft 0.1](Book-I-Character-Knowledge-Matrix-Draft-0.1.md) — kontrol pengetahuan karakter dan pembaca pada buku pembuka.
+
 
 - [Cerita dan Rencana Delapan Buku](../00-CORE/08-Cerita-dan-Rencana-Delapan-Buku.md) — premis dan urutan besar yang sudah tercatat.
 - [Book I Scene Outline — Draft 0.1](Book-I-Scene-Outline-Draft-0.1.md) — rancangan adegan Buku I.
