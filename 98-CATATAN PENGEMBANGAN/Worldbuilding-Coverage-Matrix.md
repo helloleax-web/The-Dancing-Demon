@@ -608,3 +608,11 @@ Dossier tersebut berfungsi sebagai bahan kerja. Jika proposal dipilih, perbarui 
 - [Continental–Plate Overlay R0.1](Continental-Plate-Overlay-R0.1.md) — registrasi ilustratif satu globe dan matriks irisan awal berbasis raster luas sama.
 - [Peta overlay SVG](World-Atlas-Continental-Plate-Overlay-R0.1.svg) dan [audit JSON](Continental-Plate-Overlay-Audit-R0.1.json).
 - Status: overlay koordinat awal selesai; orientasi final dan clipping sferis eksak belum selesai. NON-CANON.
+
+
+## Kandidat registrasi R0.2
+
+- [Continental–Plate Overlay R0.2](Continental-Plate-Overlay-R0.2.md) — kandidat orientasi bersama yang meningkatkan metrik kekompakan overlay dibanding R0.1.
+- R0.2: rata-rata dominasi muka 87,50% pada screening dan 87,27% pada audit raster resolusi lebih tinggi; belum optimum global atau final.
+- [Peta SVG](World-Atlas-Continental-Plate-Overlay-R0.2.svg) dan [audit JSON](Continental-Plate-Overlay-Audit-R0.2.json).
+- Status: kandidat kerja NON-CANON; clipping sferis eksak dan geodinamika masih terbuka.
