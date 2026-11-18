@@ -582,3 +582,11 @@ Dossier tersebut berfungsi sebagai bahan kerja. Jika proposal dipilih, perbarui 
 - Status: total daratan hasil render sekitar 30,00017% permukaan bola; proporsi relatif target lama dipertahankan.
 - Pekerjaan terbuka: uji containment pada geometri lempeng V1.0-R, orientasi globe, lalu konsistensi relief dan hidrologi.
 - Seluruh geometri tetap NON-CANON.
+
+## Audit containment lempeng
+
+- [Plate Containment — Common Orientation Search V0.1](Plate-Containment-Orientation-Search-V0.1.md) — pencarian rotasi global bersama antara enam benua V0.6 dan lempeng V1.0-R.
+- Hasil: 40.000 rotasi global acak deterministik dan grid kasar tidak menemukan satu orientasi yang membuat keenam benua sepenuhnya masuk ke muka lempeng pembawanya.
+- Orientasi sampel terbaik hanya menempatkan seluruh titik sampel Sunken Sands di dalam muka Sands; total 115/368 titik sampel berada pada muka yang ditetapkan.
+- Batas: pencarian ini bukan bukti matematis bahwa orientasi valid mustahil dan belum merupakan uji poligon sferis penuh.
+- Status: containment BELUM LOLOS; seluruh hasil NON-CANON.
