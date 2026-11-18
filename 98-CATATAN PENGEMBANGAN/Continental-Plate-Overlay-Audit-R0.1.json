@@ -1,0 +1,203 @@
+{
+  "model": "The Dancing Demon — Continental and Plate Overlay R0.1",
+  "version": "0.1",
+  "date": "2026-11-18",
+  "status": "DEVELOPMENT / NON-CANON / ILLUSTRATIVE REGISTRATION",
+  "registration": {
+    "method": "Identity registration of inverse-stereographic plate model to V0.6 geographic frame",
+    "definition": "Plate projection pole aligned to geographic North Pole; positive planar x-axis aligned to equator at longitude 0°; positive planar y-axis aligned to equator at longitude +90°.",
+    "geographic_orientation_selected": false,
+    "why": "A deterministic reference overlay is needed to inspect many-to-many intersections. This coordinate convention is not a claim about the intended final world orientation."
+  },
+  "sources": {
+    "continents": "World-Atlas-Continental-Silhouette-V0.6.svg",
+    "plates": "World-Plate-Geometry-V1.0-R-reconstructed.json"
+  },
+  "raster_audit": {
+    "method": "Equal-area raster using uniform longitude and uniform sin(latitude); cell-center point-in-polygon classification",
+    "longitude_step_degrees": 1,
+    "sin_latitude_step": 0.005,
+    "cells": 144000,
+    "plate_area_percent_surface": {
+      "Central": 18.00347222222222,
+      "Verdant": 11.996527777777779,
+      "Sands": 9.999305555555555,
+      "Frost": 7.997916666666667,
+      "Ashen": 7.00625,
+      "Veiled": 10.993055555555555,
+      "North Ocean": 14.001388888888888,
+      "West Ocean": 11.002777777777778,
+      "Southeast Ocean": 8.999305555555555
+    },
+    "continent_area_percent_surface": {
+      "Frostbound": 4.5055555555555555,
+      "Verdant Wilds": 5.4,
+      "Central Reach": 7.196527777777778,
+      "Sunken Sands": 3.9,
+      "Ashen Frontier": 2.703472222222222,
+      "Veiled Continent": 6.2972222222222225
+    },
+    "intersection_share_of_continent_percent": {
+      "Frostbound": {
+        "Central": 98.42786683107275,
+        "Verdant": 0,
+        "Sands": 0,
+        "Frost": 0,
+        "Ashen": 1.032675709001233,
+        "Veiled": 0.5394574599260172,
+        "North Ocean": 0,
+        "West Ocean": 0,
+        "Southeast Ocean": 0
+      },
+      "Verdant Wilds": {
+        "Central": 0,
+        "Verdant": 0,
+        "Sands": 0,
+        "Frost": 0,
+        "Ashen": 0,
+        "Veiled": 97.8395061728395,
+        "North Ocean": 0,
+        "West Ocean": 0,
+        "Southeast Ocean": 2.1604938271604937
+      },
+      "Central Reach": {
+        "Central": 0,
+        "Verdant": 42.21750458361478,
+        "Sands": 0,
+        "Frost": 0,
+        "Ashen": 8.819839814725466,
+        "Veiled": 0,
+        "North Ocean": 38.97520023159317,
+        "West Ocean": 9.987455370066582,
+        "Southeast Ocean": 0
+      },
+      "Sunken Sands": {
+        "Central": 0,
+        "Verdant": 67.48575498575498,
+        "Sands": 0,
+        "Frost": 0,
+        "Ashen": 0,
+        "Veiled": 0,
+        "North Ocean": 32.51424501424501,
+        "West Ocean": 0,
+        "Southeast Ocean": 0
+      },
+      "Ashen Frontier": {
+        "Central": 0,
+        "Verdant": 22.96429488826098,
+        "Sands": 0,
+        "Frost": 0,
+        "Ashen": 0.9247367069098382,
+        "Veiled": 0,
+        "North Ocean": 0,
+        "West Ocean": 76.11096840482918,
+        "Southeast Ocean": 0
+      },
+      "Veiled Continent": {
+        "Central": 0,
+        "Verdant": 18.29510366122629,
+        "Sands": 22.0666078517865,
+        "Frost": 23.566387295985884,
+        "Ashen": 0,
+        "Veiled": 0,
+        "North Ocean": 23.114247904719893,
+        "West Ocean": 12.95765328628143,
+        "Southeast Ocean": 0
+      }
+    },
+    "raw_cell_counts": {
+      "Frostbound": {
+        "total": 6488,
+        "byPlate": {
+          "Central": 6386,
+          "Verdant": 0,
+          "Sands": 0,
+          "Frost": 0,
+          "Ashen": 67,
+          "Veiled": 35,
+          "North Ocean": 0,
+          "West Ocean": 0,
+          "Southeast Ocean": 0
+        }
+      },
+      "Verdant Wilds": {
+        "total": 7776,
+        "byPlate": {
+          "Central": 0,
+          "Verdant": 0,
+          "Sands": 0,
+          "Frost": 0,
+          "Ashen": 0,
+          "Veiled": 7608,
+          "North Ocean": 0,
+          "West Ocean": 0,
+          "Southeast Ocean": 168
+        }
+      },
+      "Central Reach": {
+        "total": 10363,
+        "byPlate": {
+          "Central": 0,
+          "Verdant": 4375,
+          "Sands": 0,
+          "Frost": 0,
+          "Ashen": 914,
+          "Veiled": 0,
+          "North Ocean": 4039,
+          "West Ocean": 1035,
+          "Southeast Ocean": 0
+        }
+      },
+      "Sunken Sands": {
+        "total": 5616,
+        "byPlate": {
+          "Central": 0,
+          "Verdant": 3790,
+          "Sands": 0,
+          "Frost": 0,
+          "Ashen": 0,
+          "Veiled": 0,
+          "North Ocean": 1826,
+          "West Ocean": 0,
+          "Southeast Ocean": 0
+        }
+      },
+      "Ashen Frontier": {
+        "total": 3893,
+        "byPlate": {
+          "Central": 0,
+          "Verdant": 894,
+          "Sands": 0,
+          "Frost": 0,
+          "Ashen": 36,
+          "Veiled": 0,
+          "North Ocean": 0,
+          "West Ocean": 2963,
+          "Southeast Ocean": 0
+        }
+      },
+      "Veiled Continent": {
+        "total": 9068,
+        "byPlate": {
+          "Central": 0,
+          "Verdant": 1659,
+          "Sands": 2001,
+          "Frost": 2137,
+          "Ashen": 0,
+          "Veiled": 0,
+          "North Ocean": 2096,
+          "West Ocean": 1175,
+          "Southeast Ocean": 0
+        }
+      }
+    },
+    "note": "Raster estimates, not exact spherical polygon clipping. Grid quantization and cell-center classification introduce small errors."
+  },
+  "limits": [
+    "Plate-face labels do not establish crust type.",
+    "The overlay does not establish boundary type, plate motion, subduction, seafloor spreading, or geodynamic plausibility.",
+    "Continents crossing multiple plates is allowed by the active many-to-many framework.",
+    "Registration is illustrative and is not final geography or CANON."
+  ],
+  "canon_changed": false
+}
