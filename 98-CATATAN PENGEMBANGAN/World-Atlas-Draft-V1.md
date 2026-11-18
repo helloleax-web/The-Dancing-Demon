@@ -336,7 +336,7 @@ Catatan desain pada iterasi berikutnya:
 **Status:** siluet konseptual V0.1, NON-CANON, belum lolos audit luas dan containment.
 
 
-## 10. Studi siluet makro enam benua — V1
+## Studi siluet makro enam benua — V1
 
 Pratinjau visual pertama susunan daratan tersedia pada [World-Atlas-Continental-Silhouette-Draft.svg](World-Atlas-Continental-Silhouette-Draft.svg).
 
@@ -437,7 +437,7 @@ V0.4 belum menetapkan proyeksi, orientasi globe, koordinat geografis, jarak nyat
 **Status:** V0.4 lulus audit geometri bidang, bingkai, dan non-overlap. Tetap NON-CANON dan merupakan studi desain garis pantai, bukan peta geografis final.
 
 
-## 13. Kerangka koordinat geografis — V0.5
+## Kerangka koordinat geografis — V0.5
 
 **Status: CATATAN PENGEMBANGAN / NON-CANON.** V0.5 menambahkan kerangka orientasi dan koordinat sementara pada studi siluet. Versi ini bukan peta geografis final dan tidak mengesahkan koordinat dunia sebagai CANON.
 
