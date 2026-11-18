@@ -9,7 +9,7 @@
 
 ## 1. Ringkasan
 
-Putaran pemeliharaan lanjutan memperluas dokumen spesies dan ekologi dari inventaris singkat menjadi kerangka klasifikasi yang dapat dipakai tanpa mengesahkan ras atau makhluk baru. Dokumen peradaban, politik, ekonomi, dan budaya juga diperluas menjadi kerangka desain masyarakat dengan batas kewenangan lembaga CANON yang dijaga. Outline Buku I diselaraskan kembali dengan enam bagian yang telah tercantum dalam kerangka cerita CANON. World Map Framework juga diselaraskan dengan perkembangan V0.6–V1.0: parameter planet, asumsi 30/70, sirkulasi global, dan kandidat relief/hidrologi kini dicatat sebagai proposal kerja bertahap; V1.0-reference ditandai sebagai arsip historis dan V1.0-R sebagai baseline yang dapat direproduksi.
+Putaran pemeliharaan lanjutan memperluas dokumen spesies dan ekologi dari inventaris singkat menjadi kerangka klasifikasi yang dapat dipakai tanpa mengesahkan ras atau makhluk baru. Dokumen peradaban, politik, ekonomi, dan budaya juga diperluas menjadi kerangka desain masyarakat dengan batas kewenangan lembaga CANON yang dijaga. Outline Buku I diselaraskan kembali dengan enam bagian yang telah tercantum dalam kerangka cerita CANON, lalu ditambah matriks fungsi dan transisi untuk seluruh 19 adegan agar tujuan, hambatan, perubahan keadaan, dan sebab-akibat lebih mudah diuji. World Map Framework juga diselaraskan dengan perkembangan V0.6–V1.0: parameter planet, asumsi 30/70, sirkulasi global, dan kandidat relief/hidrologi kini dicatat sebagai proposal kerja bertahap; V1.0-reference ditandai sebagai arsip historis dan V1.0-R sebagai baseline yang dapat direproduksi.
 
 Tiga ketidaksinkronan dokumentasi yang masih tersisa diperbaiki:
 
@@ -26,7 +26,7 @@ Tiga ketidaksinkronan dokumentasi yang masih tersisa diperbaiki:
 | [World Map Framework](../98-CATATAN%20PENGEMBANGAN/World-Map-Framework.md) | Memperjelas bahwa enam benua adalah draft aktif terpilih, bukan opsi yang belum dipilih atau CANON. |
 | [Species and Creatures](../98-CATATAN%20PENGEMBANGAN/Species-and-Creatures.md) | Dikembangkan menjadi Draft 0.2: klasifikasi berlapis, ekologi, relasi mana-organisme, ancaman administratif, dan format bestiary. |
 | [Civilizations, Politics, Economy, and Culture](../98-CATATAN%20PENGEMBANGAN/Civilizations-Politics-Economy-Culture.md) | Dikembangkan menjadi Draft 0.2: desain pemerintahan, hukum peninggalan, ekonomi, mata uang, kelas sosial, budaya, pendidikan, militer, dan organisasi eksplorasi. |
-| [Book I Scene Outline](../98-CATATAN%20PENGEMBANGAN/Book-I-Scene-Outline-Draft-0.1.md) | Memisahkan “Harga Sebuah Informasi” menjadi bagian IV, sehingga outline kembali memiliki enam bagian sesuai kerangka CANON. |
+| [Book I Scene Outline](../98-CATATAN%20PENGEMBANGAN/Book-I-Scene-Outline-Draft-0.1.md) | Memisahkan “Harga Sebuah Informasi” menjadi bagian IV dan menambahkan matriks fungsi/transisi untuk 19 adegan. |
 | [World Map Framework](../98-CATATAN%20PENGEMBANGAN/World-Map-Framework.md) | Menyelaraskan status parameter planet, iklim, asumsi 30/70, data luas benua, dan sejarah versi V1.0/V1.0-R. |
 
 ## 3. Status geometri atlas
