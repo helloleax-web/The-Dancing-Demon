@@ -145,3 +145,12 @@ Dokumen konsolidasi ini dibuat berdasarkan lore yang telah ditetapkan dalam perc
 - Keputusan: Redaksi pada ringkasan dunia, ringkasan Great War, panduan kontinuitas, dokumen CANON Great War, dan laporan audit diperjelas menjadi “musik yang kemudian diketahui bernama NVR AGAIN”. Ini menghindari kesan bahwa nama tersebut telah diketahui masyarakat saat perang berlangsung, sementara fakta bahwa Prasasti pertama mengungkap nama itu tetap dipertahankan.
 - Dokumen yang diperbarui: `00-CORE/01-Ringkasan-Dunia.md`, `00-CORE/05-Great-War-dan-Resonansi-Hitam.md`, `00-CORE/09-Kanon-dan-Kontinuitas.md`, `01-CANON/Great-War-and-Resonansi-Hitam.md`, dan `99-ADMIN/Canon-Audit-Report-2026-11-18.md`.
 - Apakah ini retcon?: Tidak. Klarifikasi redaksional tanpa perubahan fakta.
+
+
+## Catatan mystery ledger 2026-11-18
+
+- Tanggal: 2026-11-18
+- Topik: Pengelolaan misteri dan foreshadowing lintas delapan buku.
+- Keputusan: Menambahkan Mystery and Foreshadowing Ledger Draft 0.1 untuk membedakan fakta yang diketahui, informasi karakter, petunjuk, jendela pengungkapan, dan batas misteri. Ledger menggunakan fakta serta urutan buku yang sudah ada; pilihan pengembangan baru tetap NON-CANON. README, indeks inti, panduan baca, Story Framework, Series Architecture, dan Coverage Matrix ditautkan ke dokumen ini.
+- Dokumen yang diperbarui: `README.md`, `BACA-DULU.md`, `00-CORE/00-README.md`, `98-CATATAN PENGEMBANGAN/Story-Framework.md`, `Eight-Book-Series-Architecture-Draft-0.1.md`, `Worldbuilding-Coverage-Matrix.md`, dan dokumen baru `Mystery-and-Foreshadowing-Ledger-Draft-0.1.md`.
+- Apakah ini retcon?: Tidak. Dokumen baru berstatus CATATAN PENGEMBANGAN.
