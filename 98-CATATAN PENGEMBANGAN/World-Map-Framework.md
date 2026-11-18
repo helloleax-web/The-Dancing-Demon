@@ -2463,3 +2463,14 @@ Rujukan: [Plate Boundary Topology Inventory V0.1](Plate-Boundary-Topology-Invent
 **Tahap berikutnya:** jika model gerak dikembangkan, gunakan satu vektor kecepatan sudut kaku untuk tiap lempeng. Selisih gerak relatif pada simpul harus konsisten secara siklik sebelum klasifikasi batas, subduksi, atau pemekaran ditetapkan. Nama muka tidak boleh dipakai sebagai pengganti data jenis kerak.
 
 **Status:** NON-CANON. Tidak ada perubahan CANON.
+
+
+### 7.53 Kerangka validasi kinematika lempeng V0.1
+
+Sebelum menetapkan tipe batas, dibangun spesifikasi metode gerak kaku untuk sembilan lempeng. Setiap lempeng akan direpresentasikan oleh vektor kecepatan sudut; gerak relatif diuraikan menjadi komponen normal dan tangensial pada 21 batas. Tiga kendala normal pada setiap triple junction harus menghasilkan satu kecepatan junction yang konsisten. Penutupan aljabar selisih gerak relatif saja tidak cukup untuk meloloskan uji junction.
+
+Parameter gerak belum dipilih: 27 komponen skalar mentah dikurangi tiga derajat kebebasan rotasi global menghasilkan 24 parameter gerak relatif independen. Belum ada satuan waktu, Euler pole, arah/kecepatan, atau lempeng referensi. Klasifikasi konvergen/divergen/transform harus menunggu solusi dan uji stabilitas sampling. Jenis kerak dan polaritas subduksi memerlukan audit terpisah.
+
+Rujukan: [Plate Kinematics Model Framework V0.1](Plate-Kinematics-Model-Framework-V0.1.md) dan [data JSON](Plate-Kinematics-Model-Framework-V0.1.json).
+
+**Status:** spesifikasi metode saja; tidak ada tipe batas atau geodinamika yang ditetapkan. NON-CANON.
