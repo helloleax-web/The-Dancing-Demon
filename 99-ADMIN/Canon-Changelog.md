@@ -300,3 +300,13 @@ Dokumen konsolidasi ini dibuat berdasarkan lore yang telah ditetapkan dalam perc
 - Batas validasi: lolosnya uji luas aritmetis tidak membuktikan containment poligon. Penempatan geografis, iklim regional, geologi, dan hidrologi terukur tetap belum divalidasi.
 - Dampak CANON: tidak ada. Semua materi atlas tetap NON-CANON.
 - Dokumen terkait: `98-CATATAN PENGEMBANGAN/World-Map-Framework.md`, `98-CATATAN PENGEMBANGAN/World-Atlas-Draft-V1.md`, dan audit JSON V0.6–V1.0.
+
+
+## Penguatan sebab-akibat outline Buku I — 2026-11-18
+
+- Tanggal: 2026-11-18
+- Topik: Penambahan matriks fungsi dan transisi adegan untuk Book I Scene Outline.
+- Perubahan: seluruh 19 adegan kini memiliki tujuan langsung, hambatan utama, dan perubahan/hasil yang harus terasa; ditambahkan uji transisi agar sebab-akibat antaradegan tidak bergantung pada kebetulan.
+- Batas: matriks merupakan arahan penulisan NON-CANON dan tidak menambah fakta plot atau mengubah misteri utama.
+- Dampak CANON: tidak ada.
+- Dokumen terkait: `98-CATATAN PENGEMBANGAN/Book-I-Scene-Outline-Draft-0.1.md` dan `99-ADMIN/Repository-Maintenance-Report-2026-11-18.md`.
