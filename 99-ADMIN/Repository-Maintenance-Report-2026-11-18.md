@@ -254,3 +254,14 @@ Artefak: [inventaris Markdown](../98-CATATAN%20PENGEMBANGAN/Plate-Boundary-Topol
 Batas interpretasi: tidak ada tipe batas, arah gerak, kecepatan, jenis kerak, subduksi, atau pemekaran yang ditetapkan. Inventaris hanya mengunci adjacency topologis. Semua tetap NON-CANON.
 
 Tidak ada perubahan CANON.
+
+
+## Kerangka validasi kinematika lempeng V0.1 — 2026-11-19
+
+Disusun spesifikasi metode untuk model gerak sembilan lempeng sebagai benda tegar pada bola. Setiap lempeng memiliki vektor kecepatan sudut; 27 komponen mentah memiliki tiga derajat kebebasan rotasi global sehingga 24 parameter gerak relatif independen. Dokumen menetapkan dekomposisi gerak relatif menjadi komponen normal/tangensial, pemeriksaan perubahan tanda sepanjang batas, dan uji satu kecepatan bersama pada setiap triple junction.
+
+Belum ada vektor gerak, Euler pole, satuan waktu, lempeng referensi, jenis kerak, tipe batas, polaritas subduksi, pusat pemekaran, atau sabuk pegunungan yang dipilih. Kerangka ini adalah spesifikasi metode untuk mencegah geologi ditetapkan secara arbitrer.
+
+Artefak: [kerangka Markdown](../98-CATATAN%20PENGEMBANGAN/Plate-Kinematics-Model-Framework-V0.1.md), [data JSON](../98-CATATAN%20PENGEMBANGAN/Plate-Kinematics-Model-Framework-V0.1.json). Semua NON-CANON.
+
+Tidak ada perubahan CANON.
