@@ -34,6 +34,7 @@ Dokumen berikut merupakan draft NON-CANON dan tidak menggantikan Bible rujukan:
 - [Species, Creatures, and Ecology — Draft 0.2](../98-CATATAN%20PENGEMBANGAN/Species-and-Creatures.md) — klasifikasi makhluk, ekologi, biogeografi, dan standar bestiary; seluruh proposal tetap NON-CANON.
 - [Civilizations, Politics, Economy, and Culture — Draft 0.2](../98-CATATAN%20PENGEMBANGAN/Civilizations-Politics-Economy-Culture.md) — kerangka masyarakat, pemerintahan, ekonomi, hukum peninggalan, budaya, dan institusi; seluruh proposal tetap NON-CANON.
 - [Book I Heritage Dispute Framework — Draft 0.1](../98-CATATAN%20PENGEMBANGAN/Book-I-Heritage-Dispute-Framework-Draft-0.1.md) — model sengketa hak, klaim pemulihan, dan kesepakatan sementara fasilitas Buku I; NON-CANON.
+- [World Atlas — Spherical Continental Area Audit V0.1](../98-CATATAN%20PENGEMBANGAN/World-Atlas-Spherical-Continental-Area-Audit-V0.1.md) — audit luas sferis siluet enam benua; NON-CANON.
 
 ## Status informasi
 
