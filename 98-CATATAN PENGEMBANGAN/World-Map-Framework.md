@@ -2416,3 +2416,14 @@ Setelah overlay terukur, baru tentukan tipe batas, arah gerak, zona subduksi, pu
 Seluruhnya tetap NON-CANON. Tidak ada lokasi cerita, karakter, organisasi, atau misteri yang diubah.
 
 Rujukan: [Plate–Continent Relationship Framework V0.1](Plate-Continent-Relationship-Framework-V0.1.md).
+
+
+### 7.48 Overlay benua–lempeng R0.1
+
+Dibuat registrasi identitas untuk melihat irisan enam siluet V0.6 terhadap sembilan muka V1.0-R dalam satu bingkai geografis. Kutub proyeksi disejajarkan dengan Kutub Utara; sumbu +x dengan ekuator/bujur 0°; sumbu +y dengan ekuator/bujur +90°. Ini hanya konvensi referensi, bukan orientasi dunia final.
+
+Matriks irisan awal menggunakan raster luas sama 1° bujur dan 0,005 sin(latitude), total 144.000 sel. Nilai luas lempeng mendekati target V1.0-R; total daratan grid mendekati 30%. Karena masih raster, angka irisan bukan clipping sferis eksak.
+
+Rujukan: [Overlay R0.1](Continental-Plate-Overlay-R0.1.md), [peta SVG](World-Atlas-Continental-Plate-Overlay-R0.1.svg), [audit JSON](Continental-Plate-Overlay-Audit-R0.1.json).
+
+**Status:** overlay awal tersedia; orientasi final, geologi, dan geodinamika belum dipilih atau divalidasi. NON-CANON.
