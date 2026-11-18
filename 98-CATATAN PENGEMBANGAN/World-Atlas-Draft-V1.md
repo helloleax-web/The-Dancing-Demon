@@ -488,3 +488,72 @@ Rentang di atas merupakan konversi *bounding box* SVG ke kerangka sementara, buk
 - Luas geodesik, jarak antarbenua, arus laut, angin, iklim, bioma, dan containment lempeng.
 
 Tidak ada garis batas lempeng yang ditambahkan. Garis pantai tidak sama dengan batas lempeng. Seluruh penempatan dan koreksi pada V0.5 tetap NON-CANON.
+
+## 14. Parameter planet dan kerangka lintang iklim — V0.6
+
+**Status: CATATAN PENGEMBANGAN / NON-CANON.** V0.6 menetapkan satu baseline fisik bergaya Bumi agar tahap geografi fisik dapat dihitung secara konsisten. Nilai-nilai ini merupakan proposal kerja, bukan fakta CANON.
+
+Berkas:
+- [World-Atlas-Climate-Latitude-Framework-V0.6.svg](World-Atlas-Climate-Latitude-Framework-V0.6.svg)
+- [World-Atlas-Planetary-Parameters-Audit-V0.6.json](World-Atlas-Planetary-Parameters-Audit-V0.6.json)
+
+### 14.1 Baseline parameter planet
+
+| Parameter | Nilai kerja | Status |
+|---|---:|---|
+| Radius rata-rata | 6.371 km | Proposal referensi Bumi |
+| Massa | 5,972 × 10²⁴ kg | Proposal referensi Bumi |
+| Gravitasi permukaan rata-rata | 9,81 m/s² | Konsisten dengan massa dan radius referensi |
+| Keliling rata-rata | ±40.030 km | Turunan radius, dibulatkan |
+| Luas permukaan | ±510,1 juta km² | Turunan radius, dibulatkan |
+| Rotasi hari matahari | 24 jam | Proposal |
+| Rotasi sideris | ±23 jam 56 menit | Referensi Bumi |
+| Kemiringan sumbu | 23,44° | Proposal |
+| Periode orbit tropis | 365,2422 hari | Proposal |
+| Eksentrisitas orbit | 0,0167 | Referensi Bumi |
+| Jarak orbit rata-rata | 1 AU | Referensi orbit bintang bermassa Matahari |
+| Luminositas bintang | 1 luminositas Matahari | Acuan bintang setara Matahari |
+| Irradiasi rata-rata di puncak atmosfer | ±1.361 W/m² | Referensi Bumi |
+
+Parameter ini membentuk model planet terestrial yang mendekati Bumi dalam ukuran, gravitasi, rotasi, kemiringan sumbu, dan penerimaan energi bintang. Itu pilihan teknis sementara agar iklim dan geografi dapat dibangun tanpa mengarang skala baru pada setiap tahap.
+
+### 14.2 Konsekuensi kemiringan sumbu
+
+Dengan kemiringan sumbu 23,44°:
+- Tropic of Cancer berada pada 23,44° LU.
+- Tropic of Capricorn berada pada 23,44° LS.
+- Arctic Circle berada pada 66,56° LU.
+- Antarctic Circle berada pada 66,56° LS.
+
+Garis tersebut merupakan batas astronomis lintang, bukan batas otomatis gurun, hutan, tundra, atau iklim tertentu. Dua belahan mengalami fase musim yang berlawanan. Intensitas musim tetap dipengaruhi eksentrisitas orbit, atmosfer, distribusi daratan-lautan, dan sirkulasi samudra.
+
+### 14.3 Kerangka sirkulasi atmosfer awal
+
+Sebagai model konseptual, sirkulasi global dapat dimulai dari tiga sel per belahan:
+- **Hadley:** kira-kira 0°–30°.
+- **Ferrel:** kira-kira 30°–60°.
+- **Polar:** kira-kira 60°–90°.
+
+Batas sel tidak tetap pada garis lintang yang presisi. Posisi dan kekuatannya bergeser menurut musim dan dipengaruhi distribusi daratan, pegunungan, serta suhu permukaan laut. Karena itu, rentang ini hanya kerangka awal, bukan peta angin final.
+
+### 14.4 Asumsi daratan dan perairan
+
+Asumsi kerja sebelumnya tetap 30% daratan dan 70% perairan. Dengan luas permukaan referensi sekitar 510,1 juta km², konsekuensinya:
+- Daratan: sekitar 153,0 juta km².
+- Perairan: sekitar 357,1 juta km².
+
+Angka ini hanya hasil aritmetika dari asumsi 30/70. Belum ada pengukuran geodesik atas enam benua dan belum ada keputusan CANON mengenai luas planet atau persentase lautan.
+
+### 14.5 Hal yang belum ditetapkan
+
+- Komposisi, tekanan, massa, dan kelembapan atmosfer.
+- Konsentrasi gas rumah kaca dan perilaku awan.
+- Bulan, pasang surut, dan konfigurasi sistem planet.
+- Arus laut, pola angin, curah hujan, dan distribusi panas.
+- Suhu rata-rata global dan rentang suhu regional.
+- Batas bioma, gurun, hutan, tundra, gletser, dan tutupan es.
+- Proyeksi kartografis final dan validasi geodesik.
+
+**Peringatan:** lingkar tropis dan lingkar kutub pada SVG hanya diturunkan dari kemiringan sumbu usulan. Jangan menganggapnya sebagai batas iklim atau bioma. Peta V0.6 belum merupakan peta iklim.
+
+**Status keputusan:** baseline Bumi dipilih sebagai proposal kerja NON-CANON untuk melanjutkan pemodelan. Tidak ada perubahan pada siluet benua, geometri lempeng, lokasi cerita, atau CANON.
