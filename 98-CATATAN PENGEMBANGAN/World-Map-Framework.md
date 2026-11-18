@@ -1765,16 +1765,16 @@ Proposal lama lain yang belum disahkan:
 
 ## 10. Langkah kerja berikutnya
 
-Urutan kerja yang disarankan:
+Rancangan makro enam benua dan anggaran luas kerja sudah dicatat pada 7.27. Urutan pekerjaan yang tersisa:
 
-1. Konfirmasi final apakah model planet dan skala setara Bumi akan menjadi CANON.
-2. Uji proporsi luas dan karakter siluet pada bagian 7.7 melalui sketsa makro enam benua; persentase saat ini hanya usulan.
-3. Uji komposisi satu kelompok utama dan tiga daratan terpencil pada bagian 7.8; jangan menetapkan koordinat sebelum susunannya disetujui.
-3. Revisi komposisi daratan dan perairan sampai kreator menyetujui draft bentuk global.
-4. Tentukan rentang lintang, pola iklim, dan bioma berdasarkan bentuk dunia yang disepakati.
-5. Tempatkan jangkar cerita Buku I setelah kreator menentukan hubungan antar lokasi.
-6. Tambahkan negara, jalur perjalanan, pusat permukiman, dan wilayah peninggalan sesuai kebutuhan cerita.
-7. Buat peta visual draft, lalu audit jarak, iklim, rute, dan kontinuitas.
+1. Minta persetujuan kreator atas asumsi total daratan 30% dan distribusi ukuran benua 24/21/18/15/13/9; keduanya masih NON-CANON.
+2. Pulihkan atau simpan koordinat planar presisi V1.0, bukan hanya koordinat bola yang dibulatkan dua desimal.
+3. Bangun poligon siluet keenam benua di dalam enam lempeng pembawa, lalu uji containment, margin samudra, dan luas aktual pada bola.
+4. Putar orientasi globe agar susunan tiga benua utama dan tiga daratan terpencil sesuai hubungan relatif pada 7.27.3.
+5. Buat peta visual draft dengan proyeksi yang dinyatakan, lalu audit garis pantai, jarak, dan hubungan antarbenua.
+6. Setelah bentuk dan orientasi disetujui, tentukan lintang iklim, arus laut, angin, relief, dan bioma.
+7. Tempatkan jangkar cerita Buku I hanya setelah hubungan geografisnya mendapat keputusan kreator.
+8. Tambahkan negara, jalur perjalanan, pusat permukiman, dan wilayah peninggalan sesuai kebutuhan cerita.
 
 ## 11. Pertanyaan yang harus dijawab sebelum menggambar peta
 
@@ -1782,7 +1782,8 @@ Pertanyaan ini sengaja dibiarkan terbuka. Jangan isi berdasarkan asumsi.
 
 - Apakah pilihan sementara planet dan skala kurang lebih setara Bumi dikonfirmasi sebagai CANON?
 - Apakah rancangan kerja penempatan enam benua pada bagian 7.8 perlu direvisi setelah dibuat sketsa visual?
-- Apakah distribusi ukuran relatif pada bagian 7.7 (24/21/18/15/13/9 dari total luas daratan) layak dipakai untuk sketsa, atau perlu diubah?
+- Apakah distribusi ukuran relatif pada bagian 7.7 (24/21/18/15/13/9 dari total luas daratan) disetujui sebagai baseline, atau perlu diubah?
+- Apakah asumsi kerja total luas daratan 30% pada bagian 7.27 disetujui untuk menjadi dasar uji geometri, atau kreator ingin angka lain?
 - Apakah karakter siluet awal keenam benua pada bagian 7.7 sesuai, atau ada benua yang ingin lu bentuk ulang?
 - Apakah peta awal harus mencakup seluruh dunia atau hanya wilayah cerita Buku I?
 - Apakah enam nama benua dari proposal lama masih ingin dipertimbangkan?
