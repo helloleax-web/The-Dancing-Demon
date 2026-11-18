@@ -156,11 +156,13 @@ Pemeriksaan Euler:
 `14 - 21 + 9 = 2`
 konsisten dengan karakteristik topologi partisi bola, tetapi tidak membuktikan sendiri ketepatan embedding, luas, atau geometri batas.
 
+Referensi pengembangan V1.1 berbasis Tutte kini juga tersedia. Kandidat tersebut melaporkan embedding planar tanpa persilangan dan memenuhi pemeriksaan topologi dasar, tetapi target luas permukaan tidak terpenuhi dan uji containment belum dilakukan. Distribusi luasnya menyimpang besar dari target (misalnya Central 53,49% dibanding target 18%; Southeast Ocean 0,95% dibanding target 9%). Karena itu V1.1 adalah kandidat embedding, bukan pengganti peta lempeng yang sudah seimbang.
+
 **Dampak:** angka hasil V1.0 dapat dikutip sebagai hasil yang terdokumentasi, tetapi belum layak diklaim telah diverifikasi ulang secara independen dari data presisi yang tersedia.
 
 **Rekomendasi:** pulihkan koordinat planar dan skrip asli jika tersedia. Jika tidak, lakukan rekonstruksi baru dengan label versi baru (misalnya V1.0-R), dokumentasikan metode, dan jalankan ulang pemeriksaan geometri serta luas. Jangan menyebut rekonstruksi sebagai identik dengan V1.0 asli tanpa bukti.
 
-**Sumber:** [World Atlas Draft V1](../98-CATATAN%20PENGEMBANGAN/World-Atlas-Draft-V1.md), bagian status geometri dan lampiran; [World Map Framework](../98-CATATAN%20PENGEMBANGAN/World-Map-Framework.md), bagian pemulihan V1.0; referensi [World Plate Geometry V1.0](../98-CATATAN%20PENGEMBANGAN/World-Plate-Geometry-V1.0-reference.json).
+**Sumber:** [World Atlas Draft V1](../98-CATATAN%20PENGEMBANGAN/World-Atlas-Draft-V1.md), bagian status geometri dan lampiran; [World Map Framework](../98-CATATAN%20PENGEMBANGAN/World-Map-Framework.md), bagian pemulihan V1.0; referensi [World Plate Geometry V1.0](../98-CATATAN%20PENGEMBANGAN/World-Plate-Geometry-V1.0-reference.json). Kandidat pembanding: [World Plate Geometry V1.1 Tutte](../98-CATATAN%20PENGEMBANGAN/World-Plate-Geometry-V1.1-Tutte-candidate.json).
 
 ## 4. Pemeriksaan lintas-domain
 
