@@ -43,7 +43,7 @@ Informasi berikut boleh dipakai sebagai jangkar kerja, tetapi tidak memberikan k
 - Jalan batu dan fasilitas Buku I belum memiliki nama resmi yang dikonfirmasi.
 - Tempat lain yang ditunjuk salinan catatan belum diketahui.
 - Lokasi 13 Prasasti belum ditentukan.
-- Tidak ada jumlah benua, negara, samudra, atau ukuran planet yang sudah ditetapkan dalam sumber yang diperiksa.
+- Belum ada jumlah benua, negara, samudra, atau ukuran planet yang disahkan sebagai CANON. Untuk geografi, enam benua terpisah telah dipilih sebagai draft pengembangan; pilihan ini tidak sama dengan pengesahan CANON.
 
 ## 3. Tahap keputusan geografi
 
@@ -53,7 +53,7 @@ Bagian ini membedakan pilihan kerja yang sudah disampaikan kreator dari keputusa
 |---|---|---|
 | A. Model dunia | Planet, dunia datar, struktur berlapis, atau model lain? | **PILIHAN SEMENTARA: planet** — menunggu konfirmasi final sebelum CANON. |
 | B. Skala fisik | Ukuran dunia, gravitasi, satelit, dan siklus astronomi seperti apa? | **PILIHAN SEMENTARA: kurang lebih setara Bumi** — menunggu konfirmasi final sebelum CANON. Gravitasi, satelit, rotasi, dan orbit belum diputuskan. |
-| C. Bentuk daratan | Berapa benua dan pulau besar? Bagaimana bentuk garis pantainya? | BELUM DIPUTUSKAN |
+| C. Bentuk daratan | Bagaimana bentuk garis pantai, pulau besar, dan detail bentuk daratan? | **DRAFT TERPILIH:** enam benua terpisah, berukuran sangat bervariasi, dengan satu kelompok utama dan beberapa daratan terpencil. Belum CANON; bentuk rinci, garis pantai, dan posisi tepat masih terbuka. |
 | D. Perairan | Bagaimana pembagian samudra, laut, dan perairan pedalaman? | BELUM DIPUTUSKAN |
 | E. Iklim dan bioma | Bagaimana pola iklim, arus, angin, dan bioma? | BELUM DIPUTUSKAN |
 | F. Wilayah politik | Negara, kerajaan, wilayah otonom, dan perbatasan mana yang diperlukan? | BELUM DIPUTUSKAN |
