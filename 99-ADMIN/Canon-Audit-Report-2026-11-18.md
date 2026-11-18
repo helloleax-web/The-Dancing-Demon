@@ -166,6 +166,39 @@ Referensi pengembangan V1.1 berbasis Tutte kini juga tersedia. Kandidat tersebut
 
 **Sumber:** [World Atlas Draft V1](../98-CATATAN%20PENGEMBANGAN/World-Atlas-Draft-V1.md), bagian status geometri dan lampiran; [World Map Framework](../98-CATATAN%20PENGEMBANGAN/World-Map-Framework.md), bagian pemulihan V1.0; referensi [World Plate Geometry V1.0](../98-CATATAN%20PENGEMBANGAN/World-Plate-Geometry-V1.0-reference.json). Kandidat pembanding: [World Plate Geometry V1.1 Tutte](../98-CATATAN%20PENGEMBANGAN/World-Plate-Geometry-V1.1-Tutte-candidate.json).
 
+### A-06 — Nomor bagian duplikat pada dokumen atlas
+
+**Klasifikasi:** Risiko navigasi dan referensi internal  
+**Prioritas:** P2  
+**Status:** SELESAI — nomor bagian diperjelas pada 2026-11-18
+
+World Map Framework memiliki dua rangkaian bagian bernomor 7.26 dan 7.27 akibat penambahan iterasi pengembangan. World Atlas Draft V1 juga memiliki dua heading bagian bernomor 10 dan dua heading bernomor 13.
+
+**Dampak:** rujukan silang ke bagian tertentu dapat menunjuk ke dua bagian berbeda, sehingga proses audit dan pengembangan teknis rawan salah rujuk.
+
+**Tindakan:** World Map Framework menggunakan suffix A/B untuk membedakan dua rangkaian 7.26 dan 7.27 beserta rujukan internalnya. World Atlas Draft V1 menghapus nomor pada dua heading iterasi yang menduplikasi nomor bagian. Isi teknis tidak diubah.
+
+**Sumber:** [World Map Framework](../98-CATATAN%20PENGEMBANGAN/World-Map-Framework.md); [World Atlas Draft V1](../98-CATATAN%20PENGEMBANGAN/World-Atlas-Draft-V1.md).
+
+### A-07 — Status historis geometri dan penempatan benua belum dibedakan jelas
+
+**Klasifikasi:** Ambiguitas status pengembangan  
+**Prioritas:** P2  
+**Status:** SELESAI — konteks tahap diperjelas pada 2026-11-18
+
+Beberapa bagian lama dalam World Map Framework masih menyatakan bahwa enam benua belum dipilih atau belum ditempatkan, sementara bagian yang lebih baru sudah memilih enam benua sebagai draft dan memetakan masing-masing ke lempeng pembawa secara konseptual.
+
+Perbedaan yang sebenarnya adalah:
+- Pilihan enam benua dan pemetaan konseptual ke lempeng sudah dibuat sebagai draft.
+- Siluet benua belum ditempatkan secara geometris di dalam poligon lempeng.
+- Uji containment tetap belum dilakukan.
+
+**Dampak:** pembaca dapat salah mengira bahwa pilihan draft belum pernah dibuat, atau sebaliknya menganggap containment geometris sudah terbukti.
+
+**Tindakan:** rekomendasi historis ditandai sebagai tahap sebelumnya; status enam benua sebagai draft aktif diperjelas; status penempatan awal diberi konteks waktu; dan pemetaan konseptual dibedakan dari containment geometris.
+
+**Sumber:** [World Map Framework](../98-CATATAN%20PENGEMBANGAN/World-Map-Framework.md); [World Atlas Draft V1](../98-CATATAN%20PENGEMBANGAN/World-Atlas-Draft-V1.md).
+
 ## 4. Pemeriksaan lintas-domain
 
 Bagian ini mencatat hasil pemeriksaan yang tidak menghasilkan temuan kontradiksi langsung. Status “konsisten” berarti dokumen yang diperiksa tidak saling menyangkal pada fakta yang dinyatakan; bukan berarti seluruh detail domain sudah lengkap.
@@ -279,7 +312,7 @@ Urutan berikut adalah rekomendasi administratif, bukan keputusan canon.
 
 ## 8. Status audit
 
-**Hasil:** tidak ditemukan kontradiksi CANON langsung dalam dokumen utama yang diperiksa. A-01 sampai A-04 telah diselesaikan pada 2026-11-18. A-05 masih terbuka sebagai keterbatasan reproduksibilitas teknis; baseline V1.0 belum diverifikasi ulang secara independen.
+**Hasil:** tidak ditemukan kontradiksi CANON langsung dalam dokumen utama yang diperiksa. A-01 sampai A-04 serta A-06 dan A-07 telah diselesaikan pada 2026-11-18. A-05 masih terbuka sebagai keterbatasan reproduksibilitas teknis; baseline V1.0 belum dapat dihitung ulang secara independen dari koordinat planar presisi.
 
 **Batas:** audit ini mencakup seluruh dokumen Markdown yang terdaftar pada branch saat pemeriksaan dan pemeriksaan tautan relatif antarfile. File SVG, JSON, dan aset visual diperiksa secara selektif berdasarkan keterkaitan dengan temuan; belum seluruhnya divalidasi secara teknis. Riwayat percakapan sumber dan seluruh riwayat commit tidak diaudit secara menyeluruh. Karena itu, laporan ini tidak menyatakan seluruh repository bebas konflik. Dokumen yang ditambahkan setelah pemeriksaan utama—Character Development Dossier, Book I Scene Outline, Location & Organization Dossier, Eight-Book Series Architecture, Glosarium, dan Mystery & Foreshadowing Ledger—tidak termasuk dalam penilaian audit awal ini. Tautan relatifnya diperiksa setelah penambahan, tetapi isi kreatif draft tersebut belum menjadi bagian dari audit kontinuitas awal. Pemeriksaan integritas repository lanjutan kemudian mencakup 40 file Markdown (seluruh tautan relatif lolos), 13 file JSON (semuanya dapat diparse), dan 11 file SVG (masing-masing memiliki elemen root, penutup, dan viewBox). Pemeriksaan struktural ini tidak menggantikan peninjauan visual, validasi XML penuh, atau validasi geometri/geodesik.
 
