@@ -941,7 +941,7 @@ Artefak: [peta overlay R0.1](World-Atlas-Continental-Plate-Overlay-R0.1.svg), [l
 
 ## 12. Kandidat registrasi kompak R0.2
 
-Pencarian 3.000 rotasi global deterministik memakai metrik rata-rata proporsi tiap benua pada muka dominannya. Kandidat R0.2 memperoleh 87,50% pada grid screening dan 87,27% pada audit raster resolusi lebih tinggi; registrasi referensi R0.1 memperoleh 67,61% pada audit yang sama. R0.2 menjadi kandidat kerja yang lebih baik menurut metrik kekompakan tersebut, bukan orientasi geografis final.
+Pencarian 3.000 rotasi global deterministik memakai metrik rata-rata proporsi tiap benua pada muka dominannya. Kandidat R0.2 memperoleh 87,50% pada grid screening dan 87,25% pada audit raster 576.000 sel (0,5° bujur × 0,0025 sin(latitude)); registrasi referensi R0.1 memperoleh 67,59% pada audit yang sama. R0.2 menjadi kandidat kerja yang lebih baik menurut metrik kekompakan tersebut, bukan orientasi geografis final.
 
 Artefak: [peta overlay R0.2](World-Atlas-Continental-Plate-Overlay-R0.2.svg), [laporan R0.2](Continental-Plate-Overlay-R0.2.md), [audit JSON](Continental-Plate-Overlay-Audit-R0.2.json). R0.1 dipertahankan sebagai baseline registrasi identitas.
 
