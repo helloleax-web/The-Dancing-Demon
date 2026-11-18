@@ -338,7 +338,7 @@ Catatan desain pada iterasi berikutnya:
 
 ## 10. Studi siluet makro enam benua — V1
 
-Pratinjau visual pertama susunan daratan tersedia pada [World-Atlas-Silhouette-Concept-V1.svg](World-Atlas-Silhouette-Concept-V1.svg).
+Pratinjau visual pertama susunan daratan tersedia pada [World-Atlas-Continental-Silhouette-Draft.svg](World-Atlas-Continental-Silhouette-Draft.svg).
 
 ### Susunan yang divisualisasikan
 - Kelompok utama: Verdant Wilds di barat daya, Central Reach sebagai jangkar tengah, dan Sunken Sands di tenggara.
