@@ -134,7 +134,7 @@ Bagian ini membahas fasilitas yang ditemukan ekspedisi dalam kerangka Buku I sec
 
 ## CATATAN PENGEMBANGAN geografi
 
-`98-CATATAN PENGEMBANGAN/Geography.md` mengajukan enam benua sebagai konsep kerja. Nama dan deskripsinya berstatus **CATATAN PENGEMBANGAN**, bukan geografi CANON:
+`98-CATATAN PENGEMBANGAN/Geography.md` menyimpan inventaris proposal geografi awal. Dalam [World Map Framework](../98-CATATAN%20PENGEMBANGAN/World-Map-Framework.md), enam benua terpisah dengan satu kelompok utama dan beberapa daratan terpencil telah dipilih sebagai draft pengembangan aktif. Nama dan karakterisasi benua tetap **CATATAN PENGEMBANGAN**, bukan geografi CANON:
 
 - **The Central Reach** — usulan wilayah relatif subur dan beragam.
 - **The Frostbound Expanse** — usulan wilayah dingin di utara.
@@ -144,3 +144,4 @@ Bagian ini membahas fasilitas yang ditemukan ekspedisi dalam kerangka Buku I sec
 - **The Veiled Continent** — usulan wilayah terpencil dan kurang dipetakan.
 
 Sumber: [`98-CATATAN PENGEMBANGAN/Geography.md`](../98-CATATAN%20PENGEMBANGAN/Geography.md), bagian “Enam benua — konsep kerja”. Nama-nama tersebut tidak dimasukkan sebagai fakta geografis kanon.
+\n\nProposal fungsi lokasi yang tercantum dalam indeks tersedia dalam [Location & Organization Development Dossier — Draft 0.1](../98-CATATAN%20PENGEMBANGAN/Location-Organization-Development-Dossier-Draft-0.1.md). Proposal tersebut tidak mengubah fakta lokasi, posisi geografis, atau hubungan yang masih UNKNOWN dalam Bible ini.\n
