@@ -349,3 +349,36 @@ Pratinjau visual pertama susunan daratan tersedia pada [World-Atlas-Continental-
 Gambar adalah studi komposisi dan siluet, bukan proyeksi kartografis atau geometri terukur. Posisi, jarak, ukuran visual, luas poligon, orientasi lintang, containment pada lempeng, dan hubungan garis pantai dengan batas lempeng belum divalidasi. SVG tidak boleh digunakan untuk mengambil koordinat atau menghitung luas. Target porsi luas relatif benua tetap tercatat pada Bagian 1; gambar ini belum membuktikan target tersebut.
 
 **Keputusan desain sementara:** pertahankan susunan tiga benua kelompok utama dan tiga daratan terpencil sebagai komposisi makro V1. Jangan menambah negara, kota, atau lokasi canon pada siluet ini.
+
+## 11. Revisi siluet dan audit luas — V0.2
+
+V0.2 adalah revisi terpisah dari sketsa V0.1. Sumber V0.1 dan auditnya dipertahankan tanpa perubahan.
+
+Berkas:
+- [World-Atlas-Continental-Silhouette-V0.2.svg](World-Atlas-Continental-Silhouette-V0.2.svg)
+- [World-Atlas-Continental-Polygon-Audit-V0.2.json](World-Atlas-Continental-Polygon-Audit-V0.2.json)
+
+### Hasil pengukuran bidang SVG
+
+| Benua | Target porsi daratan | Hasil V0.2 | Selisih |
+|---|---:|---:|---:|
+| Frostbound Expanse | 15% | 15.00% | 0.00 pp |
+| Verdant Wilds | 18% | 18.00% | 0.00 pp |
+| The Central Reach | 24% | 24.00% | 0.00 pp |
+| The Sunken Sands | 13% | 13.00% | 0.00 pp |
+| The Ashen Frontier | 9% | 9.00% | 0.00 pp |
+| The Veiled Continent | 21% | 21.00% | 0.00 pp |
+
+### Pemeriksaan geometri bidang
+
+- Enam poligon benua terdeteksi.
+- Seluruh titik poligon berada di dalam bingkai peta SVG.
+- Tidak ditemukan pasangan poligon yang saling berpotongan atau bertumpang tindih pada pemeriksaan segmen dan point-in-polygon.
+- Bentuk Sunken Sands mengalami transformasi area-preserving dan reposisi ke bagian selatan untuk menghindari tabrakan dengan Central Reach, Ashen Frontier, dan Veiled Continent.
+
+### Batas klaim
+
+Hasil 15/18/24/13/9/21 persen adalah proporsi luas pada bidang gambar SVG berdasarkan rumus Shoelace. Angka ini bukan luas permukaan geodesik planet dan tidak membuktikan proporsi daratan sebenarnya pada globe. Proyeksi, orientasi kutub, koordinat geografis, jarak, serta containment terhadap lempeng belum divalidasi. Label dan keterbacaan visual tetap memerlukan inspeksi desain.
+
+**Status:** V0.2 lulus audit luas bidang, bingkai, dan non-overlap. Tetap NON-CANON dan bukan peta geografis final.
+
