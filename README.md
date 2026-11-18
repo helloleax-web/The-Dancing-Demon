@@ -12,7 +12,7 @@ Dokumen ini adalah pusat dokumentasi dunia LEAX. Isinya memisahkan fakta yang su
 - **RETCON** — perubahan resmi terhadap canon terdahulu.
 
 ### Aturan utama
-1. Jangan mengubah canon tanpa persetujuan kreator.
+1. Perubahan CANON hanya boleh dilakukan dalam mandat atau keputusan kreator dan harus dicatat di Canon Changelog.
 2. Jangan mengangkat usulan pengembangan menjadi canon secara diam-diam.
 3. Jangan mengisi misteri dengan tebakan.
 4. Jika ada kontradiksi, catat dan ajukan opsi penyelesaian.
@@ -22,7 +22,7 @@ Dokumen ini adalah pusat dokumentasi dunia LEAX. Isinya memisahkan fakta yang su
 - [`00-CORE/`](00-CORE/) — ringkasan, indeks, dan panduan kontinuitas. Gunakan indeksnya untuk menemukan sumber detail.
 - [`01-CANON/`](01-CANON/) — rujukan detail untuk fakta CANON. Bible karakter, lokasi, dan organisasi: [Character Bible](01-CANON/Character-Bible.md), [Location Bible](01-CANON/Location-Bible.md), dan [Organization Bible](01-CANON/Organization-Bible.md).
 - [`98-CATATAN PENGEMBANGAN/`](98-CATATAN%20PENGEMBANGAN/) — usulan dan rancangan yang belum disahkan sebagai kanon. Lihat [Worldbuilding Coverage Matrix](98-CATATAN%20PENGEMBANGAN/Worldbuilding-Coverage-Matrix.md) untuk audit cakupan dokumentasi; status dan prioritas di dalamnya bukan penetapan canon.
-- [`99-ADMIN/`](99-ADMIN/) — changelog dan pertanyaan terbuka.
+- [`99-ADMIN/`](99-ADMIN/) — laporan audit, kebijakan editorial, changelog, dan pertanyaan terbuka.
 - [BACA-DULU.md](BACA-DULU.md) — panduan paket dokumen dan jalur baca.
 - [Canon Audit Report — 2026-11-18](99-ADMIN/Canon-Audit-Report-2026-11-18.md) — audit administratif konsistensi dan kontinuitas; tidak mengubah canon.
 - [Editorial and Repository Maintenance Policy](99-ADMIN/Editorial-Maintenance-Policy.md) — mandat editorial, status materi, hierarki sumber, dan standar pemeliharaan.
