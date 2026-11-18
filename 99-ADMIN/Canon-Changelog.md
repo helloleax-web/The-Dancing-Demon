@@ -281,3 +281,12 @@ Dokumen konsolidasi ini dibuat berdasarkan lore yang telah ditetapkan dalam perc
 - Batas: tidak ada negara, mata uang, bahasa, agama, organisasi, atau sistem pemerintahan baru yang disahkan sebagai CANON.
 - Dampak CANON: tidak ada.
 - Dokumen terkait: `98-CATATAN PENGEMBANGAN/Civilizations-Politics-Economy-Culture.md`, `98-CATATAN PENGEMBANGAN/Worldbuilding-Coverage-Matrix.md`, `00-CORE/00-README.md`, `99-ADMIN/Repository-Maintenance-Report-2026-11-18.md`.
+
+
+## Penyelarasan struktur outline Buku I — 2026-11-18
+
+- Tanggal: 2026-11-18
+- Topik: Penyelarasan heading dan pembagian adegan Book I Scene Outline dengan enam bagian Buku I yang tercantum dalam dokumen CANON.
+- Perubahan: “Harga Sebuah Informasi” dipisahkan dari “Hak atas Peninggalan” menjadi Bagian IV; “Keadaan Darurat” menjadi Bagian V; “Peta Tanpa Negeri” menjadi Bagian VI. Nomor adegan dan urutan kejadian tidak berubah.
+- Dampak CANON: tidak ada; outline tetap NON-CANON.
+- Dokumen terkait: `98-CATATAN PENGEMBANGAN/Book-I-Scene-Outline-Draft-0.1.md`, `98-CATATAN PENGEMBANGAN/Worldbuilding-Coverage-Matrix.md`, `99-ADMIN/Repository-Maintenance-Report-2026-11-18.md`.
