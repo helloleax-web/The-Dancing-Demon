@@ -542,3 +542,16 @@ Urutan ini merupakan rekomendasi kerja berdasarkan ketergantungan antarbidang, b
 - [Location Bible](../01-CANON/Location-Bible.md)
 - [Organization Bible](../01-CANON/Organization-Bible.md)
 - [Open Questions](../99-ADMIN/Open-Questions.md)
+
+
+---
+
+## Dokumen pengembangan pendukung
+
+Dokumen berikut dibuat untuk menindaklanjuti kekosongan yang dipetakan dalam matriks. Semuanya berstatus **CATATAN PENGEMBANGAN / NON-CANON** dan tidak otomatis mengubah fakta yang tercatat dalam Bible.
+
+- [Character Development Dossier — Draft 0.1](Character-Development-Dossier-Draft-0.1.md) — proposal motivasi, kepribadian, kelemahan, fungsi naratif, dinamika, dan arc enam karakter.
+- [Location & Organization Dossier — Draft 0.1](Location-Organization-Development-Dossier-Draft-0.1.md) — proposal fungsi dan kebutuhan cerita untuk lima lokasi serta tiga organisasi yang sudah terdaftar.
+- [Book I Scene Outline — Draft 0.1](Book-I-Scene-Outline-Draft-0.1.md) — pengembangan premis dan enam bagian Buku I menjadi rangkaian 19 adegan dengan rantai sebab-akibat.
+
+Dossier tersebut berfungsi sebagai bahan kerja. Jika proposal dipilih, perbarui Bible dan dokumen cerita secara terpisah dengan status yang tepat. Jangan menganggap proposal sebagai fakta hanya karena telah ditulis atau ditautkan dari matriks.
