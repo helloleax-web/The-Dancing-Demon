@@ -1,0 +1,187 @@
+{
+  "version": "V0.8",
+  "status": "NON-CANON / CATATAN PENGEMBANGAN",
+  "basis": {
+    "primary_source": "World-Atlas-Draft-V1.md sections 2–6, especially section 4 continent relief notes and section 6 construction order",
+    "plate_reference": "World-Plate-Geometry-V1.0-reference.json",
+    "inherited_map": "World-Atlas-Climate-Latitude-Framework-V0.6.svg",
+    "inherited_planetary_baseline": "V0.6 Earth-reference proposal",
+    "note": "V0.8 visualizes prior relief candidates and defines bathymetric vocabulary. It is not a DEM, geologic reconstruction, or ocean-depth model."
+  },
+  "continent_relief": [
+    {
+      "continent": "The Central Reach",
+      "carrier_plate": "Central (CR)",
+      "candidates": [
+        "Long mountain belt in west or northwest",
+        "Lower eastern plateau",
+        "Broad basin or plain separating relief systems",
+        "Central hills and valleys"
+      ],
+      "mapped_schematic": [
+        "northwest mountain belt",
+        "eastern lower plateau candidate",
+        "central basin candidate"
+      ],
+      "unresolved": [
+        "exact ridge trace",
+        "elevation values",
+        "watershed divides",
+        "whether central basin is closed or open"
+      ]
+    },
+    {
+      "continent": "The Verdant Wilds",
+      "carrier_plate": "Verdant (VW)",
+      "candidates": [
+        "Incomplete mountain arc from northwest to central region",
+        "Highlands and hills dividing drainage basins",
+        "Possible downstream floodplains, wetlands and humid forests only if climate supports"
+      ],
+      "mapped_schematic": [
+        "northwest-to-central arc candidate"
+      ],
+      "unresolved": [
+        "arc endpoints",
+        "elevation values",
+        "river catchments",
+        "climate-dependent lowland ecosystems"
+      ]
+    },
+    {
+      "continent": "The Sunken Sands",
+      "carrier_plate": "Sands (SS)",
+      "candidates": [
+        "Elongated mountain range on one side",
+        "Broad central basin",
+        "Highland on the opposite side potentially creating rain shadow"
+      ],
+      "mapped_schematic": [
+        "central basin candidate"
+      ],
+      "unresolved": [
+        "which side carries the range",
+        "which side carries opposite highland",
+        "rain-shadow validity",
+        "endorheic drainage validity"
+      ]
+    },
+    {
+      "continent": "The Frostbound Expanse",
+      "carrier_plate": "Frost (FR)",
+      "candidates": [
+        "Mountains or highlands in central-northern region",
+        "Valleys leading toward coasts",
+        "Glaciers, glacial valleys and fjords only if glacial history and relief support"
+      ],
+      "mapped_schematic": [
+        "central-northern highland candidate"
+      ],
+      "unresolved": [
+        "elevation",
+        "glacial extent",
+        "fjord locations",
+        "glacial chronology"
+      ]
+    },
+    {
+      "continent": "The Ashen Frontier",
+      "carrier_plate": "Ashen (AF)",
+      "candidates": [
+        "Diagonal mountain/highland zone",
+        "Possible volcanic arc or volcanic plateau on one side",
+        "Fault valley or basin separating highlands"
+      ],
+      "mapped_schematic": [
+        "diagonal upland candidate"
+      ],
+      "unresolved": [
+        "volcanic activity",
+        "tectonic cause",
+        "fault geometry",
+        "exact location and elevation"
+      ]
+    },
+    {
+      "continent": "The Veiled Continent",
+      "carrier_plate": "Veiled (VC)",
+      "candidates": [
+        "Main mountain belt near one long coast",
+        "Secondary plateau on opposite side",
+        "Interior basin possibly draining to enclosed bay or large lake"
+      ],
+      "mapped_schematic": [
+        "interior basin candidate"
+      ],
+      "unresolved": [
+        "which coast carries main range",
+        "secondary plateau position",
+        "whether basin is closed or connected to sea",
+        "drainage"
+      ]
+    }
+  ],
+  "bathymetry": {
+    "status": "Conceptual vocabulary only; no geographic bathymetry assigned.",
+    "classes": [
+      "continental shelf",
+      "continental slope",
+      "continental rise",
+      "abyssal plain",
+      "mid-ocean ridge (unplaced)",
+      "trench (unplaced)",
+      "seamount (unplaced)",
+      "oceanic plateau (unplaced)"
+    ],
+    "depth_values_m": null,
+    "basin_coordinates": null,
+    "cross_section": "Generic shelf-to-slope-to-abyssal-plain-to-margin diagram; not measured or geographically placed."
+  },
+  "tectonics": {
+    "reference_counts": {
+      "triple_junctions": 14,
+      "boundary_segments": 21,
+      "plate_faces": 9
+    },
+    "exact_planar_coordinates_available": false,
+    "rounded_spherical_coordinates_reproduce_geometry": false,
+    "plate_motion_kinematics_available": false,
+    "boundary_types_assigned": false,
+    "subduction_zones_assigned": false,
+    "spreading_ridges_assigned": false,
+    "transform_faults_assigned": false,
+    "volcanic_arc_inference_allowed": false
+  },
+  "hydrology": {
+    "rivers_drawn": false,
+    "lakes_drawn": false,
+    "drainage_basins_delimited": false,
+    "endorheic_basins_assigned": false,
+    "required_next_checks": [
+      "relative elevation and ridgelines",
+      "watershed divides",
+      "downhill flow paths",
+      "outlets and lake basins",
+      "river crossings versus topographic divides"
+    ]
+  },
+  "validation": {
+    "six_continent_polygons_inherited_unchanged": true,
+    "coastline_geometry_changed": false,
+    "plate_geometry_changed": false,
+    "absolute_elevation_claimed": false,
+    "bathymetric_depth_claimed": false,
+    "projection_validated": false,
+    "geodesic_validation": false,
+    "canon_changed": false
+  },
+  "limitations": [
+    "All relief placements are schematic interpretations of existing draft notes, not new CANON.",
+    "No numeric elevations or ocean depths are assigned.",
+    "The plate reference is recovered rounded spherical data, not original exact planar geometry.",
+    "No plate-motion vectors or boundary kinematics are available; tectonic landforms cannot be derived from boundary positions alone.",
+    "Ocean basin boundaries and bathymetric topology are not validated.",
+    "No rivers, lakes, biomes, rainfall or regional climates are assigned.",
+    "The SVG coordinate scaffold is linear and is not a validated cartographic projection."
+  ]
+}
