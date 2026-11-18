@@ -613,6 +613,8 @@ Dossier tersebut berfungsi sebagai bahan kerja. Jika proposal dipilih, perbarui 
 ## Kandidat registrasi R0.2
 
 - [Continental–Plate Overlay R0.2](Continental-Plate-Overlay-R0.2.md) — kandidat orientasi bersama yang meningkatkan metrik kekompakan overlay dibanding R0.1.
-- R0.2: rata-rata dominasi muka 87,50% pada screening dan 87,25% pada audit raster 576.000 sel; belum optimum global atau final.
+- R0.2: rata-rata dominasi muka 87,50% pada screening dan 87,25% pada clipping poligon sferis; total luas benua 29,999996%, jumlah luas lempeng 100%; belum optimum global atau final.
 - [Peta SVG](World-Atlas-Continental-Plate-Overlay-R0.2.svg) dan [audit JSON](Continental-Plate-Overlay-Audit-R0.2.json).
 - Status: kandidat kerja NON-CANON; clipping sferis eksak dan geodinamika masih terbuka.
+
+- Audit clipping memakai chart stereografis, triangulasi, clipping segitiga, dan integral luas sferis untuk poliline tersampel; North Ocean dihitung sebagai komplemen chart.
