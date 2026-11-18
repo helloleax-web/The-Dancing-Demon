@@ -1,0 +1,49 @@
+{
+  "model": "The Dancing Demon — Plate–Continent Relationship Framework",
+  "version": "0.1",
+  "date": "2026-11-18",
+  "status": "DEVELOPMENT / NON-CANON",
+  "active_rule": "Many-to-many spatial intersection; no mandatory one-continent-one-plate containment",
+  "principles": [
+    "Continents are geographic landmasses; tectonic plates are lithospheric regions.",
+    "Continental coastlines do not need to coincide with plate boundaries.",
+    "A continent may span multiple plates.",
+    "A plate may contain continental and oceanic crust.",
+    "Plate-face labels are provisional identifiers and do not establish crust type or exclusive continent assignment."
+  ],
+  "retained_baselines": {
+    "continents": "World-Atlas-Continental-Silhouette-V0.6.svg",
+    "continent_area_percent_surface": 30.00017,
+    "plates": "World-Plate-Geometry-V1.0-R-reconstructed.json",
+    "plate_regions": 9,
+    "triple_junctions": 14,
+    "boundary_segments": 21,
+    "plate_area_percent_surface": {
+      "Central": 18.000248876619935,
+      "Verdant": 12.001698050033772,
+      "Sands": 10.002187612552845,
+      "Frost": 7.999276355484914,
+      "Ashen": 7.000404942577941,
+      "Veiled": 11.0003745683892,
+      "North Ocean": 13.999195336307801,
+      "West Ocean": 10.99869750138414,
+      "Southeast Ocean": 8.997916756649452
+    },
+    "plate_area_sum_percent": 100,
+    "max_plate_area_deviation_percentage_points": 0.002187612552845053
+  },
+  "prior_test": {
+    "file": "Plate-Containment-Orientation-Search-V0.1.json",
+    "question": "Can all six continents fit entirely inside their same-named carrier plates under one common globe rotation?",
+    "outcome": "No common orientation found in 40000 deterministic random rotations plus coarse grid",
+    "interpretation": "Rejects the strict one-to-one containment requirement only; does not invalidate the plate partition or prove that a valid geographic overlay is impossible."
+  },
+  "not_yet_validated": [
+    "common geographic orientation",
+    "spherical continent-to-plate intersection matrix",
+    "crust type by plate region",
+    "boundary kinematics and geodynamic plausibility",
+    "relief, bathymetry, climate, circulation, hydrology and biomes"
+  ],
+  "canon_changed": false
+}
