@@ -2443,3 +2443,12 @@ Matriks irisan R0.2 kini dihitung dengan triangulasi poligon dalam chart stereog
 Total luas enam benua hasil audit adalah 29,999996% permukaan bola. Jumlah luas sembilan muka adalah 100%; North Ocean dihitung sebagai komplemen karena memuat kutub chart. Deviasi target maksimum luas muka sekitar 0,00906 poin persentase. Hasil clipping merupakan luas analitik bagi poliline tersampel, bukan geometri kontinu yang tak tersampel.
 
 Rujukan: [laporan overlay R0.2](Continental-Plate-Overlay-R0.2.md) dan [data audit JSON](Continental-Plate-Overlay-Audit-R0.2.json). Status NON-CANON.
+
+
+### 7.51 Uji konvergensi raster overlay R0.2
+
+Matriks irisan pada 7.50 telah diperiksa silang dengan klasifikasi titik langsung pada grid luas-sama sampai resolusi 0,125° bujur × 0,000625 sin(latitude), setara 9.216.000 sel. Rata-rata dominasi muka pada grid 0,5°, 0,25°, dan 0,125° berturut-turut 87,24988%, 87,25730%, dan 87,25443%. Selisih maksimum sel matriks antar dua resolusi terhalus adalah 0,01317 poin persentase; perubahan rata-rata dominasi 0,00286 poin.
+
+Hasil tersebut mendukung kestabilan numerik overlay, bukan validasi geologi. Clipping poligon sferis tersampel tetap menjadi hasil utama; raster berfungsi sebagai pemeriksaan silang independen. Rujukan: [laporan konvergensi R0.2](Continental-Plate-Overlay-Convergence-R0.2.md), [data JSON](Continental-Plate-Overlay-Convergence-Audit-R0.2.json).
+
+**Status:** NON-CANON. Tidak ada perubahan CANON.
