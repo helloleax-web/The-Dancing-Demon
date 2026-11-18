@@ -185,7 +185,7 @@ Pilihan skala setara Bumi **tidak otomatis** menetapkan:
 - Jumlah benua, luas samudra, atau bentuk garis pantai.
 - Kesamaan sejarah geologi atau evolusi dengan Bumi.
 
-### 7.2 Arsitektur daratan — rekomendasi kerja, belum diputuskan
+### 7.2 Arsitektur daratan — draft aktif terpilih, belum CANON
 
 Catatan historis: bagian ini awalnya merekomendasikan pengujian **enam kawasan daratan besar** sebagai kerangka sketsa. Rekomendasi tersebut kemudian dipilih kreator sebagai **draft enam benua terpisah** sebagaimana ditegaskan pada status terbaru di bawah. Dengan demikian, enam benua adalah pilihan draft aktif, bukan lagi sekadar alternatif yang belum dipilih; pilihan ini tetap belum CANON dan masih dapat direvisi.
 
