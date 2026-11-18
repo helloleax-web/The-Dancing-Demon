@@ -334,3 +334,18 @@ Catatan desain pada iterasi berikutnya:
 - Veiled Continent menjadi daratan terpencil di bagian tenggara.
 
 **Status:** siluet konseptual V0.1, NON-CANON, belum lolos audit luas dan containment.
+
+
+## 10. Studi siluet makro enam benua — V1
+
+Pratinjau visual pertama susunan daratan tersedia pada [World-Atlas-Silhouette-Concept-V1.svg](World-Atlas-Silhouette-Concept-V1.svg).
+
+### Susunan yang divisualisasikan
+- Kelompok utama: Verdant Wilds di barat daya, Central Reach sebagai jangkar tengah, dan Sunken Sands di tenggara.
+- Daratan terpencil: Frostbound Expanse di lintang tinggi utara, Ashen Frontier di belahan selatan lintang menengah, dan Veiled Continent sebagai daratan paling terpencil.
+- Siluet tiap benua menerjemahkan arahan bentuk pada Bagian 4 menjadi bentuk visual awal, termasuk semenanjung, teluk, dan asimetri garis pantai.
+
+### Batas validasi
+Gambar adalah studi komposisi dan siluet, bukan proyeksi kartografis atau geometri terukur. Posisi, jarak, ukuran visual, luas poligon, orientasi lintang, containment pada lempeng, dan hubungan garis pantai dengan batas lempeng belum divalidasi. SVG tidak boleh digunakan untuk mengambil koordinat atau menghitung luas. Target porsi luas relatif benua tetap tercatat pada Bagian 1; gambar ini belum membuktikan target tersebut.
+
+**Keputusan desain sementara:** pertahankan susunan tiga benua kelompok utama dan tiga daratan terpencil sebagai komposisi makro V1. Jangan menambah negara, kota, atau lokasi canon pada siluet ini.
