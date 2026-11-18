@@ -228,12 +228,12 @@ Tidak ada bidang yang diberi status **BELUM ADA** karena setiap bidang memiliki 
 **Sumber:** [Kosmologi dan Entitas Kosmik](../00-CORE/03-Kosmologi-dan-Entitas-Kosmik.md).
 
 **CATATAN PENGEMBANGAN**
-- Kategori spesies, ras humanoid, naga dan makhluk mitologis, kategori monster, ekologi wilayah, serta peringkat ancaman E sampai EX masih usulan.
+- Kerangka klasifikasi kini memisahkan kategori ontologis, biologis, kondisi makhluk, habitat, dan fungsi ekologis. Kandidat ras humanoid, makhluk legendaris, kategori monster, hubungan mana-organisme, serta peringkat ancaman E sampai EX tetap proposal NON-CANON.
 
 **Sumber:** [Species and Creatures](Species-and-Creatures.md).
 
 **UNKNOWN / kekosongan**
-- Daftar spesies canon, persebaran, biologi, umur, reproduksi, kecerdasan, ekologi, dan hubungan spesies dengan mana belum ditetapkan.
+- Daftar spesies CANON, persebaran aktual, biologi, umur, reproduksi, kecerdasan, ekologi spesifik, dan hubungan spesies dengan mana belum ditetapkan. Draft 0.2 menyediakan metode untuk mengembangkan dan menilai proposal tanpa mengesahkannya.
 
 **Ketergantungan:** geografi, sejarah, kosmologi, politik, budaya, ekonomi, dan sistem mana.
 
