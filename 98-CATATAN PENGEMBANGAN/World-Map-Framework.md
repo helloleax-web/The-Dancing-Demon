@@ -2058,6 +2058,46 @@ Parameterisasi lingkaran menjaga kecembungan dan planaritas, tetapi tidak cukup 
 
 **Kesimpulan:** lingkaran cembung memberi jaminan konstruksi yang bersih, tetapi parameterisasi ini terlalu terbatas untuk distribusi luas yang ditargetkan. Optimasi beralih ke batas luar cembung umum dengan lebih banyak derajat kebebasan.
 
+### 7.36 Uji batas cembung umum dengan sudut dan radius terurut
+
+**Status: CATATAN PENGEMBANGAN / NON-CANON.** Parameterisasi lingkaran pada bagian 7.35 diperluas: tujuh simpul batas Central ditempatkan pada sinar dengan celah sudut positif yang berjumlah 360 derajat, sementara radius tiap simpul dapat berubah. Simpul interior dihitung ulang melalui embedding barycentric Tutte. Optimasi mengukur luas delapan muka terbatas; luas Central adalah komplemennya.
+
+#### 7.36.1 Eksperimen yang dijalankan
+
+Dilakukan pencarian multi-start dengan 50 inisialisasi acak tambahan, batas radius diperluas hingga 12 satuan, dan kendala cross-product belokan batas minimum 0,05 untuk mencegah poligon runtuh menjadi cekung atau degenerat.
+
+Solusi terbaik yang ditemukan menghasilkan:
+
+| Muka | Aktual (%) | Target (%) |
+|---|---:|---:|
+| Central | 45.66 | 18 |
+| Verdant | 13.84 | 12 |
+| Sands | 10.73 | 10 |
+| Frost | 6.85 | 8 |
+| Ashen | 5.11 | 7 |
+| Veiled | 8.48 | 11 |
+| Samudra Utara | 6.33 | 14 |
+| Samudra Barat | 0.93 | 11 |
+| Samudra Timur-Selatan | 1.60 | 9 |
+| **Total** | **99.53** | **100** |
+
+Catatan: angka di atas adalah pembulatan dari fraksi luas numerik; jumlah tabel dapat berbeda sedikit dari 100% akibat pembulatan. Central dihitung sebagai komplemen delapan muka lain sehingga angka internal menutup 100%.
+
+#### 7.36.2 Audit dan penolakan kandidat
+
+Solver berhenti pada batas kendala minimum untuk beberapa belokan poligon. Ini menunjukkan sebagian bentuk cenderung runtuh menuju batas hampir degenerat. Selain itu, Central masih jauh di atas target dan muka Samudra Barat serta Samudra Timur-Selatan masih terlalu kecil. Kandidat ini **ditolak sebagai geometri final** dan tidak disimpan sebagai pengganti baseline Tutte bagian 7.32.
+
+Hasil ini bukan bukti bahwa target tidak mungkin dicapai. Ini menunjukkan parameterisasi radial dari satu titik pusat masih terlalu membatasi ruang bentuk atau memerlukan strategi optimasi yang lebih baik.
+
+#### 7.36.3 Keputusan metode berikutnya
+
+- Hentikan pencarian dengan parameterisasi radial tujuh simpul; hasilnya berulang kali mendekati degenerasi dan tidak menyeimbangkan muka samudra.
+- Pertahankan embedding Tutte sebagai mekanisme penjamin planaritas, bukan sebagai satu-satunya keluarga bentuk batas.
+- Tahap selanjutnya adalah memakai optimasi langsung koordinat tujuh simpul batas dengan normalisasi translasi/rotasi/skala dan kendala kecembungan eksplisit, disertai beberapa inisialisasi terstruktur.
+- Bila optimasi langsung tetap tidak mencapai target, evaluasi ulang apakah target luas yang ditetapkan kompatibel dengan topologi muka dan definisi batas; setiap perubahan target harus dicatat sebagai proposal, bukan dilakukan diam-diam.
+
+**Kesimpulan:** batas radial umum memberi lebih banyak fleksibilitas daripada lingkaran, tetapi pencarian multi-start belum menghasilkan kandidat layak. Geometri final belum ditetapkan.
+
 ## 8. Proposal geografi lama yang belum diputuskan
 
 Dokumen [Geography](Geography.md) sebelumnya mencatat enam nama benua sebagai konsep kerja:
