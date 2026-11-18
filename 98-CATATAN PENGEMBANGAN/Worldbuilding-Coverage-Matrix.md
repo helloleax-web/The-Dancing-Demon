@@ -555,5 +555,6 @@ Dokumen berikut dibuat untuk menindaklanjuti kekosongan yang dipetakan dalam mat
 - [Book I Scene Outline — Draft 0.1](Book-I-Scene-Outline-Draft-0.1.md) — pengembangan premis dan enam bagian Buku I menjadi rangkaian 19 adegan dengan rantai sebab-akibat.
 - [Eight-Book Series Architecture — Draft 0.1](Eight-Book-Series-Architecture-Draft-0.1.md) — fungsi dramatik tiap buku, eskalasi skala, arc karakter, dan pengelolaan misteri.
 - [Mystery & Foreshadowing Ledger — Draft 0.1](Mystery-and-Foreshadowing-Ledger-Draft-0.1.md) — informasi yang diketahui pembaca/karakter dan jendela pengungkapan.
+- [Plate Geometry V1.0-R — Validation Report](World-Plate-Geometry-V1.0-R-Validation.md) — baseline geometri lempeng yang tervalidasi secara matematis; containment benua tetap terbuka.
 
 Dossier tersebut berfungsi sebagai bahan kerja. Jika proposal dipilih, perbarui Bible dan dokumen cerita secara terpisah dengan status yang tepat. Jangan menganggap proposal sebagai fakta hanya karena telah ditulis atau ditautkan dari matriks.
