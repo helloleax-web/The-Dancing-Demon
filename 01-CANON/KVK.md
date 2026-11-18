@@ -47,7 +47,10 @@ Pihak nominasi yang memenuhi syarat dan komposisi panel seleksi belum ditetapkan
 
 ## Kuorum dan jumlah anggota aktif
 - Minimal 8 anggota definitif aktif diperlukan untuk keputusan resmi.
-- Kuorum kehadiran adalah 4/5 anggota definitif, dibulatkan ke bilangan bulat terdekat:
+- Kuorum kehadiran adalah 4/5 dari jumlah kursi definitif yang ditetapkan untuk komposisi KVK pada periode tersebut, dibulatkan ke bilangan bulat terdekat.
+- Kursi definitif yang kosong tetap masuk dalam denominator kuorum sampai diisi. Pengganti sementara tidak mengubah jumlah kursi definitif dan hanya dapat dihitung untuk kehadiran rapat administratif/prosedural sesuai batas kewenangannya.
+- Kehadiran anggota definitif dihitung untuk kuorum; anggota sementara tidak dihitung untuk kuorum pemeriksaan akhir kandidat.
+- Jika jumlah anggota definitif yang dapat hadir tidak mencapai kuorum akibat kursi kosong atau ketidakaktifan, KVK tidak dapat mengambil keputusan resmi sampai kuorum terpenuhi. Ketentuan minimum 8 anggota definitif aktif tetap berlaku secara terpisah.
   - 11 anggota: 9 hadir.
   - 12 anggota: 10 hadir.
   - 13 anggota: 10 hadir.
