@@ -163,7 +163,7 @@ Orientasi ini ilustratif, bukan geografis final. Tidak ada validasi kerak/geodin
 
 ## Kandidat registrasi kompak R0.2 — 2026-11-18
 
-Diuji 3.000 rotasi global deterministik menggunakan metrik rata-rata proporsi tiap benua yang berada pada muka dominannya. R0.2 mencapai 87,50% pada screening kasar dan 87,27% pada audit raster 144.000 sel. R0.1 memperoleh 67,61% pada audit grid yang sama. R0.2 dipilih sebagai kandidat kerja berdasarkan kekompakan kartografis, bukan validasi geologi atau optimum global.
+Diuji 3.000 rotasi global deterministik menggunakan metrik rata-rata proporsi tiap benua yang berada pada muka dominannya. R0.2 mencapai 87,50% pada screening kasar dan 87,25% pada audit raster 144.000 sel. R0.1 memperoleh 67,59% pada audit grid yang sama. R0.2 dipilih sebagai kandidat kerja berdasarkan kekompakan kartografis, bukan validasi geologi atau optimum global.
 
 Artefak: [laporan R0.2](../98-CATATAN%20PENGEMBANGAN/Continental-Plate-Overlay-R0.2.md), [peta SVG](../98-CATATAN%20PENGEMBANGAN/World-Atlas-Continental-Plate-Overlay-R0.2.svg), [audit JSON](../98-CATATAN%20PENGEMBANGAN/Continental-Plate-Overlay-Audit-R0.2.json). Tidak ada perubahan CANON.
 
@@ -171,7 +171,7 @@ Artefak: [laporan R0.2](../98-CATATAN%20PENGEMBANGAN/Continental-Plate-Overlay-R
 ## Verifikasi R0.2 — 2026-11-18
 
 - Repository kini memuat artefak R0.2: laporan Markdown, audit JSON, dan peta SVG.
-- Registrasi R0.2 dipilih sebagai kandidat kerja karena rata-rata dominasi muka benua meningkat dari sekitar 67,61% (R0.1) menjadi 87,27% pada audit raster resolusi lebih tinggi.
+- Registrasi R0.2 dipilih sebagai kandidat kerja karena rata-rata dominasi muka benua meningkat dari sekitar 67,59% (R0.1) menjadi 87,25% pada audit raster resolusi lebih tinggi.
 - Hasil ini merupakan metrik kekompakan kartografis, bukan optimum global dan bukan validasi geologi.
 - Seluruh dokumen dan peta tetap NON-CANON; tidak ada perubahan CANON.
 
@@ -183,5 +183,14 @@ Artefak: [laporan R0.2](../98-CATATAN%20PENGEMBANGAN/Continental-Plate-Overlay-R
 - Sebanyak 278 tautan relatif berkas/folder diperiksa; tidak ditemukan tautan rusak.
 - JSON audit R0.2 valid; SVG overlay memuat enam poligon benua, 26 polyline batas (21 sisi graf dengan pemisahan tambahan pada seam), dan 14 penanda simpul plus satu penanda legenda.
 - Jumlah luas sembilan muka pada audit raster R0.2 = 100,00%; total daratan mendekati target 30%.
-- Metrik dominasi muka rata-rata: R0.1 = 67,61%; R0.2 = 87,27% pada audit resolusi lebih tinggi. R0.2 dipilih sebagai kandidat kerja, bukan optimum global.
+- Metrik dominasi muka rata-rata: R0.1 = 67,59%; R0.2 = 87,25% pada audit resolusi lebih tinggi. R0.2 dipilih sebagai kandidat kerja, bukan optimum global.
 - Tidak ada perubahan CANON.
+
+
+## Koreksi dan audit resolusi R0.2 — 2026-11-18
+
+Pemeriksaan lanjutan menemukan bahwa matriks rotasi pada artefak R0.2 awal tidak ortogonal karena satu elemen matriks salah ditulis. Peta SVG, JSON, dan laporan R0.2 telah diperbarui memakai matriks Euler yang benar; pemeriksaan ortogonalitas menghasilkan deviasi maksimum 1,11 × 10⁻¹⁶.
+
+Audit raster diperhalus dari 144.000 menjadi 576.000 sel (0,5° bujur × 0,0025 sin(latitude)). R0.2 menghasilkan rata-rata dominasi muka 87,25%; R0.1 pada grid yang sama 67,59%. Luas sembilan muka R0.2 berjumlah 100,00% pada grid. Ini tetap estimasi raster dan bukan clipping sferis eksak.
+
+Tidak ada perubahan CANON.
