@@ -435,3 +435,56 @@ Pengukuran menggunakan rumus Shoelace pada koordinat bidang SVG setelah penyeder
 V0.4 belum menetapkan proyeksi, orientasi globe, koordinat geografis, jarak nyata, bentuk relief, sistem drainase, atau containment terhadap lempeng. Grid tetap ilustratif. Garis pantai tidak boleh ditafsirkan sebagai batas lempeng.
 
 **Status:** V0.4 lulus audit geometri bidang, bingkai, dan non-overlap. Tetap NON-CANON dan merupakan studi desain garis pantai, bukan peta geografis final.
+
+
+## 13. Kerangka koordinat geografis — V0.5
+
+**Status: CATATAN PENGEMBANGAN / NON-CANON.** V0.5 menambahkan kerangka orientasi dan koordinat sementara pada studi siluet. Versi ini bukan peta geografis final dan tidak mengesahkan koordinat dunia sebagai CANON.
+
+Berkas:
+- [World-Atlas-Continental-Silhouette-V0.5.svg](World-Atlas-Continental-Silhouette-V0.5.svg)
+- [World-Atlas-Geographic-Framework-Audit-V0.5.json](World-Atlas-Geographic-Framework-Audit-V0.5.json)
+
+### 13.1 Referensi orientasi
+
+- Utara berada di atas; timur di kanan.
+- Rentang koordinat kerja pada bingkai: lintang +90° sampai −90° dan bujur −180° sampai +180°.
+- Garis ekuator ditempatkan pada garis tengah vertikal bingkai (0° lintang).
+- Meridian utama 0° ditempatkan pada garis tengah horizontal bingkai.
+- Tepi kiri dan kanan diperlakukan sebagai sambungan bujur ±180°.
+- Grid diberi interval 30°.
+
+Pemetaan koordinat dilakukan secara linear dari posisi SVG ke label lintang/bujur. Ini hanya *coordinate scaffold*. Belum ada proyeksi kartografis yang dipilih atau divalidasi; rasio bingkai tidak boleh dianggap sebagai bukti skala atau bentuk geografis yang akurat.
+
+### 13.2 Koreksi posisi makro
+
+Penerapan kerangka lintang memperlihatkan bahwa posisi V0.4 menempatkan bagian selatan Sunken Sands terlalu dekat dengan kutub selatan. Ashen Frontier juga terlalu jauh ke selatan untuk kandidat lintang menengah. Karena itu, dua poligon digeser tanpa mengubah bentuk atau luasnya:
+
+| Benua | Translasi SVG | Kisaran lintang perkiraan | Kisaran bujur perkiraan |
+|---|---:|---:|---:|
+| Frostbound Expanse | Tidak digeser | +40.61° sampai +82.36° | −37.16° sampai +38.10° |
+| Verdant Wilds | Tidak digeser | −42.42° sampai +25.52° | −123.50° sampai −60.32° |
+| Central Reach | Tidak digeser | −12.80° sampai +33.65° | −33.37° sampai +75.35° |
+| Sunken Sands | 90 unit ke utara | −66.15° sampai −16.33° | +23.74° sampai +86.07° |
+| Ashen Frontier | 50 unit ke utara | −64.69° sampai −24.34° | −40.05° sampai +9.55° |
+| Veiled Continent | Tidak digeser | −61.73° sampai −6.51° | +93.59° sampai +179.85° |
+
+Rentang di atas merupakan konversi *bounding box* SVG ke kerangka sementara, bukan koordinat garis pantai yang presisi. Kisaran tersebut tidak boleh dipakai untuk navigasi atau perhitungan jarak.
+
+### 13.3 Pemeriksaan
+
+- Enam poligon tetap valid dan seluruh titiknya berada di dalam bingkai.
+- Dua perubahan posisi berupa translasi kaku; bentuk dan luas bidang poligon tidak berubah.
+- *Bounding box* seluruh benua tetap saling terpisah setelah translasi.
+- Audit proporsi bidang V0.4 tetap berlaku: Frostbound 15.000013%, Verdant 18.000064%, Central 23.999861%, Sunken Sands 13.000027%, Ashen 8.999998%, dan Veiled 21.000037%.
+- Deviasi maksimum yang diwarisi dari audit V0.4 adalah 0.000684 poin persentase.
+
+### 13.4 Hal yang sengaja belum diputuskan
+
+- Ukuran planet, panjang keliling, dan skala jarak.
+- Kemiringan sumbu, periode rotasi, orbit, panjang tahun, dan musim.
+- Lingkar tropis dan lingkar kutub.
+- Proyeksi peta final dan koreksi distorsi.
+- Luas geodesik, jarak antarbenua, arus laut, angin, iklim, bioma, dan containment lempeng.
+
+Tidak ada garis batas lempeng yang ditambahkan. Garis pantai tidak sama dengan batas lempeng. Seluruh penempatan dan koreksi pada V0.5 tetap NON-CANON.
