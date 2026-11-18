@@ -144,4 +144,6 @@ Bagian ini membahas fasilitas yang ditemukan ekspedisi dalam kerangka Buku I sec
 - **The Veiled Continent** — usulan wilayah terpencil dan kurang dipetakan.
 
 Sumber: [`98-CATATAN PENGEMBANGAN/Geography.md`](../98-CATATAN%20PENGEMBANGAN/Geography.md), bagian “Enam benua — konsep kerja”. Nama-nama tersebut tidak dimasukkan sebagai fakta geografis kanon.
-\n\nProposal fungsi lokasi yang tercantum dalam indeks tersedia dalam [Location & Organization Development Dossier — Draft 0.1](../98-CATATAN%20PENGEMBANGAN/Location-Organization-Development-Dossier-Draft-0.1.md). Proposal tersebut tidak mengubah fakta lokasi, posisi geografis, atau hubungan yang masih UNKNOWN dalam Bible ini.\n
+
+
+Proposal fungsi lokasi yang tercantum dalam indeks tersedia dalam [Location & Organization Development Dossier — Draft 0.1](../98-CATATAN%20PENGEMBANGAN/Location-Organization-Development-Dossier-Draft-0.1.md). Proposal tersebut tidak mengubah fakta lokasi, posisi geografis, atau hubungan yang masih UNKNOWN dalam Bible ini.
