@@ -220,6 +220,8 @@ Jangan memakai misteri kosmik untuk menyelesaikan konflik lokal. Jangan pula mem
 - [Cosmology and the Cosmic Entity](../01-CANON/Cosmology-and-Entity.md) — batas informasi entitas kosmik.
 - [Canon Audit Report](../99-ADMIN/Canon-Audit-Report-2026-11-18.md) — temuan kontinuitas dan batas validasi.
 
+- [Mystery & Foreshadowing Ledger — Draft 0.1](Mystery-and-Foreshadowing-Ledger-Draft-0.1.md) — pengelolaan informasi, petunjuk, dan jendela pengungkapan.
+
 ## 8. Cara menggunakan draft
 
 - Gunakan dokumen ini sebagai peta kerja, bukan sinopsis final.
