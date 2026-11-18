@@ -392,3 +392,12 @@ Dokumen konsolidasi ini dibuat berdasarkan lore yang telah ditetapkan dalam perc
 ## Koreksi numerik R0.2 — 2026-11-18
 
 Matriks rotasi R0.2 diperiksa ulang dan diperbaiki agar ortogonal (deviasi maksimum 1,11 × 10⁻¹⁶). Audit resolusi tinggi kini memakai 576.000 sel; metrik dominasi muka rata-rata R0.2 = 87,25%, dibanding R0.1 = 67,59%. Status tetap NON-CANON; dampak CANON tidak ada.
+
+
+## Audit clipping poligon sferis R0.2 — 2026-11-18
+
+- R0.2 menghasilkan rata-rata dominasi muka 87,25% dan total luas benua 29,999996% permukaan bola.
+- Luas sembilan muka menutup 100%; North Ocean dihitung sebagai komplemen chart stereografis.
+- Metode: triangulasi, clipping segitiga konveks, dan integral luas sferis pada poliline tersampel.
+- Batas: bukan validasi geologi/geodinamika dan bukan CANON.
+- Artefak: Continental–Plate Overlay R0.2 dan audit JSON.
