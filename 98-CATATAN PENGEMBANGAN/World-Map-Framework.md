@@ -4,7 +4,7 @@
 
 **Keputusan pengembangan terbaru:** kreator memilih **Alternatif A — enam benua terpisah** sebagai draft pertama arsitektur daratan, dengan **ukuran yang sangat bervariasi**. Kreator kemudian menyetujui untuk melanjutkan rekomendasi komposisi **Alternatif C — satu kelompok utama dan beberapa daratan terpencil** sebagai susunan spasial draft. Semua pilihan ini merupakan keputusan pengembangan dan belum disahkan sebagai CANON.
 
-Dokumen ini menjadi ruang kerja untuk membangun geografi dunia secara bertahap. Pilihan awal kreator yang dicatat di sini adalah **planet dengan skala kurang lebih setara Bumi**. Pilihan tersebut masih berstatus keputusan kerja yang menunggu konfirmasi final sebelum dapat diperlakukan sebagai CANON. Dokumen ini tidak menetapkan jumlah benua, posisi negara, koordinat lokasi, atau hubungan geografis yang belum diputuskan kreator.
+Dokumen ini menjadi ruang kerja untuk membangun geografi dunia secara bertahap. Pilihan awal kreator yang dicatat di sini adalah **planet dengan skala kurang lebih setara Bumi**; pilihan ini masih berstatus keputusan kerja yang menunggu konfirmasi final sebelum dapat diperlakukan sebagai CANON. Draft pengembangan aktif memakai enam benua terpisah, tetapi jumlah benua belum disahkan sebagai CANON. Dokumen ini tidak menetapkan posisi negara, koordinat lokasi, atau hubungan geografis yang belum diputuskan kreator.
 
 ## 1. Tujuan
 
@@ -187,7 +187,7 @@ Pilihan skala setara Bumi **tidak otomatis** menetapkan:
 
 ### 7.2 Arsitektur daratan — rekomendasi kerja, belum diputuskan
 
-Rekomendasi awal adalah menguji **enam kawasan daratan besar** sebagai kerangka sketsa pertama, karena enam konsep sudah tersedia dalam catatan geografi lama dan memiliki identitas lingkungan yang berbeda. Ini bukan keputusan bahwa dunia pasti memiliki enam benua. Jumlah, batas, nama, dan posisi tetap menunggu persetujuan kreator.
+Catatan historis: bagian ini awalnya merekomendasikan pengujian **enam kawasan daratan besar** sebagai kerangka sketsa. Rekomendasi tersebut kemudian dipilih kreator sebagai **draft enam benua terpisah** sebagaimana ditegaskan pada status terbaru di bawah. Dengan demikian, enam benua adalah pilihan draft aktif, bukan lagi sekadar alternatif yang belum dipilih; pilihan ini tetap belum CANON dan masih dapat direvisi.
 
 | Konsep lama | Identitas lingkungan yang pernah diusulkan | Hal yang perlu diuji sebelum dipertahankan |
 |---|---|---|
@@ -2193,7 +2193,7 @@ Pertanyaan ini sengaja dibiarkan terbuka. Jangan isi berdasarkan asumsi.
 - Apakah asumsi kerja total luas daratan 30% pada bagian 7.27 disetujui untuk menjadi dasar uji geometri, atau kreator ingin angka lain?
 - Apakah karakter siluet awal keenam benua pada bagian 7.7 sesuai, atau ada benua yang ingin lu bentuk ulang?
 - Apakah peta awal harus mencakup seluruh dunia atau hanya wilayah cerita Buku I?
-- Apakah enam nama benua dari proposal lama masih ingin dipertimbangkan?
+- Apakah enam nama benua dari proposal lama dipertahankan sebagai nama draft, atau perlu diganti sebelum peta final?
 
 ---
 
