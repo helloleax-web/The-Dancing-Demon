@@ -166,3 +166,11 @@ Orientasi ini ilustratif, bukan geografis final. Tidak ada validasi kerak/geodin
 Diuji 3.000 rotasi global deterministik menggunakan metrik rata-rata proporsi tiap benua yang berada pada muka dominannya. R0.2 mencapai 87,50% pada screening kasar dan 87,27% pada audit raster 144.000 sel. R0.1 memperoleh 67,61% pada audit grid yang sama. R0.2 dipilih sebagai kandidat kerja berdasarkan kekompakan kartografis, bukan validasi geologi atau optimum global.
 
 Artefak: [laporan R0.2](../98-CATATAN%20PENGEMBANGAN/Continental-Plate-Overlay-R0.2.md), [peta SVG](../98-CATATAN%20PENGEMBANGAN/World-Atlas-Continental-Plate-Overlay-R0.2.svg), [audit JSON](../98-CATATAN%20PENGEMBANGAN/Continental-Plate-Overlay-Audit-R0.2.json). Tidak ada perubahan CANON.
+
+
+## Verifikasi R0.2 — 2026-11-18
+
+- Repository kini memuat artefak R0.2: laporan Markdown, audit JSON, dan peta SVG.
+- Registrasi R0.2 dipilih sebagai kandidat kerja karena rata-rata dominasi muka benua meningkat dari sekitar 67,61% (R0.1) menjadi 87,27% pada audit raster resolusi lebih tinggi.
+- Hasil ini merupakan metrik kekompakan kartografis, bukan optimum global dan bukan validasi geologi.
+- Seluruh dokumen dan peta tetap NON-CANON; tidak ada perubahan CANON.
