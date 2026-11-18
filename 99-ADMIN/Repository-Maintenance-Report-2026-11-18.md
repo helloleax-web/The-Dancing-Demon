@@ -137,3 +137,15 @@ Dampak CANON: tidak ada.
 - Dokumen framework, atlas, matriks, laporan pemeliharaan, changelog, dan indeks telah diperbarui serta dibaca ulang dari branch `main`.
 - Baseline geometri V1.0-R dan siluet V0.6 tidak diubah dalam putaran ini.
 - Tidak ada perubahan CANON.
+
+
+## Overlay benua–lempeng R0.1 — 2026-11-18
+
+Dibuat overlay ilustratif dengan registrasi identitas: kutub proyeksi lempeng ke Kutub Utara geografis, +x ke ekuator/bujur 0°, +y ke ekuator/bujur +90°. Matriks irisan dihitung pada raster luas sama 144.000 sel (1° bujur × 0,005 sin(latitude)). Total daratan grid sekitar 30%; luas sembilan muka mendekati target V1.0-R. Angka irisan merupakan estimasi raster, bukan clipping sferis eksak.
+
+Artefak baru:
+- [Continental–Plate Overlay R0.1](../98-CATATAN%20PENGEMBANGAN/Continental-Plate-Overlay-R0.1.md)
+- [Peta SVG](../98-CATATAN%20PENGEMBANGAN/World-Atlas-Continental-Plate-Overlay-R0.1.svg)
+- [Audit JSON](../98-CATATAN%20PENGEMBANGAN/Continental-Plate-Overlay-Audit-R0.1.json)
+
+Orientasi ini ilustratif, bukan geografis final. Tidak ada validasi kerak/geodinamika dan tidak ada perubahan CANON.
