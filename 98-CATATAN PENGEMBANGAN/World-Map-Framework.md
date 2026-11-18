@@ -2300,7 +2300,7 @@ V1.0-R merupakan rekonstruksi numerik baru yang memakai topologi dan target luas
 - Laporan: [World-Plate-Geometry-V1.0-R-Validation.md](World-Plate-Geometry-V1.0-R-Validation.md).
 - Referensi historis: [World-Plate-Geometry-V1.0-reference.json](World-Plate-Geometry-V1.0-reference.json).
 
-Validator menggunakan standard library Python dan memeriksa topologi, konektivitas, batas cembung, persilangan, poligon muka, reproduksi koordinat Tutte dari bobot, proyeksi ke bola satuan, dan luas muka. Hasil uji yang dijalankan setelah file diunggah: **RESULT: PASS**.
+Validator menggunakan standard library Python dan memeriksa topologi, konektivitas, batas cembung, radius serta metadata sudut batas, persilangan, poligon muka, reproduksi koordinat Tutte dari bobot, proyeksi ke bola satuan, dan luas muka. Hasil uji yang dijalankan setelah file diunggah: **RESULT: PASS**.
 
 #### 7.42.3 Batas yang belum diselesaikan
 
