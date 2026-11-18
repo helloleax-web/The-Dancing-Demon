@@ -31,6 +31,7 @@ Dokumen berikut merupakan draft NON-CANON dan tidak menggantikan Bible rujukan:
 - [Location & Organization Dossier — Draft 0.1](../98-CATATAN%20PENGEMBANGAN/Location-Organization-Development-Dossier-Draft-0.1.md) — proposal fungsi lokasi dan organisasi.
 - [Eight-Book Series Architecture — Draft 0.1](../98-CATATAN%20PENGEMBANGAN/Eight-Book-Series-Architecture-Draft-0.1.md) — rancangan fungsi dan kesinambungan delapan buku.
 - [Mystery & Foreshadowing Ledger — Draft 0.1](../98-CATATAN%20PENGEMBANGAN/Mystery-and-Foreshadowing-Ledger-Draft-0.1.md) — status misteri dan urutan pengungkapan.
+- [Species, Creatures, and Ecology — Draft 0.2](../98-CATATAN%20PENGEMBANGAN/Species-and-Creatures.md) — klasifikasi makhluk, ekologi, biogeografi, dan standar bestiary; seluruh proposal tetap NON-CANON.
 
 ## Status informasi
 
