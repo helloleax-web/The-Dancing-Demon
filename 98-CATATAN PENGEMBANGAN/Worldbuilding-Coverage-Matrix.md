@@ -567,3 +567,10 @@ Dokumen berikut dibuat untuk menindaklanjuti kekosongan yang dipetakan dalam mat
 - [Plate Geometry V1.0-R — Validation Report](World-Plate-Geometry-V1.0-R-Validation.md) — baseline geometri lempeng yang tervalidasi secara matematis; containment benua tetap terbuka.
 
 Dossier tersebut berfungsi sebagai bahan kerja. Jika proposal dipilih, perbarui Bible dan dokumen cerita secara terpisah dengan status yang tepat. Jangan menganggap proposal sebagai fakta hanya karena telah ditulis atau ditautkan dari matriks.
+
+## Audit geografi sferis
+
+- [World Atlas — Spherical Continental Area Audit V0.1](World-Atlas-Spherical-Continental-Area-Audit-V0.1.md) — mengukur luas sferis siluet enam benua V0.5 dan membedakannya dari target proporsi bidang SVG.
+- Status: enam poligon saat ini mencakup sekitar 26,44% permukaan bola, bukan asumsi kerja 30%. Target proporsi planar historis belum dapat diperlakukan sebagai luas daratan sferis.
+- Pekerjaan lanjutan: keputusan target luas, penyesuaian cakupan daratan, orientasi globe, dan uji containment terhadap lempeng pembawa.
+- Semua hasil NON-CANON.
