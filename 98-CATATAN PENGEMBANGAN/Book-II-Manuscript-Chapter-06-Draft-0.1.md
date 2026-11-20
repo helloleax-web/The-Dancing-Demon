@@ -119,6 +119,20 @@ Untuk pertama kalinya, ia merasa bahwa perbedaan metode yang mereka hadapi sejak
 
 Mereka hanya perlu tahu kapan setiap sumber dapat dipercaya, dan kapan harus diuji lagi.
 
+Daren datang menjelang sore dengan sebuah map tipis. Ia meminta izin sebelum meletakkannya di meja.
+
+“Ini catatan survei lama dari pekerjaan tim kami di wilayah lain,” katanya. “Kami menemukan permukaan yang tampak dibuat oleh tangan manusia di dekat jalur lama. Pemeriksaan waktu itu dihentikan karena lokasinya berada di luar cakupan kontrak.”
+
+Tavian membuka map tersebut. Isinya hanya ringkasan pengukuran, sketsa permukaan yang sebagian tertutup tanah, dan keterangan bahwa sambungan batu menunjukkan pengerjaan teratur. Tidak ada foto ruang dalam, tidak ada catatan tentang fasilitas, dan tidak ada bukti yang menghubungkannya dengan penanda Rookbridge.
+
+“Boleh kami salin?” tanya Seraphine.
+
+“Boleh. Cantumkan sumbernya dan jangan menulis bahwa itu bagian dari jaringan apa pun.”
+
+Seraphine menuliskan batas tersebut pada lembar dokumentasi. Ia menempatkan laporan Daren secara terpisah dari dua pola titik-garis yang sedang mereka bandingkan.
+
+Tiga lokasi kini masuk dalam catatan mereka, tetapi hanya dua yang memiliki pola visual yang dapat dibandingkan. Laporan ketiga sekadar menunjukkan bahwa ada permukaan buatan lain yang pernah dicatat di wilayah berbeda.
+
 ### Scene 20 — Dunia di Luar Peta
 
 Tim Meridian bersiap meninggalkan Rookbridge beberapa hari kemudian.
@@ -179,7 +193,7 @@ Daren menerima tawaran kerja sebagai pengawal dan penanggung jawab keselamatan p
 
 Mereka berangkat pada pagi berikutnya.
 
-Tavian membawa peta dengan tanda baru. Seraphine menyimpan salinan fragmen dan dokumentasi penanda Rookbridge. Kael membawa peta keduanya, kali ini tanpa menyembunyikan tabung kulit itu. Mira membawa catatan rute lokal yang telah diizinkan untuk dibagikan. Daren memeriksa perlengkapan dan memastikan beban perjalanan tidak melebihi kemampuan kelompok.
+Tavian membawa peta dengan tanda baru. Seraphine menyimpan salinan fragmen dan dokumentasi penanda Rookbridge, serta laporan Daren dalam berkas terpisah. Kael membawa peta keduanya, kali ini tanpa menyembunyikan tabung kulit itu. Mira membawa catatan rute lokal yang telah diizinkan untuk dibagikan. Daren memeriksa perlengkapan dan memastikan beban perjalanan tidak melebihi kemampuan kelompok.
 
 Di belakang mereka, Rookbridge kembali menjalankan kegiatan sehari-hari. Jembatan utama masih dibatasi, tetapi orang-orang kini memiliki informasi yang lebih jelas tentang jalur yang dapat digunakan.
 
@@ -204,7 +218,7 @@ Dan perjalanan mereka baru saja menjadi lebih besar.
 - Penanda lama Rookbridge memiliki susunan titik dan garis yang mirip dengan diagram fragmen Buku I, tetapi tidak identik secara pasti.
 - Mira hanya mengenali kemiripan dari pengetahuan rute dan catatan lokal; ia tidak mengetahui pembuat atau fungsi penanda.
 - Seraphine mendokumentasikan kemiripan tanpa menyimpulkan asal-usul atau hubungan yang sama.
-- Kelompok memiliki dua contoh pola rujukan dari dua tempat, tetapi belum membuktikan jaringan fasilitas atau sistem yang sama.
+- Kelompok memiliki dua contoh pola titik-garis yang dapat dibandingkan, serta satu laporan terpisah tentang permukaan buatan di wilayah lain; belum ada bukti jaringan fasilitas atau sistem yang sama.
 - Mira bergabung sebagai anggota perjalanan berulang dengan tujuan menjaga penggunaan pengetahuan lokal.
 - Daren bergabung sebagai pengawal dan penanggung jawab keselamatan perjalanan.
 - Tim Meridian tetap menjadi pihak profesional yang dapat ditemui kembali, bukan musuh.
