@@ -1620,3 +1620,280 @@ Dan Kael telah membawa salah satunya ke dalam ekspedisi mereka.
 - Iven Rusk dan kurator tersebut merupakan karakter/figur pendukung baru untuk draft cerita, bukan fakta CANON.
 - Tidak ada identitas kontak tak dikenal pada pesan penutup yang diungkap.
 - Seluruh rincian kontrak dan hubungan profesional tetap NON-CANON.
+
+
+---
+
+### Scene 14 — Pengambilan Paksa
+
+Kesepakatan sementara itu bertahan selama dua hari.
+
+Selama waktu tersebut, pemeriksaan dilakukan dari batas yang telah ditentukan. Seraphine mencatat kondisi fasilitas, Tavian memperbarui peta area, dan perwakilan Vellum & Iron Recovery mengamati dokumentasi tanpa memasuki ruang dalam.
+
+Tidak ada benda yang dipindahkan.
+
+Setidaknya, sampai malam kedua.
+
+Tavian sedang memeriksa penanda di sekitar akses ketika melihat cahaya lampu dari arah tempat singgah perusahaan. Dua orang bergerak menuju kaki bukit dengan membawa tas peralatan. Mereka tidak mengikuti jalur yang telah disepakati. Salah satunya adalah pengawas lapangan yang hadir dalam pertemuan sebelumnya.
+
+Tavian memanggil mereka.
+
+“Kalian mau ke mana?”
+
+Pengawas itu berhenti. “Kami hanya akan memeriksa satu bagian.”
+
+“Pemeriksaan harus dilakukan bersama.”
+
+“Ini bukan pemeriksaan besar.”
+
+Orang kedua membawa alat pengungkit pendek. Dari bentuknya, Tavian menduga mereka berniat membuka atau mengangkat sesuatu.
+
+“Tidak ada benda yang boleh dipindahkan,” katanya.
+
+“Kami tidak akan mengambil bagian penting.”
+
+“Kesepakatannya tidak membedakan benda penting dan tidak penting.”
+
+Pengawas itu menghela napas. “Kami perlu bukti fisik bahwa lokasi ini memiliki material yang termasuk dalam pekerjaan pemulihan perusahaan. Satu bagian kecil yang sudah terlepas cukup untuk pemeriksaan.”
+
+“Kalau sudah terlepas, dokumentasikan. Jangan bawa.”
+
+“Kami sudah menunggu.”
+
+“Dan kalian menyetujui batasnya.”
+
+Pengawas itu memandang ke arah akses. “Perusahaan memiliki hak pemulihan di wilayah ini. Kami tidak bisa terus menunggu orang lain menentukan apa yang boleh kami lakukan.”
+
+“Dokumen kalian sendiri belum diperiksa lengkap.”
+
+“Justru itu. Kami perlu memastikan nilai temuan.”
+
+Tavian berdiri di antara mereka dan jalur masuk. Ia tidak membawa senjata atau perlengkapan untuk menghentikan orang secara paksa. Ia hanya tahu bahwa jika mereka melewati batas, pengaturan yang telah disepakati tidak berarti apa-apa.
+
+“Panggil wakil perusahaan kalian,” katanya. “Kita bicarakan besok.”
+
+Pengawas itu menggeleng. “Besok akan ada lebih banyak orang yang ingin ikut campur.”
+
+“Bukan alasan untuk melanggar kesepakatan.”
+
+Orang kedua mulai bergerak ke samping. Tavian menghalangi jalurnya. Untuk sesaat mereka saling menatap, masing-masing menunggu yang lain mengalah.
+
+Lalu pengawas itu melewati Tavian.
+
+“Jangan,” kata Tavian.
+
+Ia mengikuti mereka masuk ke ruang luar fasilitas. Cahaya lampu menyapu dinding dan lantai. Panel yang sebelumnya membuka akses masih berada dalam keadaan redup. Di sisi ruangan, dekat salah satu bidang penyimpanan, terdapat sebuah kepingan keras yang tampak telah terlepas dari dudukannya. Benda itu sudah dicatat dalam dokumentasi, tetapi belum pernah dipindahkan.
+
+Pengawas menunjuk kepingan tersebut.
+
+“Itu yang kami perlukan.”
+
+Tavian menggeleng. “Benda itu bagian dari temuan. Tidak ada izin untuk mengambilnya.”
+
+“Tidak ada yang akan rusak.”
+
+“Kau tidak tahu itu.”
+
+Pengawas itu memberi isyarat kepada rekannya. Orang kedua mengeluarkan alat pengungkit dan berlutut di dekat kepingan.
+
+Tavian bergerak untuk menghentikannya. Ia meraih lengan orang itu, tetapi pengawas menariknya menjauh. Tidak ada pukulan. Hanya dorongan keras yang membuat Tavian kehilangan pijakan dan menabrak sisi dinding.
+
+“Cukup,” katanya.
+
+Orang kedua memasukkan ujung alat ke celah di bawah kepingan.
+
+Pada awalnya tidak terjadi apa-apa.
+
+Ia menekan lebih kuat.
+
+Terdengar bunyi pendek dari balik dinding.
+
+Tavian segera berdiri. “Berhenti!”
+
+Kepingan itu terangkat sedikit.
+
+Garis pucat menyala di sepanjang permukaan lantai. Cahaya merambat dari bawah kaki mereka menuju panel di dekat ambang. Getaran rendah muncul, jauh lebih kuat daripada respons pertama yang pernah mereka lihat.
+
+Pengawas itu menarik tangannya.
+
+“Lepaskan alatnya,” kata Tavian.
+
+Orang kedua mencoba menarik pengungkit, tetapi ujungnya tersangkut. Ia menarik sekali lagi.
+
+Cahaya di lantai berubah lebih terang.
+
+Dari bagian dalam bangunan terdengar serangkaian bunyi berat. Sesuatu bergerak di balik dinding. Garis-garis pada permukaan yang sebelumnya tidak aktif mulai menyala satu demi satu.
+
+Tavian mundur ke arah ambang.
+
+“Keluar. Sekarang.”
+
+Pengawas itu menarik rekannya. Mereka berlari menuju akses. Tavian mengikuti, tetapi sebelum mereka mencapai ambang, sebuah bagian struktur di sisi ruangan bergeser dengan suara keras. Debu jatuh dari langit-langit. Jalur keluar masih terlihat, tetapi permukaan di dekatnya mulai bergerak.
+
+Mereka melompat melewati bagian lantai yang terangkat dan mencapai ruang luar.
+
+Di belakang mereka, bunyi mekanis semakin cepat.
+
+Tavian melihat ke arah panel. Garis cahaya menyebar ke sambungan lain yang sebelumnya tidak mereka catat. Ia tidak tahu apakah sistem sedang menutup, membuka, atau mengaktifkan sesuatu yang sama sekali berbeda.
+
+“Jangan kembali masuk!” teriaknya.
+
+Pengawas itu menatap ruang yang berubah. Wajahnya kehilangan ketenangan yang ia tunjukkan selama pertemuan.
+
+“Apa yang terjadi?”
+
+Tavian tidak menjawab.
+
+Ia hanya tahu bahwa tindakan mereka telah memicu sesuatu.
+
+Dan kali ini, mereka tidak sedang mengamati respons sistem dari jarak aman.
+
+---
+
+## Catatan tambahan Scene 14
+
+- Pengawas lapangan Vellum & Iron Recovery dan seorang pekerjanya mencoba mengambil kepingan yang sebelumnya telah didokumentasikan.
+- Tindakan tersebut melanggar pengaturan sementara yang melarang pemindahan benda.
+- Alasan mereka adalah memperoleh bukti fisik untuk menilai temuan dan mendukung kepentingan pemulihan perusahaan; tindakan ini tidak digambarkan sebagai rencana jahat yang sudah diketahui semua pihak.
+- Kepingan terangkat sedikit sebelum sistem merespons dengan cahaya, getaran, dan gerakan mekanis.
+- Tavian berusaha menghentikan tindakan tersebut, tetapi tidak mampu mencegah pemicu.
+- Detail pemicu dan respons sistem merupakan pengembangan prosa NON-CANON; mekanisme fasilitas tetap tidak dijelaskan.
+
+
+---
+
+### Scene 15 — Bangunan Mengunci
+
+Suara dari dalam fasilitas tidak berhenti ketika Tavian mencapai ambang.
+
+Bagian struktur yang bergerak terus bergeser. Garis cahaya menyebar di sepanjang dinding dan lantai, sementara bunyi mekanis terdengar dari beberapa arah sekaligus. Tavian mundur beberapa langkah dan memberi isyarat kepada dua orang yang baru saja keluar agar menjauh dari akses.
+
+“Panggil Seraphine! Panggil semua orang!”
+
+Pengawas lapangan berlari menuju tempat singgah perusahaan. Pekerja yang tadi menggunakan alat pengungkit masih berdiri di dekat ambang, napasnya memburu. Ia memandang ke dalam, seolah baru menyadari bahwa benda yang hendak diambil bukan sekadar bagian lepas.
+
+Tavian hendak menyusul ketika Seraphine datang bersama dua anggota ekspedisi.
+
+“Apa yang terjadi?”
+
+“Mereka mencoba mengangkat kepingan di dalam.”
+
+Seraphine memandang pekerja itu, lalu ke arah akses. “Kau menyentuhnya?”
+
+Pekerja itu tidak menjawab.
+
+“Sekarang bukan waktunya,” kata Tavian. “Kita harus memastikan tidak ada orang di dalam.”
+
+Seraphine segera menghitung orang yang berada di dekat mereka. Pengawas dan satu pekerja sudah keluar. Tavian berada di ambang. Dua anggota ekspedisi baru tiba. Namun, satu orang dari tim dokumentasi belum terlihat.
+
+“Di mana yang lain?” tanyanya.
+
+Tavian menoleh ke arah ruang dalam. “Aku tidak tahu.”
+
+Mereka memanggil nama anggota tim tersebut. Tidak ada jawaban yang jelas. Dari dalam terdengar suara samar, tertutup bunyi mekanis yang terus berlangsung.
+
+Seraphine bergerak mendekat, tetapi Tavian menahan lengannya.
+
+“Jangan masuk sebelum kita tahu kondisinya.”
+
+“Kalau ada orang di dalam, kita harus menemukannya.”
+
+“Dan kalau aksesnya menutup?”
+
+Seraphine melihat ke arah panel. Garis cahaya semakin terang. Bagian struktur yang tadi bergeser kini bergerak lagi, kali ini melintasi sebagian ambang.
+
+Mereka tidak punya banyak waktu untuk berdebat.
+
+Tavian memanggil lagi. Kali ini terdengar jawaban pendek dari dalam.
+
+“Di sini!”
+
+Suara itu datang dari sisi yang lebih jauh, bukan dari ruang pertama. Seseorang masih berada di dalam fasilitas.
+
+Seraphine segera mengambil lampu dan perlengkapan dasar. “Kita masuk sampai titik yang bisa kita pastikan. Dua orang tetap di luar untuk memanggil bantuan. Jangan ada yang menyentuh panel atau benda apa pun.”
+
+Tavian mengangguk. Ia tahu keputusan itu berisiko. Ia juga tahu bahwa meninggalkan seseorang di dalam tanpa mencoba mencarinya bukan pilihan yang bisa ia terima.
+
+Mereka memasuki ruang luar.
+
+Cahaya dari panel bergerak di sepanjang sambungan dinding. Beberapa bidang yang sebelumnya rata kini menonjol sedikit, membentuk garis batas baru. Tavian mengenali sebagian jalur yang mereka gunakan saat pemeriksaan awal, tetapi beberapa bagian telah berubah.
+
+Di belakang mereka, terdengar bunyi keras.
+
+Tavian berbalik tepat ketika bagian struktur di dekat ambang bergerak menutup. Seraphine dan dua anggota tim berhasil melewati ruang pertama, tetapi jalan kembali kini tertutup oleh bidang padat yang turun dari atas.
+
+Cahaya luar menghilang.
+
+Mereka terjebak di dalam.
+
+“Jangan bergerak dulu,” kata Seraphine.
+
+Tavian menahan lampunya ke arah permukaan yang baru menutup. Tidak ada celah yang cukup besar untuk dilewati. Ia mengetuknya sekali dengan gagang alat. Bunyi yang kembali terdengar padat dan berat.
+
+Mereka memanggil orang-orang di luar. Suara mereka hanya menghasilkan gema pendek.
+
+Seraphine menutup mata sejenak, lalu membuka kembali catatannya. “Kita harus menemukan orang yang tadi menjawab.”
+
+“Kalau ada jalan lain?”
+
+“Kita cari. Tapi jangan menganggap bangunan ini punya jalan keluar yang bisa kita gunakan.”
+
+Tavian memeriksa peta kerja yang dibawanya. Garis-garisnya hanya menggambarkan bagian luar bukit dan jalur batu. Tidak ada denah fasilitas. Tidak ada ukuran ruang dalam. Peta itu tidak berguna untuk menentukan jalan keluar.
+
+Ia menutupnya.
+
+Mereka bergerak perlahan mengikuti dinding, menjaga jarak dari bagian yang masih bergetar. Seraphine mencatat perubahan yang terlihat, tetapi tidak berhenti terlalu lama. Di satu titik, mereka menemukan cabang ruang yang sebelumnya tidak terlihat dari ambang. Sebuah bidang bergerak menutup sebagian jalur di belakang mereka.
+
+“Ke arah suara,” kata Tavian.
+
+Mereka memanggil lagi. Kali ini jawaban terdengar lebih dekat.
+
+“Di balik sini!”
+
+Suara itu datang dari balik bidang dinding yang telah bergeser. Tavian mendekat, tetapi Seraphine segera menghentikannya ketika melihat garis cahaya bergerak di sepanjang sambungan.
+
+“Jangan paksa.”
+
+“Dia ada di baliknya.”
+
+“Aku tahu.”
+
+Seraphine memeriksa tepi bidang. Tidak ada pegangan atau mekanisme yang dapat dikenali. Ia mencoba mencari bagian yang masih terbuka, tetapi permukaannya rata dan tidak menunjukkan celah yang aman untuk ditarik.
+
+Dari sisi lain, terdengar tiga ketukan.
+
+Lalu suara orang yang terjebak itu berkata, lebih pelan, “Aku tidak bisa keluar.”
+
+Seraphine menoleh ke arah Tavian.
+
+Mereka tidak tahu berapa lama struktur itu akan tetap bergerak. Mereka tidak tahu apakah bagian yang menutup dapat dibuka kembali. Mereka bahkan belum memahami apa yang memicu perubahan tersebut.
+
+Namun, sekarang mereka tahu satu hal.
+
+Ada seseorang yang terjebak di balik dinding.
+
+Seraphine melihat kembali wadah dokumentasi yang dibawanya. Beberapa catatan awal masih tersimpan di dalamnya. Ia dapat mencoba menyelamatkan benda-benda itu sebelum sistem merusak ruangan lebih jauh, atau meninggalkan semuanya untuk mencari cara mencapai orang yang terjebak.
+
+Ia menutup wadah tersebut dan mengikatnya ke sisi tas.
+
+“Catatan bisa dibuat ulang,” katanya. “Orang tidak.”
+
+Tavian mengangguk.
+
+Mereka mulai mencari jalur lain.
+
+Di luar, akses fasilitas telah tertutup. Di dalam, bangunan terus bergerak dengan pola yang tidak mereka pahami.
+
+Dan untuk pertama kalinya sejak ekspedisi dimulai, tidak ada peta yang dapat memberi tahu Tavian ke mana ia harus pergi.
+
+---
+
+## Catatan tambahan Scene 15
+
+- Sistem mengubah kondisi fasilitas dan menutup akses utama setelah pemicu pada Scene 14.
+- Setidaknya satu anggota tim dokumentasi masih berada di dalam dan terjebak di balik bagian struktur yang bergeser.
+- Tavian dan Seraphine bersama dua anggota tim ikut terjebak di bagian dalam; orang-orang di luar tidak dapat langsung menjangkau mereka.
+- Seraphine memilih memprioritaskan pencarian dan keselamatan orang daripada mempertahankan seluruh dokumentasi.
+- Tavian harus mengambil keputusan tanpa denah atau data struktur bagian dalam.
+- Mekanisme penguncian dan pembagian ruang digambarkan melalui efek yang terlihat; sistem pertahanan belum dipahami atau dikuasai karakter.
+- Detail lokasi, urutan gerakan, dan keadaan darurat merupakan pengembangan prosa NON-CANON.
