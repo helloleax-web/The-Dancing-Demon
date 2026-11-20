@@ -413,3 +413,13 @@ Tidak ada perubahan CANON.
 
 - Koreksi kontinuitas Scene 15: hanya Tavian, Seraphine, dan Kael yang masuk; dua anggota ekspedisi tetap di luar untuk meminta bantuan. Audit sebelumnya keliru menyebut lima orang masuk; laporan diperbaiki.
 - Jumlah panel storyboard terverifikasi adalah 602, bukan 604; indeks manuskrip diselaraskan.
+
+
+## 2026-11-20 — Pengembangan Buku II
+
+- Membuat outline 20 scene dan Character Knowledge Matrix Buku II.
+- Menulis pass pertama manuskrip Buku II, enam bab dan sekitar 9.542 kata.
+- Membuat Manuscript Index dan Continuity Audit Report Buku II.
+- Menetapkan Bellwether, Rookbridge, Mira, Daren, dan tim Meridian sebagai keputusan cerita draft NON-CANON.
+- Memperbaiki sudut pandang saat Daren pertama muncul agar nama tidak disebut sebelum perkenalan karakter.
+- Tidak ada perubahan CANON; tidak ada keputusan baru tentang LEAX.
