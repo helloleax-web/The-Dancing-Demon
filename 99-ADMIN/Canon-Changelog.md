@@ -673,3 +673,13 @@ Matriks rotasi R0.2 diperiksa ulang dan diperbaiki agar ortogonal (deviasi maksi
 - Membuat indeks storyboard dan laporan audit kontinuitas visual.
 - Jendela pengungkapan NVR AGAIN dipertahankan pada Bab 3, Halaman 15; makna dan referen tetap terbuka.
 - Tidak ada perubahan CANON atau keputusan baru tentang LEAX.
+
+
+## 2026-11-20 — Outline Buku V
+
+- Membuat Book V Scene Outline Draft 0.1 berisi 22 scene dalam lima bagian, berfokus pada rekonstruksi Great War melalui arsip dan kesaksian.
+- Membuat Development Index, Character Knowledge Matrix, dan Outline Audit Report.
+- NVR AGAIN dikaitkan dengan musik Great War melalui perbandingan sumber; asal musik dan mekanisme tetap UNKNOWN.
+- Efek jubah mana hitam dipertahankan sesuai fakta CANON; mekanisme dan asal tidak dikarang.
+- Cakupan istilah Resonansi Hitam dan seluruh detail LEAX ditahan untuk klarifikasi pengguna.
+- Tidak ada perubahan CANON.
