@@ -565,3 +565,11 @@ Matriks rotasi R0.2 diperiksa ulang dan diperbaiki agar ortogonal (deviasi maksi
 - Scene 15 diperjelas: Tavian, Seraphine, Kael, dan dua anggota ekspedisi masuk ke fasilitas; kelimanya terjebak ketika akses tertutup.
 - Catatan scene menyebut seluruh lima orang secara eksplisit agar tidak ada ambiguitas posisi Kael.
 - Tidak ada perubahan hasil adegan atau fakta CANON.
+
+
+## 2026-11-20 — Koreksi hitungan orang pada Scene 15
+
+- Audit ulang menemukan kontradiksi antara instruksi agar dua anggota ekspedisi tetap di luar dan kalimat yang sebelumnya menyebut kelimanya masuk.
+- Prosa Scene 15 dikoreksi: Tavian, Seraphine, dan Kael masuk; dua anggota ekspedisi tetap di luar untuk memanggil bantuan; anggota dokumentasi yang dicari berada lebih dalam.
+- Audit kontinuitas diperbarui. Storyboard Bab 5 sudah mengikuti pembagian tiga orang di dalam dan dua orang di luar.
+- Tidak ada perubahan CANON.
