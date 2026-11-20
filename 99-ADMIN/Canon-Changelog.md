@@ -540,3 +540,12 @@ Matriks rotasi R0.2 diperiksa ulang dan diperbaiki agar ortogonal (deviasi maksi
 - Membuat storyboard manga Bab 1 sepanjang 18 halaman (sekitar 90 panel) berdasarkan Scenes 1–3; peta kedua tetap ditahan untuk pembuka Bab 2.
 - Indeks manuskrip diperbarui dengan tautan ke pedoman dan storyboard.
 - Seluruh storyboard adalah adaptasi NON-CANON dan tidak mengubah desain final karakter atau dunia.
+
+
+## 2026-11-20 — Storyboard manga Buku I
+
+- Storyboard awal untuk seluruh enam bab Buku I telah dibuat: 118 halaman dan sekitar 604 panel.
+- Dibuat indeks storyboard terpisah agar pembagian halaman dan panel dapat ditinjau sebagai satu kesatuan.
+- Dibuat brief desain visual Tavian, Seraphine, dan Kael. Semua detail visual, termasuk proposal presentasi gender karakter yang belum ditetapkan CANON, tetap NON-CANON.
+- Storyboard mengikuti urutan 19 scene dan tidak menambahkan hubungan baru dengan LEAX atau misteri utama dunia.
+- Tidak ada perubahan CANON.
