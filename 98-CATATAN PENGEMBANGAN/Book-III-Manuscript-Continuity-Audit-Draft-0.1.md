@@ -7,7 +7,7 @@
 
 - Seluruh 20 scene outline telah memiliki prosa awal.
 - Manuskrip berjumlah sekitar 6,819 kata termasuk metadata dan catatan tambahan.
-- Urutan cerita: membandingkan dua sumber → memperkenalkan Ilyra → menemukan rujukan Hollow Vale → memeriksa fasilitas kedua → menghadapi hak atas salinan → menemukan indeks tidak lengkap → memperoleh rujukan batu bertulis.
+- Urutan cerita: membandingkan fragmen Buku I, penanda Rookbridge, dan laporan permukaan buatan Daren → memperkenalkan Ilyra → menemukan catatan Hollow Vale → memeriksa fasilitas kedua → menghadapi hak atas salinan → menemukan indeks tidak lengkap → memperoleh rujukan batu bertulis.
 - Konflik utama berpusat pada informasi dan konteks, bukan pengulangan insiden pengambilan paksa Buku I.
 - Tidak ada pengungkapan tentang LEAX, Great War, NVR AGAIN, atau entitas kosmik.
 
