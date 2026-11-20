@@ -420,3 +420,13 @@ Matriks rotasi R0.2 diperiksa ulang dan diperbaiki agar ortogonal (deviasi maksi
 - Detail tindakan, dialog, dan karakterisasi adalah eksperimen NON-CANON; belum menjadi manuskrip final.
 - Scene Outline diberi tautan ke eksperimen tersebut.
 - Dampak CANON: tidak ada.
+
+
+## Kelanjutan eksperimen prosa Buku I — 2026-11-20
+
+- Manuskrip Bab 1 diperluas dengan Scene 3, “Jalur yang Tidak Cocok”.
+- Ketidaksesuaian rute dibangun melalui pengukuran dan penanda lapangan; belum ada kesimpulan bahwa jalan kuno atau fasilitas telah ditemukan.
+- Adegan menyiapkan pengungkapan peta kedua Kael pada Scene 4 tanpa membocorkan asal-usulnya.
+- Manuskrip kini berisi Scenes 1–3 dengan sekitar 2.188 kata.
+- Seluruh tambahan prosa, dialog, dan karakterisasi tetap NON-CANON.
+- Dampak CANON: tidak ada.
