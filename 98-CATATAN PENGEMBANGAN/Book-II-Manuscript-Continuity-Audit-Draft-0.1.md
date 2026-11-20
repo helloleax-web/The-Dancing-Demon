@@ -79,3 +79,11 @@
 - Laporan tersebut dicatat terpisah; tidak membuktikan bahwa lokasi itu fasilitas atau bagian dari jaringan.
 - Total kata diperbarui menjadi sekitar 9.721 kata termasuk metadata dan catatan.
 - Untuk rangkuman pemeriksaan terbaru, gunakan [Book II Continuity Audit Report — Draft 0.1](Book-II-Continuity-Audit-Report-Draft-0.1.md), yang memuat pemeriksaan peta, karakter, sumber informasi, dan jembatan ke Buku III.
+
+
+## 9. Addendum — storyboard manga
+
+- Enam storyboard Buku II telah dibuat: 110 halaman dan 570 panel.
+- Adaptasi menjaga pemisahan sumber informasi: peta Tavian, peta Meridian, catatan Mira, fragmen Buku I, dan laporan survei Daren.
+- Nama Daren baru diperkenalkan setelah Mira menyapanya; penyebutan awal dalam prosa telah diperbaiki.
+- Untuk rincian audit panel, gunakan [Book II Manga Storyboard Audit — Draft 0.1](Book-II-Manga-Storyboard-Audit-Report-Draft-0.1.md).
