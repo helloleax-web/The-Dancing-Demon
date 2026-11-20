@@ -216,3 +216,23 @@ Konfigurasi berikut dipilih sebagai arah draft agar organisasi memiliki kepentin
 **Batas:** ini adalah arah cerita yang direkomendasikan, bukan fakta CANON. Organization Bible tetap menjadi sumber fakta resmi sampai keputusan status dibuat.
 
 Untuk memisahkan hak tanah, akses, penelitian, pemulihan, dan penjagaan dalam konflik fasilitas, gunakan [Book I Heritage Dispute Framework — Draft 0.1](Book-I-Heritage-Dispute-Framework-Draft-0.1.md). Kerangka tersebut juga NON-CANON.
+
+
+## Keputusan lokasi dan organisasi untuk Buku II — Draft 0.1 — 2026-11-20
+
+### Bellwether
+- **Keputusan draft:** digunakan sebagai kota transit regional dengan tempat penyimpanan peta, catatan rute lama, jasa penyalin, pedagang, dan pekerja perjalanan.
+- **Fungsi cerita:** tempat kelompok mencari pembanding bagi fragmen Buku I dan bertemu Mira Solenne.
+- **Batas:** posisi geografis, ukuran, pemerintahan, dan hubungan politiknya belum dikunci dalam CANON.
+
+### Rookbridge
+- **Keputusan draft:** digunakan sebagai permukiman di sekitar perlintasan jembatan penting.
+- **Fungsi cerita:** konflik akses dan keselamatan perlintasan memperlihatkan dampak nyata dari keputusan pemetaan; tempat Daren Holt diperkenalkan.
+- **Batas:** letak, penguasa, penduduk, sejarah, dan hubungan politiknya tetap NON-CANON dalam draft.
+
+### Konsorsium Survei Meridian
+- **Keputusan draft:** tampil melalui tim survei regional yang memiliki kontrak untuk menilai jalur dan perlintasan di sekitar Rookbridge.
+- **Fungsi cerita:** memperlihatkan persaingan profesional dan perbedaan mandat, bukan organisasi jahat.
+- **Batas:** struktur, kepemimpinan, sumber dana, dan kewenangan organisasi belum ditetapkan dalam CANON.
+
+**Status seluruh keputusan:** NON-CANON. Tidak ada perubahan pada Location Bible atau Organization Bible.
