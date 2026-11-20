@@ -432,3 +432,11 @@ Tidak ada perubahan CANON.
 - Membuat Book II Manuscript Index dan Book II Continuity Audit Report.
 - Memperbarui Character Knowledge Matrix; total draft sekitar 9.721 kata termasuk metadata/catatan.
 - Semua materi tetap NON-CANON; tidak ada perubahan pada LEAX, Great War, 13 Prasasti, atau entitas kosmik.
+
+
+## 2026-11-20 — Storyboard manga Buku II
+
+- Menyelesaikan storyboard manga Buku II Bab 1–6 (110 halaman, 570 panel) dan membuat indeks serta audit storyboard.
+- Menyelaraskan estimasi panel dengan jumlah penanda panel aktual.
+- Memperbaiki urutan perkenalan Daren pada prosa Bab 4 dan menyelaraskan storyboard.
+- Semua storyboard tetap NON-CANON; belum ada thumbnail artistik atau layout final.
