@@ -151,8 +151,8 @@ Penemuan didokumentasikan dan diumumkan dengan batas interpretasi yang jelas. Na
 - **Fungsi:** menyelesaikan konflik akses tanpa menghapus perbedaan kepentingan.
 
 **Scene 18 — Prasasti Pertama**
-- Kelompok menyusun laporan penemuan dan mengklasifikasikan batu tersebut sebagai Prasasti pertama yang berhasil mereka identifikasi.
-- Tidak ada klaim bahwa seluruh Prasasti lain telah ditemukan atau dipahami.
+- Kelompok menyusun laporan penemuan dan menyebutnya Prasasti pertama yang berhasil mereka identifikasi dalam penyelidikan ini.
+- Penyebutan tersebut tidak berarti mereka mengetahui jumlah, lokasi, atau isi Prasasti lain.
 - **Fungsi:** memberi status historis pada penemuan tanpa menjawab misteri lain.
 
 **Scene 19 — Nama Menyebar**
