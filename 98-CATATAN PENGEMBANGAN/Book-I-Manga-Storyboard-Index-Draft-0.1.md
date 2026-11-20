@@ -9,13 +9,13 @@
 
 | Bab | Judul | Scene | Halaman | Panel |
 |---:|---|---:|---:|---:|
-| 1 | Pekerjaan yang Tidak Terlihat | 1–3 | 18 | 91 |
+| 1 | Pekerjaan yang Tidak Terlihat | 1–3 | 18 | 89 |
 | 2 | Peta Kedua dan Jalan Batu | 4–6 | 20 | 101 |
 | 3 | Ambang Fasilitas | 7–9 | 22 | 116 |
 | 4 | Klaim dan Harga Sebuah Informasi | 10–13 | 24 | 122 |
 | 5 | Bangunan yang Mengunci | 14–17 | 22 | 114 |
 | 6 | Peta Tanpa Negeri | 18–19 | 12 | 60 |
-| **Total** | | **1–19** | **118** | **604** |
+| **Total** | | **1–19** | **118** | **602** |
 
 ## Tautan
 
