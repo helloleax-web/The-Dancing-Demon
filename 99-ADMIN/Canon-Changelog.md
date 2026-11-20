@@ -500,3 +500,12 @@ Matriks rotasi R0.2 diperiksa ulang dan diperbaiki agar ortogonal (deviasi maksi
 - Seluruh 19 scene outline kini memiliki draft prosa awal; manuskrip berjumlah sekitar 17.066 kata.
 - Character Knowledge Matrix diperbarui. Tidak ada perubahan fakta CANON atau materi LEAX.
 - Status ini hanya menandai selesainya pass pertama scene outline, bukan selesainya keseluruhan Book I atau finalisasi naskah.
+
+
+## Penataan manuskrip Buku I menjadi enam bab — 2026-11-20
+
+- Pass pertama 19 scene dipisahkan menjadi enam bab kerja agar panjang dan struktur lebih layak untuk revisi.
+- Bab 1 memuat Scenes 1–3; Bab 2 Scenes 4–6; Bab 3 Scenes 7–9; Bab 4 Scenes 10–13; Bab 5 Scenes 14–17; Bab 6 Scenes 18–19.
+- Dibuat [Book I Manuscript Index — Draft 0.1](../98-CATATAN%20PENGEMBANGAN/Book-I-Manuscript-Index-Draft-0.1.md) sebagai titik masuk ke seluruh bab.
+- Isi adegan dan catatan editorial dipertahankan; perubahan hanya penataan dokumen, bukan revisi fakta cerita.
+- Seluruh manuskrip tetap NON-CANON. Tidak ada perubahan CANON atau materi LEAX.
