@@ -496,3 +496,8 @@ Tidak ada perubahan CANON.
 - Menyelesaikan storyboard manga Buku IV Bab 1–4 (74 halaman, 370 panel) dan menghubungkan indeks serta audit kontinuitas visual.
 - Mempertahankan pengungkapan NVR AGAIN pada Bab 3, Halaman 15 tanpa menambahkan makna atau referen.
 - Tidak ada perubahan CANON atau keputusan baru tentang LEAX; storyboard tetap NON-CANON.
+
+
+- Membuat kerangka pengembangan Buku V: 22 scene, Development Index, Character Knowledge Matrix, dan Outline Audit Report.
+- Menjaga fakta Great War, NVR AGAIN, dan jubah mana hitam sesuai CANON; cakupan Resonansi Hitam belum ditafsirkan.
+- Seluruh rincian LEAX ditahan untuk arahan pengguna. Tidak ada perubahan CANON.
