@@ -71,3 +71,18 @@
 Pass pertama **lulus pemeriksaan kesesuaian premis pada tingkat kerangka**, setelah koreksi posisi Kael di Scene 15. Ini bukan persetujuan final atas kualitas prosa atau penyelesaian Book I. Naskah masih membutuhkan revisi struktural, penyuntingan bahasa, penguatan suara karakter, dan pemecahan menjadi halaman/panel manga.
 
 **Dampak CANON: tidak ada.** Seluruh naskah dan temuan audit ini tetap NON-CANON.
+
+
+## 8. Ukuran draft per bab setelah pemisahan
+
+| Bab | Scene | Jumlah kata (termasuk metadata dan catatan) |
+|---|---:|---:|
+| 1 — Pekerjaan yang Tidak Terlihat | 1–3 | 2.220 |
+| 2 — Peta Kedua dan Jalan Batu | 4–6 | 2.523 |
+| 3 — Ambang Fasilitas | 7–9 | 2.722 |
+| 4 — Klaim dan Harga Sebuah Informasi | 10–13 | 4.667 |
+| 5 — Bangunan yang Mengunci | 14–17 | 3.926 |
+| 6 — Peta Tanpa Negeri | 18–19 | 1.265 |
+| **Total** | **1–19** | **17.323** |
+
+Angka ini mencakup header, metadata, dan catatan tambahan tiap scene; bukan jumlah kata prosa naratif murni.
