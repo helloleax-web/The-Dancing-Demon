@@ -386,3 +386,7 @@ Tidak ada perubahan CANON.
 - Membuat Book I Continuity Audit Report; hasil: sesuai kerangka CANON pada tingkat premis, dengan isu editorial yang masih perlu ditangani.
 - Memperbarui Character Knowledge Matrix dan tautan dokumen terkait.
 - Tidak ada perubahan CANON atau materi LEAX. Naskah tetap NON-CANON dan belum final.
+
+
+- Klarifikasi tambahan Scene 18: salinan fragmen dibuat dari dokumentasi awal, bukan dengan mengambil benda atau memasuki fasilitas kembali.
+- Penyelarasan catatan Scene 19 dengan prosa tentang sisa kertas pesan yang hangus.
