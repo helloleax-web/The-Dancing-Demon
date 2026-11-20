@@ -343,3 +343,12 @@ Tidak ada perubahan CANON.
 - Total manuskrip sekitar 11.964 kata; cakupan adegan 1–13 dari 19 scene outline.
 - Character Knowledge Matrix, Mystery Ledger M-01, dan Character Development Dossier diselaraskan.
 - Tidak ada perubahan CANON; seluruh rincian pengembangan tetap NON-CANON dan tidak menyentuh hal tentang LEAX.
+
+
+## Pembaruan manuskrip draft Buku I — 2026-11-20 (Scenes 14–17)
+
+- Bab 1 diperluas hingga Scene 17 “Menjaga, Bukan Memiliki”.
+- Insiden pengambilan paksa memicu sistem pertahanan; kelompok terjebak, melakukan penyelamatan, lalu mengamankan fasilitas sementara tanpa memutus sengketa hak.
+- Total manuskrip sekitar 15.838 kata; cakupan adegan 1–17 dari 19 scene outline.
+- Character Knowledge Matrix diselaraskan dengan hasil insiden dan penjagaan sementara.
+- Tidak ada perubahan CANON; semua detail tetap NON-CANON dan tidak memutuskan hal tentang LEAX.
