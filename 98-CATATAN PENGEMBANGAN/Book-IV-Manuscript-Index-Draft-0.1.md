@@ -25,3 +25,9 @@
 - Makna nama, referen, pembuat, dan konteks sejarah tetap belum dijelaskan.
 - Ini merupakan pass pertama, bukan naskah final Buku IV.
 - Semua detail baru tetap NON-CANON.
+
+
+## Adaptasi manga
+
+- [Book IV Manga Storyboard Index — Draft 0.1](Book-IV-Manga-Storyboard-Index-Draft-0.1.md) — seluruh 20 scene telah diadaptasi ke storyboard awal.
+- [Book IV Manga Storyboard Audit — Draft 0.1](Book-IV-Manga-Storyboard-Audit-Report-Draft-0.1.md).
