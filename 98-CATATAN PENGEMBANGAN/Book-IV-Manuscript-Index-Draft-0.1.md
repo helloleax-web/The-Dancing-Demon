@@ -31,3 +31,9 @@
 
 - [Book IV Manga Storyboard Index — Draft 0.1](Book-IV-Manga-Storyboard-Index-Draft-0.1.md) — seluruh 20 scene telah diadaptasi ke storyboard awal.
 - [Book IV Manga Storyboard Audit — Draft 0.1](Book-IV-Manga-Storyboard-Audit-Report-Draft-0.1.md).
+
+
+## Adaptasi manga
+
+- [Book IV Manga Storyboard Index — Draft 0.1](Book-IV-Manga-Storyboard-Index-Draft-0.1.md) — 74 halaman, 370 panel, mencakup seluruh 20 scene.
+- [Book IV Manga Storyboard Audit — Draft 0.1](Book-IV-Manga-Storyboard-Audit-Report-Draft-0.1.md) — pemeriksaan jendela pengungkapan dan kontinuitas visual.
