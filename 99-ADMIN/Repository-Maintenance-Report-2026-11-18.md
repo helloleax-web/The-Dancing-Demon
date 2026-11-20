@@ -423,3 +423,12 @@ Tidak ada perubahan CANON.
 - Menetapkan Bellwether, Rookbridge, Mira, Daren, dan tim Meridian sebagai keputusan cerita draft NON-CANON.
 - Memperbaiki sudut pandang saat Daren pertama muncul agar nama tidak disebut sebelum perkenalan karakter.
 - Tidak ada perubahan CANON; tidak ada keputusan baru tentang LEAX.
+
+
+## 2026-11-20 — Manuskrip Buku II
+
+- Memverifikasi seluruh enam bab manuskrip Buku II; 20 scene outline sudah tercakup.
+- Menambahkan catatan survei lama Daren pada Scene 19 Bab 6 agar sesuai dengan outline dan menjaga petunjuk lokasi lain tetap terbatas.
+- Membuat Book II Manuscript Index dan Book II Continuity Audit Report.
+- Memperbarui Character Knowledge Matrix; total draft sekitar 9.721 kata termasuk metadata/catatan.
+- Semua materi tetap NON-CANON; tidak ada perubahan pada LEAX, Great War, 13 Prasasti, atau entitas kosmik.
