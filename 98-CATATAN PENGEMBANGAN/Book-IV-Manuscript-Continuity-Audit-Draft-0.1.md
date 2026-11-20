@@ -78,3 +78,11 @@
 - Nama NVR AGAIN pertama muncul pada Scene 14, Bab 3, Halaman 15 dalam storyboard.
 - Tidak ada penjelasan makna nama atau informasi baru tentang LEAX.
 - Lihat [Book IV Manga Storyboard Audit — Draft 0.1](Book-IV-Manga-Storyboard-Audit-Report-Draft-0.1.md).
+
+
+## 8. Addendum — adaptasi manga
+
+- Empat storyboard Buku IV telah dibuat: 74 halaman dan 370 panel.
+- Nama NVR AGAIN pertama kali muncul pada Bab 3, Halaman 15, sesuai Scene 14.
+- Great War hanya menjadi salah satu arah pencarian arsip pada penutup; karakter belum mengetahui hubungan nama dengan musik perang.
+- Untuk pemeriksaan visual, gunakan [Book IV Manga Storyboard Audit — Draft 0.1](Book-IV-Manga-Storyboard-Audit-Report-Draft-0.1.md).
