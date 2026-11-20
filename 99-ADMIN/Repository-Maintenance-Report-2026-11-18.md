@@ -334,3 +334,12 @@ Tidak ada perubahan CANON.
 - Total manuskrip sekitar 10.831 kata; cakupan adegan 1–12 dari 19 scene outline.
 - Character Knowledge Matrix diselaraskan dengan pengetahuan karakter setelah Scene 12.
 - Tidak ada perubahan CANON; pengembangan tetap NON-CANON dan tidak memutuskan hal tentang LEAX.
+
+
+## Pembaruan manuskrip draft Buku I — 2026-11-20 (Scene 13)
+
+- Bab 1 diperluas hingga Scene 13 “Harga Sebuah Informasi”.
+- Kael mengungkap kontrak melalui perantara Iven Rusk; tujuan verifikasi rumor arsip dan salinan indeks/catatan akses dijelaskan tanpa mengubah status Arsip Lentera sebagai organisasi CANON.
+- Total manuskrip sekitar 11.964 kata; cakupan adegan 1–13 dari 19 scene outline.
+- Character Knowledge Matrix, Mystery Ledger M-01, dan Character Development Dossier diselaraskan.
+- Tidak ada perubahan CANON; seluruh rincian pengembangan tetap NON-CANON dan tidak menyentuh hal tentang LEAX.
