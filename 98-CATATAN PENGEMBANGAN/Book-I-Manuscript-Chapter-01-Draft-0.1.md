@@ -1897,3 +1897,291 @@ Dan untuk pertama kalinya sejak ekspedisi dimulai, tidak ada peta yang dapat mem
 - Tavian harus mengambil keputusan tanpa denah atau data struktur bagian dalam.
 - Mekanisme penguncian dan pembagian ruang digambarkan melalui efek yang terlihat; sistem pertahanan belum dipahami atau dikuasai karakter.
 - Detail lokasi, urutan gerakan, dan keadaan darurat merupakan pengembangan prosa NON-CANON.
+
+
+---
+
+### Scene 16 — Menyelamatkan Orang
+
+Mereka mengikuti suara itu.
+
+Tavian berjalan paling depan, tetapi ia tidak bergerak cepat. Setiap langkah diperiksa sebelum diberi beban. Ia menggunakan ujung alat ukur untuk memastikan permukaan lantai tidak berubah tinggi atau bergeser ketika diinjak. Di belakangnya, Seraphine menjaga lampu tetap mengarah ke jalur yang telah mereka lewati.
+
+Kael berjalan di sisi dinding.
+
+“Ketuk lagi!” serunya.
+
+Tiga ketukan terdengar dari balik bidang yang menutup lorong.
+
+“Di sini!”
+
+Suara itu semakin lemah.
+
+Tavian berhenti di dekat sambungan dinding. Ia memeriksa bagian atas dan bawah, mencari celah yang dapat digunakan untuk melihat posisi orang di baliknya. Tidak ada bukaan yang cukup besar.
+
+“Bisa dengar kami?” teriak Seraphine.
+
+“Bisa!”
+
+“Jangan bergerak dulu. Kami sedang mencari jalan.”
+
+Seraphine menoleh kepada Tavian. “Kita perlu tahu apakah ada ruang di sisi lain.”
+
+Tavian menempelkan telapak tangannya ke permukaan, lalu mengetuk beberapa titik dengan gagang alat. Bunyi yang kembali tidak sama. Di bagian tengah terdengar padat, sedangkan di sisi kiri ada gema yang sedikit lebih panjang.
+
+“Bagian ini mungkin tidak menempel langsung pada ruang di belakangnya,” katanya.
+
+“Mungkin,” jawab Seraphine. “Jangan jadikan itu kepastian.”
+
+Kael berjongkok di dekat lantai. Ia memperhatikan garis cahaya yang bergerak di sepanjang sambungan. Cahaya itu muncul, meredup, lalu muncul lagi setelah jeda yang hampir sama.
+
+“Perhatikan polanya,” katanya.
+
+Tavian menoleh.
+
+“Cahayanya bergerak dari sini ke sana, lalu berhenti. Setelah itu bagian di dekat kita menyala.”
+
+“Dan?”
+
+“Setiap kali menyala, ada bunyi dari balik dinding.”
+
+Tavian mendengarkan. Setelah beberapa saat, ia menyadari bahwa Kael benar. Ada jeda singkat antara perubahan cahaya dan getaran pada permukaan.
+
+“Kita tidak tahu apa artinya,” kata Seraphine.
+
+“Aku tidak bilang tahu,” jawab Kael. “Tapi mungkin kita bisa memperkirakan kapan bagian itu bergerak.”
+
+Mereka menunggu satu siklus lagi. Cahaya menyebar dari sambungan atas menuju sisi kanan. Bunyi berat terdengar, kemudian berhenti. Bagian dinding di hadapan mereka bergetar sangat halus.
+
+Tavian mundur.
+
+“Kita tidak bisa menariknya saat bergerak.”
+
+Seraphine memeriksa tas perlengkapannya. Ia mengeluarkan tali pendek dan alat pengungkit yang biasa digunakan untuk memindahkan benda berat tanpa merusak permukaan. Ia tidak berniat membongkar dinding. Mereka hanya perlu mencari cara membuat celah yang cukup untuk menjangkau orang di baliknya.
+
+“Kalau ada bagian yang bisa digerakkan, kita harus menahan beban sebelum menarik,” katanya.
+
+Tavian memeriksa bagian bawah sambungan. Ada ruang sempit yang mungkin cukup untuk memasukkan ujung alat, tetapi ia tidak tahu apakah bagian tersebut merupakan penutup atau bagian struktural.
+
+Mereka mencoba memanggil orang di balik dinding.
+
+“Apakah kau terluka?”
+
+“Lenganku terbentur. Aku bisa berdiri, tapi tidak bisa lewat.”
+
+“Jangan paksa bergerak,” kata Seraphine. “Tetap di tempatmu.”
+
+Kael mendekat ke sisi lain sambungan dan berbicara melalui celah yang sangat tipis. Ia meminta orang itu menjelaskan posisi kakinya, jarak dari dinding, dan apakah ada benda yang menahannya.
+
+Tavian menggunakan informasi tersebut untuk memperkirakan ruang yang tersedia. Ia menandai satu bagian di sisi bawah, lalu meminta semua orang mundur saat cahaya kembali bergerak.
+
+Ketika getaran berhenti, ia memasukkan ujung alat ke celah dan menekan perlahan.
+
+Tidak ada perubahan.
+
+Ia mencoba lagi dengan posisi berbeda. Kali ini bagian tepi bergerak sedikit, cukup untuk memperlihatkan garis gelap di baliknya.
+
+“Berhenti,” kata Seraphine.
+
+Tavian melepaskan tekanan.
+
+Mereka memeriksa celah yang terbuka. Tidak ada bagian yang runtuh, tetapi permukaan di atasnya masih bergetar. Mereka menunggu satu siklus lagi sebelum mencoba.
+
+Pada percobaan berikutnya, Tavian dan salah seorang anggota tim menggunakan alat pengungkit dari dua sisi. Seraphine mengikat tali pada bagian yang bergerak, sementara Kael terus berkomunikasi dengan orang di balik dinding.
+
+“Begitu ada ruang, jangan langsung keluar,” kata Seraphine. “Tunggu instruksi.”
+
+Celah bertambah lebar beberapa jari.
+
+Mereka menghentikan tekanan dan menahan bagian itu dengan penyangga. Tidak ada yang tahu apakah penyangga tersebut cukup kuat, tetapi untuk sementara ia mencegah bidang itu kembali menutup.
+
+“Sekarang,” kata Tavian.
+
+Orang di balik dinding merangkak mendekat. Satu tangan muncul lebih dulu, lalu bahunya. Ia tersangkut pada tepi bawah dan mengerang ketika mencoba menarik tubuhnya.
+
+Seraphine segera memegang lengannya. Tavian menahan bidang yang bergerak, sementara Kael membantu menarik dari sisi luar.
+
+Mereka berhasil mengeluarkannya.
+
+Orang itu terjatuh ke lantai. Lengannya terluka dan napasnya tidak teratur, tetapi ia masih sadar. Seraphine memeriksa kondisinya dan meminta anggota tim lain membantu menstabilkan posisi tubuhnya.
+
+Tidak ada waktu untuk merayakan keberhasilan.
+
+Bunyi mekanis kembali terdengar dari lorong. Penyangga mulai bergetar. Tavian meminta semua orang menjauh dari bidang yang telah mereka buka.
+
+“Kita harus keluar,” katanya.
+
+Mereka tidak mencoba membuka seluruh dinding. Mereka hanya menggunakan celah yang telah dibuat untuk melewati ruang sempit di sisi lain, lalu mengikuti jalur yang masih dapat dilalui. Beberapa bagian koridor telah tertutup. Bagian lain menunjukkan perubahan bentuk yang belum pernah mereka lihat.
+
+Kael berjalan di belakang, memastikan tidak ada yang tertinggal. Seraphine membawa orang yang terluka bersama anggota tim lain. Tavian memeriksa setiap persimpangan berdasarkan catatan posisi yang masih ia ingat.
+
+Mereka tidak menemukan jalan keluar yang langsung.
+
+Namun, setelah melewati satu ruang kecil, mereka mendengar suara dari arah lain.
+
+“Tavian!”
+
+Suara itu datang dari luar bagian yang tertutup.
+
+Ia menjawab sekeras mungkin. “Kami di sini!”
+
+Dari sisi lain terdengar suara orang-orang yang berusaha mencari jalan masuk. Mereka belum dapat membuka akses utama, tetapi suara itu memberi tahu bahwa kelompok di luar masih berusaha membantu.
+
+Tavian memeriksa dinding di hadapannya. Ada garis sambungan yang lebih tipis daripada bagian lain. Ia tidak menyentuhnya. Ia hanya menandai posisi dan memanggil orang di luar agar mereka tahu di mana kelompok berada.
+
+Beberapa saat kemudian, cahaya di sepanjang dinding meredup. Getaran berhenti. Tidak ada yang tahu apakah sistem telah selesai bekerja atau hanya sedang berada dalam jeda.
+
+Mereka menggunakan kesempatan itu untuk bergerak kembali ke arah ruang pertama.
+
+Ketika akhirnya menemukan bagian struktur yang dapat dibuka dari sisi dalam, mereka tidak mencoba mengaktifkan panel. Mereka menunggu sampai orang-orang di luar berhasil menemukan celah dan membantu menarik bagian yang bergeser.
+
+Satu demi satu, mereka keluar.
+
+Cahaya luar menyambut mereka. Udara malam terasa lebih dingin daripada yang mereka ingat. Orang yang terluka segera dibawa menjauh dari bukit untuk diperiksa lebih lanjut.
+
+Tavian duduk di tanah, tangannya masih gemetar karena menahan alat pengungkit. Seraphine menghampirinya setelah memastikan semua orang telah keluar.
+
+“Kau terluka?”
+
+“Tidak.”
+
+“Kau yakin?”
+
+Tavian mengangguk.
+
+Kael berdiri beberapa langkah dari mereka. Wajahnya berdebu, dan salah satu lengan bajunya robek. Ia melihat kembali ke arah akses yang kini sebagian tertutup.
+
+“Kita tidak mengerti apa yang terjadi di dalam,” katanya.
+
+“Tidak,” jawab Seraphine. “Kita hanya berhasil membawa orang keluar.”
+
+Tavian memandang fasilitas itu. Ia ingin tahu mengapa sistem bergerak, apa yang sebenarnya dilakukan kepingan yang diangkat, dan apakah bangunan tersebut masih akan bereaksi lagi.
+
+Namun, ia tidak memiliki jawaban.
+
+Yang ia tahu, seseorang yang terjebak kini berada di luar.
+
+Untuk malam itu, itu sudah cukup.
+
+---
+
+## Catatan tambahan Scene 16
+
+- Tavian menggunakan pengamatan, pengukuran, dan perkiraan ruang untuk membantu menemukan celah; ia tidak memahami struktur secara teknis.
+- Seraphine mengutamakan keselamatan, mengatur penanganan orang terluka, dan menggunakan perlengkapan untuk membantu evakuasi.
+- Kael mengamati pola cahaya dan getaran serta menjaga komunikasi dengan orang yang terjebak; pengamatan tersebut tidak membuatnya mampu mengendalikan sistem.
+- Kelompok membuka celah secukupnya untuk mengeluarkan orang, bukan membongkar atau menguasai mekanisme fasilitas.
+- Semua orang yang berada dalam kelompok terjebak berhasil keluar; satu anggota tim mengalami cedera tetapi tetap sadar.
+- Sistem berhenti atau meredup tanpa penjelasan. Karakter tidak mengetahui apakah keadaan sudah aman.
+- Keberhasilan adalah penyelamatan terbatas, bukan pemahaman atau penguasaan fasilitas.
+- Seluruh detail teknis penyelamatan dan respons sistem tetap NON-CANON.
+
+
+---
+
+### Scene 17 — Menjaga, Bukan Memiliki
+
+Pemeriksaan dihentikan setelah semua orang yang berada di dalam fasilitas berhasil dikeluarkan.
+
+Tidak ada yang mengusulkan untuk segera masuk kembali. Bahkan pihak Vellum & Iron Recovery, yang sebelumnya bersikeras membutuhkan akses, kini memilih menjaga jarak dari bukit. Pengawas lapangan yang memicu kejadian itu tidak lagi membicarakan pengambilan benda. Ia berdiri di dekat tempat singgah, memandang ke arah akses yang sebagian tertutup.
+
+Orang yang terluka telah dibawa untuk mendapat perawatan. Kondisinya tidak mengancam nyawa, tetapi ia tidak dapat kembali bekerja dalam waktu dekat. Pengawas perusahaan mengakui bahwa tindakan timnya melanggar kesepakatan sementara.
+
+Ia tidak mencoba membenarkannya.
+
+“Kami akan melaporkan kejadian ini kepada perusahaan,” katanya kepada Seraphine.
+
+“Laporkan seluruh urutannya,” jawab Seraphine. “Termasuk bahwa benda di dalam fasilitas diangkat tanpa persetujuan.”
+
+Pengawas itu mengangguk.
+
+Tavian berdiri di dekat penanda batas. Ia melihat bahwa beberapa bagian tanah di sekitar akses telah berubah. Debu dan pecahan kecil menutupi jalur masuk. Struktur yang sebelumnya terbuka kini tidak lagi menunjukkan celah yang sama.
+
+“Kita tidak tahu apakah aksesnya masih bisa dibuka,” katanya.
+
+“Dan kita tidak akan mencoba membukanya sekarang,” jawab Seraphine.
+
+Wakil Vellum & Iron Recovery datang setelah menerima laporan. Ia memeriksa kondisi pekerjanya, mendengarkan penjelasan pengawas, lalu meminta agar kejadian itu dicatat dalam laporan bersama. Ia tidak menyangkal bahwa tindakan tersebut melanggar pengaturan yang telah disepakati.
+
+“Kami tidak akan melakukan pemulihan lagi sampai ada pemeriksaan baru,” katanya.
+
+Seraphine menatapnya. “Bukan hanya pemulihan. Tidak ada yang boleh masuk ke dalam fasilitas sampai kondisi dan aksesnya dinilai aman.”
+
+Wakil itu mengangguk. “Saya mengerti.”
+
+“Dan klaim perusahaan tetap belum diputuskan.”
+
+“Saya tidak meminta Anda memutuskan.”
+
+Tavian memperhatikan mereka. Beberapa hari lalu, ia mengira konflik ini akan berakhir dengan satu pihak menang dan pihak lain pergi. Sekarang, semua orang memiliki alasan untuk berhenti. Perusahaan telah kehilangan kesempatan melakukan pemeriksaan, ekspedisi tidak lagi dapat melanjutkan pekerjaan seperti biasa, dan fasilitas mungkin telah mengalami perubahan yang tidak dapat mereka ukur.
+
+Mereka berkumpul kembali untuk menyusun ketentuan baru.
+
+Kesepakatan sebelumnya tidak cukup untuk menghadapi keadaan yang baru terjadi. Akses utama harus dijaga dari upaya pembukaan paksa. Tidak ada benda yang boleh dipindahkan. Tidak ada orang yang boleh memasuki struktur sampai pemeriksaan keselamatan dilakukan oleh pihak yang memiliki kemampuan dan perlengkapan sesuai. Semua perubahan pada permukaan harus didokumentasikan dari luar batas aman.
+
+Tavian diminta menunjukkan area yang dapat dipantau tanpa mendekati akses. Ia menggunakan peta survei untuk menandai jalur yang aman dan titik pengamatan. Ia juga menandai bagian yang harus dihindari karena tanah dan struktur di sekitarnya mungkin telah berubah.
+
+Seraphine menyusun daftar bukti yang harus dipertahankan: dokumentasi awal, catatan perubahan panel, posisi benda sebelum insiden, serta urutan tindakan yang memicu respons sistem. Ia memastikan laporan tidak menyebut bahwa kelompok memahami mekanisme fasilitas.
+
+Kael membaca salinan laporan dan menambahkan satu catatan mengenai peta kedua. Ia menyatakan bahwa garis pada peta lama telah membantu menemukan jalur batu, tetapi tidak dapat digunakan sebagai panduan untuk memasuki atau menavigasi bagian dalam fasilitas.
+
+“Setidaknya kali ini kau mencatat batas informasi,” kata Seraphine.
+
+“Aku belajar dari pengalaman.”
+
+“Semoga tidak terlambat.”
+
+Mereka kemudian menyepakati masa penjagaan sementara yang lebih panjang daripada pengaturan sebelumnya, sampai pihak berwenang atas wilayah dapat meninjau kondisi situs dan dasar klaim yang diajukan perusahaan. Penjagaan dilakukan secara bergiliran oleh pihak-pihak yang bersedia dan memiliki kemampuan menjaga area, tanpa memasuki fasilitas atau melakukan pemulihan.
+
+Tidak ada keputusan tentang siapa pemilik fasilitas.
+
+Tidak ada pengakuan bahwa perusahaan memiliki seluruh benda di dalamnya.
+
+Tidak ada pula pernyataan bahwa ekspedisi berhak menguasai penemuan hanya karena menemukan jalan menuju tempat itu.
+
+Kesepakatan tersebut hanya menetapkan satu hal: untuk sementara, tempat itu harus dijaga agar tidak ada orang lain yang terluka dan tidak ada bagian yang diambil sebelum kondisinya dipahami.
+
+Setelah dokumen ditandatangani, Tavian berjalan mengitari batas luar bersama Seraphine. Ia memasang penanda baru pada beberapa titik yang sebelumnya belum tercatat. Ia memastikan jalur menuju tempat singgah tetap dapat digunakan tanpa mendekati akses.
+
+Seraphine berhenti di sampingnya.
+
+“Kau masih ingin tahu apa yang ada di dalam?”
+
+“Tentu.”
+
+“Tapi?”
+
+Tavian memandang bukit itu. “Aku tidak mau ada orang lain yang harus terjebak hanya karena kita ingin tahu lebih cepat.”
+
+Seraphine mengangguk.
+
+Di belakang mereka, Kael sedang berbicara dengan wakil perusahaan. Percakapan itu tidak terdengar jelas. Untuk pertama kalinya, ia tidak mencoba ikut campur dalam pembicaraan tentang siapa yang akan memperoleh informasi. Ia hanya menyerahkan salinan catatan yang telah disepakati untuk dibagikan.
+
+Tavian kembali ke peta.
+
+Ia menambahkan garis batas baru, lalu menulis keterangan di sebelahnya:
+
+*Area penjagaan sementara. Bukan batas kepemilikan. Akses fasilitas ditutup sampai pemeriksaan keselamatan lebih lanjut.*
+
+Ia menatap tulisan itu beberapa saat.
+
+Mereka tidak memiliki tempat tersebut.
+
+Mereka bahkan belum memahami apa yang mereka temukan.
+
+Namun, mereka masih dapat memilih untuk tidak membiarkan orang lain merusaknya.
+
+Untuk saat ini, itu adalah satu-satunya keputusan yang dapat mereka pertanggungjawabkan.
+
+---
+
+## Catatan tambahan Scene 17
+
+- Semua orang yang terjebak telah diselamatkan; satu orang mengalami cedera tetapi tidak dalam kondisi mengancam nyawa.
+- Vellum & Iron Recovery mengakui tindakan pengawas lapangannya melanggar kesepakatan sementara dan menghentikan upaya pemulihan.
+- Akses fasilitas ditutup dari kegiatan masuk sampai pemeriksaan keselamatan lebih lanjut.
+- Kesepakatan penjagaan baru mengatur pemantauan dari luar, dokumentasi perubahan, larangan pengambilan, dan penundaan akses.
+- Masa penjagaan berlangsung sampai pihak berwenang atas wilayah dapat meninjau kondisi situs dan dasar klaim.
+- Kesepakatan tidak memutuskan kepemilikan dan tidak memberikan hak permanen kepada ekspedisi atau perusahaan.
+- Tavian menandai batas penjagaan sebagai batas sementara, bukan batas kepemilikan.
+- Detail kesepakatan, durasi, dan prosedur merupakan pengembangan naskah NON-CANON.
