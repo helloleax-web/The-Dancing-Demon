@@ -82,8 +82,8 @@ Pass pertama **lulus pemeriksaan kesesuaian premis pada tingkat kerangka**, sete
 | 3 — Ambang Fasilitas | 7–9 | 2.722 |
 | 4 — Klaim dan Harga Sebuah Informasi | 10–13 | 4.667 |
 | 5 — Bangunan yang Mengunci | 14–17 | 3.926 |
-| 6 — Peta Tanpa Negeri | 18–19 | 1.265 |
-| **Total** | **1–19** | **17.323** |
+| 6 — Peta Tanpa Negeri | 18–19 | 1.297 |
+| **Total** | **1–19** | **17.355** |
 
 Angka ini mencakup header, metadata, dan catatan tambahan tiap scene; bukan jumlah kata prosa naratif murni.
 
