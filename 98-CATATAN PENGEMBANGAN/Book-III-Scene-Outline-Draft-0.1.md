@@ -48,9 +48,9 @@ Kelompok berhasil menyimpan dokumentasi bersama, tetapi tidak memperoleh jawaban
 ### Bagian I — Pola yang Mulai Terlihat
 
 **Scene 1 — Dua Tempat, Dua Catatan**
-- Kelompok menyusun dokumentasi dari fasilitas Buku I dan penanda Rookbridge.
-- Seraphine menekankan bahwa kemiripan visual belum membuktikan hubungan.
-- Tavian menyadari bahwa mereka memerlukan sumber ketiga untuk menguji pola.
+- Kelompok menyusun dokumentasi dari fasilitas Buku I, penanda Rookbridge, dan laporan survei lama Daren tentang permukaan buatan di wilayah lain.
+- Seraphine menekankan bahwa hanya dua sumber pertama yang memiliki kemiripan visual; laporan Daren merupakan petunjuk terpisah dan tidak membuktikan adanya fasilitas.
+- Tavian menyadari bahwa mereka memerlukan sumber tambahan untuk menguji pola dan menilai laporan Daren.
 - **Fungsi:** mengubah petunjuk Buku II menjadi kebutuhan investigasi yang konkret.
 
 **Scene 2 — Pekerjaan Ilyra**
@@ -160,8 +160,8 @@ Kelompok berhasil menyimpan dokumentasi bersama, tetapi tidak memperoleh jawaban
 - **Fungsi:** mengalihkan penyelidikan dari fasilitas ke sumber yang berbeda.
 
 **Scene 19 — Batas Jaringan**
-- Tavian, Seraphine, Ilyra, dan Kael membahas apa yang dapat disimpulkan dari tiga jenis sumber: fasilitas Buku I, penanda Rookbridge, dan Hollow Vale.
-- Mereka sepakat bahwa ada pola rujukan yang patut diteliti, tetapi belum dapat memastikan satu jaringan, satu pembuat, atau satu tujuan.
+- Tavian, Seraphine, Ilyra, dan Kael membahas empat jenis sumber: fasilitas Buku I, penanda Rookbridge, laporan permukaan buatan Daren, dan indeks Hollow Vale.
+- Mereka sepakat bahwa dua sumber memiliki kemiripan pola rujukan, sementara laporan Daren menjadi petunjuk lokasi terpisah; belum ada bukti satu jaringan, pembuat, atau tujuan.
 - **Fungsi:** memberi kesimpulan yang jujur dan membatasi eskalasi.
 
 **Scene 20 — Sisa-Sisa yang Tertinggal**
