@@ -33,12 +33,20 @@
 
 ## 4. Pemeriksaan kontinuitas
 
-- [ ] Mira tidak mengetahui hal-hal yang hanya diketahui Kael atau kelompok utama.
-- [ ] Daren tidak memperoleh pengetahuan tentang fragmen kuno sebelum diperlihatkan kepadanya.
-- [ ] Tim Meridian tidak otomatis mengetahui kontrak rahasia Kael.
-- [ ] Pengetahuan lokal Mira tidak disamakan dengan pemahaman teknologi kuno.
-- [ ] Peta resmi dan catatan lokal dibedakan menurut sumber serta tujuan.
-- [ ] Kemiripan penanda tidak berubah menjadi bukti jaringan tanpa pemeriksaan lanjutan.
-- [ ] Tidak ada informasi tentang LEAX atau misteri kosmik yang masuk tanpa sumber dan keputusan terpisah.
+- [x] Mira tidak mengetahui hal-hal yang hanya diketahui Kael atau kelompok utama.
+- [x] Daren tidak memperoleh pengetahuan tentang fragmen kuno sebelum diperlihatkan kepadanya.
+- [x] Tim Meridian tidak otomatis mengetahui kontrak rahasia Kael.
+- [x] Pengetahuan lokal Mira tidak disamakan dengan pemahaman teknologi kuno.
+- [x] Peta resmi dan catatan lokal dibedakan menurut sumber serta tujuan.
+- [x] Kemiripan penanda tidak berubah menjadi bukti jaringan tanpa pemeriksaan lanjutan.
+- [x] Tidak ada informasi tentang LEAX atau misteri kosmik yang masuk tanpa sumber dan keputusan terpisah.
 
 **Dampak CANON: tidak ada.**
+
+
+## 5. Catatan tambahan setelah pass pertama manuskrip
+
+- Daren menunjukkan satu laporan survei lama tentang permukaan buatan di wilayah lain; laporan ini tidak membuktikan adanya fasilitas atau jaringan.
+- Laporan Daren dicatat terpisah dari fragmen Buku I dan penanda Rookbridge.
+- Mira dan Daren bergabung berdasarkan kesepakatan kerja yang berbeda; keduanya tidak otomatis memiliki status atau kepentingan yang sama.
+- Seluruh 20 scene outline telah memiliki prosa awal. Checklist di atas menunjukkan batas informasi yang diperiksa pada pass pertama, bukan persetujuan final atas kualitas naskah.
