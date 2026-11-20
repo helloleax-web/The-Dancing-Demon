@@ -89,8 +89,6 @@ Setidaknya, itulah rencana mereka.
 
 ---
 
----
-
 ### Scene 8 — Sistem yang Masih Menyala
 
 Mereka kembali ke panel pada pagi berikutnya.
@@ -202,8 +200,6 @@ Mereka sedang berhadapan dengan sesuatu yang belum selesai bekerja.
 - Tidak ada mekanisme mana, hubungan entitas kosmik, atau kaitan dengan LEAX yang ditambahkan.
 - Detail visual, pemicu respons, dan dialog merupakan pengembangan naskah NON-CANON yang perlu diperiksa sebelum finalisasi.
 
-
----
 
 ---
 
