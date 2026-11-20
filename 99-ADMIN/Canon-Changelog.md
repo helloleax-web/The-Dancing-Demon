@@ -458,3 +458,14 @@ Matriks rotasi R0.2 diperiksa ulang dan diperbaiki agar ortogonal (deviasi maksi
 - Manuskrip Bab 1 kini mencakup Scenes 1–10 dengan sekitar 8.415 kata.
 - Identitas sumber informasi kepada perusahaan dan alasan lengkap Kael tetap ditahan. Tidak ada perubahan fakta LEAX atau CANON dunia.
 - Semua detail kejadian dan fungsi organisasi dalam plot tetap NON-CANON sebagai keputusan manuskrip.
+
+
+## Pengembangan naskah Buku I — Scene 11–12 — 2026-11-20
+
+- Manuskrip Bab 1 diperluas dengan Scene 11 “Klaim” dan Scene 12 “Batas Kesepakatan”.
+- Vellum & Iron Recovery menyampaikan dokumen yang diklaim menjadi dasar hak pemulihan; dokumen belum lengkap dan cakupan terhadap fasilitas belum terverifikasi.
+- Para pihak menyusun pengaturan sementara mengenai akses, dokumentasi, larangan pemindahan, dan pengecualian keselamatan. Tidak ada keputusan kepemilikan final.
+- Kael menyinggung kepentingan pihak lain tetapi belum mengungkap kontrak atau pemberi tugasnya; jendela pengungkapan Scene 13 tetap dijaga.
+- Manuskrip Bab 1 kini mencakup Scenes 1–12 dengan sekitar 10.831 kata.
+- Character Knowledge Matrix diperbarui. Tidak ada perubahan fakta CANON atau materi LEAX.
+- Seluruh rincian kontrak, pertemuan, dan kesepakatan merupakan pengembangan cerita NON-CANON.
