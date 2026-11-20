@@ -59,3 +59,11 @@
 **Kesimpulan:** pass pertama memenuhi fungsi Buku III pada tingkat struktur dan menjaga jendela pengungkapan Buku IV. Ini belum merupakan naskah final.
 
 **Dampak CANON: tidak ada.**
+
+
+## 6. Addendum — storyboard manga
+
+- Enam storyboard Buku III telah dibuat: 108 halaman dan 521 panel.
+- Adaptasi menjaga pemisahan empat sumber: fragmen Buku I, penanda Rookbridge, laporan Daren, dan indeks Hollow Vale.
+- Rujukan batu bertulis tetap belum diidentifikasi sebagai Prasasti; tidak ada pengungkapan NVR AGAIN.
+- Untuk pemeriksaan panel dan kontinuitas visual, gunakan [Book III Manga Storyboard Audit — Draft 0.1](Book-III-Manga-Storyboard-Audit-Report-Draft-0.1.md).
