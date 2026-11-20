@@ -603,3 +603,12 @@ Matriks rotasi R0.2 diperiksa ulang dan diperbaiki agar ortogonal (deviasi maksi
 - Ilyra Nym diperkenalkan sebagai penyalin naskah/asisten arsip dengan arc interpretasi pola.
 - Akhir Buku III mengarah pada batu bertulis di luar fasilitas tanpa mengidentifikasikannya sebagai Prasasti.
 - Tidak ada perubahan CANON atau keputusan baru tentang LEAX.
+
+
+## 2026-11-20 — Storyboard manga Buku II
+
+- Membuat storyboard Bab 1–6 untuk seluruh 20 scene Buku II: 110 halaman dan 570 panel.
+- Membuat indeks storyboard dan laporan audit storyboard.
+- Menyelaraskan estimasi panel dengan jumlah panel aktual.
+- Memperbaiki perkenalan Daren di Bab 4 agar nama baru muncul setelah Mira memperkenalkannya.
+- Tidak ada perubahan CANON; seluruh panel dan desain tetap NON-CANON.
