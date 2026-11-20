@@ -367,3 +367,8 @@ Konfigurasi ini direkomendasikan untuk draft karena menghubungkan tiga organisas
 - Draft prosa berjumlah sekitar 17.066 kata. Ini adalah penyelesaian pass pertama untuk 19 scene outline, bukan klaim bahwa keseluruhan Book I telah melewati revisi struktural, penyuntingan bahasa, audit kontinuitas, dan finalisasi.
 - Tahap berikutnya: audit transisi, logika lokasi dan waktu, konsistensi kontrak serta kesepakatan, kualitas karakter, pengulangan prosa, lalu ekspansi atau pemecahan menjadi bab manga yang sesuai.
 - Status seluruh prosa tetap NON-CANON sampai proses finalisasi dan keputusan kreator.
+
+
+## 12. Indeks manuskrip per bab
+
+Pass pertama seluruh 19 scene telah dipisahkan menjadi enam bab kerja. Gunakan [Book I Manuscript Index — Draft 0.1](Book-I-Manuscript-Index-Draft-0.1.md) sebagai titik masuk, bukan menganggap satu file bab memuat seluruh manuskrip.
