@@ -448,3 +448,13 @@ Matriks rotasi R0.2 diperiksa ulang dan diperbaiki agar ortogonal (deviasi maksi
 - Respons sistem hanya digambarkan melalui gejala yang dapat diamati. Penyebab dan teknologi belum dijelaskan.
 - Manuskrip Bab 1 kini mencakup Scenes 1–8 dengan sekitar 6.208 kata.
 - Tidak ada perubahan fakta CANON atau materi terkait LEAX; seluruh detail tambahan tetap NON-CANON.
+
+
+## Pengembangan naskah Buku I — Scene 9–10 — 2026-11-20
+
+- Manuskrip Bab 1 diperluas dengan Scene 9 “Catatan yang Rusak” dan Scene 10 “Penemuan Menarik Perhatian”.
+- Kelompok menemukan media informasi dan benda berpola dalam kondisi campuran; Seraphine mengklasifikasikan kondisi tanpa mengklaim telah membaca atau memahami isinya.
+- Informasi penemuan menyebar melalui jalur pelaporan ekspedisi. Vellum & Iron Recovery datang dengan klaim bahwa hak pemulihannya mungkin mencakup wilayah tersebut; dokumen dan cakupan belum diperiksa.
+- Manuskrip Bab 1 kini mencakup Scenes 1–10 dengan sekitar 8.415 kata.
+- Identitas sumber informasi kepada perusahaan dan alasan lengkap Kael tetap ditahan. Tidak ada perubahan fakta LEAX atau CANON dunia.
+- Semua detail kejadian dan fungsi organisasi dalam plot tetap NON-CANON sebagai keputusan manuskrip.
