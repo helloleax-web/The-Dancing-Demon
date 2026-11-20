@@ -1,6 +1,6 @@
 # Metode Penafsiran Tiga Belas Prasasti — Draft 0.1
 
-**Status: NON-CANON — pedoman pengembangan**
+**Status: CANON — ketentuan penyajian dan dokumentasi**
 
 Dokumen ini menetapkan metode penulisan dan batas penafsiran untuk seluruh rangkaian pembacaan 13 Prasasti, berdasarkan pendekatan yang digunakan dalam dokumen *Prasasti I — NVR AGAIN: Interpretasi Draft 0.1*.
 
@@ -90,3 +90,18 @@ Setiap dokumen penafsiran tetap merupakan catatan perspektif seorang keturunan L
 ---
 
 **Penerapan:** Metode ini menjadi acuan untuk penafsiran Prasasti II hingga Prasasti XIII. Dokumen Prasasti I tetap menjadi contoh penerapan awal. Seluruh tafsir dan isi baru tetap NON-CANON sampai ada keputusan terpisah dari pemilik cerita.
+
+
+## 9. Rekaman bunyi sebagai bagian dari setiap Prasasti
+
+Setiap Prasasti memuat bukan hanya susunan kata, melainkan juga bunyi lantunan yang dapat didengarkan. Penafsir memiliki atau membuat salinan rekaman dari bunyi yang sama dan menyimpannya bersama naskah penafsirannya.
+
+Untuk setiap Prasasti:
+- Penafsir harus dapat mendengarkan salinan bunyinya, bukan hanya membaca teks.
+- Naskah memuat catatan pendengaran mengenai karakter suara, irama, bunyi pengiring, perubahan intensitas, pengulangan, jeda, seruan, dan lapisan suara sejauh dapat diamati.
+- Penafsir menggambarkan bunyi dengan bahasa dan perbandingan yang masuk akal bagi pengetahuan Avarra. Ia tidak mengetahui nama teknologi, alat, genre, atau istilah produksi dari dunia asal.
+- Catatan bunyi merupakan kesan dan pengamatan penafsir, bukan penjelasan objektif tentang cara rekaman dibuat.
+- Salinan rekaman bukan versi yang ditafsirkan ulang atau dibuat ulang oleh penafsir; salinan itu dimaksudkan mempertahankan bunyi yang sama dengan yang tersimpan pada Prasasti.
+- Tafsir bunyi tidak menggantikan analisis lirik baris demi baris. Keduanya menjadi bahan pengamatan yang saling melengkapi.
+
+Ketentuan ini berlaku untuk Prasasti I sampai Prasasti XIII.
