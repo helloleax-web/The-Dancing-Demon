@@ -471,3 +471,204 @@ Mulai hari itu, ia tidak akan menganggap Kael sebagai orang yang sekadar kebetul
 - Seraphine menuntut dokumentasi dan keterbukaan informasi setelah pengungkapan tersebut.
 - Pengungkapan ini membayar setup Scene 2–3 dan mengarahkan kelompok menuju pemeriksaan jalan batu pada Scene 5.
 - Detail dialog, tindakan, dan dinamika tetap merupakan keputusan naskah draft; tidak mengubah fakta CANON dunia di luar premis peta kedua yang sudah ditetapkan.
+
+
+---
+
+### Scene 5 — Jalan Batu
+
+Pemeriksaan dimulai setelah rombongan menyelesaikan pekerjaan rutin di jalur utama.
+
+Tavian membawa salinan transparan yang telah ia buat dari peta kedua Kael. Seraphine membawa perlengkapan dokumentasi, sementara Kael berjalan sedikit di depan mereka. Ia tidak lagi menyembunyikan peta itu, tetapi juga tidak menyerahkannya kepada orang lain.
+
+Mereka tidak meninggalkan penanda ekspedisi. Tavian memastikan posisi terakhir dicatat sebelum kelompok bergerak ke arah yang ditunjukkan garis pada peta lama. Jika jalur itu ternyata tidak cocok, mereka harus bisa kembali ke titik yang sama tanpa menebak-nebak.
+
+Beberapa bagian medan tampak biasa saja. Rumput tinggi menutupi tanah yang tidak rata. Akar-akar melintang di antara batu kecil. Di satu tempat, air hujan yang tertahan membentuk cekungan dangkal. Tidak ada sesuatu yang langsung menunjukkan bahwa mereka sedang mengikuti jalan buatan.
+
+Kael berhenti di dekat lereng rendah.
+
+“Menurut peta, garisnya melewati sini.”
+
+Tavian melihat salinan transparan, lalu memeriksa kontur di sekeliling mereka. “Kalau titik acuannya benar.”
+
+“Selalu ada kalau.”
+
+“Karena kita belum punya bukti.”
+
+Seraphine memeriksa permukaan tanah. “Jangan berpencar. Kita periksa dari sini sampai batas yang masih bisa kita awasi.”
+
+Tavian memasang penanda sementara pada titik awal. Ia kemudian bergerak perlahan, memeriksa perubahan permukaan dan mencatat jarak. Beberapa langkah kemudian, ujung alatnya menyentuh sesuatu yang tidak terasa seperti batu lepas.
+
+Ia berjongkok dan menyingkirkan lapisan tanah tipis dengan tangan bersarung.
+
+Sebuah permukaan datar muncul di bawah rumput.
+
+“Tunggu.”
+
+Seraphine mendekat. Kael ikut berjongkok di sisi lain. Tavian membersihkan bagian kecil di sekelilingnya, cukup untuk memperlihatkan tepi batu yang lurus. Permukaan itu tidak berdiri sendiri. Beberapa sentimeter di sebelahnya, ada bidang lain dengan ketinggian hampir sama.
+
+Mereka tidak langsung menggali lebih dalam.
+
+Tavian mengambil pengukur dan memeriksa arah tepinya. Seraphine mendokumentasikan kondisi sebelum mereka menyentuh bagian lain. Kael menahan rumput agar tidak menutupi permukaan yang baru terlihat.
+
+Setelah beberapa menit, pola itu semakin jelas. Batu-batu tersebut tersusun berdekatan dengan permukaan yang relatif rata. Sebagian telah retak. Sebagian lain tertutup tanah dan akar. Namun, susunannya tidak tampak seperti kumpulan batu yang kebetulan mengendap di sana.
+
+“Jalan,” kata Kael.
+
+“Mungkin,” jawab Seraphine.
+
+Tavian mengikuti tepi permukaan itu dengan pandangan. “Lebarnya tidak seragam. Kita belum tahu apakah ini seluruh jalur atau hanya bagian dari struktur lain.”
+
+Seraphine mengangguk. “Catat sebagai permukaan batu tersusun. Jangan tulis jalan sampai kita punya kesinambungan.”
+
+Mereka melanjutkan pemeriksaan dalam jarak pendek. Permukaan batu itu muncul lagi, menghilang di bawah tanah, lalu terlihat kembali beberapa langkah kemudian. Arahnya kurang lebih sama dengan garis pada peta kedua.
+
+Tavian mencatat setiap bagian yang terlihat. Ia mengukur jarak antarsegmen, mengambil posisi relatif terhadap penanda, dan menandai bagian yang belum dapat dipastikan. Hasilnya tidak sempurna, tetapi cukup untuk membandingkan bentuk jalur dengan peta lama.
+
+Kael membuka petanya sekali lagi.
+
+“Sekarang cocok?”
+
+“Lebih cocok daripada sebelumnya,” kata Tavian. “Tapi belum cukup untuk menyatakan seluruh garisnya benar.”
+
+“Kalau begitu, apa yang kita punya?”
+
+“Bukti bahwa ada susunan batu yang mengikuti arah yang sama dengan garis pada peta.”
+
+Kael menghela napas. “Kau benar-benar tidak suka menyederhanakan sesuatu.”
+
+“Aku tidak suka laporan yang harus ditarik kembali.”
+
+Seraphine menyelesaikan dokumentasi awal. “Kita sudah mendapatkan cukup banyak untuk melaporkan temuan ini. Langkah berikutnya harus diputuskan berdasarkan kondisi medan dan keselamatan.”
+
+Tavian melihat ke arah jalur batu yang kembali tertutup vegetasi. Ia mencoba memperkirakan ke mana garis itu bergerak, tetapi permukaan tanah di depan mereka lebih tinggi dan tertutup semak.
+
+“Kalau jalurnya berlanjut, kemungkinan arahnya ke sana.”
+
+Kael mengikuti arah pandangnya. Di kejauhan, sebuah bukit berdiri di balik lipatan medan.
+
+Tidak ada tanda bangunan. Tidak ada cahaya. Tidak ada suara yang berbeda dari lingkungan sekitar.
+
+Hanya bukit, dan garis batu yang mengarah ke sana.
+
+Mereka tidak melanjutkan pemeriksaan hari itu. Tavian memasang penanda sementara, mencatat batas area yang telah diperiksa, dan memastikan posisi mereka dapat ditemukan kembali. Ketika rombongan kembali ke jalur utama, ia membawa lebih banyak pertanyaan daripada jawaban.
+
+Namun, kali ini peta kedua Kael tidak lagi sekadar gambar yang tidak diketahui asalnya.
+
+Sebagian garisnya telah ditemukan di tanah.
+
+---
+
+## Catatan tambahan Scene 5
+
+- Kelompok menemukan susunan batu yang membentuk permukaan relatif rata dan berlanjut dalam beberapa segmen.
+- Tavian hanya mencatat apa yang dapat diamati; istilah “jalan” belum dipastikan sebagai klasifikasi final.
+- Arah susunan batu tampak cocok dengan sebagian garis pada peta kedua, tetapi skala dan titik acuannya tetap belum diketahui.
+- Bukit di kejauhan menjadi tujuan pemeriksaan berikutnya sesuai kerangka “Bangunan di Bawah Bukit”.
+- Tidak ada nama lokasi baru atau hubungan dengan lokasi CANON lain yang ditetapkan.
+- Detail prosa dan hasil pemeriksaan tetap NON-CANON sampai ditinjau dalam proses finalisasi cerita.
+
+
+---
+
+### Scene 6 — Bukit
+
+Mereka kembali ke lokasi itu dengan persiapan yang lebih baik.
+
+Kali ini Tavian membawa catatan pemeriksaan sebelumnya, Seraphine menyiapkan perlengkapan untuk mendokumentasikan struktur yang mungkin mereka temukan, dan Kael membawa peta kedua di dalam tabung kulitnya. Rombongan utama tetap berada dalam jarak yang memungkinkan mereka meminta bantuan jika pemeriksaan berkembang menjadi sesuatu yang tidak aman.
+
+Tavian memulai dari penanda terakhir.
+
+Ia mencocokkan posisi batu yang telah ditemukan dengan catatan jarak, lalu memastikan bahwa kelompok tidak bergerak terlalu jauh dari jalur yang dapat mereka telusuri kembali. Setelah itu mereka mengikuti susunan batu ke arah bukit.
+
+Permukaan batu muncul dan menghilang di bawah tanah. Di beberapa bagian, akar telah mengangkat tepinya. Di bagian lain, tanah menutupi hampir seluruh susunan. Namun, arah jalurnya tetap dapat diikuti.
+
+Semakin dekat ke bukit, susunan batu itu berubah.
+
+Batu-batunya lebih besar dan lebih rapat. Permukaannya sedikit lebih tinggi daripada tanah di sekitarnya, seolah bagian itu dibangun untuk tetap terlihat meski medan berubah. Tavian berhenti beberapa kali untuk memeriksa apakah perubahan tersebut disebabkan oleh kemiringan bukit atau memang bagian dari konstruksi.
+
+“Ini bukan sekadar batu yang tersusun karena aliran air,” katanya.
+
+Seraphine memeriksa salah satu sambungan. “Kita belum tahu siapa yang membuatnya. Tapi susunannya memang menunjukkan pekerjaan yang disengaja.”
+
+Kael berdiri beberapa langkah di depan mereka. Ia memandang lereng bukit, lalu membandingkannya dengan peta lama.
+
+“Garisnya berhenti di sekitar sini.”
+
+“Berhenti di peta atau berhenti di lapangan?” tanya Tavian.
+
+“Di peta.”
+
+“Berarti kita belum tahu apakah jalurnya benar-benar berakhir.”
+
+Mereka melanjutkan pemeriksaan menyusuri kaki bukit. Tidak ada pintu yang terlihat dari kejauhan. Tidak ada bangunan yang berdiri di permukaan. Lereng itu tampak seperti bagian medan biasa, tertutup tanah, batu, dan tumbuhan.
+
+Namun, pada satu bagian, Tavian menemukan perubahan bentuk yang tidak cocok dengan kemiringan sekitarnya.
+
+Ia memanggil Seraphine.
+
+Mereka membersihkan permukaan secukupnya. Di balik lapisan tanah dan tumbuhan, muncul tepian batu yang lebih teratur daripada susunan jalan sebelumnya. Bentuknya mengikuti garis melengkung pada kaki bukit, lalu menghilang di bawah lapisan tanah yang lebih tebal.
+
+Seraphine meminta mereka berhenti sebelum membersihkan lebih jauh.
+
+“Dokumentasikan dulu. Kita belum tahu apakah ini bagian dari dinding, penutup, atau struktur lain.”
+
+Tavian mengambil ukuran awal. Kael memperhatikan bagian yang baru terbuka, tetapi tidak menyentuhnya.
+
+Setelah dokumentasi selesai, mereka membersihkan sedikit lagi di bagian tepi. Sebuah bidang keras muncul di balik tanah. Permukaannya tidak menyerupai batu alam di sekitarnya. Ada garis sambungan yang terlalu teratur untuk diabaikan.
+
+Tavian menelusuri tepinya dengan ujung sarung tangan.
+
+“Ini dibuat.”
+
+Seraphine tidak langsung menjawab. Ia memeriksa bagian lain, mencari tanda yang dapat membedakan permukaan buatan dari batu yang terbentuk secara alami.
+
+“Ya,” katanya akhirnya. “Setidaknya bagian ini menunjukkan pengerjaan.”
+
+Mereka tidak menemukan akses terbuka. Tidak ada celah yang cukup besar untuk dimasuki, dan tidak ada alasan untuk memaksa bagian yang tertutup. Seraphine mencatat bahwa struktur tersebut mungkin merupakan bagian dari bangunan yang tertanam di dalam bukit, tetapi menandai interpretasi itu sebagai sementara.
+
+Tavian memeriksa kembali garis pada peta kedua.
+
+Garis itu memang berakhir di dekat titik tempat mereka berdiri.
+
+Kael memperhatikan wajahnya. “Sekarang kau percaya peta ini?”
+
+“Aku percaya ada bagian yang cocok dengan keadaan lapangan.”
+
+“Itu bukan jawaban yang sama.”
+
+“Memang.”
+
+Seraphine menggulung sebagian perlengkapan dokumentasi. “Kita harus melaporkan temuan ini dan menyiapkan pemeriksaan yang lebih terkontrol. Tidak ada yang masuk sebelum kita memahami akses dan kondisi strukturnya.”
+
+Kael menatap permukaan yang baru mereka temukan. “Kalau kita menunggu terlalu lama, orang lain bisa datang.”
+
+“Kalau kita terburu-buru, kita bisa merusak sesuatu yang belum kita pahami,” jawab Seraphine.
+
+Tavian memandang bukit itu. Ia tidak tahu seberapa besar struktur yang tertanam di balik permukaan tersebut. Ia juga tidak tahu apakah ada ruang kosong, lorong, atau sesuatu yang masih tersisa di dalamnya.
+
+Untuk pertama kalinya, pekerjaan survei yang ia lakukan terasa seperti membuka pintu menuju pekerjaan yang sama sekali berbeda.
+
+Ia menuliskan hasil pemeriksaan terakhir pada buku catatan.
+
+*Struktur buatan terindikasi pada kaki bukit. Akses belum ditemukan. Perlu pemeriksaan lanjutan dengan prosedur keselamatan.*
+
+Ia menutup buku itu.
+
+Ekspedisi mereka berangkat untuk memetakan jalur. Sekarang mereka memiliki alasan untuk menghentikan pekerjaan pemetaan biasa dan meminta pemeriksaan situs.
+
+Di hadapan mereka, bukit itu tetap diam.
+
+Namun, untuk pertama kalinya, mereka tahu bahwa ada sesuatu yang dibangun di dalamnya.
+
+---
+
+## Catatan tambahan Scene 6
+
+- Susunan batu berlanjut ke kaki bukit dan mengarahkan kelompok pada struktur buatan yang tertanam di dalamnya.
+- Kelompok belum menemukan akses terbuka dan belum memasuki fasilitas.
+- Seraphine meminta dokumentasi dan pemeriksaan terkontrol sebelum tindakan lebih jauh.
+- Tavian mencatat struktur sebagai indikasi bangunan tertanam, bukan mengklaim telah memahami fungsi atau ukurannya.
+- Scene menutup bagian pembuka dengan keputusan praktis untuk melaporkan dan memeriksa temuan secara lebih serius.
+- Tidak ada identitas fasilitas, nama lokasi, teknologi, atau hubungan dengan LEAX yang ditetapkan melalui adegan ini.
+- Detail prosa tetap merupakan draft NON-CANON.
