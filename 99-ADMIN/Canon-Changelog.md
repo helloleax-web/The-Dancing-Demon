@@ -480,3 +480,13 @@ Matriks rotasi R0.2 diperiksa ulang dan diperbaiki agar ortogonal (deviasi maksi
 - Manuskrip Bab 1 kini mencakup Scenes 1–13 dengan sekitar 11.964 kata.
 - Character Knowledge Matrix, Mystery Ledger M-01, dan Character Development Dossier diperbarui untuk konsistensi.
 - Semua rincian baru tetap NON-CANON; tidak ada perubahan fakta LEAX atau CANON dunia.
+
+
+## Pengembangan naskah Buku I — Scene 14–17 — 2026-11-20
+
+- Manuskrip Bab 1 diperluas dengan Scene 14 “Pengambilan Paksa”, Scene 15 “Bangunan Mengunci”, Scene 16 “Menyelamatkan Orang”, dan Scene 17 “Menjaga, Bukan Memiliki”.
+- Pengawas lapangan dan pekerja Vellum & Iron Recovery mencoba mengangkat kepingan yang dilarang dipindahkan; tindakan itu memicu respons sistem.
+- Akses utama tertutup dan beberapa orang terjebak. Tavian, Seraphine, Kael, serta anggota tim bekerja sama mengeluarkan orang yang terjebak. Satu anggota tim cedera tetapi selamat.
+- Setelah insiden, perusahaan menghentikan pemulihan dan para pihak menyepakati penjagaan sementara dari luar. Sengketa kepemilikan tidak diselesaikan.
+- Manuskrip Bab 1 kini mencakup Scenes 1–17 dengan sekitar 15.838 kata.
+- Character Knowledge Matrix diperbarui. Tidak ada perubahan fakta CANON atau materi LEAX; seluruh detail insiden dan kesepakatan tetap NON-CANON.
