@@ -31,20 +31,32 @@ Gunakan empat kategori:
 - Kerangka Buku I menyatakan pihak yang membayar Kael dan tujuan tersembunyinya akan terungkap dalam bagian “Harga Sebuah Informasi”.
 - Penutup Buku I memuat pesan dari kontak tak dikenal yang menanyakan apakah Kael telah menemukan “arsip di bawah jalan”.
 
-**Arah pengembangan:** Buku I.
-
-**Status draft:** ada konfigurasi yang direkomendasikan dalam [Book I Scene Outline](Book-I-Scene-Outline-Draft-0.1.md): pemberi tugas Kael terkait secara profesional dengan Arsip Lentera dan menginginkan verifikasi rumor arsip serta salinan indeks. Ini tetap NON-CANON.
+**Keputusan cerita untuk draft manuskrip:**
+- Kael menerima kontrak dari Iven Rusk, seorang perantara lapangan.
+- Iven membawa pekerjaan dari seorang kurator yang memiliki hubungan profesional dengan Arsip Lentera; tidak ada bukti bahwa Arsip Lentera secara resmi menugaskan atau mengetahui kontrak tersebut.
+- Kontrak meminta Kael memverifikasi rumor tentang arsip di bawah jalur lama dan, jika tersedia, membuat salinan indeks atau catatan akses.
+- Kael menyembunyikan peta kedua karena syarat kerahasiaan dan karena ia memperkirakan Tavian serta Seraphine dapat menolak jika mengetahui tujuan tersebut.
+- Kael tidak mengetahui fasilitas masih aktif, mekanisme akses, atau kedatangan Vellum & Iron Recovery secara spesifik.
+- Kael belum memenuhi kontrak karena temuan yang tersedia rusak dan belum menghasilkan indeks yang dapat dibaca.
 
 **Petunjuk yang sudah tersedia:**
 - Peta kedua tidak dibagikan sejak awal.
 - Kael mengikuti ekspedisi sebagai perantara informasi.
 - Pesan penutup memakai istilah “arsip di bawah jalan”.
 
+**Hal yang masih terbuka:**
+- Identitas dan agenda pribadi kurator.
+- Apakah kurator bertindak sendiri atau memiliki pihak lain di belakangnya.
+- Identitas kontak tak dikenal yang mengirim pesan penutup.
+- Makna penuh istilah “arsip di bawah jalan”.
+- Apakah fasilitas benar-benar arsip atau hanya disebut demikian oleh pihak yang mencari.
+
 **Batas:**
 - Jangan mengungkap identitas kontak tak dikenal melalui pesan penutup.
-- Jangan menyatakan fasilitas benar-benar arsip hanya karena kontak menggunakan istilah tersebut.
+- Jangan menyatakan fasilitas benar-benar arsip hanya karena kontak atau pemberi tugas menggunakan istilah tersebut.
+- Jangan menyatakan Arsip Lentera secara institusional menugaskan Kael.
 - Jangan menjadikan Kael pengkhianat mutlak tanpa mempertimbangkan alasan dan konsekuensinya.
-
+- Semua rincian kontrak di atas adalah keputusan cerita NON-CANON, bukan tambahan fakta dunia.
 ### M-02 — Jalan batu dan fasilitas Buku I
 
 **Fakta CANON:**
