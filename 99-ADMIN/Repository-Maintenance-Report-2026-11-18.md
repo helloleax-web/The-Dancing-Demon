@@ -482,3 +482,12 @@ Tidak ada perubahan CANON.
 
 - Klarifikasi Buku IV: Scene 20 menyebut arsip Great War hanya sebagai kemungkinan jalur riset, bukan bukti hubungan yang sudah diketahui karakter. Kalimat narator yang mengasumsikan referen NVR AGAIN lebih besar daripada batu dihapus.
 - Memperbarui indeks, audit kontinuitas, dan Character Knowledge Matrix Buku IV; jumlah manuskrip sekitar 4.487 kata.
+
+
+## 2026-11-20 — Produksi Buku IV
+
+- Manuskrip Buku IV terverifikasi mencakup 20 scene dalam empat bab, sekitar 4.489 kata.
+- Storyboard Bab 1–4 selesai: 74 halaman dan 370 panel; indeks dan audit storyboard dibuat.
+- Menghapus berkas Bab 5 duplikat agar tidak terjadi pengulangan Scenes 19–20.
+- Pengungkapan nama NVR AGAIN tetap pada Scene 14 sesuai CANON; makna dan konteksnya tidak ditambahkan.
+- Semua detail cerita dan storyboard baru tetap NON-CANON.
