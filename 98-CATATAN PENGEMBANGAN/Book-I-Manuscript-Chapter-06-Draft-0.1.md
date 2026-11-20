@@ -120,11 +120,9 @@ Namun, ia tahu bahwa pesan tersebut akan memunculkan pertanyaan yang belum bisa 
 
 Ia mengeluarkan korek kecil dari kantongnya dan menyalakan ujung kertas.
 
-Api menjalar perlahan, menghitamkan tulisan dari tepi ke tengah. Kael menunggu sampai sebagian besar pesan berubah menjadi abu, lalu menjatuhkan sisa yang terbakar ke tanah dan menginjaknya.
+Api menjalar perlahan, menghitamkan tulisan dari tepi ke tengah. Kael menunggu sampai sebagian besar tulisan hangus, lalu memadamkan kertas sebelum seluruhnya berubah menjadi abu.
 
-Ia tidak membiarkan seluruh kertas itu habis.
-
-Satu bagian kecil yang tidak memuat tulisan masih tersisa. Kael mengambilnya, membersihkan abu yang menempel, lalu menyelipkannya ke dalam saku bagian dalam.
+Kertas itu kini menghitam dan tidak lagi dapat dibaca. Ia melipat sisa lembaran yang terbakar tersebut, membersihkan abu yang mudah lepas, lalu menyimpannya di saku bagian dalam.
 
 Ketika kembali ke perkemahan, Tavian sedang memeriksa peta. Seraphine menyimpan wadah dokumentasi dan memastikan salinan fragmen telah diklasifikasikan.
 
