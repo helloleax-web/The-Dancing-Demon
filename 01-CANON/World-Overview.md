@@ -1,5 +1,9 @@
 # World Overview
 
+## Nama dunia
+
+Nama dunia tempat cerita utama berlangsung dan Great War terjadi adalah **Avarra**. Nama ini merupakan penamaan resmi dunia dalam CANON. Penetapan nama tidak dengan sendirinya menetapkan asal-usul nama, etimologi, sejarah penamaannya, atau nama yang digunakan oleh peradaban kuno.
+
 **Status: CANON untuk fakta yang dinyatakan; bagian kosong tetap UNKNOWN.**
 
 ## Genre dan nuansa
