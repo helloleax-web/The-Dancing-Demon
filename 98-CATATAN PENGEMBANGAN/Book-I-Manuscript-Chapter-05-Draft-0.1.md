@@ -201,7 +201,7 @@ Cahaya dari panel bergerak di sepanjang sambungan dinding. Beberapa bidang yang 
 
 Di belakang mereka, terdengar bunyi keras.
 
-Tavian berbalik tepat ketika bagian struktur di dekat ambang bergerak menutup. Tavian, Seraphine, Kael, dan dua anggota tim telah melewati ruang pertama, tetapi jalan kembali kini tertutup oleh bidang padat yang turun dari atas.
+Tavian berbalik tepat ketika bagian struktur di dekat ambang bergerak menutup. Tavian, Seraphine, dan Kael telah melewati ruang pertama. Dua anggota ekspedisi tetap di luar untuk memanggil bantuan. Namun, jalan kembali bagi ketiganya kini tertutup oleh bidang padat yang turun dari atas.
 
 Cahaya luar menghilang.
 
@@ -273,7 +273,7 @@ Dan untuk pertama kalinya sejak ekspedisi dimulai, tidak ada peta yang dapat mem
 
 - Sistem mengubah kondisi fasilitas dan menutup akses utama setelah pemicu pada Scene 14.
 - Setidaknya satu anggota tim dokumentasi masih berada di dalam dan terjebak di balik bagian struktur yang bergeser.
-- Tavian, Seraphine, Kael, dan dua anggota tim ikut terjebak di bagian dalam; orang-orang di luar tidak dapat langsung menjangkau mereka.
+- Tavian, Seraphine, dan Kael terjebak di bagian dalam. Dua anggota ekspedisi tetap berada di luar untuk memanggil bantuan; anggota tim dokumentasi yang dicari berada di bagian fasilitas yang lebih dalam.
 - Seraphine memilih memprioritaskan pencarian dan keselamatan orang daripada mempertahankan seluruh dokumentasi.
 - Tavian harus mengambil keputusan tanpa denah atau data struktur bagian dalam.
 - Mekanisme penguncian dan pembagian ruang digambarkan melalui efek yang terlihat; sistem pertahanan belum dipahami atau dikuasai karakter.
