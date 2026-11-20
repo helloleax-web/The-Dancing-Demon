@@ -29,3 +29,5 @@
 
 - [Book I Prose Style Sheet — Draft 0.1](Book-I-Prose-Style-Sheet-Draft-0.1.md) — pedoman sudut pandang, bahasa, suara karakter, dan konstruksi adegan.
 - [Book I Manga Storyboard Chapter 01 — Draft 0.1](Book-I-Manga-Storyboard-Chapter-01-Draft-0.1.md) — adaptasi 18 halaman untuk Bab 1, Scenes 1–3.
+
+- [Book I Manga Storyboard Chapter 02 — Draft 0.1](Book-I-Manga-Storyboard-Chapter-02-Draft-0.1.md) — adaptasi 20 halaman untuk Bab 2, Scenes 4–6.
