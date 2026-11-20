@@ -31,7 +31,7 @@ Ia memeriksa bagian jembatan dari kejauhan. Salah satu penyangga di sisi luar ta
 
 Mira memperhatikan antrean barang. “Kalau jembatan ditutup sepenuhnya, sebagian warga harus memutar jauh.”
 
-“Kalau dibuka terlalu cepat, orang bisa jatuh ke sungai,” kata Daren dari belakang mereka.
+“Kalau dibuka terlalu cepat, orang bisa jatuh ke sungai,” kata seseorang dari belakang mereka.
 
 Tavian menoleh. Ia belum mengenal orang itu.
 
@@ -43,7 +43,7 @@ Mira menyapa orang itu dengan anggukan. “Kau masih menjaga perlintasan?”
 
 “Selama mereka masih membutuhkan orang yang mau mengatakan tidak.”
 
-Mira memperkenalkan Tavian, Seraphine, dan Kael sebagai tim yang menerima pekerjaan survei untuk menilai jalur alternatif.
+Mira memperkenalkan Tavian, Seraphine, dan Kael sebagai tim yang menerima pekerjaan survei untuk menilai jalur alternatif. Ia lalu menyebut nama orang yang tadi berbicara: Daren Holt.
 
 Daren memandang perlengkapan Tavian.
 
