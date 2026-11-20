@@ -1434,3 +1434,189 @@ Dan waktu mungkin satu-satunya hal yang mereka miliki sebelum pihak lain memutus
 - Kesepakatan berlaku sampai peninjauan berikutnya dan menunggu pemeriksaan dokumen lengkap serta tanggapan pihak yang berwenang.
 - Kael menyinggung kemungkinan pihak lain memiliki kepentingan terhadap informasi, tetapi belum mengungkap kontrak atau pemberi tugasnya.
 - Detail kesepakatan dan prosedur merupakan rancangan naratif NON-CANON, bukan penetapan hukum dunia secara umum.
+
+
+---
+
+### Scene 13 — Harga Sebuah Informasi
+
+Malam itu, Tavian menemukan Kael sedang duduk sendirian di luar tempat singgah.
+
+Peta kedua terletak di pangkuannya. Ia tidak sedang membukanya. Kedua tangannya hanya menahan tabung kulit itu, sementara pandangannya tertuju pada cahaya kecil dari perkemahan perusahaan di kejauhan.
+
+Tavian berhenti beberapa langkah darinya.
+
+“Seraphine ingin tahu kenapa kau sudah memperkirakan orang-orang akan datang.”
+
+Kael tidak menoleh. “Dan kau?”
+
+“Aku ingin tahu kenapa kau membawa peta itu sejak awal.”
+
+Kael mengusap sisi tabung kulit. “Kau sudah tahu jawabannya. Peta itu menunjukkan jalan.”
+
+“Bukan itu.”
+
+Kael akhirnya mengangkat kepala.
+
+Tavian duduk di seberangnya. Ia tidak membawa buku catatan, tidak membawa peta kerja, dan tidak berniat membicarakan ukuran atau jalur. Kali ini ia ingin mendengar sesuatu yang tidak dapat ia ukur.
+
+“Siapa yang membayarmu?”
+
+Kael diam cukup lama sampai suara dari perkemahan terdengar lebih jelas daripada percakapan mereka.
+
+“Seorang perantara lapangan,” katanya akhirnya. “Namanya Iven Rusk.”
+
+“Dia bekerja untuk Vellum & Iron?”
+
+“Tidak.”
+
+“Lalu untuk siapa?”
+
+“Ia membawa pekerjaan dari seorang kurator yang memiliki hubungan profesional dengan Arsip Lentera. Bukan keputusan resmi organisasi itu. Aku tidak pernah bertemu pimpinan mereka, dan aku tidak punya bukti bahwa seluruh Arsip Lentera mengetahui kontrak ini.”
+
+Tavian menatapnya. “Apa isi pekerjaannya?”
+
+Kael menurunkan tabung kulit dari pangkuannya.
+
+“Memverifikasi sebuah rumor. Ada kabar tentang arsip yang tersembunyi di bawah jalur lama. Iven membayar untuk memastikan apakah rutenya nyata dan apakah tempat itu menyimpan indeks atau catatan akses.”
+
+“Jadi kau tahu kita sedang mencari arsip?”
+
+“Aku tahu itulah istilah yang digunakan dalam kontrak.”
+
+“Dan kau tidak pernah memberi tahu kami.”
+
+“Aku tidak tahu apakah rumor itu benar. Aku juga tidak tahu apakah peta yang kubawa akan membawa kita ke tempat yang sama.”
+
+“Tapi kau tahu ada kemungkinan.”
+
+Kael tidak membantah.
+
+Tavian merasakan kemarahan yang selama beberapa hari hanya muncul sebagai kecurigaan kini menemukan bentuknya. Ia teringat semua keputusan yang mereka buat berdasarkan informasi yang tidak lengkap. Ia teringat Seraphine yang harus memeriksa setiap dugaan, sementara Kael sejak awal memiliki petunjuk yang sengaja ia tahan.
+
+“Kau membuat kami mengikuti rute itu tanpa memberi tahu tujuan sebenarnya.”
+
+“Aku tidak mengubah rute ekspedisi. Aku mengikuti pekerjaan yang memang sudah dijadwalkan.”
+
+“Dengan peta yang kau sembunyikan.”
+
+“Ya.”
+
+Jawaban itu terlalu cepat untuk menjadi pembelaan.
+
+Seraphine datang dari arah tempat penyimpanan dokumentasi. Ia berhenti ketika melihat mereka berdua.
+
+“Jadi akhirnya kau mengatakannya.”
+
+Kael menatapnya. “Kau sudah menduga?”
+
+“Aku menduga ada kontrak lain. Aku tidak tahu detailnya.”
+
+Seraphine duduk di sisi Tavian. “Apa yang diminta darimu?”
+
+“Memverifikasi rute. Jika menemukan tempat yang dimaksud, aku harus mengirim bukti bahwa lokasi itu ada. Kalau tersedia, aku diminta membuat salinan indeks atau catatan akses. Bukan mengambil semua benda.”
+
+“Kenapa harus dirahasiakan?”
+
+“Karena pemberi tugas tidak ingin pihak lain mendahului mereka. Iven mengatakan rumor itu sudah beredar di kalangan tertentu. Mereka ingin memastikan tempatnya sebelum informasi menyebar lebih jauh.”
+
+“Dan kau menerima syarat itu.”
+
+“Aku menerima uang muka dan kontraknya.”
+
+Seraphine menahan napas. “Kau tahu kami mungkin menolak jika tahu ekspedisi ini dipakai untuk pekerjaan rahasia.”
+
+“Itulah salah satu alasan aku tidak mengatakannya.”
+
+“Setidaknya kau tidak mencoba menyebutnya keputusan demi kebaikan kami.”
+
+Kael menunduk sebentar.
+
+Tavian memperhatikan wajahnya. “Apa kau tahu fasilitas ini masih aktif?”
+
+“Tidak.”
+
+“Apa kau tahu ada sistem yang bisa membuka akses?”
+
+“Tidak.”
+
+“Apa kau tahu perusahaan akan datang?”
+
+“Aku tahu penemuan semacam ini bisa menarik perhatian. Aku tidak tahu perusahaan mana yang akan muncul, kapan mereka datang, atau apa dasar klaim mereka.”
+
+“Jadi kau tahu cukup banyak untuk menyembunyikan sesuatu, tapi tidak cukup banyak untuk memahami risikonya.”
+
+Kael mengangkat pandangan. “Ya.”
+
+Tidak ada pembelaan setelah itu.
+
+Seraphine membuka map dokumentasi yang dibawanya. “Kau meminta salinan indeks atau catatan akses. Apa kau sudah mendapatkan sesuatu yang bisa memenuhi kontrak?”
+
+“Belum. Yang kita temukan terlalu rusak untuk dibaca. Aku tidak akan mengirim salinan yang tidak bisa dipertanggungjawabkan.”
+
+“Kalau begitu, kau belum menyelesaikan pekerjaanmu.”
+
+“Belum.”
+
+“Dan kau masih berniat melanjutkannya?”
+
+Kael tidak langsung menjawab.
+
+“Aku tidak tahu.”
+
+Seraphine memandangnya dengan ekspresi yang sulit dibaca. “Itu pertama kalinya malam ini kau memberikan jawaban yang terdengar jujur.”
+
+Tavian berdiri. Ia merasa percakapan itu belum menyelesaikan apa pun. Kael telah memberi mereka nama, tujuan, dan bentuk kontrak, tetapi informasi tersebut tidak mengembalikan kepercayaan yang sudah hilang.
+
+“Mulai sekarang, tidak ada lagi peta atau informasi rute yang disimpan sendiri,” kata Tavian. “Kalau ada sesuatu yang berkaitan dengan pekerjaan kita, kami harus tahu.”
+
+Kael mengangguk.
+
+“Dan salinan apa pun yang kau buat dari fasilitas harus dicatat. Tidak ada pengiriman diam-diam.”
+
+“Aku mengerti.”
+
+Seraphine menambahkan, “Kontrakmu tidak memberimu hak untuk mengambil benda, mengubah struktur, atau mengabaikan kesepakatan sementara.”
+
+“Aku tahu.”
+
+“Bagus. Karena kalau kau melakukannya, aku tidak akan membelamu.”
+
+Kael tersenyum tipis, tetapi senyum itu tidak bertahan lama.
+
+Tavian mengambil peta kedua dari dekatnya. Ia membukanya dan memeriksa garis yang telah membawa mereka ke bukit. Untuk pertama kalinya, ia melihat peta itu bukan hanya sebagai petunjuk, tetapi juga sebagai bagian dari pekerjaan yang sejak awal tidak pernah mereka setujui.
+
+Ia mengembalikannya kepada Kael.
+
+“Kau boleh tetap ikut ekspedisi,” katanya. “Tapi jangan menganggap semuanya kembali seperti semula.”
+
+Kael menerima peta itu tanpa komentar.
+
+“Aku tidak mengharapkannya.”
+
+Mereka berpisah tanpa berjabat tangan atau membuat janji baru. Seraphine kembali ke tempat dokumentasi. Tavian berjalan menuju penanda batas. Kael tetap duduk di tempatnya, memegang peta yang sebelumnya ia anggap sebagai jaminan bahwa ia selalu memiliki sesuatu untuk ditawarkan.
+
+Kini peta itu juga menjadi bukti bahwa ia telah menyimpan sesuatu dari dua orang yang harus bekerja bersamanya.
+
+Di kejauhan, tempat singgah Vellum & Iron Recovery masih menyala.
+
+Tavian berhenti sejenak dan memandang cahaya itu.
+
+Mereka sekarang tahu bahwa setidaknya ada dua kepentingan berbeda yang mengarah ke fasilitas tersebut. Satu pihak datang dengan klaim pemulihan. Pihak lain menginginkan bukti dan catatan. Keduanya belum tentu mengetahui tujuan masing-masing.
+
+Dan Kael telah membawa salah satunya ke dalam ekspedisi mereka.
+
+---
+
+## Catatan tambahan Scene 13
+
+- Kael mengungkap bahwa ia menerima kontrak dari perantara lapangan bernama **Iven Rusk**.
+- Iven membawa pekerjaan dari seorang kurator yang memiliki hubungan profesional dengan Arsip Lentera. Tidak ada klaim bahwa Arsip Lentera secara resmi menugaskan atau mengetahui kontrak tersebut.
+- Tujuan kontrak Kael adalah memverifikasi rumor arsip di bawah jalur lama dan, jika tersedia, membuat salinan indeks atau catatan akses.
+- Kael menyembunyikan peta kedua karena syarat kerahasiaan dan karena ia memperkirakan Tavian serta Seraphine dapat menolak jika mengetahui tujuan kontraknya.
+- Kael tidak mengetahui fasilitas masih aktif, mekanisme akses, atau kedatangan Vellum & Iron Recovery secara spesifik.
+- Pengungkapan mengubah hubungan kelompok: Tavian mengizinkan Kael tetap ikut, tetapi menetapkan keterbukaan informasi dan pencatatan salinan sebagai syarat kerja bersama.
+- Kael belum memenuhi kontraknya; benda yang ditemukan belum menghasilkan indeks yang dapat dibaca.
+- Iven Rusk dan kurator tersebut merupakan karakter/figur pendukung baru untuk draft cerita, bukan fakta CANON.
+- Tidak ada identitas kontak tak dikenal pada pesan penutup yang diungkap.
+- Seluruh rincian kontrak dan hubungan profesional tetap NON-CANON.
