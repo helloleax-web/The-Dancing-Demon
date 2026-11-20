@@ -25,3 +25,7 @@
 - Konflik utama berpusat pada akses, salinan, dan konteks informasi.
 - Akhir buku mengarah pada batu bertulis di luar fasilitas, belum diidentifikasi sebagai Prasasti.
 - Seluruh keputusan tetap NON-CANON.
+
+## Manuskrip
+
+- [Book III Manuscript Index — Draft 0.1](Book-III-Manuscript-Index-Draft-0.1.md) — enam bab kerja, 20 scene.
