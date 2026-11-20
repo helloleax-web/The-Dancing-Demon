@@ -1,7 +1,7 @@
 # Prasasti I — NVR AGAIN
 ## Naskah interpretasi seorang keturunan LEAX
 
-**Status: DRAF PENGEMBANGAN / NON-CANON**
+**Status: CANON — naskah penafsiran in-world**
 
 Dokumen ini merupakan naskah interpretasi Prasasti Pertama dari sudut pandang seorang penduduk Avarra yang merupakan salah satu keturunan LEAX. Ia penasaran terhadap leluhurnya dan mencoba memahami 13 Prasasti. Identitas, nama, usia, zaman hidup, latar pendidikan, dan riwayat pribadi penafsir belum ditetapkan.
 
@@ -443,3 +443,45 @@ Hal-hal berikut tidak boleh dianggap sebagai fakta hanya berdasarkan interpretas
 **Prinsip utama:** penafsir adalah keturunan LEAX yang sedang menyelidiki kemungkinan hubungan leluhurnya dengan Prasasti. Keyakinan, dugaan, dan kesimpulannya merupakan perspektif pribadi, bukan konfirmasi kebenaran sejarah.
 
 **Catatan pengembangan:** draf ini belum menetapkan nama sang penafsir, identitas keluarganya, kapan ia hidup, bagaimana ia memperoleh Prasasti, atau apakah ia memiliki akses terhadap 12 Prasasti lainnya. Semua hal tersebut menunggu keputusan terpisah.
+
+
+---
+
+## VIII. Catatan pendengaran dan salinan bunyi
+
+### Salinan yang disimpan bersama naskah
+
+Aku tidak hanya menyimpan susunan kata dari Prasasti Pertama. Bersama catatan ini terdapat salinan bunyi lantunan tersebut, agar aku dapat mendengarkannya kembali tanpa harus selalu mendatangi atau membuka Prasasti asalnya.
+
+Salinan itu bukan lantunan yang kubuat ulang. Aku menganggapnya sebagai tiruan rekaman dari bunyi yang sama dengan yang tersimpan pada Prasasti. Karena itu, ketika aku meragukan suatu kata, aku dapat kembali mendengarkan bagian tersebut. Aku juga dapat mengulang seluruh lantunan untuk memperhatikan hal-hal yang mungkin terlewat ketika pertama kali mendengarnya.
+
+### Apa yang kudengar
+
+Lantunan ini tidak terdengar seperti seseorang yang hanya berbicara. Ada susunan bunyi yang terus berjalan di belakang suaranya.
+
+Bunyi pengiringnya terasa padat dan berulang. Ada nada tinggi yang berputar dengan pola yang hampir sama, sementara bunyi rendah menghentak di bawahnya. Di sela-selanya terdengar ketukan-ketukan pendek yang rapat dan tajam. Semua itu bertumpuk, sehingga lantunan terasa penuh dan bising, tetapi tetap bergerak dalam irama yang teratur.
+
+Beberapa bunyi pengiring terasa ganjil bagiku. Ada kesan seperti nada dari alat permainan atau benda-benda kecil yang dipukul, tetapi aku tidak tahu alat apa yang menghasilkan suara tersebut. Aku hanya dapat menggambarkan apa yang kudengar; aku tidak mengetahui nama alat, cara pembuatannya, ataupun asal kebudayaan bunyi itu.
+
+Suara orang yang melantunkan kata-kata juga tidak selalu sama. Ia kadang terdengar seperti berbicara cepat mengikuti ketukan, kadang mengubah tinggi-rendah suaranya hingga mendekati nyanyian. Beberapa suku kata ditarik atau ditekan lebih kuat. Di sejumlah tempat, terdengar seruan pendek dan suara tambahan yang mengikuti atau menimpa suara utama. Ada bagian ketika suara itu terasa berlapis, seolah satu suara menjawab atau membayangi suara lainnya.
+
+Aku tidak tahu apakah suara-suara tambahan itu berasal dari beberapa orang, dari pengulangan suara orang yang sama, atau dari suatu cara pengolahan bunyi yang tidak kukenal. Aku hanya dapat memastikan bahwa lantunan ini tidak disampaikan dengan satu warna suara yang tetap.
+
+### Perubahan dan pengulangan
+
+Pola pengiringnya banyak kembali pada bentuk yang sama. Pengulangan itu membuat beberapa bagian terasa seperti putaran yang terus berulang. Namun, suara pelantunnya berubah-ubah di atas pola tersebut: cara ia mengucapkan kata, panjang pendek suku kata, tekanan, dan seruannya tidak selalu sama.
+
+Karena itu, pengulangan lirik tidak selalu terasa sebagai pengulangan yang benar-benar datar. Ada bagian yang terasa lebih mendesak atau lebih keras karena cara suara itu dibawakan, meskipun susunan kata dan bunyi pengiringnya kembali menyerupai bagian sebelumnya.
+
+Aku belum tahu apakah pengulangan ini dimaksudkan untuk menegaskan pesan, membangun suasana, atau sekadar merupakan bentuk lantunan dari dunia asalnya.
+
+### Kesan pribadi setelah mendengarkan
+
+Bunyi Prasasti ini membuatku merasa seolah-olah pemilik suara sedang bergerak tanpa pernah benar-benar berhenti. Ketukan rendahnya terus mendesak, nada tingginya terus kembali, dan suaranya berpindah-pindah antara gumaman, ucapan, dan seruan.
+
+Ada tenaga besar dalam lantunan ini, tetapi bagiku tenaga itu tidak terasa sepenuhnya tenang atau teratur. Ia seperti kegembiraan yang bercampur kegelisahan. Aku tidak tahu apakah perasaan itu memang dimaksudkan oleh pembuat lantunan, atau hanya kesan yang muncul karena aku mendengarnya dari dunia dan zaman yang berbeda.
+
+Ketika mendengar kembali bagian tentang tempat tinggal lama dan penolakan untuk kembali, bunyi yang padat itu membuat kata-kata tersebut terasa semakin ganjil bagiku. Aku tidak dapat memastikan apakah pemilik suara sedang marah, takut, muak, atau sekadar membanggakan dirinya. Suara dan irama memberi kesan, tetapi tidak memberiku kepastian tentang maksudnya.
+
+**Catatan batas:** seluruh uraian bunyi di atas adalah kesan pendengaran penafsir. Ia bukan pengetahuan tentang alat musik, teknologi, genre, atau kebudayaan dunia asal lantunan. Kesan tersebut juga tidak membuktikan identitas suara sebagai LEAX.
+
