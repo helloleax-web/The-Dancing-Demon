@@ -298,3 +298,13 @@ Identitas pribadi pemberi tugas, isi indeks, kontak tak dikenal, dan hubungan le
 - **Batas:** Ilyra tidak langsung mampu membaca seluruh catatan kuno dan tidak mengetahui isi batu bertulis sebelum investigasi berikutnya.
 
 **Status:** seluruh keputusan tetap NON-CANON; tidak mengubah fakta CANON Ilyra yang hanya menetapkan namanya dalam indeks karakter.
+
+
+## Jorren Hale — keputusan cerita Buku IV — Draft 0.1
+
+- **Status:** karakter pendukung baru, NON-CANON.
+- **Peran:** penjaga jalur setempat di wilayah Jalan Northglass; mengatur akses ke batu bertulis dan memastikan jalur tetap dapat digunakan masyarakat.
+- **Fungsi naratif:** memberi konteks lokal dan memastikan kelompok tidak memperlakukan situs sebagai tempat bebas untuk digali atau dipindahkan.
+- **Pengetahuan:** mengenal batu sebagai penanda lama yang digunakan dalam perjalanan; tidak mengetahui pembuat, isi lengkap, atau asal-usulnya.
+- **Motivasi draft:** menjaga kondisi batu dan akses masyarakat, tanpa menolak penelitian yang dilakukan dengan izin dan dokumentasi.
+- **Batas:** tidak mengetahui arti NVR AGAIN sebelum pembacaan Ilyra; tidak memiliki hubungan khusus dengan LEAX atau misteri lain.
