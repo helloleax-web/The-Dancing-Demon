@@ -107,8 +107,6 @@ Dan di antara keduanya, peta resmi masih menunjukkan jarak yang berbeda.
 
 ---
 
----
-
 ### Scene 2 — Tiga Cara Melihat Perjalanan
 
 Menjelang sore, Tavian menemukan Seraphine sedang memeriksa lembar pengukuran yang ia kumpulkan.
@@ -217,8 +215,6 @@ Dan itu cukup.
 - Dialog dan karakterisasi adalah pilihan prosa NON-CANON yang mengikuti proposal dossier; bukan penetapan kepribadian final.
 - Tidak ada fakta baru tentang organisasi, lokasi, hukum, sejarah, atau sistem mana yang ditambahkan.
 
-
----
 
 ---
 
