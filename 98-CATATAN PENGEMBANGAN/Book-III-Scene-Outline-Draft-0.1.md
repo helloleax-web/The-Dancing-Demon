@@ -21,7 +21,7 @@ Semua keputusan berikut NON-CANON:
 
 1. **Fasilitas Hollow Vale** digunakan sebagai situs kedua yang berbeda dari fasilitas Buku I. Hubungan langsung antara keduanya belum dibuktikan.
 2. Hollow Vale merupakan fasilitas peninggalan Bumi yang sebagian strukturnya masih dapat diakses, tetapi tidak memiliki antarmuka aktif yang membuka seluruh kompleks seperti pada Buku I.
-3. **Ilyra Nym** diperkenalkan sebagai penyalin naskah dan asisten arsip yang bekerja pada proyek perbandingan dokumen untuk seorang kurator yang berhubungan profesional dengan Arsip Lentera. Ia bukan juru bicara resmi seluruh organisasi.
+3. **Ilyra Nym** diperkenalkan sebagai penyalin naskah dan asisten arsip yang bekerja pada proyek perbandingan dokumen untuk seorang kurator yang berhubungan profesional dengan Arsip Lentera. Tidak ditetapkan bahwa kurator ini adalah orang yang sama dengan kurator dalam kontrak Kael pada Buku I. Ilyra bukan juru bicara resmi seluruh organisasi.
 4. Seraphine dan Ilyra memiliki perbedaan metode: Seraphine menjaga batas bukti, sementara Ilyra sangat cepat melihat pola dan harus belajar menahan kesimpulan.
 5. Konsorsium Survei Meridian membantu pemetaan akses dan dokumentasi situs. Vellum & Iron Recovery mengajukan kepentingan komersial terhadap pemulihan perangkat atau benda tertentu.
 6. Konflik utama berkisar pada hak menyalin, akses terhadap catatan, dan apakah salinan boleh disebarkan, bukan sekadar siapa yang mengambil artefak.
@@ -208,7 +208,7 @@ Kelompok berhasil menyimpan dokumentasi bersama, tetapi tidak memperoleh jawaban
 3. Arsip Lentera tidak otomatis menjadi pemilik semua salinan atau pemegang jawaban.
 4. Vellum & Iron Recovery tidak otomatis menjadi antagonis; konflik berasal dari hak pemulihan dan konteks informasi.
 5. Konsorsium Survei Meridian tidak memiliki kewenangan atas semua situs.
-6. Identitas kontak Kael dan agenda lengkap kurator tetap terbuka.
+6. Identitas kontak Kael dan agenda lengkap kurator tetap terbuka; kurator yang bekerja dengan Ilyra tidak otomatis orang yang sama dengan kurator dalam kontrak Buku I.
 7. Batu bertulis yang dirujuk tidak boleh langsung disebut sebagai salah satu dari 13 Prasasti sebelum identifikasi dan bukti tersedia.
 8. Jangan mengungkap NVR AGAIN sebelum Prasasti pertama sesuai kerangka CANON Buku IV.
 9. Tidak ada informasi baru tentang LEAX, Great War, atau entitas kosmik.
