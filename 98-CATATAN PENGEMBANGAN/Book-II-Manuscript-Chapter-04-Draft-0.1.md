@@ -39,7 +39,7 @@ Daren berdiri dekat tali pembatas, mengenakan pakaian lapangan yang sederhana. I
 
 “Jalur ini tidak bisa diperlakukan seperti jalan biasa,” lanjutnya. “Beban dan jumlah orang yang lewat harus dibatasi.”
 
-Mira menyapa Daren dengan anggukan. “Kau masih menjaga perlintasan?”
+Mira menyapa orang itu dengan anggukan. “Kau masih menjaga perlintasan?”
 
 “Selama mereka masih membutuhkan orang yang mau mengatakan tidak.”
 
