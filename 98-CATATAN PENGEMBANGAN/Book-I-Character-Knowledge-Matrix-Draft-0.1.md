@@ -80,17 +80,17 @@ Sumber: Character Bible dan Cerita dan Rencana Delapan Buku. Rincian tambahan te
 
 ## 6. Pemeriksaan sebelum manuskrip disetujui
 
-- [ ] Urutan pengungkapan peta kedua konsisten.
-- [ ] Alasan Kael menahan peta tidak muncul sebagai fakta sebelum diungkap.
-- [ ] Pembaca dapat membedakan observasi dan dugaan tentang fasilitas.
-- [ ] Pihak komersial memiliki dasar klaim yang dijelaskan di dalam cerita, bukan diasumsikan sah.
-- [ ] Pengungkapan Kael mengubah hubungan kelompok dan memiliki konsekuensi.
-- [ ] Pemicu sistem pertahanan terlihat dan merupakan akibat tindakan.
-- [ ] Pengetahuan tiap karakter selama keadaan darurat sesuai posisi dan pengalaman mereka.
-- [ ] Kesepakatan akhir hanya bersifat sementara.
-- [ ] Salinan catatan tidak menjawab misteri di luar cakupannya.
-- [ ] Pesan penutup mempertahankan identitas kontak sebagai UNKNOWN.
-- [ ] Tidak ada proposal NON-CANON yang diam-diam berubah menjadi fakta.
+- [x] Urutan pengungkapan peta kedua konsisten.
+- [x] Alasan Kael menahan peta tidak muncul sebagai fakta sebelum diungkap.
+- [x] Pembaca dapat membedakan observasi dan dugaan tentang fasilitas.
+- [x] Pihak komersial memiliki dasar klaim yang dijelaskan di dalam cerita, bukan diasumsikan sah.
+- [x] Pengungkapan Kael mengubah hubungan kelompok dan memiliki konsekuensi.
+- [x] Pemicu sistem pertahanan terlihat dan merupakan akibat tindakan.
+- [x] Pengetahuan tiap karakter selama keadaan darurat sesuai posisi dan pengalaman mereka.
+- [x] Kesepakatan akhir hanya bersifat sementara.
+- [x] Salinan catatan tidak menjawab misteri di luar cakupannya.
+- [x] Pesan penutup mempertahankan identitas kontak sebagai UNKNOWN.
+- [x] Tidak ada proposal NON-CANON yang diam-diam berubah menjadi fakta.
 
 ## 7. Dokumen terkait
 
