@@ -409,3 +409,7 @@ Tidak ada perubahan CANON.
 
 
 - Memperjelas Scene 15: Tavian, Seraphine, Kael, dan dua anggota ekspedisi adalah lima orang yang masuk dan terjebak di fasilitas; posisi Kael kini konsisten dengan Scene 16 serta storyboard.
+
+
+- Koreksi kontinuitas Scene 15: hanya Tavian, Seraphine, dan Kael yang masuk; dua anggota ekspedisi tetap di luar untuk meminta bantuan. Audit sebelumnya keliru menyebut lima orang masuk; laporan diperbaiki.
+- Jumlah panel storyboard terverifikasi adalah 602, bukan 604; indeks manuskrip diselaraskan.
