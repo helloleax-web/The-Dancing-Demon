@@ -165,7 +165,7 @@ Pekerja itu tidak menjawab.
 
 “Sekarang bukan waktunya,” kata Tavian. “Kita harus memastikan tidak ada orang di dalam.”
 
-Seraphine segera menghitung orang yang berada di dekat mereka. Pengawas dan satu pekerja sudah keluar. Tavian berada di ambang. Dua anggota ekspedisi baru tiba. Namun, satu orang dari tim dokumentasi belum terlihat.
+Seraphine segera menghitung orang yang berada di dekat mereka. Pengawas dan satu pekerja sudah keluar. Tavian dan Kael berada di dekat ambang, bersama Seraphine dan dua anggota ekspedisi yang baru tiba. Namun, satu orang dari tim dokumentasi belum terlihat.
 
 “Di mana yang lain?” tanyanya.
 
@@ -201,7 +201,7 @@ Cahaya dari panel bergerak di sepanjang sambungan dinding. Beberapa bidang yang 
 
 Di belakang mereka, terdengar bunyi keras.
 
-Tavian berbalik tepat ketika bagian struktur di dekat ambang bergerak menutup. Seraphine dan dua anggota tim berhasil melewati ruang pertama, tetapi jalan kembali kini tertutup oleh bidang padat yang turun dari atas.
+Tavian berbalik tepat ketika bagian struktur di dekat ambang bergerak menutup. Tavian, Seraphine, Kael, dan dua anggota tim telah melewati ruang pertama, tetapi jalan kembali kini tertutup oleh bidang padat yang turun dari atas.
 
 Cahaya luar menghilang.
 
@@ -273,7 +273,7 @@ Dan untuk pertama kalinya sejak ekspedisi dimulai, tidak ada peta yang dapat mem
 
 - Sistem mengubah kondisi fasilitas dan menutup akses utama setelah pemicu pada Scene 14.
 - Setidaknya satu anggota tim dokumentasi masih berada di dalam dan terjebak di balik bagian struktur yang bergeser.
-- Tavian dan Seraphine bersama dua anggota tim ikut terjebak di bagian dalam; orang-orang di luar tidak dapat langsung menjangkau mereka.
+- Tavian, Seraphine, Kael, dan dua anggota tim ikut terjebak di bagian dalam; orang-orang di luar tidak dapat langsung menjangkau mereka.
 - Seraphine memilih memprioritaskan pencarian dan keselamatan orang daripada mempertahankan seluruh dokumentasi.
 - Tavian harus mengambil keputusan tanpa denah atau data struktur bagian dalam.
 - Mekanisme penguncian dan pembagian ruang digambarkan melalui efek yang terlihat; sistem pertahanan belum dipahami atau dikuasai karakter.
