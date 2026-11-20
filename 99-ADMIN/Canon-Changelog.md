@@ -642,8 +642,16 @@ Matriks rotasi R0.2 diperiksa ulang dan diperbaiki agar ortogonal (deviasi maksi
 
 ## 2026-11-20 — Pass pertama manuskrip Buku IV
 
-- Seluruh 20 scene Buku IV ditulis dalam empat bab kerja, total sekitar 4.489 kata termasuk metadata dan catatan.
+- Seluruh 20 scene Buku IV ditulis dalam empat bab kerja, total sekitar 4.487 kata termasuk metadata dan catatan.
 - Dibuat Manuscript Index dan Manuscript Continuity Audit.
 - Nama NVR AGAIN pertama kali muncul pada Scene 14 setelah pembacaan Prasasti pertama; makna, referen, dan konteks sejarah tetap terbuka.
 - Jorren Hale ditambahkan sebagai karakter pendukung NON-CANON untuk menjaga akses lokal di Jalan Northglass.
+- Tidak ada perubahan CANON atau keputusan baru tentang LEAX.
+
+
+## 2026-11-20 — Klarifikasi akhir Buku IV
+
+- Scene 20 diperjelas: arsip Great War hanya menjadi salah satu arah riset yang mungkin, bukan bukti bahwa karakter telah mengetahui hubungan NVR AGAIN dengan musik perang.
+- Kalimat narator yang menyiratkan referen nama lebih besar daripada batu dihapus; referen tetap UNKNOWN.
+- Indeks manuskrip, audit kontinuitas, dan Character Knowledge Matrix diselaraskan. Total manuskrip sekitar 4.487 kata.
 - Tidak ada perubahan CANON atau keputusan baru tentang LEAX.
