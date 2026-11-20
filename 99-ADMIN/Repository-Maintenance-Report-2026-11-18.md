@@ -440,3 +440,14 @@ Tidak ada perubahan CANON.
 - Menyelaraskan estimasi panel dengan jumlah penanda panel aktual.
 - Memperbaiki urutan perkenalan Daren pada prosa Bab 4 dan menyelaraskan storyboard.
 - Semua storyboard tetap NON-CANON; belum ada thumbnail artistik atau layout final.
+
+
+## 2026-11-20 — Pengembangan Buku III
+
+- Membuat outline 20 scene dan Character Knowledge Matrix Buku III.
+- Menulis pass pertama manuskrip enam bab, sekitar 6.890 kata setelah integrasi laporan survei lama Daren dari Buku II.
+- Membuat Manuscript Index, Outline Audit, dan Manuscript Continuity Audit Buku III.
+- Mengintegrasikan laporan Daren tentang permukaan buatan di wilayah lain sebagai petunjuk terpisah; laporan itu tidak membuktikan fasilitas atau jaringan.
+- Fasilitas Hollow Vale diperlakukan sebagai situs kedua yang berbeda dari fasilitas Buku I.
+- Batu bertulis tetap belum diidentifikasi sebagai Prasasti; nama NVR AGAIN tetap ditahan sampai penemuan Prasasti pertama.
+- Tidak ada perubahan CANON atau keputusan baru tentang LEAX.
