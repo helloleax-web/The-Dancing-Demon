@@ -143,8 +143,6 @@ Dan kali ini, mereka tidak sedang mengamati respons sistem dari jarak aman.
 
 ---
 
----
-
 ### Scene 15 — Bangunan Mengunci
 
 Suara dari dalam fasilitas tidak berhenti ketika Tavian mencapai ambang.
@@ -281,8 +279,6 @@ Dan untuk pertama kalinya sejak ekspedisi dimulai, tidak ada peta yang dapat mem
 - Mekanisme penguncian dan pembagian ruang digambarkan melalui efek yang terlihat; sistem pertahanan belum dipahami atau dikuasai karakter.
 - Detail lokasi, urutan gerakan, dan keadaan darurat merupakan pengembangan prosa NON-CANON.
 
-
----
 
 ---
 
@@ -461,8 +457,6 @@ Untuk malam itu, itu sudah cukup.
 - Keberhasilan adalah penyelamatan terbatas, bukan pemahaman atau penguasaan fasilitas.
 - Seluruh detail teknis penyelamatan dan respons sistem tetap NON-CANON.
 
-
----
 
 ---
 
