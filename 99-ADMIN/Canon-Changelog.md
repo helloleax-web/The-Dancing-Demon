@@ -655,3 +655,13 @@ Matriks rotasi R0.2 diperiksa ulang dan diperbaiki agar ortogonal (deviasi maksi
 - Kalimat narator yang menyiratkan referen nama lebih besar daripada batu dihapus; referen tetap UNKNOWN.
 - Indeks manuskrip, audit kontinuitas, dan Character Knowledge Matrix diselaraskan. Total manuskrip sekitar 4.487 kata.
 - Tidak ada perubahan CANON atau keputusan baru tentang LEAX.
+
+
+## 2026-11-20 — Manuskrip dan storyboard Buku IV
+
+- Manuskrip Buku IV meliputi 20 scene dalam empat bab kerja; sekitar 4.489 kata termasuk metadata dan catatan.
+- Storyboard Bab 1–4 selesai: 74 halaman dan 370 panel.
+- Membuat indeks dan audit storyboard.
+- Menghapus berkas Bab 5 duplikat; Scenes 16–20 berada pada Bab 4 sesuai indeks dan pembagian outline.
+- Nama NVR AGAIN tetap diungkap pertama kali pada Scene 14; tidak ada penjelasan baru tentang makna atau hubungan dengan LEAX.
+- Tidak ada perubahan CANON.
