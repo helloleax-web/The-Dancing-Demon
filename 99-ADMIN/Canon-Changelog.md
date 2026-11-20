@@ -439,3 +439,12 @@ Matriks rotasi R0.2 diperiksa ulang dan diperbaiki agar ortogonal (deviasi maksi
 - Kelompok belum memasuki fasilitas, belum mengetahui identitas atau fungsi struktur, dan belum menyimpulkan hubungan dengan lokasi lain.
 - Manuskrip Bab 1 kini memuat Scenes 1–6 dengan sekitar 4.665 kata.
 - Semua tambahan berupa keputusan naratif draft dan tetap NON-CANON; tidak ada perubahan fakta LEAX atau CANON dunia.
+
+
+## Pengembangan naskah Buku I — Scene 7–8 — 2026-11-20
+
+- Manuskrip Bab 1 diperluas dengan Scene 7 “Ambang Fasilitas” dan Scene 8 “Sistem yang Masih Menyala”.
+- Kelompok mendokumentasikan panel pada struktur tertanam; panel merespons kehadiran mereka dan membuka akses luar bangunan.
+- Respons sistem hanya digambarkan melalui gejala yang dapat diamati. Penyebab dan teknologi belum dijelaskan.
+- Manuskrip Bab 1 kini mencakup Scenes 1–8 dengan sekitar 6.208 kata.
+- Tidak ada perubahan fakta CANON atau materi terkait LEAX; seluruh detail tambahan tetap NON-CANON.
