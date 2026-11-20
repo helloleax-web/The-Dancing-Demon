@@ -35,12 +35,18 @@
 
 ## 4. Pemeriksaan kontinuitas
 
-- [ ] Nama NVR AGAIN tidak muncul sebelum Scene 14.
-- [ ] Tidak ada dialog yang menyebut nama tersebut sebagai nama yang diketahui selama Great War.
-- [ ] Ilyra hanya membaca bagian yang didukung tanda yang masih utuh.
-- [ ] Seraphine membedakan transliterasi dari interpretasi.
-- [ ] Tidak ada karakter yang menghubungkan NVR AGAIN dengan LEAX.
-- [ ] Batu bertulis tidak disamakan dengan fasilitas Hollow Vale.
-- [ ] Penemuan pertama tidak otomatis mengungkap isi Prasasti lain.
+- [x] Nama NVR AGAIN tidak muncul sebelum Scene 14.
+- [x] Tidak ada dialog yang menyebut nama tersebut sebagai nama yang diketahui selama Great War.
+- [x] Ilyra hanya membaca bagian yang didukung tanda yang masih utuh.
+- [x] Seraphine membedakan transliterasi dari interpretasi.
+- [x] Tidak ada karakter yang menghubungkan NVR AGAIN dengan LEAX.
+- [x] Batu bertulis tidak disamakan dengan fasilitas Hollow Vale.
+- [x] Penemuan pertama tidak otomatis mengungkap isi Prasasti lain.
 
 **Dampak CANON: tidak ada.**
+
+
+## 5. Catatan jendela pengetahuan
+
+- Scene 20 membuka pencarian arsip sejarah, termasuk kemungkinan memeriksa periode Great War. Ini adalah arah riset, bukan bukti bahwa karakter telah mengetahui NVR AGAIN sebagai nama musik yang terdengar selama perang.
+- Referen dan makna nama NVR AGAIN tetap UNKNOWN bagi karakter.
