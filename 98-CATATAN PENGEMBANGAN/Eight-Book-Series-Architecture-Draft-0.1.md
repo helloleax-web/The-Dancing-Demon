@@ -265,3 +265,12 @@ Jangan memakai misteri kosmik untuk menyelesaikan konflik lokal. Jangan pula mem
 - [Book II Character Knowledge and Continuity Matrix — Draft 0.1](Book-II-Character-Knowledge-Matrix-Draft-0.1.md) mengatur informasi yang diketahui kelompok dan pembaca.
 - Keputusan draft memperkenalkan Mira Solenne dan Daren Holt sebagai anggota perjalanan berulang, serta tim survei regional Konsorsium Survei Meridian.
 - Seluruh fungsi lokasi, organisasi, dan keputusan karakter tetap NON-CANON; tidak ada perubahan pada fakta LEAX atau misteri kosmik.
+
+
+## Pengembangan lanjutan Buku III — 2026-11-20
+
+- [Book III Scene Outline — Draft 0.1](Book-III-Scene-Outline-Draft-0.1.md) mengembangkan 20 scene tentang perbandingan arsip, Fasilitas Hollow Vale, dan perebutan akses informasi.
+- [Book III Character Knowledge and Continuity Matrix — Draft 0.1](Book-III-Character-Knowledge-Matrix-Draft-0.1.md) mengatur pengetahuan kelompok dan pembaca.
+- Ilyra Nym diperkenalkan sebagai penyalin naskah dan asisten arsip; Fasilitas Hollow Vale digunakan sebagai situs kedua yang berbeda dari fasilitas Buku I.
+- Rujukan kepada batu bertulis menjadi jembatan menuju Buku IV, tetapi belum diidentifikasi sebagai Prasasti.
+- Semua keputusan tetap NON-CANON dan tidak mengubah fakta tentang LEAX atau NVR AGAIN.
