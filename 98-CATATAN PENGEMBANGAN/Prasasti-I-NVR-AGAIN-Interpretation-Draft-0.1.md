@@ -1,251 +1,360 @@
 # Prasasti I — NVR AGAIN
-## Draf interpretasi seorang keturunan LEAX
+## Naskah interpretasi seorang keturunan LEAX
 
-**Status: DRAF PENGEMBANGAN / NON-CANON.** Dokumen ini menyimpan konsep penafsiran Prasasti Pertama dari sudut pandang seorang penduduk Avarra yang merupakan salah satu keturunan LEAX. Identitas, nama, zaman hidup, latar pendidikan, dan riwayat pribadi penafsir belum ditetapkan.
+**Status: DRAF PENGEMBANGAN / NON-CANON**
 
-Dokumen ini bukan penjelasan objektif mengenai LEAX atau dunia asal lagu. Ini adalah catatan seorang penafsir yang mencoba memahami lantunan asing berdasarkan pengetahuan terbatas yang tersedia baginya.
+Dokumen ini merupakan naskah interpretasi Prasasti Pertama dari sudut pandang seorang penduduk Avarra yang merupakan salah satu keturunan LEAX. Ia penasaran terhadap leluhurnya dan mencoba memahami 13 Prasasti. Identitas, nama, usia, zaman hidup, latar pendidikan, dan riwayat pribadi penafsir belum ditetapkan.
 
-## 1. Premis dan sudut pandang penafsir
+Naskah ini sengaja ditulis sebagai catatan seorang penafsir Avarra, bukan sebagai ulasan modern atas sebuah lagu. Penafsir tidak mengetahui dunia asal lantunan, kebudayaan modern, teknologi, nama merek, nama tempat, obat-obatan, kendaraan, tokoh, maupun istilah slang yang terdengar di dalamnya.
 
-- Penafsir adalah salah satu keturunan LEAX yang tinggal di Avarra.
-- Ia penasaran terhadap LEAX dan 13 Prasasti.
-- Ia menduga suara dalam Prasasti mungkin merupakan suara LEAX sendiri, atau setidaknya lantunan yang menceritakan pengalaman yang benar-benar pernah dialami LEAX.
-- Dugaan tersebut merupakan keyakinan dan hipotesis pribadi penafsir, bukan fakta yang telah terbukti.
-- Penafsir tidak mengenal dunia modern, budaya asal lagu, teknologi, nama merek, nama tempat, nama tokoh, obat-obatan, kendaraan, atau istilah asing yang muncul di dalamnya.
-- Penafsir tidak boleh tiba-tiba mengetahui identitas suatu benda hanya karena pembaca mengenal referensinya.
-- Ia boleh mengajukan beberapa kemungkinan berdasarkan konteks, tetapi harus menandai dugaan sebagai dugaan dan mengakui ketika sesuatu sama sekali tidak dapat dipahami.
-- Penafsir boleh salah memahami ungkapan, metafora, slang, atau bunyi yang didengarnya.
-
-## 2. Prinsip membaca istilah asing
-
-Setiap istilah harus diperlakukan menurut tingkat pengetahuan penafsir:
-
-1. **Dikenali:** hanya jika ada dasar yang masuk akal bahwa konsep atau benda tersebut dikenal di Avarra.
-2. **Diduga:** penafsir dapat memperkirakan fungsi atau makna dari konteks, tetapi tidak mengetahui identitas pastinya.
-3. **Tidak diketahui:** penafsir tidak memiliki dasar yang cukup untuk mengidentifikasinya. Nama hanya dicatat sebagaimana terdengar.
-
-Contoh: penafsir tidak boleh menyebut Bentley sebagai mobil mewah, Percs atau Molly sebagai nama obat tertentu, London sebagai kota tertentu, atau Judo sebagai seni bela diri yang sudah dikenalnya. Ia hanya boleh mencatat nama-nama tersebut dan menyampaikan dugaan terbatas berdasarkan kalimat di sekitarnya.
-
-Teks lirik lengkap tidak direproduksi di dokumen ini. Analisis berikut merujuk pada urutan baris dalam sumber lirik yang digunakan untuk penelitian.
+**Keyakinan utama penafsir:** ia menduga suara dalam Prasasti mungkin merupakan perkataan LEAX sendiri, atau setidaknya lantunan yang menceritakan sesuatu yang benar-benar pernah dialami LEAX. Dugaan ini adalah hipotesis pribadi, bukan fakta sejarah yang telah terbukti.
 
 ---
 
-## 3. Catatan baris demi baris
+## I. Prinsip dan batas penafsiran
 
-### Baris 1 — Penyebutan “Perkies” dan ketidakmampuan merasa cukup
+Penafsir harus mempertahankan batas pengetahuannya:
 
-Penafsir mendengar nama “Perkies” dan menangkap bahwa sesuatu dengan nama tersebut terus dikonsumsi atau digunakan. Pemilik suara mengatakan bahwa ia tidak lagi dapat merasakan sesuatu dengan cukup.
+1. **Tidak mengenali istilah asing secara otomatis.** Nama seperti Bentley, Tonka, Percs, Molly, Judo, London, Nieman's, dan lainnya hanya dicatat sebagaimana terdengar. Penafsir tidak tahu referensi modernnya.
+2. **Menyimpulkan hanya dari konteks.** Jika kalimat memberi petunjuk bahwa sesuatu dibawa, dipakai, dikonsumsi, atau dikunjungi, penafsir boleh menduga fungsi umumnya, tetapi tidak boleh mengklaim identitas tepatnya.
+3. **Mengakui ketidaktahuan.** Beberapa baris mungkin tidak bisa dipahami sama sekali. Itu harus dicatat, bukan ditambal dengan pengetahuan pembaca.
+4. **Membedakan dugaan dari fakta.** Semua tafsiran tentang kehidupan LEAX adalah hipotesis penafsir.
+5. **Memungkinkan kesalahan tafsir.** Slang, metafora, permainan kata, bunyi ad-lib, dan ungkapan dari dunia asal dapat membuat penafsir salah mengerti.
+6. **Tidak menganggap semua baris sebagai laporan harfiah.** Penafsir belum tahu apakah suara tersebut sedang menceritakan pengalaman, membual, menggunakan metafora, atau mencampur semuanya.
+
+Dalam catatan di bawah, frasa lirik dicantumkan sebagai penanda bagian agar pembaca tahu baris yang sedang ditafsirkan. Penjelasan tetap terbatas pada apa yang mungkin dipahami penafsir Avarra.
+
+---
+
+## II. Penafsiran baris demi baris
+
+### Bagian A — Lantunan awal
+
+### 1. “These Perkies they don't stop, I can't feel enough”
+
+Penafsir mendengar nama **Perkies** dan menangkap bahwa sesuatu dengan nama tersebut terus dikonsumsi atau digunakan. Pemilik suara mengatakan bahwa ia tidak lagi dapat merasakan sesuatu dengan cukup.
 
 Penafsir tidak mengetahui apa itu Perkies. Ia menduga benda tersebut mungkin sesuatu yang dikonsumsi dan dapat memengaruhi perasaan, tetapi belum memiliki bukti.
 
-**Catatan penafsir:** Apakah sesuatu dapat kehilangan pengaruhnya ketika terus-menerus digunakan?
+*Catatan penafsir:* Apakah sesuatu dapat kehilangan pengaruhnya ketika terus-menerus digunakan?
 
-### Baris 2 — Benda besar bernama “Bentley”
+### 2. “I was pullin' up in that big body lil' Bentley truck”
 
-Pemilik suara menyebut sesuatu bernama Bentley yang digambarkan berukuran besar dan digunakan ketika ia datang ke suatu tempat.
+Pemilik suara menyebut sesuatu bernama **Bentley**, digambarkan berukuran besar dan digunakan ketika ia datang ke suatu tempat.
 
 Penafsir tidak mengenali nama Bentley. Ia hanya menduga bahwa benda tersebut mungkin alat transportasi, nama pembuat, atau nama khusus suatu benda.
 
-### Baris 3 — Wadah berisi “dirty stuff”
+*Catatan penafsir:* Jika ini alat untuk berpindah tempat, apakah benda seperti itu umum di dunia asal pemilik suara, atau hanya dimiliki orang tertentu?
+
+### 3. “I was ridin' round with a cup full of that dirty stuff”
 
 Pemilik suara menggambarkan perjalanan sambil membawa sebuah wadah berisi bahan yang disebutnya kotor.
 
 Penafsir tidak mengetahui isi wadah tersebut. Karena bagian ini muncul berdekatan dengan penyebutan Perkies, ia menduga keduanya mungkin berkaitan, tetapi hubungan itu belum dapat dipastikan.
 
-### Baris 4 — Klaim bahwa seluruh dunia ikut bergerak bersamanya
+### 4. “I got the whole world rockin' with me, bitch, it's stuck as fuck”
 
 Pemilik suara mengatakan bahwa seluruh dunia bergerak atau bergoyang bersamanya.
 
 Penafsir tidak yakin apakah kalimat itu harfiah. Ia menduga pemilik suara sedang menggambarkan pengaruh yang sangat besar terhadap banyak orang, atau sesuatu yang membuat orang-orang mengikuti dirinya.
 
-### Baris 5 — Kedatangan dengan sesuatu yang kecil dan bunyi singkat
+### 5. “Pulled up in a lil' (skrrt)”
 
 Pemilik suara menggambarkan kedatangan menggunakan sesuatu yang disebut kecil, disertai bunyi singkat.
 
-Penafsir belum mengetahui apakah bunyi tersebut merupakan tiruan suara, bagian dari lantunan, atau ungkapan tertentu.
+Penafsir belum mengetahui apakah bunyi tersebut merupakan tiruan suara, bagian dari lantunan, atau ungkapan tertentu. Ia juga belum tahu benda apa yang dimaksud.
 
-### Baris 6 — Benda besar bernama “Tonka”
+### 6. “Pulled up in a big Tonka”
 
-Nama Tonka disebut sebagai sesuatu yang besar. Penafsir belum mengenal nama tersebut dan tidak dapat memastikan apakah itu kendaraan, benda, tempat, atau istilah lain.
+Nama **Tonka** disebut sebagai sesuatu yang besar. Penafsir belum mengenal nama tersebut dan tidak dapat memastikan apakah itu kendaraan, benda, tempat, atau istilah lain.
 
-### Baris 7 — Ungkapan meninggalkan bumi dan mencampurkan “bean” dengan “Perc”
+### 7. “I just be leaving the earth, I mix the bean with the Perc'”
 
-Pemilik suara mengatakan bahwa ia meninggalkan bumi setelah mencampurkan dua hal yang disebut bean dan Perc.
+Pemilik suara mengatakan bahwa ia meninggalkan bumi setelah mencampurkan dua hal yang disebut **bean** dan **Perc**.
 
 Penafsir mempertimbangkan apakah ini menggambarkan pengalaman yang mengubah kesadaran atau perjalanan yang dianggap melampaui keadaan biasa. Ia tidak mengetahui identitas kedua istilah tersebut dan tidak dapat memastikan apakah ungkapan meninggalkan bumi bersifat harfiah.
 
-### Baris 8 — Sesuatu bernama “Molly” yang dahulu berpengaruh tetapi kini tidak lagi
+### 8. “I used to go boot off the molly all day, now it don't even work”
 
-Pemilik suara menceritakan bahwa sesuatu bernama Molly dahulu memberikan pengaruh tertentu, tetapi sekarang tidak lagi bekerja sebagaimana sebelumnya.
+Pemilik suara menceritakan bahwa sesuatu bernama **Molly** dahulu memberikan pengaruh tertentu, tetapi sekarang tidak lagi bekerja sebagaimana sebelumnya.
 
 Penafsir menduga seseorang dapat terbiasa terhadap sesuatu yang terus digunakan sehingga pengaruhnya berkurang. Ia tidak mengetahui apa Molly sebenarnya.
 
-### Baris 9 — Benda bernama “GLE-ski” dan tindakan terhadap tepi jalan
+### 9. “I just pulled up in the big body GLE-ski, I'ma rip up the curb”
 
-Pemilik suara menyebut GLE-ski sebagai sesuatu yang digunakan untuk mendatangi suatu tempat. Ia kemudian menggambarkan tindakan merusak atau mengoyak bagian tepi jalan.
+Pemilik suara menyebut **GLE-ski** sebagai sesuatu yang digunakan untuk mendatangi suatu tempat. Ia kemudian menggambarkan tindakan merusak atau mengoyak bagian tepi jalan.
 
 Penafsir belum dapat memastikan apakah GLE-ski merupakan alat transportasi atau benda lain. Ia juga tidak mengetahui apakah tindakan terhadap tepi jalan merupakan kejadian nyata, ungkapan, atau gaya bahasa.
 
-### Baris 10 — Berkeliling bersama kelompok dan mengamati tempat
+### 10. “Yeah, we gon' ride around town, lil' geeky life, yeah, we gon' pull up and lurk”
 
 Pemilik suara menggambarkan dirinya bersama kelompok yang berkeliling di suatu kota atau permukiman, mendatangi tempat, dan mengamati keadaan.
 
 Penafsir menduga kegiatan tersebut merupakan kebiasaan kelompok. Ia belum tahu apakah tujuannya hiburan, pengawasan, atau sesuatu yang mencurigakan.
 
-### Baris 11 — Perhatian dari perempuan dan ungkapan agresif
+### 11. “Yeah, and every bitch out here wan' pull up, you know that I'm murkin'”
 
 Pemilik suara mengatakan bahwa banyak perempuan ingin mendatanginya, lalu menggunakan ungkapan yang mungkin berkaitan dengan tindakan agresif.
 
 Penafsir menduga pemilik suara sedang membanggakan daya tarik atau pengaruhnya, tetapi juga mungkin menggambarkan persaingan dan kekerasan. Makna tepat istilah yang digunakan belum diketahui.
 
-### Baris 12 — Keinginan melakukan sesuatu yang diketahui tidak seharusnya dilakukan
+### 12. “I wanna boot up, I know that I shouldn't”
 
 Pemilik suara mengakui keinginannya untuk kembali melakukan sesuatu, tetapi pada saat yang sama mengetahui bahwa tindakan tersebut seharusnya tidak dilakukan.
 
 Penafsir melihat pertentangan antara keinginan dan kesadaran. Ia bertanya mengapa seseorang tetap menginginkan sesuatu yang diyakininya tidak baik.
 
-### Baris 13 — “Percs” dan keadaan hampir tertidur
+### 13. “I just be takin' these Percs 'bout to nod off”
 
-Nama Percs kembali disebut, kali ini berdekatan dengan gambaran keadaan hampir tertidur.
+Nama **Percs** kembali disebut, kali ini berdekatan dengan gambaran keadaan hampir tertidur.
 
 Penafsir menduga benda tersebut mungkin memengaruhi kewaspadaan atau kesadaran. Ia tidak mengetahui identitas atau sifat benda itu.
 
-### Baris 14 — Perbandingan dengan “Judo”
+### 14. “Ridin' round kickin' that bitch like this bitch Judo”
 
-Pemilik suara menggunakan nama Judo ketika menggambarkan gerakan fisik.
+Pemilik suara menggunakan nama **Judo** ketika menggambarkan gerakan fisik.
 
 Penafsir tidak mengetahui apakah Judo adalah nama seseorang, teknik, kelompok, atau sesuatu yang lain. Ia hanya menduga bagian ini berkaitan dengan gerakan atau kekuatan tubuh.
 
-### Baris 15 — Benda bernama “diamond” yang dikenakan dan dianggap berharga
+### 15. “Every diamond on me is so flawless, it's extravagant”
 
-Pemilik suara menyebut benda yang dikenakannya dan menyebutnya diamond, dengan gambaran bahwa benda itu sempurna serta mewah.
+Pemilik suara menyebut benda yang dikenakannya dan menyebutnya **diamond**, dengan gambaran bahwa benda itu sempurna serta mewah.
 
 Penafsir mungkin menduga benda tersebut merupakan sesuatu yang bernilai tinggi atau perhiasan, tetapi pengenalan tepatnya bergantung pada pengetahuan yang tersedia di Avarra. Ia tidak boleh otomatis mengetahui seluruh konteks budaya asal istilah tersebut.
 
-### Baris 16 — Kunjungan kembali ke tempat tinggal lama dan penolakan untuk kembali
+### 16. “Walked inside the apartments we used to live in, huh, like never again”
 
 Pemilik suara menceritakan kunjungan ke tempat tinggal yang dahulu pernah dihuni bersama orang lain, lalu menegaskan bahwa ia tidak ingin kembali.
 
 Penafsir menganggap bagian ini penting karena berbeda dari pembicaraan mengenai benda dan kekayaan. Ia menduga pemilik suara pernah menjalani kehidupan yang berbeda dan meninggalkan masa lalu yang tidak ingin diulanginya.
 
-**Catatan penafsir:** Jika suara ini berasal dari LEAX, apakah tempat tersebut pernah menjadi bagian dari kehidupannya sebelum peristiwa yang dikenal dalam sejarah Avarra?
+*Catatan penafsir:* Jika suara ini berasal dari LEAX, apakah tempat tersebut pernah menjadi bagian dari kehidupannya sebelum peristiwa yang dikenal dalam sejarah Avarra?
 
-### Baris 17 — Penolakan terhadap hubungan dengan orang lain
+### 17. “I can't even fuck with nobody, not once, not twice, not never again”
 
 Pemilik suara menyatakan tidak ingin lagi berhubungan dengan siapa pun dan menegaskan penolakan itu berulang kali.
 
 Penafsir menduga ada pengalaman yang membuat pemilik suara kehilangan kepercayaan terhadap orang lain. Namun, alasan tersebut tidak dapat dibuktikan hanya dari baris ini.
 
-### Seruan singkat — Kata yang terdengar seperti “demons”
+### 18. Seruan “demons”
 
-Terdengar sebuah seruan yang menyerupai kata “demons”.
+Terdengar sebuah seruan yang menyerupai kata **demons**.
 
 Penafsir belum mengetahui apakah kata itu merujuk pada makhluk, kelompok, julukan, atau sekadar seruan. Kata tersebut dicatat tanpa menetapkan identitas atau maknanya.
 
-### Baris 18 — Tindakan yang diperkirakan hanya dilakukan sekali ternyata diulang
+### 19. “He thought we would only spin once, can't wait, I did it again”
 
 Pemilik suara menceritakan seseorang yang mengira suatu tindakan hanya akan dilakukan satu kali, tetapi tindakan itu kembali dilakukan.
 
-Penafsir tidak mengetahui arti istilah yang digunakan untuk tindakan tersebut. Ia mencatat pola pengulangan sebagai sesuatu yang mungkin penting.
+Penafsir tidak mengetahui arti istilah **spin**. Ia mencatat pola pengulangan sebagai sesuatu yang mungkin penting, tetapi tidak berani menentukan apakah yang dimaksud adalah perjalanan, tindakan kelompok, atau kegiatan lain.
 
-### Baris 19 — Nama “Luh Crank” dan “Benz”
+### 20. “Pull up outside, Luh Crank, yeah, and I pulled out the Benz”
 
-Pemilik suara menyebut Luh Crank, lalu menyebut Benz.
+Pemilik suara menyebut **Luh Crank**, lalu menyebut **Benz**.
 
 Penafsir tidak mengetahui apakah Luh Crank merupakan nama seseorang, tempat, atau benda. Ia juga tidak mengenali Benz. Keduanya dicatat sebagai nama asing tanpa identifikasi.
 
-### Baris 20 — Penolakan terhadap hubungan dan cerita mengenai teman seseorang
+### 21. “I don't even fuck with nobody, yeah, I fucked her friends”
 
 Pemilik suara kembali mengatakan bahwa ia tidak ingin berhubungan dengan siapa pun, tetapi kemudian menceritakan keterlibatan dengan teman-teman seorang perempuan.
 
 Penafsir melihat pertentangan antara penolakan terhadap hubungan dan keterlibatan fisik dengan orang lain. Ia menduga pemilik suara mungkin memisahkan kesenangan pribadi dari ikatan emosional.
 
-### Baris 21 — Penciptaan sesuatu bernama “classic album”
+### 22. “Had to drop me a lil' classic album, yeah, I done did it again”
 
-Pemilik suara mengatakan bahwa ia menghasilkan sesuatu yang disebut album dan menganggapnya sebagai karya istimewa.
+Pemilik suara mengatakan bahwa ia menghasilkan sesuatu yang disebut **album** dan menganggapnya sebagai karya istimewa.
 
 Penafsir menduga album mungkin merupakan kumpulan lantunan atau karya suara, tetapi belum mengetahui bentuk dan cara pembuatannya. Ia juga mencatat bahwa pemilik suara mengatakan telah melakukan hal tersebut lagi.
 
-### Baris 22 — “Perc” dan “X” serta hilangnya rasa pada anggota tubuh
+### 23. “Takin' the Perc' with the X, yeah, I don't feel my limbs”
 
-Pemilik suara menyebut dua istilah, Perc dan X, lalu mengatakan bahwa ia tidak dapat merasakan anggota tubuhnya.
+Pemilik suara menyebut dua istilah, **Perc** dan **X**, lalu mengatakan bahwa ia tidak dapat merasakan anggota tubuhnya.
 
 Penafsir menduga keduanya mungkin sesuatu yang digunakan atau dikonsumsi dan dapat memengaruhi tubuh. Ia tidak mengetahui identitasnya. Keadaan kehilangan rasa pada anggota tubuh terdengar berbahaya baginya.
 
-### Baris 23 — Menyewa sesuatu dan merusak bagian tertentu
+### 24. “If I'm gon' rent the car, then I'm gon' scrape the rims”
 
 Pemilik suara mengatakan bahwa apabila ia menyewa suatu benda, ia tidak keberatan merusak bagian tertentu darinya.
 
 Penafsir menduga benda tersebut mungkin alat transportasi karena konteks kalimat, tetapi tidak mengetahui jenisnya. Ia juga bertanya apakah pemilik suara memiliki kekayaan yang membuat kerusakan semacam itu tidak berarti baginya.
 
-### Baris 24 — Perbandingan kekayaan menggunakan nama “Buddha” dan “Jim”
+### 25. “Yeah, my money fat like Buddha, your money slim like Jim”
 
-Pemilik suara membandingkan kekayaannya dengan milik orang lain melalui gambaran besar dan kecil, kemudian menyebut Buddha dan Jim.
+Pemilik suara membandingkan kekayaannya dengan milik orang lain melalui gambaran besar dan kecil, kemudian menyebut **Buddha** dan **Jim**.
 
 Penafsir tidak mengetahui siapa atau apa yang dimaksud dengan kedua nama tersebut. Ia hanya memahami bahwa pemilik suara sedang membanggakan kekayaannya dan membandingkannya dengan orang lain.
 
-### Baris 25 — Pengulangan nama “Tonka” dan “GLE”
+### 26. “I'm ridin' in this Tonka, GLE”
 
-Kedua nama yang sebelumnya pernah disebut kembali muncul dalam konteks perjalanan.
+Nama **Tonka** dan **GLE** kembali muncul dalam konteks perjalanan.
 
 Penafsir mencatat bahwa nama-nama tersebut tampaknya merujuk pada benda yang digunakan untuk berpindah tempat, tetapi identitas pastinya masih belum diketahui.
 
-### Baris 26 — Tempat bernama “Nieman's” dan beberapa kantong
+### 27. “I just went and hit Nieman's and I walked out with a few bags”
 
-Pemilik suara menceritakan kunjungan ke tempat bernama Nieman's, lalu meninggalkan tempat tersebut dengan beberapa kantong.
+Pemilik suara menceritakan kunjungan ke tempat bernama **Nieman's**, lalu meninggalkan tempat tersebut dengan beberapa kantong.
 
 Penafsir menduga tempat itu mungkin lokasi perdagangan atau tempat seseorang memperoleh barang. Ia tidak mengetahui jenis tempat maupun isi kantong-kantong tersebut.
 
-### Baris 27 — Tidak ingin lagi bersama kelompok tertentu
+### 28. “I can't even rock with them no more, that's just a fact”
 
-Pemilik suara mengatakan bahwa ia tidak lagi ingin berhubungan dengan sekelompok orang.
+Pemilik suara mengatakan bahwa ia tidak lagi ingin bersama sekelompok orang.
 
 Penafsir melihat ini sebagai pengulangan tema keterasingan dan pemutusan hubungan sosial. Alasan perpisahan tidak diketahui.
 
-### Baris 28 — Nama “London”, sebutan “yankee”, dan ancaman penikaman
+### 29. “When I'm out in London, I'm a yankee, you'll get stabbed”
 
-Pemilik suara menyebut London dan menggunakan kata yankee untuk menggambarkan dirinya ketika berada di sana. Ia kemudian mengucapkan ancaman yang berkaitan dengan penikaman.
+Pemilik suara menyebut **London** dan menggunakan kata **yankee** untuk menggambarkan dirinya ketika berada di sana. Ia kemudian mengucapkan ancaman yang berkaitan dengan penikaman.
 
 Penafsir tidak mengetahui apakah London merupakan kota, wilayah, atau kerajaan. Ia juga tidak mengenali arti yankee. Bagian ancaman membuatnya menduga bahwa lingkungan asal pemilik suara mungkin mengenal konflik dan kekerasan, tetapi ia tidak dapat menyimpulkan keadaan seluruh wilayah dari satu kalimat.
 
-### Baris 29 — Percakapan mengenai hubungan tubuh
+### 30. “She asked me if I want the bitch on top of her, I said, 'Yeah'”
 
 Pemilik suara menceritakan percakapan dengan seorang perempuan mengenai hubungan tubuh yang melibatkan orang lain.
 
 Penafsir memahami bahwa bagian ini berkaitan dengan hubungan intim, tetapi tidak mengetahui norma sosial masyarakat asal pemilik suara. Ia mencatatnya sebagai pengalaman pribadi yang diceritakan tanpa banyak penjelasan mengenai ikatan emosional.
 
-### Baris 30 — “Helicopter”, tindakan yang disebut “chopped”, dan “scat”
+### 31. “Pulled up and I chopped the helicopter, got the 'scat”
 
-Pemilik suara menyebut helicopter, suatu tindakan yang disebut chopped, dan istilah scat.
+Pemilik suara menyebut **helicopter**, suatu tindakan yang disebut **chopped**, dan istilah **scat**.
 
 Penafsir tidak dapat memahami hubungan ketiganya. Ia tidak boleh menganggap helicopter sebagai alat terbang yang sudah dikenal atau memastikan arti chopped dan scat. Ketiga istilah dicatat sebagai bagian yang belum terpecahkan.
 
 ---
 
-## 4. Pengulangan lantunan
+## III. Pengulangan lantunan
 
-Setelah rangkaian baris tersebut, sebagian besar bagian awal kembali dilantunkan. Penafsir mencatat bahwa pengulangan merupakan bagian dari susunan Prasasti, bukan otomatis pesan baru.
+Setelah rangkaian di atas, sebagian besar bagian awal kembali dilantunkan. Penafsir mencatat bahwa pengulangan merupakan bagian dari susunan Prasasti, bukan otomatis pesan baru. Ia tetap menuliskan pengamatan untuk setiap pengulangan agar urutan lantunan tidak hilang.
 
-Pengulangan yang kembali terdengar mencakup:
-- Penyebutan Perkies dan ketidakmampuan merasa cukup.
-- Benda bernama Bentley dan wadah berisi bahan yang tidak diketahui.
-- Klaim pengaruh terhadap dunia.
-- Nama Tonka, bean, Perc, Molly, dan GLE-ski.
-- Kegiatan berkeliling bersama kelompok.
-- Pengakuan tentang keinginan yang diketahui tidak seharusnya dilakukan.
-- Nama Judo dan diamond.
-- Kenangan tentang tempat tinggal lama.
-- Penolakan terhadap hubungan dengan orang lain.
-- Seruan yang terdengar seperti “demons”.
-- Tindakan yang kembali dilakukan.
-- Nama Luh Crank dan Benz.
-- Pertentangan antara penolakan hubungan dan keterlibatan dengan orang lain.
+### 32. Pengulangan baris Perkies dan ketidakmampuan merasa cukup
 
-Penafsir menganggap pengulangan tersebut mungkin dimaksudkan untuk menekankan bagian-bagian tertentu. Namun, ia belum mengetahui apakah pengulangan memiliki fungsi simbolis, musikal, atau fungsi lain.
+Pernyataan mengenai sesuatu bernama Perkies kembali terdengar. Pemilik suara kembali mengungkapkan ketidakmampuannya merasakan kepuasan.
+
+Penafsir tidak memperoleh pengetahuan baru mengenai identitas Perkies. Pengulangan ini justru menegaskan bahwa persoalan tersebut penting dalam lantunan.
+
+### 33. Pengulangan Bentley
+
+Nama Bentley kembali muncul sebagai sesuatu yang besar dan digunakan untuk mendatangi suatu tempat.
+
+Penafsir belum mengetahui identitasnya. Ia hanya mencatat bahwa nama tersebut diulang.
+
+### 34. Pengulangan wadah berisi “dirty stuff”
+
+Pemilik suara kembali menyebut wadah berisi bahan yang tidak diketahui.
+
+Penafsir mencatat bahwa bahan tersebut merupakan bagian berulang dari gambaran kehidupannya, tetapi isi dan kegunaannya tetap tidak diketahui.
+
+### 35. Pengulangan klaim bahwa seluruh dunia bergerak bersamanya
+
+Pemilik suara kembali menggambarkan pengaruhnya terhadap dunia atau masyarakat di sekitarnya.
+
+Penafsir menduga klaim tersebut berkaitan dengan pengaruh, ketenaran, atau kemampuan membuat orang lain mengikuti dirinya. Ia tidak dapat memastikan makna harfiahnya.
+
+### 36. Pengulangan kedatangan dengan sesuatu yang kecil
+
+Gambaran kedatangan menggunakan sesuatu yang kecil dan bunyi singkat kembali muncul.
+
+Penafsir mencatatnya sebagai pengulangan, tanpa menambahkan identifikasi baru.
+
+### 37. Pengulangan Tonka
+
+Nama Tonka kembali muncul sebagai sesuatu yang besar.
+
+Penafsir masih tidak mengetahui apakah Tonka adalah kendaraan, benda, tempat, atau istilah lain.
+
+### 38. Pengulangan ungkapan meninggalkan bumi dan campuran bean dengan Perc
+
+Pemilik suara kembali menggambarkan pengalaman meninggalkan bumi setelah mencampurkan dua hal yang disebut bean dan Perc.
+
+Penafsir belum mendapatkan penjelasan yang lebih kuat mengenai makna ungkapan tersebut. Dugaan bahwa ini berkaitan dengan perubahan kesadaran tetap belum terbukti.
+
+### 39. Pengulangan Molly yang dahulu berpengaruh tetapi kini tidak lagi
+
+Pemilik suara kembali menceritakan bahwa sesuatu bernama Molly dahulu memberikan pengaruh, tetapi sekarang tidak lagi.
+
+Penafsir mencatat pengulangan tema hilangnya pengaruh atau kepuasan. Identitas Molly tetap tidak diketahui.
+
+### 40. Pengulangan GLE-ski dan tindakan terhadap tepi jalan
+
+Nama GLE-ski kembali disebut bersama gambaran tindakan yang merusak bagian tepi jalan.
+
+Penafsir belum dapat memastikan benda yang dimaksud maupun apakah tindakan tersebut harfiah.
+
+### 41. Pengulangan kegiatan berkeliling bersama kelompok
+
+Pemilik suara kembali menceritakan kegiatan bersama kelompoknya yang berkeliling dan mendatangi tempat-tempat tertentu.
+
+Penafsir melihat ini sebagai rutinitas sosial yang berulang. Tujuan kegiatan tersebut masih belum diketahui.
+
+### 42. Pengulangan perhatian dari perempuan dan ungkapan agresif
+
+Pemilik suara kembali membicarakan perhatian yang diterimanya dari banyak perempuan serta menggunakan ungkapan bernuansa agresif.
+
+Penafsir tidak menemukan informasi baru, tetapi mencatat bahwa tema pengaruh pribadi dan agresivitas kembali muncul.
+
+### 43. Pengulangan keinginan melakukan sesuatu yang diketahui tidak seharusnya dilakukan
+
+Pemilik suara kembali mengakui adanya keinginan yang bertentangan dengan pengetahuannya sendiri.
+
+Penafsir melihat pengulangan ini sebagai penegasan konflik antara keinginan dan kesadaran diri.
+
+### 44. Pengulangan Percs dan keadaan hampir tertidur
+
+Nama Percs kembali muncul dalam hubungan dengan keadaan hampir tertidur.
+
+Penafsir menghubungkannya dengan perubahan kewaspadaan atau kesadaran yang telah ia duga sebelumnya. Identitas zat tersebut tetap tidak diketahui.
+
+### 45. Pengulangan perbandingan dengan Judo
+
+Nama Judo kembali terdengar dalam perbandingan yang berkaitan dengan gerakan fisik.
+
+Penafsir belum mengetahui apakah nama tersebut menunjuk pada orang, teknik, kelompok, atau sesuatu yang lain.
+
+### 46. Pengulangan diamond dan kemewahan
+
+Pemilik suara kembali membanggakan benda-benda yang dikenakannya dan menganggapnya mewah.
+
+Penafsir mencatat pengulangan tema kekayaan dan penampilan, tanpa menganggap bahwa ia telah memahami seluruh kebudayaan asal istilah tersebut.
+
+### 47. Pengulangan tempat tinggal lama dan “never again”
+
+Pemilik suara kembali menceritakan tempat tinggal yang pernah ditinggalkannya.
+
+Penafsir tetap menganggap bagian ini penting. Ada sesuatu dalam masa lalu pemilik suara yang tampaknya tidak ingin ia ulangi, tetapi alasan dan peristiwanya belum diketahui.
+
+### 48. Pengulangan penolakan terhadap hubungan dengan orang lain
+
+Pemilik suara kembali menolak hubungan dengan siapa pun dan mengulang penegasannya.
+
+Penafsir melihat ini sebagai penguatan tema keterasingan atau ketidakpercayaan terhadap orang lain.
+
+### 49. Pengulangan seruan “demons”
+
+Kata yang terdengar seperti **demons** kembali muncul.
+
+Penafsir mencatat bahwa kata tersebut muncul pada posisi yang sama dalam pengulangan lantunan. Ia tetap tidak mengetahui apakah kata itu merupakan nama makhluk, kelompok, julukan, atau seruan.
+
+### 50. Pengulangan tindakan yang dilakukan lagi
+
+Pemilik suara kembali menceritakan tindakan yang diperkirakan hanya dilakukan sekali, tetapi ternyata diulang.
+
+Penafsir mencatat pola pengulangan sebagai salah satu ciri yang konsisten dalam lantunan.
+
+### 51. Pengulangan Luh Crank dan Benz
+
+Nama Luh Crank dan Benz kembali terdengar.
+
+Penafsir tidak memperoleh informasi baru mengenai keduanya. Nama-nama tersebut tetap tidak teridentifikasi.
+
+### 52. Pengulangan penolakan hubungan dan cerita tentang teman seorang perempuan
+
+Pemilik suara kembali memperlihatkan pertentangan antara penolakan terhadap hubungan dengan orang lain dan keterlibatan dalam hubungan fisik.
+
+Penafsir menganggap pengulangan ini memperkuat kesan bahwa pemilik suara membedakan kesenangan pribadi dari ikatan emosional, meskipun ia tidak dapat memastikan apakah pemahamannya benar.
 
 ---
 
-## 5. Kesimpulan sementara penafsir
+## IV. Kesimpulan sementara penafsir
 
 > *Aku telah mendengarkan lantunan ini berulang kali. Banyak nama yang tidak kukenali, banyak benda yang tidak pernah kulihat, dan banyak perkataan yang belum dapat kupahami.*
 >
@@ -263,7 +372,60 @@ Penafsir menganggap pengulangan tersebut mungkin dimaksudkan untuk menekankan ba
 >
 > *Mungkin suatu hari nanti, ketika seluruh Prasasti telah ditemukan dan dipahami, kita akan mengetahui siapa sebenarnya sosok yang berbicara melalui lantunan ini.*
 
-## 6. Batas kesimpulan dan hal yang belum diketahui
+— Catatan penutup interpretasi Prasasti Pertama
+
+---
+
+## V. Ringkasan tema yang ditangkap penafsir
+
+Berdasarkan lantunan yang didengar, penafsir mencatat beberapa tema yang berulang:
+
+1. **Kemewahan dan kekayaan:** pemilik suara berkali-kali menyebut benda, kepemilikan, dan perbandingan kekayaan.
+2. **Ketidakpuasan:** pemilik suara mengatakan bahwa sesuatu tidak lagi membuatnya merasa cukup.
+3. **Penggunaan sesuatu yang tidak dikenal:** beberapa nama asing disebut berulang kali dalam konteks penggunaan atau konsumsi.
+4. **Perubahan keadaan tubuh atau kesadaran:** ada gambaran hampir tertidur, meninggalkan bumi, dan tidak merasakan anggota tubuh.
+5. **Kehidupan kelompok dan pengaruh sosial:** pemilik suara menggambarkan orang-orang yang mengikutinya dan kelompok yang bepergian bersamanya.
+6. **Keterasingan dan hubungan antarmanusia:** ia berulang kali menolak hubungan dengan orang lain, tetapi juga menceritakan hubungan fisik.
+7. **Masa lalu:** ia mengunjungi tempat tinggal lama dan menyatakan tidak ingin kembali.
+8. **Pengulangan:** sejumlah tindakan dan pernyataan dilakukan atau diucapkan kembali.
+
+Ringkasan ini hanya menunjukkan tema yang ditangkap penafsir. Ini bukan penetapan makna objektif lagu.
+
+---
+
+## VI. Daftar istilah yang belum teridentifikasi
+
+| Istilah dalam lantunan | Status pengetahuan penafsir |
+|---|---|
+| Perkies | Tidak diketahui |
+| Bentley | Tidak diketahui |
+| Dirty stuff | Tidak diketahui; hanya disebut sebagai bahan |
+| Tonka | Tidak diketahui |
+| Bean | Tidak diketahui |
+| Perc / Percs | Tidak diketahui |
+| Molly | Tidak diketahui |
+| GLE-ski | Tidak diketahui |
+| Judo | Tidak diketahui |
+| Diamond | Mungkin diduga sebagai benda bernilai atau perhiasan; belum dipastikan |
+| Demons | Tidak diketahui apakah makhluk, kelompok, julukan, atau seruan |
+| Luh Crank | Tidak diketahui |
+| Benz | Tidak diketahui |
+| Buddha | Tidak diketahui |
+| Jim | Tidak diketahui |
+| Nieman's | Tidak diketahui |
+| London | Tidak diketahui apakah kota, wilayah, atau kerajaan |
+| Yankee | Tidak diketahui |
+| Helicopter | Tidak diketahui |
+| Chopped | Tidak diketahui |
+| Scat | Tidak diketahui |
+| Album | Diduga kumpulan lantunan atau karya suara; bentuk tepatnya belum diketahui |
+| Apartments | Diduga tempat tinggal bersama atau bangunan hunian; bentuknya belum diketahui |
+
+Daftar ini bukan kamus istilah modern. Ia adalah daftar pertanyaan yang belum terjawab oleh penafsir.
+
+---
+
+## VII. Hal-hal yang belum boleh disimpulkan
 
 Hal-hal berikut tidak boleh dianggap sebagai fakta hanya berdasarkan interpretasi ini:
 
@@ -276,5 +438,8 @@ Hal-hal berikut tidak boleh dianggap sebagai fakta hanya berdasarkan interpretas
 - Alasan pemilik suara meninggalkan tempat tinggal lamanya.
 - Hubungan antara isi Prasasti Pertama dan peristiwa Great War.
 - Apakah 12 Prasasti lainnya memiliki hubungan naratif dengan Prasasti Pertama.
+- Apakah urutan atau pengulangan lantunan memiliki makna tersembunyi selain struktur musik.
 
 **Prinsip utama:** penafsir adalah keturunan LEAX yang sedang menyelidiki kemungkinan hubungan leluhurnya dengan Prasasti. Keyakinan, dugaan, dan kesimpulannya merupakan perspektif pribadi, bukan konfirmasi kebenaran sejarah.
+
+**Catatan pengembangan:** draf ini belum menetapkan nama sang penafsir, identitas keluarganya, kapan ia hidup, bagaimana ia memperoleh Prasasti, atau apakah ia memiliki akses terhadap 12 Prasasti lainnya. Semua hal tersebut menunggu keputusan terpisah.
