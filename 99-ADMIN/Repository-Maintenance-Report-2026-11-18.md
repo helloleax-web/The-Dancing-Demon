@@ -491,3 +491,8 @@ Tidak ada perubahan CANON.
 - Menghapus berkas Bab 5 duplikat agar tidak terjadi pengulangan Scenes 19–20.
 - Pengungkapan nama NVR AGAIN tetap pada Scene 14 sesuai CANON; makna dan konteksnya tidak ditambahkan.
 - Semua detail cerita dan storyboard baru tetap NON-CANON.
+
+
+- Menyelesaikan storyboard manga Buku IV Bab 1–4 (74 halaman, 370 panel) dan menghubungkan indeks serta audit kontinuitas visual.
+- Mempertahankan pengungkapan NVR AGAIN pada Bab 3, Halaman 15 tanpa menambahkan makna atau referen.
+- Tidak ada perubahan CANON atau keputusan baru tentang LEAX; storyboard tetap NON-CANON.
