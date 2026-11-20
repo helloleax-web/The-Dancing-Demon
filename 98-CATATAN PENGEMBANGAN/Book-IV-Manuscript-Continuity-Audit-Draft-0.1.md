@@ -70,3 +70,11 @@
 - Scene 20 menyebut arsip Great War sebagai salah satu kemungkinan jalur riset berikutnya, bukan sebagai bukti bahwa kelompok sudah mengetahui hubungan NVR AGAIN dengan musik perang.
 - Kalimat narator yang menyiratkan referen nama lebih besar daripada batu dihapus. Referen tetap UNKNOWN.
 - Jumlah kata diperbarui menjadi sekitar 4.487 kata termasuk metadata dan catatan.
+
+
+## 7. Addendum — storyboard manga
+
+- Storyboard empat bab mencakup seluruh 20 scene: 74 halaman dan 370 panel.
+- Nama NVR AGAIN pertama muncul pada Scene 14, Bab 3, Halaman 15 dalam storyboard.
+- Tidak ada penjelasan makna nama atau informasi baru tentang LEAX.
+- Lihat [Book IV Manga Storyboard Audit — Draft 0.1](Book-IV-Manga-Storyboard-Audit-Report-Draft-0.1.md).
