@@ -209,3 +209,111 @@ Dan itu cukup.
 - Tavian tetap berfokus pada hasil survei dan belum mengetahui rahasia Kael.
 - Dialog dan karakterisasi adalah pilihan prosa NON-CANON yang mengikuti proposal dossier; bukan penetapan kepribadian final.
 - Tidak ada fakta baru tentang organisasi, lokasi, hukum, sejarah, atau sistem mana yang ditambahkan.
+
+
+---
+
+### Scene 3 — Jalur yang Tidak Cocok
+
+Pagi berikutnya, Tavian kembali ke titik pengukuran sebelum rombongan mulai bergerak.
+
+Ia membawa buku catatan, alat ukur, dan salinan peta kerja yang semalam sudah diperiksanya dua kali. Tidak ada alasan untuk mengubah kesimpulan hanya karena ia tidur dengan pikiran yang sama. Jika hasilnya tetap berbeda, ia akan mencatatnya. Jika ternyata ia menemukan kesalahan, ia akan memperbaikinya.
+
+Pekerjaan itu seharusnya sederhana.
+
+Ia memasang alat pada titik yang sama, memastikan posisinya tidak bergeser, lalu mengambil pengukuran ulang. Setelah itu ia berjalan ke penanda berikutnya dan mengulangi prosesnya. Angkanya tidak persis sama dengan hari sebelumnya, tetapi selisihnya masih berada dalam batas yang bisa dijelaskan oleh kondisi lapangan.
+
+Masalahnya muncul ketika ia membandingkan jarak antartitik.
+
+Pada peta, jalur seharusnya berbelok sedikit ke timur sebelum kembali mengikuti kontur tanah. Di lapangan, tanda-tanda lama justru mengarah lebih lurus. Bukan perbedaan besar pada satu titik, melainkan perubahan kecil yang terus muncul setiap kali Tavian membandingkan catatan dengan keadaan di depannya.
+
+Ia menandai posisi terakhir, lalu menarik garis tipis pada salinan peta.
+
+Garis itu tidak mengikuti jalur resmi.
+
+Tavian berhenti sebelum menyelesaikannya. Ia tidak ingin membuat rute baru hanya berdasarkan beberapa tanda yang belum tentu saling berhubungan. Ia memeriksa kompas, membaca ulang catatan ekspedisi, lalu memastikan bahwa ia tidak mencampur dua sistem penomoran penanda.
+
+Semuanya sesuai.
+
+Yang tidak sesuai adalah jalurnya.
+
+“Sudah menemukan kesalahan yang kau cari?”
+
+Seraphine berdiri di belakangnya. Ia membawa map tipis dan terlihat sudah siap memulai pemeriksaan hari itu.
+
+“Belum tahu apakah ini kesalahan,” kata Tavian. “Tapi jalur yang tercatat tidak cocok dengan penanda di lapangan.”
+
+Seraphine mendekat. Ia tidak langsung melihat ke arah yang ditunjuk Tavian. Ia memeriksa peta terlebih dahulu, kemudian catatan pengukuran, baru mengangkat pandangan ke jalur di depan mereka.
+
+“Berapa titik yang berbeda?”
+
+“Empat yang bisa dibandingkan. Dua lainnya belum cukup jelas.”
+
+“Dan semuanya mengarah ke tempat yang sama?”
+
+“Kurang lebih.”
+
+“Kurang lebih bukan ukuran.”
+
+“Aku tahu.”
+
+Seraphine berjongkok di dekat penanda terakhir. Ia memeriksa tanah di sekitarnya, bekas ikatan, dan permukaan patok. Tidak ada tanda yang cukup jelas untuk menyimpulkan bahwa penanda itu baru saja dipindahkan. Ia lalu meminta Tavian menunjukkan urutan pengukuran dari titik pertama.
+
+Mereka memeriksanya satu per satu.
+
+Tidak ada angka yang berdiri sendiri sebagai bukti kuat. Namun, rangkaian selisih itu membuat penjelasan sederhana semakin sulit dipertahankan. Jika peta salah, mereka perlu tahu bagian mana yang keliru. Jika penandanya bergeser, harus ada bukti pergeseran. Jika jalur lama berubah, perubahan itu seharusnya meninggalkan tanda pada medan.
+
+“Jangan tulis bahwa jalurnya berubah,” kata Seraphine akhirnya. “Tulis bahwa posisi penanda dan rute pada peta tidak konsisten.”
+
+Tavian mengangguk dan mencatat kalimat itu.
+
+“Lalu?”
+
+“Kita periksa lebih jauh sebelum memutuskan apa pun.”
+
+Kael datang ketika mereka sedang menggulung kembali peta. Ia membawa kantong perlengkapan kecil dan memandang garis yang baru dibuat Tavian.
+
+“Kelihatannya kalian menemukan sesuatu.”
+
+“Kami menemukan ketidaksesuaian,” jawab Seraphine.
+
+“Nama yang lebih panjang untuk sesuatu yang menarik.”
+
+“Nama yang lebih akurat,” kata Tavian.
+
+Kael memperhatikan garis tipis pada peta. “Kalau rute resminya salah, kita kehilangan waktu.”
+
+“Kalau kita mengubah rute tanpa bukti, kita juga bisa kehilangan waktu,” kata Tavian.
+
+“Jadi pilihan kita adalah kehilangan waktu dengan cara yang benar?”
+
+“Pilihan kita adalah memastikan kita tahu sedang berjalan ke mana.”
+
+Kael mengangkat kedua tangan, seolah tidak berniat memperpanjang perdebatan. Namun, pandangannya kembali tertuju pada bagian peta yang diberi tanda.
+
+“Baik. Pastikan saja pemeriksaannya tidak membuat kita melewatkan sesuatu.”
+
+Tavian menutup peta. “Itu juga tujuannya.”
+
+Mereka belum memiliki alasan untuk meninggalkan rute ekspedisi. Belum ada bukti tentang jalan tersembunyi, bangunan terkubur, atau peninggalan yang menunggu ditemukan. Hanya ada jalur yang tidak cocok dengan catatan resmi dan beberapa penanda yang belum bisa dijelaskan.
+
+Bagi Tavian, itu sudah cukup untuk menunda kesimpulan.
+
+Ia menyimpan peta kerja di dalam tas, lalu menandai lokasi pemeriksaan berikutnya. Hari itu mereka akan mengikuti jejak penanda lebih jauh, membandingkan setiap perubahan, dan memastikan apakah ketidaksesuaian tersebut berakhir sebagai kesalahan pemetaan biasa.
+
+Namun, ketika rombongan mulai bergerak, Tavian menyadari satu hal.
+
+Garis pada peta resmi tidak membawa mereka ke tempat yang sama dengan garis yang mulai ia gambar sendiri.
+
+Dan untuk pertama kalinya sejak ekspedisi dimulai, ia tidak yakin jalur mana yang seharusnya mereka ikuti.
+
+---
+
+## Catatan tambahan Scene 3
+
+- Ketidaksesuaian berkembang dari pengukuran berulang menjadi perbedaan antara rute resmi dan posisi penanda di lapangan.
+- Tavian tidak menyimpulkan adanya jalan kuno atau fasilitas; ia hanya mencatat ketidakcocokan yang perlu diverifikasi.
+- Seraphine meminta bahasa laporan yang membatasi klaim pada bukti yang benar-benar diamati.
+- Kael memperhatikan perubahan rute, tetapi belum mengungkap peta kedua atau alasan pribadinya.
+- Adegan ini menyiapkan kebutuhan dramatik bagi pengungkapan peta kedua pada Scene 4.
+- Semua detail adegan, dialog, dan karakterisasi tetap berstatus NON-CANON.
