@@ -11,9 +11,9 @@ Pekerjaan mereka di kaki bukit belum selesai, tetapi tidak ada lagi yang mencoba
 
 Selama beberapa hari berikutnya, kelompok hanya melakukan pemeriksaan dari luar batas penjagaan. Mereka mencatat perubahan pada permukaan, memastikan tidak ada bagian yang bergerak lagi, dan menyimpan semua dokumentasi yang masih dapat digunakan. Pihak perusahaan juga menahan kegiatannya sampai pemeriksaan lanjutan dapat dilakukan.
 
-Di antara catatan awal yang dibuat sebelum insiden, Seraphine menemukan satu bagian yang belum mereka periksa dengan teliti.
+Di antara foto dan sketsa yang dibuat sebelum insiden, Seraphine menemukan satu bagian yang belum mereka periksa dengan teliti.
 
-Sebuah bidang tipis memiliki pola yang berbeda dari kepingan lain. Permukaannya rusak di beberapa tempat, tetapi satu bagian masih memperlihatkan rangkaian tanda yang tersusun seperti daftar. Di bawahnya terdapat bentuk kecil menyerupai garis wilayah, dengan beberapa titik yang dihubungkan oleh jalur.
+Dalam salah satu foto, tampak sebuah bidang tipis dengan pola yang berbeda dari kepingan lain. Permukaannya rusak di beberapa tempat, tetapi satu bagian masih memperlihatkan rangkaian tanda yang tersusun seperti daftar. Di bawahnya terdapat bentuk kecil menyerupai garis wilayah, dengan beberapa titik yang dihubungkan oleh jalur.
 
 Seraphine meminta Tavian membandingkannya dengan sketsa yang dibuat saat pemeriksaan pertama.
 
@@ -25,7 +25,7 @@ Kael berdiri di sisi meja. “Tapi ada titik yang ditandai.”
 
 “Ada bentuk yang menyerupai titik,” kata Seraphine. “Kita belum tahu apa yang ditunjuk.”
 
-Mereka memeriksa bagian itu tanpa mencoba menyatukannya dengan kepingan lain. Beberapa tanda dapat disalin dengan cukup jelas. Bagian lain terputus oleh kerusakan. Tidak ada judul, nama wilayah, atau keterangan yang bisa diterjemahkan.
+Mereka membandingkan foto itu dengan sketsa lapangan dan catatan posisi, tanpa mencoba menyatukan atau memindahkan kepingan apa pun. Beberapa tanda dapat disalin dengan cukup jelas dari dokumentasi. Bagian lain terputus oleh kerusakan. Tidak ada judul, nama wilayah, atau keterangan yang bisa diterjemahkan.
 
 Tavian membuat salinan bentuk garis dan titik tersebut pada lembar terpisah. Ia menambahkan ukuran relatif dan menandai bagian yang hilang. Ia tidak menyalinnya ke peta utama sebagai lokasi yang telah diketahui.
 
@@ -79,16 +79,14 @@ Hanya sebuah tanda di peta, menuju tempat yang belum dikenal.
 
 ## Catatan tambahan Scene 18
 
-- Kelompok memeriksa kembali dokumentasi awal dan menemukan fragmen dengan rangkaian tanda serta diagram titik-jalur.
-- Mereka membuat salinan sebagian; bagian yang rusak tetap ditandai dan tidak diterjemahkan.
+- Kelompok memeriksa kembali foto, sketsa, dan catatan dokumentasi awal; sebuah fragmen dengan rangkaian tanda serta diagram titik-jalur terlihat dalam dokumentasi tersebut.
+- Mereka membuat salinan sebagian dari dokumentasi, bukan mengambil atau memindahkan benda dari fasilitas; bagian yang rusak tetap ditandai dan tidak diterjemahkan.
 - Fragmen mungkin merujuk pada lokasi lain atau hubungan antarbagian, tetapi tidak cukup untuk membuktikannya.
 - Tavian menambahkan simbol dan garis putus-putus pada peta, bukan koordinat atau lokasi pasti.
 - Seraphine menyimpan salinan dengan klasifikasi sementara dan batas interpretasi yang jelas.
 - Petunjuk ini memberi arah praktis untuk perjalanan berikutnya tanpa mengungkap tujuan atau sejarah fasilitas.
 - Detail fragmen, diagram, dan klasifikasi merupakan pengembangan naskah NON-CANON.
 
-
----
 
 ---
 
@@ -168,7 +166,7 @@ Dan ia belum tahu apakah jawaban yang benar akan membuat keadaan menjadi lebih b
 
 - Kael menerima pesan dari kontak tak dikenal yang menanyakan apakah ia menemukan “arsip di bawah jalan”.
 - Tidak ada nama, lambang, atau informasi yang mengidentifikasi pengirim.
-- Kael membakar sebagian besar pesan, tetapi menyimpan potongan kertas yang tidak memuat tulisan.
+- Kael membakar pesan sampai tulisannya tidak lagi terbaca, tetapi menyimpan sisa lembaran yang hangus.
 - Tavian dan Seraphine tidak mengetahui isi pesan tersebut.
 - Identitas kontak dan maksud pertanyaannya tetap MYSTERY.
 - Penutup menyelesaikan krisis lokal Buku I tetapi mempertahankan sengketa, fasilitas yang belum dipahami, kontrak Kael yang belum terpenuhi, dan petunjuk perjalanan berikutnya.
