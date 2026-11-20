@@ -558,3 +558,10 @@ Matriks rotasi R0.2 diperiksa ulang dan diperbaiki agar ortogonal (deviasi maksi
 - Audit storyboard awal memeriksa urutan pengungkapan, posisi karakter, konsistensi properti, batas fasilitas, dan misteri pesan penutup.
 - Koreksi jumlah panel Bab 1 dan total indeks dilakukan berdasarkan penanda panel aktual.
 - Tidak ada perubahan CANON; semua keputusan panel tetap NON-CANON.
+
+
+## 2026-11-20 — Klarifikasi posisi seluruh kelompok pada Scene 15
+
+- Scene 15 diperjelas: Tavian, Seraphine, Kael, dan dua anggota ekspedisi masuk ke fasilitas; kelimanya terjebak ketika akses tertutup.
+- Catatan scene menyebut seluruh lima orang secara eksplisit agar tidak ada ambiguitas posisi Kael.
+- Tidak ada perubahan hasil adegan atau fakta CANON.
