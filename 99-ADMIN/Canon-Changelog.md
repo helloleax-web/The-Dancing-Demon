@@ -665,3 +665,11 @@ Matriks rotasi R0.2 diperiksa ulang dan diperbaiki agar ortogonal (deviasi maksi
 - Menghapus berkas Bab 5 duplikat; Scenes 16–20 berada pada Bab 4 sesuai indeks dan pembagian outline.
 - Nama NVR AGAIN tetap diungkap pertama kali pada Scene 14; tidak ada penjelasan baru tentang makna atau hubungan dengan LEAX.
 - Tidak ada perubahan CANON.
+
+
+## 2026-11-20 — Storyboard manga Buku IV
+
+- Storyboard Bab 1–4 mencakup seluruh 20 scene: 74 halaman dan 370 panel.
+- Membuat indeks storyboard dan laporan audit kontinuitas visual.
+- Jendela pengungkapan NVR AGAIN dipertahankan pada Bab 3, Halaman 15; makna dan referen tetap terbuka.
+- Tidak ada perubahan CANON atau keputusan baru tentang LEAX.
