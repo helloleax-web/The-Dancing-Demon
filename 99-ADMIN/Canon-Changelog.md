@@ -592,3 +592,14 @@ Matriks rotasi R0.2 diperiksa ulang dan diperbaiki agar ortogonal (deviasi maksi
 - Scene 19 Bab 6 diselaraskan dengan outline melalui penambahan laporan survei lama Daren tentang permukaan buatan di lokasi lain. Laporan tersebut tidak membuktikan jaringan fasilitas.
 - Character Knowledge Matrix diperbarui setelah pemeriksaan kontinuitas.
 - Tidak ada perubahan CANON dan tidak ada penetapan baru tentang LEAX atau misteri kosmik.
+
+
+## 2026-11-20 — Pass pertama manuskrip Buku III
+
+- Book III Scene Outline dan Character Knowledge Matrix dibuat untuk 20 scene.
+- Seluruh 20 scene memiliki prosa awal dalam enam bab kerja, total sekitar 6.819 kata termasuk metadata dan catatan.
+- Dibuat Manuscript Index dan Manuscript Continuity Audit.
+- Fasilitas Hollow Vale dipakai sebagai situs kedua yang berbeda dari fasilitas Buku I; seluruh rincian tetap NON-CANON.
+- Ilyra Nym diperkenalkan sebagai penyalin naskah/asisten arsip dengan arc interpretasi pola.
+- Akhir Buku III mengarah pada batu bertulis di luar fasilitas tanpa mengidentifikasikannya sebagai Prasasti.
+- Tidak ada perubahan CANON atau keputusan baru tentang LEAX.
