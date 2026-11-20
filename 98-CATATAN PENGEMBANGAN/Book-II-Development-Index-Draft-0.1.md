@@ -26,3 +26,7 @@
 - Daren Holt bergabung sebagai pengawal dan penanggung jawab keselamatan perjalanan.
 - Konsorsium Survei Meridian hadir melalui tim survei regional.
 - Semua keputusan di atas NON-CANON dan tidak mengubah fakta LEAX.
+
+## Manuskrip
+
+- [Book II Manuscript Index — Draft 0.1](Book-II-Manuscript-Index-Draft-0.1.md) — enam bab kerja, 20 scene.
