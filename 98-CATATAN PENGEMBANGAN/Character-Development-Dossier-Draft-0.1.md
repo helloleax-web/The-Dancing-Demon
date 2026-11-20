@@ -127,6 +127,23 @@ Kelompok utama sebaiknya tidak terasa seperti enam orang yang dipilih karena mas
 
 **Batas misteri:** proposal ini tidak menetapkan siapa yang membayar Kael, apa tujuan sebenarnya, siapa kontak tak dikenal, atau apa arti “arsip di bawah jalan”.
 
+
+## Iven Rusk
+
+**Status:** karakter pendukung draft NON-CANON; diperkenalkan dalam Scene 13 Buku I.
+
+**Fungsi naratif:** perantara lapangan yang menghubungkan Kael dengan pekerjaan verifikasi informasi tanpa menjadikan Arsip Lentera sebagai pemberi tugas resmi.
+
+**Peran dalam draft:** membawa pekerjaan dari seorang kurator yang memiliki hubungan profesional dengan Arsip Lentera. Ia membayar Kael untuk memverifikasi rumor mengenai arsip di bawah jalur lama dan, jika tersedia, memperoleh salinan indeks atau catatan akses.
+
+**Batas pengetahuan yang ditetapkan untuk draft:**
+- Iven bukan wakil resmi Arsip Lentera.
+- Ia tidak harus mengetahui fungsi sebenarnya dari fasilitas.
+- Ia tidak harus mengetahui seluruh agenda kurator.
+- Ia tidak disamakan dengan kontak tak dikenal yang mengirim pesan kepada Kael pada penutup Buku I.
+
+**Rincian yang belum dikembangkan:** usia, penampilan, latar belakang, motivasi pribadi, jaringan, dan hubungan lain. Jangan mengisi rincian tersebut hanya untuk memperluas profil sebelum cerita membutuhkannya.
+
 ## 5. Mira Solenne
 
 ### Fakta CANON yang dipertahankan
