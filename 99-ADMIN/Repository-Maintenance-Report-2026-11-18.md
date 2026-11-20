@@ -352,3 +352,12 @@ Tidak ada perubahan CANON.
 - Total manuskrip sekitar 15.838 kata; cakupan adegan 1–17 dari 19 scene outline.
 - Character Knowledge Matrix diselaraskan dengan hasil insiden dan penjagaan sementara.
 - Tidak ada perubahan CANON; semua detail tetap NON-CANON dan tidak memutuskan hal tentang LEAX.
+
+
+## Pembaruan manuskrip draft Buku I — 2026-11-20 (Scenes 18–19)
+
+- Bab 1 diperluas hingga Scene 19 “Pesan yang Dibakar”.
+- Semua 19 scene dalam outline kini memiliki draft prosa awal; total sekitar 17.066 kata.
+- Character Knowledge Matrix dan Scene Outline diperbarui untuk mencatat cakupan manuskrip.
+- Ini belum merupakan naskah Book I final: audit struktural, kontinuitas, bahasa, dan pemecahan bab manga masih harus dilakukan.
+- Tidak ada perubahan CANON; seluruh prosa tetap NON-CANON dan tidak memutuskan hal tentang LEAX.
