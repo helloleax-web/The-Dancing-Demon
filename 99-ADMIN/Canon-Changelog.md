@@ -430,3 +430,12 @@ Matriks rotasi R0.2 diperiksa ulang dan diperbaiki agar ortogonal (deviasi maksi
 - Manuskrip kini berisi Scenes 1–3 dengan sekitar 2.188 kata.
 - Seluruh tambahan prosa, dialog, dan karakterisasi tetap NON-CANON.
 - Dampak CANON: tidak ada.
+
+
+## Pengembangan naskah Buku I — Scene 4–6 — 2026-11-20
+
+- Manuskrip Bab 1 diperluas dengan Scene 4 “Peta Kedua”, Scene 5 “Jalan Batu”, dan Scene 6 “Bukit”.
+- Kael memperlihatkan peta kedua; kelompok memverifikasi sebagian garis melalui susunan batu dan menemukan indikasi struktur buatan pada kaki bukit.
+- Kelompok belum memasuki fasilitas, belum mengetahui identitas atau fungsi struktur, dan belum menyimpulkan hubungan dengan lokasi lain.
+- Manuskrip Bab 1 kini memuat Scenes 1–6 dengan sekitar 4.665 kata.
+- Semua tambahan berupa keputusan naratif draft dan tetap NON-CANON; tidak ada perubahan fakta LEAX atau CANON dunia.
