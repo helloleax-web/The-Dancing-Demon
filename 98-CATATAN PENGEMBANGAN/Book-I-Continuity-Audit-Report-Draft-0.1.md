@@ -86,3 +86,11 @@ Pass pertama **lulus pemeriksaan kesesuaian premis pada tingkat kerangka**, sete
 | **Total** | **1–19** | **17.323** |
 
 Angka ini mencakup header, metadata, dan catatan tambahan tiap scene; bukan jumlah kata prosa naratif murni.
+
+
+## 9. Klarifikasi dokumentasi fragmen dan pesan penutup
+
+- Scene 18 diperjelas: setelah penguncian dan penjagaan, kelompok menafsirkan kembali foto, sketsa, serta catatan yang telah dibuat sebelum insiden. Mereka membuat salinan dari dokumentasi, bukan masuk kembali atau mengambil benda dari fasilitas.
+- Catatan Scene 18 diselaraskan dengan tindakan tersebut agar tidak memberi kesan bahwa kelompok melanggar batas penjagaan.
+- Catatan Scene 19 diselaraskan: Kael membakar pesan sampai tulisannya tidak terbaca, tetapi menyimpan sisa lembaran yang hangus.
+- Perubahan ini menjaga premis bahwa kelompok membawa salinan sebagian catatan dan tetap mematuhi penjagaan sementara.
