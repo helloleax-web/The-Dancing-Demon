@@ -638,3 +638,12 @@ Matriks rotasi R0.2 diperiksa ulang dan diperbaiki agar ortogonal (deviasi maksi
 - Membuat indeks storyboard dan laporan audit kontinuitas visual.
 - Mengoreksi hitungan audit manuskrip Buku III menjadi 6.890 kata sesuai enam berkas bab.
 - Tidak ada perubahan CANON; seluruh storyboard tetap NON-CANON.
+
+
+## 2026-11-20 — Pass pertama manuskrip Buku IV
+
+- Seluruh 20 scene Buku IV ditulis dalam empat bab kerja, total sekitar 4.489 kata termasuk metadata dan catatan.
+- Dibuat Manuscript Index dan Manuscript Continuity Audit.
+- Nama NVR AGAIN pertama kali muncul pada Scene 14 setelah pembacaan Prasasti pertama; makna, referen, dan konteks sejarah tetap terbuka.
+- Jorren Hale ditambahkan sebagai karakter pendukung NON-CANON untuk menjaga akses lokal di Jalan Northglass.
+- Tidak ada perubahan CANON atau keputusan baru tentang LEAX.
