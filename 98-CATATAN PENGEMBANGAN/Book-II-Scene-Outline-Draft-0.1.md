@@ -67,6 +67,8 @@ Kelompok membantu memetakan jalur alternatif dengan melibatkan pengetahuan lokal
 
 **Scene 4 — Bellwether**
 - Kelompok tiba di Bellwether karena kota itu memiliki tempat penyimpanan peta, catatan rute lama, dan jasa penyalin yang mungkin dapat membantu membandingkan fragmen.
+- Mereka menyadari persediaan perjalanan perlu ditambah dan mencari pekerjaan survei jangka pendek.
+- Tavian menerima kontrak sederhana dari perwakilan pedagang Rookbridge untuk menilai pilihan jalur aman menuju permukiman itu setelah perlintasan utamanya dibatasi.
 - Kota diperlihatkan sebagai titik pertemuan pedagang, pekerja perjalanan, penyalin peta, dan ekspedisi.
 - Peta tidak hanya menjadi alat navigasi; sebagian informasi memiliki harga dan akses terbatas.
 - **Fungsi:** memperluas dunia sosial melalui kegiatan sehari-hari.
@@ -99,7 +101,7 @@ Kelompok membantu memetakan jalur alternatif dengan melibatkan pengetahuan lokal
 
 **Scene 9 — Kesepakatan Perjalanan**
 - Mira menawarkan untuk mengantar kelompok ke Rookbridge dan membantu mencari pembanding bagi fragmen.
-- Ia menetapkan bayaran dan batas informasi yang tidak ingin dibagikan tanpa persetujuan masyarakat setempat.
+- Ia menjadi pemandu lokal dalam kontrak survei jangka pendek yang diterima Tavian, dengan bayaran dan batas informasi yang disepakati.
 - Kelompok menyetujui syaratnya.
 - **Fungsi:** membuat Mira bergabung melalui keputusan profesional yang masuk akal.
 
