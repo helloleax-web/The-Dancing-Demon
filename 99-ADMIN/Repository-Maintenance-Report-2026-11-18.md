@@ -460,3 +460,11 @@ Tidak ada perubahan CANON.
 - Menjaga pengungkapan nama NVR AGAIN hanya setelah pembacaan Prasasti pertama; makna dan konteksnya tetap terbuka.
 - Memperjelas bahwa “Prasasti pertama” dalam draft adalah penemuan pertama kelompok, bukan klaim bahwa mereka mengetahui daftar atau jumlah Prasasti lainnya.
 - Tidak ada perubahan CANON atau keputusan tentang LEAX.
+
+
+## 2026-11-20 — Storyboard manga Buku III
+
+- Menyelesaikan storyboard Buku III Bab 1–6 (108 halaman, 521 panel) dan membuat indeks serta audit storyboard.
+- Menyelaraskan estimasi panel dengan jumlah penanda panel aktual.
+- Menjaga empat sumber informasi tetap terpisah dan menahan identifikasi batu bertulis sebagai Prasasti.
+- Semua storyboard tetap NON-CANON; belum ada thumbnail artistik atau layout final.
