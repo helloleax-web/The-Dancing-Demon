@@ -573,3 +573,13 @@ Matriks rotasi R0.2 diperiksa ulang dan diperbaiki agar ortogonal (deviasi maksi
 - Prosa Scene 15 dikoreksi: Tavian, Seraphine, dan Kael masuk; dua anggota ekspedisi tetap di luar untuk memanggil bantuan; anggota dokumentasi yang dicari berada lebih dalam.
 - Audit kontinuitas diperbarui. Storyboard Bab 5 sudah mengikuti pembagian tiga orang di dalam dan dua orang di luar.
 - Tidak ada perubahan CANON.
+
+
+## 2026-11-20 — Pass pertama manuskrip Buku II
+
+- Book II Scene Outline Draft 0.1 dan Character Knowledge Matrix telah dibuat untuk 20 scene.
+- Seluruh 20 scene kini memiliki prosa awal dalam enam bab kerja, total sekitar 9.542 kata termasuk metadata dan catatan.
+- Dibuat Manuscript Index dan Manuscript Continuity Audit.
+- Mira Solenne dan Daren Holt diperkenalkan sebagai anggota perjalanan berulang dalam keputusan cerita draft; fungsi Bellwether, Rookbridge, dan Konsorsium Survei Meridian tetap NON-CANON.
+- Koreksi sudut pandang pada perkenalan Daren di Scene 10 diterapkan.
+- Tidak ada perubahan CANON atau fakta tentang LEAX.
