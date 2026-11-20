@@ -236,3 +236,12 @@ Untuk memisahkan hak tanah, akses, penelitian, pemulihan, dan penjagaan dalam ko
 - **Batas:** struktur, kepemimpinan, sumber dana, dan kewenangan organisasi belum ditetapkan dalam CANON.
 
 **Status seluruh keputusan:** NON-CANON. Tidak ada perubahan pada Location Bible atau Organization Bible.
+
+
+## Keputusan cerita Buku III — Fasilitas Hollow Vale — 2026-11-20
+
+- **Keputusan draft:** Hollow Vale digunakan sebagai situs kedua yang berbeda dari fasilitas bawah tanah Buku I.
+- **Fungsi draft:** fasilitas penyimpanan atau pencatatan peninggalan Bumi dengan struktur dan akses yang berbeda; sebagian ruang dapat diakses, tetapi tidak ada antarmuka yang membuka seluruh kompleks secara otomatis.
+- **Fungsi naratif:** memberi bukti pembanding terhadap fragmen Buku I dan penanda Rookbridge, sekaligus memunculkan konflik hak atas salinan dan konteks informasi.
+- **Batas:** kemiripan format dokumen tidak membuktikan satu pembuat, satu jaringan, atau satu tujuan. Hubungan Hollow Vale dengan fasilitas Buku I tetap belum terbukti.
+- **Status:** NON-CANON. Location Bible tidak diubah.
