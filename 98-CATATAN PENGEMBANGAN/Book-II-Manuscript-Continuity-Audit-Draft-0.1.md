@@ -6,7 +6,7 @@
 ## 1. Hasil ringkas
 
 - Seluruh 20 scene outline telah ditulis sebagai prosa awal.
-- Manuskrip berjumlah sekitar 9.721 kata termasuk metadata dan catatan tambahan.
+- Manuskrip berjumlah sekitar 9.731 kata termasuk metadata dan catatan tambahan.
 - Urutan sebab-akibat berjalan dari penutupan lokasi Buku I → perjalanan ke Bellwether → pencarian peta dan pekerjaan survei → Mira → tim Meridian → Rookbridge → Daren → pemeriksaan jalur → hujan dan evakuasi → penanda lama → kelompok melanjutkan perjalanan.
 - Konflik Buku II tetap regional dan tidak mengulang konflik pengambilan fasilitas Buku I.
 - Tidak ada pengungkapan atau keputusan baru tentang LEAX, Great War, NVR AGAIN, 13 Prasasti, atau entitas kosmik.
@@ -63,10 +63,10 @@
 | 1 — Laporan Terakhir | 1–3 | 1.551 |
 | 2 — Kota yang Menjual Peta | 4–6 | 1.886 |
 | 3 — Dua Peta, Dua Kebutuhan | 7–9 | 1.428 |
-| 4 — Jembatan Rookbridge | 10–13 | 1.568 |
+| 4 — Jembatan Rookbridge | 10–13 | 1.578 |
 | 5 — Jalur yang Terlalu Sempit | 14–17 | 1.711 |
 | 6 — Penanda yang Tertinggal | 18–20 | 1.577 |
-| **Total** | **1–20** | **9,542** |
+| **Total** | **1–20** | **9,731** |
 
 **Kesimpulan:** pass pertama sesuai dengan fungsi regional Buku II pada tingkat kerangka. Ini belum finalisasi prosa atau storyboard.
 
