@@ -325,3 +325,12 @@ Tidak ada perubahan CANON.
 - Total manuskrip sekitar 8.415 kata; cakupan adegan 1–10 dari 19 scene outline.
 - Character Knowledge Matrix diperbarui agar pengetahuan trio dan pembaca mengikuti kejadian aktual dalam manuskrip.
 - Tidak ada perubahan CANON. Seluruh pengembangan tetap NON-CANON dan tidak memutuskan hal apa pun tentang LEAX.
+
+
+## Pembaruan manuskrip draft Buku I — 2026-11-20 (Scenes 11–12)
+
+- Bab 1 diperluas hingga Scene 12 “Batas Kesepakatan”.
+- Adegan mencakup klaim hak pemulihan yang belum terverifikasi dan pengaturan sementara untuk akses, dokumentasi, serta keselamatan.
+- Total manuskrip sekitar 10.831 kata; cakupan adegan 1–12 dari 19 scene outline.
+- Character Knowledge Matrix diselaraskan dengan pengetahuan karakter setelah Scene 12.
+- Tidak ada perubahan CANON; pengembangan tetap NON-CANON dan tidak memutuskan hal tentang LEAX.
