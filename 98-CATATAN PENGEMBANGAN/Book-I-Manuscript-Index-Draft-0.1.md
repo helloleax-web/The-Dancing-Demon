@@ -20,3 +20,7 @@
 - Ini merupakan pass pertama berdasarkan 19 scene outline, bukan naskah final Book I.
 - Tahap berikutnya adalah audit kontinuitas, revisi prosa, penajaman karakter, lalu penyesuaian menjadi naskah manga (panel/page breakdown).
 - Tidak ada perubahan fakta CANON. Seluruh naskah tetap NON-CANON.
+
+## Audit
+
+- [Book I Continuity Audit Report — Draft 0.1](Book-I-Continuity-Audit-Report-Draft-0.1.md) — hasil pemeriksaan kesesuaian premis, kontinuitas karakter, dan daftar isu editorial untuk revisi berikutnya.
