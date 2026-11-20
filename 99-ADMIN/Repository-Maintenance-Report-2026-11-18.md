@@ -478,3 +478,7 @@ Tidak ada perubahan CANON.
 - Menambahkan Jorren Hale ke Character Development Dossier sebagai penjaga jalur lokal, status NON-CANON.
 - Memperbarui Mystery Ledger M-04 untuk mencatat jendela pengungkapan nama.
 - Tidak ada perubahan CANON atau keputusan tentang LEAX.
+
+
+- Klarifikasi Buku IV: Scene 20 menyebut arsip Great War hanya sebagai kemungkinan jalur riset, bukan bukti hubungan yang sudah diketahui karakter. Kalimat narator yang mengasumsikan referen NVR AGAIN lebih besar daripada batu dihapus.
+- Memperbarui indeks, audit kontinuitas, dan Character Knowledge Matrix Buku IV; jumlah manuskrip sekitar 4.487 kata.
