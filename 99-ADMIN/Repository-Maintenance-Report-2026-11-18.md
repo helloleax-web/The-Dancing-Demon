@@ -308,3 +308,11 @@ Tidak ada perubahan CANON.
 - Total manuskrip sekitar 4.665 kata.
 - Batas informasi dijaga: kelompok belum masuk fasilitas, belum mengetahui fungsi struktur, dan tidak membuat klaim tentang misteri LEAX.
 - Semua tambahan tetap NON-CANON. Tidak ada dokumen CANON yang diubah.
+
+
+## Pembaruan manuskrip draft Buku I — 2026-11-20 (Scenes 7–8)
+
+- Bab 1 diperluas hingga Scene 8 “Sistem yang Masih Menyala”.
+- Adegan baru mencakup dokumentasi panel dan respons mekanisme yang membuka akses luar bangunan, tanpa menjelaskan cara kerja teknologi.
+- Total manuskrip sekitar 6.208 kata; cakupan adegan 1–8 dari 19 scene outline.
+- Tidak ada perubahan CANON; semua detail prosa tambahan tetap NON-CANON dan tidak menyentuh misteri LEAX.
