@@ -316,3 +316,12 @@ Tidak ada perubahan CANON.
 - Adegan baru mencakup dokumentasi panel dan respons mekanisme yang membuka akses luar bangunan, tanpa menjelaskan cara kerja teknologi.
 - Total manuskrip sekitar 6.208 kata; cakupan adegan 1–8 dari 19 scene outline.
 - Tidak ada perubahan CANON; semua detail prosa tambahan tetap NON-CANON dan tidak menyentuh misteri LEAX.
+
+
+## Pembaruan manuskrip draft Buku I — 2026-11-20 (Scenes 9–10)
+
+- Bab 1 diperluas hingga Scene 10 “Penemuan Menarik Perhatian”.
+- Scene 9 memperkenalkan media informasi dan benda berpola yang rusak; Scene 10 menghadirkan Vellum & Iron Recovery melalui jalur pelaporan ekspedisi.
+- Total manuskrip sekitar 8.415 kata; cakupan adegan 1–10 dari 19 scene outline.
+- Character Knowledge Matrix diperbarui agar pengetahuan trio dan pembaca mengikuti kejadian aktual dalam manuskrip.
+- Tidak ada perubahan CANON. Seluruh pengembangan tetap NON-CANON dan tidak memutuskan hal apa pun tentang LEAX.
