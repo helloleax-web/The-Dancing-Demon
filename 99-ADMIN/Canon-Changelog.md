@@ -525,3 +525,10 @@ Matriks rotasi R0.2 diperiksa ulang dan diperbaiki agar ortogonal (deviasi maksi
 - Audit kontinuitas awal dibuat. Satu celah posisi Kael pada transisi Scene 15 diperjelas; tidak ada perubahan fakta CANON.
 - Character Knowledge Matrix diperbarui dan checklist audit pass pertama ditandai selesai.
 - Tidak ada penambahan atau perubahan CANON. Semua detail cerita baru tetap NON-CANON; tidak ada keputusan baru tentang LEAX.
+
+
+## 2026-11-20 — Klarifikasi kontinuitas Scene 18–19
+
+- Scene 18 diperjelas menggunakan foto, sketsa, dan dokumentasi yang sudah dibuat sebelum insiden; kelompok tidak kembali masuk atau mengambil benda dari fasilitas setelah penjagaan diberlakukan.
+- Catatan Scene 19 diperjelas agar sesuai dengan prosa: pesan dibakar hingga tak terbaca, tetapi sisa lembaran hangus disimpan.
+- Tidak ada perubahan CANON; revisi hanya memperjelas tindakan dalam draft NON-CANON.
