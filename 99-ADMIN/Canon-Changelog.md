@@ -516,3 +516,12 @@ Matriks rotasi R0.2 diperiksa ulang dan diperbaiki agar ortogonal (deviasi maksi
 - Scene 19 direvisi agar tindakan Kael sesuai dengan rumusan CANON: ia membakar pesan sampai tidak terbaca, tetapi menyimpan sisa kertas yang hangus.
 - Character Knowledge Matrix diselaraskan dengan detail tersebut.
 - Revisi memperketat kesesuaian draft dengan CANON; tidak mengubah fakta CANON.
+
+
+## 2026-11-20 — Penyelesaian pass pertama prosa Buku I
+
+- Seluruh 19 scene dalam outline Buku I telah ditulis sebagai draft prosa dan dipisahkan ke enam bab kerja.
+- Manuscript Index diperbarui dengan jumlah kata terverifikasi: sekitar 17.323 kata termasuk metadata dan catatan adegan.
+- Audit kontinuitas awal dibuat. Satu celah posisi Kael pada transisi Scene 15 diperjelas; tidak ada perubahan fakta CANON.
+- Character Knowledge Matrix diperbarui dan checklist audit pass pertama ditandai selesai.
+- Tidak ada penambahan atau perubahan CANON. Semua detail cerita baru tetap NON-CANON; tidak ada keputusan baru tentang LEAX.
