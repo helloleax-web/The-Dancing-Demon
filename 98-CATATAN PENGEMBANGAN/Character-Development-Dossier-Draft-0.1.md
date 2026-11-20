@@ -285,3 +285,16 @@ Identitas pribadi pemberi tugas, isi indeks, kontak tak dikenal, dan hubungan le
 - **Batas:** bukan prajurit elit, bukan ahli teknologi kuno, dan tidak memiliki pengetahuan khusus tentang LEAX.
 
 **Status seluruh keputusan:** NON-CANON. Keputusan ini mengembangkan nama yang sudah tercantum dalam indeks karakter, tetapi tidak mengubah Character Bible.
+
+
+## Keputusan cerita Buku III — Ilyra Nym — 2026-11-20
+
+- **Keputusan draft:** Ilyra diperkenalkan sebagai penyalin naskah dan asisten arsip yang menangani proyek perbandingan dokumen.
+- **Fungsi:** membantu membandingkan format rujukan dari fasilitas Buku I, penanda Rookbridge, dan Fasilitas Hollow Vale.
+- **Kekuatan:** cepat mengenali pola dan hubungan antarcatatan.
+- **Kelemahan yang dipakai:** cenderung menghubungkan sumber terlalu cepat; harus belajar mempertahankan beberapa hipotesis sampai bukti cukup.
+- **Relasi institusional:** proyeknya berasal dari kurator yang memiliki hubungan profesional dengan Arsip Lentera. Tidak ditetapkan bahwa kurator ini sama dengan kurator dalam kontrak Kael pada Buku I; Ilyra bukan juru bicara resmi Arsip Lentera.
+- **Status kelompok:** memilih ikut perjalanan setelah rujukan batu bertulis ditemukan.
+- **Batas:** Ilyra tidak langsung mampu membaca seluruh catatan kuno dan tidak mengetahui isi batu bertulis sebelum investigasi berikutnya.
+
+**Status:** seluruh keputusan tetap NON-CANON; tidak mengubah fakta CANON Ilyra yang hanya menetapkan namanya dalam indeks karakter.
