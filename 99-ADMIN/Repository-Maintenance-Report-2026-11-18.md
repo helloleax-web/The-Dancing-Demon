@@ -299,3 +299,12 @@ Tidak ada perubahan CANON.
 - Total manuskrip sekitar 2.188 kata; cakupan prosa saat ini Scenes 1–3 dari 19 scene outline.
 - Scene 3 menjaga batas bukti: karakter hanya mengetahui ketidakcocokan peta dan penanda, belum mengetahui penyebabnya.
 - Tidak ada perubahan dokumen CANON. Seluruh tambahan tetap NON-CANON.
+
+
+## Pembaruan manuskrip Buku I — 2026-11-20
+
+- Bab 1 diperluas dari Scenes 1–3 menjadi Scenes 1–6.
+- Scene 4 memperlihatkan peta kedua Kael; Scene 5 memverifikasi susunan batu; Scene 6 menemukan indikasi struktur buatan di kaki bukit.
+- Total manuskrip sekitar 4.665 kata.
+- Batas informasi dijaga: kelompok belum masuk fasilitas, belum mengetahui fungsi struktur, dan tidak membuat klaim tentang misteri LEAX.
+- Semua tambahan tetap NON-CANON. Tidak ada dokumen CANON yang diubah.
