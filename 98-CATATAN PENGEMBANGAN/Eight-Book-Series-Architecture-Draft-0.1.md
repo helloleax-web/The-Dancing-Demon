@@ -283,3 +283,11 @@ Jangan memakai misteri kosmik untuk menyelesaikan konflik lokal. Jangan pula mem
 - [Book IV Outline Audit Report — Draft 0.1](Book-IV-Outline-Audit-Report-Draft-0.1.md) memeriksa kesesuaian dengan fakta CANON Prasasti dan Great War.
 - Nama NVR AGAIN baru muncul setelah penemuan Prasasti pertama; makna dan konteksnya tetap terbuka.
 - Tidak ada keputusan baru tentang LEAX.
+
+
+## Pass pertama manuskrip Buku IV — 2026-11-20
+
+- [Book IV Manuscript Index — Draft 0.1](Book-IV-Manuscript-Index-Draft-0.1.md) memuat empat bab kerja untuk seluruh 20 scene.
+- [Book IV Manuscript Continuity Audit — Draft 0.1](Book-IV-Manuscript-Continuity-Audit-Draft-0.1.md) memeriksa jendela pengungkapan nama NVR AGAIN.
+- Nama NVR AGAIN pertama kali muncul pada Scene 14 setelah pembacaan Prasasti pertama; makna dan konteksnya tetap terbuka.
+- Tidak ada keputusan baru tentang LEAX.
