@@ -4,7 +4,7 @@
 **Basis:** Manuscript Chapter 06, Scenes 18–20.  
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Target format:** manga hitam-putih, pembacaan kanan-ke-kiri.  
-**Estimasi:** 14 halaman, sekitar 70 panel.
+**Estimasi:** 14 halaman, sekitar 66 panel.
 
 ## Prinsip visual bab
 
