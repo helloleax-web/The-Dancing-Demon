@@ -231,6 +231,8 @@ Kelompok membantu memetakan jalur alternatif dengan melibatkan pengetahuan lokal
 - [Eight-Book Series Architecture — Draft 0.1](Eight-Book-Series-Architecture-Draft-0.1.md)
 - [Book I Manuscript Index — Draft 0.1](Book-I-Manuscript-Index-Draft-0.1.md)
 - [Book I Continuity Audit Report — Draft 0.1](Book-I-Continuity-Audit-Report-Draft-0.1.md)
+- [Book II Manuscript Index — Draft 0.1](Book-II-Manuscript-Index-Draft-0.1.md)
+- [Book II Continuity Audit Report — Draft 0.1](Book-II-Continuity-Audit-Report-Draft-0.1.md)
 - [Character Development Dossier — Draft 0.1](Character-Development-Dossier-Draft-0.1.md)
 - [Location & Organization Development Dossier — Draft 0.1](Location-Organization-Development-Dossier-Draft-0.1.md)
 - [Character Bible](../01-CANON/Character-Bible.md)
