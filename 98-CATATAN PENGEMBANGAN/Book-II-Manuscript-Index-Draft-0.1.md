@@ -2,7 +2,7 @@
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Progress:** pass pertama untuk seluruh 20 scene outline telah ditulis dan dipisahkan menjadi enam bab kerja.  
-**Jumlah kata:** sekitar 9.721 kata termasuk judul dan catatan tambahan.
+**Jumlah kata:** sekitar 9.731 kata termasuk judul dan catatan tambahan.
 
 ## Struktur bab
 
