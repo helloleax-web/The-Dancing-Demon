@@ -155,7 +155,7 @@ Bagian struktur yang bergerak terus bergeser. Garis cahaya menyebar di sepanjang
 
 Pengawas lapangan berlari menuju tempat singgah perusahaan. Pekerja yang tadi menggunakan alat pengungkit masih berdiri di dekat ambang, napasnya memburu. Ia memandang ke dalam, seolah baru menyadari bahwa benda yang hendak diambil bukan sekadar bagian lepas.
 
-Tavian hendak menyusul ketika Seraphine datang bersama dua anggota ekspedisi.
+Tavian hendak menyusul ketika Seraphine datang bersama Kael dan dua anggota ekspedisi.
 
 “Apa yang terjadi?”
 
@@ -193,7 +193,7 @@ Tavian memanggil lagi. Kali ini terdengar jawaban pendek dari dalam.
 
 Suara itu datang dari sisi yang lebih jauh, bukan dari ruang pertama. Seseorang masih berada di dalam fasilitas.
 
-Seraphine segera mengambil lampu dan perlengkapan dasar. “Kita masuk sampai titik yang bisa kita pastikan. Dua orang tetap di luar untuk memanggil bantuan. Jangan ada yang menyentuh panel atau benda apa pun.”
+Kael ikut masuk bersama mereka. Seraphine segera mengambil lampu dan perlengkapan dasar. “Kita masuk sampai titik yang bisa kita pastikan. Dua orang tetap di luar untuk memanggil bantuan. Jangan ada yang menyentuh panel atau benda apa pun.”
 
 Tavian mengangguk. Ia tahu keputusan itu berisiko. Ia juga tahu bahwa meninggalkan seseorang di dalam tanpa mencoba mencarinya bukan pilihan yang bisa ia terima.
 
