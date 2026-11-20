@@ -469,3 +469,14 @@ Matriks rotasi R0.2 diperiksa ulang dan diperbaiki agar ortogonal (deviasi maksi
 - Manuskrip Bab 1 kini mencakup Scenes 1–12 dengan sekitar 10.831 kata.
 - Character Knowledge Matrix diperbarui. Tidak ada perubahan fakta CANON atau materi LEAX.
 - Seluruh rincian kontrak, pertemuan, dan kesepakatan merupakan pengembangan cerita NON-CANON.
+
+
+## Pengembangan naskah Buku I — Scene 13 — 2026-11-20
+
+- Manuskrip Bab 1 diperluas dengan Scene 13 “Harga Sebuah Informasi”.
+- Kael mengungkap kontrak dari Iven Rusk, perantara lapangan yang membawa pekerjaan dari kurator dengan hubungan profesional ke Arsip Lentera. Kontrak meminta verifikasi rumor dan salinan indeks/catatan akses jika tersedia.
+- Tidak dinyatakan bahwa Arsip Lentera secara resmi menugaskan atau mengetahui kontrak tersebut. Identitas kurator dan kontak pesan penutup tetap terbuka.
+- Hubungan trio berubah: Kael boleh tetap ikut, tetapi keterbukaan informasi dan pencatatan salinan menjadi syarat kerja bersama.
+- Manuskrip Bab 1 kini mencakup Scenes 1–13 dengan sekitar 11.964 kata.
+- Character Knowledge Matrix, Mystery Ledger M-01, dan Character Development Dossier diperbarui untuk konsistensi.
+- Semua rincian baru tetap NON-CANON; tidak ada perubahan fakta LEAX atau CANON dunia.
