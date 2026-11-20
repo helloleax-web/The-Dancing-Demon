@@ -109,6 +109,9 @@ Gunakan empat kategori:
 - Jangan menuliskan nama NVR AGAIN sebagai nama yang diketahui masyarakat selama perang.
 - Jangan membuat Prasasti pertama menjelaskan seluruh asal-usul musik atau mekanisme Resonansi Hitam.
 
+
+**Status draft Buku IV:** manuskrip kerja menempatkan pembacaan nama NVR AGAIN pada Scene 14, setelah Ilyra membandingkan tanda yang masih utuh. Makna dan referen nama tidak dijelaskan dalam draft tersebut.
+
 ### M-05 — Great War dan Resonansi Hitam
 
 **Fakta CANON:**
