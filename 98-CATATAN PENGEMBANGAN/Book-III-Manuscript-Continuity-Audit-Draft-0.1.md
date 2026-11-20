@@ -6,7 +6,7 @@
 ## 1. Hasil ringkas
 
 - Seluruh 20 scene outline telah memiliki prosa awal.
-- Manuskrip berjumlah sekitar 6,819 kata termasuk metadata dan catatan tambahan.
+- Manuskrip berjumlah sekitar 6.890 kata termasuk metadata dan catatan tambahan.
 - Urutan cerita: membandingkan fragmen Buku I, penanda Rookbridge, dan laporan permukaan buatan Daren → memperkenalkan Ilyra → menemukan catatan Hollow Vale → memeriksa fasilitas kedua → menghadapi hak atas salinan → menemukan indeks tidak lengkap → memperoleh rujukan batu bertulis.
 - Konflik utama berpusat pada informasi dan konteks, bukan pengulangan insiden pengambilan paksa Buku I.
 - Tidak ada pengungkapan tentang LEAX, Great War, NVR AGAIN, atau entitas kosmik.
@@ -48,12 +48,12 @@
 
 | Bab | Scene | Jumlah kata (termasuk metadata/catatan) |
 |---|---:|---:|
-| 1 — Pola yang Belum Terbukti | 1–4 | 1,394 |
+| 1 — Pola yang Belum Terbukti | 1–4 | 1,421 |
 | 2 — Akses dan Asal | 5–7 | 1,142 |
 | 3 — Ruang Penyimpanan | 8–10 | 1,016 |
 | 4 — Hak atas Informasi | 11–14 | 1,172 |
 | 5 — Bagian yang Hilang | 15–17 | 1,090 |
-| 6 — Catatan di Luar Fasilitas | 18–20 | 1,005 |
+| 6 — Catatan di Luar Fasilitas | 18–20 | 1,049 |
 | **Total** | **1–20** | **6,819** |
 
 **Kesimpulan:** pass pertama memenuhi fungsi Buku III pada tingkat struktur dan menjaga jendela pengungkapan Buku IV. Ini belum merupakan naskah final.
