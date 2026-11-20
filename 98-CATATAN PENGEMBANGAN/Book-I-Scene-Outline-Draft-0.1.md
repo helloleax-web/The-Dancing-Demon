@@ -358,3 +358,12 @@ Konfigurasi ini direkomendasikan untuk draft karena menghubungkan tiga organisas
 - [Eight-Book Series Architecture — Draft 0.1](Eight-Book-Series-Architecture-Draft-0.1.md) — fungsi Buku I dalam kesinambungan delapan buku.
 - [Cerita dan Rencana Delapan Buku](../00-CORE/08-Cerita-dan-Rencana-Delapan-Buku.md) — premis dan kerangka cerita yang menjadi dasar outline ini.
 - [Book I Heritage Dispute Framework — Draft 0.1](Book-I-Heritage-Dispute-Framework-Draft-0.1.md) — model konflik hak dan pemulihan fasilitas; seluruh detail baru tetap NON-CANON.
+
+
+## 11. Status penulisan manuskrip — 2026-11-20
+
+- Seluruh 19 scene dalam outline telah memiliki draft prosa awal di [Book I Manuscript Chapter 01 — Draft 0.1](Book-I-Manuscript-Chapter-01-Draft-0.1.md).
+- Cakupan draft saat ini meliputi penemuan jalur dan fasilitas, pemeriksaan catatan rusak, kedatangan perusahaan, klaim hak pemulihan, pengungkapan kontrak Kael, insiden sistem pertahanan, penyelamatan, penjagaan sementara, fragmen petunjuk lokasi lain, dan pesan penutup.
+- Draft prosa berjumlah sekitar 17.066 kata. Ini adalah penyelesaian pass pertama untuk 19 scene outline, bukan klaim bahwa keseluruhan Book I telah melewati revisi struktural, penyuntingan bahasa, audit kontinuitas, dan finalisasi.
+- Tahap berikutnya: audit transisi, logika lokasi dan waktu, konsistensi kontrak serta kesepakatan, kualitas karakter, pengulangan prosa, lalu ekspansi atau pemecahan menjadi bab manga yang sesuai.
+- Status seluruh prosa tetap NON-CANON sampai proses finalisasi dan keputusan kreator.
