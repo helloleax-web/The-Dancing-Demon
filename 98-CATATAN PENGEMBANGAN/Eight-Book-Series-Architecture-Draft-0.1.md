@@ -257,3 +257,11 @@ Jangan memakai misteri kosmik untuk menyelesaikan konflik lokal. Jangan pula mem
 - Setelah satu buku memiliki outline yang stabil, buat dokumen adegan dan karakter pendukung khusus.
 - Perbarui arsitektur ini jika outline buku tertentu berkembang, tetapi pertahankan alasan perubahan dan dampaknya pada buku lain.
 - Jangan mengangkat proposal menjadi CANON tanpa pencatatan status dan sumber yang tepat.
+
+
+## Pengembangan lanjutan Buku II — 2026-11-20
+
+- [Book II Scene Outline — Draft 0.1](Book-II-Scene-Outline-Draft-0.1.md) mengembangkan 20 scene untuk konflik regional di Bellwether dan Rookbridge.
+- [Book II Character Knowledge and Continuity Matrix — Draft 0.1](Book-II-Character-Knowledge-Matrix-Draft-0.1.md) mengatur informasi yang diketahui kelompok dan pembaca.
+- Keputusan draft memperkenalkan Mira Solenne dan Daren Holt sebagai anggota perjalanan berulang, serta tim survei regional Konsorsium Survei Meridian.
+- Seluruh fungsi lokasi, organisasi, dan keputusan karakter tetap NON-CANON; tidak ada perubahan pada fakta LEAX atau misteri kosmik.
