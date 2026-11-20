@@ -66,7 +66,7 @@ Kelompok membantu memetakan jalur alternatif dengan melibatkan pengetahuan lokal
 - **Fungsi:** memberi alasan praktis untuk mencari pembanding di kota transit.
 
 **Scene 4 — Bellwether**
-- Kelompok tiba di Bellwether.
+- Kelompok tiba di Bellwether karena kota itu memiliki tempat penyimpanan peta, catatan rute lama, dan jasa penyalin yang mungkin dapat membantu membandingkan fragmen.
 - Kota diperlihatkan sebagai titik pertemuan pedagang, pekerja perjalanan, penyalin peta, dan ekspedisi.
 - Peta tidak hanya menjadi alat navigasi; sebagian informasi memiliki harga dan akses terbatas.
 - **Fungsi:** memperluas dunia sosial melalui kegiatan sehari-hari.
@@ -75,7 +75,7 @@ Kelompok membantu memetakan jalur alternatif dengan melibatkan pengetahuan lokal
 
 **Scene 5 — Mira Solenne**
 - Kelompok bertemu Mira, pemandu rute lokal dan penyalin peta.
-- Mira mengenali bahwa diagram fragmen bukan peta biasa yang bisa langsung dibaca.
+- Mira mengenali bahwa diagram fragmen bukan peta biasa yang bisa langsung dibaca; susunannya mengingatkannya pada sistem penanda rute yang pernah ia lihat dalam catatan lokal.
 - Ia bersedia membantu membandingkan bentuknya dengan catatan jalur lama, tetapi meminta kelompok menjelaskan tujuan mereka.
 - **Fungsi:** memperkenalkan karakter yang membawa pengetahuan lokal, bukan keahlian teknologi kuno.
 
@@ -143,7 +143,7 @@ Kelompok membantu memetakan jalur alternatif dengan melibatkan pengetahuan lokal
 - **Fungsi:** menunjukkan bahwa data yang benar tetap bisa menghasilkan keputusan buruk jika konteksnya salah.
 
 **Scene 16 — Perlintasan Darurat**
-- Cuaca atau kondisi medan berubah dan membuat sebagian orang terjebak di sisi yang salah dari perlintasan.
+- Hujan deras meningkatkan aliran air di sekitar perlintasan dan membuat beberapa pekerja serta pengangkut terjebak di sisi yang salah.
 - Daren memimpin prosedur keselamatan; Tavian membantu mengukur dan menandai bagian yang dapat dilalui; Mira mengarahkan warga melalui jalur lokal; Seraphine memastikan tidak ada orang yang tertinggal dalam pencatatan.
 - Tim Meridian membantu setelah menyadari keterbatasan peta mereka.
 - **Fungsi:** membangun kepercayaan melalui tindakan bersama.
