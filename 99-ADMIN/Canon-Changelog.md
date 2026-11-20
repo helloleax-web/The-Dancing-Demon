@@ -532,3 +532,11 @@ Matriks rotasi R0.2 diperiksa ulang dan diperbaiki agar ortogonal (deviasi maksi
 - Scene 18 diperjelas menggunakan foto, sketsa, dan dokumentasi yang sudah dibuat sebelum insiden; kelompok tidak kembali masuk atau mengambil benda dari fasilitas setelah penjagaan diberlakukan.
 - Catatan Scene 19 diperjelas agar sesuai dengan prosa: pesan dibakar hingga tak terbaca, tetapi sisa lembaran hangus disimpan.
 - Tidak ada perubahan CANON; revisi hanya memperjelas tindakan dalam draft NON-CANON.
+
+
+## 2026-11-20 — Pedoman prosa dan adaptasi manga Bab 1
+
+- Membuat Prose Style Sheet untuk menjaga sudut pandang, bahasa, suara karakter, konstruksi adegan, dan batas lore.
+- Membuat storyboard manga Bab 1 sepanjang 18 halaman (sekitar 90 panel) berdasarkan Scenes 1–3; peta kedua tetap ditahan untuk pembuka Bab 2.
+- Indeks manuskrip diperbarui dengan tautan ke pedoman dan storyboard.
+- Seluruh storyboard adalah adaptasi NON-CANON dan tidak mengubah desain final karakter atau dunia.
