@@ -376,3 +376,13 @@ Tidak ada perubahan CANON.
 
 - Adegan pesan Kael disesuaikan: pesan dibakar hingga tidak terbaca, tetapi sisa kertas hangus tetap disimpan, sesuai rumusan CANON.
 - Character Knowledge Matrix diperbarui. Tidak ada perubahan fakta CANON.
+
+
+## 2026-11-20 — Manuskrip Buku I dan audit kontinuitas
+
+- Memecah manuskrip pass pertama 19 scene menjadi enam file bab dan membuat Manuscript Index.
+- Memperbaiki transisi posisi Kael pada Scene 15 agar kehadirannya di Scene 16 konsisten.
+- Memverifikasi cakupan seluruh 19 scene dan memperbarui jumlah kata bab serta total di indeks (±17.323 kata, termasuk metadata/catatan).
+- Membuat Book I Continuity Audit Report; hasil: sesuai kerangka CANON pada tingkat premis, dengan isu editorial yang masih perlu ditangani.
+- Memperbarui Character Knowledge Matrix dan tautan dokumen terkait.
+- Tidak ada perubahan CANON atau materi LEAX. Naskah tetap NON-CANON dan belum final.
