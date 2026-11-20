@@ -30,3 +30,9 @@
 ## Manuskrip
 
 - [Book II Manuscript Index — Draft 0.1](Book-II-Manuscript-Index-Draft-0.1.md) — enam bab kerja, 20 scene.
+
+
+## Produksi manga
+
+- [Book II Manga Storyboard Index — Draft 0.1](Book-II-Manga-Storyboard-Index-Draft-0.1.md) — enam storyboard, 110 halaman dan 570 panel.
+- [Book II Manga Storyboard Audit — Draft 0.1](Book-II-Manga-Storyboard-Audit-Report-Draft-0.1.md) — audit kontinuitas visual dan urutan informasi.
