@@ -1295,3 +1295,142 @@ Untuk pertama kalinya, ia mengerti bahwa menemukan sesuatu tidak selalu berarti 
 - Tim ekspedisi tidak memiliki kewenangan untuk mengakui atau menolak hak perusahaan atas nama otoritas wilayah.
 - Tidak ada keputusan kepemilikan, izin pemulihan, atau kesepakatan final yang dibuat.
 - Detail dokumen, dialog, dan pertemuan adalah pengembangan naskah NON-CANON; tidak menetapkan hukum nasional atau struktur politik baru.
+
+
+---
+
+### Scene 12 — Batas Kesepakatan
+
+Pembahasan berikutnya berlangsung di tempat yang sama, tetapi kali ini kedua pihak membawa daftar hal yang ingin mereka lindungi.
+
+Seraphine datang dengan salinan dokumentasi fasilitas, daftar kondisi benda yang ditemukan, dan usulan batas pemeriksaan. Wakil Vellum & Iron Recovery membawa ringkasan hak yang diklaim perusahaan serta permintaan agar akses ke lokasi tidak ditutup sepenuhnya.
+
+Tavian duduk di antara mereka dengan peta kerja terbuka. Ia diminta menjelaskan batas area yang telah diperiksa, posisi akses, dan jalur yang masih dapat dilalui. Untuk pertama kalinya, hasil pengukurannya menjadi dasar pembicaraan yang jauh lebih besar daripada pekerjaan survei.
+
+Seraphine memulai dengan satu usulan sederhana.
+
+“Tidak ada benda yang dipindahkan sampai kondisi fasilitas dan dasar hak masing-masing pihak diperiksa.”
+
+Wakil perusahaan membaca catatannya. “Kami dapat menerima penghentian sementara kegiatan pemulihan di dalam struktur. Namun, kami membutuhkan akses untuk menilai apakah lokasi tersebut termasuk dalam cakupan kontrak.”
+
+“Penilaian tidak harus berarti masuk ke fasilitas,” kata Seraphine.
+
+“Tanpa pemeriksaan, bagaimana kami bisa memastikan?”
+
+“Dokumentasi luar dapat dilakukan bersama. Pemeriksaan bagian dalam harus menunggu prosedur keselamatan.”
+
+Wakil perusahaan menggeleng pelan. “Kami tidak bisa menyetujui pembatasan tanpa batas waktu.”
+
+“Tidak ada yang meminta pembatasan tanpa batas waktu,” jawab Seraphine. “Kami meminta waktu untuk memastikan bahwa orang tidak masuk ke ruang yang belum dinilai dan benda tidak dipindahkan sebelum kondisinya dicatat.”
+
+Tavian membuka peta. Ia menunjukkan batas area yang telah diperiksa, lokasi akses, dan jalur kembali menuju tempat singgah. Ia juga menandai bagian yang belum diperiksa.
+
+“Kalau akses dibatasi di sini,” katanya sambil menunjuk garis di sekitar kaki bukit, “orang masih bisa mencapai titik dokumentasi luar tanpa melewati area yang belum dinilai. Tapi jalur masuk harus tetap kosong.”
+
+Wakil perusahaan memeriksa garis tersebut. “Bagaimana dengan tim kami?”
+
+“Perwakilan Anda bisa ikut dokumentasi dari batas yang disepakati,” jawab Seraphine. “Tidak ada pengambilan benda atau perubahan struktur.”
+
+“Dan siapa yang menentukan apakah kondisi sudah aman?”
+
+“Pemeriksaan keselamatan harus dilakukan oleh orang yang memiliki kemampuan dan perlengkapan yang sesuai. Kita belum menetapkan siapa yang akan melakukannya.”
+
+Kael mengangkat pandangan dari dokumen. “Ada hal lain yang perlu dipikirkan.”
+
+Seraphine menoleh. “Apa?”
+
+“Informasi yang sudah beredar. Kita bisa membatasi orang yang masuk ke lokasi, tetapi tidak bisa menarik kembali kabar bahwa ada fasilitas di bawah bukit.”
+
+“Lalu?”
+
+“Pihak yang tidak hadir bisa saja punya kepentingan lebih besar daripada perusahaan ini. Mereka tidak perlu membawa kontrak atau peralatan untuk membuat masalah.”
+
+Tavian memandang Kael. “Kau tahu ada pihak lain?”
+
+“Aku tahu informasi punya nilai. Dan nilai itu tidak selalu terlihat dari orang yang datang lebih dulu.”
+
+Seraphine menutup mapnya. “Kalau kau memiliki informasi spesifik, sekarang saatnya menyampaikannya.”
+
+Kael menahan tatapannya sejenak. “Aku tidak punya bukti bahwa ada pihak lain yang akan datang. Aku hanya mengatakan bahwa kita tidak boleh menganggap sengketa ini berhenti pada orang-orang yang sedang duduk di meja.”
+
+Jawaban itu tidak memberi mereka nama atau kepastian. Namun, cukup untuk membuat Tavian kembali memikirkan peta kedua yang sebelumnya disimpan Kael.
+
+Ia ingin bertanya lebih jauh. Ia juga ingin tahu apakah Kael telah mengetahui kemungkinan ini sejak awal. Tetapi jika ia membiarkan pertanyaan itu mengambil alih pembicaraan, mereka tidak akan menyelesaikan persoalan yang ada di hadapan mereka.
+
+“Untuk sekarang,” kata Tavian, “kita perlu membuat batas yang bisa dipatuhi semua orang.”
+
+Wakil perusahaan mengangguk. “Perusahaan bersedia mempertimbangkan larangan pemindahan benda selama pemeriksaan awal. Kami tetap membutuhkan akses untuk dokumentasi.”
+
+“Dokumentasi bersama, dari batas aman,” kata Seraphine. “Dan semua hasilnya dicatat. Tidak ada pihak yang boleh mengubah atau menghapus catatan pihak lain.”
+
+“Bagaimana dengan salinan?”
+
+“Salinan dokumentasi yang tidak membahayakan keamanan lokasi dapat dibagikan kepada pihak yang menyetujui ketentuan.”
+
+“Siapa yang menentukan informasi yang membahayakan?”
+
+“Hal itu harus diputuskan bersama berdasarkan isi dan risikonya. Bukan satu pihak saja.”
+
+Tavian menambahkan bahwa semua orang yang masuk ke area pemeriksaan harus dicatat. Ia mengusulkan daftar nama, tujuan, waktu masuk, dan waktu keluar. Tidak ada yang boleh memasuki ruang dalam tanpa pemberitahuan kepada pihak lain yang ikut dalam kesepakatan.
+
+Wakil perusahaan meminta agar ketentuan tersebut tidak menghalangi tindakan penyelamatan jika seseorang berada dalam bahaya.
+
+Seraphine setuju. “Keselamatan manusia harus menjadi pengecualian yang jelas. Jika ada ancaman langsung terhadap nyawa, tindakan yang diperlukan untuk menyelamatkan orang dapat dilakukan. Tapi semua tindakan harus dicatat setelah keadaan aman.”
+
+“Dan jika struktur mulai runtuh?”
+
+“Kita harus mencegah orang masuk ke area berbahaya. Bukan memanfaatkan keadaan untuk mengambil benda.”
+
+Perdebatan berlangsung cukup lama. Mereka memperbaiki beberapa kalimat, menghapus istilah yang terlalu luas, dan menambahkan batas waktu untuk peninjauan ulang. Tidak semua persoalan dapat diselesaikan. Dasar kontrak perusahaan belum diverifikasi secara lengkap. Kewenangan atas tanah dan peninggalan belum diputuskan oleh pihak yang berhak. Prosedur pemeriksaan keselamatan juga masih harus disusun.
+
+Akhirnya, mereka menyepakati sebuah pengaturan sementara di antara pihak-pihak yang hadir.
+
+Tidak ada benda yang boleh dipindahkan atau diubah selama masa pemeriksaan awal, kecuali tindakan yang benar-benar diperlukan untuk menyelamatkan nyawa atau mencegah kerusakan yang segera terjadi. Akses ke fasilitas dibatasi dan dicatat. Dokumentasi luar dilakukan bersama. Salinan informasi yang dinilai aman dapat dibagikan. Tidak ada pihak yang dianggap mengakui kepemilikan pihak lain hanya karena menyetujui pengaturan tersebut.
+
+Masa berlaku pengaturan itu dibatasi sampai peninjauan berikutnya, ketika dokumen lengkap dan tanggapan dari pihak yang berwenang atas wilayah diharapkan sudah tersedia.
+
+Seraphine membaca kembali seluruh ketentuan sebelum menandatangani catatan kesepakatan. Wakil perusahaan melakukan hal yang sama. Tavian menandatangani sebagai saksi dari tim survei, bukan sebagai pihak yang menentukan hak atas fasilitas.
+
+Kael membaca setiap baris, lalu meletakkan pena tanpa menandatangani.
+
+“Tidak ikut?” tanya Tavian.
+
+“Aku tidak mewakili pihak yang membuat kontrak pemulihan, dan aku tidak ingin berpura-pura punya kewenangan yang tidak kumiliki.”
+
+“Setidaknya kali ini kau jelas.”
+
+Kael tersenyum tipis, tetapi tidak membalas.
+
+Setelah pertemuan selesai, Seraphine menyimpan salinan kesepakatan bersama dokumentasi awal. Ia memastikan tidak ada bagian yang menyatakan bahwa perusahaan telah diakui sebagai pemilik atau bahwa ekspedisi memiliki hak atas semua temuan.
+
+Tavian kembali ke bukit untuk memasang penanda batas yang baru. Ia menuliskan bahwa batas tersebut merupakan pengaturan sementara, bukan garis kepemilikan. Ia memastikan jalur menuju akses tetap dapat dilalui untuk pemeriksaan yang disepakati, sementara bagian dalam fasilitas tetap ditutup bagi kegiatan yang belum disetujui.
+
+Ketika pekerjaan selesai, ia berdiri di dekat penanda terakhir.
+
+Mereka telah menemukan jalan, membuka akses, dan melihat bukti dari masa lalu yang tidak mereka pahami. Sekarang, mereka juga memiliki kesepakatan yang hanya berlaku sementara dan tidak menjawab siapa yang berhak atas tempat itu.
+
+“Menurutmu ini akan bertahan?” tanya Tavian.
+
+Seraphine berdiri di sampingnya. “Selama semua pihak masih melihat alasan untuk mematuhinya.”
+
+“Dan kalau tidak?”
+
+“Kita hadapi saat itu terjadi. Tapi setidaknya sekarang ada batas yang bisa kita tunjuk.”
+
+Tavian memandang penanda di tanah.
+
+Ia tahu batas itu tidak akan menghentikan semua masalah. Namun, untuk sementara, batas tersebut memberi mereka waktu.
+
+Dan waktu mungkin satu-satunya hal yang mereka miliki sebelum pihak lain memutuskan bahwa menunggu sudah tidak menguntungkan.
+
+---
+
+## Catatan tambahan Scene 12
+
+- Para pihak menyusun pengaturan sementara untuk akses, dokumentasi, dan keselamatan.
+- Tidak ada pengakuan kepemilikan atau keputusan final tentang hak tanah maupun hak pemulihan.
+- Pengambilan benda dan perubahan struktur dihentikan sementara, dengan pengecualian terbatas untuk penyelamatan nyawa atau pencegahan kerusakan yang segera terjadi.
+- Akses dibatasi dan dicatat; dokumentasi luar dilakukan bersama; salinan yang aman dapat dibagikan sesuai kesepakatan.
+- Kesepakatan berlaku sampai peninjauan berikutnya dan menunggu pemeriksaan dokumen lengkap serta tanggapan pihak yang berwenang.
+- Kael menyinggung kemungkinan pihak lain memiliki kepentingan terhadap informasi, tetapi belum mengungkap kontrak atau pemberi tugasnya.
+- Detail kesepakatan dan prosedur merupakan rancangan naratif NON-CANON, bukan penetapan hukum dunia secara umum.
