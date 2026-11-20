@@ -451,3 +451,12 @@ Tidak ada perubahan CANON.
 - Fasilitas Hollow Vale diperlakukan sebagai situs kedua yang berbeda dari fasilitas Buku I.
 - Batu bertulis tetap belum diidentifikasi sebagai Prasasti; nama NVR AGAIN tetap ditahan sampai penemuan Prasasti pertama.
 - Tidak ada perubahan CANON atau keputusan baru tentang LEAX.
+
+
+## 2026-11-20 — Pengembangan Buku IV
+
+- Membuat outline 20 scene, Character Knowledge Matrix, Development Index, dan Outline Audit Report Buku IV.
+- Menetapkan Jalan Northglass sebagai rute draft menuju batu bertulis yang dirujuk Hollow Vale; seluruh rincian geografis tetap NON-CANON.
+- Menjaga pengungkapan nama NVR AGAIN hanya setelah pembacaan Prasasti pertama; makna dan konteksnya tetap terbuka.
+- Memperjelas bahwa “Prasasti pertama” dalam draft adalah penemuan pertama kelompok, bukan klaim bahwa mereka mengetahui daftar atau jumlah Prasasti lainnya.
+- Tidak ada perubahan CANON atau keputusan tentang LEAX.
