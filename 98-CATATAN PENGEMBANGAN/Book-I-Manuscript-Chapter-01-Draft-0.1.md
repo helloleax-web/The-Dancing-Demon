@@ -672,3 +672,201 @@ Namun, untuk pertama kalinya, mereka tahu bahwa ada sesuatu yang dibangun di dal
 - Scene menutup bagian pembuka dengan keputusan praktis untuk melaporkan dan memeriksa temuan secara lebih serius.
 - Tidak ada identitas fasilitas, nama lokasi, teknologi, atau hubungan dengan LEAX yang ditetapkan melalui adegan ini.
 - Detail prosa tetap merupakan draft NON-CANON.
+
+
+---
+
+### Scene 7 — Ambang Fasilitas
+
+Mereka tidak kembali ke kaki bukit dengan tangan kosong.
+
+Setelah melaporkan temuan, ekspedisi menyepakati pemeriksaan lanjutan dengan jumlah orang terbatas. Perlengkapan tambahan dibawa untuk dokumentasi, penandaan, dan keselamatan. Tidak seorang pun diberi izin untuk menggali atau memindahkan bagian struktur tanpa alasan yang jelas.
+
+Tavian memimpin pencatatan posisi. Ia memastikan setiap penanda baru memiliki hubungan dengan titik survei sebelumnya. Seraphine memeriksa kondisi permukaan dan menentukan bagian mana yang boleh dibersihkan. Kael tetap membawa peta kedua, tetapi kali ini ia berjalan di belakang mereka dan tidak lagi mencoba menentukan arah sendiri.
+
+Ketika mereka tiba, bagian struktur yang ditemukan sehari sebelumnya masih tertutup sebagian oleh tanah dan akar. Tidak ada perubahan mencolok. Tidak ada suara atau gerakan dari dalam bukit.
+
+Mereka mulai membersihkan permukaan di sekitar tepi yang telah didokumentasikan. Pekerjaan dilakukan sedikit demi sedikit. Tanah dipindahkan dengan alat kecil, bukan dicungkil secara paksa. Setiap bagian yang terbuka diperiksa sebelum pekerjaan dilanjutkan.
+
+Lambat laun, bentuk permukaan buatan itu semakin jelas.
+
+Bukan dinding batu biasa. Di balik lapisan tanah terdapat bidang keras dengan sambungan yang sangat rapat. Permukaannya memiliki garis-garis dangkal yang tersusun dalam pola berulang. Beberapa bagian tertutup endapan, tetapi bagian lain masih tampak utuh.
+
+Tavian mengukur lebar bidang tersebut dan mencatat perubahan bentuknya. Ia tidak menemukan engsel, celah pintu, atau pegangan yang mudah dikenali.
+
+“Kalau ini bagian luar bangunan, aksesnya mungkin ada di sisi lain,” kata salah seorang anggota tim.
+
+“Bisa jadi,” jawab Seraphine. “Tapi kita belum tahu apakah bidang ini dinding, penutup, atau bagian dari mekanisme lain.”
+
+Kael mendekat beberapa langkah. “Peta berhenti tepat di sini.”
+
+“Peta berhenti di dekat sini,” koreksi Tavian. “Itu tidak sama dengan menunjukkan pintu.”
+
+Kael mengangkat bahu dan mundur.
+
+Seraphine meminta semua orang menjaga jarak dari permukaan yang belum diperiksa. Ia mendokumentasikan garis-garis pada bidang itu dari beberapa sudut. Polanya tidak menyerupai tulisan yang bisa langsung dibaca. Tidak ada simbol yang dapat mereka hubungkan dengan bahasa atau lambang yang dikenal.
+
+Tavian memeriksa bagian bawah bidang. Di sana, tanah menutupi sebuah garis sambungan yang lebih lebar. Ia memberi tahu Seraphine sebelum membersihkannya.
+
+Setelah lapisan tanah tipis disingkirkan, sebuah bidang lain terlihat. Bentuknya menyerupai panel datar yang menyatu dengan permukaan utama. Tidak ada tombol atau tuas yang jelas. Garis-garis dangkal pada permukaannya berkumpul di satu bagian tengah, lalu menyebar ke tepi.
+
+“Jangan sentuh dulu,” kata Seraphine.
+
+Tavian menarik tangannya.
+
+Mereka mengamati panel itu dari dekat. Seraphine mencatat ukuran, pola, dan kondisi permukaannya. Tavian membuat sketsa sederhana agar posisi panel dapat direkonstruksi dalam laporan. Kael memperhatikan garis yang berkumpul di tengah.
+
+“Seperti antarmuka,” katanya.
+
+“Bisa jadi,” jawab Seraphine. “Tapi jangan menyebutnya begitu dalam laporan sebelum kita tahu fungsinya.”
+
+“Kalau bukan antarmuka, apa?”
+
+“Kita belum tahu.”
+
+Tavian menyelesaikan sketsanya. Ia mencatat bahwa panel merupakan bagian dari struktur buatan dan memiliki pola permukaan yang berbeda dari bagian di sekitarnya. Ia juga menulis bahwa tidak ada mekanisme pengoperasian yang dapat dikenali.
+
+Mereka tidak mencoba membuka panel itu.
+
+Untuk hari tersebut, tujuan pemeriksaan hanya memastikan bentuk struktur dan mencari akses yang aman. Namun, setelah beberapa saat, seorang anggota tim menemukan bahwa garis sambungan di sisi kanan panel berlanjut ke bawah lapisan tanah. Garis itu membentuk batas yang lebih besar daripada panel itu sendiri.
+
+Seraphine memeriksa temuan tersebut dan meminta dokumentasi tambahan.
+
+“Kalau ini memang bagian dari akses, kita tidak boleh memaksanya,” katanya. “Kita perlu tahu apakah ada bagian lain yang terhubung.”
+
+Tavian memandang permukaan yang kini terbuka. Mereka telah menemukan sesuatu yang dibuat dengan tujuan tertentu. Mereka belum tahu apa tujuan itu, siapa yang membuatnya, atau berapa lama benda tersebut terkubur.
+
+Namun, untuk pertama kalinya, mereka memiliki bagian dari bangunan yang bisa diperiksa secara langsung.
+
+Ia menutup buku catatannya setelah menambahkan satu kalimat terakhir.
+
+*Panel tertanam ditemukan pada permukaan struktur. Fungsi belum diketahui. Tidak dilakukan interaksi.*
+
+Mereka meninggalkan kaki bukit dengan lebih banyak dokumentasi dan tanpa membuka apa pun.
+
+Setidaknya, itulah rencana mereka.
+
+---
+
+## Catatan tambahan Scene 7
+
+- Pemeriksaan lanjutan dilakukan secara terbatas dan terdokumentasi setelah temuan kaki bukit dilaporkan.
+- Kelompok menemukan panel berpola pada permukaan struktur, tetapi belum mengetahui fungsinya.
+- Seraphine melarang interaksi sebelum kondisi awal dicatat.
+- Tidak ada bahasa, simbol, atau sistem teknologi yang berhasil diidentifikasi.
+- Adegan menyiapkan respons antarmuka pada Scene 8 tanpa membuat karakter memahami cara kerjanya.
+- Detail prosedur, dialog, dan tindakan merupakan pengembangan naskah; status tetap NON-CANON.
+
+
+---
+
+### Scene 8 — Sistem yang Masih Menyala
+
+Mereka kembali ke panel pada pagi berikutnya.
+
+Seraphine membawa catatan pemeriksaan sebelumnya dan meminta agar setiap perubahan kondisi dicatat sebelum ada tindakan baru. Tavian memeriksa penanda di sekitar kaki bukit. Kael berdiri agak jauh, sementara anggota tim lain menyiapkan perlengkapan untuk mendokumentasikan permukaan.
+
+Panel itu tampak sama seperti kemarin.
+
+Tidak ada bagian yang bergeser. Tidak ada retakan baru. Garis-garis dangkal pada permukaannya masih tertutup sebagian oleh debu dan endapan tipis.
+
+Seraphine memeriksa ulang dokumentasi awal, lalu meminta Tavian membandingkan ukuran panel dengan sketsanya. Tidak ada perubahan yang dapat dipastikan.
+
+“Kita belum punya alasan untuk menekan atau memaksa bagian mana pun,” katanya.
+
+Tavian mengangguk. Ia sedang memeriksa salah satu sambungan ketika melihat garis tipis di tengah panel. Garis itu lebih bersih daripada bagian sekitarnya, seolah permukaannya pernah tersapu dari dalam.
+
+Ia mendekat tanpa menyentuh.
+
+“Seraphine.”
+
+Peneliti itu menoleh. Tavian menunjuk garis tersebut.
+
+Mereka mengamati beberapa saat. Tidak terjadi apa-apa.
+
+Kael melangkah mendekat. “Mungkin memang tidak aktif.”
+
+“Jangan menyimpulkan hanya karena belum ada respons,” kata Seraphine.
+
+Tavian menggeser posisi agar dapat melihat permukaan dari sudut berbeda. Saat bayangannya jatuh di atas panel, sebuah garis pucat muncul di bawah permukaan.
+
+Ia mundur seketika.
+
+Garis itu padam.
+
+Tidak ada seorang pun yang berbicara.
+
+Tavian maju lagi, perlahan. Cahaya tipis itu muncul kembali, merambat dari bagian tengah ke salah satu tepi. Polanya tidak bergerak seperti pantulan matahari. Cahaya itu berada di dalam atau di balik permukaan, mengikuti garis-garis yang sebelumnya mereka catat.
+
+Seraphine segera meminta semua orang menjaga jarak.
+
+“Jangan sentuh. Catat waktunya.”
+
+Tavian menuliskan perubahan yang terlihat. Ia tidak tahu apakah panel merespons bayangan, panas, gerakan, atau sesuatu yang sama sekali tidak mereka pahami. Ia hanya dapat memastikan bahwa cahaya itu muncul ketika seseorang berada dekat permukaan dan menghilang ketika orang tersebut menjauh.
+
+Kael mengamati panel dengan serius. Untuk pertama kalinya sejak mereka menemukan peta kedua, ia tidak mengeluarkan komentar ringan.
+
+Cahaya itu kembali muncul ketika Tavian mendekat untuk memeriksa bagian tepi. Kali ini garis-garisnya menyebar lebih jauh. Ada bunyi rendah dari balik permukaan, sangat singkat, seperti getaran yang merambat melalui bahan padat.
+
+Seraphine meminta Tavian mundur.
+
+Ia melakukannya.
+
+Panel tetap menyala.
+
+Garis pucat bergerak ke arah sambungan yang sebelumnya mereka temukan. Satu demi satu, garis itu membentuk pola yang lebih luas. Permukaan di depan mereka bergetar halus. Debu jatuh dari celah di atas panel.
+
+“Tetap di belakang penanda,” kata Seraphine.
+
+Tidak ada yang bergerak mendekat.
+
+Beberapa detik kemudian, terdengar bunyi mekanis dari dalam bukit. Bukan ledakan, bukan suara runtuhan, melainkan serangkaian gerakan berat yang berlangsung jauh di balik permukaan. Garis sambungan yang telah mereka dokumentasikan mulai terlihat lebih jelas.
+
+Sebuah bagian struktur bergeser beberapa sentimeter.
+
+Tavian menahan napas.
+
+Bagian itu bergerak lagi, kali ini lebih jauh. Debu dan tanah jatuh dari sisi atas. Di balik permukaan yang terbuka, tampak ruang gelap dengan tepian yang dibentuk secara teratur.
+
+Akses luar bangunan mulai terbuka.
+
+Seraphine segera menghentikan semua orang agar tidak mendekat. Ia meminta dokumentasi dilakukan dari posisi aman. Tavian mencatat urutan perubahan, bunyi, dan gerakan struktur. Kael menatap celah yang kini terbuka tanpa mengatakan apa pun.
+
+Mekanisme itu berhenti setelah beberapa saat.
+
+Tidak ada cahaya yang bergerak lebih jauh. Tidak ada bagian lain yang terbuka. Dari tempat mereka berdiri, mereka hanya dapat melihat sebagian ruang di balik ambang.
+
+“Apakah itu pintu?” tanya Kael.
+
+Seraphine tidak menjawab segera. Ia memeriksa bentuk sambungan dan bagian struktur yang telah bergeser.
+
+“Sekarang kita tahu ada akses yang bisa terbuka,” katanya. “Kita belum tahu apa yang ada di baliknya.”
+
+Tavian mencatat kalimat itu hampir persis seperti yang diucapkan Seraphine.
+
+Ia memandang panel yang kini kembali redup. Sistem tersebut telah merespons keberadaan mereka, tetapi mereka tidak tahu bagaimana atau mengapa. Mereka tidak tahu apakah respons itu merupakan fungsi normal, reaksi terhadap kondisi tertentu, atau akibat dari sesuatu yang terjadi tanpa mereka sadari.
+
+Mereka juga belum tahu apakah mekanisme itu akan bergerak lagi.
+
+Seraphine memutuskan pemeriksaan dihentikan sampai kondisi akses dapat dinilai. Tidak seorang pun diizinkan memasuki ruang gelap tersebut hari itu. Mereka akan membuat dokumentasi lengkap, memeriksa kestabilan bagian yang terbuka, dan menyusun prosedur sebelum melanjutkan.
+
+Tavian melihat kembali catatannya.
+
+Peta kedua telah membawa mereka ke jalan batu. Jalan batu membawa mereka ke bukit. Di dalam bukit, mereka menemukan sebuah struktur yang masih mampu bergerak setelah entah berapa lama terkubur.
+
+Pekerjaan survei mereka telah berubah sepenuhnya.
+
+Dan untuk pertama kalinya, Tavian menyadari bahwa mereka mungkin tidak sedang menemukan reruntuhan.
+
+Mereka sedang berhadapan dengan sesuatu yang belum selesai bekerja.
+
+---
+
+## Catatan tambahan Scene 8
+
+- Panel merespons keberadaan karakter dengan cahaya dan bunyi mekanis; penyebab respons tidak diketahui.
+- Mekanisme membuka akses ke bagian luar bangunan sebagaimana ditetapkan dalam premis CANON Buku I.
+- Karakter hanya mengetahui urutan yang dapat diamati; mereka belum memahami teknologi, bahasa, tujuan, atau kondisi sistem.
+- Seraphine menghentikan eksplorasi langsung sampai akses dan kestabilan dapat diperiksa.
+- Tidak ada mekanisme mana, hubungan entitas kosmik, atau kaitan dengan LEAX yang ditambahkan.
+- Detail visual, pemicu respons, dan dialog merupakan pengembangan naskah NON-CANON yang perlu diperiksa sebelum finalisasi.
