@@ -17,7 +17,7 @@
 
 **Temuan:** Scene 16 memperlihatkan Kael berada di dalam fasilitas dan ikut membantu komunikasi serta evakuasi, tetapi transisi masuk pada Scene 15 sebelumnya belum menyebut secara eksplisit bahwa Kael ikut memasuki ruang luar bersama Tavian dan Seraphine.
 
-**Koreksi:** Scene 15 diperjelas dengan menyebut Tavian dan Kael berada di ambang bersama Seraphine dan dua anggota ekspedisi; kelimanya masuk dan terjebak ketika akses tertutup. Ini menutup celah posisi karakter tanpa mengubah hasil adegan.
+**Koreksi:** Scene 15 diperjelas dengan menyebut Tavian, Seraphine, dan Kael masuk ke fasilitas, sementara dua anggota ekspedisi tetap di luar untuk memanggil bantuan. Tiga orang terjebak ketika akses tertutup; anggota tim dokumentasi yang dicari berada lebih dalam. Ini menjaga konsistensi instruksi Seraphine dan urutan evakuasi.
 
 ## 3. Pemeriksaan terhadap premis CANON
 
@@ -41,7 +41,7 @@
 
 ## 4. Pemeriksaan kontinuitas karakter dan informasi
 
-- **Tavian:** tidak mengetahui peta kedua sebelum Scene 4; tidak mengklaim memahami fasilitas; menggunakan keahlian survei untuk mengukur, menandai, dan membantu evakuasi.
+- **Tavian:** tidak mengetahui peta kedua sebelum Scene 4; tidak mengklaim memahami fasilitas; menggunakan keahlian survei untuk mengukur, menandai, dan membantu evakuasi. Pada Scene 15 ia masuk bersama Seraphine dan Kael; dua anggota ekspedisi tetap di luar.
 - **Seraphine:** konsisten membedakan observasi dari interpretasi; klasifikasi bukti tidak berubah menjadi terjemahan atau pengetahuan teknologi tanpa dasar.
 - **Kael:** peta kedua diketahui pembaca dan kelompok pada Scene 4; kontrak baru dibuka pada Scene 13; kontak pesan penutup tetap terpisah dari pemberi tugas.
 - **Pembaca:** memperoleh informasi bertahap dan tidak diberi jawaban tentang identitas kontak, tujuan lengkap kurator, atau fungsi fasilitas.
@@ -94,3 +94,11 @@ Angka ini mencakup header, metadata, dan catatan tambahan tiap scene; bukan juml
 - Catatan Scene 18 diselaraskan dengan tindakan tersebut agar tidak memberi kesan bahwa kelompok melanggar batas penjagaan.
 - Catatan Scene 19 diselaraskan: Kael membakar pesan sampai tulisannya tidak terbaca, tetapi menyimpan sisa lembaran yang hangus.
 - Perubahan ini menjaga premis bahwa kelompok membawa salinan sebagian catatan dan tetap mematuhi penjagaan sementara.
+
+
+## 10. Koreksi jumlah orang di dalam fasilitas pada Scene 15
+
+- Pemeriksaan ulang menemukan ketidaksesuaian antara instruksi Seraphine agar dua anggota ekspedisi tetap di luar untuk memanggil bantuan dan kalimat berikutnya yang sebelumnya menyebut lima orang masuk.
+- Prosa dikoreksi: Tavian, Seraphine, dan Kael masuk; dua anggota ekspedisi tetap di luar; anggota dokumentasi yang dicari berada lebih dalam.
+- Storyboard Bab 5 sudah menunjukkan tiga orang masuk dan dua orang tetap di luar, sehingga tidak perlu mengubah panelnya.
+- Ini adalah koreksi kontinuitas internal draft NON-CANON, bukan perubahan premis CANON.
