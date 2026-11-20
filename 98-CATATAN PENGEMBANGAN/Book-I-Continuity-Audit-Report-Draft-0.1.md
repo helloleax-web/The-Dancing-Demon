@@ -17,7 +17,7 @@
 
 **Temuan:** Scene 16 memperlihatkan Kael berada di dalam fasilitas dan ikut membantu komunikasi serta evakuasi, tetapi transisi masuk pada Scene 15 sebelumnya belum menyebut secara eksplisit bahwa Kael ikut memasuki ruang luar bersama Tavian dan Seraphine.
 
-**Koreksi:** Scene 15 diperjelas dengan menyatakan Kael ikut masuk bersama Seraphine dan dua anggota ekspedisi. Ini menutup celah posisi karakter tanpa mengubah hasil adegan.
+**Koreksi:** Scene 15 diperjelas dengan menyebut Tavian dan Kael berada di ambang bersama Seraphine dan dua anggota ekspedisi; kelimanya masuk dan terjebak ketika akses tertutup. Ini menutup celah posisi karakter tanpa mengubah hasil adegan.
 
 ## 3. Pemeriksaan terhadap premis CANON
 
@@ -81,9 +81,9 @@ Pass pertama **lulus pemeriksaan kesesuaian premis pada tingkat kerangka**, sete
 | 2 — Peta Kedua dan Jalan Batu | 4–6 | 2.523 |
 | 3 — Ambang Fasilitas | 7–9 | 2.722 |
 | 4 — Klaim dan Harga Sebuah Informasi | 10–13 | 4.667 |
-| 5 — Bangunan yang Mengunci | 14–17 | 3.926 |
+| 5 — Bangunan yang Mengunci | 14–17 | 3,932 |
 | 6 — Peta Tanpa Negeri | 18–19 | 1.297 |
-| **Total** | **1–19** | **17.355** |
+| **Total** | **1–19** | **17,361** |
 
 Angka ini mencakup header, metadata, dan catatan tambahan tiap scene; bukan jumlah kata prosa naratif murni.
 
