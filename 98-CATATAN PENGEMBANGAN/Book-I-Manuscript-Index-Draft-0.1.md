@@ -31,3 +31,5 @@
 - [Book I Manga Storyboard Chapter 01 — Draft 0.1](Book-I-Manga-Storyboard-Chapter-01-Draft-0.1.md) — adaptasi 18 halaman untuk Bab 1, Scenes 1–3.
 
 - [Book I Manga Storyboard Chapter 02 — Draft 0.1](Book-I-Manga-Storyboard-Chapter-02-Draft-0.1.md) — adaptasi 20 halaman untuk Bab 2, Scenes 4–6.
+
+- [Book I Manga Storyboard Chapter 03 — Draft 0.1](Book-I-Manga-Storyboard-Chapter-03-Draft-0.1.md) — adaptasi 22 halaman untuk Bab 3, Scenes 7–9.
