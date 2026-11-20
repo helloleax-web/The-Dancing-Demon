@@ -266,3 +266,22 @@ Pilihan draft yang direkomendasikan:
 **Fungsi karakter:** Kael tetap bertanggung jawab atas kebohongannya, tetapi konflik tidak harus berubah menjadi pengkhianatan mutlak. Ia dapat percaya bahwa ia hanya menjual informasi, lalu menyadari bahwa informasi yang ia jual telah membawa orang lain ke dalam bahaya.
 
 Identitas pribadi pemberi tugas, isi indeks, kontak tak dikenal, dan hubungan lebih luas Arsip Lentera tetap belum ditentukan dalam draft ini.
+
+
+## Keputusan cerita Buku II — Mira Solenne dan Daren Holt — 2026-11-20
+
+### Mira Solenne
+- **Keputusan draft:** diperkenalkan di Bellwether sebagai pemandu rute lokal dan penyalin peta.
+- **Fungsi dalam Buku II:** membantu kelompok membaca catatan rute lokal dan membandingkannya dengan diagram fragmen Buku I; pengetahuannya berasal dari praktik perjalanan dan catatan setempat, bukan teknologi kuno.
+- **Motivasi draft:** menjaga agar pengetahuan rute masyarakat tidak disalahgunakan atau dihapus oleh peta resmi yang dibuat untuk kepentingan luar.
+- **Status kelompok:** bergabung sebagai anggota perjalanan berulang setelah kelompok menyepakati batas penggunaan informasi lokal.
+- **Batas:** tidak otomatis menjadi ahli sejarah Bumi kuno, tidak mengetahui kontrak Kael, dan tidak mengetahui misteri LEAX.
+
+### Daren Holt
+- **Keputusan draft:** diperkenalkan di Rookbridge sebagai pekerja lapangan berpengalaman dan pengawal rute yang memahami keselamatan perjalanan.
+- **Fungsi dalam Buku II:** menilai risiko perlintasan, beban jalur, dan prosedur evakuasi; keahliannya praktis dan terbatas pada keselamatan lapangan.
+- **Motivasi draft:** memperoleh pekerjaan yang stabil dan mencegah korban akibat keputusan terburu-buru.
+- **Status kelompok:** menerima tawaran bergabung sebagai pengawal dan penanggung jawab keselamatan perjalanan setelah konflik Rookbridge.
+- **Batas:** bukan prajurit elit, bukan ahli teknologi kuno, dan tidak memiliki pengetahuan khusus tentang LEAX.
+
+**Status seluruh keputusan:** NON-CANON. Keputusan ini mengembangkan nama yang sudah tercantum dalam indeks karakter, tetapi tidak mengubah Character Bible.
