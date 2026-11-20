@@ -24,3 +24,7 @@
 - Ilyra membaca nama NVR AGAIN pada bagian yang dapat dipastikan.
 - Makna nama dan konteks sejarahnya tetap terbuka.
 - Seluruh detail lokasi, akses, dan prosedur tetap NON-CANON.
+
+## Manuskrip
+
+- [Book IV Manuscript Index — Draft 0.1](Book-IV-Manuscript-Index-Draft-0.1.md) — empat bab kerja, 20 scene.
