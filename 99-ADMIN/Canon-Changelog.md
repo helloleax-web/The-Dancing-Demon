@@ -583,3 +583,12 @@ Matriks rotasi R0.2 diperiksa ulang dan diperbaiki agar ortogonal (deviasi maksi
 - Mira Solenne dan Daren Holt diperkenalkan sebagai anggota perjalanan berulang dalam keputusan cerita draft; fungsi Bellwether, Rookbridge, dan Konsorsium Survei Meridian tetap NON-CANON.
 - Koreksi sudut pandang pada perkenalan Daren di Scene 10 diterapkan.
 - Tidak ada perubahan CANON atau fakta tentang LEAX.
+
+
+## 2026-11-20 — Pass pertama manuskrip Buku II
+
+- Seluruh 20 scene Buku II telah ditulis sebagai prosa awal dan dibagi menjadi enam bab kerja.
+- Dibuat Manuscript Index dan Continuity Audit Report Buku II; total sekitar 9.721 kata termasuk metadata dan catatan adegan.
+- Scene 19 Bab 6 diselaraskan dengan outline melalui penambahan laporan survei lama Daren tentang permukaan buatan di lokasi lain. Laporan tersebut tidak membuktikan jaringan fasilitas.
+- Character Knowledge Matrix diperbarui setelah pemeriksaan kontinuitas.
+- Tidak ada perubahan CANON dan tidak ada penetapan baru tentang LEAX atau misteri kosmik.
