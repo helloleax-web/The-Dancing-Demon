@@ -870,3 +870,265 @@ Mereka sedang berhadapan dengan sesuatu yang belum selesai bekerja.
 - Seraphine menghentikan eksplorasi langsung sampai akses dan kestabilan dapat diperiksa.
 - Tidak ada mekanisme mana, hubungan entitas kosmik, atau kaitan dengan LEAX yang ditambahkan.
 - Detail visual, pemicu respons, dan dialog merupakan pengembangan naskah NON-CANON yang perlu diperiksa sebelum finalisasi.
+
+
+---
+
+### Scene 9 — Catatan yang Rusak
+
+Mereka memasuki bagian luar bangunan setelah memastikan bahwa permukaan yang bergeser tidak menunjukkan tanda akan menutup kembali.
+
+Seraphine menetapkan batas pemeriksaan. Tidak ada yang boleh bergerak lebih jauh dari ruang pertama sebelum kondisi lantai dan dinding diperiksa. Tavian mencatat posisi ambang, lebar akses, dan bagian struktur yang bergerak ketika mekanisme terbuka. Kael membantu membawa perlengkapan, meski perhatiannya lebih sering tertuju pada ruang gelap di hadapan mereka.
+
+Udara di dalam terasa berbeda. Tidak ada angin yang jelas, tetapi debu halus bergerak ketika mereka melangkah. Permukaan lantai keras dan rata. Di beberapa bagian, lapisan tipis menutup garis sambungan yang sama teraturnya dengan bagian luar bangunan.
+
+Cahaya dari luar hanya mencapai beberapa langkah ke dalam.
+
+Mereka menggunakan lampu portabel yang dibawa tim. Cahayanya memperlihatkan dinding dengan permukaan gelap, beberapa bidang yang tampak terpasang pada struktur, dan benda-benda yang tersebar di dekat sisi ruangan. Tidak ada yang langsung mereka sentuh.
+
+Tavian memeriksa lantai lebih dulu. Ia mencari retakan, bagian yang turun, atau tanda bahwa permukaan tidak mampu menahan beban. Setelah itu, ia menandai jalur yang telah diperiksa agar mereka dapat kembali melalui rute yang sama.
+
+“Jangan menyebar,” kata Seraphine. “Kita belum tahu apakah ruangan ini stabil.”
+
+Kael mengangkat lampunya ke arah dinding. “Ada sesuatu di sana.”
+
+Di salah satu sisi ruangan terdapat beberapa bidang tipis yang tersusun pada rak atau penyangga. Bentuknya tidak seperti buku yang mereka kenal. Sebagian berupa lembaran keras, sebagian lain tampak seperti kepingan berlapis. Beberapa telah pecah menjadi potongan kecil.
+
+Seraphine mendekat, tetapi tetap menjaga jarak.
+
+“Catat posisinya dulu.”
+
+Tavian menggambar susunan benda itu. Ia memberi nomor sementara pada tiap kelompok, bukan pada setiap kepingan, agar posisi awalnya dapat dikenali kembali. Seraphine mendokumentasikan bentuk dan kondisinya.
+
+Salah satu bidang memiliki permukaan yang dipenuhi tanda kecil. Sebagian masih terlihat jelas, tetapi bagian tengahnya terkelupas dan beberapa baris terputus. Ada pola berulang yang mungkin merupakan tulisan, penomoran, atau susunan informasi lain.
+
+“Bisa dibaca?” tanya Kael.
+
+Seraphine mencondongkan lampu. “Belum. Kita bahkan belum tahu apakah tanda-tanda ini membentuk bahasa.”
+
+Ia mengamati bagian tepi. Beberapa goresan tampak sengaja dibuat. Di bagian lain, permukaan telah rusak karena tekanan atau usia. Tidak mungkin membedakan semua kerusakan itu hanya dengan pemeriksaan singkat.
+
+Tavian menemukan kepingan lain yang memiliki pola serupa. Bentuknya lebih kecil, dengan bagian sudut yang patah. Pada permukaannya terdapat beberapa garis yang masih utuh dan satu rangkaian tanda yang terpotong tepat di tengah.
+
+“Kalau kita punya bagian yang hilang, mungkin kita bisa menyambungkannya,” katanya.
+
+“Mungkin,” jawab Seraphine. “Tapi jangan memaksakan kecocokan. Kita catat dulu apa yang benar-benar terlihat.”
+
+Kael menunjuk benda lain di belakang rak. Benda itu tertanam sebagian di bawah lapisan debu. Bentuknya pipih, dengan beberapa bagian yang tampak seperti sambungan atau jalur pada permukaan.
+
+Tavian memeriksa dari tempatnya berdiri. “Itu mungkin bagian dari perangkat.”
+
+“Bisa jadi,” kata Seraphine. “Jangan menyentuhnya.”
+
+Mereka menemukan beberapa benda lain dalam kondisi berbeda. Ada bidang yang masih utuh, kepingan yang retak, dan permukaan yang terlalu rusak untuk dibaca. Salah satu benda memiliki tanda yang sama dengan kepingan pertama, tetapi posisinya terbalik dan sebagian tertutup endapan.
+
+Seraphine mulai membuat klasifikasi sementara.
+
+Benda yang bentuk dan posisinya dapat didokumentasikan dengan jelas masuk kelompok pertama. Benda dengan pola yang terlihat tetapi fungsi atau konteksnya belum diketahui masuk kelompok kedua. Benda yang terlalu rusak untuk diperiksa lebih jauh masuk kelompok ketiga.
+
+Ia tidak memberi nama untuk fungsi benda-benda itu.
+
+“Kalau kita menyebutnya arsip?” tanya Kael.
+
+“Belum,” jawab Seraphine. “Kita menemukan kumpulan catatan atau media informasi yang mungkin saling berhubungan. Itu saja yang bisa kita pertanggungjawabkan.”
+
+Kael tidak menjawab.
+
+Tavian memeriksa catatannya. Ada cukup banyak pola berulang untuk menunjukkan bahwa benda-benda tersebut tidak tersebar secara acak. Namun, ia tidak tahu apakah semuanya berasal dari periode yang sama, apakah ditempatkan oleh orang yang sama, atau apakah susunan sekarang masih sama dengan susunan awal.
+
+Satu kepingan tampak memiliki bagian yang cocok dengan sisi benda lain. Tavian membandingkan bentuknya dari jarak dekat, tanpa mencoba menyatukannya. Kedua bagian itu mungkin pernah menjadi satu, tetapi kerusakan di sepanjang tepi membuat kesimpulan tersebut belum pasti.
+
+“Kalau kita bisa menyusun semuanya, kita mungkin tahu apa yang tertulis,” katanya.
+
+“Atau kita justru merusaknya,” jawab Seraphine. “Kita tidak akan menyusun apa pun sebelum dokumentasi dan metode penanganannya jelas.”
+
+Mereka melanjutkan pemeriksaan tanpa memindahkan benda. Di bagian yang lebih jauh, lampu memperlihatkan permukaan lain yang dipenuhi garis dan tanda. Sebagian masih utuh, sebagian hilang bersama lapisan permukaan yang terkelupas. Tidak ada satu dokumen pun yang dapat memberikan gambaran lengkap.
+
+Tavian mulai memahami masalahnya.
+
+Mereka menemukan bukti bahwa tempat itu pernah menyimpan informasi. Mereka bahkan memiliki beberapa bagian yang mungkin masih bisa dibaca. Namun, setiap potongan berdiri sendiri tanpa konteks yang cukup. Satu tanda dapat berarti banyak hal. Satu bagian yang hilang dapat mengubah arti seluruh rangkaian.
+
+Ia menuliskan kesimpulan sementara pada catatan surveinya:
+
+*Ditemukan beberapa media informasi dan benda berpola pada ruang luar fasilitas. Sebagian tanda masih terlihat; sebagian rusak atau terputus. Fungsi, bahasa, urutan, dan hubungan antarobjek belum dapat dipastikan.*
+
+Seraphine membaca catatan itu dan mengangguk.
+
+“Pertahankan kalimat itu.”
+
+Kael memandang kembali benda-benda di rak. “Kita datang jauh-jauh untuk menemukan sesuatu yang bahkan belum bisa kita baca.”
+
+“Kita datang untuk memetakan jalur,” kata Tavian. “Yang lain terjadi setelahnya.”
+
+“Dan sekarang?”
+
+Tavian menutup buku catatannya. “Sekarang kita harus memastikan apa yang sebenarnya kita temukan.”
+
+Mereka keluar dari ruang pertama dengan dokumentasi awal dan tanpa membawa satu pun benda.
+
+Di luar, cahaya siang terasa terlalu terang setelah beberapa waktu berada di dalam. Tavian memeriksa ulang catatan, memastikan nomor sementara dan sketsa sesuai dengan posisi benda yang mereka lihat.
+
+Seraphine menyimpan salinan dokumentasi dalam wadah terpisah. Ia tidak ingin satu kerusakan atau kehilangan membuat seluruh catatan mereka tidak dapat digunakan.
+
+Kael berdiri dekat ambang, memandang ke arah bukit dan jalur batu yang membawa mereka ke sana.
+
+“Informasi seperti ini tidak akan lama menjadi rahasia,” katanya.
+
+Seraphine menoleh. “Kita belum mengumumkan apa pun.”
+
+“Bukan berarti tidak ada orang lain yang bisa mengetahuinya.”
+
+Tavian tidak menanggapi. Ia masih memikirkan benda-benda yang rusak di dalam ruangan. Ada terlalu banyak bagian yang hilang untuk membangun cerita tentang masa lalu tempat itu.
+
+Namun, mereka tidak perlu memahami seluruh masa lalu untuk mengetahui bahwa penemuan tersebut penting.
+
+Dan seseorang di luar sana mungkin sudah menunggu kabar tentangnya.
+
+---
+
+## Catatan tambahan Scene 9
+
+- Kelompok memasuki bagian luar fasilitas setelah akses terbuka dan kondisi awal diperiksa.
+- Mereka menemukan beberapa media informasi dan benda berpola; sebagian masih terlihat, sebagian rusak, dan sebagian tidak memiliki konteks.
+- Seraphine membuat klasifikasi sementara berdasarkan kondisi dan tingkat kepastian, bukan berdasarkan fungsi yang belum terbukti.
+- Tidak ada terjemahan, identifikasi bahasa, rekonstruksi sejarah, atau pemahaman teknologi yang berhasil diperoleh.
+- Tidak ada benda yang dibawa keluar; kelompok hanya membuat dokumentasi awal.
+- Scene menghasilkan penemuan yang cukup penting untuk menarik perhatian pihak luar, tetapi belum mengungkap bagaimana pihak itu akan mengetahuinya.
+- Detail benda, susunan ruang, dan prosedur pemeriksaan merupakan pengembangan naskah NON-CANON.
+
+
+---
+
+### Scene 10 — Penemuan Menarik Perhatian
+
+Kabar pertama datang bukan dari orang asing, melainkan dari jalur komunikasi ekspedisi sendiri.
+
+Seorang pembawa pesan yang dikirim kembali ke titik persinggahan tiba menjelang siang. Ia membawa jawaban atas laporan singkat tentang struktur yang ditemukan di kaki bukit. Pesan itu tidak panjang. Isinya meminta tim menghentikan perluasan pemeriksaan sampai pihak penyelenggara ekspedisi menerima dokumentasi awal.
+
+Tavian membaca pesan itu dua kali.
+
+“Siapa yang sudah menerima laporan kita?” tanyanya.
+
+“Pihak yang mengurus ekspedisi,” jawab pembawa pesan. “Mereka meneruskan ringkasan temuan kepada pihak yang perlu diberi tahu.”
+
+Seraphine mengulurkan tangan untuk membaca. “Siapa saja?”
+
+“Tidak disebutkan.”
+
+Kael berdiri di dekat meja perlengkapan. Ia tidak terlihat terkejut.
+
+Seraphine melipat kembali pesan itu. “Kita memang harus melaporkan temuan. Tapi laporan awal tidak berarti semua orang mendapat akses ke lokasi.”
+
+“Informasi sudah bergerak,” kata Kael.
+
+“Informasi bergerak melalui jalur yang seharusnya,” jawab Seraphine. “Itu tidak sama dengan memberi izin kepada siapa pun untuk datang.”
+
+Pembawa pesan menyampaikan satu hal lagi: beberapa orang telah menanyakan lokasi penemuan dan status hak atas lahan di sekitarnya. Ia tidak tahu siapa mereka, hanya bahwa pertanyaan tersebut disampaikan melalui perantara yang memiliki urusan dengan kegiatan pemulihan peninggalan.
+
+Seraphine memandang Tavian.
+
+“Berarti mereka sudah mendengar tentang fasilitas.”
+
+“Belum tentu tahu apa yang ada di dalamnya,” kata Tavian.
+
+“Cukup tahu untuk mulai bertanya,” sahut Kael.
+
+Mereka memutuskan untuk tidak mengirimkan salinan dokumentasi lengkap sebelum ada kejelasan mengenai pihak yang meminta. Laporan resmi tetap disiapkan sesuai prosedur, tetapi rincian yang belum diverifikasi tidak akan disebarkan sebagai kesimpulan.
+
+Menjelang sore, rombongan melihat beberapa orang datang dari arah jalur utama. Mereka membawa perlengkapan perjalanan dan peti-peti yang tidak biasa dibawa oleh kelompok survei. Di belakang mereka, dua orang memimpin hewan angkut yang membawa peralatan berat.
+
+Mereka tidak bergerak seperti rombongan penjelajah yang kebetulan lewat. Mereka mengikuti jalur dengan tujuan yang jelas.
+
+Salah seorang dari mereka memperkenalkan diri sebagai wakil perusahaan pemulihan peninggalan. Ia menyebut nama perusahaannya: Vellum & Iron Recovery.
+
+Tavian belum pernah berurusan dengan perusahaan itu. Seraphine juga tidak menunjukkan tanda mengenalnya secara pribadi. Namun, nama tersebut telah tercatat dalam daftar organisasi yang pernah mereka dengar selama persiapan ekspedisi.
+
+“Kami menerima kabar bahwa tim Anda menemukan struktur peninggalan di area ini,” kata wakil perusahaan itu.
+
+“Kabar dari siapa?” tanya Seraphine.
+
+“Dari jalur pemberitahuan yang tersedia bagi pihak berkepentingan.”
+
+“Itu bukan jawaban.”
+
+Pria itu tidak tersinggung. “Kami tidak datang untuk mengganggu pekerjaan survei. Kami datang karena perusahaan kami memiliki kepentingan kontraktual atas kegiatan pemulihan di wilayah ini.”
+
+Tavian memperhatikan peti-peti yang dibawa rombongan tersebut. Beberapa masih tertutup tali pengikat. Peralatan di sisi hewan angkut tampak disiapkan untuk pekerjaan lapangan, bukan sekadar kunjungan.
+
+“Kalian sudah tahu ada fasilitas di dalam bukit?” tanyanya.
+
+“Kami mengetahui adanya penemuan yang mungkin termasuk dalam cakupan hak pemulihan perusahaan.”
+
+“Jadi kalian belum tahu apa yang ada di sana,” kata Seraphine.
+
+“Kami belum melakukan pemeriksaan langsung.”
+
+“Dan kalian datang membawa peralatan pemulihan.”
+
+Wakil perusahaan itu menatapnya beberapa saat sebelum menjawab. “Kami harus siap menghadapi kemungkinan yang relevan dengan pekerjaan kami.”
+
+Kael berdiri sedikit di belakang Tavian. Ia tidak ikut berbicara. Pandangannya bergerak dari wakil perusahaan ke peti-peti yang dibawa rombongan, lalu kembali ke arah jalan.
+
+Seraphine menjaga suaranya tetap datar. “Fasilitas tersebut belum dinilai sepenuhnya. Akses baru terbuka, kondisi di dalam belum diketahui, dan benda-benda yang ditemukan belum diklasifikasikan secara lengkap. Tidak ada dasar untuk memulai pemulihan sekarang.”
+
+“Kami memahami bahwa tim Anda sedang melakukan pemeriksaan awal.”
+
+“Kalau begitu, Anda juga memahami bahwa belum ada izin untuk mengambil benda.”
+
+“Kami tidak menyatakan akan mengambil sesuatu hari ini.”
+
+Tavian melihat bahwa pria itu memilih kata-katanya dengan hati-hati. Ia tidak mengancam, tidak memerintah, dan tidak mengaku memiliki seluruh fasilitas. Namun, kedatangannya menunjukkan bahwa ada pihak yang menganggap penemuan itu berkaitan dengan hak yang telah mereka miliki sebelumnya.
+
+“Siapa yang memberi tahu perusahaan tentang lokasi ini?” tanya Tavian.
+
+Wakil itu menatapnya. “Informasi mengenai kegiatan survei dan penemuan di wilayah terbuka dapat sampai kepada banyak pihak. Saya tidak memiliki kewenangan untuk membahas sumber informasi perusahaan.”
+
+“Jadi kalian tidak akan memberi tahu.”
+
+“Saya mengatakan bahwa saya tidak mengetahui sumber spesifiknya.”
+
+Seraphine mengakhiri percakapan sebelum berubah menjadi perdebatan yang tidak produktif. Ia meminta wakil perusahaan menyampaikan dokumen dan dasar klaim melalui jalur yang dapat diperiksa. Sampai dokumen itu diterima, tidak ada perubahan pada batas pemeriksaan yang telah ditetapkan.
+
+Wakil perusahaan menyetujuinya, setidaknya untuk saat itu.
+
+Rombongan Vellum & Iron Recovery mendirikan tempat singgah di luar area yang telah ditandai tim survei. Mereka tidak mencoba memasuki fasilitas. Namun, kehadiran mereka mengubah suasana di sekitar bukit.
+
+Beberapa anggota ekspedisi mulai bertanya apakah penemuan itu akan menjadi sengketa. Yang lain khawatir pekerjaan mereka dihentikan. Tidak ada yang memiliki jawaban pasti.
+
+Tavian memandang peta kerja di tangannya. Selama beberapa hari terakhir, ia hanya berusaha memahami mengapa garis di peta tidak cocok dengan medan. Sekarang, penemuan yang bahkan belum mereka pahami sepenuhnya telah menarik pihak yang datang membawa kontrak dan peralatan.
+
+Ia menambahkan satu catatan baru di bawah laporan lokasi:
+
+*Pihak eksternal telah hadir setelah menerima informasi mengenai penemuan. Klaim hak pemulihan disebutkan, tetapi dokumen dan cakupannya belum diperiksa.*
+
+Seraphine membaca catatan itu.
+
+“Bagus. Jangan tulis lebih dari yang kita ketahui.”
+
+Kael masih memandang tempat singgah perusahaan. “Mereka datang lebih cepat daripada yang kukira.”
+
+Tavian menoleh. “Kau memperkirakan mereka akan datang?”
+
+Kael tidak segera menjawab.
+
+“Aku memperkirakan penemuan seperti ini tidak akan lama menarik perhatian.”
+
+Itu bukan jawaban yang sepenuhnya memuaskan. Namun, untuk saat ini, mereka memiliki persoalan yang lebih mendesak daripada menebak apa yang diketahui Kael.
+
+Di kaki bukit, akses fasilitas tetap terbuka dan belum dimasuki lebih jauh.
+
+Di luar area pemeriksaan, sebuah perusahaan telah mendirikan tempat singgah.
+
+Penemuan mereka tidak lagi hanya menjadi urusan ekspedisi.
+
+---
+
+## Catatan tambahan Scene 10
+
+- Informasi awal menyebar melalui jalur pelaporan ekspedisi; pihak penyelenggara meneruskan ringkasan kepada pihak berkepentingan.
+- Pembawa pesan tidak mengetahui seluruh penerima laporan. Sumber spesifik yang pertama kali menyampaikan informasi kepada perusahaan tetap tidak dipastikan.
+- Vellum & Iron Recovery diperkenalkan sebagai perusahaan yang datang dengan klaim bahwa kegiatan pemulihannya mungkin mencakup wilayah tersebut. Dokumen dan cakupan hak belum diperiksa.
+- Perusahaan belum melakukan pemeriksaan langsung dan belum mengambil benda dalam adegan ini.
+- Kehadiran perusahaan menggeser konflik dari eksplorasi menuju sengketa hak, tanpa menetapkan bahwa perusahaan otomatis memiliki fasilitas.
+- Kael menunjukkan bahwa kedatangan pihak luar tidak mengejutkannya, tetapi alasan lengkapnya tetap ditahan untuk Scene 13.
+- Penggunaan nama organisasi mengikuti nama yang telah tercantum dalam indeks CANON; fungsi dan keterlibatan spesifiknya dalam kejadian Buku I tetap merupakan keputusan cerita draft NON-CANON.
