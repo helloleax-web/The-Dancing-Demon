@@ -9,9 +9,9 @@
 
 Mereka kembali membuka catatan itu di Bellwether.
 
-Tavian meletakkan salinan fragmen dari fasilitas pertama di sebelah dokumentasi penanda Rookbridge. Kedua lembar itu tidak memiliki bentuk yang sama. Yang satu berasal dari permukaan media informasi yang rusak, sedangkan yang lain merupakan salinan guratan pada batu penanda.
+Tavian meletakkan salinan fragmen dari fasilitas pertama di sebelah dokumentasi penanda Rookbridge. Daren menambahkan satu lembar laporan survei lama tentang permukaan buatan di wilayah lain. Laporan itu hanya berisi ringkasan pengukuran dan sketsa; tidak ada bukti bahwa tempat tersebut merupakan fasilitas.
 
-Namun, susunan titik dan garisnya memiliki kemiripan yang cukup untuk membuat mereka ingin membandingkannya lagi.
+Dua sumber pertama memiliki susunan titik dan garis yang mirip. Laporan Daren berbeda jenis dan belum menunjukkan pola yang sama. Namun, ketiganya memberi alasan untuk mencari sumber tambahan.
 
 Seraphine memisahkan kedua sumber dengan lembar pembatas.
 
@@ -39,7 +39,7 @@ Daren berdiri dekat pintu, memeriksa tali pengikat perlengkapan. Ia tidak ikut m
 
 Tavian menutup peta.
 
-“Kita butuh seseorang yang terbiasa membandingkan catatan lama.”
+“Kita butuh seseorang yang terbiasa membandingkan catatan lama. Dan kita perlu mencari tahu apakah laporan Daren punya sumber lain.”
 
 Seraphine mengangguk. “Dan seseorang yang bisa membedakan bentuk yang mirip dari fungsi yang sama.”
 
