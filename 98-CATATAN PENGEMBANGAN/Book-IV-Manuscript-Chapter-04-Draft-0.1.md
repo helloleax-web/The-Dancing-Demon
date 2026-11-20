@@ -135,11 +135,11 @@ Kael bertanya kepada Tavian, “Kita akan mencari apa setelah ini?”
 
 Tavian membuka peta.
 
-“Catatan sejarah yang mungkin memiliki hubungan dengan nama itu.”
+“Catatan sejarah dari masa-masa yang belum kita periksa. Great War mungkin salah satunya, kalau sumbernya memang relevan.”
 
 Seraphine menambahkan, “Bukan untuk membuktikan dugaan. Untuk mencari sumber yang bisa diperiksa.”
 
-Mereka belum tahu bahwa nama tersebut merujuk pada sesuatu yang jauh lebih besar daripada batu tempat nama itu ditemukan.
+Mereka belum tahu apa yang dirujuk oleh nama tersebut.
 
 Mereka hanya tahu bahwa nama itu kini telah dibaca.
 
