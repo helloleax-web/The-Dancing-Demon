@@ -549,3 +549,12 @@ Matriks rotasi R0.2 diperiksa ulang dan diperbaiki agar ortogonal (deviasi maksi
 - Dibuat brief desain visual Tavian, Seraphine, dan Kael. Semua detail visual, termasuk proposal presentasi gender karakter yang belum ditetapkan CANON, tetap NON-CANON.
 - Storyboard mengikuti urutan 19 scene dan tidak menambahkan hubungan baru dengan LEAX atau misteri utama dunia.
 - Tidak ada perubahan CANON.
+
+
+## 2026-11-20 — Audit storyboard manga Buku I
+
+- Enam storyboard Bab 1–6 selesai dibuat dengan cakupan seluruh 19 scene.
+- Estimasi produksi: 118 halaman dan 602 panel.
+- Audit storyboard awal memeriksa urutan pengungkapan, posisi karakter, konsistensi properti, batas fasilitas, dan misteri pesan penutup.
+- Koreksi jumlah panel Bab 1 dan total indeks dilakukan berdasarkan penanda panel aktual.
+- Tidak ada perubahan CANON; semua keputusan panel tetap NON-CANON.
