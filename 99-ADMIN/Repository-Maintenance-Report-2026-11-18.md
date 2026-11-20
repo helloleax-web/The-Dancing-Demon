@@ -291,3 +291,11 @@ Tidak ada perubahan CANON.
 - Berisi eksperimen prosa Scenes 1–2 berdasarkan outline dan fakta karakter yang terdokumentasi.
 - Tautan silang ditambahkan ke Book I Scene Outline.
 - Status NON-CANON; belum dianggap manuskrip final dan tidak mengubah dokumen CANON.
+
+
+## Kelanjutan manuskrip draft Buku I — 2026-11-20
+
+- Manuskrip Bab 1 diperbarui dengan Scene 3, “Jalur yang Tidak Cocok”.
+- Total manuskrip sekitar 2.188 kata; cakupan prosa saat ini Scenes 1–3 dari 19 scene outline.
+- Scene 3 menjaga batas bukti: karakter hanya mengetahui ketidakcocokan peta dan penanda, belum mengetahui penyebabnya.
+- Tidak ada perubahan dokumen CANON. Seluruh tambahan tetap NON-CANON.
