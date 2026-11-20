@@ -29,3 +29,9 @@
 ## Manuskrip
 
 - [Book III Manuscript Index — Draft 0.1](Book-III-Manuscript-Index-Draft-0.1.md) — enam bab kerja, 20 scene.
+
+
+## Produksi manga
+
+- [Book III Manga Storyboard Index — Draft 0.1](Book-III-Manga-Storyboard-Index-Draft-0.1.md) — enam storyboard, 108 halaman dan 521 panel.
+- [Book III Manga Storyboard Audit — Draft 0.1](Book-III-Manga-Storyboard-Audit-Report-Draft-0.1.md) — audit kontinuitas visual dan jendela pengungkapan Buku IV.
