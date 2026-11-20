@@ -361,3 +361,12 @@ Tidak ada perubahan CANON.
 - Character Knowledge Matrix dan Scene Outline diperbarui untuk mencatat cakupan manuskrip.
 - Ini belum merupakan naskah Book I final: audit struktural, kontinuitas, bahasa, dan pemecahan bab manga masih harus dilakukan.
 - Tidak ada perubahan CANON; seluruh prosa tetap NON-CANON dan tidak memutuskan hal tentang LEAX.
+
+
+## Penataan file manuskrip Buku I — 2026-11-20
+
+- Naskah pass pertama untuk 19 scene kini dibagi ke enam file bab agar tidak terkumpul dalam satu file panjang.
+- Indeks utama: [Book I Manuscript Index — Draft 0.1](../98-CATATAN%20PENGEMBANGAN/Book-I-Manuscript-Index-Draft-0.1.md).
+- Bab 1–6 mencakup semua 19 scene dan mempertahankan catatan tambahan masing-masing scene.
+- Pemisahan file bukan finalisasi cerita; audit kontinuitas, revisi prosa, dan adaptasi manga masih diperlukan.
+- Tidak ada perubahan CANON atau materi LEAX.
