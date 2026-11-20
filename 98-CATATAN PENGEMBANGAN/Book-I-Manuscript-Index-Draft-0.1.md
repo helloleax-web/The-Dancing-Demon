@@ -41,7 +41,7 @@
 
 ## Produksi manga
 
-- [Book I Manga Storyboard Index — Draft 0.1](Book-I-Manga-Storyboard-Index-Draft-0.1.md) — indeks enam storyboard, 118 halaman dan sekitar 604 panel.
+- [Book I Manga Storyboard Index — Draft 0.1](Book-I-Manga-Storyboard-Index-Draft-0.1.md) — indeks enam storyboard, 118 halaman dan 602 panel.
 - [Book I Character Visual Design Brief — Draft 0.1](Book-I-Character-Visual-Design-Brief-Draft-0.1.md) — proposal desain visual Tavian, Seraphine, dan Kael untuk konsistensi storyboard.
 
 - [Book I Manga Storyboard Audit — Draft 0.1](Book-I-Manga-Storyboard-Audit-Report-Draft-0.1.md) — audit urutan informasi, kontinuitas visual, dan batas misteri pada enam storyboard.
