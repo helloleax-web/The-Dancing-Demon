@@ -612,3 +612,12 @@ Matriks rotasi R0.2 diperiksa ulang dan diperbaiki agar ortogonal (deviasi maksi
 - Menyelaraskan estimasi panel dengan jumlah panel aktual.
 - Memperbaiki perkenalan Daren di Bab 4 agar nama baru muncul setelah Mira memperkenalkannya.
 - Tidak ada perubahan CANON; seluruh panel dan desain tetap NON-CANON.
+
+
+## 2026-11-20 — Outline Buku IV
+
+- Book IV Scene Outline dan Character Knowledge Matrix dibuat untuk 20 scene.
+- Outline mengembangkan pencarian batu bertulis yang dirujuk Hollow Vale dan penemuan nama NVR AGAIN melalui Prasasti pertama.
+- Jendela pengungkapan dijaga: nama tidak muncul sebelum proses penemuan; makna, pembuat, konteks sejarah, dan hubungan lain tetap terbuka.
+- Jalan Northglass dipakai sebagai rute dalam keputusan cerita draft NON-CANON.
+- Tidak ada perubahan CANON atau keputusan baru tentang LEAX.
