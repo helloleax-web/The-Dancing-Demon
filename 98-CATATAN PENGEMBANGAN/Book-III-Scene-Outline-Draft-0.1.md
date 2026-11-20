@@ -227,6 +227,8 @@ Kelompok berhasil menyimpan dokumentasi bersama, tetapi tidak memperoleh jawaban
 - [Eight-Book Series Architecture — Draft 0.1](Eight-Book-Series-Architecture-Draft-0.1.md)
 - [Book II Scene Outline — Draft 0.1](Book-II-Scene-Outline-Draft-0.1.md)
 - [Book II Manuscript Index — Draft 0.1](Book-II-Manuscript-Index-Draft-0.1.md)
+- [Book III Manuscript Index — Draft 0.1](Book-III-Manuscript-Index-Draft-0.1.md)
+- [Book III Manga Storyboard Index — Draft 0.1](Book-III-Manga-Storyboard-Index-Draft-0.1.md)
 - [Character Development Dossier — Draft 0.1](Character-Development-Dossier-Draft-0.1.md)
 - [Location & Organization Development Dossier — Draft 0.1](Location-Organization-Development-Dossier-Draft-0.1.md)
 - [Mystery & Foreshadowing Ledger — Draft 0.1](Mystery-and-Foreshadowing-Ledger-Draft-0.1.md)
