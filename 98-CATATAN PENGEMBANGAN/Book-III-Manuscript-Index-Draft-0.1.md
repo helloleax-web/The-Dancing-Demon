@@ -2,16 +2,16 @@
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Progress:** pass pertama untuk seluruh 20 scene outline telah ditulis dan dipisahkan menjadi enam bab kerja.  
-**Jumlah kata:** sekitar 6,819 kata termasuk judul dan catatan tambahan.
+**Jumlah kata:** sekitar 6,890 kata termasuk judul dan catatan tambahan.
 
 ## Struktur bab
 
-1. [Bab 1 — Pola yang Belum Terbukti](Book-III-Manuscript-Chapter-01-Draft-0.1.md) — Scenes 1–4 (1,394 kata)
+1. [Bab 1 — Pola yang Belum Terbukti](Book-III-Manuscript-Chapter-01-Draft-0.1.md) — Scenes 1–4 (1,421 kata)
 2. [Bab 2 — Akses dan Asal](Book-III-Manuscript-Chapter-02-Draft-0.1.md) — Scenes 5–7 (1,142 kata)
 3. [Bab 3 — Ruang Penyimpanan](Book-III-Manuscript-Chapter-03-Draft-0.1.md) — Scenes 8–10 (1,016 kata)
 4. [Bab 4 — Hak atas Informasi](Book-III-Manuscript-Chapter-04-Draft-0.1.md) — Scenes 11–14 (1,172 kata)
 5. [Bab 5 — Bagian yang Hilang](Book-III-Manuscript-Chapter-05-Draft-0.1.md) — Scenes 15–17 (1,090 kata)
-6. [Bab 6 — Catatan di Luar Fasilitas](Book-III-Manuscript-Chapter-06-Draft-0.1.md) — Scenes 18–20 (1,005 kata)
+6. [Bab 6 — Catatan di Luar Fasilitas](Book-III-Manuscript-Chapter-06-Draft-0.1.md) — Scenes 18–20 (1,049 kata)
 
 ## Dokumen pengembangan
 
@@ -23,6 +23,7 @@
 ## Catatan
 
 - Seluruh 20 scene outline telah memiliki prosa awal.
+- Buku II meninggalkan laporan survei terpisah tentang permukaan buatan di wilayah lain; laporan tersebut menjadi petunjuk tambahan, bukan bukti fasilitas.
 - Ini merupakan pass pertama, bukan naskah final Buku III.
 - Tahap berikutnya: audit kontinuitas, revisi prosa, penajaman suara karakter, dan adaptasi storyboard.
 - Semua detail baru tetap NON-CANON.
