@@ -53,11 +53,11 @@ Kael memandang catatan itu.
 
 Mereka berkumpul untuk menyusun kesimpulan sebelum meninggalkan Hollow Vale.
 
-Tavian meletakkan tiga sumber di atas meja: salinan fragmen fasilitas Buku I, dokumentasi penanda Rookbridge, dan salinan indeks Hollow Vale.
+Tavian meletakkan empat sumber di atas meja: salinan fragmen fasilitas Buku I, dokumentasi penanda Rookbridge, laporan permukaan buatan dari catatan lama Daren, dan salinan indeks Hollow Vale.
 
 Seraphine membacakan apa yang dapat dipastikan.
 
-“Pertama, ketiga sumber memiliki beberapa bentuk rujukan yang mirip. Kedua, konteks dan fungsi masing-masing berbeda. Ketiga, kita belum punya bukti bahwa semuanya dibuat oleh pihak yang sama.”
+“Dua sumber pertama memiliki beberapa bentuk rujukan yang mirip. Laporan Daren adalah petunjuk terpisah tentang permukaan buatan, sedangkan indeks Hollow Vale memberi konteks lain. Kita belum punya bukti bahwa semuanya dibuat oleh pihak yang sama atau saling terhubung.”
 
 Ilyra menambahkan bahwa susunan tanda mungkin menunjukkan hubungan antarcatatan, tetapi bagian yang hilang membuat interpretasi belum lengkap.
 
@@ -117,6 +117,8 @@ Fasilitas pertama memberi mereka penemuan.
 
 Rookbridge memberi mereka pengetahuan lokal.
 
+Laporan Daren memberi petunjuk terpisah tentang permukaan buatan di wilayah lain.
+
 Hollow Vale memberi mereka bukti bahwa beberapa catatan memiliki pola rujukan yang patut dibandingkan.
 
 Namun, tidak satu pun tempat itu memberi mereka seluruh jawaban.
@@ -139,7 +141,7 @@ Petunjuk itu berasal dari sebuah batu bertulis di luar fasilitas.
 
 - Indeks Hollow Vale memuat rujukan kepada batu bertulis di luar fasilitas; isi, lokasi, identitas, dan hubungannya belum diketahui.
 - Seraphine menolak menyebutnya Prasasti sebelum ada bukti.
-- Tiga sumber memiliki kemiripan format rujukan, tetapi belum membuktikan satu jaringan, pembuat, atau tujuan.
+- Dua sumber memiliki kemiripan format rujukan; laporan Daren merupakan petunjuk terpisah tentang permukaan buatan, dan indeks Hollow Vale memberi sumber tambahan. Belum ada bukti satu jaringan, pembuat, atau tujuan.
 - Sumber asli tetap berada di Hollow Vale; salinan disimpan dan dibagikan sesuai kesepakatan.
 - Ilyra memilih bergabung untuk menelusuri rujukan batu bertulis.
 - Kael belum memutus hubungan dengan jaringan informasi lamanya, tetapi tidak lagi mengirim salinan tanpa sumber dan persetujuan kelompok.
