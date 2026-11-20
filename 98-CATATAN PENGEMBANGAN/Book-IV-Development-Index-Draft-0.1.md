@@ -40,3 +40,9 @@
 
 - [Book IV Manga Storyboard Index — Draft 0.1](Book-IV-Manga-Storyboard-Index-Draft-0.1.md) — empat bab, 74 halaman dan 370 panel.
 - [Book IV Manga Storyboard Audit — Draft 0.1](Book-IV-Manga-Storyboard-Audit-Report-Draft-0.1.md) — pemeriksaan urutan pengungkapan dan batas CANON.
+
+
+## Produksi manga
+
+- [Book IV Manga Storyboard Index — Draft 0.1](Book-IV-Manga-Storyboard-Index-Draft-0.1.md) — empat storyboard, 74 halaman dan 370 panel.
+- [Book IV Manga Storyboard Audit — Draft 0.1](Book-IV-Manga-Storyboard-Audit-Report-Draft-0.1.md) — audit urutan pengungkapan dan batas visual.
