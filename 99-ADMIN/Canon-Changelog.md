@@ -621,3 +621,12 @@ Matriks rotasi R0.2 diperiksa ulang dan diperbaiki agar ortogonal (deviasi maksi
 - Jendela pengungkapan dijaga: nama tidak muncul sebelum proses penemuan; makna, pembuat, konteks sejarah, dan hubungan lain tetap terbuka.
 - Jalan Northglass dipakai sebagai rute dalam keputusan cerita draft NON-CANON.
 - Tidak ada perubahan CANON atau keputusan baru tentang LEAX.
+
+
+## 2026-11-20 — Storyboard manga Buku III
+
+- Membuat storyboard Bab 1–6 untuk seluruh 20 scene Buku III: 108 halaman dan 521 panel.
+- Membuat indeks storyboard dan laporan audit storyboard.
+- Menyelaraskan estimasi panel dengan jumlah panel aktual.
+- Menjaga perbedaan fasilitas Buku I dan Hollow Vale, empat sumber informasi, serta batas pengungkapan batu bertulis dan NVR AGAIN.
+- Tidak ada perubahan CANON; seluruh panel tetap NON-CANON.
