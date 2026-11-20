@@ -167,7 +167,8 @@ Kelompok membantu memetakan jalur alternatif dengan melibatkan pengetahuan lokal
 
 **Scene 19 — Bukan Kebetulan yang Cukup**
 - Tavian membandingkan salinan fragmen dengan dokumentasi penanda Rookbridge.
-- Ada pola rujukan yang dapat dibandingkan, tetapi tidak cukup untuk menentukan lokasi berikutnya.
+- Daren menyerahkan catatan survei lama tentang permukaan buatan di wilayah lain; laporan berisi ringkasan pengukuran dan sketsa, tetapi tidak membuktikan adanya fasilitas.
+- Ada pola rujukan yang dapat dibandingkan pada dua sumber pertama, sementara laporan Daren menjadi petunjuk terpisah yang perlu diverifikasi.
 - Kael menyadari bahwa informasi dari kontraknya mungkin hanya bagian kecil dari sesuatu yang lebih luas.
 - **Fungsi:** memperlihatkan bahwa fasilitas Buku I mungkin bukan penemuan yang berdiri sendiri, tanpa mengklaim adanya jaringan pasti.
 
