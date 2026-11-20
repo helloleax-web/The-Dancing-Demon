@@ -27,3 +27,9 @@
 - Ini merupakan pass pertama, bukan naskah final Buku III.
 - Tahap berikutnya: audit kontinuitas, revisi prosa, penajaman suara karakter, dan adaptasi storyboard.
 - Semua detail baru tetap NON-CANON.
+
+
+## Adaptasi manga
+
+- [Book III Manga Storyboard Index — Draft 0.1](Book-III-Manga-Storyboard-Index-Draft-0.1.md) — 108 halaman, 521 panel, mencakup seluruh 20 scene.
+- [Book III Manga Storyboard Audit — Draft 0.1](Book-III-Manga-Storyboard-Audit-Report-Draft-0.1.md) — pemeriksaan urutan informasi, sumber, dan batas pengungkapan.
