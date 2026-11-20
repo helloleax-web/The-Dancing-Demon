@@ -2,9 +2,7 @@
 
 ## **Naskah interpretasi seorang keturunan LEAX**
 
-DRAF — BELUM DISETUJUI
-
-**Status: DRAF — naskah penafsiran in-world**
+**Status: CANON — naskah penafsiran in-world**
 
 Dokumen ini merupakan naskah interpretasi Prasasti Kedua dari sudut pandang penulis yang sama dengan penafsir Prasasti Pertama. Ia merupakan salah satu keturunan LEAX yang penasaran terhadap leluhurnya dan berusaha memahami ketiga belas Prasasti.
 
