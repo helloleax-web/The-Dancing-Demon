@@ -28,3 +28,9 @@
 ## Manuskrip
 
 - [Book IV Manuscript Index — Draft 0.1](Book-IV-Manuscript-Index-Draft-0.1.md) — empat bab kerja, 20 scene.
+
+
+## Manuskrip
+
+- [Book IV Manuscript Index — Draft 0.1](Book-IV-Manuscript-Index-Draft-0.1.md) — empat bab kerja, 20 scene.
+- [Book IV Manuscript Continuity Audit — Draft 0.1](Book-IV-Manuscript-Continuity-Audit-Draft-0.1.md) — audit jendela pengungkapan NVR AGAIN dan kontinuitas manuskrip.
