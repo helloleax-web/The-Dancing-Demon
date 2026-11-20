@@ -7,6 +7,7 @@
 
 - Outline memiliki 20 scene dalam empat bagian.
 - Konflik utama beralih dari penemuan fisik ke hak atas informasi, salinan, interpretasi, dan konteks dokumen.
+- Laporan survei lama Daren dari Buku II menjadi petunjuk terpisah tentang permukaan buatan di wilayah lain; laporan tersebut tidak membuktikan fasilitas atau jaringan.
 - Buku II juga meninggalkan laporan survei lama Daren tentang permukaan buatan di wilayah lain; laporan itu merupakan petunjuk terpisah, bukan bukti fasilitas atau jaringan.
 - Fasilitas Hollow Vale digunakan sebagai situs kedua yang berbeda dari fasilitas Buku I.
 - Ilyra Nym diperkenalkan sebagai penyalin naskah/asisten arsip dengan kelemahan interpretatif yang jelas.
