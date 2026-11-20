@@ -509,3 +509,10 @@ Matriks rotasi R0.2 diperiksa ulang dan diperbaiki agar ortogonal (deviasi maksi
 - Dibuat [Book I Manuscript Index — Draft 0.1](../98-CATATAN%20PENGEMBANGAN/Book-I-Manuscript-Index-Draft-0.1.md) sebagai titik masuk ke seluruh bab.
 - Isi adegan dan catatan editorial dipertahankan; perubahan hanya penataan dokumen, bukan revisi fakta cerita.
 - Seluruh manuskrip tetap NON-CANON. Tidak ada perubahan CANON atau materi LEAX.
+
+
+## Audit kontinuitas penutup Buku I — 2026-11-20
+
+- Scene 19 direvisi agar tindakan Kael sesuai dengan rumusan CANON: ia membakar pesan sampai tidak terbaca, tetapi menyimpan sisa kertas yang hangus.
+- Character Knowledge Matrix diselaraskan dengan detail tersebut.
+- Revisi memperketat kesesuaian draft dengan CANON; tidak mengubah fakta CANON.
