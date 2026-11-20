@@ -31,3 +31,8 @@
 - Tidak ada arti, referen, asal, atau hubungan sejarah yang ditambahkan pada nama tersebut.
 - Batu tidak dipindahkan; sumber asli tetap berada di lokasi.
 - Seluruh keputusan panel dan komposisi tetap NON-CANON.
+
+
+## Audit
+
+- [Book IV Manga Storyboard Audit — Draft 0.1](Book-IV-Manga-Storyboard-Audit-Report-Draft-0.1.md) — pemeriksaan jendela pengungkapan NVR AGAIN dan kontinuitas visual.
