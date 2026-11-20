@@ -490,3 +490,13 @@ Matriks rotasi R0.2 diperiksa ulang dan diperbaiki agar ortogonal (deviasi maksi
 - Setelah insiden, perusahaan menghentikan pemulihan dan para pihak menyepakati penjagaan sementara dari luar. Sengketa kepemilikan tidak diselesaikan.
 - Manuskrip Bab 1 kini mencakup Scenes 1–17 dengan sekitar 15.838 kata.
 - Character Knowledge Matrix diperbarui. Tidak ada perubahan fakta CANON atau materi LEAX; seluruh detail insiden dan kesepakatan tetap NON-CANON.
+
+
+## Penyelesaian pass pertama outline Buku I — Scene 18–19 — 2026-11-20
+
+- Manuskrip Bab 1 diperluas dengan Scene 18 “Salinan Sebagian” dan Scene 19 “Pesan yang Dibakar”.
+- Fragmen yang ditemukan menghasilkan diagram titik-jalur yang mungkin merujuk pada lokasi lain; orientasi, identitas, dan maknanya belum diketahui.
+- Kael menerima pesan dari kontak tak dikenal yang menanyakan “arsip di bawah jalan”; ia membakar sebagian besar pesan dan menyimpan potongan kertas.
+- Seluruh 19 scene outline kini memiliki draft prosa awal; manuskrip berjumlah sekitar 17.066 kata.
+- Character Knowledge Matrix diperbarui. Tidak ada perubahan fakta CANON atau materi LEAX.
+- Status ini hanya menandai selesainya pass pertama scene outline, bukan selesainya keseluruhan Book I atau finalisasi naskah.
