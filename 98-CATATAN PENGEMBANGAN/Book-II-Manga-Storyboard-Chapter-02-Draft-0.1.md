@@ -4,7 +4,7 @@
 **Basis:** Manuscript Chapter 02, Scenes 4–6.  
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Target format:** manga hitam-putih, pembacaan kanan-ke-kiri.  
-**Estimasi:** 20 halaman, sekitar 95 panel.
+**Estimasi:** 20 halaman, sekitar 93 panel.
 
 ## Prinsip visual bab
 
