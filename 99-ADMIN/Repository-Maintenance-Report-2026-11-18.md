@@ -395,3 +395,8 @@ Tidak ada perubahan CANON.
 - Menambahkan Book I Prose Style Sheet Draft 0.1.
 - Menyusun storyboard manga Bab 1 (18 halaman, sekitar 90 panel) dan menautkannya dari Manuscript Index.
 - Storyboard tetap NON-CANON; belum ada ilustrasi final atau penguncian desain karakter.
+
+
+- Menyelesaikan storyboard awal enam bab Buku I (118 halaman, 604 panel) dan membuat indeks produksi manga.
+- Membuat brief desain visual karakter utama sebagai proposal NON-CANON; gender/usia Seraphine dan Kael tetap belum ditetapkan dalam CANON.
+- Semua storyboard ditautkan dari Manuscript Index; belum ada ilustrasi final, thumbnail artistik, atau desain final karakter.
