@@ -58,7 +58,7 @@
 | 2 — Batu yang Tidak Terbaca | 6–10 | 1,059 |
 | 3 — Nama yang Terlepas | 11–15 | 1,089 |
 | 4 — Setelah Nama Ditemukan | 16–20 | 1,121 |
-| **Total** | **1–20** | **4,489** |
+| **Total** | **1–20** | **4,487** |
 
 **Kesimpulan:** pass pertama memenuhi fungsi Buku IV pada tingkat struktur dan menjaga pengungkapan nama NVR AGAIN sesuai fakta CANON. Naskah belum final.
 
