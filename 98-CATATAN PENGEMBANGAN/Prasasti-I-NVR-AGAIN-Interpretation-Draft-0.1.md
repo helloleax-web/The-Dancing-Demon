@@ -9,6 +9,8 @@ Naskah ini sengaja ditulis sebagai catatan seorang penafsir Avarra, bukan sebaga
 
 **Keyakinan utama penafsir:** ia menduga suara dalam Prasasti mungkin merupakan perkataan LEAX sendiri, atau setidaknya lantunan yang menceritakan sesuatu yang benar-benar pernah dialami LEAX. Dugaan ini adalah hipotesis pribadi, bukan fakta sejarah yang telah terbukti.
 
+**Dugaan penafsir mengenai bunyi Prasasti:** penafsir hidup dalam masyarakat Avarra yang menghubungkan lantunan dari masa Great War dengan jubah mana hitam dan pemulihan tubuh serta mana yang luar biasa. Karena itu, ia mempertimbangkan kemungkinan bahwa suara, kata-kata, dan irama dalam Prasasti merupakan satu rangkaian mantra yang dilantunkan selama sihir berlangsung. Ia belum dapat membuktikan dugaan tersebut. Ia tidak mengetahui bahwa musik itu sebenarnya hanya mengiringi penggunaan sihir LEAX, bukan menjadi sumber atau formula sihirnya.
+
 ---
 
 ## I. Prinsip dan batas penafsiran
@@ -21,6 +23,7 @@ Penafsir harus mempertahankan batas pengetahuannya:
 4. **Membedakan dugaan dari fakta.** Semua tafsiran tentang kehidupan LEAX adalah hipotesis penafsir.
 5. **Memungkinkan kesalahan tafsir.** Slang, metafora, permainan kata, bunyi ad-lib, dan ungkapan dari dunia asal dapat membuat penafsir salah mengerti.
 6. **Tidak menganggap semua baris sebagai laporan harfiah.** Penafsir belum tahu apakah suara tersebut sedang menceritakan pengalaman, membual, menggunakan metafora, atau mencampur semuanya.
+7. **Memisahkan bunyi dari dugaan tentang sihir.** Penafsir boleh menganggap irama, pengulangan, dan suara sebagai petunjuk kemungkinan mantra, tetapi dugaan itu tetap merupakan tafsir Avarran dan bukan bukti bahwa musik tersebut benar-benar memiliki daya sihir.
 
 Dalam catatan di bawah, frasa lirik dicantumkan sebagai penanda bagian agar pembaca tahu baris yang sedang ditafsirkan. Penjelasan tetap terbatas pada apa yang mungkin dipahami penafsir Avarra.
 
@@ -370,6 +373,10 @@ Penafsir menganggap pengulangan ini memperkuat kesan bahwa pemilik suara membeda
 >
 > *Aku tidak berani menyatakan bahwa dugaan tersebut benar. Namun, aku juga tidak dapat mengabaikannya.*
 >
+> *Ada satu hal lain yang tidak dapat kulepaskan dari pikiranku. Orang-orang Avarra menghubungkan lantunan dari masa Great War dengan jubah hitam yang melindungi para pemakainya dan memulihkan tenaga mereka. Sebagian menganggap bunyi itulah sumber kekuatannya. Setelah mendengar Prasasti ini, aku mulai bertanya-tanya apakah kata-kata dan iramanya merupakan mantra panjang yang terus bekerja selama dilantunkan.* 
+>
+> *Aku belum tahu apakah setiap kata memiliki maksud, apakah pengulangan menjaga suatu susunan, atau apakah bunyi-bunyi yang mengiringinya ikut membentuk mantra. Bisa jadi aku hanya sedang mencari pola karena ingin menemukan jawaban. Namun, jika suara ini memang milik LEAX, mungkin ia mengetahui cara menggunakan lantunan yang belum dipahami oleh para penyihir pada masa kita.*
+>
 > *Mungkin suatu hari nanti, ketika seluruh Prasasti telah ditemukan dan dipahami, kita akan mengetahui siapa sebenarnya sosok yang berbicara melalui lantunan ini.*
 
 — Catatan penutup interpretasi Prasasti Pertama
@@ -475,6 +482,18 @@ Karena itu, pengulangan lirik tidak selalu terasa sebagai pengulangan yang benar
 
 Aku belum tahu apakah pengulangan ini dimaksudkan untuk menegaskan pesan, membangun suasana, atau sekadar merupakan bentuk lantunan dari dunia asalnya.
 
+### Apakah lantunan ini merupakan mantra?
+
+Ada satu pertanyaan yang terus muncul ketika aku mendengarkan bunyi pengiringnya: apakah kata-kata dan irama ini sekadar mengiringi suara seseorang, atau justru merupakan bagian dari suatu pekerjaan sihir?
+
+Aku tidak mendengar lantunan yang berhenti untuk memberi ruang bagi sebuah mantra, lalu disusul oleh akibat sihir. Kata-kata dan bunyi pengiringnya berjalan bersamaan. Suara itu terus bergerak di atas pola bunyi yang berulang, seolah-olah tidak ada batas yang jelas antara mengucapkan mantra dan mempertahankan suatu tindakan.
+
+Karena itulah aku menduga lantunan ini mungkin merupakan mantra yang bekerja selama ia dibawakan. Pengulangan mungkin menjaga susunannya; perubahan nada dan tekanan mungkin memiliki fungsi; bunyi-bunyi yang mengiringinya mungkin membantu mempertahankan keteraturan. Aku tidak tahu apakah dugaan itu benar. Aku bahkan tidak tahu apakah semua bagian lantunan memiliki fungsi, atau apakah sebagian hanya merupakan ungkapan pemilik suara.
+
+Aku juga tidak dapat memastikan apakah bunyi pengiringnya dibuat oleh alat, oleh beberapa orang, atau melalui cara yang sama sekali tidak kukenal. Namun, jika bunyi-bunyi itu memang bagian dari suatu mantra, maka Prasasti ini memperlihatkan sesuatu yang berbeda dari cara perapalan yang biasa kupelajari: lantunan dan akibat sihir mungkin berlangsung pada saat yang sama.
+
+Dugaan ini cocok dengan keyakinan yang beredar di Avarra mengenai lantunan pada masa Great War. Banyak orang menganggap musik tersebut sebagai sesuatu yang menghasilkan jubah hitam dan pemulihan luar biasa. Aku belum memiliki bukti untuk memastikan hubungan itu. Aku hanya dapat mencatat bahwa bunyi Prasasti ini membuat pertanyaan tersebut semakin sulit kuabaikan.
+
 ### Kesan pribadi setelah mendengarkan
 
 Bunyi Prasasti ini membuatku merasa seolah-olah pemilik suara sedang bergerak tanpa pernah benar-benar berhenti. Ketukan rendahnya terus mendesak, nada tingginya terus kembali, dan suaranya berpindah-pindah antara gumaman, ucapan, dan seruan.
@@ -483,5 +502,5 @@ Ada tenaga besar dalam lantunan ini, tetapi bagiku tenaga itu tidak terasa sepen
 
 Ketika mendengar kembali bagian tentang tempat tinggal lama dan penolakan untuk kembali, bunyi yang padat itu membuat kata-kata tersebut terasa semakin ganjil bagiku. Aku tidak dapat memastikan apakah pemilik suara sedang marah, takut, muak, atau sekadar membanggakan dirinya. Suara dan irama memberi kesan, tetapi tidak memberiku kepastian tentang maksudnya.
 
-**Catatan batas:** seluruh uraian bunyi di atas adalah kesan pendengaran penafsir. Ia bukan pengetahuan tentang alat musik, teknologi, genre, atau kebudayaan dunia asal lantunan. Kesan tersebut juga tidak membuktikan identitas suara sebagai LEAX.
+**Catatan batas:** seluruh uraian bunyi di atas adalah kesan pendengaran penafsir. Ia bukan pengetahuan tentang alat musik, teknologi, genre, atau kebudayaan dunia asal lantunan. Kesan tersebut juga tidak membuktikan identitas suara sebagai LEAX. Dugaan bahwa lantunan merupakan mantra juga tidak membuktikan bahwa bunyi itu sendiri adalah sumber kekuatan jubah atau pemulihan yang dikaitkan dengannya.
 
