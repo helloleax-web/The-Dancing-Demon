@@ -34,3 +34,9 @@
 
 - [Book IV Manuscript Index — Draft 0.1](Book-IV-Manuscript-Index-Draft-0.1.md) — empat bab kerja, 20 scene.
 - [Book IV Manuscript Continuity Audit — Draft 0.1](Book-IV-Manuscript-Continuity-Audit-Draft-0.1.md) — audit jendela pengungkapan NVR AGAIN dan kontinuitas manuskrip.
+
+
+## Adaptasi manga
+
+- [Book IV Manga Storyboard Index — Draft 0.1](Book-IV-Manga-Storyboard-Index-Draft-0.1.md) — empat bab, 74 halaman dan 370 panel.
+- [Book IV Manga Storyboard Audit — Draft 0.1](Book-IV-Manga-Storyboard-Audit-Report-Draft-0.1.md) — pemeriksaan urutan pengungkapan dan batas CANON.
