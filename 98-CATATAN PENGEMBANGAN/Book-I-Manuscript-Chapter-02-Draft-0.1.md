@@ -159,8 +159,6 @@ Mulai hari itu, ia tidak akan menganggap Kael sebagai orang yang sekadar kebetul
 
 ---
 
----
-
 ### Scene 5 — Jalan Batu
 
 Pemeriksaan dimulai setelah rombongan menyelesaikan pekerjaan rutin di jalur utama.
@@ -254,8 +252,6 @@ Sebagian garisnya telah ditemukan di tanah.
 - Tidak ada nama lokasi baru atau hubungan dengan lokasi CANON lain yang ditetapkan.
 - Detail prosa dan hasil pemeriksaan tetap NON-CANON sampai ditinjau dalam proses finalisasi cerita.
 
-
----
 
 ---
 
