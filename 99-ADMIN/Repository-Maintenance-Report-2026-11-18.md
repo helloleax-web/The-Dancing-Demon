@@ -406,3 +406,6 @@ Tidak ada perubahan CANON.
 - Memverifikasi enam storyboard: 118 halaman, 602 panel, mencakup seluruh 19 scene.
 - Memperbarui indeks manuskrip dengan tautan audit storyboard.
 - Belum ada thumbnail visual atau layout final; seluruh keputusan panel tetap NON-CANON.
+
+
+- Memperjelas Scene 15: Tavian, Seraphine, Kael, dan dua anggota ekspedisi adalah lima orang yang masuk dan terjebak di fasilitas; posisi Kael kini konsisten dengan Scene 16 serta storyboard.
