@@ -390,3 +390,8 @@ Tidak ada perubahan CANON.
 
 - Klarifikasi tambahan Scene 18: salinan fragmen dibuat dari dokumentasi awal, bukan dengan mengambil benda atau memasuki fasilitas kembali.
 - Penyelarasan catatan Scene 19 dengan prosa tentang sisa kertas pesan yang hangus.
+
+
+- Menambahkan Book I Prose Style Sheet Draft 0.1.
+- Menyusun storyboard manga Bab 1 (18 halaman, sekitar 90 panel) dan menautkannya dari Manuscript Index.
+- Storyboard tetap NON-CANON; belum ada ilustrasi final atau penguncian desain karakter.
