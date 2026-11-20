@@ -142,8 +142,6 @@ Penemuan mereka tidak lagi hanya menjadi urusan ekspedisi.
 
 ---
 
----
-
 ### Scene 11 — Klaim
 
 Wakil Vellum & Iron Recovery datang kembali pada pagi berikutnya.
@@ -307,8 +305,6 @@ Untuk pertama kalinya, ia mengerti bahwa menemukan sesuatu tidak selalu berarti 
 
 ---
 
----
-
 ### Scene 12 — Batas Kesepakatan
 
 Pembahasan berikutnya berlangsung di tempat yang sama, tetapi kali ini kedua pihak membawa daftar hal yang ingin mereka lindungi.
@@ -445,8 +441,6 @@ Dan waktu mungkin satu-satunya hal yang mereka miliki sebelum pihak lain memutus
 - Kael menyinggung kemungkinan pihak lain memiliki kepentingan terhadap informasi, tetapi belum mengungkap kontrak atau pemberi tugasnya.
 - Detail kesepakatan dan prosedur merupakan rancangan naratif NON-CANON, bukan penetapan hukum dunia secara umum.
 
-
----
 
 ---
 
