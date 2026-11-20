@@ -85,11 +85,12 @@ Gunakan empat kategori:
 - Pola penamaan atau indeks yang mirip.
 - Rujukan silang yang belum dapat ditafsirkan.
 - Bukti bahwa beberapa lokasi memiliki sistem yang saling mengenali.
+- Laporan survei lama Daren pada akhir Buku II tentang permukaan buatan di wilayah lain. Laporan ini hanya petunjuk terpisah dan tidak membuktikan bahwa tempat tersebut adalah fasilitas atau bagian dari jaringan.
 
 **Batas:**
 - Kemiripan tidak otomatis membuktikan semua fasilitas dibangun oleh satu lembaga atau memiliki satu fungsi.
+- Laporan Daren tidak boleh diubah menjadi bukti fasilitas tanpa pemeriksaan lebih lanjut.
 - Jangan membuat setiap fasilitas terhubung langsung ke entitas kosmik.
-
 ### M-04 — Prasasti pertama dan nama NVR AGAIN
 
 **Fakta CANON:**
