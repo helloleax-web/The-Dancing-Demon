@@ -630,3 +630,11 @@ Matriks rotasi R0.2 diperiksa ulang dan diperbaiki agar ortogonal (deviasi maksi
 - Menyelaraskan estimasi panel dengan jumlah panel aktual.
 - Menjaga perbedaan fasilitas Buku I dan Hollow Vale, empat sumber informasi, serta batas pengungkapan batu bertulis dan NVR AGAIN.
 - Tidak ada perubahan CANON; seluruh panel tetap NON-CANON.
+
+
+## 2026-11-20 — Storyboard manga Buku III
+
+- Storyboard Bab 1–6 mencakup seluruh 20 scene: 108 halaman dan 521 panel.
+- Membuat indeks storyboard dan laporan audit kontinuitas visual.
+- Mengoreksi hitungan audit manuskrip Buku III menjadi 6.890 kata sesuai enam berkas bab.
+- Tidak ada perubahan CANON; seluruh storyboard tetap NON-CANON.
