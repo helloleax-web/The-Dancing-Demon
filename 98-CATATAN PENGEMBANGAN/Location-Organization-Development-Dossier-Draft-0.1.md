@@ -245,3 +245,11 @@ Untuk memisahkan hak tanah, akses, penelitian, pemulihan, dan penjagaan dalam ko
 - **Fungsi naratif:** memberi bukti pembanding terhadap fragmen Buku I dan penanda Rookbridge, sekaligus memunculkan konflik hak atas salinan dan konteks informasi.
 - **Batas:** kemiripan format dokumen tidak membuktikan satu pembuat, satu jaringan, atau satu tujuan. Hubungan Hollow Vale dengan fasilitas Buku I tetap belum terbukti.
 - **Status:** NON-CANON. Location Bible tidak diubah.
+
+
+## Keputusan cerita Buku IV — Jalan Northglass — Draft 0.1 — 2026-11-20
+
+- **Keputusan draft:** Jalan Northglass digunakan sebagai rute menuju wilayah tempat batu bertulis yang dirujuk Hollow Vale ditemukan.
+- **Fungsi cerita:** jalur perjalanan dan akses ke punggung batu; peta regional hanya memberi jalur utama, sementara akses lama diketahui melalui catatan lokal.
+- **Batas:** posisi, jarak, kondisi geografis, batas politik, dan hubungan Jalan Northglass dengan lokasi lain tetap NON-CANON di luar kebutuhan outline Buku IV.
+- **Status:** tidak mengubah Location Bible.
