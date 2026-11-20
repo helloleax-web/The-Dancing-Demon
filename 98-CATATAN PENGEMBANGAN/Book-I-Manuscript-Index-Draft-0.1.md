@@ -38,3 +38,8 @@
 
 - [Book I Manga Storyboard Chapter 05 — Draft 0.1](Book-I-Manga-Storyboard-Chapter-05-Draft-0.1.md) — adaptasi 22 halaman untuk Bab 5, Scenes 14–17.
 - [Book I Manga Storyboard Chapter 06 — Draft 0.1](Book-I-Manga-Storyboard-Chapter-06-Draft-0.1.md) — adaptasi 12 halaman untuk Bab 6, Scenes 18–19.
+
+## Produksi manga
+
+- [Book I Manga Storyboard Index — Draft 0.1](Book-I-Manga-Storyboard-Index-Draft-0.1.md) — indeks enam storyboard, 118 halaman dan sekitar 604 panel.
+- [Book I Character Visual Design Brief — Draft 0.1](Book-I-Character-Visual-Design-Brief-Draft-0.1.md) — proposal desain visual Tavian, Seraphine, dan Kael untuk konsistensi storyboard.
