@@ -24,3 +24,8 @@
 ## Audit
 
 - [Book I Continuity Audit Report — Draft 0.1](Book-I-Continuity-Audit-Report-Draft-0.1.md) — hasil pemeriksaan kesesuaian premis, kontinuitas karakter, dan daftar isu editorial untuk revisi berikutnya.
+
+## Pedoman dan adaptasi manga
+
+- [Book I Prose Style Sheet — Draft 0.1](Book-I-Prose-Style-Sheet-Draft-0.1.md) — pedoman sudut pandang, bahasa, suara karakter, dan konstruksi adegan.
+- [Book I Manga Storyboard Chapter 01 — Draft 0.1](Book-I-Manga-Storyboard-Chapter-01-Draft-0.1.md) — adaptasi 18 halaman untuk Bab 1, Scenes 1–3.
