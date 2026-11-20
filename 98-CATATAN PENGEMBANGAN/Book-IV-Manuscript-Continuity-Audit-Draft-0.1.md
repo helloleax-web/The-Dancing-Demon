@@ -6,7 +6,7 @@
 ## 1. Hasil ringkas
 
 - Seluruh 20 scene outline telah memiliki prosa awal.
-- Manuskrip berjumlah sekitar 4,489 kata termasuk metadata dan catatan.
+- Manuskrip berjumlah sekitar 4,487 kata termasuk metadata dan catatan.
 - Nama NVR AGAIN muncul pertama kali pada Scene 14, melalui pembacaan bagian prasasti yang masih utuh.
 - Tidak ada penjelasan tentang makna nama, pembuat, referen, asal musik, mekanisme, atau hubungan dengan Great War.
 - Tidak ada informasi baru tentang LEAX.
@@ -57,9 +57,16 @@
 | 1 — Jejak di Luar Fasilitas | 1–5 | 1,218 |
 | 2 — Batu yang Tidak Terbaca | 6–10 | 1,059 |
 | 3 — Nama yang Terlepas | 11–15 | 1,089 |
-| 4 — Setelah Nama Ditemukan | 16–20 | 1,123 |
+| 4 — Setelah Nama Ditemukan | 16–20 | 1,121 |
 | **Total** | **1–20** | **4,489** |
 
 **Kesimpulan:** pass pertama memenuhi fungsi Buku IV pada tingkat struktur dan menjaga pengungkapan nama NVR AGAIN sesuai fakta CANON. Naskah belum final.
 
 **Dampak CANON: tidak ada.**
+
+
+## 7. Addendum — 2026-11-20
+
+- Scene 20 menyebut arsip Great War sebagai salah satu kemungkinan jalur riset berikutnya, bukan sebagai bukti bahwa kelompok sudah mengetahui hubungan NVR AGAIN dengan musik perang.
+- Kalimat narator yang menyiratkan referen nama lebih besar daripada batu dihapus. Referen tetap UNKNOWN.
+- Jumlah kata diperbarui menjadi sekitar 4.487 kata termasuk metadata dan catatan.
