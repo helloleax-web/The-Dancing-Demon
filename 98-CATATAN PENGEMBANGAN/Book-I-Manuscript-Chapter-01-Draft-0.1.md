@@ -1132,3 +1132,166 @@ Penemuan mereka tidak lagi hanya menjadi urusan ekspedisi.
 - Kehadiran perusahaan menggeser konflik dari eksplorasi menuju sengketa hak, tanpa menetapkan bahwa perusahaan otomatis memiliki fasilitas.
 - Kael menunjukkan bahwa kedatangan pihak luar tidak mengejutkannya, tetapi alasan lengkapnya tetap ditahan untuk Scene 13.
 - Penggunaan nama organisasi mengikuti nama yang telah tercantum dalam indeks CANON; fungsi dan keterlibatan spesifiknya dalam kejadian Buku I tetap merupakan keputusan cerita draft NON-CANON.
+
+
+---
+
+### Scene 11 — Klaim
+
+Wakil Vellum & Iron Recovery datang kembali pada pagi berikutnya.
+
+Kali ini ia tidak membawa seluruh rombongan. Hanya dua orang yang menemaninya: seorang pembawa dokumen dan seorang pengawas lapangan. Mereka meminta pertemuan dengan pihak yang bertanggung jawab atas ekspedisi, bukan hanya dengan Tavian atau Seraphine.
+
+Pertemuan dilakukan di tempat singgah tim survei. Peta kerja disimpan, perlengkapan pemeriksaan dijauhkan dari meja, dan catatan temuan tetap berada dalam wadah dokumentasi.
+
+Wakil perusahaan meletakkan sebuah map tipis di atas meja.
+
+“Ini salinan dokumen yang menjadi dasar kepentingan perusahaan kami,” katanya.
+
+Seraphine tidak langsung mengambilnya. “Kami perlu tahu apa yang Anda minta dari ekspedisi ini.”
+
+“Kami meminta pengakuan bahwa lokasi penemuan berada dalam cakupan hak pemulihan yang telah diberikan kepada perusahaan.”
+
+“Pengakuan dari siapa?”
+
+“Dari pihak yang saat ini menguasai dan melakukan kegiatan di lokasi.”
+
+Tavian melihat dokumen itu. Ada beberapa bagian yang ditandai, termasuk uraian wilayah dan jenis kegiatan yang diizinkan. Namun, salinan tersebut tidak memuat seluruh lampiran yang mungkin menjelaskan batas dan pengecualian.
+
+Seraphine akhirnya membuka map itu.
+
+Ia membaca halaman pertama, kemudian halaman berikutnya. Ia tidak terburu-buru. Sesekali ia berhenti untuk membandingkan istilah yang digunakan dalam dokumen dengan keterangan yang disampaikan wakil perusahaan.
+
+“Dokumen ini menyebut kegiatan pemulihan,” katanya. “Tidak ada penyebutan fasilitas yang belum teridentifikasi.”
+
+“Fasilitas tersebut berada di dalam wilayah yang tercakup.”
+
+“Apakah batas wilayah dalam lampiran mencakup bagian bawah bukit?”
+
+“Menurut penafsiran perusahaan, ya.”
+
+“Apakah ada ketentuan yang secara khusus memberi hak untuk memasuki struktur tertutup?”
+
+Wakil perusahaan menunjuk satu paragraf. “Hak akses untuk pemeriksaan dan pemulihan benda peninggalan.”
+
+“Pemeriksaan dan pemulihan adalah dua kegiatan yang berbeda.”
+
+“Keduanya tercantum dalam ruang lingkup pekerjaan.”
+
+“Namun, dokumen ini tidak menjelaskan bagaimana tindakan dilakukan jika struktur berisiko rusak atau jika ada sistem yang masih aktif.”
+
+Wakil itu menahan jeda sebelum menjawab. “Dokumen ini dibuat untuk kegiatan pemulihan pada wilayah yang telah dikenal. Kami tidak mengantisipasi penemuan fasilitas seperti ini secara spesifik.”
+
+“Berarti cakupannya masih perlu diperiksa.”
+
+“Berarti penerapannya perlu dibahas,” katanya. “Bukan berarti hak perusahaan tidak berlaku.”
+
+Tavian memperhatikan halaman yang terbuka. Ia tidak memiliki pengetahuan hukum untuk menentukan apakah dokumen tersebut sah atau bagaimana cakupannya harus ditafsirkan. Namun, ia dapat melihat bahwa klaim perusahaan tidak sepenuhnya tanpa dasar. Ada dokumen, ada uraian wilayah, dan ada jenis pekerjaan yang disebutkan.
+
+Masalahnya terletak pada apakah semua itu benar-benar mencakup fasilitas yang baru ditemukan.
+
+“Kami tidak bisa menyatakan lokasi ini milik perusahaan,” kata Seraphine. “Kami juga tidak bisa menyatakan dokumen ini tidak berlaku. Kami belum memiliki informasi yang cukup untuk keduanya.”
+
+Wakil perusahaan mengangguk kecil. “Itulah sebabnya kami datang untuk membicarakannya.”
+
+“Kalau begitu, kami membutuhkan salinan lengkap beserta lampirannya.”
+
+“Kami dapat mengajukan permintaan itu kepada kantor perusahaan.”
+
+“Dan sampai dokumen lengkap diperiksa, tidak ada pemulihan benda.”
+
+“Kami tidak meminta tim Anda melakukan pemulihan.”
+
+“Namun, perusahaan Anda datang membawa peralatan untuk itu.”
+
+“Peralatan dibawa untuk persiapan. Bukan bukti bahwa kami akan menggunakannya tanpa persetujuan.”
+
+Tavian melihat pengawas lapangan di samping wakil perusahaan. Orang itu tidak ikut berbicara. Ia hanya memeriksa catatan yang dibawanya, sesekali memandang ke arah bukit.
+
+Kael duduk di sisi meja, tidak banyak bergerak. Ia memperhatikan dokumen perusahaan dengan ketelitian yang berbeda dari Seraphine. Bukan pada batas wilayah atau istilah pekerjaan, melainkan pada nama pihak yang tercantum dan tanggal penerbitannya.
+
+“Kalian mengetahui lokasi ini dari laporan ekspedisi?” tanyanya.
+
+Wakil perusahaan menoleh. “Kami menerima informasi bahwa ada penemuan yang mungkin berada dalam cakupan pekerjaan kami.”
+
+“Dari siapa?”
+
+“Saya sudah menjelaskan bahwa saya tidak memiliki kewenangan membahas sumber informasi.”
+
+Kael mengangguk, seolah jawaban itu tidak mengejutkannya.
+
+Tavian menatap dokumen sekali lagi. “Kalau klaim ini hanya berlaku untuk pemulihan benda, apakah itu berarti perusahaan tidak mengklaim tanah di atas fasilitas?”
+
+Wakil perusahaan menjawab dengan hati-hati. “Perusahaan tidak sedang mengajukan klaim kepemilikan atas seluruh tanah. Kami menyatakan memiliki hak kontraktual untuk melakukan kegiatan tertentu di wilayah yang disebutkan.”
+
+“Jadi hak atas tanah dan hak pemulihan bukan hal yang sama,” kata Tavian.
+
+“Benar.”
+
+Seraphine menutup map itu. “Dan hak pemulihan tidak otomatis memberi hak untuk mengubah struktur atau mengambil benda yang belum dinilai.”
+
+Wakil perusahaan tidak membantah secara langsung. “Kami bersedia membahas batas kegiatan yang dapat dilakukan.”
+
+“Pembahasan itu harus melibatkan pihak yang memang memiliki kewenangan atas wilayah,” kata Seraphine. “Ekspedisi kami tidak bisa memberikan pengakuan atas nama mereka.”
+
+Untuk pertama kalinya, wakil perusahaan terlihat mempertimbangkan ulang arah pembicaraan.
+
+“Apakah ada pihak lokal yang sudah diberi tahu?” tanyanya.
+
+“Laporan penemuan telah dikirim melalui jalur ekspedisi,” jawab Tavian. “Kami belum menerima keputusan dari pihak yang berwenang atas wilayah.”
+
+“Kalau begitu, kita perlu menunggu jawaban mereka.”
+
+“Dan selama menunggu,” kata Seraphine, “akses tetap dibatasi. Tidak ada benda yang dipindahkan. Tidak ada bagian struktur yang dibongkar. Dokumentasi dapat dilakukan dari luar area yang telah disepakati.”
+
+Wakil perusahaan memandang map di hadapannya. Ia tidak menyetujui seluruh usulan, tetapi juga tidak menolaknya.
+
+“Kami akan menyampaikan posisi ini kepada perusahaan,” katanya. “Saya tidak dapat memberikan keputusan final hari ini.”
+
+“Begitu juga kami,” jawab Seraphine.
+
+Pertemuan berakhir tanpa kesepakatan kepemilikan.
+
+Wakil perusahaan membawa kembali dokumen aslinya dan meninggalkan salinan ringkas yang dapat diperiksa lebih lanjut. Mereka meminta agar tim survei tidak menyebarkan isi dokumen itu kepada pihak lain sebelum pembahasan berikutnya. Seraphine tidak menjanjikan hal tersebut; ia hanya mengatakan bahwa semua dokumen akan disimpan dan ditangani sesuai prosedur yang berlaku.
+
+Setelah rombongan itu pergi, Tavian kembali membuka catatannya.
+
+“Jadi mereka punya hak atas wilayah tertentu, tetapi kita belum tahu apakah hak itu mencakup fasilitas,” katanya.
+
+“Kita bahkan belum tahu seluruh isi dokumennya,” jawab Seraphine.
+
+“Kalau mereka benar-benar punya kontrak, mereka punya alasan untuk datang.”
+
+“Punya alasan untuk datang tidak sama dengan punya hak untuk melakukan apa pun.”
+
+Kael menyandarkan tubuhnya. “Dan menemukan tempat itu lebih dulu juga tidak membuat kita pemiliknya.”
+
+Tavian menatapnya. “Aku tidak pernah mengatakan begitu.”
+
+“Belum.”
+
+Seraphine mengumpulkan dokumen salinan. “Kita harus berhenti membicarakan ini seolah hanya ada dua pihak. Ada hak atas tanah, akses, penelitian, pemulihan, dan keselamatan. Semua itu tidak otomatis berada di tangan orang yang sama.”
+
+Tavian melihat ke arah bukit.
+
+Beberapa hari lalu, ia hanya ingin mengetahui mengapa peta resmi tidak cocok dengan jalur yang mereka lalui. Sekarang, mereka berhadapan dengan dokumen yang tidak dapat ia nilai, hak yang saling bertumpuk, dan pihak-pihak yang memiliki kepentingan berbeda.
+
+Ia menulis satu kalimat pada laporan:
+
+*Perusahaan menyampaikan dasar kontraktual untuk kegiatan pemulihan di wilayah sekitar penemuan. Cakupan terhadap fasilitas bawah tanah belum dapat dipastikan. Tidak ada pengakuan kepemilikan yang diberikan oleh tim ekspedisi.*
+
+Ia membaca ulang kalimat itu sebelum menutup buku.
+
+Untuk pertama kalinya, ia mengerti bahwa menemukan sesuatu tidak selalu berarti berhak menentukannya.
+
+---
+
+## Catatan tambahan Scene 11
+
+- Vellum & Iron Recovery menyampaikan salinan dokumen yang menurut perusahaan menjadi dasar hak pemulihan di wilayah tersebut.
+- Dokumen yang diperlihatkan belum lengkap; lampiran dan cakupan spesifik terhadap fasilitas bawah tanah belum diverifikasi.
+- Perusahaan membedakan klaim hak kontraktual untuk kegiatan tertentu dari kepemilikan seluruh tanah.
+- Seraphine menegaskan bahwa hak pemulihan tidak otomatis berarti hak membongkar struktur atau mengambil benda tanpa batas.
+- Tim ekspedisi tidak memiliki kewenangan untuk mengakui atau menolak hak perusahaan atas nama otoritas wilayah.
+- Tidak ada keputusan kepemilikan, izin pemulihan, atau kesepakatan final yang dibuat.
+- Detail dokumen, dialog, dan pertemuan adalah pengembangan naskah NON-CANON; tidak menetapkan hukum nasional atau struktur politik baru.
