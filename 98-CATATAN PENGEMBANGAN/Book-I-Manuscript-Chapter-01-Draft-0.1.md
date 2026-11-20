@@ -317,3 +317,157 @@ Dan untuk pertama kalinya sejak ekspedisi dimulai, ia tidak yakin jalur mana yan
 - Kael memperhatikan perubahan rute, tetapi belum mengungkap peta kedua atau alasan pribadinya.
 - Adegan ini menyiapkan kebutuhan dramatik bagi pengungkapan peta kedua pada Scene 4.
 - Semua detail adegan, dialog, dan karakterisasi tetap berstatus NON-CANON.
+
+
+---
+
+### Scene 4 — Peta Kedua
+
+Tavian sedang membandingkan dua lembar catatan ketika Kael menghentikan langkahnya.
+
+“Coba tunjukkan garis yang tadi kau gambar.”
+
+Tavian mengangkat kepala. “Untuk apa?”
+
+“Karena kau terus melihatnya seperti seseorang yang berharap garis itu berubah sendiri.”
+
+Seraphine, yang sedang merapikan perlengkapan dokumentasi, melirik mereka. Tavian menyerahkan salinan peta kerja. Kael membukanya di atas peti, menahan sudut-sudut kertas agar tidak terlipat tertiup angin.
+
+Ia memperhatikan garis resmi, lalu garis tipis yang dibuat Tavian. Jarinya berhenti pada bagian tempat kedua garis itu mulai berpisah.
+
+“Di sini,” katanya.
+
+“Empat titik pengukuran,” jawab Tavian. “Belum cukup untuk menetapkan rute baru.”
+
+“Aku tidak bilang cukup.”
+
+“Lalu?”
+
+Kael tidak menjawab. Ia membuka tasnya, mengeluarkan sebuah tabung kulit yang selama ini selalu dibawanya, lalu menarik keluar selembar kertas yang dilipat beberapa kali.
+
+Seraphine berhenti bekerja.
+
+“Peta apa itu?”
+
+“Peta.”
+
+“Aku bisa melihatnya.”
+
+“Kalau begitu, kita sudah sepakat tentang sesuatu.”
+
+Kael mengabaikan tatapan Seraphine dan membentangkan kertas itu di samping peta kerja Tavian. Kertas tersebut lebih tua, warnanya tidak merata, dan bagian tepinya telah aus. Garis-garisnya dibuat dengan tinta yang memudar. Tidak ada judul yang jelas, tidak ada nama wilayah yang langsung dapat dikenali, dan tidak ada skala yang bisa dibandingkan begitu saja dengan peta ekspedisi.
+
+Namun, satu bentuk di dalamnya menarik perhatian Tavian.
+
+Sebuah garis panjang yang berbelok mengikuti kontur, lalu berakhir pada tanda pendek menyerupai rangkaian batu.
+
+Tavian mendekat.
+
+“Dari mana kau mendapatkannya?”
+
+“Bukan pertanyaan pertama yang seharusnya kau ajukan.”
+
+“Kalau begitu, pertanyaan pertama apa?”
+
+“Apakah bentuknya cocok dengan yang kau temukan?”
+
+Tavian membandingkan kedua peta. Ia tidak langsung menyentuh kertas lama itu. Ia mengikuti garis dengan pandangan, mencari titik yang dapat dicocokkan dengan penanda, perubahan kontur, dan jarak yang sudah diukur.
+
+“Bagian ini mungkin sama,” katanya akhirnya. “Tapi belum bisa dipastikan.”
+
+“Kenapa?” tanya Seraphine.
+
+“Tidak ada skala yang jelas. Kita juga belum tahu apakah kedua peta menggunakan titik acuan yang sama. Bentuknya mirip, tetapi kemiripan bukan bukti bahwa ini rute yang sama.”
+
+Kael menatap Tavian sejenak. “Kau selalu membuat sesuatu terdengar lebih sulit.”
+
+“Memang lebih sulit daripada sekadar menunjuk garis.”
+
+Seraphine mengambil posisi di sisi lain peti. “Kapan kau berniat menunjukkan peta ini?”
+
+Kael melipat tangan. “Ketika ada alasan untuk menunjukkannya.”
+
+“Kau sudah tahu ada ketidaksesuaian sejak kemarin?”
+
+“Aku tahu ada bagian rute yang tidak cocok dengan informasi yang kubawa.”
+
+“Dan kau tidak mengatakan apa-apa.”
+
+“Aku belum tahu apakah informasiku bisa dipercaya.”
+
+Seraphine menahan pandangannya pada Kael. “Tapi kau tetap membiarkan kami bekerja dengan peta yang tidak lengkap.”
+
+“Aku tidak mengubah peta kalian. Aku tidak meminta kalian mengikuti garis ini. Aku menunggu sampai ada sesuatu di lapangan yang bisa dibandingkan.”
+
+“Itu penjelasan. Bukan pembenaran.”
+
+Kael tidak membantah.
+
+Tavian memandang kembali kedua lembar itu. Ada sesuatu yang membuatnya tidak nyaman, bukan hanya karena Kael menyimpan informasi, tetapi karena informasi tersebut sekarang tampak cukup relevan untuk mengubah arah pekerjaan mereka. Jika peta lama itu benar, selisih pengukuran yang ia catat mungkin bukan sekadar kesalahan. Jika salah, mereka bisa membuang waktu mengejar garis yang tidak memiliki hubungan dengan medan di hadapan mereka.
+
+“Apakah peta ini menunjukkan jalan yang masih bisa dilalui?” tanyanya.
+
+“Tidak tahu.”
+
+“Apakah kau tahu siapa yang membuatnya?”
+
+“Tidak.”
+
+“Apakah kau tahu kapan dibuat?”
+
+“Tidak.”
+
+“Jadi yang kau tahu hanya bahwa ada garis di atas kertas.”
+
+“Dan bahwa garis itu layak diperiksa.”
+
+Seraphine menghela napas pendek. “Kita tidak akan mengubah rute hanya berdasarkan benda yang tidak diketahui asal-usulnya.”
+
+“Aku tidak meminta itu,” kata Kael.
+
+Tavian menggeser peta kerja agar kedua lembar sejajar. “Kita bisa memakai ini sebagai petunjuk untuk pemeriksaan. Bukan sebagai rute resmi.”
+
+Seraphine memandangnya. “Kau yakin?”
+
+“Tidak. Tapi kita bisa menguji bagian yang bisa dicocokkan tanpa meninggalkan penanda ekspedisi. Kalau tidak cocok, kita berhenti.”
+
+Kael mengangguk, seolah keputusan itu sudah cukup baginya.
+
+Seraphine belum terlihat puas. “Peta ini harus didokumentasikan. Kita catat bahwa sumbernya belum diketahui, bahwa skalanya tidak tersedia, dan bahwa kecocokan rutenya belum diverifikasi.”
+
+“Silakan,” kata Kael.
+
+“Dan untuk selanjutnya, tidak ada informasi rute yang disimpan sendiri.”
+
+Kael menatapnya. “Kau meminta banyak hal dari seseorang yang baru saja menunjukkan satu-satunya benda menarik yang ia bawa.”
+
+“Aku meminta hal yang seharusnya sudah dilakukan sejak awal.”
+
+Tavian mengambil pensil. Ia menyalin bentuk garis pada peta lama ke lembar transparan miliknya, bukan langsung menambahkannya sebagai jalur yang sah. Ia memberi tanda tanya pada ujung garis dan menuliskan keterangan: *sumber tidak diketahui; perlu verifikasi lapangan.*
+
+Setelah selesai, ia mengembalikan peta lama kepada Kael.
+
+“Besok kita periksa bagian yang bisa dicocokkan,” katanya. “Tidak lebih jauh dari itu.”
+
+Kael menggulung petanya. “Untuk sementara, itu cukup.”
+
+Seraphine kembali ke perlengkapannya, tetapi suasana di antara mereka telah berubah. Sebelumnya, perbedaan mereka hanya soal cara membaca angka. Sekarang, ada satu informasi penting yang sejak awal tidak dibagikan oleh salah satu anggota kelompok.
+
+Tavian menyimpan salinan transparannya.
+
+Ia belum tahu apakah peta kedua itu akan membantu mereka menemukan sesuatu atau justru membawa mereka menjauh dari jalur yang seharusnya. Namun, setidaknya sekarang mereka memiliki sesuatu yang bisa diuji.
+
+Dan ia tahu satu hal lain.
+
+Mulai hari itu, ia tidak akan menganggap Kael sebagai orang yang sekadar kebetulan memiliki informasi tambahan.
+
+---
+
+## Catatan tambahan Scene 4
+
+- Kael memperlihatkan peta kedua yang telah ia simpan; peta tersebut menunjukkan garis rute yang mungkin cocok dengan ketidaksesuaian lapangan.
+- Asal-usul pembuat, waktu pembuatan, skala, dan tujuan peta tetap belum diketahui oleh kelompok.
+- Tavian memperlakukan peta sebagai petunjuk untuk diuji, bukan bukti final atau pengganti peta resmi.
+- Seraphine menuntut dokumentasi dan keterbukaan informasi setelah pengungkapan tersebut.
+- Pengungkapan ini membayar setup Scene 2–3 dan mengarahkan kelompok menuju pemeriksaan jalan batu pada Scene 5.
+- Detail dialog, tindakan, dan dinamika tetap merupakan keputusan naskah draft; tidak mengubah fakta CANON dunia di luar premis peta kedua yang sudah ditetapkan.
