@@ -468,3 +468,13 @@ Tidak ada perubahan CANON.
 - Menyelaraskan estimasi panel dengan jumlah penanda panel aktual.
 - Menjaga empat sumber informasi tetap terpisah dan menahan identifikasi batu bertulis sebagai Prasasti.
 - Semua storyboard tetap NON-CANON; belum ada thumbnail artistik atau layout final.
+
+
+## 2026-11-20 — Manuskrip Buku IV
+
+- Menulis pass pertama 20 scene Buku IV dalam empat bab kerja, sekitar 4.489 kata.
+- Membuat Manuscript Index dan Continuity Audit Report.
+- Menjaga pengungkapan NVR AGAIN pada Scene 14 setelah pembacaan Prasasti pertama; makna dan konteks tetap terbuka.
+- Menambahkan Jorren Hale ke Character Development Dossier sebagai penjaga jalur lokal, status NON-CANON.
+- Memperbarui Mystery Ledger M-04 untuk mencatat jendela pengungkapan nama.
+- Tidak ada perubahan CANON atau keputusan tentang LEAX.
