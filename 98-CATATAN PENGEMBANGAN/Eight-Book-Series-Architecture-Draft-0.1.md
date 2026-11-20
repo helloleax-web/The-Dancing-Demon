@@ -274,3 +274,12 @@ Jangan memakai misteri kosmik untuk menyelesaikan konflik lokal. Jangan pula mem
 - Ilyra Nym diperkenalkan sebagai penyalin naskah dan asisten arsip; Fasilitas Hollow Vale digunakan sebagai situs kedua yang berbeda dari fasilitas Buku I.
 - Rujukan kepada batu bertulis menjadi jembatan menuju Buku IV, tetapi belum diidentifikasi sebagai Prasasti.
 - Semua keputusan tetap NON-CANON dan tidak mengubah fakta tentang LEAX atau NVR AGAIN.
+
+
+## Pengembangan lanjutan Buku IV — 2026-11-20
+
+- [Book IV Scene Outline — Draft 0.1](Book-IV-Scene-Outline-Draft-0.1.md) mengembangkan penemuan Prasasti pertama dalam 20 scene.
+- [Book IV Character Knowledge and Continuity Matrix — Draft 0.1](Book-IV-Character-Knowledge-Matrix-Draft-0.1.md) menjaga jendela pengungkapan nama NVR AGAIN.
+- [Book IV Outline Audit Report — Draft 0.1](Book-IV-Outline-Audit-Report-Draft-0.1.md) memeriksa kesesuaian dengan fakta CANON Prasasti dan Great War.
+- Nama NVR AGAIN baru muncul setelah penemuan Prasasti pertama; makna dan konteksnya tetap terbuka.
+- Tidak ada keputusan baru tentang LEAX.
