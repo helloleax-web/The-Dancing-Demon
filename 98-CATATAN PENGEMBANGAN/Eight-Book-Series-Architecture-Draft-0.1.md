@@ -117,6 +117,9 @@
 
 **Batas:** jangan mengubah catatan yang saling bertentangan menjadi satu jawaban final tanpa keputusan naratif.
 
+
+Dokumen pengembangan: [Book V Development Index — Draft 0.1](Book-V-Development-Index-Draft-0.1.md), [Scene Outline](Book-V-Scene-Outline-Draft-0.1.md), [Outline Audit](Book-V-Outline-Audit-Report-Draft-0.1.md).
+
 ### Buku VI — Dunia yang Gelisah
 
 **Fungsi:** memperbesar relevansi entitas kosmik melalui anomali dan perubahan persepsi, bukan melalui kemunculan monster konvensional.
