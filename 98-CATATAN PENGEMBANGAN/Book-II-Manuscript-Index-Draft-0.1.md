@@ -27,3 +27,9 @@
 - Ini adalah pass pertama, bukan naskah final Buku II.
 - Tahap berikutnya: revisi prosa, pematangan karakter, audit waktu/geografi, dan adaptasi storyboard.
 - Semua detail baru tetap NON-CANON.
+
+
+## Adaptasi manga
+
+- [Book II Manga Storyboard Index — Draft 0.1](Book-II-Manga-Storyboard-Index-Draft-0.1.md) — 110 halaman, 570 panel, mencakup seluruh 20 scene.
+- [Book II Manga Storyboard Audit — Draft 0.1](Book-II-Manga-Storyboard-Audit-Report-Draft-0.1.md) — pemeriksaan urutan informasi, sumber peta, karakter, dan batas misteri.
