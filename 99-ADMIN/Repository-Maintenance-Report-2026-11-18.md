@@ -370,3 +370,9 @@ Tidak ada perubahan CANON.
 - Bab 1–6 mencakup semua 19 scene dan mempertahankan catatan tambahan masing-masing scene.
 - Pemisahan file bukan finalisasi cerita; audit kontinuitas, revisi prosa, dan adaptasi manga masih diperlukan.
 - Tidak ada perubahan CANON atau materi LEAX.
+
+
+## Koreksi kontinuitas — Scene 19 — 2026-11-20
+
+- Adegan pesan Kael disesuaikan: pesan dibakar hingga tidak terbaca, tetapi sisa kertas hangus tetap disimpan, sesuai rumusan CANON.
+- Character Knowledge Matrix diperbarui. Tidak ada perubahan fakta CANON.
