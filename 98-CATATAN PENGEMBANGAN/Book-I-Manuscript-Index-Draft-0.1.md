@@ -11,7 +11,7 @@
 3. [Bab 3 — Ambang Fasilitas](Book-I-Manuscript-Chapter-03-Draft-0.1.md) — Scenes 7–9 (2,722 kata)
 4. [Bab 4 — Klaim dan Harga Sebuah Informasi](Book-I-Manuscript-Chapter-04-Draft-0.1.md) — Scenes 10–13 (4,667 kata)
 5. [Bab 5 — Bangunan yang Mengunci](Book-I-Manuscript-Chapter-05-Draft-0.1.md) — Scenes 14–17 (3,926 kata)
-6. [Bab 6 — Peta Tanpa Negeri](Book-I-Manuscript-Chapter-06-Draft-0.1.md) — Scenes 18–19 (1,265 kata)
+6. [Bab 6 — Peta Tanpa Negeri](Book-I-Manuscript-Chapter-06-Draft-0.1.md) — Scenes 18–19 (1,297 kata)
 
 ## Catatan struktur
 
