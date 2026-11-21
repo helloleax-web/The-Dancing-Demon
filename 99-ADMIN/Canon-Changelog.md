@@ -702,3 +702,19 @@ Matriks rotasi R0.2 diperiksa ulang dan diperbaiki agar ortogonal (deviasi maksi
 - Batas interpretasi dipertahankan: status CANON mengesahkan keberadaan naskah sebagai dokumen in-world, bukan kebenaran objektif seluruh dugaan penafsir.
 - Dokumen yang diperbarui: 12 file naskah di `01-CANON/`, `01-CANON/Thirteen-Prasasti.md`, `00-CORE/06-Tiga-Belas-Prasasti.md`, `00-CORE/09-Kanon-dan-Kontinuitas.md`, `00-CORE/00-README.md`, `README.md`, `BACA-DULU.md`, dan dokumen ini.
 - Apakah ini retcon?: Tidak. Ini konsolidasi arsip dan navigasi; isi lore serta isi naskah tidak diubah.
+
+
+## Canonisasi fondasi seri dan arc Tavian — 2026-11-22
+
+- **Keputusan:** Mengesahkan *Series Spine & Narrative Framework* sebagai fondasi naratif CANON untuk seri utama delapan buku.
+- **Arah seri yang disahkan:** petualangan dan perjalanan menjadi pengalaman utama; misteri dibangun melalui bukti; penemuan memiliki konsekuensi; keputusan karakter menggerakkan plot; skala konflik berkembang bertahap; ketidakpastian tetap menjadi bagian cerita; kehidupan sehari-hari dan hubungan kelompok tetap penting.
+- **Pusat emosional:** sekelompok orang dengan kepentingan awal masing-masing secara bertahap membangun kepercayaan, hubungan, dan tanggung jawab bersama.
+- **Struktur konflik:** empat lapisan resmi adalah perjalanan/kehidupan, kepentingan/informasi, sejarah, dan kosmik. Lapisan-lapisan ini dapat saling memengaruhi tanpa harus selalu memiliki penyebab yang sama.
+- **Fungsi delapan buku:** ditetapkan mengikuti tahapan lokal, regional, antarwilayah, historis/internasional, rekonstruksi Great War, perluasan relevansi kosmik, rangkaian 13 Prasasti, dan konvergensi perjalanan karakter serta misteri.
+- **Keputusan Tavian:** motivasi awalnya menggabungkan pengakuan profesional dan kemandirian hidup. Rasa ingin tahu terhadap dunia berkembang selama perjalanan, bukan menjadi obsesi atau takdir sejak awal.
+- **Kelemahan inti Tavian:** kecenderungan terlalu percaya bahwa data yang cukup dapat menyelesaikan masalah. Arah arc-nya menekankan tanggung jawab atas penggunaan informasi, pertimbangan terhadap manusia yang terdampak, kerja sama, dan penerimaan batas pengetahuan.
+- **Batas yang tidak berubah:** tidak ditetapkan antagonis tunggal, identitas kontak Kael, isi objektif atau fungsi 13 Prasasti, motif/bentuk/kesadaran/batas Abstract Existence, keadaan akhir LEAX, hubungan final kelompok, atau detail spesifik ending Buku VIII. Hal-hal tersebut tetap UNKNOWN/MYSTERY/OPEN QUESTION.
+- **Dokumen CANON baru:** `01-CANON/Series-Spine-and-Narrative-Framework.md` dan `01-CANON/Tavian-Character-Arc.md`.
+- **Dokumen yang diselaraskan:** `01-CANON/Character-Bible.md`, `00-CORE/09-Kanon-dan-Kontinuitas.md`, dan `99-ADMIN/Open-Questions.md`.
+- **Status draft lama:** dokumen di `98-CATATAN PENGEMBANGAN/` tetap disimpan sebagai rekam pengembangan; jika isinya tumpang tindih dengan dua dokumen CANON baru, dokumen CANON menjadi rujukan otoritatif.
+- **Apakah ini retcon?:** Tidak. Ini adalah pengesahan arah naratif dan pengembangan karakter yang sebelumnya belum ditetapkan; tidak mengubah fakta sejarah, kosmologi, atau naskah 13 Prasasti.
