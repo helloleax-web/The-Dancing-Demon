@@ -14,6 +14,12 @@ batas informasi yang belum boleh diisi.
 
 ## Fakta inti
 
+-   Seri utama *The Dancing Demon* mengikuti Tavian Rell dan kelompok perjalanan melalui petualangan, pekerjaan, penemuan, serta konflik informasi yang berkembang dari lokal menuju sejarah dan misteri kosmik.
+-   Pusat emosional seri adalah hubungan dan tanggung jawab yang tumbuh di antara orang-orang dengan kepentingan awal masing-masing.
+-   Tavian memulai cerita dengan motivasi pengakuan profesional dan kemandirian hidup; rasa ingin tahunya terhadap dunia berkembang selama perjalanan.
+-   Kelemahan inti Tavian adalah kecenderungan terlalu percaya bahwa data yang cukup dapat menyelesaikan masalah. Arc-nya bergerak menuju tanggung jawab atas penggunaan informasi, kerja sama, dan penerimaan batas pengetahuan.
+-   Fondasi naratif dan fungsi delapan buku ditetapkan dalam `01-CANON/Series-Spine-and-Narrative-Framework.md`; arc Tavian ditetapkan dalam `01-CANON/Tavian-Character-Arc.md`.
+
 -   Masyarakat masa kini secara umum menyerupai fantasi abad
     pertengahan.
 -   Peninggalan kuno berasal dari Bumi modern sebagaimana dikenal
