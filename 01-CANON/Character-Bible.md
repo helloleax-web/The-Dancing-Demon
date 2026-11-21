@@ -28,20 +28,34 @@ Nama keenam karakter tersebut dinyatakan sebagai nama yang telah ditetapkan dala
 
 ### Fakta CANON
 
-- **Identitas:** Tavian Rell; protagonis cerita. Sumber: [`00-CORE/08-Cerita-dan-Rencana-Delapan-Buku.md`](../00-CORE/08-Cerita-dan-Rencana-Delapan-Buku.md), bagian “Premis” dan “Buku I”; [`99-ADMIN/Open-Questions.md`](../99-ADMIN/Open-Questions.md), bagian “Cerita”.
-- **Spesies:** manusia. Sumber: [`00-CORE/07-Karakter-Lokasi-dan-Organisasi.md`](../00-CORE/07-Karakter-Lokasi-dan-Organisasi.md), bagian “Karakter”.
-- **Jenis kelamin:** laki-laki. Sumber: [`00-CORE/07-Karakter-Lokasi-dan-Organisasi.md`](../00-CORE/07-Karakter-Lokasi-dan-Organisasi.md), bagian “Karakter”.
-- **Usia:** 21 tahun. Sumber: [`00-CORE/07-Karakter-Lokasi-dan-Organisasi.md`](../00-CORE/07-Karakter-Lokasi-dan-Organisasi.md), bagian “Karakter”.
-- **Pekerjaan/peran:** asisten survei; mengikuti ekspedisi pemetaan jalur utara. Sumber: [`00-CORE/07-Karakter-Lokasi-dan-Organisasi.md`](../00-CORE/07-Karakter-Lokasi-dan-Organisasi.md), bagian “Karakter”; [`00-CORE/08-Cerita-dan-Rencana-Delapan-Buku.md`](../00-CORE/08-Cerita-dan-Rencana-Delapan-Buku.md), bagian “Premis” dan “Buku I”.
-- **Latar cerita yang ditetapkan:** ikut dalam penemuan jalan tersembunyi menuju fasilitas bawah tanah peninggalan Bumi kuno. Sumber: [`00-CORE/01-Ringkasan-Dunia.md`](../00-CORE/01-Ringkasan-Dunia.md), bagian “Awal cerita”; [`00-CORE/08-Cerita-dan-Rencana-Delapan-Buku.md`](../00-CORE/08-Cerita-dan-Rencana-Delapan-Buku.md), bagian “Buku I”.
+- **Identitas:** Tavian Rell; protagonis seri.
+- **Spesies, jenis kelamin, usia:** manusia, laki-laki, 21 tahun.
+- **Pekerjaan/peran:** asisten survei; mengikuti ekspedisi pemetaan jalur utara dalam Buku I.
+- **Latar cerita:** ikut dalam penemuan jalan tersembunyi menuju fasilitas bawah tanah peninggalan Bumi kuno.
+- **Motivasi awal:** ingin membuktikan dirinya mampu menjadi surveyor yang dapat diandalkan melalui hasil kerjanya sendiri, sekaligus membangun kehidupan yang mandiri melalui pekerjaan, penghasilan, dan kemampuan menentukan arah hidupnya.
+- **Perkembangan rasa ingin tahu:** ketertarikan Tavian terhadap wilayah yang belum dipetakan dan penemuan yang tidak dapat dijelaskan tumbuh sepanjang perjalanan. Ia tidak memulai cerita sebagai sosok yang ditakdirkan mengungkap rahasia dunia.
+- **Kelemahan inti:** cenderung terlalu percaya bahwa masalah dapat diselesaikan jika ia memiliki data yang cukup. Hal ini dapat membuatnya menunda keputusan, menganggap pengukuran akurat otomatis menghasilkan keputusan benar, dan terlambat memahami konteks yang tidak tercatat dalam peta.
+- **Arah perkembangan:** belajar bahwa kompetensi juga berarti bertanggung jawab atas penggunaan informasi, mempertimbangkan manusia yang terdampak, bekerja bersama orang lain, dan menerima batas pengetahuannya.
+- **Tindakan pada penutup Buku I:** menambahkan tanda baru pada petanya.
+
+Rujukan motivasi dan arc: [Tavian Rell — Motivasi Inti dan Arc Karakter](Tavian-Character-Arc.md). Rujukan struktur seri: [Series Spine & Narrative Framework](Series-Spine-and-Narrative-Framework.md).
 
 ### UNKNOWN
 
-- Kepribadian, humor, penampilan/desain visual, keluarga dan latar belakang pribadi, kemampuan, motivasi pribadi, hubungan personal, serta konflik dan perkembangan khusus Tavian belum dijelaskan dalam sumber karakter yang tersedia.
+- Keluarga dan masa kecil.
+- Pendidikan dan riwayat pekerjaan sebelum Buku I.
+- Alasan personal pertama ia memilih pekerjaan survei.
+- Kondisi ekonomi rinci.
+- Kepribadian di luar motivasi dan kelemahan yang telah ditetapkan.
+- Penampilan dan desain visual final.
+- Kemampuan di luar pekerjaan survei.
+- Ketakutan personal terdalam dan batas moral spesifik.
+- Hubungan romantis atau keluarga.
+- Keputusan dan keadaan spesifik pada akhir Buku VIII.
 
-### OPEN QUESTION
+### Catatan kontinuitas
 
-- Kelengkapan profil, dinamika, serta perkembangan karakter yang belum terdokumentasi masih perlu dikerjakan. Sumber: [`99-ADMIN/Open-Questions.md`](../99-ADMIN/Open-Questions.md), bagian “Cerita”.
+Motivasi dan arc di atas adalah CANON. Detail biografi yang tercantum sebagai UNKNOWN tidak boleh diisi otomatis hanya untuk melengkapi profil.
 
 ## Seraphine Veyra
 
