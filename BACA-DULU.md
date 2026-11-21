@@ -3,6 +3,9 @@
 Paket ini berisi dokumen selain `00-CORE`, sehingga tidak mengulang 10 dokumen inti yang sudah berada di repository. Untuk mulai membaca dokumentasi inti, buka [indeks 00-CORE](00-CORE/00-README.md). Folder `00-CORE/` berfungsi sebagai ringkasan, indeks, dan navigasi; `01-CANON/` berisi rujukan detail untuk fakta yang telah ditetapkan.
 
 ## Isi paket
+## Koleksi 13 Prasasti
+Seluruh naskah interpretasi Prasasti I–XIII yang berstatus CANON berada di [`01-CANON/Thirteen-Prasasti.md`](01-CANON/Thirteen-Prasasti.md). Indeks tersebut menautkan setiap naskah dan menjelaskan batas antara catatan penafsir in-world dengan fakta objektif dunia.
+
 - `01-CANON/` — dokumen kanon yang sudah ada pada arsip sumber.
 - `01-CANON/Character-Bible.md` — dokumentasi karakter berdasarkan fakta yang tercantum dalam repository; informasi yang belum ditentukan tetap ditandai.
 - `01-CANON/Location-Bible.md` — dokumentasi lokasi berdasarkan fakta yang tercantum dalam repository; informasi dan hubungan yang belum ditentukan tetap ditandai.
