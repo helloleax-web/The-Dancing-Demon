@@ -718,3 +718,18 @@ Matriks rotasi R0.2 diperiksa ulang dan diperbaiki agar ortogonal (deviasi maksi
 - **Dokumen yang diselaraskan:** `01-CANON/Character-Bible.md`, `00-CORE/09-Kanon-dan-Kontinuitas.md`, dan `99-ADMIN/Open-Questions.md`.
 - **Status draft lama:** dokumen di `98-CATATAN PENGEMBANGAN/` tetap disimpan sebagai rekam pengembangan; jika isinya tumpang tindih dengan dua dokumen CANON baru, dokumen CANON menjadi rujukan otoritatif.
 - **Apakah ini retcon?:** Tidak. Ini adalah pengesahan arah naratif dan pengembangan karakter yang sebelumnya belum ditetapkan; tidak mengubah fakta sejarah, kosmologi, atau naskah 13 Prasasti.
+
+
+## Canonisasi ensemble karakter utama — 2026-11-22
+
+- **Keputusan:** Mengesahkan fungsi naratif, motivasi inti, kekuatan, kelemahan, dan arah arc utama enam karakter yang telah tercantum dalam indeks: Tavian Rell, Seraphine Veyra, Kael Veyron, Mira Solenne, Daren Holt, dan Ilyra Nym.
+- **Seraphine Veyra:** peneliti lapangan yang menjaga metodologi dan batas antara observasi, hipotesis, serta kesimpulan; motivasinya mengumpulkan bukti terverifikasi dan menjaga temuan agar tidak rusak atau disalahgunakan. Arc-nya menyeimbangkan preservasi pengetahuan dengan keselamatan manusia.
+- **Kael Veyron:** perantara informasi yang mempertahankan akses jaringan dan nilai tawar; kelemahannya memperlakukan kepercayaan sebagai transaksi dan menyimpan terlalu banyak informasi. Arc-nya menuntut pertanggungjawaban atas konsekuensi informasi yang ia perdagangkan.
+- **Mira Solenne:** pemandu rute lokal dan penyalin peta, diperkenalkan di Bellwether pada Buku II; menjaga pengetahuan rute masyarakat dan belajar memilih kapan pengetahuan dibagikan atau dilindungi.
+- **Daren Holt:** pekerja lapangan berpengalaman dan pengawal rute, diperkenalkan di Rookbridge pada Buku II; berfokus pada keselamatan perjalanan dan belajar bahwa tanggung jawab kadang menuntut risiko yang diperhitungkan.
+- **Ilyra Nym:** penyalin naskah dan asisten arsip, diperkenalkan dalam Buku III; membantu perbandingan dokumen dan belajar mempertahankan beberapa hipotesis sampai bukti mencukupi.
+- **Tavian Rell:** motivasi dan arc utamanya tetap dirujuk dalam `01-CANON/Tavian-Character-Arc.md`.
+- **Dokumen yang diperbarui:** `01-CANON/Character-Bible.md`, `00-CORE/07-Karakter-Lokasi-dan-Organisasi.md`, `99-ADMIN/Open-Questions.md`, dan dokumen ini.
+- **Batas yang dipertahankan:** usia, spesies yang belum ditetapkan, keluarga, pendidikan, desain visual final, hubungan personal, kemampuan khusus, serta rincian plot dan arc per buku tetap UNKNOWN/OPEN QUESTION. Proposal tentang Iven Rusk, Jorren Hale, kurator, kontrak Kael, dan hubungan organisasi yang lebih luas tidak otomatis menjadi CANON.
+- **Status dossier:** `98-CATATAN PENGEMBANGAN/Character-Development-Dossier-Draft-0.1.md` tetap menjadi arsip pengembangan. Hanya materi enam karakter yang secara eksplisit dipindahkan ke Character Bible yang disahkan; materi tambahan lain tetap NON-CANON.
+- **Apakah ini retcon?:** Tidak. Ini pengesahan profil inti dan arah arc karakter; tidak mengubah misteri historis atau kosmologis.
