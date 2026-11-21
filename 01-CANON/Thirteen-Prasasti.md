@@ -1,24 +1,43 @@
 # Thirteen Prasasti
 
-**Status: CANON bahwa terdapat 13 Prasasti. Rincian isi, lokasi, pembuat, dan fungsi tetap UNKNOWN kecuali yang secara khusus ditetapkan dalam catatan lore atau naskah in-world yang telah disahkan.**
+**Status:** CANON bahwa terdapat 13 Prasasti dan bahwa naskah-naskah interpretasi berikut merupakan dokumen CANON in-world. Isi interpretasi adalah perspektif penafsir, bukan konfirmasi otomatis atas kebenaran objektif setiap dugaan di dalamnya.
+
+## Daftar naskah
+
+| No. | Nama Prasasti / judul arsip | Naskah |
+|---:|---|---|
+| I | NVR AGAIN | [Prasasti I — NVR AGAIN](Prasasti-I-NVR-AGAIN.md) |
+| II | Dover Street Market | [Prasasti II — Dover Street Market](Prasasti-II-Dover-Street-Market.md) |
+| III | Dancing with Your Eyes Closed | [Prasasti III — Dancing with Your Eyes Closed](Prasasti-III-Dancing-with-Your-Eyes-Closed.md) |
+| IV | UNDEAD | [Prasasti IV — UNDEAD](Prasasti-IV-UNDEAD.md) |
+| V | Young Girl A (少女A) | [Prasasti V — Young Girl A](Prasasti-V-Young-Girl-A.md) |
+| VI | Seruan untuk Bangkit | [Prasasti VI — Seruan untuk Bangkit](Prasasti-VI-Seruan-untuk-Bangkit.md) |
+| VII | Raja dari Malam | [Prasasti VII — Raja dari Malam](Prasasti-VII-Raja-dari-Malam.md) |
+| VIII | Melawan Para Iblis | [Prasasti VIII — Melawan Para Iblis](Prasasti-VIII-Melawan-Para-Iblis.md) |
+| IX | Jalan yang Berliku | [Prasasti IX — Jalan yang Berliku](Prasasti-IX-Jalan-yang-Berliku.md) |
+| X | Arloji yang Bukan Mainan | [Prasasti X — Arloji yang Bukan Mainan](Prasasti-X-Arloji-yang-Bukan-Mainan.md) |
+| XI | Semua Gadis Serupa | [Prasasti XI — Semua Gadis Serupa](Prasasti-XI-Semua-Gadis-Serupa.md) |
+| XII | Perampasan Hati | [Prasasti XII — Perampasan Hati](Prasasti-XII-Perampasan-Hati.md) |
+| XIII | Labirin (Maze) | [Prasasti XIII — Labirin (Maze)](Prasasti-XIII-Labirin-Maze.md) |
+
+**Catatan judul:** daftar di atas memakai nama yang tercantum pada arsip naskah. Terjemahan judul tidak selalu dimaksudkan sebagai judul asli lantunan. Metadata seperti artis, pencipta, tanggal, asal, dan konteks dunia asal tidak ditetapkan oleh indeks ini.
 
 ## Fakta terkait
-- Terdapat 13 Prasasti.
+
 - Penemuan Prasasti pertama mengungkap nama NVR AGAIN, yang sebelumnya tidak diketahui sebagai nama musik yang terdengar selama Great War.
 - LEAX menghilang setelah Great War dan tidak tersedia untuk menjelaskan 13 Prasasti.
-- Naskah penafsiran in-world untuk **Prasasti XIII — Labirin (Maze)** telah disahkan. Pengesahan berlaku atas keberadaan dan isi naskah sebagai dokumen penafsiran seorang keturunan LEAX, bukan atas kebenaran objektif semua dugaan penafsir di dalamnya.
+- Ketiga belas naskah di atas ditulis sebagai interpretasi seorang keturunan LEAX dari sudut pandang in-world. Setiap naskah harus dibaca sesuai batas pengetahuan penafsirnya.
 
-## Naskah Prasasti yang telah didokumentasikan
-- [Prasasti XIII — Labirin (Maze)](Prasasti-XIII-Labirin-Maze.md) — naskah interpretasi in-world; dugaan penafsir tetap subjektif dan tidak otomatis menjadi fakta dunia.
+## Batas canon dan hal yang belum ditentukan
 
-## Belum ditentukan
-- Isi objektif setiap Prasasti di luar hal yang secara eksplisit telah ditetapkan.
-- Lokasi masing-masing.
-- Urutan penemuan selain informasi tentang Prasasti pertama.
+Pengesahan naskah berlaku atas keberadaan naskah dan isi catatan penafsir sebagai artefak dokumenter. Pengesahan **tidak** menjadikan setiap tafsir, dugaan, identifikasi, atau kesimpulan penafsir sebagai fakta objektif dunia.
+
+Hal-hal berikut tetap UNKNOWN kecuali ditetapkan secara terpisah oleh kreator:
+- Isi objektif Prasasti di luar apa yang secara eksplisit telah ditetapkan.
+- Lokasi masing-masing Prasasti dan urutan penemuannya.
+- Pembuat, asal, periode, dan fungsi setiap Prasasti.
 - Apakah Prasasti saling terhubung secara langsung.
-- Siapa pembuatnya.
-- Apakah semuanya berasal dari periode yang sama.
-- Apakah Prasasti menjelaskan LEAX, Great War, NVR AGAIN, atau hal lain.
-- Apakah Prasasti XIII pernah digunakan dalam suatu pekerjaan sihir atau merupakan bagian dari metode sihir.
+- Apakah seluruh lantunan berasal dari satu orang atau satu konteks.
+- Hubungan objektif Prasasti dengan LEAX, Great War, NVR AGAIN, atau sihir.
 
-**Aturan pembacaan:** keberadaan sebuah naskah penafsiran yang telah disahkan tidak berarti setiap klaim, dugaan, atau kesimpulan penulisnya benar secara objektif. Bedakan fakta bahwa penafsir menulis sesuatu dari kebenaran hal yang ia tafsirkan.
+**Aturan pembacaan:** bedakan fakta bahwa seorang penafsir menulis sesuatu dari kebenaran hal yang ia tafsirkan. Ketidaktahuan, salah tafsir, dan hipotesis pribadi penafsir merupakan bagian dari perspektif in-world dan tidak boleh diam-diam diubah menjadi pengetahuan objektif.
