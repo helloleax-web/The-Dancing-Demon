@@ -1,6 +1,6 @@
 # Open Questions and Unresolved Details
 
-Dokumen ini mencatat hal yang belum ditentukan. Pertanyaan terbuka dapat dikembangkan menjadi CATATAN PENGEMBANGAN di bawah mandat editorial aktif, tetapi tidak otomatis menjadi CANON. Pertahankan MYSTERY yang memang dibutuhkan cerita. Lihat [Editorial and Repository Maintenance Policy](Editorial-Maintenance-Policy.md).
+Dokumen ini mencatat hal yang belum ditentukan. Pertanyaan terbuka dapat dikembangkan menjadi CATATAN PENGEMBANGAN di bawah mandat editorial aktif, tetapi tidak otomatis menjadi CANON. Fondasi naratif seri dan motivasi inti serta arc Tavian telah disahkan dalam `01-CANON/Series-Spine-and-Narrative-Framework.md` dan `01-CANON/Tavian-Character-Arc.md`. Pertahankan MYSTERY yang memang dibutuhkan cerita. Lihat [Editorial and Repository Maintenance Policy](Editorial-Maintenance-Policy.md).
 
 ## Dunia dan kosmologi
 - Nama dunia.
@@ -52,6 +52,7 @@ Dokumen ini mencatat hal yang belum ditentukan. Pertanyaan terbuka dapat dikemba
 ## Cerita
 - Identitas protagonis Tavian Rell dan karakter utama yang telah ditetapkan merupakan CANON dan tidak dipertanyakan kembali.
 - Kelengkapan daftar tokoh utama dan karakter pendukung masih dapat dikembangkan.
-- Profil lengkap, dinamika, dan perkembangan karakter yang belum terdokumentasi masih perlu dikerjakan.
-- Konflik utama dan antagonis.
-- Urutan arc dan ending.
+- Profil lengkap, dinamika, dan perkembangan karakter selain arc inti Tavian yang telah ditetapkan masih perlu dikerjakan.
+- Identitas dan fungsi antagonis atau pihak yang menjadi oposisi berulang; seri tidak mewajibkan satu antagonis tunggal.
+- Detail urutan peristiwa, resolusi konflik, dan ending Buku VIII.
+- Profil, motivasi, dinamika, dan arc Seraphine, Kael, Mira, Daren, serta Ilyra yang belum disahkan.
