@@ -28,6 +28,10 @@ Dokumen ini adalah pusat dokumentasi dunia LEAX. Isinya memisahkan fakta yang su
 - [Repository Maintenance Report — 2026-11-18](99-ADMIN/Repository-Maintenance-Report-2026-11-18.md) — catatan pemeliharaan atlas dan matriks worldbuilding terbaru.
 - [Editorial and Repository Maintenance Policy](99-ADMIN/Editorial-Maintenance-Policy.md) — mandat editorial, status materi, hierarki sumber, dan standar pemeliharaan.
 
+### Rujukan CANON cerita
+- [Series Spine & Narrative Framework](01-CANON/Series-Spine-and-Narrative-Framework.md) — fondasi naratif dan fungsi delapan buku.
+- [Tavian Rell — Character Arc](01-CANON/Tavian-Character-Arc.md) — motivasi inti, kelemahan, dan perkembangan protagonis.
+
 ### Materi pengembangan terbaru
 - [Character Development Dossier — Draft 0.1](98-CATATAN%20PENGEMBANGAN/Character-Development-Dossier-Draft-0.1.md) — rancangan motivasi, kepribadian, kelemahan, dan arc enam karakter.
 - [Book I Scene Outline — Draft 0.1](98-CATATAN%20PENGEMBANGAN/Book-I-Scene-Outline-Draft-0.1.md) — kerangka 19 adegan Buku I.
