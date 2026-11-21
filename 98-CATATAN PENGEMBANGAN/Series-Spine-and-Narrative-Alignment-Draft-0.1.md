@@ -1,5 +1,7 @@
 # The Dancing Demon — Series Spine & Narrative Alignment — Draft 0.1
 
+
+> **Catatan status — 2026-11-22:** Materi inti dokumen ini telah ditinjau dan disahkan sebagai CANON dalam [`01-CANON/Series-Spine-and-Narrative-Framework.md`](../01-CANON/Series-Spine-and-Narrative-Framework.md). File ini dipertahankan sebagai arsip proses Draft 0.1; jika terdapat perbedaan, dokumen CANON menjadi rujukan utama. Bagian yang dahulu ditandai sebagai pertanyaan terbuka tetap terbuka kecuali dinyatakan telah disahkan.
 **Status: CATATAN PENGEMBANGAN / NON-CANON.**  
 **Tanggal:** 2026-11-22  
 **Basis utama:** `00-CORE/08-Cerita-dan-Rencana-Delapan-Buku.md`, Eight-Book Series Architecture Draft 0.1, Character Development Dossier Draft 0.1, Mystery and Foreshadowing Ledger Draft 0.1, Character Bible, Cosmology and the Cosmic Entity, Great War and Resonansi Hitam, serta Thirteen Prasasti.
