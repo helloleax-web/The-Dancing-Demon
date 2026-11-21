@@ -61,81 +61,88 @@ Motivasi dan arc di atas adalah CANON. Detail biografi yang tercantum sebagai UN
 
 ### Fakta CANON
 
-- **Identitas:** Seraphine Veyra; namanya tercantum dalam indeks karakter. Sumber: [`00-CORE/07-Karakter-Lokasi-dan-Organisasi.md`](../00-CORE/07-Karakter-Lokasi-dan-Organisasi.md), bagian “Karakter”.
-- **Pekerjaan/peran:** peneliti lapangan; mengikuti ekspedisi pemetaan Buku I bersama Tavian dan Kael. Sumber: [`00-CORE/08-Cerita-dan-Rencana-Delapan-Buku.md`](../00-CORE/08-Cerita-dan-Rencana-Delapan-Buku.md), bagian “Buku I”.
-- **Tindakan yang tercantum dalam penutup Buku I:** menyimpan catatan dengan klasifikasi sementara. Sumber: [`00-CORE/08-Cerita-dan-Rencana-Delapan-Buku.md`](../00-CORE/08-Cerita-dan-Rencana-Delapan-Buku.md), bagian “Penutup Buku I”.
+- **Identitas:** Seraphine Veyra; anggota ekspedisi Buku I bersama Tavian dan Kael.
+- **Pekerjaan/peran:** peneliti lapangan.
+- **Tindakan pada penutup Buku I:** menyimpan catatan dengan klasifikasi sementara.
+- **Fungsi dalam kelompok:** menjaga metodologi penelitian dan memastikan observasi, hipotesis, serta kesimpulan tidak dicampuradukkan.
+- **Motivasi:** mengumpulkan bukti yang dapat diverifikasi dan menjaga agar temuan penting tidak rusak atau disalahgunakan.
+- **Kebutuhan perkembangan:** memahami bahwa menjaga pengetahuan juga berarti menjaga orang-orang yang terlibat dalam proses penemuan.
+- **Kekuatan:** mampu membedakan observasi, hipotesis, dan kesimpulan; menyusun catatan yang dapat ditinjau ulang; memahami risiko kerusakan bukti; berani menolak klaim yang tidak didukung data.
+- **Kelemahan:** dapat terlalu lama mempertahankan prosedur ketika keadaan berubah, cenderung memikul tanggung jawab sendiri, dan berisiko melihat orang lain sebagai sumber data sebelum memahami kebutuhan mereka.
+- **Arah arc:** bergerak dari peneliti yang mengutamakan preservasi bukti menuju peneliti yang mampu menimbang keselamatan manusia dan kepentingan pengetahuan secara bersamaan.
 
 ### UNKNOWN
 
-- Spesies, usia, jenis kelamin, latar belakang, kepribadian, penampilan, kemampuan, motivasi, hubungan personal, serta perkembangan khususnya tidak ditetapkan dalam sumber yang ditemukan.
-
-### OPEN QUESTION
-
-- Kelengkapan profil, dinamika, serta perkembangan karakter yang belum terdokumentasi masih perlu dikerjakan. Sumber: [`99-ADMIN/Open-Questions.md`](../99-ADMIN/Open-Questions.md), bagian “Cerita”.
-
+- Spesies, usia, jenis kelamin, keluarga, latar belakang, pendidikan, penampilan/desain visual final, kemampuan di luar pekerjaan, hubungan personal, serta perkembangan rinci lintas Buku II–VIII belum ditetapkan.
 ## Kael Veyron
 
 ### Fakta CANON
 
-- **Identitas:** Kael Veyron; namanya tercantum dalam indeks karakter. Sumber: [`00-CORE/07-Karakter-Lokasi-dan-Organisasi.md`](../00-CORE/07-Karakter-Lokasi-dan-Organisasi.md), bagian “Karakter”.
-- **Pekerjaan/peran:** perantara informasi; mengikuti ekspedisi pemetaan Buku I bersama Tavian dan Seraphine. Sumber: [`00-CORE/08-Cerita-dan-Rencana-Delapan-Buku.md`](../00-CORE/08-Cerita-dan-Rencana-Delapan-Buku.md), bagian “Buku I”.
-- **Informasi dan tindakan dalam kerangka Buku I:** ia menyembunyikan bahwa dirinya memiliki peta kedua. Dalam penutup Buku I, ia menerima pesan dari kontak tak dikenal yang menanyakan apakah ia telah menemukan “arsip di bawah jalan”; ia membakar pesan itu tetapi menyimpan kertasnya. Sumber: [`00-CORE/08-Cerita-dan-Rencana-Delapan-Buku.md`](../00-CORE/08-Cerita-dan-Rencana-Delapan-Buku.md), bagian “Buku I” dan “Penutup Buku I”.
+- **Identitas:** Kael Veyron; anggota ekspedisi Buku I bersama Tavian dan Seraphine.
+- **Pekerjaan/peran:** perantara informasi.
+- **Tindakan dan informasi Buku I:** menyembunyikan bahwa dirinya memiliki peta kedua. Pada penutup Buku I, ia menerima pesan dari kontak tak dikenal yang menanyakan apakah ia telah menemukan “arsip di bawah jalan”; ia membakar pesan itu tetapi menyimpan kertasnya.
+- **Fungsi dalam kelompok:** menghubungkan kelompok dengan pasar informasi, rumor, transaksi, dan kepentingan yang tidak selalu terlihat.
+- **Motivasi:** mempertahankan akses terhadap jaringan informasi dan memastikan dirinya selalu memiliki nilai tawar.
+- **Kebutuhan perkembangan:** menyadari bahwa kontrol atas informasi tidak sama dengan kontrol atas konsekuensinya.
+- **Kekuatan:** menilai kepentingan orang dari cara mereka bertanya, membaca situasi, menghubungkan petunjuk dari sumber berbeda, dan bernegosiasi tanpa selalu mengandalkan kekerasan.
+- **Kelemahan:** menganggap kepercayaan sebagai transaksi, menyimpan terlalu banyak informasi sendiri, dan dapat mengira dirinya mampu mengendalikan risiko karena memahami sebagian jaringan yang terlibat.
+- **Arah arc:** bergerak dari orang yang memperlakukan kelompok sebagai bagian dari pekerjaan menuju seseorang yang menghadapi konsekuensi nyata ketika kepentingan pribadinya membahayakan orang lain.
 
 ### MYSTERY
 
-- Kerangka Buku I menyatakan bahwa pihak yang membayar Kael dan tujuan tersembunyinya akan terungkap dalam bagian “Harga Sebuah Informasi”, tetapi tidak menyebutkan identitas pihak atau tujuan tersebut. Sumber: [`00-CORE/08-Cerita-dan-Rencana-Delapan-Buku.md`](../00-CORE/08-Cerita-dan-Rencana-Delapan-Buku.md), bagian “Rangkaian bagian Buku I”.
+- Identitas pihak yang membayar Kael, tujuan tersembunyinya, identitas kontak tak dikenal, dan makna penuh istilah “arsip di bawah jalan” tetap belum ditetapkan. Kerangka Buku I menyatakan pihak yang membayar dan tujuan tersembunyinya akan terungkap dalam bagian “Harga Sebuah Informasi”, tetapi identitasnya tidak ditentukan di sini.
 
 ### UNKNOWN
 
-- Identitas kontak yang disebut tak dikenal dalam penutup Buku I tidak disebutkan. Sumber: [`00-CORE/08-Cerita-dan-Rencana-Delapan-Buku.md`](../00-CORE/08-Cerita-dan-Rencana-Delapan-Buku.md), bagian “Penutup Buku I”.
-- Spesies, usia, jenis kelamin, latar belakang, kepribadian, penampilan, kemampuan, motivasi pribadi, hubungan personal, serta perkembangan khususnya tidak ditetapkan dalam sumber yang ditemukan.
-
-### OPEN QUESTION
-
-- Kelengkapan profil, dinamika, serta perkembangan karakter yang belum terdokumentasi masih perlu dikerjakan. Sumber: [`99-ADMIN/Open-Questions.md`](../99-ADMIN/Open-Questions.md), bagian “Cerita”.
-
+- Spesies, usia, jenis kelamin, keluarga, latar belakang, pendidikan, penampilan/desain visual final, kemampuan di luar pekerjaannya, hubungan personal, serta perkembangan rinci lintas Buku II–VIII belum ditetapkan.
 ## Mira Solenne
 
 ### Fakta CANON
 
-- **Identitas:** Mira Solenne; namanya tercantum dalam indeks karakter. Sumber: [`00-CORE/07-Karakter-Lokasi-dan-Organisasi.md`](../00-CORE/07-Karakter-Lokasi-dan-Organisasi.md), bagian “Karakter”.
+- **Identitas:** Mira Solenne; anggota kelompok perjalanan yang diperkenalkan dalam Buku II di Bellwether.
+- **Pekerjaan/peran:** pemandu rute lokal dan penyalin peta.
+- **Fungsi dalam kelompok:** menghubungkan perjalanan dengan pengetahuan rute, praktik perjalanan, dan konteks masyarakat setempat. Keahliannya berbeda dari pekerjaan survei Tavian.
+- **Motivasi:** menjaga agar pengetahuan rute masyarakat tidak disalahgunakan atau dihapus oleh peta resmi yang dibuat untuk kepentingan luar.
+- **Kebutuhan perkembangan:** memahami bahwa bekerja sama dengan orang luar tidak selalu berarti kehilangan kendali atas komunitas atau pengetahuan lokal.
+- **Kekuatan:** terbuka, cepat akrab, dan pragmatis; memahami rute lokal melalui praktik perjalanan serta catatan setempat.
+- **Kelemahan:** dapat menilai semua pendatang berdasarkan pengalaman buruk sebelumnya dan terlalu cepat menutup kemungkinan.
+- **Arah arc:** bergerak dari penjaga batas sosial menjadi mitra yang mampu memilih kapan pengetahuan lokal perlu dibagikan dan kapan harus dilindungi.
 
 ### UNKNOWN
 
-- Spesies, usia, jenis kelamin, pekerjaan/peran, latar belakang, kepribadian, penampilan, kemampuan, hubungan, motivasi, serta perkembangan tidak ditetapkan dalam sumber yang ditemukan.
-
-### OPEN QUESTION
-
-- Kelengkapan daftar tokoh utama dan karakter pendukung serta profil, dinamika, dan perkembangan yang belum terdokumentasi masih dapat dikembangkan. Sumber: [`99-ADMIN/Open-Questions.md`](../99-ADMIN/Open-Questions.md), bagian “Cerita”.
-
+- Spesies, usia, jenis kelamin, keluarga, latar belakang, penampilan/desain visual final, kemampuan di luar peran rute dan pemetaan lokal, hubungan personal, serta perkembangan rinci lintas Buku III–VIII belum ditetapkan.
 ## Daren Holt
 
 ### Fakta CANON
 
-- **Identitas:** Daren Holt; namanya tercantum dalam indeks karakter. Sumber: [`00-CORE/07-Karakter-Lokasi-dan-Organisasi.md`](../00-CORE/07-Karakter-Lokasi-dan-Organisasi.md), bagian “Karakter”.
+- **Identitas:** Daren Holt; anggota kelompok perjalanan yang diperkenalkan dalam Buku II di Rookbridge.
+- **Pekerjaan/peran:** pekerja lapangan berpengalaman dan pengawal rute.
+- **Fungsi dalam kelompok:** menangani penilaian risiko perlintasan, beban jalur, keselamatan perjalanan, dan prosedur evakuasi. Keahliannya bersifat praktis dan terbatas pada keselamatan lapangan; ia bukan prajurit elit atau ahli semua bidang.
+- **Motivasi:** memperoleh pekerjaan yang layak dan memastikan perjalanan selesai tanpa korban yang tidak perlu.
+- **Kebutuhan perkembangan:** menerima bahwa keselamatan tidak selalu dapat dijamin hanya dengan mengikuti prosedur lama.
+- **Kekuatan:** lugas, sabar menghadapi pekerjaan fisik, dan memahami konsekuensi praktis keputusan buruk.
+- **Kelemahan:** cenderung menganggap hal yang tidak ia pahami sebagai ancaman yang harus dijauhi dan sulit mengubah rencana di tengah keadaan darurat.
+- **Arah arc:** bergerak dari orang yang mengukur keberhasilan lewat kepulangan dengan selamat menjadi seseorang yang memahami bahwa tanggung jawab kadang menuntut risiko yang diperhitungkan.
 
 ### UNKNOWN
 
-- Spesies, usia, jenis kelamin, pekerjaan/peran, latar belakang, kepribadian, penampilan, kemampuan, hubungan, motivasi, serta perkembangan tidak ditetapkan dalam sumber yang ditemukan.
-
-### OPEN QUESTION
-
-- Kelengkapan daftar tokoh utama dan karakter pendukung serta profil, dinamika, dan perkembangan yang belum terdokumentasi masih dapat dikembangkan. Sumber: [`99-ADMIN/Open-Questions.md`](../99-ADMIN/Open-Questions.md), bagian “Cerita”.
-
+- Spesies, usia, jenis kelamin, keluarga, latar belakang, riwayat kerja terperinci, penampilan/desain visual final, kemampuan di luar keselamatan lapangan, hubungan personal, serta perkembangan rinci lintas Buku III–VIII belum ditetapkan.
 ## Ilyra Nym
 
 ### Fakta CANON
 
-- **Identitas:** Ilyra Nym; namanya tercantum dalam indeks karakter. Sumber: [`00-CORE/07-Karakter-Lokasi-dan-Organisasi.md`](../00-CORE/07-Karakter-Lokasi-dan-Organisasi.md), bagian “Karakter”.
+- **Identitas:** Ilyra Nym; anggota kelompok perjalanan yang diperkenalkan dalam Buku III.
+- **Pekerjaan/peran:** penyalin naskah dan asisten arsip yang menangani proyek perbandingan dokumen.
+- **Fungsi dalam kelompok:** membantu membandingkan pola bahasa, simbol, dan rujukan antardokumen. Keahliannya tidak berarti ia mampu langsung membaca seluruh teknologi atau catatan Bumi kuno.
+- **Motivasi:** membangun reputasi berdasarkan hasil penelitiannya sendiri, bukan sekadar menjadi penyalin karya orang lain.
+- **Kebutuhan perkembangan:** menerima bahwa interpretasi yang masuk akal belum tentu benar dan beberapa teks memang tidak cukup lengkap untuk disimpulkan.
+- **Kekuatan:** sangat ingin tahu, teliti, dan cepat mengenali pola serta hubungan ant catatan.
+- **Kelemahan:** terlalu terpikat pada pola dan dapat menghubungkan dua sumber yang sebenarnya tidak berkaitan.
+- **Arah arc:** bergerak dari pencari pola yang ingin menemukan satu jawaban menjadi peneliti yang mampu mempertahankan beberapa kemungkinan sampai bukti cukup.
 
 ### UNKNOWN
 
-- Spesies, usia, jenis kelamin, pekerjaan/peran, latar belakang, kepribadian, penampilan, kemampuan, hubungan, motivasi, serta perkembangan tidak ditetapkan dalam sumber yang ditemukan.
-
-### OPEN QUESTION
-
-- Kelengkapan daftar tokoh utama dan karakter pendukung serta profil, dinamika, dan perkembangan yang belum terdokumentasi masih dapat dikembangkan. Sumber: [`99-ADMIN/Open-Questions.md`](../99-ADMIN/Open-Questions.md), bagian “Cerita”.
-
+- Spesies, usia, jenis kelamin, keluarga, latar belakang, pendidikan, penampilan/desain visual final, kemampuan di luar pengolahan naskah dan arsip, hubungan personal, serta perkembangan rinci lintas Buku IV–VIII belum ditetapkan.
 ## CATATAN PENGEMBANGAN yang terpisah
 
 `98-CATATAN PENGEMBANGAN/Story-Framework.md` memuat kerangka umum tentang unsur yang dapat dimiliki profil karakter, seperti identitas, penampilan, kepribadian, latar belakang, motivasi, konflik, kemampuan, relasi, dan perkembangan. Itu merupakan CATATAN PENGEMBANGAN umum, bukan informasi karakter CANON dan bukan rincian khusus keenam karakter di atas. Proposal khusus keenam nama karakter tersedia dalam [Character Development Dossier — Draft 0.1](../98-CATATAN%20PENGEMBANGAN/Character-Development-Dossier-Draft-0.1.md). Seluruh profil, motivasi, visual, dan arc dalam dossier tersebut tetap CATATAN PENGEMBANGAN / NON-CANON; bagian UNKNOWN di Bible ini belum berubah.
