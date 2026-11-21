@@ -12,13 +12,11 @@ ini bukan profil lengkap.
 -   Daren Holt
 -   Ilyra Nym
 
-Tavian Rell adalah manusia laki-laki berusia 21 tahun dan bekerja
-sebagai asisten survei. Lihat `../01-CANON/Character-Bible.md` untuk
-ringkasan fakta karakter dan penanda informasi yang belum ditetapkan.
+Tavian Rell adalah manusia laki-laki berusia 21 tahun dan bekerja sebagai asisten survei. Motivasi inti dan arc-nya telah ditetapkan.
 
-Profil karakter lain, dinamika kelompok, dan perkembangan karakter
-dirangkum di `../01-CANON/Character-Bible.md` sejauh didukung sumber.
-Jangan mengisi detail yang belum tercantum sebagai fakta.
+Seraphine Veyra adalah peneliti lapangan; Kael Veyron adalah perantara informasi. Mira Solenne berperan sebagai pemandu rute lokal dan penyalin peta; Daren Holt adalah pekerja lapangan berpengalaman dan pengawal rute; Ilyra Nym adalah penyalin naskah dan asisten arsip. Fungsi, motivasi, kelemahan, dan arah arc keenam karakter telah didokumentasikan sebagai CANON dalam [Character Bible](../01-CANON/Character-Bible.md).
+
+Detail biografi yang tidak tercantum tetap UNKNOWN. Jangan mengisi usia, spesies, keluarga, visual final, atau kemampuan khusus yang belum ditetapkan.
 
 ## Lokasi
 
