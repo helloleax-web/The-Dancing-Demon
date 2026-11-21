@@ -1,5 +1,7 @@
 # Tavian Rell — Core Motivation & Series Character Arc — Draft 0.1
 
+
+> **Catatan status — 2026-11-22:** Rekomendasi motivasi gabungan A+B dengan rasa ingin tahu C yang berkembang, kelemahan inti, dan arc delapan buku telah disahkan sebagai CANON dalam [`01-CANON/Tavian-Character-Arc.md`](../01-CANON/Tavian-Character-Arc.md). File ini dipertahankan sebagai arsip proses Draft 0.1; jika terdapat perbedaan, dokumen CANON menjadi rujukan utama. Detail biografi yang ditandai belum ditentukan tetap UNKNOWN.
 **Status: CATATAN PENGEMBANGAN / NON-CANON.**  
 **Tanggal:** 2026-11-22  
 **Basis:** Character Bible, premis dan kerangka delapan buku CANON, Character Development Dossier Draft 0.1, serta Series Spine & Narrative Alignment Draft 0.1.
