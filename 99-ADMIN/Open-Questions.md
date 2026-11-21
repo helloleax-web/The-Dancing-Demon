@@ -52,7 +52,6 @@ Dokumen ini mencatat hal yang belum ditentukan. Pertanyaan terbuka dapat dikemba
 ## Cerita
 - Identitas protagonis Tavian Rell dan karakter utama yang telah ditetapkan merupakan CANON dan tidak dipertanyakan kembali.
 - Kelengkapan daftar tokoh utama dan karakter pendukung masih dapat dikembangkan.
-- Profil lengkap, dinamika, dan perkembangan karakter selain arc inti Tavian yang telah ditetapkan masih perlu dikerjakan.
+- Detail biografi yang belum ditetapkan untuk keenam karakter utama: usia, spesies jika belum disebut, keluarga, latar belakang, pendidikan, visual final, kemampuan di luar peran, hubungan personal, dan rincian arc pada buku-buku yang belum diuraikan.
 - Identitas dan fungsi antagonis atau pihak yang menjadi oposisi berulang; seri tidak mewajibkan satu antagonis tunggal.
 - Detail urutan peristiwa, resolusi konflik, dan ending Buku VIII.
-- Profil, motivasi, dinamika, dan arc Seraphine, Kael, Mira, Daren, serta Ilyra yang belum disahkan.
