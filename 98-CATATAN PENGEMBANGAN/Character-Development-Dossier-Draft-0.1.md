@@ -1,5 +1,7 @@
 # Character Development Dossier — Draft 0.1
 
+
+> **Catatan status — 2026-11-22:** Fungsi, motivasi, kekuatan, kelemahan, dan arah arc inti Tavian, Seraphine, Kael, Mira, Daren, serta Ilyra telah disahkan sebagai CANON dan dipindahkan ke [`01-CANON/Character-Bible.md`](../01-CANON/Character-Bible.md). Dossier ini tetap arsip pengembangan: rincian tentang Iven Rusk, Jorren Hale, kontrak Kael, kurator, hubungan organisasi, detail visual, serta proposal lain yang tidak dipindahkan tetap NON-CANON. Jika ada perbedaan, Character Bible menjadi rujukan utama.
 **Status: CATATAN PENGEMBANGAN / NON-CANON.**  
 **Fungsi:** proposal editorial untuk mengembangkan enam nama karakter yang sudah tercantum dalam indeks.  
 **Batas:** hanya fakta yang sudah terdokumentasi yang boleh disebut CANON. Semua kepribadian, motivasi, visual, relasi, dan arc di bawah adalah rancangan baru yang dapat diubah atau dibuang.
