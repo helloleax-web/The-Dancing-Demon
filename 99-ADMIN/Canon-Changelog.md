@@ -683,3 +683,12 @@ Matriks rotasi R0.2 diperiksa ulang dan diperbaiki agar ortogonal (deviasi maksi
 - Efek jubah mana hitam dipertahankan sesuai fakta CANON; mekanisme dan asal tidak dikarang.
 - Cakupan istilah Resonansi Hitam dan seluruh detail LEAX ditahan untuk klarifikasi pengguna.
 - Tidak ada perubahan CANON.
+
+
+## Canonisasi Prasasti XIII — Labirin (Maze) — 2026-11-21
+
+- Tanggal: 2026-11-21
+- Topik: Pengesahan naskah penafsiran in-world Prasasti Ketiga Belas.
+- Keputusan: Mengesahkan keberadaan dan isi naskah **Prasasti XIII — Labirin (Maze)** sebagai dokumen interpretasi seorang keturunan LEAX. Delapan bagian naskah dipertahankan: prinsip dan batas penafsiran; penafsiran baris demi baris; pengulangan dan susunan lantunan; kesimpulan sementara; dugaan tema dan makna utama; daftar istilah yang belum teridentifikasi; hal-hal yang belum boleh disimpulkan; serta catatan pendengaran dan salinan bunyi. Seluruh tafsir, dugaan, dan kesimpulan penulis tetap merupakan perspektif subjektif in-world, bukan fakta objektif yang otomatis terkonfirmasi. Identitas pemilik suara, makna istilah asing, peristiwa yang diceritakan, lokasi, pembuat, fungsi, hubungan dengan LEAX, dan kemungkinan fungsi sihir tetap UNKNOWN kecuali ditetapkan secara terpisah oleh kreator. Catatan riset modern dan pembicaraan internal tidak dimasukkan ke naskah.
+- Dokumen yang diperbarui: `01-CANON/Prasasti-XIII-Labirin-Maze.md`, `01-CANON/Thirteen-Prasasti.md`, `00-CORE/06-Tiga-Belas-Prasasti.md`, `00-CORE/09-Kanon-dan-Kontinuitas.md`, dan dokumen ini.
+- Apakah ini retcon?: Tidak. Ini merupakan pengesahan naskah penafsiran dan klarifikasi batas antara isi dokumen in-world dengan kebenaran objektif dunia.
