@@ -70,12 +70,12 @@ Aku harus mempertahankan batas pengetahuannya:
 1. **Tidak mengenali istilah asing secara otomatis.** Nama seperti Bentley, Tonka, Percs, Molly, Judo, London, Nieman's, dan lainnya hanya dicatat sebagaimana terdengar. Aku tidak tahu referensi modernnya.
 2. **Menyimpulkan hanya dari konteks.** Jika kalimat memberi petunjuk bahwa sesuatu dibawa, dipakai, dikonsumsi, atau dikunjungi, aku boleh menduga fungsi umumnya, tetapi tidak boleh mengklaim identitas tepatnya.
 3. **Mengakui ketidaktahuan.** Beberapa baris mungkin tidak bisa dipahami sama sekali. Itu harus dicatat, bukan ditambal dengan pengetahuan pembaca.
-4. **Membedakan dugaan dari fakta.** Semua tafsiran tentang kehidupan LEAX adalah hipotesis penafsir.
-5. **Memungkinkan kesalahan tafsir.** Slang, metafora, permainan kata, bunyi ad-lib, dan ungkapan dari dunia asal dapat membuat penafsir salah mengerti.
+4. **Membedakan dugaan dari fakta.** Semua tafsiran tentang kehidupan LEAX adalah dugaanku.
+5. **Memungkinkan kesalahan tafsir.** Slang, metafora, permainan kata, bunyi ad-lib, dan ungkapan dari dunia asal dapat membuatku salah memahami.
 6. **Tidak menganggap semua baris sebagai laporan harfiah.** Aku belum tahu apakah suara tersebut sedang menceritakan pengalaman, membual, menggunakan metafora, atau mencampur semuanya.
 7. **Memisahkan bunyi dari dugaan tentang sihir.** Aku boleh menganggap irama, pengulangan, dan suara sebagai petunjuk kemungkinan mantra, tetapi dugaan itu tetap merupakan tafsir Avarran dan bukan bukti bahwa musik tersebut benar-benar memiliki daya sihir.
 
-Dalam catatan di bawah, frasa lirik dicantumkan sebagai penanda bagian agar pembaca tahu baris yang sedang ditafsirkan. Penjelasan tetap terbatas pada apa yang mungkin dipahami penafsir Avarra.
+Dalam catatan di bawah, frasa lirik dicantumkan sebagai penanda bagian agar pembaca tahu baris yang sedang ditafsirkan. Penjelasan tetap terbatas pada apa yang mungkin kupahami sebagai orang Avarra.
 
 ---
 
@@ -355,7 +355,7 @@ Aku melihat pengulangan ini sebagai penegasan konflik antara keinginan dan kesad
 
 Nama Percs kembali muncul dalam hubungan dengan keadaan hampir tertidur.
 
-Penafsir menghubungkannya dengan perubahan kewaspadaan atau kesadaran yang telah ia duga sebelumnya. Identitas zat tersebut tetap tidak diketahui.
+Aku menghubungkannya dengan perubahan kewaspadaan atau kesadaran yang telah ia duga sebelumnya. Identitas zat tersebut tetap tidak diketahui.
 
 ### 45. Pengulangan perbandingan dengan Judo
 
@@ -568,14 +568,14 @@ Aku harus mempertahankan batas pengetahuannya:
 
 1. **Tidak mengenali istilah asing secara otomatis.** Nama seperti Dover Street Market, Runtz, Benjamin Franklin, Clayco, dan lainnya hanya dicatat sebagaimana terdengar. Aku tidak mengetahui identitas atau referensi asalnya.
 2. **Menyimpulkan hanya dari konteks.** Jika kalimat memberi petunjuk bahwa sesuatu dibeli, dibawa, digunakan, dikonsumsi, atau dikunjungi, aku boleh menduga fungsi umumnya, tetapi tidak boleh mengklaim identitas tepatnya.
-3. **Mengakui ketidaktahuan.** Beberapa baris mungkin tidak dapat dipahami. Itu harus dicatat, bukan ditambal dengan pengetahuan yang tidak dimiliki penafsir.
+3. **Mengakui ketidaktahuan.** Beberapa baris mungkin tidak dapat dipahami. Itu harus dicatat, bukan ditambal dengan pengetahuan yang tidak kumiliki.
 4. **Membedakan dugaan dari fakta.** Semua tafsiran tentang kehidupan LEAX merupakan hipotesis pribadi.
-5. **Memungkinkan kesalahan tafsir.** Slang, metafora, permainan kata, seruan, dan ungkapan dari dunia asal dapat membuat penafsir salah mengerti.
+5. **Memungkinkan kesalahan tafsir.** Slang, metafora, permainan kata, seruan, dan ungkapan dari dunia asal dapat membuatku salah memahami.
 6. **Tidak menganggap semua baris sebagai laporan harfiah.** Aku belum tahu apakah suara tersebut sedang menceritakan pengalaman, membual, mengejek, menggunakan metafora, atau mencampur semuanya.
 7. **Memisahkan bunyi dari dugaan tentang sihir.** Irama, pengulangan, dan suara boleh dipertimbangkan sebagai petunjuk kemungkinan mantra, tetapi tidak membuktikan bahwa lantunan tersebut memiliki daya sihir.
 8. **Tidak menganggap semua Prasasti memiliki fungsi yang sama.** Hubungan Prasasti Kedua dengan Prasasti Pertama belum diketahui. Kemiripan bentuk lantunan tidak otomatis berarti keduanya memiliki tujuan yang sama.
 
-Dalam catatan di bawah, frasa lirik dicantumkan sebagai penanda bagian agar pembaca tahu baris yang sedang ditafsirkan. Penjelasan tetap terbatas pada apa yang mungkin dipahami penafsir Avarra.
+Dalam catatan di bawah, frasa lirik dicantumkan sebagai penanda bagian agar pembaca tahu baris yang sedang ditafsirkan. Penjelasan tetap terbatas pada apa yang mungkin kupahami sebagai orang Avarra.
 
 ## 2. Penafsiran Baris demi Baris
 
@@ -2249,13 +2249,13 @@ Aku harus mempertahankan batas pengetahuannya:
 3. **Menyimpulkan hanya dari konteks.** Jika suatu kalimat memberikan petunjuk tentang perasaan, tindakan, atau hubungan, aku boleh menyampaikan dugaan berdasarkan petunjuk tersebut.
 4. **Mengakui ketidaktahuan.** Bagian yang tidak dapat dipahami atau memiliki lebih dari satu kemungkinan makna harus dibiarkan terbuka.
 5. **Membedakan dugaan dari fakta.** Semua tafsiran tentang kehidupan LEAX merupakan hipotesis pribadi.
-6. **Memungkinkan kesalahan tafsir.** Metafora, ungkapan, permainan kata, dan cara penyampaian dari dunia asal dapat membuat penafsir salah memahami maksud sebenarnya.
+6. **Memungkinkan kesalahan tafsir.** Metafora, ungkapan, permainan kata, dan cara penyampaian dari dunia asal dapat membuatku salah memahami maksud sebenarnya.
 7. **Tidak menganggap semua baris sebagai laporan harfiah.** Suara tersebut mungkin sedang mengungkapkan perasaan, berbicara kepada seseorang, mengingat kejadian, atau menggunakan gambaran yang tidak harus terjadi secara nyata.
 8. **Memperhatikan pengulangan.** Kata dan kalimat yang diulang tidak boleh diabaikan. Pengulangan dapat menunjukkan tekanan perasaan, penegasan, atau bagian dari susunan lantunan.
 9. **Memisahkan bunyi dari dugaan tentang sihir.** Irama, perubahan nada, dan pengulangan boleh dipertimbangkan sebagai petunjuk kemungkinan sihir lantunan, tetapi tidak membuktikan bahwa bunyi tersebut memiliki daya sihir.
 10. **Tidak memaksakan hubungan antarlagu.** Kesamaan atau perbedaan tema dengan Prasasti sebelumnya tidak membuktikan bahwa keduanya berasal dari pengalaman atau peristiwa yang sama.
 
-Dalam catatan di bawah, frasa lirik dicantumkan sebagai penanda bagian agar pembaca mengetahui perkataan yang sedang ditafsirkan. Penjelasan tetap terbatas pada apa yang mungkin dipahami penafsir Avarra.
+Dalam catatan di bawah, frasa lirik dicantumkan sebagai penanda bagian agar pembaca mengetahui perkataan yang sedang ditafsirkan. Penjelasan tetap terbatas pada apa yang mungkin kupahami sebagai orang Avarra.
 
 ---
 
@@ -8162,7 +8162,7 @@ Dalam menafsirkan Prasasti Ketiga Belas, aku harus mempertahankan batas pengetah
 7. **Memisahkan bunyi dari dugaan tentang sihir.** Irama, pengulangan, tekanan suara, dan susunan lantunan boleh dipertimbangkan sebagai petunjuk kemungkinan suatu metode sihir. Namun, semua itu tidak membuktikan bahwa lantunan memiliki kekuatan.
 8. **Tidak menganggap semua Prasasti memiliki fungsi yang sama.** Hubungan Prasasti Ketiga Belas dengan dua belas Prasasti lainnya belum diketahui. Kemiripan bentuk lantunan tidak otomatis berarti semuanya berasal dari satu metode, peristiwa, atau tujuan yang sama.
 
-Dalam catatan di bawah, beberapa potongan perkataan dicantumkan sebagai penanda agar pembaca mengetahui bagian yang sedang kutafsirkan. Penjelasan tetap dibatasi oleh apa yang mungkin dipahami seorang penafsir Avarra.
+Dalam catatan di bawah, beberapa potongan perkataan dicantumkan sebagai penanda agar pembaca mengetahui bagian yang sedang kutafsirkan. Penjelasan tetap dibatasi oleh apa yang mungkin kupahami sebagai orang Avarra.
 
 ## 2. Penafsiran Baris demi Baris
 
