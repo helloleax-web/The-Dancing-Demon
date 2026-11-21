@@ -692,3 +692,13 @@ Matriks rotasi R0.2 diperiksa ulang dan diperbaiki agar ortogonal (deviasi maksi
 - Keputusan: Mengesahkan keberadaan dan isi naskah **Prasasti XIII — Labirin (Maze)** sebagai dokumen interpretasi seorang keturunan LEAX. Delapan bagian naskah dipertahankan: prinsip dan batas penafsiran; penafsiran baris demi baris; pengulangan dan susunan lantunan; kesimpulan sementara; dugaan tema dan makna utama; daftar istilah yang belum teridentifikasi; hal-hal yang belum boleh disimpulkan; serta catatan pendengaran dan salinan bunyi. Seluruh tafsir, dugaan, dan kesimpulan penulis tetap merupakan perspektif subjektif in-world, bukan fakta objektif yang otomatis terkonfirmasi. Identitas pemilik suara, makna istilah asing, peristiwa yang diceritakan, lokasi, pembuat, fungsi, hubungan dengan LEAX, dan kemungkinan fungsi sihir tetap UNKNOWN kecuali ditetapkan secara terpisah oleh kreator. Catatan riset modern dan pembicaraan internal tidak dimasukkan ke naskah.
 - Dokumen yang diperbarui: `01-CANON/Prasasti-XIII-Labirin-Maze.md`, `01-CANON/Thirteen-Prasasti.md`, `00-CORE/06-Tiga-Belas-Prasasti.md`, `00-CORE/09-Kanon-dan-Kontinuitas.md`, dan dokumen ini.
 - Apakah ini retcon?: Tidak. Ini merupakan pengesahan naskah penafsiran dan klarifikasi batas antara isi dokumen in-world dengan kebenaran objektif dunia.
+
+
+## 2026-11-21 — Konsolidasi naskah 13 Prasasti
+
+- Topik: Pemindahan dan penataan arsip naskah interpretasi Prasasti I–XIII.
+- Keputusan: Dua belas naskah Prasasti I–XII yang sebelumnya tersimpan di folder `98-CATATAN PENGEMBANGAN/` dengan nama file berakhiran `Draft-0.1`, tetapi di dalam naskah masing-masing telah berstatus CANON, dipindahkan ke `01-CANON/` dengan nama file yang konsisten. Naskah Prasasti XIII tetap berada di `01-CANON/`. Isi naskah dipertahankan; tidak dilakukan penulisan ulang atau penambahan tafsir.
+- Indeks `01-CANON/Thirteen-Prasasti.md`, ringkasan `00-CORE/06-Tiga-Belas-Prasasti.md`, panduan kontinuitas, dan navigasi diperbarui agar menunjuk ke koleksi lengkap.
+- Batas interpretasi dipertahankan: status CANON mengesahkan keberadaan naskah sebagai dokumen in-world, bukan kebenaran objektif seluruh dugaan penafsir.
+- Dokumen yang diperbarui: 12 file naskah di `01-CANON/`, `01-CANON/Thirteen-Prasasti.md`, `00-CORE/06-Tiga-Belas-Prasasti.md`, `00-CORE/09-Kanon-dan-Kontinuitas.md`, `00-CORE/00-README.md`, `README.md`, `BACA-DULU.md`, dan dokumen ini.
+- Apakah ini retcon?: Tidak. Ini konsolidasi arsip dan navigasi; isi lore serta isi naskah tidak diubah.
