@@ -23,6 +23,10 @@ Paket ini berisi ringkasan, indeks, dan panduan kontinuitas untuk lore *The Danc
 - [Open Questions](../99-ADMIN/Open-Questions.md) — daftar keputusan dan pengembangan yang masih terbuka.
 - [Canon Changelog](../99-ADMIN/Canon-Changelog.md) — riwayat perubahan canon dan dokumentasi.
 
+## Rujukan CANON cerita
+- [Series Spine & Narrative Framework](../01-CANON/Series-Spine-and-Narrative-Framework.md) — fondasi naratif, pusat emosional, lapisan konflik, dan fungsi delapan buku.
+- [Tavian Rell — Character Arc](../01-CANON/Tavian-Character-Arc.md) — motivasi inti, kelemahan, dan perkembangan protagonis.
+
 ## Materi pengembangan cerita
 
 Dokumen berikut merupakan draft NON-CANON dan tidak menggantikan Bible rujukan:
