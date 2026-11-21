@@ -30,6 +30,7 @@ batas informasi yang belum boleh diisi.
 -   Nama NVR AGAIN diketahui saat Prasasti pertama ditemukan.
 -   LEAX menghilang setelah Great War.
 -   Terdapat 13 Prasasti.
+-   Naskah penafsiran in-world untuk Prasasti XIII — Labirin (Maze) telah disahkan sebagai dokumen. Pengesahan berlaku atas keberadaan dan isi naskah penafsiran, bukan atas kebenaran objektif semua dugaan penulisnya.
 -   Sistem mana memiliki parameter dan cabang sebagaimana dijelaskan
     dalam dokumen Sistem Mana.
 -   Prolog asal-usul LEAX merupakan proyek terpisah dari cerita utama.
@@ -43,7 +44,7 @@ batas informasi yang belum boleh diisi.
 -   Penyebab, pihak, lokasi, durasi, korban, dan hasil Great War di luar
     fakta yang telah dinyatakan.
 -   Asal-usul dan mekanisme NVR AGAIN serta jubah mana hitam.
--   Isi, lokasi, pembuat, dan fungsi 13 Prasasti.
+-   Isi objektif, lokasi, pembuat, dan fungsi 13 Prasasti di luar hal yang secara khusus telah ditetapkan. Isi tafsir Prasasti XIII tercatat dalam naskah in-world, tetapi kebenaran objektif dugaan penafsir tetap UNKNOWN.
 -   Motif, kesadaran, bentuk, dan batas kemampuan entitas kosmik.
 -   Keadaan LEAX setelah menghilang.
 
@@ -60,7 +61,9 @@ batas informasi yang belum boleh diisi.
 -   Jangan menganggap masyarakat modern memahami peninggalan Bumi.
 -   Jangan memasukkan penjelasan Prolog LEAX ke cerita utama tanpa
     arahan.
--   Jangan mengarang isi atau fungsi Prasasti.
+-   Jangan mengarang isi objektif atau fungsi Prasasti. Naskah penafsiran
+    yang telah disahkan tetap harus dibaca sebagai perspektif penulisnya,
+    bukan kebenaran sejarah yang otomatis terkonfirmasi.
 
 ## Catatan sumber
 
