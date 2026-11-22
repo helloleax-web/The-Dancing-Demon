@@ -19,6 +19,8 @@ batas informasi yang belum boleh diisi.
 -   Tavian memulai cerita dengan motivasi pengakuan profesional dan kemandirian hidup; rasa ingin tahunya terhadap dunia berkembang selama perjalanan.
 -   Kelemahan inti Tavian adalah kecenderungan terlalu percaya bahwa data yang cukup dapat menyelesaikan masalah. Arc-nya bergerak menuju tanggung jawab atas penggunaan informasi, kerja sama, dan penerimaan batas pengetahuan.
 -   Fondasi naratif dan fungsi delapan buku ditetapkan dalam `01-CANON/Series-Spine-and-Narrative-Framework.md`; arc Tavian ditetapkan dalam `01-CANON/Tavian-Character-Arc.md`.
+-   Struktur konflik empat lapisan ditetapkan dalam `01-CANON/Series-Conflict-Architecture.md`; arah arc enam karakter lintas seri ditetapkan dalam `01-CANON/Ensemble-Character-Arcs.md`.
+-   Fungsi, motivasi inti, kekuatan, kelemahan, dan arah arc enam karakter utama tercatat dalam `01-CANON/Character-Bible.md`. Detail biografi yang masih UNKNOWN tetap terbuka.
 
 -   Masyarakat masa kini secara umum menyerupai fantasi abad
     pertengahan.
