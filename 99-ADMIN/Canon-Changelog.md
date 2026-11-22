@@ -746,3 +746,14 @@ Matriks rotasi R0.2 diperiksa ulang dan diperbaiki agar ortogonal (deviasi maksi
 - **Dokumen diselaraskan:** `01-CANON/Character-Bible.md`, `00-CORE/08-Cerita-dan-Rencana-Delapan-Buku.md`, `00-CORE/09-Kanon-dan-Kontinuitas.md`, dan `99-ADMIN/Open-Questions.md`.
 - **Batas yang dipertahankan:** tidak ditetapkan antagonis tunggal, identitas pihak yang membayar Kael, kontak tak dikenal, fungsi organisasi yang belum disahkan, motif dan bentuk Abstract Existence, isi objektif 13 Prasasti, keadaan akhir LEAX, hubungan akhir kelompok, atau ending spesifik Buku VIII. Detail biografi yang masih UNKNOWN tetap terbuka.
 - **Retcon:** tidak. Ini pengesahan struktur naratif dan arc karakter; tidak mengubah fakta sejarah, kosmologi, atau isi 13 naskah Prasasti.
+
+
+## Canonisasi arsitektur misteri dan pengungkapan — 2026-11-22
+
+- **Keputusan:** Mengesahkan *Series Mystery & Revelation Architecture* sebagai pedoman CANON untuk urutan pengenalan, penguatan, dan batas pengungkapan misteri utama sepanjang delapan buku.
+- **Jendela pengungkapan:** fasilitas dan jaringan fasilitas berkembang pada Buku I–III; Prasasti pertama mengungkap nama NVR AGAIN pada Buku IV; Buku V merekonstruksi Great War melalui sumber; Buku VI memperluas relevansi fenomena Abstract Existence; Buku VII memusatkan perbandingan rangkaian 13 Prasasti; Buku VIII memberi payoff tematik dan resolusi pada arc karakter.
+- **Aturan penting:** pengungkapan nama tidak otomatis mengungkap asal atau mekanisme; kesaksian bukan fakta otomatis; interpretasi naskah in-world bukan kebenaran objektif; tidak semua misteri harus dijawab secara eksplisit.
+- **Batas yang dipertahankan:** asal dan mekanisme NVR AGAIN, cakupan Resonansi Hitam, penyebab dan rincian Great War, keadaan LEAX, fungsi objektif 13 Prasasti, serta motif/bentuk/kesadaran/batas Abstract Existence tetap UNKNOWN/MYSTERY kecuali disahkan terpisah.
+- **Dokumen CANON baru:** `01-CANON/Series-Mystery-and-Revelation-Architecture.md`.
+- **Dokumen diselaraskan:** `00-CORE/08-Cerita-dan-Rencana-Delapan-Buku.md` dan `00-CORE/09-Kanon-dan-Kontinuitas.md`.
+- **Retcon:** tidak. Ini menetapkan disiplin pengungkapan dan kontinuitas; tidak mengubah fakta sejarah, kosmologi, atau isi naskah Prasasti.
