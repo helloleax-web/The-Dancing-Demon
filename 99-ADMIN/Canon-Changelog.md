@@ -733,3 +733,16 @@ Matriks rotasi R0.2 diperiksa ulang dan diperbaiki agar ortogonal (deviasi maksi
 - **Batas yang dipertahankan:** usia, spesies yang belum ditetapkan, keluarga, pendidikan, desain visual final, hubungan personal, kemampuan khusus, serta rincian plot dan arc per buku tetap UNKNOWN/OPEN QUESTION. Proposal tentang Iven Rusk, Jorren Hale, kurator, kontrak Kael, dan hubungan organisasi yang lebih luas tidak otomatis menjadi CANON.
 - **Status dossier:** `98-CATATAN PENGEMBANGAN/Character-Development-Dossier-Draft-0.1.md` tetap menjadi arsip pengembangan. Hanya materi enam karakter yang secara eksplisit dipindahkan ke Character Bible yang disahkan; materi tambahan lain tetap NON-CANON.
 - **Apakah ini retcon?:** Tidak. Ini pengesahan profil inti dan arah arc karakter; tidak mengubah misteri historis atau kosmologis.
+
+
+## Canonisasi arsitektur konflik seri dan arc ensemble — 2026-11-22
+
+- **Keputusan:** Mengesahkan struktur konflik seri dan arah arc lintas delapan buku untuk enam karakter inti.
+- **Arsitektur konflik:** empat mesin konflik resmi adalah perjalanan/kehidupan, kepentingan/informasi, sejarah, dan kosmik. Konflik dapat muncul dari kepentingan sah yang saling bertentangan; tidak diwajibkan ada satu antagonis tunggal.
+- **Bentuk oposisi:** tekanan material, administratif, epistemik, sosial, personal, lingkungan, dan anomali ditetapkan sebagai kategori fungsi dramatik, bukan identitas organisasi atau tokoh baru.
+- **Eskalasi delapan buku:** tekanan bergerak dari akses dan keselamatan lokal, kehidupan masyarakat regional, jaringan informasi, penemuan Prasasti pertama, rekonstruksi Great War, relevansi anomali kosmik, rangkaian 13 Prasasti, hingga konvergensi konsekuensi karakter dan misteri pada Buku VIII.
+- **Arc ensemble:** arah perkembangan Seraphine, Kael, Mira, Daren, dan Ilyra lintas delapan buku disahkan. Tavian tetap mengikuti dokumen khusus `01-CANON/Tavian-Character-Arc.md`.
+- **Dokumen CANON baru:** `01-CANON/Series-Conflict-Architecture.md` dan `01-CANON/Ensemble-Character-Arcs.md`.
+- **Dokumen diselaraskan:** `01-CANON/Character-Bible.md`, `00-CORE/08-Cerita-dan-Rencana-Delapan-Buku.md`, `00-CORE/09-Kanon-dan-Kontinuitas.md`, dan `99-ADMIN/Open-Questions.md`.
+- **Batas yang dipertahankan:** tidak ditetapkan antagonis tunggal, identitas pihak yang membayar Kael, kontak tak dikenal, fungsi organisasi yang belum disahkan, motif dan bentuk Abstract Existence, isi objektif 13 Prasasti, keadaan akhir LEAX, hubungan akhir kelompok, atau ending spesifik Buku VIII. Detail biografi yang masih UNKNOWN tetap terbuka.
+- **Retcon:** tidak. Ini pengesahan struktur naratif dan arc karakter; tidak mengubah fakta sejarah, kosmologi, atau isi 13 naskah Prasasti.
