@@ -95,6 +95,7 @@ sudah terjadi.
 
 - [Series Spine & Narrative Framework](../01-CANON/Series-Spine-and-Narrative-Framework.md) menetapkan premis, pusat emosional, pilar naratif, dan fungsi delapan buku.
 - [Series Conflict Architecture](../01-CANON/Series-Conflict-Architecture.md) menetapkan empat mesin konflik dan eskalasi per buku.
+- [Series Mystery & Revelation Architecture](../01-CANON/Series-Mystery-and-Revelation-Architecture.md) menetapkan jendela pengungkapan dan batas misteri utama.
 - [Character Bible](../01-CANON/Character-Bible.md) dan [Ensemble Character Arcs](../01-CANON/Ensemble-Character-Arcs.md) menetapkan fungsi dan arah perkembangan enam karakter inti.
 
 Rujukan tersebut menetapkan fondasi dan arah umum. Detail adegan, urutan peristiwa, identitas oposisi, resolusi misteri, dan ending spesifik tetap mengikuti dokumen CANON khusus atau keputusan terpisah.
