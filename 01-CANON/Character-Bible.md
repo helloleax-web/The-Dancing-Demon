@@ -2,28 +2,28 @@
 
 ## Tujuan dan aturan dokumentasi
 
-Dokumen ini merangkum informasi karakter yang secara eksplisit tercantum dalam repository. Dokumen ini tidak menambahkan detail baru dan tidak mengubah fakta kanon.
+Dokumen ini menjadi rujukan utama fakta CANON mengenai enam karakter inti: Tavian Rell, Seraphine Veyra, Kael Veyron, Mira Solenne, Daren Holt, dan Ilyra Nym. Profil mencakup fungsi naratif, motivasi inti, kekuatan, kelemahan, dan arah perkembangan yang telah disahkan.
 
-- Informasi hanya disebut **CANON** jika didukung sumber repository yang dirujuk.
-- **CATATAN PENGEMBANGAN** tetap terpisah dari kanon dan tidak boleh diperlakukan sebagai fakta karakter.
-- **UNKNOWN** berarti informasi tersebut tidak ditetapkan atau tidak ditemukan dalam sumber yang diaudit.
-- **MYSTERY** berarti informasi sengaja dirahasiakan atau ditahan dalam cerita, sesuai yang dinyatakan sumber.
-- **OPEN QUESTION** berarti kelengkapan atau keputusan terkait masih perlu dikerjakan.
-- Tidak adanya informasi di dokumen bukan bukti bahwa suatu sifat, kemampuan, hubungan, atau latar belakang tidak ada di dalam dunia cerita.
+- Informasi disebut **CANON** jika telah ditetapkan kreator dan dicatat dalam dokumen kanon.
+- **CATATAN PENGEMBANGAN** tetap terpisah dan tidak boleh diperlakukan sebagai fakta karakter.
+- **UNKNOWN** berarti informasi belum ditetapkan.
+- **MYSTERY** berarti informasi sengaja dirahasiakan atau ditahan dalam cerita.
+- **OPEN QUESTION** berarti keputusan atau rincian masih perlu dikerjakan.
+- Tidak adanya informasi dalam dokumen bukan bukti bahwa suatu sifat, kemampuan, hubungan, atau latar belakang tidak ada di dunia cerita.
+- Untuk arah arc ensemble lintas delapan buku, gunakan [Ensemble Character Arcs](Ensemble-Character-Arcs.md). Untuk Tavian, gunakan [Tavian Character Arc](Tavian-Character-Arc.md).
 
 ## Indeks karakter
 
-| Karakter | Fakta CANON yang terdokumentasi | Sumber |
+| Karakter | Fakta CANON utama | Sumber |
 |---|---|---|
-| Tavian Rell | Manusia, laki-laki, 21 tahun, asisten survei; protagonis. | [`00-CORE/07-Karakter-Lokasi-dan-Organisasi.md`](../00-CORE/07-Karakter-Lokasi-dan-Organisasi.md); [`00-CORE/08-Cerita-dan-Rencana-Delapan-Buku.md`](../00-CORE/08-Cerita-dan-Rencana-Delapan-Buku.md); [`99-ADMIN/Open-Questions.md`](../99-ADMIN/Open-Questions.md). |
-| Seraphine Veyra | Peneliti lapangan; ikut ekspedisi Buku I bersama Tavian dan Kael. | [`00-CORE/07-Karakter-Lokasi-dan-Organisasi.md`](../00-CORE/07-Karakter-Lokasi-dan-Organisasi.md); [`00-CORE/08-Cerita-dan-Rencana-Delapan-Buku.md`](../00-CORE/08-Cerita-dan-Rencana-Delapan-Buku.md). |
-| Kael Veyron | Perantara informasi; memiliki peta kedua yang dirahasiakan dalam kerangka Buku I. | [`00-CORE/07-Karakter-Lokasi-dan-Organisasi.md`](../00-CORE/07-Karakter-Lokasi-dan-Organisasi.md); [`00-CORE/08-Cerita-dan-Rencana-Delapan-Buku.md`](../00-CORE/08-Cerita-dan-Rencana-Delapan-Buku.md). |
-| Mira Solenne | Namanya tercantum dalam indeks karakter. | [`00-CORE/07-Karakter-Lokasi-dan-Organisasi.md`](../00-CORE/07-Karakter-Lokasi-dan-Organisasi.md). |
-| Daren Holt | Namanya tercantum dalam indeks karakter. | [`00-CORE/07-Karakter-Lokasi-dan-Organisasi.md`](../00-CORE/07-Karakter-Lokasi-dan-Organisasi.md). |
-| Ilyra Nym | Namanya tercantum dalam indeks karakter. | [`00-CORE/07-Karakter-Lokasi-dan-Organisasi.md`](../00-CORE/07-Karakter-Lokasi-dan-Organisasi.md). |
+| Tavian Rell | Manusia laki-laki, 21 tahun, asisten survei, protagonis; motivasi pengakuan profesional dan kemandirian hidup. | [Tavian Character Arc](Tavian-Character-Arc.md); [Series Spine](Series-Spine-and-Narrative-Framework.md). |
+| Seraphine Veyra | Peneliti lapangan; menjaga metodologi, verifikasi bukti, dan etika dokumentasi. | Dokumen ini; [Ensemble Character Arcs](Ensemble-Character-Arcs.md). |
+| Kael Veyron | Perantara informasi; menghubungkan kelompok dengan jaringan, rumor, dan transaksi informasi. | Dokumen ini; [Ensemble Character Arcs](Ensemble-Character-Arcs.md). |
+| Mira Solenne | Pemandu rute lokal dan penyalin peta; diperkenalkan di Bellwether pada Buku II. | Dokumen ini; [Ensemble Character Arcs](Ensemble-Character-Arcs.md). |
+| Daren Holt | Pekerja lapangan berpengalaman dan pengawal rute; diperkenalkan di Rookbridge pada Buku II. | Dokumen ini; [Ensemble Character Arcs](Ensemble-Character-Arcs.md). |
+| Ilyra Nym | Penyalin naskah dan asisten arsip; diperkenalkan dalam Buku III. | Dokumen ini; [Ensemble Character Arcs](Ensemble-Character-Arcs.md). |
 
-Nama keenam karakter tersebut dinyatakan sebagai nama yang telah ditetapkan dalam paket kanon. Sumber: [`00-CORE/07-Karakter-Lokasi-dan-Organisasi.md`](../00-CORE/07-Karakter-Lokasi-dan-Organisasi.md), bagian “Karakter” dan “Catatan”.
-
+Nama, fungsi inti, motivasi, kekuatan, kelemahan, dan arah arc keenam karakter di atas merupakan CANON. Detail biografi yang secara khusus ditandai UNKNOWN tetap belum ditentukan.
 ## Tavian Rell
 
 ### Fakta CANON
@@ -145,4 +145,7 @@ Motivasi dan arc di atas adalah CANON. Detail biografi yang tercantum sebagai UN
 - Spesies, usia, jenis kelamin, keluarga, latar belakang, pendidikan, penampilan/desain visual final, kemampuan di luar pengolahan naskah dan arsip, hubungan personal, serta perkembangan rinci lintas Buku IV–VIII belum ditetapkan.
 ## CATATAN PENGEMBANGAN yang terpisah
 
-`98-CATATAN PENGEMBANGAN/Story-Framework.md` memuat kerangka umum tentang unsur yang dapat dimiliki profil karakter, seperti identitas, penampilan, kepribadian, latar belakang, motivasi, konflik, kemampuan, relasi, dan perkembangan. Itu merupakan CATATAN PENGEMBANGAN umum, bukan informasi karakter CANON dan bukan rincian khusus keenam karakter di atas. Proposal khusus keenam nama karakter tersedia dalam [Character Development Dossier — Draft 0.1](../98-CATATAN%20PENGEMBANGAN/Character-Development-Dossier-Draft-0.1.md). Seluruh profil, motivasi, visual, dan arc dalam dossier tersebut tetap CATATAN PENGEMBANGAN / NON-CANON; bagian UNKNOWN di Bible ini belum berubah.
+- [Character Development Dossier — Draft 0.1](../98-CATATAN%20PENGEMBANGAN/Character-Development-Dossier-Draft-0.1.md) dipertahankan sebagai arsip proses. Materi fungsi, motivasi, kekuatan, kelemahan, dan arah arc enam karakter yang secara eksplisit tercantum dalam Bible ini telah disahkan sebagai CANON.
+- Rincian dossier yang tidak dipindahkan ke Bible—termasuk detail visual sementara, Iven Rusk, Jorren Hale, kurator, kontrak Kael, dan hubungan organisasi yang belum disahkan—tetap NON-CANON.
+- [Ensemble Character Arcs](Ensemble-Character-Arcs.md) mengatur lintasan perkembangan keenam karakter secara lintas buku. [Tavian Character Arc](Tavian-Character-Arc.md) tetap menjadi rujukan khusus Tavian.
+- Detail yang masih ditandai UNKNOWN di setiap profil tidak berubah menjadi CANON hanya karena arah arc telah disahkan.
