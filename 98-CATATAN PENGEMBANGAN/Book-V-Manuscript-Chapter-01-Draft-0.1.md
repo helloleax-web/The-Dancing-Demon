@@ -24,7 +24,7 @@ Namun, setiap kali Tavian membaca dua kata itu, ia masih merasa sedang melihat s
 
 “Kalau kita terus menatapnya, tulisannya tidak akan berubah,” kata Kael.
 
-Tavian mengangkat kepala. “Gue sedang memastikan salinannya tidak rusak.”
+Tavian mengangkat kepala. “Aku sedang memastikan salinannya tidak rusak.”
 
 “Kalau begitu, cara memastikanmu terlihat seperti orang yang sedang mencari jawaban di balik tinta.”
 
