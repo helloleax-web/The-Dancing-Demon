@@ -20,6 +20,7 @@ batas informasi yang belum boleh diisi.
 -   Kelemahan inti Tavian adalah kecenderungan terlalu percaya bahwa data yang cukup dapat menyelesaikan masalah. Arc-nya bergerak menuju tanggung jawab atas penggunaan informasi, kerja sama, dan penerimaan batas pengetahuan.
 -   Fondasi naratif dan fungsi delapan buku ditetapkan dalam `01-CANON/Series-Spine-and-Narrative-Framework.md`; arc Tavian ditetapkan dalam `01-CANON/Tavian-Character-Arc.md`.
 -   Struktur konflik empat lapisan ditetapkan dalam `01-CANON/Series-Conflict-Architecture.md`; arah arc enam karakter lintas seri ditetapkan dalam `01-CANON/Ensemble-Character-Arcs.md`.
+-   Urutan pengenalan, penguatan, dan batas pengungkapan misteri utama ditetapkan dalam `01-CANON/Series-Mystery-and-Revelation-Architecture.md`. Jawaban objektif yang masih UNKNOWN/MYSTERY tetap terbuka.
 -   Fungsi, motivasi inti, kekuatan, kelemahan, dan arah arc enam karakter utama tercatat dalam `01-CANON/Character-Bible.md`. Detail biografi yang masih UNKNOWN tetap terbuka.
 
 -   Masyarakat masa kini secara umum menyerupai fantasi abad
