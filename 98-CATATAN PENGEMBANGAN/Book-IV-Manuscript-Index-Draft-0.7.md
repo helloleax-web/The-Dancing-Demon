@@ -1,5 +1,5 @@
 # Book IV — Manuscript Index
-## Draft 0.7 — Line Edit Pass
+## Draft 0.8 — Access Decision Prepared
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Progress:** 20 scene prosa dalam empat bab. Line edit pass telah dilakukan pada seluruh bab; proofread final belum selesai.
@@ -16,6 +16,7 @@
 - [Scene Outline Draft 0.5](Book-IV-Scene-Outline-Draft-0.5.md).
 - [Character Knowledge Matrix Draft 0.6](Book-IV-Character-Knowledge-Matrix-Draft-0.6.md).
 - [Discovery Mechanism Decision Brief Draft 0.2](Book-IV-Prasasti-I-Discovery-Mechanism-Decision-Brief-Draft-0.2.md).
+- [Prasasti I Access and Provenance Decision Brief Draft 0.1](Book-IV-Prasasti-I-Access-and-Provenance-Decision-Brief-Draft-0.1.md).
 - [Discovery Mechanism Implementation Audit Draft 0.1](Book-IV-Discovery-Mechanism-Implementation-Audit-Draft-0.1.md).
 - [Manuscript Continuity Audit Draft 0.7](Book-IV-Manuscript-Continuity-Audit-Draft-0.7.md).
 - [Book III–IV Transition Audit Draft 0.1](Book-III-IV-Transition-Audit-Draft-0.1.md).
@@ -32,7 +33,7 @@
 
 ## 4. OPEN QUESTION yang masih blocking
 
-- Jalur konkret yang membawa kelompok dari temuan Northglass kepada materi Prasasti I.
+- Jalur konkret yang membawa kelompok dari temuan Northglass kepada materi Prasasti I; tiga opsi NON-CANON telah disusun dalam Access and Provenance Decision Brief Draft 0.1, dengan rekomendasi Opsi A (rujukan terbatas dari Jorren kepada pemegang arsip lokal), belum dipilih kreator.
 - Lokasi penyimpanan naskah dan salinan bunyi.
 - Identitas penjaga atau pemilik materi.
 - Asal-usul dan riwayat perpindahan.
@@ -56,7 +57,7 @@ Jangan menetapkan jawaban atas hal-hal tersebut sebagai CANON tanpa dasar atau k
 **Line edit:** selesai untuk empat bab.  
 **Proofread mekanis awal:** pemeriksaan jumlah scene, istilah kunci, dan pengulangan kata telah dilakukan.  
 **Proofread final:** belum selesai.  
-**Blocking:** jalur perolehan/akses materi Prasasti I belum jelas.  
+**Blocking:** keputusan jalur perolehan/akses materi Prasasti I masih menunggu persetujuan kreator; opsi dan rekomendasi telah didokumentasikan.  
 **Storyboard:** baseline teks telah diperiksa; thumbnail, page-rhythm review, lettering, layout, dan persetujuan kreator belum dilakukan.
 
-**Dampak CANON: tidak ada.**
+**Dampak CANON: tidak ada.** Opsi akses dalam decision brief tetap NON-CANON dan belum diterapkan ke manuskrip.
