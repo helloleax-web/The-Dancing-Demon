@@ -8,6 +8,8 @@
 - [Source Audit & Creator Decision Register — Draft 0.1](Book-VIII-Source-Audit-and-Creator-Decision-Register-Draft-0.1.md) — kewajiban CANON, batas misteri, dan keputusan kreator yang masih terbuka.
 - [Structural Outline — Draft 0.1](Book-VIII-Structural-Outline-Draft-0.1.md) — kerangka lima bagian dan 20 scene.
 - [Outline Audit Report — Draft 0.1](Book-VIII-Outline-Audit-Report-Draft-0.1.md) — pemeriksaan kesesuaian outline dengan fondasi CANON dan arc karakter.
+- [Character Knowledge Matrix — Draft 0.1](Book-VIII-Character-Knowledge-Matrix-Draft-0.1.md) — kontrol informasi yang diketahui keenam karakter dan pembaca.
+- [Mystery Timing Audit — Draft 0.1](Book-VIII-Mystery-Timing-Audit-Draft-0.1.md) — urutan pengungkapan, misteri yang boleh tetap terbuka, dan larangan pengungkapan dini.
 
 ## Status pengerjaan
 
