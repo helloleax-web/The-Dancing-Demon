@@ -10,7 +10,7 @@
 
 Permintaan itu datang melalui seorang kurir pada sore hari.
 
-Ilyra menerima amplop kecil dari seorang kurir yang membawa pesan dari kurator yang berhubungan dengan Arsip Lentera. Surat itu tidak memberi kelompok dasar untuk memastikan identitas kurator tersebut. Ilyra membaca isinya, lalu menyerahkannya kepada Seraphine.
+Ilyra menerima amplop kecil dari kurir yang membawa pesan dari kurator yang berhubungan dengan Arsip Lentera. Surat itu tidak memberi kelompok dasar untuk memastikan identitas kurator tersebut. Ilyra membaca isinya, lalu menyerahkannya kepada Seraphine.
 
 “Kurator meminta agar salinan catatan yang menyebut Hollow Vale tidak disebarkan sebelum sumbernya diperiksa.”
 
