@@ -24,12 +24,12 @@ Wireframe di bawah adalah skema halaman, bukan ilustrasi final. Nomor panel menu
 | memeriksa        | memberi       |
 | pijakan          | isyarat       |
 +------------------+---------------+
-| 5 — WIDE/FINAL: tangan Seraphine |
-| menyiapkan alat dokumentasi;     |
-| narasi menahan penemuan          |
+| 4 — WIDE: kelompok mendekat,     |
+| belum membaca permukaan         |
 +----------------------------------+
-| 4 — Kelompok mendekat, belum     |
-|     membaca permukaan            |
+| 5 — WIDE/FINAL: tangan Seraphine|
+| menyiapkan alat dokumentasi;    |
+| narasi menahan penemuan         |
 +----------------------------------+
 ```
 
