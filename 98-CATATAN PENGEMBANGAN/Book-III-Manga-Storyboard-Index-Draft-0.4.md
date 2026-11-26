@@ -16,6 +16,10 @@ Gunakan keenam dokumen berikut sebagai master kerja utama. Masing-masing memuat 
 - [Bab 5 — Bagian yang Hilang, Integrated Draft 0.2](Book-III-Manga-Storyboard-Chapter-05-Integrated-Draft-0.2.md)
 - [Bab 6 — Catatan di Luar Fasilitas, Integrated Draft 0.2](Book-III-Manga-Storyboard-Chapter-06-Integrated-Draft-0.2.md)
 
+## Audit ritme halaman
+
+- [Book III Manga Page Rhythm Audit — Draft 0.1](Book-III-Manga-Page-Rhythm-Audit-Draft-0.1.md)
+
 ## Riwayat dan sumber
 - Draft 0.1 per bab tetap disimpan sebagai baseline historis.
 - Enam file Revision Draft 0.2 tetap disimpan sebagai riwayat perubahan dan rincian patch asli.
