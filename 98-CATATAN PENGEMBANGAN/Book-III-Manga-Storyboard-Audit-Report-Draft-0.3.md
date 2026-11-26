@@ -1,71 +1,80 @@
-# Book III — Manga Storyboard Synchronization Audit — Draft 0.3
+# Book III — Manga Storyboard Integration & Continuity Audit — Draft 0.4
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Basis prosa aktif:** Book III Manuscript Chapters 1–6 Revision Draft 0.2.  
 **Storyboard dasar:** Chapters 1–6 Draft 0.1.  
-**Revisi panel:** Chapters 1–6 Synchronization Revision Draft 0.2.  
-**Tujuan:** mencatat perubahan panel yang diperlukan agar storyboard mengikuti prosa aktif. Ini belum merupakan finalisasi produksi manga.
+**Revisi sinkronisasi:** Chapters 1–6 Revision Draft 0.2.  
+**Master terintegrasi:** Chapters 1–6 Integrated Draft 0.2.
 
-## 1. Hasil
+## 1. Hasil integrasi
 
-Enam dokumen revisi sinkronisasi panel telah dibuat. Setiap dokumen merujuk storyboard Draft 0.1 sebagai dasar dan mencantumkan panel/halaman yang wajib diganti. Panel yang tidak disebut tetap dipertahankan dari versi dasar. Dengan demikian, revisi 0.2 adalah paket koreksi panel, bukan storyboard standalone yang menggantikan keseluruhan isi Draft 0.1.
+Enam storyboard standalone telah dibuat. Setiap file memuat seluruh storyboard dasar dan bagian koreksi sinkronisasi. Bagian koreksi secara eksplisit memiliki prioritas atas instruksi dasar pada halaman yang disebut. File Integrated Draft 0.2 menjadi master kerja; Draft 0.1 dan Revision Draft 0.2 tetap sebagai arsip dan riwayat perubahan.
 
-## 2. File revisi sinkronisasi
+## 2. Master yang dihasilkan
 
-| Bab | File revisi | Fokus koreksi |
+| Bab | Master standalone | Status |
 |---|---|---|
-| 1 | Book-III-Manga-Storyboard-Chapter-01-Revision-Draft-0.2.md | Empat kategori sumber; catatan perjalanan Hollow Vale bukan bukti pola fasilitas |
-| 2 | Book-III-Manga-Storyboard-Chapter-02-Revision-Draft-0.2.md | Rute tanpa koordinat; pemeriksaan awal dari luar; tidak mengklaim izin formal |
-| 3 | Book-III-Manga-Storyboard-Chapter-03-Revision-Draft-0.2.md | Batas akses; dua catatan fasilitas; kedatangan perusahaan dan sumber informasinya tetap misteri |
-| 4 | Book-III-Manga-Storyboard-Chapter-04-Revision-Draft-0.2.md | Kesepakatan hanya prosedur salinan; hipotesis Ilyra; salinan bocor tanpa jalur yang diketahui |
-| 5 | Book-III-Manga-Storyboard-Chapter-05-Revision-Draft-0.2.md | Ruang kecil tanpa pembongkaran; tiga kemungkinan indeks tidak lengkap; pilihan Kael |
-| 6 | Book-III-Manga-Storyboard-Chapter-06-Revision-Draft-0.2.md | Rujukan batu bertulis; empat sumber; motivasi Ilyra dan keputusan Kael |
+| 1 | Book-III-Manga-Storyboard-Chapter-01-Integrated-Draft-0.2.md | Terintegrasi |
+| 2 | Book-III-Manga-Storyboard-Chapter-02-Integrated-Draft-0.2.md | Terintegrasi |
+| 3 | Book-III-Manga-Storyboard-Chapter-03-Integrated-Draft-0.2.md | Terintegrasi |
+| 4 | Book-III-Manga-Storyboard-Chapter-04-Integrated-Draft-0.2.md | Terintegrasi |
+| 5 | Book-III-Manga-Storyboard-Chapter-05-Integrated-Draft-0.2.md | Terintegrasi |
+| 6 | Book-III-Manga-Storyboard-Chapter-06-Integrated-Draft-0.2.md | Terintegrasi |
 
-## 3. Temuan dan koreksi utama
+## 3. Audit kontinuitas lintas bab
 
-### A. Hitungan sumber
-- Fragmen fasilitas Buku I dan indeks Hollow Vale adalah dua catatan yang memiliki satu susunan rujukan khusus yang sama.
-- Penanda Rookbridge hanya memiliki motif visual umum yang mirip.
-- Laporan Daren tetap catatan terpisah tentang permukaan buatan.
-- Catatan perjalanan Hollow Vale hanya membantu pencarian rute.
-- Jangan membuat overlay empat sumber seolah semuanya bukti satu jaringan.
+### Sumber dan pola
+- Fragmen fasilitas Buku I dan indeks Hollow Vale saja yang berbagi susunan rujukan khusus.
+- Rookbridge hanya memiliki kemiripan motif umum.
+- Laporan Daren adalah catatan terpisah tentang permukaan buatan.
+- Catatan perjalanan Hollow Vale hanya membantu rute.
+- Tidak ada peta jaringan, pembuat tunggal, atau sistem fisik yang disimpulkan.
 
-### B. Akses Hollow Vale
-- Tidak ada pemilik, penjaga, otoritas, atau pemberi izin formal yang ditetapkan.
-- Panel hanya boleh menunjukkan pemeriksaan bagian yang sudah terbuka dan dapat dicapai tanpa pembongkaran.
-- Ketiadaan tanda larangan tidak boleh digambarkan sebagai bukti izin.
+### Akses dan keselamatan
+- Bab 2 hanya mendokumentasikan bagian luar pada pemeriksaan awal.
+- Bab 3 membatasi masuk pada bagian yang sudah terbuka dan dapat dicapai; pemeriksaan fisik bukan izin legal.
+- Bab 5 ruang kecil ditemukan dari celah yang sudah terbuka; tidak ada rak digeser, material berat dibersihkan, atau struktur dibongkar.
 - Status legal akses tetap OPEN QUESTION.
 
-### C. Vellum & Iron Recovery
-- Perusahaan tiba setelah dokumentasi awal dimulai.
-- Perusahaan menyebut pemberitahuan dari pihak berkepentingan tanpa mengungkap nama.
-- Jangan menggambar sumber informasi, adegan pembocoran, atau hubungan dengan perusahaan anonim Buku I.
-- Klaim belum diverifikasi; tidak ada benda dipindahkan.
+### Perusahaan dan informasi
+- Vellum & Iron Recovery tiba setelah dokumentasi awal.
+- Sumber pemberitahuan perusahaan tidak disebutkan; jalurnya tetap MYSTERY.
+- Tidak ada hubungan yang ditetapkan dengan perusahaan anonim Buku I.
+- Salinan yang beredar tidak memiliki metadata; sumber awal dan jalur kebocoran tetap UNKNOWN/MYSTERY.
 
-### D. Kesepakatan dan salinan
-- Kesepakatan mengatur sumber asli, salinan kerja, metadata, dan salinan yang boleh dibagikan.
-- Tidak ada pengalihan kepemilikan, hak tanah, akses permanen, atau izin pemindahan.
-- Prosa tidak menyatakan adanya penandatanganan kontrak; storyboard tidak boleh menggambar tanda tangan.
-- Catatan rute lokal Mira tetap berada di luar paket salinan fasilitas.
+### Kesepakatan dokumentasi
+- Hanya mengatur dokumentasi, metadata, dan distribusi salinan.
+- Tidak memberikan kepemilikan, hak tanah, akses permanen, atau hak pemindahan.
+- Tidak ada tanda tangan atau kontrak final yang boleh divisualkan.
+- Catatan rute lokal Mira tidak masuk paket salinan fasilitas.
 
-### E. Karakter dan misteri
-- Ilyra memperbaiki hipotesis dan memilih melanjutkan penelitian demi hasil yang dapat diverifikasi.
-- Kael menahan salinan tanpa persetujuan, tetapi tidak memutus jaringan atau mengungkap kontak.
-- Bagian indeks yang tidak tersedia tetap memiliki tiga kemungkinan; tidak ada adegan pencurian.
-- Batu bertulis tidak digambar atau diidentifikasi sebagai salah satu dari 13 Prasasti.
+### Karakter dan misteri
+- Ilyra memperbaiki hipotesis dan memilih penelitian berbasis hasil terverifikasi.
+- Kael menahan pengiriman salinan tanpa persetujuan; ia tidak memutus jaringan atau mengungkap kontak.
+- Indeks tidak lengkap memiliki tiga kemungkinan tetap terbuka.
+- Rujukan batu bertulis tidak diidentifikasi, tidak digambar, dan tidak dinyatakan sebagai salah satu dari XIII Prasasti.
+- NVR AGAIN, LEAX, Great War, Abstract Existence, dan entitas kosmik tidak diungkap.
 
-## 4. Status produksi
+## 4. Audit ritme dan produksi halaman
 
-- [x] Enam bab memiliki paket revisi sinkronisasi panel Draft 0.2.
-- [x] Panel yang bertentangan dengan prosa aktif ditandai untuk diganti.
-- [x] Batas sumber, akses, kesepakatan, dan misteri diperjelas.
-- [ ] Gabungkan koreksi ke enam storyboard master standalone; paket patch saat ini masih harus dibaca bersama Draft 0.1.
-- [ ] Uji ritme halaman dan jumlah panel setelah integrasi.
+Baseline Draft 0.1 berjumlah 108 halaman dan sekitar 521 panel. Angka ini belum dapat dianggap final. Integrasi mempertahankan baseline, tetapi belum menguji:
+- kepadatan panel per halaman dan variasi ukuran panel;
+- jeda visual pada reveal ruang penyimpanan dan perubahan hipotesis;
+- transisi perjalanan, establishing Hollow Vale, serta ritme negosiasi;
+- keterbacaan dokumen/metadata dalam close-up;
+- balon dialog, lettering, efek suara, dan arah baca kanan-ke-kiri.
+
+**Thumbnail visual belum dibuat.** Audit ini tidak mengklaim telah menggambar atau menguji thumbnail.
+
+## 5. Checklist
+
+- [x] Enam patch sinkronisasi diintegrasikan ke master standalone.
+- [x] Indeks storyboard diperbarui ke Draft 0.4.
+- [x] Aturan prioritas koreksi atas storyboard dasar dinyatakan di setiap master.
+- [x] Kontinuitas sumber, akses, klaim perusahaan, kesepakatan, dan misteri diaudit lintas bab.
+- [ ] Uji ritme halaman dan jumlah panel.
 - [ ] Buat thumbnail visual.
-- [ ] Periksa lettering, balon dialog, efek suara, dan urutan baca kanan-ke-kiri.
-- [ ] Audit final storyboard setelah prosa final.
+- [ ] Periksa lettering, balon dialog, efek suara, dan urutan baca.
+- [ ] Audit final setelah manuskrip final.
 
-## 5. Batas CANON
-Tidak ada perubahan CANON. Semua keputusan visual, jumlah panel, dan komposisi tetap NON-CANON.
-
-**Kesimpulan:** kontinuitas utama storyboard telah dikoreksi dalam enam paket sinkronisasi. Pekerjaan belum dapat disebut storyboard final karena integrasi ke master standalone, uji ritme, thumbnail, dan audit final masih belum dilakukan.
+**Kesimpulan:** integrasi dokumen selesai. Storyboard belum siap produksi final karena ritme halaman, thumbnail, lettering, dan audit final masih terbuka. Tidak ada perubahan CANON.
