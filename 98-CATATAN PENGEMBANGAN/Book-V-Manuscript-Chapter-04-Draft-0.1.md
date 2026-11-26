@@ -180,7 +180,7 @@ Ketiga, interpretasi yang masuk akal dan didukung sebagian bukti, tetapi belum d
 
 Keempat, pertanyaan yang belum terjawab.
 
-Pada bagian pertama, mereka mencatat bahwa musik terdengar di seluruh dunia selama Great War. Nama NVR AGAIN, yang dibaca melalui Prasasti pertama, dapat dikaitkan dengan musik tersebut berdasarkan perbandingan sumber sejarah.
+Pada bagian pertama, mereka mencatat bahwa sumber-sumber dari wilayah yang berjauhan melaporkan musik yang terdengar selama Great War. Cakupan sumber yang diperiksa belum mencakup setiap wilayah, sehingga laporan tidak mengklaim telah memverifikasi seluruh dunia. Nama NVR AGAIN, yang dibaca melalui Prasasti pertama, dapat dikaitkan dengan musik tersebut berdasarkan perbandingan sumber sejarah.
 
 Pada bagian yang sama, mereka mencatat fakta tentang jubah mana hitam: pertahanan luar biasa serta regenerasi HP dan MP secara berkelanjutan.
 
