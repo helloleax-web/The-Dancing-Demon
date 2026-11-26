@@ -2,8 +2,8 @@
 ## Bab 2: Batu yang Tidak Terbaca
 ### Revision Draft 0.2 — Scenes 6–10
 
-**Status: CATATAN PENGEMBANGAN / NON-CANON.**  
-**Fungsi:** manuskrip kerja Buku IV berdasarkan Book IV Scene Outline Draft 0.1. Semua detail baru tetap keputusan cerita draft.
+**Status: CANON — disahkan kreator.**  
+**Fungsi:** teks naratif resmi Book IV Chapter 2, Scenes 6–10. Ketidakpastian yang dinyatakan di dalam teks tetap UNKNOWN/MYSTERY dan tidak boleh diisi tanpa keputusan kreator.
 
 ### Scene 6 — Punggung Batu
 
@@ -39,11 +39,11 @@ Mereka belum menyentuh permukaannya.
 
 Setelah dokumentasi awal selesai, Seraphine meminta izin untuk memeriksa sisi yang memiliki guratan.
 
-Jorren menyetujuinya selama mereka tidak mengikis atau membersihkan permukaan dengan alat.
+Jorren mengizinkannya dalam batas yang telah disepakati sebelumnya: tidak menyentuh, mengikis, membersihkan, atau memindahkan bagian apa pun dari batu. Pemeriksaan hanya dilakukan dari posisi aman.
 
 Tavian mengarahkan cahaya ke bagian yang menghadap jalur. Guratan pertama terlihat dangkal, tetapi beberapa baris di bawahnya lebih jelas.
 
-Ilyra mendekat.
+Ilyra mendekat secukupnya untuk mengamati, tetap tanpa menyentuh batu.
 
 Ia membagi permukaan yang terlihat menjadi beberapa bidang dokumentasi. Setiap foto diberi penanda orientasi dan skala yang sama, sementara sketsanya mencatat guratan yang berlanjut melewati tepi bidang. Dengan begitu, tanda yang tampak berulang tidak langsung dianggap sebagai satu baris atau satu sistem.
 
@@ -183,5 +183,14 @@ Dan semua pertanyaan masih tertinggal pada permukaannya.
 - Ilyra belum dapat menerjemahkan tulisan; ia hanya membuat salinan bentuk yang masih dapat dipastikan.
 - Seraphine dan Tavian mendokumentasikan kondisi tanpa membersihkan atau memindahkan batu.
 - Tidak ada nama NVR AGAIN yang muncul pada bagian ini.
-- Semua detail fisik, prosedur, dan dialog tetap NON-CANON.
-- Revision 0.2 memperkuat metode dokumentasi berulang dan jejak perubahan salinan tanpa mengklaim bahwa Ilyra memahami sistem tulisan atau menerjemahkan keseluruhan prasasti.
+- Fakta kejadian, dialog, prosedur dokumentasi non-invasif, dan batas pengetahuan yang dinyatakan dalam Scenes 6–10 berstatus CANON.
+- Identitas batu sebagai objek yang dirujuk indeks Hollow Vale, pembuatnya, fungsi guratan, sistem tulisan, arah baca, dan isi terjemahan tetap UNKNOWN/MYSTERY.
+- Ilyra hanya mengklasifikasikan bentuk visual; ia belum membaca atau menerjemahkan tulisan.
+- Tidak ada nama NVR AGAIN yang muncul pada bagian ini.
+
+## Pengesahan CANON
+- Scenes 6–10 dalam dokumen ini ditetapkan sebagai teks naratif resmi Book IV Chapter 2.
+- Pemeriksaan batu tetap non-invasif: tidak menyentuh, mengikis, membersihkan, atau memindahkan batu maupun endapan.
+- Izin Jorren tetap terbatas pada akses dan dokumentasi sesuai batas yang telah ditetapkan di Chapter 1; izin ini tidak memberinya kewenangan mewakili seluruh masyarakat.
+- Identitas batu, pembuat, sistem tulisan, fungsi tanda, arah baca, isi terjemahan, dan hubungan pasti dengan indeks Hollow Vale tetap UNKNOWN/MYSTERY.
+- Arahan panel, komposisi, lettering, dan visual storyboard bukan bagian dari pengesahan ini; semuanya tetap materi adaptasi.
