@@ -90,3 +90,21 @@
 ### Halaman 18 — batas adegan
 - Manuskrip menyatakan batu semakin jelas terlihat, tetapi kelompok belum mendekat untuk membacanya.
 - Thumbnail harus berhenti pada persiapan dokumentasi dan penegasan etika; jangan memperlihatkan pembacaan permukaan atau hasil foto.
+
+
+## 7. Register perbedaan manuskrip dan storyboard
+
+Pemeriksaan silang penuh terhadap manuskrip Scene 1–5 dan storyboard Halaman 1–18 menemukan sejumlah pemadatan/perbedaan sumber yang kini dicatat dalam `Book-IV-Manga-Storyboard-Source-Discrepancy-Register-Chapter-01-Draft-0.1.md`.
+
+Temuan utama:
+- Halaman 1–2: dua salinan kerja Ilyra dan sebagian peringatan Seraphine dari manuskrip tidak divisualkan eksplisit.
+- Halaman 8: kata “mungkin” pada informasi pengangkut hilang dari storyboard; arah harus tetap tentatif.
+- Halaman 11: alasan Jorren tentang perlindungan batu tidak muncul dalam storyboard.
+- Halaman 12: beberapa syarat izin dari manuskrip dipadatkan.
+- Halaman 14: kalimat bersyarat Jorren yang menegaskan identifikasi belum pasti dipadatkan.
+- Halaman 15: storyboard tidak menyebut lokasi barang; layout mengikuti manuskrip dengan meninggalkan perlengkapan berat di tempat singgah.
+- Halaman 16: detail pencatatan kondisi dan penanganan endapan dari manuskrip tidak disebut eksplisit dalam storyboard.
+
+**Keputusan review:** perbedaan dicatat, bukan diselaraskan diam-diam. Storyboard tetap menjadi acuan langsung layout saat ini; bila dialog atau beat manuskrip hendak dipulihkan, storyboard harus direvisi lebih dulu. Semua keputusan tetap NON-CANON.
+
+**Dampak CANON: tidak ada.**
