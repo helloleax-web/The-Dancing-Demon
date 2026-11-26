@@ -1,8 +1,8 @@
 # Book IV — Manga Storyboard Cross-Check Audit
-## Draft 0.3 — Setelah Mekanisme B
+## Draft 0.4 — Setelah Mekanisme B dan Akses A
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
-**Ruang lingkup:** storyboard Chapters 1–4 dibandingkan dengan manuskrip aktif dan Scene Outline Draft 0.5.
+**Ruang lingkup:** storyboard Chapters 1–4 dibandingkan dengan manuskrip aktif dan Scene Outline Draft 0.6.
 
 ## 1. Ringkasan hasil
 
@@ -10,7 +10,7 @@
 |---|---|---|---|
 | 1 | Chapter 1 Revision Draft 0.3 | Chapter 1 Revision Draft 0.3 | LULUS setelah koreksi sumber rute |
 | 2 | Chapter 2 Revision Draft 0.2 | Chapter 2 Revision Draft 0.2 | LULUS untuk jendela pengetahuan dan dokumentasi |
-| 3 | Chapter 3 Revision Draft 0.3 | Chapter 3 Revision Draft 0.2 | LULUS untuk mekanisme B dan reveal Scene 14 |
+| 3 | Chapter 3 Revision Draft 0.5 | Chapter 3 Storyboard Revision Draft 0.3 | LULUS BERSYARAT untuk akses A, mekanisme B, dan reveal Scene 14 |
 | 4 | Chapter 4 Revision Draft 0.3 | Chapter 4 Revision Draft 0.2 | LULUS untuk pemisahan sumber dan pelaporan |
 
 ## 2. Koreksi Bab 1
@@ -32,8 +32,9 @@ Koreksi:
 
 ## 4. Bab 3
 
-- Storyboard Revision Draft 0.2 menggantikan baseline Draft 0.1 yang menggambarkan transliterasi langsung batu.
-- Halaman 1–4: dokumentasi Northglass dinyatakan belum cukup; jalur pemeriksaan lanjutan diperkenalkan tanpa menetapkan lokasi atau penjaga.
+- Storyboard Revision Draft 0.3 menggantikan Draft 0.2 dan disinkronkan dengan Chapter 3 Revision Draft 0.5.
+- Halaman 1–3: dokumentasi Northglass dinyatakan belum cukup; Jorren menyampaikan rujukan terbatas kepada penjaga kumpulan dokumen anonim.
+- Halaman 4: penjaga anonim memberi izin konsultasi terawasi di tempat; tidak ada izin membawa, memisahkan, menyalin, atau menyebarluaskan materi.
 - Halaman 5–8: naskah interpretasi dan salinan bunyi diperlihatkan sebagai pasangan.
 - Halaman 9–14: pembacaan baris demi baris dan pendengaran salinan bunyi; judul belum terlihat.
 - Halaman 15: NVR AGAIN pertama kali muncul sebagai judul naskah.
@@ -56,6 +57,6 @@ Koreksi:
 
 ## 7. Kesimpulan
 
-Keempat storyboard kini memiliki baseline yang konsisten dengan mekanisme B dan transisi Book III–IV pada tingkat teks/panel yang diperiksa. Audit ini bukan persetujuan visual final. Produksi thumbnail, pengujian ritme halaman, dan persetujuan kreator masih diperlukan.
+Keempat storyboard memiliki baseline yang konsisten dengan mekanisme B dan transisi Book III–IV pada tingkat teks/panel yang diperiksa. Chapter 3 kini juga menampilkan jalur akses A sebagai keputusan pengembangan NON-CANON. Audit ini bukan persetujuan visual final. Provenance materi tetap UNKNOWN. Produksi thumbnail, pengujian ritme halaman, sinkronisasi final setelah proofread, dan persetujuan kreator masih diperlukan.
 
 **Dampak CANON: tidak ada.**
