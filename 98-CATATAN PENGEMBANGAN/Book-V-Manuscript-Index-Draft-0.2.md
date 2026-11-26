@@ -2,7 +2,7 @@
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Progress:** 22 scene; seluruh lima bab telah memiliki pass revisi 0.3 atau lebih baru. Line edit awal Bab 1 Scene 3 dan Bab 4 Scene 14 telah dilakukan; audit kontinuitas mencatat temuan tersebut.  
-**Jumlah kata:** 11.065 kata termasuk judul, metadata, dan catatan tambahan; dihitung ulang setelah revision pass 0.3.
+**Jumlah kata:** 11.109 kata termasuk judul, metadata, dan catatan tambahan; dihitung ulang setelah revision pass 0.3.
 
 ## Struktur bab
 
