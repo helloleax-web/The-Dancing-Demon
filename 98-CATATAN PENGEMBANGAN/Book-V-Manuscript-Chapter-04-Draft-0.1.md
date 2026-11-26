@@ -1,6 +1,6 @@
 # Book V — Perang yang Tertinggal
 ## Bab 4: Sejarah yang Diperebutkan
-### Revision Draft 0.3 — Scenes 14–18
+### Revision Draft 0.4 — Scenes 14–18
 
 **Status: CATATAN PENGEMBANGAN / NON-CANON.**  
 **Basis:** Book V Scene Outline Draft 0.1, Book V Character Knowledge Matrix Draft 0.1, dan fakta CANON yang telah dibatasi dalam dokumen sejarah.  
@@ -12,7 +12,7 @@
 
 Tawaran itu datang melalui seseorang yang telah beberapa kali meminta salinan laporan mereka.
 
-Ia memperkenalkan dirinya sebagai penghubung sebuah penerbit yang sedang menyiapkan buku ringkas tentang Great War. Ia telah membaca sebagian hasil pemeriksaan kelompok dan tertarik pada hubungan antara nama NVR AGAIN dengan musik yang tercatat selama perang.
+Ia memperkenalkan dirinya sebagai penghubung sebuah penerbit yang sedang menyiapkan buku ringkas tentang Great War. Ia telah membaca sebagian hasil pemeriksaan kelompok dan tertarik pada hubungan antara nama NVR AGAIN dan musik yang tercatat selama perang.
 
 “Pembaca membutuhkan sesuatu yang bisa diikuti,” katanya. “Satu kronologi. Satu garis besar. Tidak terlalu banyak catatan kaki.”
 
@@ -26,7 +26,7 @@ Seraphine menatap lembar rancangan yang dibawanya.
 
 Penghubung itu membuka halaman berikutnya. Ada beberapa peristiwa yang ditempatkan dalam satu urutan, meski sumber aslinya tidak memiliki penanggalan yang dapat dibandingkan langsung.
 
-Tavian melihat tabel tersebut. Beberapa tanggal salinan ditulis seolah-olah merupakan tanggal kejadian. Satu kutipan dari catatan perjalanan juga dipindahkan ke bagian yang berbeda dari konteks aslinya.
+Tavian memeriksa tabel tersebut. Beberapa tanggal penyalinan ditulis seolah-olah merupakan tanggal kejadian. Satu kutipan dari catatan perjalanan juga dipindahkan ke bagian yang berbeda dari konteks aslinya.
 
 “Ini bukan sekadar diringkas,” kata Tavian. “Beberapa keterangannya berubah.”
 
@@ -58,7 +58,7 @@ Penghubung itu mengambil kembali lembar rancangan.
 
 “Kalau begitu, berikan kami versi yang bisa dipakai. Kami tidak bisa menerbitkan daftar pertanyaan.”
 
-Ia lalu menjelaskan syarat yang sebenarnya mereka inginkan: kronologi utama harus tampil tanpa jeda ketidakpastian, catatan asal sumber dipindahkan ke lampiran, dan kesaksian yang tidak mendukung alur utama tidak perlu dimasukkan. Nama pemberi kesaksian boleh dicantumkan jika dianggap menambah bobot cerita.
+Ia kemudian menjelaskan syarat yang sebenarnya mereka inginkan: kronologi utama harus tampil tanpa jeda ketidakpastian, catatan asal sumber dipindahkan ke lampiran, dan kesaksian yang tidak mendukung alur utama tidak perlu dimasukkan. Nama pemberi kesaksian boleh dicantumkan jika dianggap menambah bobot cerita.
 
 Seraphine menutup rancangan itu. “Perubahan itu akan mengubah bobot bukti di mata pembaca. Dan nama pemberi kesaksian tidak bisa dicantumkan tanpa izin.”
 
@@ -76,7 +76,7 @@ Seraphine memeriksa daftar izin. Nama keluarga itu memang tidak pernah disetujui
 
 Kael mengangguk. “Dan penerbit bisa mendapatkan cerita, sementara mereka kehilangan kendali atas cerita sendiri.”
 
-Setelah itu Tavian memeriksa kembali rancangan yang tertinggal sebagai salinan. Ia menandai bagian yang menggunakan tanggal salinan sebagai tanggal kejadian dan bagian yang menghapus perbedaan sumber.
+Setelah penghubung itu pergi, Tavian memeriksa kembali salinan rancangan yang tertinggal. Ia menandai bagian yang menggunakan tanggal salinan sebagai tanggal kejadian dan bagian yang menghapus perbedaan sumber.
 
 Kael menyandarkan tubuhnya.
 
@@ -92,7 +92,7 @@ Kalimat itu berasal dari satu catatan perjalanan yang sebelumnya mereka periksa.
 
 “Kutipan ini tidak lagi mengatakan hal yang sama,” kata Ilyra.
 
-Ia meletakkan sumber asli di samping rancangan penerbit, lalu menandai batas paragraf yang hilang. Tavian mencocokkan nomor koleksi dan halaman.
+Ia meletakkan sumber asli di samping rancangan penerbit, lalu menandai bagian konteks yang dihilangkan. Tavian mencocokkan nomor koleksi dan halaman.
 
 “Bagian yang dipotong menjelaskan situasinya,” kata Ilyra. “Catatan itu merekam sesuatu yang didengar penulis selama perjalanan. Di rancangan ini, kalimatnya berdiri sendiri dan terdengar seperti keterangan tentang kejadian yang lebih luas.”
 
@@ -178,7 +178,7 @@ Tavian membuat bagian yang merangkum sumber dan asalnya. Ilyra menyusun perbandi
 
 Kael membantu menilai bagaimana laporan itu akan dibaca oleh pihak yang tidak mengikuti penelitian sejak awal.
 
-Mereka membagi hasilnya menjadi empat kategori.
+Mereka mengelompokkan hasilnya ke dalam empat kategori.
 
 Pertama, informasi yang didukung oleh beberapa sumber yang dapat diperiksa secara terpisah.
 
@@ -250,7 +250,7 @@ Mereka memutuskan untuk menyiapkan dua keluaran yang berbeda. Salinan penelitian
 
 Seraphine menetapkan satu aturan tambahan: tidak ada kutipan atau nama pemberi kesaksian yang boleh dipublikasikan hanya karena penerbit menganggapnya menarik. Izin dan konteks sumber harus diperiksa lebih dahulu.
 
-Tidak ada satu pihak yang mendapat seluruh dokumen tanpa batas.
+Tidak ada pihak yang memperoleh akses tanpa batas ke seluruh dokumen.
 
 Tavian memasukkan tabel kronologi, daftar sumber, dan hasil perbandingan ke dalam map. Laporan itu tidak menjawab semua pertanyaan. Namun, ia juga tidak menghapus bagian yang tidak cocok hanya agar terlihat selesai.
 
