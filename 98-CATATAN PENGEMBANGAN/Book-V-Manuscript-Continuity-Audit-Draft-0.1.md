@@ -3,6 +3,8 @@
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Cakupan:** lima bab manuskrip, 22 scene; dibandingkan dengan outline Buku V, Character Knowledge Matrix, arsitektur seri, fakta CANON Great War, NVR AGAIN, jubah mana hitam, Resonansi Hitam, dan penutup Buku IV.
 
+> **Catatan status:** dokumen ini adalah versi awal dan telah disupersesi oleh dokumen terkait Draft 0.2. Gunakan audit, index, dan character knowledge matrix Draft 0.2 untuk status terbaru.
+
 ## 1. Hasil ringkas
 
 - Seluruh 22 scene outline telah memiliki prosa awal.
