@@ -230,8 +230,8 @@ Penemuan didokumentasikan dan diumumkan dengan batas interpretasi yang jelas. Na
 ## 8. Dokumen terkait
 
 - [Eight-Book Series Architecture — Draft 0.1](Eight-Book-Series-Architecture-Draft-0.1.md)
-- [Book III Scene Outline — Draft 0.2](Book-III-Scene-Outline-Draft-0.1.md)
-- [Book III Manuscript Index — Draft 0.2](Book-III-Manuscript-Index-Draft-0.1.md)
+- [Book III Scene Outline — Draft 0.2](Book-III-Scene-Outline-Draft-0.2.md)
+- [Book III Manuscript Index — Draft 0.7](Book-III-Manuscript-Index-Draft-0.7.md)
 - [Thirteen Prasasti](../01-CANON/Thirteen-Prasasti.md)
 - [Great War and Resonansi Hitam](../01-CANON/Great-War-and-Resonansi-Hitam.md)
 - [Character Bible](../01-CANON/Character-Bible.md)
