@@ -1,4 +1,4 @@
-# Book IV — Manga Storyboard Audit — Draft 0.2
+# Book IV — Manga Storyboard Audit — Draft 0.3
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Cakupan:** empat storyboard manga, dibandingkan dengan manuskrip dan outline revisi 0.2.
@@ -15,7 +15,7 @@
 
 ## 2. Penyelarasan dengan manuskrip 0.2
 
-- Bab 1–2 tidak memerlukan perubahan visual pada pass ini; nama NVR AGAIN tidak muncul sebelum pengungkapan.
+- Bab 1–2 telah diselaraskan dengan manuskrip revision 0.2: Bab 1 membatasi kewenangan izin Jorren dan menjaga konteks lokasi; Bab 2 memperlihatkan dokumentasi per bidang, klasifikasi guratan, serta jejak versi salinan. Nama NVR AGAIN tetap tidak muncul sebelum pengungkapan.
 - Bab 3 memperjelas bahwa Ilyra menghasilkan transliterasi satu rangkaian tanda, bukan terjemahan seluruh teks.
 - Bab 3 tetap menempatkan kemunculan pertama NVR AGAIN pada Halaman 15, sesuai Scene 14.
 - Bab 4 menyebut hasil tersebut sebagai transliterasi dalam laporan dan distribusi salinan.
@@ -31,12 +31,12 @@
 
 ## 4. Isu yang masih terbuka
 
-- Storyboard belum menjelaskan secara visual sumber pembanding yang membuat transliterasi Ilyra dapat diuji; revisi prosa perlu menentukan metode yang masuk akal.
+- Storyboard Bab 2 kini menunjukkan standar dokumentasi bentuk, tetapi Bab 3 masih harus memperlihatkan sumber pembanding yang membuat transliterasi Ilyra dapat diuji.
 - Hubungan medium batu Northglass dengan bentuk naskah interpretasi in-world CANON masih OPEN QUESTION.
 - Jangan menggambar semua 13 Prasasti sebagai batu sejenis sebelum medium tiap naskah ditetapkan.
 - Hak akses dan proses dokumentasi perlu terlihat sebagai batas yang disepakati, bukan keputusan kepemilikan final.
 - Belum ada thumbnail final, lettering, layout cetak, atau desain visual final.
 
-**Kesimpulan:** storyboard mempertahankan total 74 halaman dan 370 panel serta mengikuti jendela pengungkapan NVR AGAIN. Bab 3–4 telah diselaraskan dengan klarifikasi transliterasi. Ini audit kontinuitas visual, bukan finalisasi produksi manga.
+**Kesimpulan:** storyboard mempertahankan total 74 halaman dan 370 panel serta mengikuti jendela pengungkapan NVR AGAIN. Bab 1–2 diselaraskan dengan revisi izin dan metode dokumentasi; Bab 3–4 mempertahankan klarifikasi transliterasi. Ini audit kontinuitas visual, bukan finalisasi produksi manga.
 
 **Dampak CANON: tidak ada.**
