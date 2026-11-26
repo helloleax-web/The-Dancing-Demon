@@ -2,7 +2,7 @@
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Progress:** 22 scene; seluruh lima bab telah memiliki pass revisi 0.3 atau lebih baru. Line edit awal Bab 1 Scene 3 dan Bab 4 Scene 14 telah dilakukan; audit kontinuitas mencatat temuan tersebut.  
-**Jumlah kata:** 11.233 kata termasuk judul, metadata, dan catatan tambahan; dihitung ulang setelah revision pass 0.3.
+**Jumlah kata:** 11.371 kata termasuk judul, metadata, dan catatan tambahan; dihitung ulang setelah revision pass 0.3.
 
 ## Struktur bab
 
@@ -61,3 +61,12 @@
 - Manuskrip belum final; karakter pendukung, kehidupan kota Orlenn, pemadatan dialog, dan pemeriksaan prosa lintas bab masih perlu dikerjakan.
 
 **Dampak CANON: tidak ada.**
+
+
+## Line edit dialog Bab 1–2
+
+- Chapter 1 revision pass: diferensiasi dialog Tavian, Seraphine, Ilyra, dan Mira; Scene 4 dirapikan agar pencatatan fakta hilangnya LEAX tidak bercampur dengan kronologi.
+- Chapter 2 revision pass: Sava diberi suara yang lebih berakar pada praktik sejarah lisan; fungsi Seraphine, Ilyra, dan Tavian dibedakan dalam pemeriksaan independensi dan perumusan hasil.
+- Tidak ada perubahan CANON. Semua adegan dan dialog Book V tetap NON-CANON.
+- Jumlah kata setelah pass ini: **11.371 kata** termasuk judul, metadata, dan catatan tambahan.
+- Rincian audit: lihat bagian 16 pada Book V Manuscript Continuity Audit Draft 0.2.
