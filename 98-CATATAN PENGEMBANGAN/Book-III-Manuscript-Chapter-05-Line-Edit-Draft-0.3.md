@@ -1,6 +1,6 @@
 # Book III — Sisa-Sisa yang Tertinggal
 ## Bab 5: Bagian yang Hilang
-### Revisi Prosa 0.2 — Scenes 15–17
+### Line Edit Draft 0.3 — Scenes 15–17
 
 **Status: CATATAN PENGEMBANGAN / NON-CANON.**  
 **Basis:** Book III Scene Outline Draft 0.2; Character Bible; Ensemble Character Arcs; Chapters 3–4 Revision Draft 0.2.  
