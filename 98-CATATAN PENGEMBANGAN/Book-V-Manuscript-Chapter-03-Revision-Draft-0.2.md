@@ -1,6 +1,6 @@
 # Book V — Perang yang Tertinggal
 ## Bab 3: Resonansi Hitam
-### Revision Draft 0.2 — Scenes 9–13
+### Revision Draft 0.3 — Scenes 9–13
 
 **Status: CATATAN PENGEMBANGAN / NON-CANON.**  
 **Basis:** Book V Scene Outline Draft 0.1, Book V Character Knowledge Matrix Draft 0.1, serta fakta CANON mengenai jubah mana hitam dan istilah Resonansi Hitam.  
@@ -11,6 +11,8 @@
 ### Scene 9 — Catatan Jubah
 
 Koleksi mengenai jubah itu berada di bagian yang berbeda dari catatan musik.
+
+Hari itu ruang pemeriksaan dipenuhi suara kertas dan langkah petugas. Beberapa meja harus dikosongkan lebih cepat karena ada dokumen rapuh yang akan dipindahkan ke ruang penyimpanan. Neral memberi mereka waktu terbatas untuk memeriksa tiga nomor koleksi sebelum berkas dikembalikan. Seraphine membagi pekerjaan agar mereka tidak menghabiskan waktu pada salinan yang sama.
 
 Neral tidak langsung memberikan semua dokumen. Ia lebih dulu menunjukkan indeks yang memuat beberapa ringkasan, lalu menjelaskan bahwa keterangan tersebut berasal dari sumber yang berbeda. Sebagian berupa salinan laporan, sebagian catatan administratif, dan sebagian lagi hanya kutipan yang disimpan bersama dokumen lain.
 
@@ -49,6 +51,8 @@ Dokumen kedua menggunakan susunan kalimat yang berbeda. Bagian yang tersisa lebi
 Ilyra menandai nomor dokumen yang memiliki rujukan serupa.
 
 Kael membaca bagian yang tersedia dari balik bahu mereka. “Benda seperti ini pasti membuat orang ingin tahu siapa yang memilikinya.”
+
+Seorang pengunjung di meja sebelah mendengar percakapan itu dan menyela bahwa ia pernah membaca teori tentang jubah serupa. Ia menyebut beberapa kemungkinan, tetapi ketika Ilyra menanyakan nomor sumbernya, ia hanya bisa menyebut judul sebuah ringkasan yang tidak tercantum dalam katalog Balai. Seraphine berterima kasih atas informasinya, lalu mencatatnya sebagai petunjuk bibliografis yang belum diverifikasi, bukan sebagai sumber pendukung.
 
 “Rasa ingin tahu bukan bukti,” kata Seraphine.
 
@@ -223,7 +227,7 @@ Seraphine mendengarkan sampai ia selesai.
 
 “Kami punya beberapa kemungkinan yang belum dapat diuji,” jawab Seraphine. “Itu bukan hal yang sama dengan kesimpulan.”
 
-Peneliti itu akhirnya mengangguk dan kembali ke mejanya.
+Peneliti itu akhirnya mengangguk dan kembali ke mejanya. Sebelum pergi, ia meminta agar namanya tidak dicantumkan dalam catatan kelompok karena ia belum menerbitkan teorinya. Seraphine menyetujui permintaan itu dan hanya mencatat bahwa sebuah hipotesis lisan pernah diajukan oleh pengunjung tanpa identitas publik. Kael mengamati bahwa bahkan orang yang ingin teorinya didengar kadang belum siap mempertanggungjawabkannya di depan umum.
 
 Kael memperhatikan punggungnya. “Dia terlihat yakin.”
 
@@ -257,3 +261,4 @@ Lalu ia menyimpan catatannya.
 - Tidak ditetapkan pembuat, pemakai, jumlah, distribusi, cara perolehan, durasi, atau batas jubah.
 - Tidak ada informasi baru tentang LEAX selain fakta CANON bahwa ia menghilang setelah Great War dan sekutunya memperoleh jubah mana hitam; tidak ada hubungan pasti jubah dengan 13 Prasasti.
 - Semua dokumen, dialog, dan peneliti pendukung dalam bab ini tetap NON-CANON.
+- Revision 0.3 menambah tekanan waktu akses koleksi, membedakan petunjuk bibliografis dari bukti, dan memperlihatkan etika pencatatan hipotesis lisan; tidak ada mekanisme jubah atau cakupan Resonansi Hitam yang ditetapkan.
