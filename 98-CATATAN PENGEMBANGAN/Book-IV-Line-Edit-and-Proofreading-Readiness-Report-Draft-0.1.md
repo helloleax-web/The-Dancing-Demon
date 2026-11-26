@@ -1,5 +1,5 @@
 # Book IV — Line Edit and Proofreading Readiness Report
-## Draft 0.1
+## Draft 0.2 — Setelah Jalur Akses A
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Ruang lingkup:** manuskrip aktif Book IV Chapters 1–4, CANON *Thirteen Prasasti*, dan *Metode Penafsiran Tiga Belas Prasasti — Draft 0.2*.  
@@ -56,13 +56,13 @@
 Chapter 3 Scenes 11–12 belum menjelaskan secara konkret bagaimana tindak lanjut Northglass memberi kelompok akses kepada naskah interpretasi dan salinan bunyi.
 
 Hal-hal yang belum ditetapkan:
-1. Siapa atau apa yang memberi petunjuk lanjutan.
-2. Di mana naskah dan salinan bunyi ditemukan/disimpan.
-3. Siapa penjaga atau pemilik materi.
-4. Atas dasar apa kelompok dapat memeriksa materi.
+1. Identitas penjaga kumpulan dokumen dan kewenangan/legitimasinya.
+2. Lokasi geografis tempat penyimpanan.
+3. Kepemilikan sah, asal-usul, riwayat perpindahan, dan autentikasi materi.
+4. Apakah penjaga mengetahui asal-usul materi.
 5. Apakah Northglass memiliki hubungan material/historis dengan Prasasti I atau hanya memicu jalur penyelidikan.
 
-Line edit sengaja tidak mengarang jawaban tersebut. Ini bukan sekadar masalah ejaan; jalur penemuan harus diputuskan atau ditulis dengan cara yang secara sengaja mempertahankan misteri tanpa membuat perpindahan adegan terasa seperti lompatan.
+Jalur sebab-akibat dan dasar konsultasi kini dijelaskan melalui keputusan pengembangan NON-CANON Opsi A: Jorren menyampaikan rujukan terbatas, lalu penjaga anonim memberi izin konsultasi terawasi di tempat. Detail yang tidak perlu untuk adegan—identitas, lokasi, kepemilikan sah, provenance, dan autentikasi—tetap OPEN QUESTION dan tidak boleh diisi sebagai fakta. Celah akses naratif tidak lagi menjadi lompatan adegan, tetapi proofread manual tetap harus menguji kejelasan dan kewajaran transisinya.
 
 ## 6. Risiko kontinuitas yang perlu ditangani saat proofread
 
@@ -75,8 +75,8 @@ Line edit sengaja tidak mengarang jawaban tersebut. Ini bukan sekadar masalah ej
 
 ## 7. Tahap berikutnya
 
-1. Putuskan atau desain jalur akses/provenance yang belum dijelaskan.
-2. Lakukan proofread manual empat bab secara berurutan setelah blocking selesai.
+1. Lakukan proofread manual atas jalur akses A dan pastikan izin terbatas tidak berubah menjadi hak menyalin/membawa materi.
+2. Lakukan proofread manual empat bab secara berurutan setelah sinkronisasi akses selesai.
 3. Lakukan pembacaan keras untuk ritme dialog dan repetisi narasi.
 4. Sinkronkan storyboard Bab 2 dan lakukan panel-by-panel cross-check final.
 5. Revisi indeks, matriks karakter, dan audit setelah proofread final.
