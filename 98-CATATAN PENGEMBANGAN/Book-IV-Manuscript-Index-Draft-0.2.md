@@ -37,8 +37,8 @@
 
 ## Produksi manga
 
-- [Book IV Manga Storyboard Index — Draft 0.1](Book-IV-Manga-Storyboard-Index-Draft-0.1.md) — empat storyboard, 74 halaman dan 370 panel.
-- [Book IV Manga Storyboard Audit — Draft 0.1](Book-IV-Manga-Storyboard-Audit-Report-Draft-0.1.md) — audit awal.
-- Storyboard Bab 3 dan 4 perlu diselaraskan dengan klarifikasi transliterasi pada pass 0.2.
+- [Book IV Manga Storyboard Index — Draft 0.2](Book-IV-Manga-Storyboard-Index-Draft-0.2.md) — empat storyboard, 74 halaman dan 370 panel.
+- [Book IV Manga Storyboard Audit — Draft 0.2](Book-IV-Manga-Storyboard-Audit-Report-Draft-0.2.md) — audit visual setelah klarifikasi transliterasi.
+- Storyboard Bab 3 dan 4 sudah diselaraskan; pemeriksaan final dilakukan setelah revisi prosa berikutnya.
 
 **Dampak CANON: tidak ada.**
