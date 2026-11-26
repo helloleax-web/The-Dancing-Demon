@@ -10,7 +10,7 @@
 - Pertanyaan dramatis berpusat pada tanggung jawab atas informasi dan konsekuensinya, selaras dengan tema ensemble CANON.
 - Konflik utama diusulkan melalui keputusan informasi dalam keadaan darurat; bukan antagonis tunggal.
 - Keenam karakter memperoleh ujian yang sesuai dengan arc CANON.
-- Makna judul *The Dancing Demon* ditahan sebagai slot pengungkapan yang memerlukan keputusan kreator.
+- Makna judul *The Dancing Demon* memiliki working meaning NON-CANON: metafora pola interpretasi yang terus berubah, bukan satu monster atau identitas Abstract Existence.
 - Abstract Existence tidak diposisikan sebagai final boss atau jawaban universal.
 - Misteri yang tidak wajib dijawab tetap dapat menjadi UNKNOWN.
 - Seluruh konflik, lokasi, pihak, dan kejadian Buku VIII tetap NON-CANON.
@@ -41,7 +41,7 @@
 
 | Misteri | Risiko | Pengamanan |
 |---|---|---|
-| The Dancing Demon | Judul ditafsirkan sebagai nama entitas sebelum kreator menetapkan | Slot Scene 18 tidak boleh ditulis sebelum keputusan kreator |
+| The Dancing Demon | Metafora terlalu abstrak atau berubah menjadi entitas literal | Scene 17–18 harus bertumpu pada motif Prasasti dan pilihan karakter; makna tetap NON-CANON sampai disahkan pengguna |
 | 13 Prasasti | Semua teks dipaksa menjadi satu kisah | Tetap pisahkan sumber, tafsir, dan hipotesis; tidak semua harus memiliki fungsi sama |
 | NVR AGAIN | Nama dianggap menjelaskan asal dan mekanisme musik | Hanya gunakan fakta bahwa nama terungkap melalui Prasasti I dan musik terdengar selama Great War |
 | Great War | Satu arsip dipakai sebagai jawaban lengkap | Pertahankan sumber yang terfragmentasi dan kontradiksi yang belum terselesaikan |
