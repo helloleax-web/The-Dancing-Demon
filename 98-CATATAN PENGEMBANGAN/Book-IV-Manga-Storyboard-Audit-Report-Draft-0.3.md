@@ -1,5 +1,5 @@
 # Book IV — Manga Storyboard Cross-Check Audit
-## Draft 0.5 — Setelah Batas Konsultasi Diperjelas
+## Draft 0.6 — Cross-Check terhadap Proofread Draft 0.1
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Ruang lingkup:** storyboard Chapters 1–4 dibandingkan dengan manuskrip aktif dan Scene Outline Draft 0.6.
@@ -8,10 +8,10 @@
 
 | Bab | Manuskrip acuan | Storyboard aktif | Hasil |
 |---|---|---|---|
-| 1 | Chapter 1 Revision Draft 0.3 | Chapter 1 Revision Draft 0.3 | LULUS setelah koreksi sumber rute |
-| 2 | Chapter 2 Revision Draft 0.2 | Chapter 2 Revision Draft 0.2 | LULUS untuk jendela pengetahuan dan dokumentasi |
-| 3 | Chapter 3 Revision Draft 0.5 | Chapter 3 Storyboard Revision Draft 0.3 | LULUS BERSYARAT untuk akses A, mekanisme B, dan reveal Scene 14 |
-| 4 | Chapter 4 Revision Draft 0.5 | Chapter 4 Storyboard Revision Draft 0.3 | LULUS BERSYARAT untuk pemisahan sumber dan batas non-reproduksi |
+| 1 | Chapter 1 Proofread Draft 0.1 | Chapter 1 Storyboard Revision Draft 0.3 | LULUS setelah koreksi sumber rute |
+| 2 | Chapter 2 Proofread Draft 0.1 | Chapter 2 Storyboard Revision Draft 0.2 | LULUS untuk jendela pengetahuan dan dokumentasi |
+| 3 | Chapter 3 Proofread Draft 0.1 | Chapter 3 Storyboard Revision Draft 0.3 | LULUS BERSYARAT untuk akses A, mekanisme B, dan reveal Scene 14 |
+| 4 | Chapter 4 Proofread Draft 0.1 | Chapter 4 Storyboard Revision Draft 0.3 | LULUS BERSYARAT untuk pemisahan sumber dan batas non-reproduksi |
 
 ## 2. Koreksi Bab 1
 
@@ -57,6 +57,6 @@ Koreksi:
 
 ## 7. Kesimpulan
 
-Keempat storyboard memiliki baseline yang konsisten dengan mekanisme B dan transisi Book III–IV pada tingkat teks/panel yang diperiksa. Chapter 3 menampilkan jalur akses A; Chapters 3–4 juga menegaskan konsultasi terawasi dan larangan membawa/menyalin materi sumber. Audit ini bukan persetujuan visual final. Provenance materi tetap UNKNOWN. Produksi thumbnail, pengujian ritme halaman, sinkronisasi final setelah proofread, dan persetujuan kreator masih diperlukan.
+Keempat storyboard memiliki baseline yang konsisten dengan mekanisme B dan transisi Book III–IV pada tingkat teks/panel yang diperiksa. Chapter 3 menampilkan jalur akses A; Chapters 3–4 juga menegaskan konsultasi terawasi dan larangan membawa/menyalin materi sumber. Audit ini bukan persetujuan visual final. Provenance materi tetap UNKNOWN. Produksi thumbnail, pengujian ritme halaman, sinkronisasi final visual setelah thumbnail, dan persetujuan kreator masih diperlukan. Proofread Draft 0.1 menjadi baseline teks untuk tahap berikutnya.
 
 **Dampak CANON: tidak ada.**
