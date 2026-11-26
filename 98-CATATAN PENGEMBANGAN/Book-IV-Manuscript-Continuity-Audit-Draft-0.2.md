@@ -72,7 +72,7 @@ Audit ini **tidak memilih salah satu jawaban**. Jangan mengubah hubungan tersebu
 7. **Penyebaran nama.** Jelaskan bagaimana laporan beredar dan siapa yang boleh menerima salinan, tanpa mengungkap hubungan dengan Great War.
 8. **Panjang prosa.** Sekitar 4.550 kata untuk 20 scene masih terasa seperti treatment yang diperluas. Perlu memperdalam proses penemuan, tekanan sosial, dan dampak pembacaan nama.
 9. **Dialog berulang.** Kurangi pengulangan “belum tahu” ketika tindakan atau klasifikasi sudah menunjukkan batas pengetahuan.
-10. **Storyboard.** Pastikan transliterasi, bukan terjemahan, terlihat jelas dalam adegan Scene 14 dan laporan akhir.
+10. **Storyboard.** Bab 3 dan 4 sudah diperbarui agar hasil ditampilkan sebagai transliterasi, bukan terjemahan. NVR AGAIN tetap pertama muncul pada Bab 3, Halaman 15. Pemeriksaan final panel tetap diperlukan setelah revisi prosa berikutnya.
 
 ## 8. Kesimpulan
 
