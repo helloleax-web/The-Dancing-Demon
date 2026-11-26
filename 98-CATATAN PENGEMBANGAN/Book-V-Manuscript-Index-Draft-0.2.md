@@ -333,3 +333,6 @@
 ## Tavian visual development — proportion study
 
 - [Tavian Character Proportion Study — Draft 0.1](Tavian-Character-Proportion-Study-Draft-0.1.md) — membandingkan tiga rentang proporsi abstrak dalam pose berdiri, berjalan, dan duduk. Semua opsi NON-CANON; tidak menetapkan penampilan fisik Tavian.
+
+
+- [Book V — Tavian Panel Integration Test (Draft 0.1)](Book-V-Tavian-Panel-Integration-Test-Draft-0.1.md) — comparison of three provisional proportion systems in a shared panel composition; NON-CANON.
