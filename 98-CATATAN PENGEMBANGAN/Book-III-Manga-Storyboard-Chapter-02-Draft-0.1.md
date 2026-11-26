@@ -77,9 +77,7 @@
 
 **Panel 4.** Ilyra menunjukkan catatan perjalanan yang menyebut lintasan tua dan arah lembah; Mira mencocokkan urutan penanda dengan catatan lokal.
 
-**Panel 5.** Mira memilih jalur lebih panjang karena jalur pendek berubah setelah hujan.
-
-**Panel 6.** Ia menjelaskan bahwa catatan mempersempit wilayah, tetapi tidak memberi koordinat pasti.
+**Panel 5.** Mira memilih jalur lebih panjang karena jalur pendek berubah setelah hujan. Catatan mempersempit wilayah, tetapi tidak memberi koordinat pasti.
 
 ## Halaman 6 — Beban dan Persediaan
 
