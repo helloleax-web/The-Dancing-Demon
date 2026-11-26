@@ -1,6 +1,6 @@
 # Book V — Perang yang Tertinggal
 ## Bab 4: Sejarah yang Diperebutkan
-### Revision Draft 0.2 — Scenes 14–18
+### Revision Draft 0.3 — Scenes 14–18
 
 **Status: CATATAN PENGEMBANGAN / NON-CANON.**  
 **Basis:** Book V Scene Outline Draft 0.1, Book V Character Knowledge Matrix Draft 0.1, dan fakta CANON yang telah dibatasi dalam dokumen sejarah.  
@@ -68,7 +68,17 @@ Seraphine menjawab tanpa menaikkan suara.
 
 Pertemuan berakhir tanpa kesepakatan.
 
-Setelah orang itu pergi, Tavian memeriksa kembali rancangan yang tertinggal sebagai salinan. Ia menandai bagian yang menggunakan tanggal salinan sebagai tanggal kejadian dan bagian yang menghapus perbedaan sumber.
+Setelah orang itu pergi, seorang petugas Balai menyampaikan pesan dari salah satu keluarga yang kesaksiannya tercantum dalam daftar kerja. Mereka mendengar bahwa penerbit mungkin akan mencantumkan nama pemberi cerita dan meminta kelompok memastikan bahwa catatan keluarga mereka tidak disebarkan bersama rancangan tersebut.
+
+Mira membaca pesan itu dua kali. “Mereka membantu kita karena mengira cerita mereka akan diperlakukan dengan hati-hati.”
+
+Seraphine memeriksa daftar izin. Nama keluarga itu memang tidak pernah disetujui untuk publikasi. Ia menandai salinan rancangan sebagai dokumen terbatas dan meminta agar setiap versi koreksi menghapus identitas yang tidak memiliki izin.
+
+“Ini bukan cuma soal kutipan yang salah,” kata Tavian. “Kalau nama mereka ikut beredar, mereka yang menanggung akibatnya.”
+
+Kael mengangguk. “Dan penerbit bisa mendapatkan cerita, sementara mereka kehilangan kendali atas cerita sendiri.”
+
+Setelah itu Tavian memeriksa kembali rancangan yang tertinggal sebagai salinan. Ia menandai bagian yang menggunakan tanggal salinan sebagai tanggal kejadian dan bagian yang menghapus perbedaan sumber.
 
 Kael menyandarkan tubuhnya.
 
@@ -284,3 +294,4 @@ Mereka baru menyusun batas yang lebih jelas tentang apa yang bisa dikatakan.
 - Tidak ada informasi baru tentang LEAX, asal musik, mekanisme jubah, atau cakupan Resonansi Hitam.
 - Seluruh adegan, dokumen, penerbit, dialog, dan detail tambahan tetap NON-CANON.
 - Revision 0.2 memberi konsekuensi praktis pada konflik publikasi: permintaan penghilangan konteks, risiko penggunaan nama pemberi kesaksian, serta pemisahan arsip lengkap dan ringkasan publik.
+- Revision 0.3 memperlihatkan konsekuensi langsung permintaan publikasi terhadap keluarga pemberi kesaksian dan memperjelas tindakan perlindungan identitas. Seluruh tokoh serta peristiwa tetap NON-CANON.
