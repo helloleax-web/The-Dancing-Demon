@@ -1,5 +1,5 @@
 # Book IV — Prasasti Pertama
-## Scene Outline — Draft 0.5
+## Scene Outline — Draft 0.6
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Basis:** Eight-Book Series Architecture, penutup Buku III, CANON *Thirteen Prasasti*, dan keputusan kreator memilih mekanisme B.  
@@ -27,7 +27,7 @@ Semua hal berikut tetap NON-CANON kecuali fakta yang secara eksplisit telah dite
 4. Nama NVR AGAIN diketahui dari judul naskah interpretasi Prasasti I pada Scene 14, bukan dari transliterasi langsung guratan Northglass.
 5. Naskah diperiksa sebagai dokumen interpretasi in-world. Catatan penafsir tidak otomatis menjadi fakta objektif.
 6. Pemeriksaan naskah dilakukan baris demi baris, dengan pemisahan fakta, tafsir, dugaan, dan UNKNOWN. Salinan bunyi didengarkan sebagai pasangan naskah.
-7. Lokasi penyimpanan, pihak yang menjaga, asal-usul, riwayat perpindahan, kondisi akses, dan mekanisme penghubung antara Northglass dengan materi Prasasti I belum ditetapkan. Jangan mengarang rincian itu sebagai CANON.
+7. Jalur akses dalam pengembangan memakai Opsi A: Jorren memberi rujukan terbatas kepada penjaga kumpulan dokumen anonim; penjaga mengizinkan konsultasi terawasi di tempat. Detail ini NON-CANON. Identitas penjaga, lokasi geografis, kepemilikan sah, provenance, autentikasi, riwayat perpindahan, dan hubungan material/historis Northglass dengan materi Prasasti I tetap OPEN QUESTION.
 8. Tidak ada keputusan baru tentang LEAX, asal musik, pembuat, atau konteks Great War.
 
 ## 3. Batas sumber dan medium
@@ -35,7 +35,7 @@ Semua hal berikut tetap NON-CANON kecuali fakta yang secara eksplisit telah dite
 - **Objek Northglass:** artefak fisik yang ditemukan kelompok dan menjadi titik awal penyelidikan lanjutan.
 - **Prasasti I:** naskah interpretasi in-world yang ditulis seorang keturunan LEAX dari Avarra, sesuai CANON.
 - **Salinan bunyi:** salinan bunyi yang sama yang disimpan bersama naskah interpretasi, sesuai CANON.
-- **Hubungan Northglass dengan Prasasti I:** Northglass mengantar penyelidikan kepada penemuan materi Prasasti I dalam alur cerita. Hubungan asal-usul, pemilik, lokasi penyimpanan, dan mekanisme penghubung tetap UNKNOWN.
+- **Hubungan Northglass dengan Prasasti I:** Northglass memicu langkah penyelidikan berikutnya, tetapi hubungan asal-usul/material tidak diketahui. Rujukan Jorren kepada penjaga kumpulan dokumen dan konsultasi terawasi adalah keputusan akses NON-CANON, bukan bukti hubungan antara kedua sumber.
 
 Model di atas adalah keputusan pengembangan NON-CANON untuk mengarahkan revisi prosa. Ia tidak menetapkan medium universal bagi 13 Prasasti dan tidak mengubah CANON.
 
@@ -114,15 +114,18 @@ Penemuan didokumentasikan dengan batas sumber dan pengetahuan yang jelas. Nama d
 
 **Scene 11 — Petunjuk yang Tidak Cukup**
 - Ilyra dan Seraphine menyimpulkan bahwa dokumentasi Northglass belum cukup untuk menjelaskan objek atau seluruh tanda.
-- Tindak lanjut penyelidikan Northglass membuka jalur pemeriksaan terhadap materi lain yang berkaitan dengan penemuan tersebut.
-- Asal dan mekanisme jalur itu belum ditetapkan secara rinci.
-- **Fungsi:** mengubah Northglass dari jawaban menjadi titik awal penyelidikan.
+- Mira meminta Jorren menyampaikan rujukan terbatas kepada seseorang yang menjaga kumpulan dokumen lama.
+- Jorren tidak mengetahui isi, asal-usul, atau hubungan kumpulan tersebut dengan Northglass; ia hanya bersedia menyampaikan permintaan.
+- Kelompok menunggu persetujuan, tanpa menganggap rujukan sebagai bukti hubungan antarsumber.
+- **Fungsi:** mengubah Northglass dari jawaban menjadi titik awal penyelidikan tanpa menjadikan guratannya kunci transliterasi.
 
 **Scene 12 — Naskah dan Salinan Bunyi**
-- Kelompok memperoleh akses pemeriksaan terhadap naskah interpretasi Prasasti I dan salinan bunyi yang disimpan bersamanya.
-- Naskah dikenali sebagai dokumen interpretasi, bukan sekadar kumpulan guratan pada batu.
-- Lokasi, penjaga, asal-usul, dan riwayat perpindahan materi tetap OPEN QUESTION.
-- **Fungsi:** memperlihatkan sumber yang benar-benar akan mengungkap nama.
+- Penjaga kumpulan dokumen anonim menerima kelompok dan memberi izin konsultasi terawasi di tempat.
+- Izin tidak mencakup membawa, memisahkan, menyalin, atau menyebarluaskan materi.
+- Kelompok melihat naskah interpretasi Prasasti I dan salinan bunyi yang disimpan bersamanya.
+- Seraphine mencatat pihak yang hadir, kondisi materi, batas izin, dan bahwa provenance belum terverifikasi.
+- Identitas penjaga, lokasi geografis, kepemilikan sah, asal-usul, dan riwayat perpindahan tetap OPEN QUESTION.
+- **Fungsi:** memperlihatkan sumber yang benar-benar akan mengungkap nama serta menetapkan dasar akses secara terbatas.
 
 **Scene 13 — Membaca dan Mendengarkan**
 - Kelompok membaca naskah baris demi baris dan mendengarkan salinan bunyi.
