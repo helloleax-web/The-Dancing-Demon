@@ -1,26 +1,26 @@
 # Book IV — Manuscript Index
-## Draft 1.1 — Proofread Draft 0.2
+## Draft 1.2 — Access Notes and Proofread 0.2
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Progress:** 20 scene prosa dalam empat bab. Line edit selesai; Proofread Draft 0.2 diterbitkan untuk keempat bab setelah pass pembacaan manual. Audit lintas bab dan persetujuan final masih tertunda.
 
 ## 1. Manuskrip aktif
 
-1. [Bab 1 — Jejak di Luar Fasilitas, Proofread Draft 0.1](Book-IV-Manuscript-Chapter-01-Proofread-Draft-0.2.md) — Scenes 1–5.
+1. [Bab 1 — Jejak di Luar Fasilitas, Proofread Draft 0.2](Book-IV-Manuscript-Chapter-01-Proofread-Draft-0.2.md) — Scenes 1–5.
 2. [Bab 2 — Batu yang Tidak Terbaca, Proofread Draft 0.1](Book-IV-Manuscript-Chapter-02-Proofread-Draft-0.2.md) — Scenes 6–10.
 3. [Bab 3 — Nama yang Terlepas, Proofread Draft 0.1](Book-IV-Manuscript-Chapter-03-Proofread-Draft-0.2.md) — Scenes 11–15.
 4. [Bab 4 — Setelah Nama Ditemukan, Proofread Draft 0.1](Book-IV-Manuscript-Chapter-04-Proofread-Draft-0.2.md) — Scenes 16–20.
 
 ## 2. Dokumen kontinuitas dan keputusan
 
-- [Scene Outline Draft 0.6](Book-IV-Scene-Outline-Draft-0.5.md).
-- [Character Knowledge Matrix Draft 0.7](Book-IV-Character-Knowledge-Matrix-Draft-0.6.md).
+- [Scene Outline Draft 0.7](Book-IV-Scene-Outline-Draft-0.5.md).
+- [Character Knowledge Matrix Draft 0.8](Book-IV-Character-Knowledge-Matrix-Draft-0.6.md).
 - [Discovery Mechanism Decision Brief Draft 0.2](Book-IV-Prasasti-I-Discovery-Mechanism-Decision-Brief-Draft-0.2.md).
 - [Prasasti I Access and Provenance Decision Brief Draft 0.2](Book-IV-Prasasti-I-Access-and-Provenance-Decision-Brief-Draft-0.1.md).
-- [Discovery Mechanism Implementation Audit Draft 0.2](Book-IV-Discovery-Mechanism-Implementation-Audit-Draft-0.1.md).
-- [Manuscript Continuity Audit Draft 1.1](Book-IV-Manuscript-Continuity-Audit-Draft-0.8.md).
+- [Discovery Mechanism Implementation Audit Draft 0.3](Book-IV-Discovery-Mechanism-Implementation-Audit-Draft-0.1.md).
+- [Manuscript Continuity Audit Draft 1.3](Book-IV-Manuscript-Continuity-Audit-Draft-0.8.md).
 - [Book III–IV Transition Audit Draft 0.1](Book-III-IV-Transition-Audit-Draft-0.1.md).
-- [Line Edit and Proofreading Readiness Report Draft 0.3](Book-IV-Line-Edit-and-Proofreading-Readiness-Report-Draft-0.1.md).
+- [Line Edit and Proofreading Readiness Report Draft 0.5](Book-IV-Line-Edit-and-Proofreading-Readiness-Report-Draft-0.1.md).
 
 ## 3. Keputusan mekanisme penemuan B
 
@@ -43,7 +43,7 @@ Jangan menetapkan jawaban atas hal-hal tersebut sebagai CANON tanpa dasar atau k
 
 ## 5. Produksi manga
 
-- [Storyboard Index Draft 0.4](Book-IV-Manga-Storyboard-Index-Draft-0.3.md).
+- [Storyboard Index Draft 0.6](Book-IV-Manga-Storyboard-Index-Draft-0.3.md).
 - [Storyboard Chapter 1 Revision Draft 0.3](Book-IV-Manga-Storyboard-Chapter-01-Revision-Draft-0.3.md).
 - [Storyboard Chapter 3 Revision Draft 0.4](Book-IV-Manga-Storyboard-Chapter-03-Revision-Draft-0.2.md).
 - [Storyboard Chapter 4 Revision Draft 0.4](Book-IV-Manga-Storyboard-Chapter-04-Revision-Draft-0.2.md).
@@ -53,7 +53,7 @@ Jangan menetapkan jawaban atas hal-hal tersebut sebagai CANON tanpa dasar atau k
 
 ## 6. Status
 
-**Line edit:** selesai untuk empat bab. **Proofread:** Proofread Draft 0.1 tersedia untuk keempat bab; final cross-chapter proofread dan persetujuan kreator masih tertunda.  
+**Line edit:** selesai untuk empat bab. **Proofread:** Proofread Draft 0.2 tersedia untuk keempat bab; final cross-chapter proofread dan persetujuan kreator masih tertunda.  
 **Proofread mekanis awal:** pemeriksaan jumlah scene, istilah kunci, dan pengulangan kata telah dilakukan.  
 **Proofread final:** pass manual per bab selesai pada Draft 0.1; final audit lintas bab dan persetujuan kreator belum selesai.  
 **Blocking naratif akses:** selesai pada level draft; Opsi A diterapkan sebagai keputusan pengembangan NON-CANON. **Provenance:** tetap OPEN QUESTION dan tidak diklaim terverifikasi.  
