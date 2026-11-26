@@ -1,40 +1,45 @@
-# Book VIII — Development Index — Draft 0.1
+# Book VIII — Development Index — Draft 0.2
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
-**Judul:** The Dancing Demon.
+**Judul:** The Dancing Demon.  
+**Makna judul:** CANON; disahkan 2026-11-26.
 
 ## Dokumen
 
-- [Source Audit & Creator Decision Register — Draft 0.1](Book-VIII-Source-Audit-and-Creator-Decision-Register-Draft-0.1.md) — kewajiban CANON, batas misteri, dan keputusan kreator yang masih terbuka.
-- [Structural Outline — Draft 0.1](Book-VIII-Structural-Outline-Draft-0.1.md) — kerangka lima bagian dan 20 scene.
-- [Outline Audit Report — Draft 0.1](Book-VIII-Outline-Audit-Report-Draft-0.1.md) — pemeriksaan kesesuaian outline dengan fondasi CANON dan arc karakter.
-- [Character Knowledge Matrix — Draft 0.1](Book-VIII-Character-Knowledge-Matrix-Draft-0.1.md) — kontrol informasi yang diketahui keenam karakter dan pembaca.
-- [Mystery Timing Audit — Draft 0.1](Book-VIII-Mystery-Timing-Audit-Draft-0.1.md) — urutan pengungkapan, misteri yang boleh tetap terbuka, dan larangan pengungkapan dini.
-- [The Dancing Demon — Title Meaning Proposal — Draft 0.1](The-Dancing-Demon-Title-Meaning-Proposal-Draft-0.1.md) — working meaning judul berdasarkan motif Prasasti dan tema seri.
+- [Source Audit & Creator Decision Register](Book-VIII-Source-Audit-and-Creator-Decision-Register-Draft-0.1.md) — kewajiban CANON, batas misteri, dan keputusan plot yang masih terbuka.
+- [Structural Outline](Book-VIII-Structural-Outline-Draft-0.1.md) — kerangka lima bagian dan 20 scene.
+- [Outline Audit Report](Book-VIII-Outline-Audit-Report-Draft-0.1.md) — pemeriksaan kerangka dengan fondasi CANON dan arc karakter.
+- [Character Knowledge Matrix](Book-VIII-Character-Knowledge-Matrix-Draft-0.1.md) — kontrol informasi keenam karakter.
+- [Mystery Timing Audit](Book-VIII-Mystery-Timing-Audit-Draft-0.1.md) — urutan pengungkapan dan batas misteri.
+- [Title Meaning — CANON](../../01-CANON/The-Dancing-Demon-Title-Meaning.md) — makna resmi judul.
+- [Manuscript — Draft 0.1](Book-VIII-Manuscript-Draft-0.1.md) — first-pass prosa lengkap, 20 scene, sekitar 6.283 kata.
+- [Manuscript Index — Draft 0.1](Book-VIII-Manuscript-Index-Draft-0.1.md) — struktur dan ringkasan scene.
+- [Manuscript Continuity Audit — Draft 0.1](Book-VIII-Manuscript-Continuity-Audit-Draft-0.1.md) — audit pertama atas canon, misteri, arc, dan ritme.
 
 ## Status pengerjaan
 
-- Fondasi CANON Buku VIII telah diperiksa kembali.
-- Arc Tavian, Seraphine, Kael, Mira, Daren, dan Ilyra telah dipetakan ke fungsi penutup.
-- Mystery ledger dan batas pengungkapan delapan buku telah diperiksa.
-- Kerangka 20 scene telah dibuat sebagai struktur awal.
-- Working meaning *The Dancing Demon* telah dipilih: metafora pola interpretasi yang terus berubah, bukan satu monster atau Abstract Existence; status tetap NON-CANON sampai disahkan pengguna.
-- Konflik lapangan, lokasi, institusi, dan kejadian baru dalam outline tetap NON-CANON.
-- Outline belum final dan belum ada prosa Buku VIII.
+- Fondasi CANON Buku VIII diperiksa.
+- Makna judul telah disahkan kreator dan dipindahkan ke dokumen CANON.
+- Struktur lima bagian / 20 scene telah dikembangkan menjadi manuskrip first-pass.
+- Konflik eksternal draft: pengalihan air dan penilaian jalur lama dalam keadaan darurat.
+- Keenam karakter memiliki tindakan yang menunjukkan arah arc masing-masing.
+- Manuskrip first-pass telah dibuat dan diindeks.
+- Audit kontinuitas pertama selesai; naskah dinilai layak sebagai first-pass, belum final.
+- Detail lokasi, pihak lokal, dan kejadian lapangan baru tetap NON-CANON.
 
-## Gerbang sebelum penulisan prosa
+## Pekerjaan yang masih terbuka
 
-1. Tentukan misteri yang wajib dijawab secara eksplisit selain judul.
-2. Tentukan keadaan akhir LEAX dan enam karakter, atau putuskan misteri mana yang sengaja tetap UNKNOWN.
-3. Spesifikasikan konflik lapangan final dan rantai sebab-akibatnya.
-4. Revisi bagian V outline sesuai perkembangan draft.
-5. Perkuat Character Knowledge Matrix dan Mystery Timing Audit selama penulisan.
+1. Cocokkan pembukaan Buku VIII dengan akhir manuskrip Buku VII secara langsung.
+2. Perluas konsekuensi personal dan konflik lapangan tanpa mengulang eksposisi.
+3. Revisi dialog dan variasi suara karakter.
+4. Perkuat payoff distribusi informasi dari awal hingga akhir.
+5. Lakukan line edit, proofread, dan audit kontinuitas final.
+6. Tinjau ulang manuskrip Buku I–VII dan revisi semua masalah lintas buku sebelum seri dinyatakan selesai.
 
-## Batas keputusan
+## Batas CANON
 
-- Working meaning judul telah diusulkan sebagai metafora; belum menjadi fakta CANON.
-- Abstract Existence tidak diubah menjadi antagonis konvensional.
-- Tidak ada isi atau hubungan objektif baru bagi 13 Prasasti.
+- Makna judul CANON tidak menjadikan Abstract Existence sebagai The Dancing Demon.
+- Tidak ada hubungan objektif baru yang ditambahkan pada 13 Prasasti.
 - Tidak ada mekanisme baru untuk NVR AGAIN, jubah mana hitam, atau Resonansi Hitam.
-- Tidak ada nasib akhir karakter atau keadaan LEAX yang ditetapkan.
-- Tidak ada perubahan CANON.
+- Keadaan LEAX dan misteri kosmologi lain tetap mengikuti dokumen CANON.
+- Manuskrip Book VIII dan seluruh detail cerita baru di dalamnya masih NON-CANON sampai dipilih/disahkan secara terpisah.
