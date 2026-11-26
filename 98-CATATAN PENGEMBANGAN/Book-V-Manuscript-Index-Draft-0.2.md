@@ -1,8 +1,8 @@
 # Book V — Manuscript Index — Draft 0.4
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
-**Progress:** 22 scene; seluruh lima bab telah memiliki pass revisi 0.3 atau lebih baru. Line edit dialog Bab 1–2 dan Bab 4 Scenes 14–18 telah dilakukan; Bab 3 Scenes 9–13 menerima revisi ritme terarah. Bab 5 masih menunggu line edit menyeluruh.  
-**Jumlah kata:** 11.403 kata termasuk judul, metadata, dan catatan tambahan; dihitung ulang setelah revision pass 0.3.
+**Progress:** 22 scene; seluruh lima bab telah memiliki pass revisi 0.3 atau lebih baru. Line edit dialog Bab 1–2 dan Bab 4 Scenes 14–18 telah dilakukan; Bab 3 Scenes 9–13 menerima revisi ritme terarah. Bab 5 Scenes 19–22 telah menerima line edit terarah; seluruh lima bab kini siap untuk proofreading dan audit lintas bab.  
+**Jumlah kata:** 11.487 kata termasuk judul, metadata, dan catatan tambahan; dihitung ulang setelah revision pass 0.3.
 
 ## Struktur bab
 
@@ -53,7 +53,8 @@
 19. Audit suara karakter telah memeriksa dialog 22 scene; line edit Chapter 4 Scene 17 membedakan suara prosedural Seraphine dan perkembangan pemikiran Tavian.
 20. Line edit Bab 1–2 memperjelas perbedaan fungsi Tavian, Seraphine, Ilyra, Mira, dan Sava.
 21. Line edit Bab 4 Scenes 14–18 memperjelas peran Kael dalam membaca risiko distribusi informasi, Seraphine dalam keputusan prosedural, Tavian dalam penelusuran katalog, Ilyra dalam pembacaan konteks kutipan, dan Sava dalam sejarah lisan.
-22. Line edit Bab 5 menyeluruh, pemeriksaan akhir repetisi aforisme, dan proofreading lintas bab masih perlu dilakukan.
+22. Line edit Bab 5 Scenes 19–22 mengurangi repetisi aforisme, memperjelas rantai asal kutipan, dan mengikat penutup pada penanda rute yang ditemukan selama perjalanan.
+23. Tahap berikutnya adalah proofreading serta audit lintas bab untuk kontinuitas, repetisi, dan transisi menuju Book VI.
 
 ## Status utama
 
@@ -81,3 +82,13 @@
 - Sava diberi penekanan pada jalur pewarisan cerita keluarga dan konteks kesaksian.
 - Tidak ada perubahan CANON; seluruh manuskrip Book V tetap NON-CANON.
 - Jumlah kata terbaru: **11.403 kata** termasuk judul, metadata, dan catatan tambahan.
+
+
+## Line edit dialog Bab 5 — Scenes 19–22
+
+- Scene 19: urutan laporan diperjelas melalui masukan Kael dan keputusan susunan dari Tavian.
+- Scene 20: pemeriksaan independensi kutipan dipusatkan pada rantai asal sumber; keputusan Kael mengenai dokumen terbatas diperjelas.
+- Scene 21: dialog peninjauan akhir dipadatkan dan daftar tindak lanjut menggantikan aforisme yang mengulang tema.
+- Scene 22: penutup mengikat kembali penanda rute dan tema konteks catatan ke perjalanan kelompok.
+- Tidak ada perubahan CANON; laporan fenomena tetap petunjuk belum diverifikasi.
+- Jumlah kata terbaru: **11.487 kata** termasuk judul, metadata, dan catatan tambahan.
