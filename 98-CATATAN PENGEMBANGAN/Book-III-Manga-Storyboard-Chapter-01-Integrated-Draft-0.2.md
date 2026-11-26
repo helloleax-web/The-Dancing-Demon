@@ -3,7 +3,7 @@
 **Judul bab:** Pola yang Belum Terbukti  
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Status integrasi:** MASTER STANDALONE TERINTEGRASI.  
-**Basis prosa aktif:** Manuscript Chapter 01 Revision Draft 0.2.  
+**Basis adaptasi awal:** Manuscript Chapter 01 Revision Draft 0.2. **Rujukan kontinuitas terbaru:** Manuscript Chapter 01 Proofread Draft 0.4; keputusan akses kreator B berlaku.  
 **Riwayat:** storyboard Draft 0.1 + synchronization revision Draft 0.2.
 
 ## Aturan penggunaan master ini
