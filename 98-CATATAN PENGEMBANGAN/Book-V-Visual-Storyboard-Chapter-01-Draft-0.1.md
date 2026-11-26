@@ -152,7 +152,7 @@ Sampai keputusan tersebut tersedia, storyboard ini cukup untuk membuat **thumbna
 ## 7. Status produksi
 
 - Storyboard teks Bab 1 Scenes 1–4: selesai pada Draft 0.1; total 27 panel (Scene 1: 5, Scene 2: 7, Scene 3: 8, Scene 4: 7).
-- Concept sheet empat scene: dibuat dan ditinjau sebagai studi komposisi awal; thumbnail panel-per-panel belum dibuat.
+- Concept sheet empat scene: dibuat dan ditinjau sebagai studi komposisi awal; layout manual komposisi 27 panel telah dibuat. Thumbnail ilustratif dan ilustrasi final belum dibuat.
 - Ilustrasi final: belum dibuat.
 - Desain karakter/lokasi: belum dikunci.
 - Status CANON: tidak berubah; seluruh storyboard dan detail visual yang diusulkan tetap NON-CANON.
@@ -162,7 +162,7 @@ Sampai keputusan tersebut tersedia, storyboard ini cukup untuk membuat **thumbna
 
 ## Catatan concept sheet — 2026-11-27
 
-Concept sheet empat scene dibuat sebagai studi komposisi awal dan dievaluasi dalam [Thumbnail Review — Bab 1](Book-V-Thumbnail-Review-Chapter-01-Draft-0.1.md). Hasil belum dianggap thumbnail panel-per-panel. Revisi utama: sederhanakan eksterior Balai Catatan Perang, pertahankan karakter sebagai placeholder, dan jangan mengunci detail visual NON-CANON. Tidak ada perubahan pada storyboard 25 panel atau isi naskah.
+Concept sheet empat scene dibuat sebagai studi komposisi awal dan dievaluasi dalam [Thumbnail Review — Bab 1](Book-V-Thumbnail-Review-Chapter-01-Draft-0.1.md). Hasil belum dianggap thumbnail panel-per-panel. Revisi utama: sederhanakan eksterior Balai Catatan Perang, pertahankan karakter sebagai placeholder, dan jangan mengunci detail visual NON-CANON. Tidak ada perubahan pada storyboard 27 panel atau isi naskah.
 
 **Status:** concept sheet awal selesai; thumbnail panel-per-panel masih terbuka.
 
@@ -170,3 +170,12 @@ Concept sheet empat scene dibuat sebagai studi komposisi awal dan dievaluasi dal
 ## Koreksi jumlah panel — 2026-11-27
 
 Jumlah panel yang dihasilkan oleh rincian scene adalah **27**, bukan 25: 5 + 7 + 8 + 7. Setiap panel bernomor 1.1–4.7 tetap dipertahankan; tidak ada panel yang dihapus atau digabung. Penyebutan 25 panel pada concept sheet/catatan produksi sebelumnya merupakan kesalahan hitung dan tidak mengubah naskah.
+
+
+## Review kontinuitas visual Bab 1 — 2026-11-27
+
+- [Book V Chapter 1 Visual Continuity Review](Book-V-Chapter-01-Visual-Continuity-Review-Draft-0.1.md) — pemeriksaan transisi, properti berulang, waktu, blocking karakter, kamera, dan batas visual Scene 1–4.
+- Keempat layout manual diterima sebagai rangkaian panduan komposisi abstrak untuk pengembangan berikutnya, dengan koreksi dan batas yang dicatat dalam review.
+- Total panel: 27 (5 + 7 + 8 + 7).
+- Thumbnail ilustratif dan ilustrasi final belum selesai. Desain karakter/lokasi belum dikunci.
+- Seluruh materi tetap NON-CANON.
