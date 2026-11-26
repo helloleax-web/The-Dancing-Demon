@@ -18,6 +18,8 @@
 - [Book III Scene Outline — Draft 0.2](Book-III-Scene-Outline-Draft-0.2.md) — revisi bukti jaringan rujukan lintas dua fasilitas.
 - [Book III Character Knowledge Matrix — Draft 0.2](Book-III-Character-Knowledge-Matrix-Draft-0.2.md) — batas pengetahuan dan misteri terbaru.
 - [Book III Manuscript Continuity Audit — Draft 0.2](Book-III-Manuscript-Continuity-Audit-Draft-0.2.md) — audit terbaru setelah koreksi transisi, sumber, dan bukti jaringan.
+- [Book III Manga Storyboard Index — Draft 0.2](Book-III-Manga-Storyboard-Index-Draft-0.2.md) — 108 halaman, 521 panel.
+- [Book III Manga Storyboard Audit — Draft 0.2](Book-III-Manga-Storyboard-Audit-Report-Draft-0.2.md) — sinkronisasi storyboard setelah revisi prosa.
 - [Book III Manuscript Continuity Audit — Draft 0.1](Book-III-Manuscript-Continuity-Audit-Draft-0.1.md) — audit awal yang diarsipkan.
 - [Book III Outline Audit — Draft 0.1](Book-III-Outline-Audit-Report-Draft-0.1.md) — pemeriksaan outline awal.
 
@@ -42,6 +44,6 @@
 
 - [Book III Manga Storyboard Index — Draft 0.1](Book-III-Manga-Storyboard-Index-Draft-0.1.md) — enam storyboard, 108 halaman dan 521 panel.
 - [Book III Manga Storyboard Audit — Draft 0.1](Book-III-Manga-Storyboard-Audit-Report-Draft-0.1.md) — audit awal.
-- Storyboard perlu disinkronkan dengan revisi prosa 0.2 sebelum dianggap siap.
+- Storyboard Bab 1, 2, 3, dan 6 sudah disinkronkan; Bab 4–5 tidak berubah pada pass ini. Seluruh storyboard tetap perlu diperiksa ulang setelah line edit.
 
 **Dampak CANON: tidak ada.**
