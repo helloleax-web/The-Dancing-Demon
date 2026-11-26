@@ -1,5 +1,5 @@
 # Book IV — Manga Storyboard — Chapter 4
-## Revision Draft 0.3 — Scenes 16–20
+## Revision Draft 0.4 — Scenes 16–20
 
 **Basis:** Chapter 4 Manuscript Revision Draft 0.5.  
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
