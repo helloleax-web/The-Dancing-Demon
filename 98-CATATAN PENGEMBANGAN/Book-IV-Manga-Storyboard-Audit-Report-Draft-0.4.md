@@ -55,7 +55,7 @@ Koreksi:
 - Pemeriksaan teks menemukan tepat lima entri panel pada setiap halaman baseline: 90 + 90 + 100 + 90 = 370 beat panel tertulis.
 - Jumlah tersebut bukan panel visual final. Page Rhythm & Thumbnail Plan Draft 0.1 mendistribusikan ulang 370 beat menjadi halaman 4/5/6 panel dan satu full-page splash.
 - Bab 3 halaman 14 menjadi jeda senyap empat panel; halaman 15 menjadi satu panel full-page untuk judul NVR AGAIN.
-- Thumbnail visual kasar, page-turn review, lettering, dan layout belum dibuat.
+- Thumbnail visual kasar seluruh halaman, page-turn review, lettering, dan layout belum dibuat. Empat contoh wireframe teks tersedia di Thumbnail Wireframe Samples Draft 0.1.
 
 ## 7. Kesimpulan
 
@@ -69,3 +69,9 @@ Keempat storyboard memiliki baseline yang konsisten dengan mekanisme B dan trans
 - Chapter 3 page 20 mencatat bahwa naskah dan salinan bunyi tetap bersama penjaga; keduanya tidak dimasukkan ke map kelompok.
 - Chapter 4 pages 1, 5, 8, 10, 12, dan 15 membedakan catatan non-reproduktif dari materi sumber. Map kerja dan meja rapat tidak menampilkan naskah/salinan bunyi asli.
 - Ringkasan hanya dibagikan dalam lingkup izin; publikasi lebih luas memerlukan persetujuan terpisah.
+
+
+## 9. Wireframe samples
+- Empat contoh layout teks dibuat untuk Book IV Chapter 1 page 18, Chapter 3 pages 14–15, dan Chapter 4 page 8.
+- Contoh menegaskan arah baca kanan-ke-kiri, jeda sebelum reveal, full-page splash, dan larangan menggambarkan materi sumber asli di map kelompok setelah konsultasi.
+- Contoh wireframe belum merupakan thumbnail visual dan belum diuji pada ukuran cetak.
