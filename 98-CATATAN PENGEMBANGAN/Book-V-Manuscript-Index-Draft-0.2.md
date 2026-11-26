@@ -379,3 +379,10 @@
 - Audit mengikuti storyboard yang ada tanpa menambah aksi atau fakta; seluruh blocking tetap placeholder NON-CANON.
 - Thumbnail ilustratif dan ilustrasi final belum diterima; desain karakter/lokasi tetap belum dikunci.
 - Dampak CANON: tidak ada.
+
+
+## Scene 1 thumbnail production — Draft 0.1
+
+- [Book V Scene 1 Thumbnail Production — Draft 0.1](Book-V-Scene-01-Thumbnail-Production-Draft-0.1.md) — staging manual lima panel Scene 1 berdasarkan storyboard dan blocking audit.
+- Thumbnail diterima hanya sebagai studi komposisi; figur, properti, dan latar tetap abstrak.
+- Thumbnail ilustratif dan ilustrasi final belum diterima/dibuat. Semua materi NON-CANON; dampak CANON nihil.
