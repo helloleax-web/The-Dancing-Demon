@@ -1,5 +1,5 @@
 # Book IV — Manuscript Continuity Audit
-## Draft 0.8 — Setelah Line Edit
+## Draft 0.9 — Access Gap Decision Prepared
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Ruang lingkup:** manuskrip Chapters 1–4 Revision Draft 0.4/0.3, transisi Book III–IV, CANON *Thirteen Prasasti*, dan metode penafsiran CANON.
@@ -21,7 +21,7 @@
 | Izin jalur Jorren | LULUS | Izin terbatas; tidak mewakili seluruh pemilik/kepentingan |
 | Penemuan objek Northglass | LULUS | Dokumentasi fisik tanpa penggalian, pembersihan agresif, atau pemindahan |
 | Pengetahuan Ilyra atas guratan | LULUS | Bentuk visual dan pengulangan; belum ada transliterasi |
-| Mekanisme B | LULUS BERSYARAT | Naskah interpretasi dan salinan bunyi diperkenalkan; jalur akses masih belum dijelaskan |
+| Mekanisme B | LULUS BERSYARAT | Naskah interpretasi dan salinan bunyi diperkenalkan; jalur akses masih belum dijelaskan; tiga opsi akses disiapkan untuk keputusan kreator |
 | Reveal NVR AGAIN | LULUS | Scene 14, dari judul naskah interpretasi |
 | Batas isi interpretasi | LULUS | Perspektif penafsir, bukan fakta objektif otomatis |
 | Salinan bunyi | LULUS | Disimpan bersama naskah dan diperiksa sebagai pasangan |
@@ -46,7 +46,7 @@
 4. Atas dasar apa kelompok dapat memeriksa materi.
 5. Apakah Northglass memiliki hubungan material/historis dengan Prasasti I, atau hanya memicu jalur penyelidikan.
 
-Chapter 3 Scene 11–12 belum menyajikan jalur penemuan secara konkret. Line edit tidak mengisi kekosongan tersebut dengan detail rekaan. Ini harus diselesaikan atau sengaja ditangani secara dramatik sebelum proofread final.
+Chapter 3 Scene 11–12 belum menyajikan jalur penemuan secara konkret. Line edit tidak mengisi kekosongan tersebut dengan detail rekaan. [Access and Provenance Decision Brief Draft 0.1](Book-IV-Prasasti-I-Access-and-Provenance-Decision-Brief-Draft-0.1.md) kini memuat tiga jalur NON-CANON dan merekomendasikan Opsi A: rujukan terbatas dari Jorren kepada pemegang arsip lokal, diikuti permintaan dan izin konsultasi terawasi. Opsi ini belum dipilih kreator dan belum diterapkan pada manuskrip.
 
 ## 5. Status produksi
 
@@ -57,6 +57,6 @@ Chapter 3 Scene 11–12 belum menyajikan jalur penemuan secara konkret. Line edi
 - Sinkronisasi storyboard Bab 2 ke revisi prosa terbaru: perlu verifikasi versi.
 - Persetujuan kreator: belum ada.
 
-**Kesimpulan:** Buku IV lebih rapi secara bahasa dan konsistensi sumber, tetapi belum final. Blocking provenance/access tetap terbuka.
+**Kesimpulan:** Buku IV lebih rapi secara bahasa dan konsistensi sumber, tetapi belum final. Blocking provenance/access kini memiliki opsi dan rekomendasi tertulis, tetapi keputusan kreator masih diperlukan sebelum prosa diubah. Proofread final tetap ditahan.
 
 **Dampak CANON: tidak ada.**
