@@ -1,6 +1,6 @@
 # Book III — Sisa-Sisa yang Tertinggal
 ## Bab 6: Catatan di Luar Fasilitas
-### Revisi Prosa 0.2 — Scenes 18–20
+### Line Edit Draft 0.3 — Scenes 18–20
 
 **Status: CATATAN PENGEMBANGAN / NON-CANON.**  
 **Basis:** Book III Scene Outline Draft 0.2; Character Bible; Ensemble Character Arcs; Chapters 3–5 Revision Draft 0.2.  
