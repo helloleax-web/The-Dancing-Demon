@@ -234,3 +234,11 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 - [ ] Buat thumbnail visual berdasarkan prioritas audit.
 - [ ] Uji ulang jumlah panel/halaman berdasarkan thumbnail.
 - [ ] Periksa lettering, balon dialog, efek suara, dan urutan baca.
+
+
+## Book III — Manuscript line edit
+
+- [x] Chapter 1 line edit Draft 0.3 dibuat dari Revision Draft 0.2.
+- [ ] Line edit Chapters 2–6.
+- [ ] Unified line edit and proofreading audit.
+- [ ] Final continuity/proofread pass before Book III completion.
