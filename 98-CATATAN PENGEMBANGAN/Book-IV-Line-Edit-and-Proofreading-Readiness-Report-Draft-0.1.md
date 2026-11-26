@@ -1,5 +1,5 @@
 # Book IV — Line Edit and Proofreading Readiness Report
-## Draft 0.7 — Cross-Chapter Proofread Audit
+## Draft 0.8 — Active Proofread and Cross-Chapter Audit
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Ruang lingkup:** manuskrip aktif Book IV Chapters 1–4, CANON *Thirteen Prasasti*, dan *Metode Penafsiran Tiga Belas Prasasti — Draft 0.2*.  
@@ -10,9 +10,9 @@
 | Bab | Scene | Versi line edit | Hasil |
 |---|---:|---|---|
 | 1 — Jejak di Luar Fasilitas | 1–5 | Proofread Draft 0.2 (basis Revision 0.4) | Pass manual selesai; final cross-chapter audit pending |
-| 2 — Batu yang Tidak Terbaca | 6–10 | Proofread Draft 0.1 (basis Revision 0.3) | Pass manual selesai; final cross-chapter audit pending |
-| 3 — Nama yang Terlepas | 11–15 | Proofread Draft 0.1 (basis Revision 0.5) | Pass manual selesai; akses A dan batas non-reproduksi diperiksa |
-| 4 — Setelah Nama Ditemukan | 16–20 | Proofread Draft 0.1 (basis Revision 0.5) | Pass manual selesai; batas konsultasi dan dokumentasi non-reproduktif diperiksa |
+| 2 — Batu yang Tidak Terbaca | 6–10 | Proofread Draft 0.2 (basis Revision 0.3) | Pass manual selesai; final cross-chapter audit pending |
+| 3 — Nama yang Terlepas | 11–15 | Proofread Draft 0.2 (basis Revision 0.5) | Pass manual selesai; akses A dan batas non-reproduksi diperiksa |
+| 4 — Setelah Nama Ditemukan | 16–20 | Proofread Draft 0.3 (basis Revision 0.5) | Pass manual selesai; batas konsultasi dan dokumentasi non-reproduktif diperiksa |
 
 ## 2. Fokus line edit
 
@@ -62,7 +62,7 @@ Hal-hal yang belum ditetapkan:
 4. Apakah penjaga mengetahui asal-usul materi.
 5. Apakah Northglass memiliki hubungan material/historis dengan Prasasti I atau hanya memicu jalur penyelidikan.
 
-Detail yang tidak perlu untuk adegan—identitas penjaga, lokasi geografis, kepemilikan sah, provenance, dan autentikasi—tetap OPEN QUESTION dan tidak boleh diisi sebagai fakta. Chapter 3 Scene 13 dan Chapter 4 Scenes 17–20 telah diselaraskan: kelompok hanya menyimpan catatan non-reproduktif, bukan transkrip atau salinan materi sumber. Proofread manual tetap harus menguji kejelasan, batas izin, dan kewajaran transisinya.
+Detail yang tidak perlu untuk adegan—identitas penjaga, lokasi geografis, kepemilikan sah, provenance, dan autentikasi—tetap OPEN QUESTION dan tidak boleh diisi sebagai fakta. Chapter 3 Scene 13 dan Chapter 4 Scenes 17–20 telah diselaraskan: kelompok hanya menyimpan catatan non-reproduktif, bukan transkrip atau salinan materi sumber. Proofread manual telah menguji kejelasan, batas izin, dan kewajaran transisi; final creator approval masih pending.
 
 ## 6. Risiko kontinuitas yang perlu ditangani saat proofread
 
@@ -76,7 +76,7 @@ Detail yang tidak perlu untuk adegan—identitas penjaga, lokasi geografis, kepe
 ## 7. Tahap berikutnya
 
 1. Lakukan proofread manual atas jalur akses A dan pastikan izin terbatas tidak berubah menjadi hak menyalin/membawa materi.
-2. Lakukan final cross-chapter read-through empat bab untuk memeriksa ritme, transisi, dan konsistensi setelah Proofread Draft 0.1.
+2. [x] Sequential cross-chapter read-through empat bab Scenes 1–20; hasil dicatat dalam Cross-Chapter Proofread Audit Draft 0.1.
 3. Lakukan pembacaan keras untuk ritme dialog dan repetisi narasi; catat koreksi bila ditemukan.
 4. Sinkronkan storyboard Bab 2 dan lakukan panel-by-panel cross-check final.
 5. Revisi indeks, matriks karakter, dan audit setelah proofread final. Storyboard Chapters 3–4 perlu pemeriksaan final terhadap versi prosa terbaru.
