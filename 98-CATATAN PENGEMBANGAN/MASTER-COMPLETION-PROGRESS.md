@@ -261,3 +261,12 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 - [x] Chapter 2: remove curator name/identity; preserve only connection to Arsip Lentera.
 - [x] Chapter 2: remove unsupported exact three-day travel duration.
 - [ ] Full consecutive proofread and storyboard cross-check.
+
+
+## Book III — Cross-chapter continuity pass
+
+- [x] Remove curator identity from Chapter 2 manuscript line edit and integrated storyboard.
+- [x] Remove unsupported exact travel duration from Chapter 2 manuscript line edit and storyboard page title.
+- [x] Record Chapter 4–5 procedure/meeting distinction as a proofreading checkpoint.
+- [x] Verify six line-edit files and six integrated storyboard masters exist on working branch.
+- [ ] Complete full sentence-level proofread and read-through.
