@@ -63,7 +63,7 @@
 
 **Panel 4.** Ilyra setuju meminta izin untuk memeriksa sumber asli atau keterangan asal.
 
-**Panel 5 — Closing.** Salinan ketiga disimpan dengan label sumber dan batas penggunaan.
+**Panel 5 — Closing.** Salinan catatan yang menyebut Hollow Vale disimpan dengan label sumber dan batas penggunaan.
 
 ---
 
