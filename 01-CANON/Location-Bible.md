@@ -1,5 +1,8 @@
 # Alkitab Lokasi
 
+**Status: CANON untuk nama dan fakta lokasi yang secara eksplisit didukung sumber; rincian UNKNOWN dan CATATAN PENGEMBANGAN tidak disahkan.**  
+**Disahkan: 2026-11-26**
+
 ## Tujuan dan aturan dokumentasi
 
 Dokumen ini merangkum informasi lokasi yang secara eksplisit tercantum dalam repository. Dokumen ini tidak menambahkan detail geografis dan tidak mengubah fakta kanon.
