@@ -1,7 +1,7 @@
 # Book IV — Manuscript Index — Draft 0.4
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
-**Progress:** 20 scene prosa; seluruh empat bab memiliki revision pass 0.2. Pembedaan objek Northglass dan naskah interpretasi dipertahankan sebagai model kerja NON-CANON.  
+**Progress:** 20 scene prosa; Chapter 1 memiliki Revision Draft 0.3 setelah koreksi transisi Buku III; Chapters 2–4 memiliki Revision Draft 0.2. Pembedaan objek Northglass dan naskah interpretasi dipertahankan sebagai model kerja NON-CANON.  
 **Jumlah kata:** sekitar 4.550 kata adalah baseline pass pertama; hitungan ulang dilakukan setelah line edit dan revisi seluruh bab.
 
 ## Struktur bab
