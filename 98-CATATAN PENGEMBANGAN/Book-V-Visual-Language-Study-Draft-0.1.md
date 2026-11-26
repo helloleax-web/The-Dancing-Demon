@@ -1,0 +1,73 @@
+# Book V — Visual Language Study — Draft 0.1
+
+**Tanggal:** 2026-11-27  
+**Status:** CATATAN PENGEMBANGAN / NON-CANON / BELUM DIKUNCI  
+**Cakupan:** arah visual untuk produksi Book V, dimulai dari Bab 1.
+
+## Tujuan
+
+Menilai beberapa pendekatan visual sebelum menetapkan rendering, palet, rasio halaman, dan tipografi. Dokumen ini adalah studi opsi, bukan keputusan final dan bukan desain karakter atau lokasi.
+
+## Opsi arah visual
+
+### A. Ink & Wash
+
+- Garis tinta organik, wash tipis, dan tekstur kertas terkontrol.
+- Kontras dapat menekankan suasana investigasi dan material arsip.
+- Risiko: tekstur mudah membuat panel penuh dokumen menjadi terlalu ramai.
+
+### B. Semi-Flat Editorial
+
+- Ilustrasi 2D dengan bentuk sederhana, siluet terbaca, bayangan terbatas, dan tekstur sebagai aksen.
+- Memudahkan staging kelompok, gerakan, properti, serta panel yang berisi dokumen.
+- Risiko: dapat terasa terlalu steril jika semua bidang dibuat sama rata.
+- **Rekomendasi awal untuk diuji:** opsi ini paling mudah menjaga keterbacaan dan konsistensi blocking Bab 1. Rekomendasi ini belum menjadi keputusan final.
+
+### C. Archival Etching
+
+- Garis ukir, arsiran terarah, frame tipis, dan diagram editorial selektif.
+- Mendukung tema arsip dan perbandingan sumber.
+- Risiko: seluruh adegan dapat terasa seperti halaman dokumen dan mengurangi variasi visual.
+
+## Palet
+
+Tiga palet pada visual study hanya contoh tonal, bukan warna dunia atau identitas faksi. Tidak ada warna karakter, lokasi, sihir, atau simbol yang ditetapkan.
+
+## Format dan rasio
+
+Belum diputuskan apakah karya akan berupa komik panel, ilustrasi naratif per scene, atau gabungan. Untuk tes keterbacaan, dua format halaman portrait dapat dibandingkan:
+- 4:5 — lebih ringkas untuk tampilan digital.
+- 2:3 — memberi ruang lebih tinggi untuk urutan panel vertikal.
+
+Panel landscape 16:9 dapat diuji khusus untuk establishing shot, bukan otomatis menjadi rasio seluruh halaman.
+
+## Tipografi
+
+- Gunakan sans-serif netral sementara untuk label produksi dan keterangan kerja.
+- Font judul, lettering dialog, dan gaya efek suara belum dipilih.
+- Uji keterbacaan pada ukuran tampilan ponsel dan halaman penuh sebelum mengunci.
+
+## Batas yang harus dipertahankan
+
+- Tidak menetapkan desain wajah, rambut, tubuh, kostum, aksesori, atau palet karakter.
+- Tidak menetapkan arsitektur, skyline, ornamen, simbol, atau geografi Orlenn/Balai.
+- Tidak menambah lambang atau makna visual untuk NVR AGAIN.
+- Tidak menggambarkan LEAX, Great War, Resonansi Hitam, atau jubah hitam dalam Bab 1.
+- Semua opsi adalah NON-CANON dan dapat diubah.
+
+## Langkah tes berikutnya
+
+1. Pilih satu arah visual sementara untuk diuji, bukan langsung dikunci.
+2. Buat satu panel uji dari Scene 1 yang tidak memerlukan detail karakter atau lokasi final, misalnya insert map dan lembar NVR AGAIN.
+3. Bandingkan keterbacaan garis, tekstur, teks, dan hierarki fokus.
+4. Uji dua rasio halaman pada susunan panel yang sama.
+5. Baru setelah evaluasi, putuskan apakah arah visual layak dipakai untuk Bab 1.
+
+## Status
+
+- Visual language study: selesai sebagai dokumen opsi Draft 0.1.
+- Arah visual final: belum dipilih.
+- Palet final: belum dipilih.
+- Rasio halaman: belum dipilih.
+- Tipografi: belum dipilih.
+- Dampak CANON: tidak ada.
