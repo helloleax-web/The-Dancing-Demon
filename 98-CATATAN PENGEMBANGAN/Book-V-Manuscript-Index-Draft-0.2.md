@@ -214,3 +214,12 @@
 - Scene 3 — Balai Catatan Perang: layout thumbnail manual Draft 0.1, delapan panel, tercatat dalam [Thumbnail Review Bab 1](Book-V-Thumbnail-Review-Chapter-01-Draft-0.1.md).
 - PNG dibuat dalam sesi kerja dan belum disimpan sebagai aset biner di repository.
 - Status: menunggu review; semua materi visual tetap NON-CANON.
+
+
+### Thumbnail manual Scene 4 dan koreksi jumlah panel
+
+- Scene 4 — Kronologi yang Tidak Cocok: layout thumbnail manual Draft 0.1, tujuh panel.
+- Total panel Bab 1 yang benar adalah 27 (5 + 7 + 8 + 7), bukan 25 seperti tertulis pada beberapa catatan terdahulu.
+- Semua empat scene kini memiliki layout komposisi manual; belum ada ilustrasi final atau desain karakter/lokasi yang dikunci.
+- Review dan audit: [Book V Thumbnail Review — Bab 1](Book-V-Thumbnail-Review-Chapter-01-Draft-0.1.md).
+- PNG Scene 4 dibuat di sesi kerja, belum masuk repository sebagai aset biner.
