@@ -60,11 +60,9 @@ Penghubung itu mengambil kembali lembar rancangan.
 
 Ia lalu menjelaskan syarat yang sebenarnya mereka inginkan: kronologi utama harus tampil tanpa jeda ketidakpastian, catatan asal sumber dipindahkan ke lampiran, dan kesaksian yang tidak mendukung alur utama tidak perlu dimasukkan. Nama pemberi kesaksian boleh dicantumkan jika dianggap menambah bobot cerita.
 
-Seraphine menutup rancangan itu. “Itu bukan penyuntingan bentuk. Itu mengubah cara pembaca menilai bukti. Dan nama pemberi kesaksian tidak bisa dipakai tanpa mempertimbangkan izin mereka.”
+Seraphine menutup rancangan itu. “Itu bukan penyuntingan bentuk. Itu mengubah cara pembaca menilai bukti. Nama pemberi kesaksian juga tidak bisa dipakai tanpa mempertimbangkan izin mereka.”
 
-Seraphine menjawab tanpa menaikkan suara.
-
-“Kami sedang menyusun laporan. Bukan cerita yang harus terlihat lengkap.”
+“Kami sedang menyusun laporan,” lanjutnya. “Bukan cerita yang harus terlihat lengkap.”
 
 Pertemuan berakhir tanpa kesepakatan.
 
