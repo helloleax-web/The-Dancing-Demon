@@ -1,8 +1,8 @@
 # Book V — Manuscript Index — Draft 0.4
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
-**Progress:** 22 scene; seluruh lima bab telah memiliki pass revisi 0.3 atau lebih baru. Line edit awal Bab 1 Scene 3 dan Bab 4 Scene 14 telah dilakukan; audit kontinuitas mencatat temuan tersebut.  
-**Jumlah kata:** 11.371 kata termasuk judul, metadata, dan catatan tambahan; dihitung ulang setelah revision pass 0.3.
+**Progress:** 22 scene; seluruh lima bab telah memiliki pass revisi 0.3 atau lebih baru. Line edit dialog Bab 1–2 dan Bab 4 Scenes 14–18 telah dilakukan; Bab 3 Scenes 9–13 menerima revisi ritme terarah. Bab 5 masih menunggu line edit menyeluruh.  
+**Jumlah kata:** 11.403 kata termasuk judul, metadata, dan catatan tambahan; dihitung ulang setelah revision pass 0.3.
 
 ## Struktur bab
 
@@ -15,7 +15,7 @@
 ## Audit dan kontrol kontinuitas
 
 - [Book V Character Voice Audit — 2026-11-27](Book-V-Character-Voice-Audit-2026-11-27.md) — profil suara delapan karakter, tumpang tindih dialog, dan rekomendasi line edit.
-- Continuity audit diperbarui menjadi Draft 0.6; mencatat audit suara 22 scene dan line edit Chapter 4 Scene 17.
+- Continuity audit diperbarui setelah line edit dialog Bab 1–2 dan Bab 4 Scenes 14–18.
 
 - [Book V Manuscript Continuity Audit — Draft 0.3](Book-V-Manuscript-Continuity-Audit-Draft-0.2.md) — audit terbaru setelah fakta LEAX dan perolehan jubah oleh sekutunya dimasukkan secara terbatas.
 - [Book V Character Knowledge Matrix — Draft 0.3](Book-V-Character-Knowledge-Matrix-Draft-0.2.md) — pengetahuan karakter dan batas fakta.
@@ -51,7 +51,9 @@
 17. Audit ritme mencatat Scene 9–13 masih berisiko mengulang percakapan metodologis, sedangkan Scene 3 perlu dipadatkan dengan hati-hati karena memuat aturan akses yang penting.
 18. Bab 3 Scene 9–13 direvisi agar tiap scene punya kemajuan berbeda: penelusuran sumber, perbandingan istilah, pengenalan istilah Resonansi Hitam, klasifikasi perbedaan dokumen, dan pencatatan hipotesis lisan.
 19. Audit suara karakter telah memeriksa dialog 22 scene; line edit Chapter 4 Scene 17 membedakan suara prosedural Seraphine dan perkembangan pemikiran Tavian.
-20. Line edit lintas 22 scene belum selesai; tumpang tindih dialog Tavian–Seraphine–Ilyra, karakterisasi Neral/Sava, dan repetisi aforisme masih perlu diperiksa.
+20. Line edit Bab 1–2 memperjelas perbedaan fungsi Tavian, Seraphine, Ilyra, Mira, dan Sava.
+21. Line edit Bab 4 Scenes 14–18 memperjelas peran Kael dalam membaca risiko distribusi informasi, Seraphine dalam keputusan prosedural, Tavian dalam penelusuran katalog, Ilyra dalam pembacaan konteks kutipan, dan Sava dalam sejarah lisan.
+22. Line edit Bab 5 menyeluruh, pemeriksaan akhir repetisi aforisme, dan proofreading lintas bab masih perlu dilakukan.
 
 ## Status utama
 
@@ -68,5 +70,14 @@
 - Chapter 1 revision pass: diferensiasi dialog Tavian, Seraphine, Ilyra, dan Mira; Scene 4 dirapikan agar pencatatan fakta hilangnya LEAX tidak bercampur dengan kronologi.
 - Chapter 2 revision pass: Sava diberi suara yang lebih berakar pada praktik sejarah lisan; fungsi Seraphine, Ilyra, dan Tavian dibedakan dalam pemeriksaan independensi dan perumusan hasil.
 - Tidak ada perubahan CANON. Semua adegan dan dialog Book V tetap NON-CANON.
-- Jumlah kata setelah pass ini: **11.371 kata** termasuk judul, metadata, dan catatan tambahan.
+- Jumlah kata setelah pass ini: **11.403 kata** termasuk judul, metadata, dan catatan tambahan.
 - Rincian audit: lihat bagian 16 pada Book V Manuscript Continuity Audit Draft 0.2.
+
+
+## Line edit dialog Bab 4 — Scenes 14–18
+
+- Dialog konflik penerbit dipadatkan agar tuntutan penerbit dan dampaknya terlihat melalui keputusan konkret.
+- Ilyra, Tavian, dan Seraphine dibedakan melalui pembacaan teks, pemeriksaan katalog, dan keputusan koreksi.
+- Sava diberi penekanan pada jalur pewarisan cerita keluarga dan konteks kesaksian.
+- Tidak ada perubahan CANON; seluruh manuskrip Book V tetap NON-CANON.
+- Jumlah kata terbaru: **11.403 kata** termasuk judul, metadata, dan catatan tambahan.
