@@ -1,7 +1,7 @@
 # Book IV — Manga Storyboard — Chapter 3
-## Revision Draft 0.2 — Scenes 11–15
+## Revision Draft 0.3 — Scenes 11–15
 
-**Basis:** Chapter 3 Manuscript Revision Draft 0.3.  
+**Basis:** Chapter 3 Manuscript Revision Draft 0.5.  
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Format:** manga hitam-putih, pembacaan kanan-ke-kiri.  
 **Estimasi kerja:** 20 halaman; jumlah panel dan layout masih dapat berubah.
@@ -28,19 +28,19 @@
 **Panel 4.** Mira menyampaikan ada materi lain yang perlu diperiksa setelah temuan Northglass.
 **Panel 5.** Kael menoleh, meminta penjelasan.
 
-## Halaman 3 — Jalur Pemeriksaan Lanjutan
-**Panel 1.** Mira menjelaskan secara singkat bahwa tindak lanjut temuan membuka jalur pemeriksaan materi lain.
-**Panel 2.** Close-up catatan kelompok; tidak ada nama tempat atau identitas penjaga.
-**Panel 3.** Seraphine meminta sumber dan batas akses diperiksa.
-**Panel 4.** Tavian mengangguk.
-**Panel 5.** Batu Northglass tampak jauh di latar, sebagai titik awal.
+## Halaman 3 — Rujukan Jorren
+**Panel 1.** Mira bertanya kepada Jorren tentang kumpulan dokumen lama yang pernah ia dengar.
+**Panel 2.** Jorren menjelaskan bahwa ia hanya mengetahui kabar tentang seseorang yang menjaganya; ia tidak tahu isi atau asal-usul materi.
+**Panel 3.** Tavian meminta Jorren menyampaikan permintaan pertemuan, bukan menjamin akses.
+**Panel 4.** Seraphine menegaskan bahwa rujukan itu bukan bukti hubungan Northglass dengan materi lain.
+**Panel 5.** Jorren bersedia menyampaikan permintaan; kelompok menunggu persetujuan.
 
-## Halaman 4 — Materi yang Belum Dibuka
-**Panel 1 — Wide.** Kelompok tiba di tempat pemeriksaan yang tidak diberi penanda geografis spesifik.
-**Panel 2.** Di atas meja terdapat satu naskah tertutup dan satu wadah/sarana penyimpan salinan bunyi.
-**Panel 3.** Seraphine mencatat kondisi dan susunan materi.
-**Panel 4.** Ilyra menunggu sebelum menyentuh halaman.
-**Panel 5.** Tidak ada judul yang terbaca.
+## Halaman 4 — Izin Konsultasi Terbatas
+**Panel 1 — Wide.** Penjaga kumpulan dokumen anonim menerima kelompok; tempat tidak diberi ciri geografis atau desain arsitektur spesifik.
+**Panel 2.** Penjaga menyatakan izin hanya untuk konsultasi di tempat dan di bawah pengawasannya.
+**Panel 3.** Tidak ada izin membawa, memisahkan, menyalin, atau menyebarluaskan materi.
+**Panel 4.** Seraphine mencatat pihak yang hadir, kondisi materi, dan batas izin.
+**Panel 5.** Naskah tertutup dan sarana penyimpan salinan bunyi terlihat berdampingan; judul belum terbaca.
 
 ## Halaman 5 — Naskah Interpretasi
 **Panel 1.** Naskah dibuka pada halaman yang tidak menampilkan judul.
