@@ -226,7 +226,7 @@ Kelompok menerbitkan rekonstruksi terbatas. NVR AGAIN kini dapat ditempatkan dal
 - Mereka melihat bahwa tradisi, institusi, dan keputusan masyarakat masa kini masih membawa akibat sejarah.
 - Sebuah laporan tentang fenomena yang tidak biasa di wilayah lain menjadi petunjuk umum menuju penyelidikan Buku VI, tanpa menjelaskan entitas kosmik.
 - **Akhir buku:** sejarah Great War menjadi lebih kaya, tetapi bukan satu jawaban final.
-- **Fungsi:** mengantar cerita ke Buku VI tanpa mengungkap misteri kosmik atau LEAX.
+- **Fungsi:** mengantar cerita ke Buku VI tanpa mengungkap misteri kosmik atau menambahkan detail baru tentang LEAX.
 
 ## 7. Batas khusus LEAX
 
@@ -253,6 +253,6 @@ Kelompok menerbitkan rekonstruksi terbatas. NVR AGAIN kini dapat ditempatkan dal
 
 ## 10. Status
 
-Outline 22 scene ini adalah rancangan kerja NON-CANON. Alur Great War, arsip, musik, dan jubah dikembangkan dari fakta yang tersedia. Detail hilangnya LEAX tetap UNKNOWN; cakupan istilah Resonansi Hitam tetap UNKNOWN.
+Outline 22 scene ini adalah rancangan kerja NON-CANON. Alur Great War, arsip, musik, dan jubah dikembangkan dari fakta yang tersedia. Fakta minimum bahwa LEAX menghilang setelah Great War dan sekutunya memperoleh jubah mana hitam boleh disebut; detail hilangnya LEAX dan cakupan istilah Resonansi Hitam tetap UNKNOWN.
 
 **Dampak CANON: tidak ada.**
