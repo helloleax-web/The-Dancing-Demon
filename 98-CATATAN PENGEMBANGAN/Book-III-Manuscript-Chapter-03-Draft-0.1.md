@@ -65,21 +65,21 @@ Ia menyusun tiga lembar di atas permukaan meja sementara.
 
 Tavian mendekat.
 
-Pada setiap sumber, ada susunan tanda yang menunjukkan hubungan antara beberapa bagian. Bentuknya tidak sama persis, tetapi cara pengelompokan dan penempatan titik tampak serupa.
+Pada setiap sumber, ada susunan tanda yang menunjukkan hubungan antara beberapa bagian. Bentuknya tidak sama persis, tetapi satu rangkaian rujukan muncul dengan urutan yang sama pada fragmen fasilitas Buku I dan indeks Hollow Vale. Bukan hanya garis dan titiknya yang serupa; susunan pemisah dan posisi tanda penghubungnya juga berulang. Penanda Rookbridge memiliki motif titik-garis yang sejenis secara umum, tetapi tidak memuat urutan rujukan yang sama.
 
-“Ini bisa jadi format indeks,” kata Ilyra.
+“Ini bisa jadi format indeks yang dipakai di dua fasilitas,” kata Ilyra.
 
-Seraphine melihat catatannya. “Atau format penyimpanan yang digunakan oleh beberapa pihak berbeda.”
+Seraphine melihat catatannya. “Kita bisa mencatat bahwa dua catatan fasilitas memakai susunan rujukan yang sama. Itu belum membuktikan pembuat atau fungsi yang sama.”
 
-“Kalau begitu, kenapa susunannya mirip?”
+“Kalau begitu, kenapa susunannya muncul dalam urutan yang sama di dua fasilitas?”
 
-“Karena orang bisa memakai metode yang sama tanpa memiliki tujuan yang sama.”
+“Karena keduanya mungkin memakai konvensi rujukan yang sama. Tapi itu belum memberi tahu apakah ada hubungan fisik, satu organisasi, atau tujuan yang sama.”
 
 Ilyra menghela napas, tetapi ia tidak menghapus hipotesisnya.
 
 Tavian membandingkan bagian yang masih terbaca. Di fasilitas pertama, tanda-tanda itu muncul pada media informasi yang rusak. Di Rookbridge, bentuk serupa terlihat pada penanda rute. Di Hollow Vale, susunan tersebut muncul pada wadah penyimpanan.
 
-“Fungsinya mungkin berbeda,” katanya. “Tapi ada cara pengelompokan yang berulang.”
+“Fungsinya mungkin berbeda,” katanya. “Tapi dua fasilitas tampaknya memakai cara pengelompokan dan rujukan yang sama. Penanda Rookbridge hanya mirip secara umum.”
 
 Seraphine mengangguk. “Itu kesimpulan yang bisa kita tulis.”
 
@@ -165,7 +165,7 @@ Mereka datang untuk membandingkan catatan. Sekarang, mereka harus menjaga agar i
 
 - Hollow Vale memiliki ruang penyimpanan dengan wadah dan panel catatan yang sebagian rusak; tidak ada sistem aktif yang teramati.
 - Kelompok tidak membuka wadah atau memindahkan benda selama pemeriksaan awal.
-- Ilyra menemukan kemiripan format rujukan pada tiga sumber, tetapi fungsi dan asal-usulnya belum diketahui.
+- Ilyra menemukan satu susunan rujukan yang berulang pada dua catatan fasilitas; penanda Rookbridge hanya memiliki motif visual umum yang serupa. Fungsi, asal-usul, dan cakupan sistem tetap belum diketahui.
 - Vellum & Iron Recovery mengajukan kepentingan komersial untuk memulihkan beberapa benda; cakupan hak dan dokumennya belum diverifikasi.
 - Tidak ada pengambilan paksa atau insiden sistem pertahanan pada tahap ini.
 - Konflik mulai beralih dari penemuan fisik ke hak akses, pemulihan, dan pengelolaan salinan.
