@@ -1,10 +1,10 @@
 # Book V — Perang yang Tertinggal
 ## Bab 4: Sejarah yang Diperebutkan
-### Draft Prosa 0.1 — Scenes 14–18
+### Revision Draft 0.2 — Scenes 14–18
 
 **Status: CATATAN PENGEMBANGAN / NON-CANON.**  
 **Basis:** Book V Scene Outline Draft 0.1, Book V Character Knowledge Matrix Draft 0.1, dan fakta CANON yang telah dibatasi dalam dokumen sejarah.  
-**Batas:** seluruh penerbit, kolektor, dokumen, dialog, dan adegan merupakan materi cerita draft. Tidak ada penetapan baru tentang pihak Great War, penyebab perang, atau LEAX.
+**Batas:** seluruh penerbit, kolektor, dokumen, dialog, dan adegan merupakan materi cerita draft. Tidak ada penetapan baru tentang pihak Great War, penyebab perang, atau LEAX. Konflik publikasi tidak boleh mengubah hasil penelitian atau menambahkan fakta sejarah.
 
 ---
 
@@ -57,6 +57,10 @@ Kael menunjuk salah satu bagian. Rancangan tersebut menghilangkan keterangan bah
 Penghubung itu mengambil kembali lembar rancangan.
 
 “Kalau begitu, berikan kami versi yang bisa dipakai. Kami tidak bisa menerbitkan daftar pertanyaan.”
+
+Ia lalu menjelaskan syarat yang sebenarnya mereka inginkan: kronologi utama harus tampil tanpa jeda ketidakpastian, catatan asal sumber dipindahkan ke lampiran, dan kesaksian yang tidak mendukung alur utama tidak perlu dimasukkan. Nama pemberi kesaksian boleh dicantumkan jika dianggap menambah bobot cerita.
+
+Seraphine menutup rancangan itu. “Itu bukan penyuntingan bentuk. Itu mengubah cara pembaca menilai bukti. Dan nama pemberi kesaksian tidak bisa dipakai tanpa mempertimbangkan izin mereka.”
 
 Seraphine menjawab tanpa menaikkan suara.
 
@@ -112,7 +116,7 @@ Ilyra setuju. Ia mengganti beberapa kalimat agar pembaca dapat melihat perbedaan
 
 Tavian menambahkan catatan tentang tanggal dan asal dokumen.
 
-Mereka mengirimkan koreksi itu kepada penerbit dan menyimpan satu salinan dalam arsip kerja kelompok.
+Mereka mengirimkan koreksi itu kepada penerbit dan menyimpan satu salinan dalam arsip kerja kelompok. Seraphine juga membuat daftar perubahan yang diminta penerbit, sehingga kelak mereka dapat membandingkan setiap versi yang beredar dengan sumber aslinya.
 
 Tidak ada jaminan koreksi tersebut akan diterima. Tetapi setidaknya mereka tidak membiarkan versi yang keliru menjadi satu-satunya catatan yang beredar.
 
@@ -238,7 +242,9 @@ Mira menutup map kesaksian. “Dan jangan lupa bahwa beberapa sumber berasal dar
 
 Seraphine menambahkan satu pemeriksaan privasi pada daftar akhir.
 
-Mereka memutuskan untuk menyiapkan salinan penelitian yang dapat diperiksa oleh pihak lain, dengan keterangan asal, metode, dan batas penggunaan. Bagian yang tidak boleh dipublikasikan tetap disimpan sesuai kesepakatan.
+Mereka memutuskan untuk menyiapkan dua keluaran yang berbeda. Salinan penelitian lengkap disimpan bersama keterangan asal, metode, batas penggunaan, dan pembatasan akses untuk kesaksian yang memerlukan perlindungan. Ringkasan publik hanya memuat kesimpulan yang dapat dipertanggungjawabkan serta rujukan yang aman dibagikan. Keduanya diberi tanggal dan nomor versi agar perubahan berikutnya dapat dilacak.
+
+Seraphine menetapkan satu aturan tambahan: tidak ada kutipan atau nama pemberi kesaksian yang boleh dipublikasikan hanya karena penerbit menganggapnya menarik. Izin dan konteks sumber harus diperiksa lebih dahulu.
 
 Tidak ada satu pihak yang mendapat seluruh dokumen tanpa batas.
 
@@ -273,7 +279,8 @@ Mereka baru menyusun batas yang lebih jelas tentang apa yang bisa dikatakan.
 - Ilyra menemukan kutipan yang dipotong dari konteks sumber aslinya.
 - Sava dan Neral membantu memperjelas bahwa kesaksian lisan dan dokumen tertulis memiliki keterbatasan berbeda, tetapi keduanya dapat menjadi sumber.
 - Kelompok menyusun empat kategori: bukti yang didukung beberapa sumber, kesaksian, interpretasi, dan UNKNOWN.
-- Penerbit menolak laporan karena tidak memberikan satu versi final; kelompok memilih jalur penelitian yang mempertahankan sumber dan konteks.
+- Penerbit menolak laporan karena tidak memberikan satu versi final dan meminta penghilangan sebagian batas sumber; kelompok memilih jalur penelitian yang mempertahankan sumber, konteks, dan perlindungan pemberi kesaksian.
 - Tidak ada keputusan baru mengenai penyebab, pihak, lokasi, durasi, korban, atau dampak politik Great War.
 - Tidak ada informasi baru tentang LEAX, asal musik, mekanisme jubah, atau cakupan Resonansi Hitam.
 - Seluruh adegan, dokumen, penerbit, dialog, dan detail tambahan tetap NON-CANON.
+- Revision 0.2 memberi konsekuensi praktis pada konflik publikasi: permintaan penghilangan konteks, risiko penggunaan nama pemberi kesaksian, serta pemisahan arsip lengkap dan ringkasan publik.
