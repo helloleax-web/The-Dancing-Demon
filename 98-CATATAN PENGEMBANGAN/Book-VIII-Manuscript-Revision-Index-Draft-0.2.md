@@ -3,7 +3,7 @@
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Manuscript:** `Book-VIII-Manuscript-Revision-Draft-0.2.md`  
 **Bentuk:** lima bagian, dua puluh scene.  
-**Panjang:** sekitar 8.856 kata berdasarkan pemisahan whitespace; hitungan mencakup judul dan metadata.
+**Panjang:** sekitar 9.072 kata berdasarkan pemisahan whitespace; hitungan mencakup judul dan metadata.
 
 ## Struktur
 
@@ -29,6 +29,7 @@
 - Scene 9 memberi konflik hak akses pada dokumen keluarga; Scene 10 memperlihatkan bagaimana katalog hampir mengubah NVR AGAIN menjadi atribusi pencipta.
 - Scene 12 memberi ketegangan lapangan melalui kesaksian bunyi yang tidak cocok, tanpa memastikan penyebab.
 - Scene 18 memakai beberapa versi salinan sebagai gambaran konkret bagaimana interpretasi bergeser ketika informasi berpindah tangan.
+- Scene 20 ditutup dengan kelompok menerima pekerjaan survei biasa yang jelas dan berbayar; ini mengembalikan seri ke akar petualangan dan kebutuhan hidup, bukan menggantungkan akhir pada misteri baru.
 
 ## Arc karakter
 
