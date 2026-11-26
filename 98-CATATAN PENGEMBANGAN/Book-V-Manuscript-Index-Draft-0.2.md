@@ -1,8 +1,8 @@
 # Book V — Manuscript Index — Draft 0.4
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
-**Progress:** 22 scene; seluruh lima bab telah memiliki pass revisi 0.3 atau lebih baru. Line edit dialog Bab 1–2 dan Bab 4 Scenes 14–18 telah dilakukan; Bab 3 Scenes 9–13 menerima revisi ritme terarah. Bab 5 Scenes 19–22 telah menerima line edit terarah; audit editorial lintas lima bab selesai. Proofreading akhir Bab 1 Scenes 1–4 dan Bab 2 Scenes 5–8 telah dilakukan; Bab 3–5 menunggu giliran.  
-**Jumlah kata:** 11.488 kata termasuk judul, metadata, dan catatan tambahan; dihitung ulang setelah revision pass 0.3.
+**Progress:** 22 scene; seluruh lima bab telah memiliki pass revisi 0.3 atau lebih baru. Line edit dialog Bab 1–2 dan Bab 4 Scenes 14–18 telah dilakukan; Bab 3 Scenes 9–13 menerima revisi ritme terarah. Bab 5 Scenes 19–22 telah menerima line edit terarah; audit editorial lintas lima bab selesai. Proofreading akhir Bab 1 Scenes 1–4, Bab 2 Scenes 5–8, dan Bab 3 Scenes 9–13 telah dilakukan; Bab 4–5 menunggu giliran.  
+**Jumlah kata:** 11.479 kata termasuk judul, metadata, dan catatan tambahan; dihitung ulang setelah revision pass 0.3.
 
 ## Struktur bab
 
@@ -121,3 +121,14 @@
 - Tidak ada perubahan CANON.
 - Jumlah kata manuskrip setelah penghitungan ulang lima bab: **11.488 kata** termasuk judul, metadata, dan catatan tambahan.
 - Status: Bab 1–2 proofreading selesai; Bab 3–5 belum diproofread.
+
+
+## Proofreading akhir — Bab 3
+
+- Bab 3 Scenes 9–13 menerima proofreading mikro.
+- Kalimat deskripsi efek jubah dirapikan; beberapa konstruksi narasi dan pilihan kata dipadatkan.
+- Pengulangan gerak peneliti pada Scene 13 dihapus agar urutan tindakan tidak terduplikasi.
+- Batas fakta tetap dijaga: efek jubah dan perolehan oleh sekutu LEAX sesuai CANON; mekanisme, pemakai, pembuat, jumlah, dan cakupan Resonansi Hitam tidak ditambahkan.
+- Tidak ada perubahan CANON.
+- Jumlah kata manuskrip setelah penghitungan ulang lima bab: **11.479 kata** termasuk judul, metadata, dan catatan tambahan.
+- Status: Bab 1–3 proofreading selesai; Bab 4–5 belum diproofread.
