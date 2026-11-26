@@ -11,7 +11,7 @@ Permintaan itu datang melalui seorang kurir pada sore hari.
 
 Ilyra menerima amplop kecil dari seseorang yang bekerja untuk kurator yang mendanai proyek perbandingan dokumennya. Ia membaca isinya, lalu menyerahkannya kepada Seraphine setelah memastikan tidak ada bagian yang perlu disimpan secara pribadi.
 
-“Kurator meminta agar salinan ketiga tidak disebarkan sebelum sumbernya diperiksa,” katanya.
+“Kurator meminta agar salinan catatan yang menyebut Hollow Vale tidak disebarkan sebelum sumbernya diperiksa,” katanya.
 
 “Apakah ia menjelaskan alasannya?” tanya Seraphine.
 
@@ -41,7 +41,7 @@ Ilyra mendengarkan.
 
 Seraphine mengangguk. “Itu yang sedang kita coba lakukan.”
 
-Tavian memandang surat itu. “Kita bisa menahan salinan ketiga sampai sumbernya diperiksa. Tapi kita tetap perlu tahu apakah catatan tersebut benar-benar mengarah ke Hollow Vale.”
+Tavian memandang surat itu. “Kita bisa menahan salinan catatan yang menyebut Hollow Vale sampai sumbernya diperiksa. Tapi kita tetap perlu tahu apakah catatan tersebut benar-benar mengarah ke Hollow Vale.”
 
 Ilyra setuju. Ia akan meminta izin untuk memeriksa sumber aslinya atau setidaknya mendapatkan keterangan yang cukup tentang asal salinan.
 
@@ -55,13 +55,13 @@ Kael mengembalikan amplop ke meja.
 
 Tidak ada yang memutuskan untuk mempercayai kurator sepenuhnya. Namun, mereka juga tidak memiliki alasan untuk menganggap permintaan itu sebagai upaya menutupi sesuatu.
 
-Untuk sementara, salinan ketiga tetap disimpan dengan catatan sumber dan batas penggunaannya.
+Untuk sementara, salinan catatan yang menyebut Hollow Vale tetap disimpan dengan catatan sumber dan batas penggunaannya.
 
 ### Scene 6 — Perjalanan ke Hollow Vale
 
 Mereka berangkat setelah memperoleh cukup informasi untuk memperkirakan arah perjalanan.
 
-Catatan lama menyebut Hollow Vale sebagai nama tempat, tetapi tidak memberi koordinat yang dapat langsung digunakan. Tavian membandingkan beberapa jalur pada peta regional dan menemukan dua kemungkinan rute.
+Catatan lama menyebut Hollow Vale sebagai nama tempat, tetapi tidak memberi koordinat yang dapat langsung digunakan. Ilyra menemukan satu catatan perjalanan lain yang menyebut lintasan tua dan arah lembah dari titik persinggahan yang masih dikenal. Mira mencocokkan urutan penanda dalam catatan itu dengan rute lokal, sehingga mereka dapat mempersempit wilayah pencarian tanpa mengetahui titik tepatnya. Tavian membandingkan beberapa jalur pada peta regional dan menemukan dua kemungkinan rute.
 
 Mira memilih jalur yang lebih panjang.
 
@@ -165,7 +165,7 @@ Di hadapan mereka, Hollow Vale tidak memberikan jawaban. Namun, ia memberi kelom
 
 ## Catatan tambahan Scenes 5–7
 
-- Kurator proyek Ilyra meminta salinan ketiga tidak disebarkan sebelum sumbernya diperiksa; ia tidak otomatis disamakan dengan kurator kontrak Kael pada Buku I.
+- Kurator proyek Ilyra meminta salinan catatan yang menyebut Hollow Vale tidak disebarkan sebelum sumbernya diperiksa; ia tidak otomatis disamakan dengan kurator kontrak Kael pada Buku I.
 - Kael mengenali kemiripan pola kerja tetapi tidak menyimpulkan identitas atau hubungan orang.
 - Kelompok memilih rute yang lebih panjang karena kondisi jalur pendek belum dapat dipastikan.
 - Hollow Vale ditemukan sebagai situs kedua yang berbeda secara visual dari fasilitas Buku I.
