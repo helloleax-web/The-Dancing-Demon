@@ -66,8 +66,8 @@ Kelompok berhasil menyimpan dokumentasi bersama, tetapi tidak memperoleh jawaban
 - **Fungsi:** menanam konflik metode antara interpretasi dan standar bukti.
 
 **Scene 4 — Salinan Ketiga**
-- Ilyra menemukan catatan perjalanan tambahan yang memuat susunan tanda untuk dibandingkan dan menyebut Hollow Vale.
-- Catatan lain menyebut lintasan tua dan urutan penanda yang dapat dicocokkan Mira dengan rute lokal; ini mempersempit wilayah, bukan memberi koordinat pasti.
+- Ilyra menemukan catatan perjalanan yang menyebut Hollow Vale dan memuat urutan lintasan serta penanda perjalanan.
+- Catatan perjalanan itu membantu mempersempit wilayah pencarian melalui pencocokan Mira dengan rute lokal; catatan tersebut bukan bukti pola rujukan fasilitas dan tidak memberi koordinat pasti.
 - Tavian dan Mira membandingkan rute yang tersedia.
 - **Fungsi:** memberi alasan berbasis dokumen untuk perjalanan ke situs kedua.
 
@@ -247,3 +247,13 @@ Kelompok berhasil menyimpan dokumentasi bersama, tetapi tidak memperoleh jawaban
 - Penanda Rookbridge hanya memiliki motif umum yang mirip, bukan urutan rujukan khusus yang sama.
 - Rujukan batu bertulis tetap tidak diidentifikasi sebagai artefak tertentu dan tidak mengungkap NVR AGAIN.
 - Seluruh perubahan tetap NON-CANON sampai disahkan kreator.
+
+
+## 10. Addendum — Koreksi sumber catatan perjalanan 0.3
+
+- Catatan perjalanan Hollow Vale hanya berfungsi sebagai sumber nama tempat, urutan lintasan, dan penanda persinggahan untuk mempersempit pencarian rute.
+- Catatan perjalanan tidak memuat atau membuktikan susunan rujukan khusus yang sama dengan fragmen fasilitas Buku I.
+- Satu susunan rujukan khusus yang sama hanya ditemukan pada fragmen fasilitas Buku I dan indeks fasilitas Hollow Vale.
+- Penanda Rookbridge hanya memiliki motif visual umum yang mirip; laporan Daren tetap petunjuk terpisah.
+- Koreksi ini menyelaraskan Scene 4 dengan Manuscript Chapter 1–2 Line Edit Draft 0.3 dan Book III Manuscript Continuity Audit Draft 0.5.
+- Status seluruh outline tetap CATATAN PENGEMBANGAN / NON-CANON; tidak ada perubahan CANON.
