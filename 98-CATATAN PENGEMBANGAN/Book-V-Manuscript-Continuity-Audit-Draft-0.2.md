@@ -104,9 +104,19 @@ Manuskrip harus mempertahankan ketidakpastian tersebut. Jangan mengubah istilah 
 - Bab 4 Scene 14: pengulangan respons Seraphine kepada penghubung penerbit dihapus; dua kalimat penolakan kini menjadi satu giliran dialog yang utuh.
 - Temuan ini menunjukkan masih diperlukan pemeriksaan dialog menyeluruh. Belum ada klaim bahwa repetisi di seluruh 22 scene sudah selesai.
 - Bab 5 Scene 21: dialog Daren diubah dari komentar umum tentang banyaknya hal yang belum diketahui menjadi pertanyaan praktis tentang jalur, kondisi medan, dan keterjangkauan lokasi. Ini menegaskan perspektifnya sebagai pekerja lapangan tanpa menetapkan lokasi atau fakta baru.
+- Bab 3 Scene 9: transisi dari temuan NVR AGAIN ke koleksi jubah diperjelas. Naskah menyatakan bahwa hubungan musik dengan Great War tidak otomatis menghubungkan seluruh catatan perang; pemeriksaan jubah dimulai sebagai pertanyaan terpisah.
+- Bab 5 Scene 21: daftar UNKNOWN yang sebelumnya dibacakan satu per satu dipadatkan karena daftar serupa sudah muncul dalam laporan Scene 17 dan 19. Scene ini kini berfungsi sebagai peninjauan akhir dan respons karakter, bukan pengulangan inventaris.
 - Pemeriksaan suara karakter, transisi, dan ritme lintas bab masih berlangsung.
 
-## 12. Kesimpulan
+## 12. Temuan ritme dan transisi
+
+1. **Scene 17 → 19:** keduanya membahas laporan, tetapi fungsinya berbeda. Scene 17 menyusun kategori dan batas kesimpulan; Scene 18 memperlihatkan penolakan penerbit; Scene 19 menyajikan laporan yang sudah diselesaikan. Pertahankan perbedaan ini, jangan menghapus salah satunya.
+2. **Scene 21:** pengulangan daftar UNKNOWN telah dipadatkan karena informasi yang sama sudah dipaparkan dalam laporan. Scene 21 kini menekankan respons kelompok dan batas tindak lanjut.
+3. **Scene 8 → 9:** transisi diperjelas agar pergantian dari musik ke jubah tidak terbaca sebagai hubungan sebab-akibat.
+4. **Scene 9–13:** rangkaian arsip jubah masih berisiko terasa seperti beberapa variasi percakapan metodologis. Fungsi tiap scene berbeda dalam outline, tetapi line edit berikutnya perlu memangkas dialog yang hanya mengulang “belum ada bukti” tanpa informasi atau keputusan baru.
+5. **Scene 1–4:** perjalanan, pengenalan Balai, dan metode kronologi berfungsi sebagai pembukaan bertahap. Scene 3 cukup padat dengan aturan akses; pemadatan perlu dilakukan hati-hati agar aturan yang memengaruhi plot tidak hilang.
+
+## 13. Kesimpulan
 
 Buku V memenuhi fungsi rekonstruksi sejarah Great War dan memberi payoff pada nama NVR AGAIN tanpa menjelaskan asal musik. Efek jubah mana hitam dan istilah Resonansi Hitam dijaga sesuai batas CANON. Koreksi 0.2 mencegah klaim global yang lebih luas daripada koleksi sumber yang diperiksa.
 
