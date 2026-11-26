@@ -1,6 +1,6 @@
 # Book III — Sisa-Sisa yang Tertinggal
 ## Bab 1: Pola yang Belum Terbukti
-### Line Edit Draft 0.3 — Scenes 1–4
+### Proofread Draft 0.4 — Scenes 1–4
 
 **Status: CATATAN PENGEMBANGAN / NON-CANON.**  
 **Basis:** Manuscript Chapter 01 Revision Draft 0.2.  
