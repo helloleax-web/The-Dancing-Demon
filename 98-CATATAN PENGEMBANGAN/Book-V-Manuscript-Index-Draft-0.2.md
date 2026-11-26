@@ -232,3 +232,11 @@
 - Total layout: 27 panel dari 27 panel storyboard.
 - Thumbnail ilustratif dan ilustrasi final belum dibuat; desain karakter dan lokasi belum dikunci.
 - Seluruh materi visual tetap NON-CANON.
+
+
+## Visual language study — Book V
+
+- [Book V Visual Language Study — Draft 0.1](Book-V-Visual-Language-Study-Draft-0.1.md) — tiga opsi rendering, studi palet, format/rasio, tipografi, batas kontinuitas, dan langkah tes.
+- Rekomendasi sementara untuk diuji: Semi-Flat Editorial; belum menjadi keputusan final.
+- Format, palet, rasio halaman, tipografi, dan desain karakter/lokasi belum dikunci.
+- Seluruh opsi NON-CANON; tidak ada perubahan CANON.
