@@ -52,3 +52,10 @@
 
 **Status Book III:** DALAM REVISI — belum final.  
 **Dampak CANON: tidak ada.**
+
+
+## Line edit manuscript — Chapter 1
+
+- [Book III Manuscript Chapter 1 — Line Edit Draft 0.3](Book-III-Manuscript-Chapter-01-Line-Edit-Draft-0.3.md)
+
+Draft 0.3 is an editorial pass on Revision Draft 0.2. It is not yet final proofread and introduces no CANON changes.
