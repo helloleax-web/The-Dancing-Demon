@@ -1,5 +1,5 @@
 # Book IV — Prasasti Pertama
-## Scene Outline — Draft 0.6
+## Scene Outline — Draft 0.7
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Basis:** Eight-Book Series Architecture, penutup Buku III, CANON *Thirteen Prasasti*, dan keputusan kreator memilih mekanisme B.  
@@ -121,9 +121,10 @@ Penemuan didokumentasikan dengan batas sumber dan pengetahuan yang jelas. Nama d
 
 **Scene 12 — Naskah dan Salinan Bunyi**
 - Penjaga kumpulan dokumen anonim menerima kelompok dan memberi izin konsultasi terawasi di tempat.
-- Izin tidak mencakup membawa, memisahkan, menyalin, atau menyebarluaskan materi.
+- Izin mencakup catatan non-reproduktif dan ringkasan untuk pihak yang terlibat langsung; publikasi lebih luas memerlukan persetujuan terpisah. Izin tidak mencakup membawa, memisahkan, menyalin, atau menyebarluaskan materi sumber.
 - Kelompok melihat naskah interpretasi Prasasti I dan salinan bunyi yang disimpan bersamanya.
 - Seraphine mencatat pihak yang hadir, kondisi materi, batas izin, dan bahwa provenance belum terverifikasi.
+- Penjaga mengizinkan catatan non-reproduktif dan ringkasan pemeriksaan dibagikan kepada pihak yang terlibat langsung dalam penyelidikan; publikasi lebih luas memerlukan persetujuan terpisah.
 - Identitas penjaga, lokasi geografis, kepemilikan sah, asal-usul, dan riwayat perpindahan tetap OPEN QUESTION.
 - **Fungsi:** memperlihatkan sumber yang benar-benar akan mengungkap nama serta menetapkan dasar akses secara terbatas.
 
