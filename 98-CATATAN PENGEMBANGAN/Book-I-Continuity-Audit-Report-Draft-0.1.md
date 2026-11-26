@@ -4,6 +4,8 @@
 **Status:** CATATAN PENGEMBANGAN / NON-CANON  
 **Cakupan:** pass pertama prosa Buku I, 19 scene dalam enam bab kerja; dibandingkan dengan premis CANON pada `00-CORE/08-Cerita-dan-Rencana-Delapan-Buku.md`, Scene Outline, Character Knowledge Matrix, dan dokumen misteri terkait.
 
+> **Catatan status:** laporan ini adalah audit awal dan telah disupersesi oleh [Book I Manuscript Continuity Audit — Draft 0.2](Book-I-Manuscript-Continuity-Audit-Draft-0.2.md). Gunakan audit 0.2 untuk status terbaru. Identitas perusahaan dalam Buku I kini dipertahankan anonim; hubungan dengan Vellum & Iron Recovery tetap OPEN QUESTION.
+
 ## 1. Hasil ringkas
 
 - Seluruh 19 scene outline sudah memiliki prosa awal.
