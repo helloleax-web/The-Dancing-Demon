@@ -1,14 +1,14 @@
 # Book IV — Prasasti Pertama
 ## Bab 4: Setelah Nama Ditemukan
-### Revision Draft 0.4 — Scenes 16–20
+### Revision Draft 0.5 — Scenes 16–20
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
-**Basis:** Book IV Scene Outline Draft 0.5 dan keputusan kreator memilih mekanisme B.  
-**Batas:** konflik dokumentasi membedakan objek Northglass dari naskah interpretasi Prasasti I dan salinan bunyinya. Semua hak, akses, dan prosedur tetap keputusan cerita NON-CANON.
+**Basis:** Book IV Scene Outline Draft 0.6, mekanisme B, dan keputusan pengembangan akses Opsi A.  
+**Batas:** konflik dokumentasi membedakan objek Northglass dari naskah interpretasi Prasasti I dan salinan bunyinya. Akses materi Prasasti I hanya konsultasi terawasi di tempat; kelompok tidak membawa, memisahkan, menyalin, atau menyebarluaskan materi sumber. Catatan non-reproduktif yang dibuat selama konsultasi tidak sama dengan salinan naskah atau bunyi. Semua hak dan prosedur tetap NON-CANON.
 
 ### Catatan model sumber — NON-CANON
 
-Objek Northglass adalah artefak fisik yang menjadi titik awal penyelidikan. Naskah interpretasi Prasasti I dan salinan bunyi yang disimpan bersamanya merupakan materi tersendiri. Nama NVR AGAIN diketahui dari judul naskah tersebut, bukan dari transliterasi langsung guratan Northglass. Hubungan asal-usul dan mekanisme yang mengantar kelompok dari Northglass kepada materi Prasasti I belum ditetapkan.
+Objek Northglass adalah artefak fisik yang menjadi titik awal penyelidikan. Naskah interpretasi Prasasti I dan salinan bunyi yang disimpan bersamanya merupakan materi tersendiri. Nama NVR AGAIN diketahui dari judul naskah tersebut, bukan dari transliterasi langsung guratan Northglass. Jalur akses pengembangan: rujukan terbatas Jorren kepada penjaga kumpulan dokumen anonim, lalu konsultasi terawasi di tempat. Hubungan asal-usul/material Northglass dengan naskah, identitas penjaga, lokasi, dan provenance tetap UNKNOWN.
 
 ### Scene 16 — Hak atas Penemuan
 
@@ -28,7 +28,7 @@ Seraphine menggeleng.
 
 “Kita belum membuktikan hubungan asal-usul antara batu dan naskah. Jangan gabungkan keduanya dalam satu klaim.”
 
-Perwakilan Arsip Lentera meminta agar naskah dan salinan bunyi didokumentasikan sebagai satu kesatuan. Mereka juga meminta agar isi interpretasi tidak diperlakukan sebagai fakta objektif tanpa pemeriksaan.
+Perwakilan Arsip Lentera meminta agar hubungan naskah dan salinan bunyi tetap dicatat sebagai satu kesatuan. Mereka juga meminta agar isi interpretasi tidak diperlakukan sebagai fakta objektif tanpa pemeriksaan. Permintaan itu tidak memberi mereka hak atas materi sumber.
 
 Koordinator Meridian ingin mengetahui informasi apa yang dapat dimasukkan ke laporan regional.
 
@@ -52,9 +52,9 @@ Seraphine mengusulkan satu paket dokumentasi dengan dua kelompok sumber yang tid
 
 Kelompok pertama mencakup dokumentasi objek Northglass: foto permukaan yang dapat dijangkau, sketsa posisi, ukuran relatif, catatan kondisi, dan batas pengamatan.
 
-Kelompok kedua mencakup materi Prasasti I: susunan naskah interpretasi, catatan pembacaan, bagian yang belum dipahami, serta salinan bunyi yang disimpan bersamanya. Setiap catatan harus menjelaskan apakah isinya merupakan pengamatan, tafsir penulis, dugaan, atau UNKNOWN.
+Kelompok kedua mencakup hasil konsultasi materi Prasasti I: deskripsi susunan naskah interpretasi, catatan non-reproduktif tentang proses pembacaan dan pendengaran, bagian yang belum dipahami, serta keterangan bahwa salinan bunyi disimpan bersama naskah. Tidak ada salinan atau transkrip materi sumber yang dibuat. Setiap catatan harus menjelaskan apakah isinya merupakan pengamatan, tafsir penulis, dugaan, atau UNKNOWN.
 
-Salinan kerja dapat disimpan oleh tim yang membuatnya. Salinan untuk penelitian dapat dibagikan kepada pihak yang menyetujui ketentuan. Salinan publik harus menghindari informasi yang dapat membuat orang mendatangi lokasi tanpa izin atau mengganggu pihak yang menjaga materi.
+Kelompok tidak membuat atau membawa salinan naskah maupun salinan bunyi. Catatan kerja hanya memuat pengamatan, struktur sumber, status bagian yang belum dipahami, dan hasil pemeriksaan yang boleh dicatat; catatan itu bukan transkrip atau reproduksi materi. Pembagian catatan kerja kepada pihak lain tetap harus mengikuti batas izin dan kesepakatan yang berlaku.
 
 Vellum & Iron Recovery meminta agar perusahaan tetap dapat mengajukan penilaian material terhadap objek Northglass pada masa mendatang.
 
@@ -62,7 +62,7 @@ Jorren bersedia membahas permintaan itu jika ada dasar yang jelas dan penilaian 
 
 Tim Meridian menyetujui penggunaan dokumentasi Northglass untuk laporan lokasi, tetapi meminta agar materi Prasasti I tidak otomatis dimasukkan sebagai bagian dari survei fisik tanpa keterangan sumber.
 
-Perwakilan Arsip Lentera meminta agar naskah dan salinan bunyi tidak dipisahkan dalam dokumentasi maupun penyimpanan.
+Perwakilan Arsip Lentera meminta agar hubungan naskah dan salinan bunyi tetap dicatat bersama; materi sumber tetap berada dalam pengawasan penjaganya.
 
 Ilyra menyetujui. Ia tidak ingin komentar penafsir dibaca sebagai kepastian sejarah, dan tidak ingin salinan bunyi diperlakukan sebagai materi yang tidak berkaitan dengan naskah.
 
@@ -72,7 +72,7 @@ Daren memeriksa batas akses dan menyarankan agar pemeriksaan lapangan tetap diba
 
 Setelah beberapa kali penyesuaian, para pihak menyetujui pengaturan dokumentasi.
 
-Batu tetap berada di tempatnya. Naskah dan salinan bunyi tetap diperlakukan sebagai satu kesatuan. Tidak ada pihak yang mendapat hak otomatis untuk mengambil, memisahkan, atau mengubah sumber asli.
+Batu tetap berada di tempatnya. Naskah dan salinan bunyi tetap bersama dalam pengawasan penjaganya. Tidak ada pihak yang mendapat hak otomatis untuk mengambil, memisahkan, menyalin, atau mengubah sumber asli.
 
 ### Scene 18 — Prasasti Pertama
 
@@ -136,7 +136,7 @@ Mira memastikan bahwa salinan yang dibawa kelompok tidak memuat informasi yang d
 
 Daren memeriksa perlengkapan dan menunggu semua orang siap.
 
-Ilyra menyimpan catatan pemeriksaan naskah dan salinan bunyi dalam satu map. Ia ingin membandingkannya dengan catatan lain, tetapi belum memiliki sumber yang dapat menjelaskan identitas pemilik suara atau konteks lantunan.
+Ilyra menyimpan catatan non-reproduktif hasil konsultasi naskah dan salinan bunyi dalam satu map. Materi sumber tetap berada bersama penjaganya. Ia ingin membandingkan hasil pengamatan dengan catatan lain, tetapi belum memiliki sumber yang dapat menjelaskan identitas pemilik suara atau konteks lantunan.
 
 Kael bertanya kepada Tavian, “Kita akan mencari apa setelah ini?”
 
@@ -162,10 +162,11 @@ Namun, maknanya masih tertinggal.
 
 - Kepentingan masyarakat setempat terhadap akses Northglass tetap dibedakan dari kepentingan atas naskah dan salinan bunyi.
 - Arsip Lentera, tim Meridian, dan Vellum & Iron Recovery memiliki kepentingan berbeda; tidak ada pihak yang memperoleh hak penuh atas semua sumber.
-- Dokumentasi memisahkan objek Northglass dari naskah interpretasi Prasasti I dan salinan bunyi yang disimpan bersamanya.
+- Dokumentasi memisahkan objek Northglass dari catatan konsultasi naskah interpretasi Prasasti I dan salinan bunyi yang disimpan bersamanya.
+- Kelompok tidak membawa, memisahkan, menyalin, atau menyebarluaskan materi sumber; catatan kerja bersifat non-reproduktif dan tunduk pada batas izin.
 - Naskah dan salinan bunyi diperlakukan sebagai satu kesatuan dokumenter.
 - Nama NVR AGAIN diketahui dari judul naskah interpretasi Prasasti I dan mulai beredar di kalangan peneliti.
 - Isi interpretasi tetap perspektif penafsir, bukan fakta objektif otomatis.
 - Makna judul, identitas pemilik suara, konteks sejarah, dan hubungan dengan Great War atau LEAX tetap belum dijelaskan.
 - Kelompok berencana menelusuri catatan sejarah lebih lanjut untuk Buku V.
-- Semua detail prosedur, organisasi, akses, dan dialog tetap NON-CANON. Tidak ada perubahan CANON.
+- Jalur akses Opsi A, prosedur konsultasi terawasi, dan batas catatan non-reproduktif tetap NON-CANON. Identitas penjaga, lokasi, kepemilikan, provenance, dan autentikasi tetap UNKNOWN. Tidak ada perubahan CANON.
