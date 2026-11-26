@@ -343,3 +343,10 @@
 - [Tavian Rell — Character Readability & Scale Test — Draft 0.1](Book-V-Tavian-Readability-Scale-Test-Draft-0.1.md) — compares P1/P2/P3 at large, medium, and small scale, with a generic second figure and map prop in 4:5 and 2:3 test frames.
 - Initial observation: primary silhouette mass remains distinguishable; small details and prop separation degrade first. P2 is a neutral comparison point only, not a selected design.
 - All proportions and boards remain NON-CANON. No Character Bible or CANON changes.
+
+
+## Tavian perspective & pose consistency — Draft 0.1
+
+- [Tavian Rell — Perspective & Pose Consistency — Draft 0.1](Tavian-Perspective-Pose-Consistency-Draft-0.1.md) — membandingkan P1/P2/P3 pada tampak depan, samping, dan tiga-perempat serta pose berdiri, berjalan, duduk, dan membungkuk.
+- Ketiga sistem masih dapat dibedakan secara umum pada skema massa; board belum menguji anatomi tiga dimensi, konstruksi sendi, foreshortening, atau mekanika gerak.
+- Tidak ada kandidat yang dipilih dan tidak ada proporsi tubuh Tavian yang ditetapkan. Seluruh materi NON-CANON; tidak ada perubahan Character Bible atau CANON.
