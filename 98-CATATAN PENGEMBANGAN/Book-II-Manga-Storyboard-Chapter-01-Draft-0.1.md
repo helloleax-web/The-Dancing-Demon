@@ -43,7 +43,7 @@
 
 ## Halaman 3 — Salinan yang Diserahkan
 
-**Panel 1.** Wakil Vellum & Iron Recovery datang ke meja.
+**Panel 1.** Wakil perusahaan pemulihan peninggalan datang ke meja.
 
 **Panel 2.** Seraphine menyerahkan satu berkas.
 
