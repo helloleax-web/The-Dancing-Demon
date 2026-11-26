@@ -14,7 +14,7 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 | Buku | Status | Catatan |
 |---|---|---|
 | I — Jalur yang Terlupakan | DALAM REVISI | Keenam bab telah melalui line edit awal (Bab 1 Draft 0.2; Bab 2–6 Draft 0.3). Audit line edit enam bab Draft 0.2 dan indeks manuskrip Draft 1.3 tersedia. Sinkronisasi panel-per-panel, line edit terpadu, proofreading, roster pendukung, dan audit kontinuitas final masih tertunda. |
-| II — Dunia di Luar Peta | DALAM REVISI | Seluruh Bab 1–6 memiliki pass line-edit awal Draft 0.3. Audit transisi Book I–II, Bellwether, Rookbridge, kontinuitas 20 scene, persiapan line edit, dan transisi Book II–III tersedia. Audit terpadu setelah line edit, sinkronisasi storyboard, proofreading, dan audit geografi rinci belum selesai. |
+| II — Dunia di Luar Peta | DALAM REVISI | Seluruh Bab 1–6 memiliki pass line-edit awal Draft 0.3. Audit transisi Book I–II, Bellwether, Rookbridge, kontinuitas 20 scene, persiapan line edit, dan audit terpadu pasca-line-edit Draft 0.2 tersedia. Dua temuan editorial utama (status laporan Rookbridge dan identitas lintasan sempit pada peta) masih harus diselesaikan; sinkronisasi storyboard, proofreading, dan audit transisi Book II–III dengan manuskrip Book III aktif belum selesai. |
 | III — Sisa-Sisa yang Tertinggal | BELUM DIKERJAKAN | Perlu audit seluruh enam chapter dan pengenalan Ilyra. |
 | IV — Prasasti Pertama | BELUM DIKERJAKAN | Perlu memilih versi chapter aktif berdasarkan riwayat dan mengaudit interpretasi prasasti. |
 | V — Perang yang Tertinggal | BELUM DIKERJAKAN | Perlu membandingkan draft dan revisi yang tersedia serta audit sejarah/konsekuensi. |
@@ -89,6 +89,9 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 63. Menerapkan pass line-edit awal Book II Chapter 5 menjadi Draft 0.3.
 64. Menerapkan pass line-edit awal Book II Chapter 6 menjadi Draft 0.3.
 65. Menerbitkan indeks manuskrip Book II Draft 1.0.
+66. Membaca keenam bab Book II Draft 0.3 secara berurutan.
+67. Membuat Unified Line-Edit Audit Book II Draft 0.2 yang mencatat dua temuan kontinuitas untuk dituntaskan.
+68. Menerbitkan indeks manuskrip Book II Draft 1.1.
 
 ## Temuan yang harus dibawa ke tahap berikutnya
 
@@ -125,7 +128,8 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 - [x] Lakukan audit kontinuitas awal seluruh 20 scene dan perbarui Character Knowledge Matrix.
 - [x] Lakukan pass line-edit awal Bab 1–3.
 - [x] Lakukan pass line-edit awal Bab 4–6 menjadi Draft 0.3.
-- [ ] Baca enam bab Draft 0.3 secara terpadu dan lakukan audit kontinuitas final.
+- [x] Baca enam bab Draft 0.3 secara terpadu dan buat audit line-edit terpadu Draft 0.2.
+- [ ] Selesaikan status laporan Rookbridge dan identitas lintasan sempit berdasarkan outline/kontrak.
 - [ ] Audit geografi, kronologi, kontrak, dan arc karakter Book II.
 - [ ] Audit dan revisi seluruh chapter.
 - [ ] Perbarui indeks dan dokumen pendukung.
@@ -161,4 +165,5 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 - 2026-11-26: Character Knowledge Matrix Book II Draft 0.2, Unified Continuity Audit Draft 0.1, dan indeks Book II Draft 0.7 diterbitkan.
 - 2026-11-27: Unified Line-Edit Preparation Audit, Chapter 1 line-edit Draft 0.3, Book II–III Transition Audit, dan indeks Book II Draft 0.8 diterbitkan.
 - 2026-11-27: Chapters 2–3 menerima pass line-edit awal Draft 0.3; indeks Book II Draft 0.9 diterbitkan.
-- 2026-11-27: Chapters 4–6 menerima pass line-edit awal Draft 0.3; indeks Book II Draft 1.0 diterbitkan. Audit terpadu, sinkronisasi storyboard, revisi Book III Chapter 1, dan proofreading masih tertunda. Status Book II tetap DALAM REVISI.
+- 2026-11-27: Chapters 4–6 menerima pass line-edit awal Draft 0.3; indeks Book II Draft 1.0 diterbitkan.
+- 2026-11-27: Keenam bab Draft 0.3 dibaca berurutan; Unified Line-Edit Audit Draft 0.2 mencatat dua temuan kontinuitas (status laporan Rookbridge dan hubungan lintasan sempit dengan dua jalur alternatif); indeks Book II Draft 1.1 diterbitkan. Status Book II tetap DALAM REVISI.
