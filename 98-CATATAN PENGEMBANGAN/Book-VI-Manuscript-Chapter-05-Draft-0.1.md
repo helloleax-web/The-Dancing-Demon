@@ -166,7 +166,7 @@ Mira memastikan bahwa warga memiliki informasi tentang rute yang dapat digunakan
 
 Sebelum mereka berangkat, sebuah pesan tiba melalui pengantar dari lembaga penelitian yang telah menerima laporan mereka.
 
-Pesan itu berisi permintaan untuk membantu memeriksa koleksi dokumen mengenai 13 Prasasti. Pihak pengirim tidak menyertakan isi baru. Mereka hanya menyebut bahwa sejumlah catatan dan salinan telah dikumpulkan, tetapi belum dibandingkan dalam satu metode yang konsisten.
+Pesan itu berisi permintaan untuk membantu memeriksa koleksi dokumen mengenai 13 Prasasti. Pihak pengirim tidak menyertakan isi baru. Mereka hanya menyebut bahwa sejumlah catatan dan salinan telah dikumpulkan, tetapi belum dibandingkan dalam satu metode yang konsisten. Surat itu juga menawarkan biaya perjalanan dan honor untuk pekerjaan perbandingan, dengan syarat akses yang masih harus mereka periksa sebelum menerima.
 
 Ilyra membaca surat itu dua kali.
 
