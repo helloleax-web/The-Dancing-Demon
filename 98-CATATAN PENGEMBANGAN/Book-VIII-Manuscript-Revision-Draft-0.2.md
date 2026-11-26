@@ -118,7 +118,7 @@ Beberapa pekan sebelumnya, hujan panjang merusak bagian tanggul dan membuat alir
 
 Masalahnya, jalur lama tidak tercatat dengan baik. Peta resmi menunjukkan satu saluran yang berakhir di sisi timur. Peta masyarakat menunjukkan cabang lain, tetapi garisnya dibuat berdasarkan ingatan dan penanda yang sudah berubah.
 
-“Kenapa kalian meminta kelompok survei?” tanya Tavian kepada utusan yang membawa permintaan.
+Utusan itu memperkenalkan diri sebagai Lysa. Ia mengatur giliran kerja warga dan menjadi penghubung dengan dewan permukiman. Ia membawa permintaan itu sendiri karena orang-orang yang biasanya memeriksa saluran sudah sibuk memindahkan persediaan.\n\n“Kenapa kalian meminta kelompok survei?” tanya Tavian kepada Lysa.
 
 “Karena orang yang memperbaiki saluran tahu cara membersihkan bagian yang terlihat,” jawab utusan itu. “Mereka tidak tahu apakah dinding di bawah jalan masih kuat. Kami butuh orang yang bisa mengukur, membaca peta, dan mengatakan kapan mereka tidak tahu.”
 
@@ -144,7 +144,7 @@ Tavian mendengarkan semuanya sebelum menjawab.
 
 Utusan itu tampak kecewa, tetapi mengangguk.
 
-“Kalau begitu,” katanya, “setidaknya kami akan tahu bagian mana yang belum boleh kami percayai.”
+“Kalau begitu,” kata Lysa, “setidaknya kami akan tahu bagian mana yang belum boleh kami percayai.”
 
 ## Scene 4 — Keputusan Berangkat
 
