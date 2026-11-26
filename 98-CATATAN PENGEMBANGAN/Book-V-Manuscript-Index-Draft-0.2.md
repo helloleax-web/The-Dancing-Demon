@@ -265,3 +265,12 @@
 - Hasil ini hanya berlaku sebagai evaluasi awal Scene 2; rasio halaman seluruh buku belum diputuskan.
 - Board PNG dibuat di sesi kerja dan belum disimpan sebagai aset biner di repository.
 - Semua materi NON-CANON; tidak ada perubahan CANON.
+
+
+## Uji rasio halaman dan tata letak panel — Bab 1 Scene 3
+
+- [Book V Scene 3 Page Ratio Test — Draft 0.1](Book-V-Scene-3-Page-Ratio-Test-Draft-0.1.md) — perbandingan format 4:5 dan 2:3 untuk delapan panel di Balai Catatan Perang.
+- Format 4:5 sementara lebih fleksibel untuk panel interior yang memperlihatkan beberapa zona dan aktivitas paralel; 2:3 memberi alur vertikal lebih bertahap.
+- Hasil ini belum mengunci rasio halaman seluruh buku. Tes Scene 4 dan pertimbangan media publikasi masih diperlukan.
+- Board PNG dibuat di sesi kerja dan belum disimpan sebagai aset biner repository.
+- Semua materi NON-CANON; tidak ada perubahan CANON.
