@@ -12,6 +12,8 @@
 
 Laporan itu tidak lebih dari beberapa lembar.
 
+Laporan Harrowfen termasuk salah satu petunjuk dari wilayah lain yang mereka terima menjelang keberangkatan dari Orlenn. Bersamanya ada permintaan dari pengelola jalur Veycross untuk melakukan pemeriksaan independen. Tawaran itu mencakup biaya perjalanan dan honor kerja yang tidak bergantung pada kesimpulan yang akan mereka buat. Kelompok menerimanya karena tugasnya sesuai dengan pekerjaan mereka: menelusuri sumber, memeriksa jalur, dan menyusun rekomendasi yang dapat dipertanggungjawabkan.
+
 Tavian membacanya sekali lagi saat kelompok berhenti di sebuah tempat singgah. Kertasnya sudah dilipat beberapa kali. Tinta pada bagian bawah sedikit memudar, tetapi sebagian besar tulisan masih terbaca.
 
 Isinya menyebut beberapa pelintas yang melaporkan pengalaman berbeda ketika melewati jalur sekitar Harrowfen. Ada yang mengatakan penanda jalan berada di sisi kiri. Ada yang mengingatnya di sisi kanan. Seorang pelintas mengaku mendengar suara dari arah yang tidak sesuai dengan posisi orang-orang di sekitarnya. Laporan lain menyebut urutan penanda yang tidak sama dengan catatan perjalanan.
@@ -213,6 +215,8 @@ Oren mengangguk pelan.
 “Berapa lama?”
 
 “Kami belum bisa menjanjikan waktunya,” jawab Seraphine. “Kami perlu mengumpulkan keterangan dan memeriksa lokasi.”
+
+Oren mengangguk. “Pembayaran yang disepakati tetap berlaku untuk pemeriksaan independen ini. Saya tidak membayar kalian untuk menyatakan jalur aman atau berbahaya; saya membayar untuk catatan yang bisa diperiksa.”
 
 Beberapa warga terlihat tidak puas. Mereka menginginkan jawaban yang lebih cepat.
 
