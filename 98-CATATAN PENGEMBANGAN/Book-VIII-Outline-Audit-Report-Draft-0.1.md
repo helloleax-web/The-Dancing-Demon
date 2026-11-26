@@ -1,7 +1,7 @@
 # Book VIII — Outline Audit Report — Draft 0.1
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
-**Cakupan:** Book VIII Structural Outline Draft 0.1, 20 scene dalam lima bagian.  
+**Cakupan:** Book VIII Structural Outline Draft 0.1 dan manuskrip first-pass 0.1, 20 scene dalam lima bagian.  
 **Sumber pembanding:** Series Spine & Narrative Framework; Series Conflict Architecture; Series Mystery & Revelation Architecture; Tavian Character Arc; Ensemble Character Arcs; Thirteen Prasasti; Open Questions; Mystery and Foreshadowing Ledger; Book VII manuscript and audits.
 
 ## 1. Hasil ringkas
@@ -10,7 +10,7 @@
 - Pertanyaan dramatis berpusat pada tanggung jawab atas informasi dan konsekuensinya, selaras dengan tema ensemble CANON.
 - Konflik utama diusulkan melalui keputusan informasi dalam keadaan darurat; bukan antagonis tunggal.
 - Keenam karakter memperoleh ujian yang sesuai dengan arc CANON.
-- Makna judul *The Dancing Demon* memiliki working meaning NON-CANON: metafora pola interpretasi yang terus berubah, bukan satu monster atau identitas Abstract Existence.
+- Makna judul *The Dancing Demon* telah disahkan sebagai CANON: metafora pola interpretasi manusia yang berubah-ubah, bukan satu monster atau identitas Abstract Existence.
 - Abstract Existence tidak diposisikan sebagai final boss atau jawaban universal.
 - Misteri yang tidak wajib dijawab tetap dapat menjadi UNKNOWN.
 - Seluruh konflik, lokasi, pihak, dan kejadian Buku VIII tetap NON-CANON.
@@ -23,7 +23,7 @@
 | Series Spine | Adventure, kehidupan sehari-hari, dan kebutuhan praktis tetap hadir | Perjalanan dan konflik lapangan hadir; perlu diperkuat dalam pass scene |
 | Series Conflict Architecture | Empat mesin konflik dapat saling memengaruhi tanpa harus satu penyebab | Konflik perjalanan, informasi, sejarah, dan kosmik dipisahkan dan disilangkan secukupnya |
 | Series Conflict Architecture | Tidak wajib ada antagonis permanen | Tidak ada antagonis tunggal ditetapkan |
-| Mystery & Revelation Architecture | Makna judul diungkap pada Buku VIII | Scenes 17–18 mengembangkan dan mengungkap working meaning metaforis berdasarkan motif Prasasti |
+| Mystery & Revelation Architecture | Makna judul diungkap pada Buku VIII | Scenes 17–18 mengembangkan dan mengungkap makna metaforis berdasarkan motif Prasasti |
 | Mystery & Revelation Architecture | Pengungkapan satu misteri tidak otomatis menyelesaikan misteri lain | Batas ini dicantumkan untuk Prasasti, NVR AGAIN, Great War, LEAX, dan Abstract Existence |
 | Tavian Character Arc | Tavian membuat keputusan penting saat data tidak lengkap dan menanggung konsekuensi | Scene 6, 13, dan 20 menyiapkan keputusan tersebut |
 | Ensemble Character Arcs | Perubahan diwujudkan melalui tindakan dan konsekuensi | Setiap karakter diberi ujian dan tindakan pembuktian arc |
@@ -41,7 +41,7 @@
 
 | Misteri | Risiko | Pengamanan |
 |---|---|---|
-| The Dancing Demon | Metafora terlalu abstrak atau berubah menjadi entitas literal | Scene 17–18 harus bertumpu pada motif Prasasti dan pilihan karakter; makna tetap NON-CANON sampai disahkan pengguna |
+| The Dancing Demon | Metafora terlalu abstrak atau berubah menjadi entitas literal | Scene 17–18 bertumpu pada motif Prasasti dan pilihan karakter; makna mengikuti dokumen CANON khusus |
 | 13 Prasasti | Semua teks dipaksa menjadi satu kisah | Tetap pisahkan sumber, tafsir, dan hipotesis; tidak semua harus memiliki fungsi sama |
 | NVR AGAIN | Nama dianggap menjelaskan asal dan mekanisme musik | Hanya gunakan fakta bahwa nama terungkap melalui Prasasti I dan musik terdengar selama Great War |
 | Great War | Satu arsip dipakai sebagai jawaban lengkap | Pertahankan sumber yang terfragmentasi dan kontradiksi yang belum terselesaikan |
@@ -86,3 +86,12 @@ Outline ini dapat menjadi kerangka kerja, tetapi tidak boleh disebut outline fin
 Kekuatan utama outline adalah kesesuaian dengan arc karakter dan tema tanggung jawab atas informasi. Kelemahan yang masih harus ditangani adalah pemicu konflik eksternal yang belum spesifik, keputusan kreator yang belum tersedia, dan kebutuhan untuk menghindari eksposisi misteri yang terlalu padat.
 
 **Dampak CANON: tidak ada.**
+
+
+## 9. Hasil setelah manuskrip first-pass
+
+Manuskrip 20 scene telah ditulis dalam [Book VIII Manuscript Draft 0.1](Book-VIII-Manuscript-Draft-0.1.md). Konflik eksternal yang dipilih adalah penilaian jalur lama dan pengalihan air dalam keadaan darurat. Konflik ini menguji tanggung jawab informasi, pengetahuan lokal, dokumentasi, dan keselamatan tanpa memerlukan antagonis tunggal.
+
+Audit prosa terpisah tersedia di [Book VIII Manuscript Continuity Audit Draft 0.1](Book-VIII-Manuscript-Continuity-Audit-Draft-0.1.md). Hasilnya: layak sebagai first-pass, belum final. Panjang naskah sekitar 6.283 kata; perlu perluasan adegan yang menentukan, pendalaman konsekuensi personal, variasi dialog, dan line edit.
+
+Makna judul yang telah disahkan tercatat di `01-CANON/The-Dancing-Demon-Title-Meaning.md`. Detail konflik lapangan dan seluruh unsur baru dalam manuskrip tetap NON-CANON.
