@@ -1,7 +1,7 @@
-# Book IV — Manga Storyboard Index — Draft 0.4
+# Book IV — Manga Storyboard Index — Draft 0.5
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.
-**Pembaruan:** Bab 1–2 disinkronkan dengan manuskrip revision 0.2; total halaman/panel tetap 74/370.  
+**Pembaruan:** Bab 1–2 disinkronkan dengan manuskrip revision 0.2; estimasi 74 halaman masih provisional; total 370 panel tidak terverifikasi.  
 **Format target:** manga hitam-putih, pembacaan kanan-ke-kiri.  
 **Cakupan:** 20 scene dalam empat bab.
 
@@ -43,8 +43,8 @@
 ## Status sinkronisasi setelah keputusan mekanisme B dan akses A
 
 - Storyboard Chapter 1 Revision Draft 0.3 dan Chapter 2 Revision Draft 0.2 tetap menjadi baseline yang telah diperiksa.
-- Storyboard Chapter 3 Revision Draft 0.3 kini disinkronkan dengan manuskrip Chapter 3 Revision Draft 0.5, termasuk rujukan Jorren dan konsultasi terawasi.
-- Storyboard Chapter 4 Revision Draft 0.3 kini disinkronkan dengan manuskrip Chapter 4 Revision Draft 0.5, termasuk larangan membawa, memisahkan, menyalin, atau menyebarluaskan materi sumber.
+- Storyboard Chapter 3 Revision Draft 0.4 kini disinkronkan dengan manuskrip Chapter 3 Revision Draft 0.5, termasuk rujukan Jorren dan konsultasi terawasi.
+- Storyboard Chapter 4 Revision Draft 0.4 kini disinkronkan dengan manuskrip Chapter 4 Revision Draft 0.5, termasuk larangan membawa, memisahkan, menyalin, atau menyebarluaskan materi sumber.
 - Nama NVR AGAIN pertama kali muncul pada halaman 15 dari judul naskah interpretasi.
 - Catatan kerja kelompok bersifat non-reproduktif; jangan menggambarkannya sebagai transkrip atau salinan naskah/suara.
 - Identitas penjaga, lokasi geografis, provenance, kepemilikan sah, dan hubungan Northglass–Prasasti I tetap UNKNOWN.
@@ -60,6 +60,6 @@
 
 
 ## Audit silang empat bab
-- [Book IV Manga Storyboard Audit Report — Draft 0.6](Book-IV-Manga-Storyboard-Audit-Report-Draft-0.3.md)
+- [Book IV Manga Storyboard Audit Report — Draft 0.7](Book-IV-Manga-Storyboard-Audit-Report-Draft-0.3.md)
 - Keempat storyboard telah diperiksa terhadap manuskrip aktif.
 - Estimasi 74 halaman masih bersifat kerja; total panel 370 dari baseline lama tidak lagi dianggap terverifikasi.
