@@ -87,7 +87,7 @@ Manuskrip harus mempertahankan ketidakpastian tersebut. Jangan mengubah istilah 
 4. Beberapa dialog tentang batas sumber berulang dan dapat dipadatkan.
 5. Interaksi kelompok di luar Balai Catatan Perang perlu diperluas.
 6. Laporan akhir perlu membedakan dengan jelas fakta CANON, hasil yang dapat disimpulkan dari arsip, dan batas cakupan sumber yang diperiksa.
-7. Fungsi Buku V terkait hilangnya LEAX menunggu keputusan kreator sebagaimana Bagian 5.
+7. Revision Draft 0.2 kini mencatat fakta hilangnya LEAX setelah Great War tanpa menjelaskan sebab, keadaan, atau nasib.
 
 ## 10. Kesimpulan
 
