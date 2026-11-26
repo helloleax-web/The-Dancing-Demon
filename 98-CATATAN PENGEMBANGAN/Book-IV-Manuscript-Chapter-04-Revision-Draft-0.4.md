@@ -54,7 +54,7 @@ Kelompok pertama mencakup dokumentasi objek Northglass: foto permukaan yang dapa
 
 Kelompok kedua mencakup hasil konsultasi materi Prasasti I: deskripsi susunan naskah interpretasi, catatan non-reproduktif tentang proses pembacaan dan pendengaran, bagian yang belum dipahami, serta keterangan bahwa salinan bunyi disimpan bersama naskah. Tidak ada salinan atau transkrip materi sumber yang dibuat. Setiap catatan harus menjelaskan apakah isinya merupakan pengamatan, tafsir penulis, dugaan, atau UNKNOWN.
 
-Kelompok tidak membuat atau membawa salinan naskah maupun salinan bunyi. Catatan kerja hanya memuat pengamatan, struktur sumber, status bagian yang belum dipahami, dan hasil pemeriksaan yang boleh dicatat; catatan itu bukan transkrip atau reproduksi materi. Pembagian catatan kerja kepada pihak lain tetap harus mengikuti batas izin dan kesepakatan yang berlaku.
+Kelompok tidak membuat atau membawa salinan naskah maupun salinan bunyi. Catatan kerja hanya memuat pengamatan, struktur sumber, status bagian yang belum dipahami, dan hasil pemeriksaan yang boleh dicatat; catatan itu bukan transkrip atau reproduksi materi. Penjaga mengizinkan ringkasan non-reproduktif dibagikan kepada pihak yang terlibat langsung dalam penyelidikan. Publikasi yang lebih luas tetap memerlukan persetujuan terpisah.
 
 Vellum & Iron Recovery meminta agar perusahaan tetap dapat mengajukan penilaian material terhadap objek Northglass pada masa mendatang.
 
@@ -102,7 +102,7 @@ Namun, mereka belum memahami keseluruhan lantunan atau sejarah yang mungkin mela
 
 ### Scene 19 — Nama Menyebar
 
-Salinan laporan mulai beredar di antara peneliti dan pihak yang mengikuti perkembangan penemuan.
+Salinan laporan yang hanya memuat catatan non-reproduktif mulai beredar di antara peneliti dan pihak yang terlibat dalam penyelidikan. Tidak ada bagian teks atau bunyi sumber yang direproduksi.
 
 Nama NVR AGAIN muncul dalam catatan, permintaan salinan, dan pembicaraan orang-orang yang sebelumnya hanya mengetahui adanya penyelidikan di Northglass.
 
@@ -130,7 +130,7 @@ Ilyra menatap salinan tersebut.
 
 Kelompok meninggalkan lokasi setelah salinan laporan dan catatan non-reproduktif yang telah disepakati diserahkan.
 
-Jorren dan masyarakat setempat tetap menjaga akses ke Northglass. Tim Meridian membawa laporan pemetaan. Arsip Lentera menyimpan catatan hasil konsultasi materi Prasasti I sesuai ketentuan yang disepakati. Vellum & Iron Recovery tidak memperoleh hak untuk memindahkan batu atau mengambil materi lain.
+Jorren dan masyarakat setempat tetap menjaga akses ke Northglass. Tim Meridian membawa laporan pemetaan. Arsip Lentera menyimpan ringkasan non-reproduktif hasil konsultasi materi Prasasti I sesuai ketentuan yang disepakati. Vellum & Iron Recovery tidak memperoleh hak untuk memindahkan batu atau mengambil materi lain.
 
 Mira memastikan bahwa salinan yang dibawa kelompok tidak memuat informasi yang dilarang untuk dibagikan.
 
