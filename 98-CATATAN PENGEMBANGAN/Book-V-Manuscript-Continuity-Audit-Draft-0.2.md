@@ -1,11 +1,11 @@
-# Book V — Manuscript Continuity Audit — Draft 0.2
+# Book V — Manuscript Continuity Audit — Draft 0.3
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Cakupan:** lima bab manuskrip, 22 scene; dibandingkan dengan Book V Scene Outline, Character Knowledge Matrix, Eight-Book Series Architecture, CANON Great War, Prasasti I, jubah mana hitam, Resonansi Hitam, dan penutup Buku IV.
 
 ## 1. Hasil ringkas
 
-**Status: FAKTA SEJARAH UTAMA TERJAGA; ADA SATU KETEGANGAN SCOPE CANON YANG PERLU KEPUTUSAN.**
+**Status: FAKTA SEJARAH UTAMA TERJAGA; SCOPE LEAX DIPERJELAS SECARA TERBATAS DALAM REVISION DRAFT 0.2.**
 
 Manuskrip membangun hubungan NVR AGAIN dengan musik Great War melalui perbandingan arsip dan kesaksian. Efek jubah mana hitam dipertahankan sesuai CANON. Istilah Resonansi Hitam dicatat tanpa menentukan cakupan yang belum jelas.
 
@@ -25,7 +25,7 @@ Ini tidak mengubah fakta CANON bahwa musik terdengar di seluruh dunia selama Gre
 | Musik terdengar di seluruh dunia selama Great War | Digunakan; bukti dalam laporan dibatasi pada sumber dari wilayah berjauhan |
 | Nama NVR AGAIN diketahui melalui Prasasti pertama | Dipertahankan sebagai sumber nama |
 | NVR AGAIN adalah nama musik yang terdengar selama Great War | Dihasilkan melalui perbandingan Prasasti dan sumber sejarah |
-| Sekutu LEAX memperoleh jubah mana hitam | Tidak disebut dalam manuskrip; ditahan oleh outline |
+| Sekutu LEAX memperoleh jubah mana hitam | Dimasukkan dalam Revision Draft 0.2 sebagai fakta minimum melalui entri katalog NON-CANON yang hanya mengantar fakta CANON |
 | Jubah memberi pertahanan luar biasa | Digunakan sesuai CANON |
 | Jubah memberi regenerasi HP dan MP berkelanjutan | Digunakan sesuai CANON |
 | Peristiwa tersebut dikenal dalam catatan sejarah sebagai Resonansi Hitam | Istilah dipakai tanpa memperluas cakupannya |
@@ -43,17 +43,15 @@ Ini tidak mengubah fakta CANON bahwa musik terdengar di seluruh dunia selama Gre
 - Penyebab, pihak, lokasi, durasi, korban, dan dampak politik Great War tidak ditetapkan.
 - Tidak ada hubungan baru antara musik, jubah, Resonansi Hitam, dan 13 Prasasti.
 
-## 5. Ketegangan scope CANON: LEAX
+## 5. Scope LEAX — keputusan pengembangan diterapkan secara terbatas
 
-Eight-Book Series Architecture menyebut fungsi Buku V mencakup rekonstruksi Great War dan hilangnya LEAX. Namun Book V Scene Outline secara eksplisit menahan seluruh tindakan, motif, peran, hubungan, keadaan, dan rincian hilangnya LEAX untuk arahan kreator. Manuskrip mengikuti penahanan tersebut dan tidak membahas LEAX.
-
-Ini bukan kesalahan manuskrip terhadap outline; ini adalah **ketegangan antara fungsi tingkat seri dan batas pengembangan yang dipilih outline**.
+Eight-Book Series Architecture menyebut fungsi Buku V mencakup rekonstruksi Great War dan hilangnya LEAX. Namun Book V Scene Outline secara eksplisit menahan seluruh tindakan, motif, peran, hubungan, keadaan, dan rincian hilangnya LEAX untuk arahan kreator. Manuskrip pass pertama mengikuti penahanan tersebut dan tidak membahas LEAX. Revision Draft 0.2 kini menggunakan fakta minimum yang sudah CANON: LEAX menghilang setelah Great War, dan sekutunya memperoleh jubah mana hitam. Entri katalog dan cara karakter menemukan informasi tersebut tetap merupakan detail cerita NON-CANON.
 
 Fakta CANON yang sudah tersedia dan belum digunakan:
 - LEAX menghilang setelah Great War.
 - Sekutu LEAX memperoleh jubah mana hitam.
 
-Rekomendasi aman untuk dipertimbangkan, bukan keputusan: jika Buku V perlu memenuhi fungsi seri tanpa menambah lore, ia dapat menyebut fakta yang sudah CANON secara terbatas, tanpa nama sekutu, tindakan, motif, hubungan, keadaan, atau detail hilangnya LEAX. Namun jangan menambahkan bagian tersebut sebelum kreator mengizinkan.
+Keputusan editorial untuk draft: Buku V menyebut fakta hilangnya LEAX setelah Great War dan fakta bahwa sekutunya memperoleh jubah mana hitam. Tidak ada identitas sekutu, tindakan, motif, lokasi, kronologi rinci, keadaan, penyebab, atau nasib LEAX yang ditambahkan. Ini menyelesaikan scope pada tingkat pengembangan tanpa mengubah CANON.
 
 ## 6. Resonansi Hitam — batas istilah
 
@@ -95,6 +93,6 @@ Manuskrip harus mempertahankan ketidakpastian tersebut. Jangan mengubah istilah 
 
 Buku V memenuhi fungsi rekonstruksi sejarah Great War dan memberi payoff pada nama NVR AGAIN tanpa menjelaskan asal musik. Efek jubah mana hitam dan istilah Resonansi Hitam dijaga sesuai batas CANON. Koreksi 0.2 mencegah klaim global yang lebih luas daripada koleksi sumber yang diperiksa.
 
-**Buku V belum final.** Isu paling penting bukan mekanisme jubah atau musik, melainkan apakah dan sejauh mana fakta CANON tentang hilangnya LEAX boleh muncul dalam buku ini.
+**Buku V belum final.** Scope LEAX kini dibatasi secara konsisten pada dua fakta CANON minimum; isu yang tersisa adalah pengembangan sumber pendukung, variasi karakter arsip, kehidupan kota Orlenn, konflik publikasi, dan pemeriksaan manuskrip lengkap. buku ini.
 
 **Dampak CANON: tidak ada.** Semua karakter pendukung, lokasi, dokumen, dan peristiwa spesifik tetap NON-CANON.
