@@ -1,7 +1,7 @@
 # Book IV — Manuscript Continuity Audit — Draft 0.5
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
-**Cakupan:** empat bab manuskrip, 20 scene; dibandingkan dengan Book IV Scene Outline Draft 0.3, Character Knowledge Matrix Draft 0.4, Thirteen Prasasti, Great War and Resonansi Hitam, Series Mystery & Revelation Architecture, serta transisi Buku III. Bab 1–2 telah menerima revision pass 0.2; Bab 3–4 mempertahankan revision pass 0.2.
+**Cakupan:** empat bab manuskrip, 20 scene; dibandingkan dengan Book IV Scene Outline Draft 0.3, Character Knowledge Matrix Draft 0.4, Thirteen Prasasti, Great War and Resonansi Hitam, Series Mystery & Revelation Architecture, serta transisi Buku III. Bab 1 memiliki Revision Draft 0.3 setelah koreksi sumber rute Buku III; Bab 2 memiliki Revision Draft 0.2; Bab 3–4 mempertahankan Revision Draft 0.2.
 
 ## 1. Hasil ringkas
 
