@@ -1,6 +1,8 @@
 # Book IV — Manuscript Index — Draft 0.1
 
-**Status:** CATATAN PENGEMBANGAN / NON-CANON.  
+**Status:** CATATAN PENGEMBANGAN / NON-CANON.
+
+> **Catatan status:** dokumen ini adalah versi awal dan telah disupersesi oleh versi 0.2. Gunakan Manuscript Continuity Audit, Manuscript Index, Scene Outline, dan Character Knowledge Matrix Draft 0.2 untuk status terbaru.  
 **Progress:** pass pertama untuk seluruh 20 scene outline telah ditulis dan dipisahkan menjadi empat bab kerja.  
 **Jumlah kata:** sekitar 4,487 kata termasuk judul dan catatan tambahan.
 
