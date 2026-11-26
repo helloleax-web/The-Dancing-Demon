@@ -204,7 +204,7 @@ Di hadapan mereka, Hollow Vale tidak memberikan jawaban. Namun, ia memberi kelom
 - Keputusan kreator B telah diterapkan: kelompok melakukan pemeriksaan tanpa izin atau kewenangan yang terkonfirmasi dan sadar tindakan itu dapat dipersoalkan.
 - Identitas pemilik/otoritas serta status legal situs tetap UNKNOWN/OPEN QUESTION; keputusan jalur cerita tidak mengesahkan akses.
 
-**Status:** proofread pass awal selesai; read-through dan audit akhir setelah keputusan kreator masih diperlukan.
+**Status:** proofread pass awal dan read-through berurutan selesai; final micro-proofread, audit akhir sumber CANON/transisi Buku IV, dan persetujuan kreator masih diperlukan.
 
 
 ## Catatan kontinuitas — keputusan akses Hollow Vale
