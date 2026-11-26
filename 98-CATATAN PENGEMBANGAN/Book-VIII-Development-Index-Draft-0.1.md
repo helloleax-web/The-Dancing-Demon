@@ -13,7 +13,7 @@
 - [Mystery Timing Audit](Book-VIII-Mystery-Timing-Audit-Draft-0.1.md) — urutan pengungkapan dan batas misteri.
 - [Title Meaning — CANON](../../01-CANON/The-Dancing-Demon-Title-Meaning.md) — makna resmi judul.
 - [Manuscript Draft 0.1](Book-VIII-Manuscript-Draft-0.1.md) — first-pass awal, dipertahankan sebagai arsip.
-- [Manuscript Revision Draft 0.2](Book-VIII-Manuscript-Revision-Draft-0.2.md) — revisi prosa terbaru, 20 scene, sekitar 8.856 kata.
+- [Manuscript Revision Draft 0.2](Book-VIII-Manuscript-Revision-Draft-0.2.md) — revisi prosa terbaru, 20 scene, sekitar 9.072 kata.
 - [Revision Index Draft 0.2](Book-VIII-Manuscript-Revision-Index-Draft-0.2.md) — struktur dan perubahan utama.
 - [Revision Continuity Audit Draft 0.2](Book-VIII-Manuscript-Revision-Continuity-Audit-Draft-0.2.md) — audit revisi.
 
@@ -30,7 +30,7 @@
 
 1. Cocokkan pembukaan Buku VIII dengan akhir manuskrip Buku VII setelah audit lintas seri.
 2. Lanjutkan pemeriksaan ritme Scenes 9–12; revisi terbaru sudah menambahkan konflik hak akses, katalog NVR AGAIN, dan kesaksian bunyi yang tidak cocok.
-3. Perjelas akibat kerusakan persediaan warga dan konsekuensi sosial keputusan lapangan.
+3. Perjelas akibat kerusakan persediaan warga dan konsekuensi sosial keputusan lapangan; penutup kini sudah memberi keputusan bersama yang mengikat kelompok pada pekerjaan survei biasa, bukan misteri baru.
 4. Tajamkan suara dialog masing-masing karakter dan lakukan line edit.
 5. Pastikan cedera Daren konsisten pada seluruh adegan setelah Scene 16.
 6. Audit kesinambungan Book I–VIII dan revisi masalah lintas buku.
