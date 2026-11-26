@@ -1,7 +1,7 @@
 # Book V — Manuscript Index — Draft 0.4
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
-**Progress:** 22 scene; seluruh lima bab telah memiliki pass revisi 0.3 atau lebih baru. Audit kontinuitas diperbarui setelah revision pass 0.3.  
+**Progress:** 22 scene; seluruh lima bab telah memiliki pass revisi 0.3 atau lebih baru. Line edit awal Bab 1 Scene 3 dan Bab 4 Scene 14 telah dilakukan; audit kontinuitas mencatat temuan tersebut.  
 **Jumlah kata:** 11.065 kata termasuk judul, metadata, dan catatan tambahan; dihitung ulang setelah revision pass 0.3.
 
 ## Struktur bab
@@ -40,7 +40,9 @@
 9. Bab 2 revision 0.2 memperketat penilaian independensi sumber sebelum menguatkan hubungan NVR AGAIN dengan musik Great War.
 10. Bab 4 revision 0.2 memberi konsekuensi praktis pada konflik publikasi dan melindungi identitas pemberi kesaksian.
 11. Jumlah kata dihitung ulang setelah revision pass 0.3: 11.065 kata termasuk judul, metadata, dan catatan tambahan.
-12. Line edit awal Bab 1 memperbaiki urutan dialog perkenalan Neral: respons Seraphine kini langsung mengikuti penjelasan tugas Neral, sehingga tidak terpisah oleh adegan lain.
+12. Line edit awal Bab 1 Scene 3 memperbaiki urutan dialog perkenalan Neral: respons Seraphine kini langsung mengikuti penjelasan tugas Neral.
+13. Line edit Bab 4 Scene 14 menghapus pengulangan respons Seraphine kepada penghubung penerbit dan menyatukan penolakannya dalam satu giliran dialog.
+14. Line edit lintas 22 scene belum selesai; diferensiasi suara karakter, pemadatan repetisi, ritme, dan transisi masih perlu diperiksa.
 
 ## Status utama
 
