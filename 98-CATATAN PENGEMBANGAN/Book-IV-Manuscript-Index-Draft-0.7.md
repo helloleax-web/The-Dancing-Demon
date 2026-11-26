@@ -1,5 +1,5 @@
 # Book IV — Manuscript Index
-## Draft 1.4 — Cross-Chapter Audit Published
+## Draft 1.5 — Current Book IV Baseline
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Progress:** 20 scene prosa dalam empat bab. Line edit selesai; Proofread Draft 0.2/0.3 diterbitkan untuk keempat bab. Sequential cross-chapter audit Scenes 1–20 Draft 0.1 telah selesai; persetujuan kreator dan produksi visual masih tertunda.
@@ -18,10 +18,10 @@
 - [Discovery Mechanism Decision Brief Draft 0.2](Book-IV-Prasasti-I-Discovery-Mechanism-Decision-Brief-Draft-0.2.md).
 - [Prasasti I Access and Provenance Decision Brief Draft 0.4](Book-IV-Prasasti-I-Access-and-Provenance-Decision-Brief-Draft-0.1.md).
 - [Discovery Mechanism Implementation Audit Draft 0.3](Book-IV-Discovery-Mechanism-Implementation-Audit-Draft-0.1.md).
-- [Manuscript Continuity Audit Draft 1.5](Book-IV-Manuscript-Continuity-Audit-Draft-0.8.md).
+- [Manuscript Continuity Audit Draft 1.7](Book-IV-Manuscript-Continuity-Audit-Draft-0.8.md).
 - [Cross-Chapter Proofread Audit Draft 0.1](Book-IV-Cross-Chapter-Proofread-Audit-Draft-0.1.md).
 - [Book III–IV Transition Audit Draft 0.1](Book-III-IV-Transition-Audit-Draft-0.1.md).
-- [Line Edit and Proofreading Readiness Report Draft 0.7](Book-IV-Line-Edit-and-Proofreading-Readiness-Report-Draft-0.1.md).
+- [Line Edit and Proofreading Readiness Report Draft 0.9](Book-IV-Line-Edit-and-Proofreading-Readiness-Report-Draft-0.1.md).
 
 ## 3. Keputusan mekanisme penemuan B
 
@@ -34,7 +34,7 @@
 
 ## 4. OPEN QUESTION yang tetap terbuka
 
-- Jalur akses naratif telah ditetapkan sebagai keputusan pengembangan NON-CANON Opsi A: Jorren menyampaikan rujukan terbatas kepada penjaga kumpulan dokumen anonim, lalu kelompok memperoleh izin konsultasi terawasi di tempat. Lihat Access and Provenance Decision Brief Draft 0.2.
+- Jalur akses naratif telah ditetapkan sebagai keputusan pengembangan NON-CANON Opsi A: Jorren menyampaikan rujukan terbatas kepada penjaga kumpulan dokumen anonim, lalu kelompok memperoleh izin konsultasi terawasi di tempat. Lihat Access and Provenance Decision Brief Draft 0.4.
 - Identitas penjaga kumpulan dokumen, lokasi geografis, kepemilikan sah, dan kewenangannya.
 - Asal-usul, riwayat perpindahan, dan autentikasi naskah serta salinan bunyi.
 - Apakah penjaga mengetahui asal-usul materi.
@@ -44,11 +44,11 @@ Jangan menetapkan jawaban atas hal-hal tersebut sebagai CANON tanpa dasar atau k
 
 ## 5. Produksi manga
 
-- [Storyboard Index Draft 0.6](Book-IV-Manga-Storyboard-Index-Draft-0.3.md).
+- [Storyboard Index Draft 0.7](Book-IV-Manga-Storyboard-Index-Draft-0.3.md).
 - [Storyboard Chapter 1 Revision Draft 0.3](Book-IV-Manga-Storyboard-Chapter-01-Revision-Draft-0.3.md).
 - [Storyboard Chapter 3 Revision Draft 0.4](Book-IV-Manga-Storyboard-Chapter-03-Revision-Draft-0.2.md).
 - [Storyboard Chapter 4 Revision Draft 0.4](Book-IV-Manga-Storyboard-Chapter-04-Revision-Draft-0.2.md).
-- [Storyboard Audit Report Draft 0.9](Book-IV-Manga-Storyboard-Audit-Report-Draft-0.3.md).
+- [Storyboard Audit Report Draft 1.1](Book-IV-Manga-Storyboard-Audit-Report-Draft-0.3.md).
 - Storyboard Bab 2 masih memakai Revision Draft 0.2 sebagai baseline.
 - Estimasi lama 74 halaman bersifat sementara; total panel 370 dari baseline lama tidak lagi dianggap terverifikasi.
 
