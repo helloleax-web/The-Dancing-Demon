@@ -257,3 +257,14 @@ Kelompok berhasil menyimpan dokumentasi bersama, tetapi tidak memperoleh jawaban
 - Penanda Rookbridge hanya memiliki motif visual umum yang mirip; laporan Daren tetap petunjuk terpisah.
 - Koreksi ini menyelaraskan Scene 4 dengan Manuscript Chapter 1–2 Line Edit Draft 0.3 dan Book III Manuscript Continuity Audit Draft 0.5.
 - Status seluruh outline tetap CATATAN PENGEMBANGAN / NON-CANON; tidak ada perubahan CANON.
+
+
+## Keputusan kreator — akses Hollow Vale (B)
+
+**Status:** CATATAN PENGEMBANGAN / NON-CANON; keputusan jalur cerita telah dipilih untuk draft aktif.
+
+Kelompok memasuki bagian Hollow Vale yang telah terbuka tanpa izin atau kewenangan yang terkonfirmasi. Mereka mengetahui bahwa tidak ada dasar izin yang telah mereka peroleh, lalu tetap memilih melakukan pemeriksaan terbatas. Batas fisik pemeriksaan—tidak membongkar struktur, tidak melewati penghalang yang diketahui, tidak memindahkan atau mengambil benda—adalah pembatas tindakan mereka, **bukan** bukti bahwa akses tersebut sah.
+
+Jangan menciptakan pemilik, penjaga, otoritas, izin lisan, atau dokumen izin. Jangan menggambarkan tindakan mereka sebagai legal, disetujui, atau otomatis dibenarkan karena tidak ada tanda larangan. Risiko keberatan atau konsekuensi tetap terbuka untuk perkembangan cerita; jangan mengarang konsekuensi spesifik sebelum ditetapkan.
+
+**Keputusan ini menyelesaikan pilihan kreator untuk jalur draft, bukan OPEN QUESTION tentang siapa yang berwenang atas situs.**
