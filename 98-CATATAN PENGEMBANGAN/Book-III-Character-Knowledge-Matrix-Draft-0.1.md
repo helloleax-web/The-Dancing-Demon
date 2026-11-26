@@ -3,6 +3,8 @@
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Basis:** Book III Scene Outline Draft 0.1 dan premis CANON delapan buku.
 
+> **Catatan status:** dokumen ini adalah versi awal dan telah disupersesi oleh versi 0.2. Gunakan Book III Manuscript Continuity Audit, Manuscript Index, Scene Outline, dan Character Knowledge Matrix Draft 0.2 untuk status terbaru.
+
 ## 1. Aturan
 
 - Bedakan sumber asli, salinan, interpretasi, dan klaim pihak luar.
