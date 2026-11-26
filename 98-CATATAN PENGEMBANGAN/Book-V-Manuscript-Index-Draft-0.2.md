@@ -240,3 +240,11 @@
 - Rekomendasi sementara untuk diuji: Semi-Flat Editorial; belum menjadi keputusan final.
 - Format, palet, rasio halaman, tipografi, dan desain karakter/lokasi belum dikunci.
 - Seluruh opsi NON-CANON; tidak ada perubahan CANON.
+
+
+### Uji rendering panel tunggal — Scene 1.2
+
+- Perbandingan tiga pendekatan rendering (Ink & Wash, Semi-Flat Editorial, Archival Etching) dibuat untuk insert map dan lembar NVR AGAIN.
+- [Book V Visual Language Study — Draft 0.1](Book-V-Visual-Language-Study-Draft-0.1.md) diperbarui dengan hasil dan batas uji.
+- File PNG dibuat di sesi kerja dan belum disimpan sebagai aset biner repository.
+- Semi-Flat Editorial tetap kandidat sementara untuk tes lanjutan; belum dikunci. Seluruh materi NON-CANON.
