@@ -203,11 +203,11 @@ Penemuan didokumentasikan dan diumumkan dengan batas interpretasi yang jelas. Na
 4. Jangan mengungkap hubungan nama tersebut dengan LEAX.
 5. Jangan menetapkan bahwa seluruh isi Prasasti dapat dibaca.
 6. Jangan menyamakan medium batu yang dipakai dalam draft dengan bentuk fisik CANON seluruh 13 Prasasti sebelum ada keputusan kreator.
-6. Jangan menetapkan lokasi atau isi Prasasti lain.
-7. Jangan mengungkap jumlah atau urutan penemuan Prasasti lain di luar fakta CANON.
-8. Jangan menyamakan batu bertulis ini dengan fasilitas atau indeks Hollow Vale.
-9. Jangan membuat satu organisasi memiliki seluruh hak atas penemuan.
-10. Jangan menjadikan masyarakat setempat sekadar penghalang tanpa kepentingan yang masuk akal.
+7. Jangan menetapkan lokasi atau isi Prasasti lain.
+8. Jangan mengungkap jumlah atau urutan penemuan Prasasti lain di luar fakta CANON.
+9. Jangan menyamakan batu bertulis ini dengan fasilitas atau indeks Hollow Vale.
+10. Jangan membuat satu organisasi memiliki seluruh hak atas penemuan.
+11. Jangan menjadikan masyarakat setempat sekadar penghalang tanpa kepentingan yang masuk akal.
 
 ## 7. Jembatan ke Buku V
 
@@ -219,8 +219,8 @@ Penemuan didokumentasikan dan diumumkan dengan batas interpretasi yang jelas. Na
 ## 8. Dokumen terkait
 
 - [Eight-Book Series Architecture — Draft 0.1](Eight-Book-Series-Architecture-Draft-0.1.md)
-- [Book III Scene Outline — Draft 0.1](Book-III-Scene-Outline-Draft-0.1.md)
-- [Book III Manuscript Index — Draft 0.1](Book-III-Manuscript-Index-Draft-0.1.md)
+- [Book III Scene Outline — Draft 0.2](Book-III-Scene-Outline-Draft-0.1.md)
+- [Book III Manuscript Index — Draft 0.2](Book-III-Manuscript-Index-Draft-0.1.md)
 - [Thirteen Prasasti](../01-CANON/Thirteen-Prasasti.md)
 - [Great War and Resonansi Hitam](../01-CANON/Great-War-and-Resonansi-Hitam.md)
 - [Character Bible](../01-CANON/Character-Bible.md)
