@@ -1,18 +1,18 @@
 # Book IV — Line Edit and Proofreading Readiness Report
-## Draft 0.2 — Setelah Jalur Akses A
+## Draft 0.3 — Proofread Pass 0.1
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Ruang lingkup:** manuskrip aktif Book IV Chapters 1–4, CANON *Thirteen Prasasti*, dan *Metode Penafsiran Tiga Belas Prasasti — Draft 0.2*.  
-**Hasil:** line edit selesai; proofread final belum dilakukan.
+**Hasil:** line edit selesai; proofread manual per bab selesai dan diterbitkan sebagai Proofread Draft 0.1. Final cross-chapter audit dan persetujuan kreator masih pending.
 
 ## 1. Versi yang diperiksa
 
 | Bab | Scene | Versi line edit | Hasil |
 |---|---:|---|---|
-| 1 — Jejak di Luar Fasilitas | 1–5 | Revision Draft 0.4 | LULUS line edit |
-| 2 — Batu yang Tidak Terbaca | 6–10 | Revision Draft 0.3 | LULUS line edit |
-| 3 — Nama yang Terlepas | 11–15 | Revision Draft 0.5 | Jalur akses A dan batas non-reproduksi diterapkan; proofread manual pending |
-| 4 — Setelah Nama Ditemukan | 16–20 | Revision Draft 0.5 | Batas konsultasi dan dokumentasi non-reproduktif diterapkan; proofread manual pending |
+| 1 — Jejak di Luar Fasilitas | 1–5 | Proofread Draft 0.1 (basis Revision 0.4) | Pass manual selesai; final cross-chapter audit pending |
+| 2 — Batu yang Tidak Terbaca | 6–10 | Proofread Draft 0.1 (basis Revision 0.3) | Pass manual selesai; final cross-chapter audit pending |
+| 3 — Nama yang Terlepas | 11–15 | Proofread Draft 0.1 (basis Revision 0.5) | Pass manual selesai; akses A dan batas non-reproduksi diperiksa |
+| 4 — Setelah Nama Ditemukan | 16–20 | Proofread Draft 0.1 (basis Revision 0.5) | Pass manual selesai; batas konsultasi dan dokumentasi non-reproduktif diperiksa |
 
 ## 2. Fokus line edit
 
@@ -76,8 +76,8 @@ Detail yang tidak perlu untuk adegan—identitas penjaga, lokasi geografis, kepe
 ## 7. Tahap berikutnya
 
 1. Lakukan proofread manual atas jalur akses A dan pastikan izin terbatas tidak berubah menjadi hak menyalin/membawa materi.
-2. Lakukan proofread manual empat bab secara berurutan setelah sinkronisasi akses selesai.
-3. Lakukan pembacaan keras untuk ritme dialog dan repetisi narasi.
+2. Lakukan final cross-chapter read-through empat bab untuk memeriksa ritme, transisi, dan konsistensi setelah Proofread Draft 0.1.
+3. Lakukan pembacaan keras untuk ritme dialog dan repetisi narasi; catat koreksi bila ditemukan.
 4. Sinkronkan storyboard Bab 2 dan lakukan panel-by-panel cross-check final.
 5. Revisi indeks, matriks karakter, dan audit setelah proofread final. Storyboard Chapters 3–4 perlu pemeriksaan final terhadap versi prosa terbaru.
 
