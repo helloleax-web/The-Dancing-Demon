@@ -45,7 +45,7 @@ Menjelang sore, rombongan melihat beberapa orang datang dari arah jalur utama. M
 
 Mereka tidak bergerak seperti rombongan penjelajah yang kebetulan lewat. Mereka mengikuti jalur dengan tujuan yang jelas.
 
-Salah seorang dari mereka memperkenalkan diri sebagai wakil perusahaan pemulihan peninggalan. Ia menyebut nama perusahaannya: Vellum & Iron Recovery.
+Salah seorang dari mereka memperkenalkan diri sebagai wakil perusahaan pemulihan peninggalan. Ia menyebut nama perusahaannya: perusahaan pemulihan peninggalan.
 
 Tavian belum pernah berurusan dengan perusahaan itu. Seraphine juga tidak menunjukkan tanda mengenalnya secara pribadi. Namun, nama tersebut telah tercatat dalam daftar organisasi yang pernah mereka dengar selama persiapan ekspedisi.
 
@@ -97,7 +97,7 @@ Seraphine mengakhiri percakapan sebelum berubah menjadi perdebatan yang tidak pr
 
 Wakil perusahaan menyetujuinya, setidaknya untuk saat itu.
 
-Rombongan Vellum & Iron Recovery mendirikan tempat singgah di luar area yang telah ditandai tim survei. Mereka tidak mencoba memasuki fasilitas. Namun, kehadiran mereka mengubah suasana di sekitar bukit.
+Rombongan perusahaan pemulihan peninggalan mendirikan tempat singgah di luar area yang telah ditandai tim survei. Mereka tidak mencoba memasuki fasilitas. Namun, kehadiran mereka mengubah suasana di sekitar bukit.
 
 Beberapa anggota ekspedisi mulai bertanya apakah penemuan itu akan menjadi sengketa. Yang lain khawatir pekerjaan mereka dihentikan. Tidak ada yang memiliki jawaban pasti.
 
@@ -133,18 +133,18 @@ Penemuan mereka tidak lagi hanya menjadi urusan ekspedisi.
 
 - Informasi awal menyebar melalui jalur pelaporan ekspedisi; pihak penyelenggara meneruskan ringkasan kepada pihak berkepentingan.
 - Pembawa pesan tidak mengetahui seluruh penerima laporan. Sumber spesifik yang pertama kali menyampaikan informasi kepada perusahaan tetap tidak dipastikan.
-- Vellum & Iron Recovery diperkenalkan dalam draft sebagai perusahaan yang mengajukan klaim kepemilikan komersial atas peninggalan di wilayah tersebut. Hubungan organisasi ini dengan perusahaan tak bernama dalam premis CANON masih memerlukan keputusan kreator; dokumen dan cakupan klaim belum diperiksa.
+- Perusahaan dalam adegan ini tetap tidak disebutkan namanya, mengikuti batas pada Character Knowledge Matrix. Identitasnya dan kemungkinan hubungannya dengan organisasi yang namanya tercantum dalam indeks CANON tetap OPEN QUESTION; dokumen dan cakupan klaim belum diperiksa.
 - Perusahaan belum melakukan pemeriksaan langsung dan belum mengambil benda dalam adegan ini.
 - Kehadiran perusahaan menggeser konflik dari eksplorasi menuju sengketa hak, tanpa menetapkan bahwa perusahaan otomatis memiliki fasilitas.
 - Kael menunjukkan bahwa kedatangan pihak luar tidak mengejutkannya, tetapi alasan lengkapnya tetap ditahan untuk Scene 13.
-- Penggunaan nama organisasi mengikuti nama yang telah tercantum dalam indeks CANON; fungsi dan keterlibatan spesifiknya dalam kejadian Buku I tetap merupakan keputusan cerita draft NON-CANON.
+- Identitas perusahaan sengaja tidak disebutkan; fungsi dan keterlibatan spesifiknya dalam kejadian Buku I tetap merupakan keputusan cerita draft NON-CANON.
 
 
 ---
 
 ### Scene 11 — Klaim
 
-Wakil Vellum & Iron Recovery datang kembali pada pagi berikutnya.
+Wakil perusahaan pemulihan peninggalan datang kembali pada pagi berikutnya.
 
 Kali ini ia tidak membawa seluruh rombongan. Hanya dua orang yang menemaninya: seorang pembawa dokumen dan seorang pengawas lapangan. Mereka meminta pertemuan dengan pihak yang bertanggung jawab atas ekspedisi, bukan hanya dengan Tavian atau Seraphine.
 
@@ -294,7 +294,7 @@ Untuk pertama kalinya, ia mengerti bahwa menemukan sesuatu tidak selalu berarti 
 
 ## Catatan tambahan Scene 11
 
-- Vellum & Iron Recovery menyampaikan salinan dokumen yang menurut perusahaan menjadi dasar hak pemulihan di wilayah tersebut.
+- perusahaan pemulihan peninggalan menyampaikan salinan dokumen yang menurut perusahaan menjadi dasar hak pemulihan di wilayah tersebut.
 - Dokumen yang diperlihatkan belum lengkap; lampiran dan cakupan spesifik terhadap fasilitas bawah tanah belum diverifikasi.
 - Perusahaan membedakan klaim hak kontraktual untuk kegiatan tertentu dari kepemilikan seluruh tanah.
 - Seraphine menegaskan bahwa hak pemulihan tidak otomatis berarti hak membongkar struktur atau mengambil benda tanpa batas.
@@ -309,7 +309,7 @@ Untuk pertama kalinya, ia mengerti bahwa menemukan sesuatu tidak selalu berarti 
 
 Pembahasan berikutnya berlangsung di tempat yang sama, tetapi kali ini kedua pihak membawa daftar hal yang ingin mereka lindungi.
 
-Seraphine datang dengan salinan dokumentasi fasilitas, daftar kondisi benda yang ditemukan, dan usulan batas pemeriksaan. Wakil Vellum & Iron Recovery membawa ringkasan hak yang diklaim perusahaan serta permintaan agar akses ke lokasi tidak ditutup sepenuhnya.
+Seraphine datang dengan salinan dokumentasi fasilitas, daftar kondisi benda yang ditemukan, dan usulan batas pemeriksaan. Wakil perusahaan pemulihan peninggalan membawa ringkasan hak yang diklaim perusahaan serta permintaan agar akses ke lokasi tidak ditutup sepenuhnya.
 
 Tavian duduk di antara mereka dengan peta kerja terbuka. Ia diminta menjelaskan batas area yang telah diperiksa, posisi akses, dan jalur yang masih dapat dilalui. Untuk pertama kalinya, hasil pengukurannya menjadi dasar pembicaraan yang jauh lebih besar daripada pekerjaan survei.
 
@@ -604,7 +604,7 @@ Mereka berpisah tanpa berjabat tangan atau membuat janji baru. Seraphine kembali
 
 Kini peta itu juga menjadi bukti bahwa ia telah menyimpan sesuatu dari dua orang yang harus bekerja bersamanya.
 
-Di kejauhan, tempat singgah Vellum & Iron Recovery masih menyala.
+Di kejauhan, tempat singgah perusahaan pemulihan peninggalan masih menyala.
 
 Tavian berhenti sejenak dan memandang cahaya itu.
 
@@ -620,7 +620,7 @@ Dan Kael telah membawa salah satunya ke dalam ekspedisi mereka.
 - Iven membawa pekerjaan dari seorang kurator yang memiliki hubungan profesional dengan Arsip Lentera. Tidak ada klaim bahwa Arsip Lentera secara resmi menugaskan atau mengetahui kontrak tersebut.
 - Tujuan kontrak Kael adalah memverifikasi rumor arsip di bawah jalur lama dan, jika tersedia, membuat salinan indeks atau catatan akses.
 - Kael menyembunyikan peta kedua karena syarat kerahasiaan dan karena ia memperkirakan Tavian serta Seraphine dapat menolak jika mengetahui tujuan kontraknya.
-- Kael tidak mengetahui fasilitas masih aktif, mekanisme akses, atau kedatangan Vellum & Iron Recovery secara spesifik.
+- Kael tidak mengetahui fasilitas masih aktif, mekanisme akses, atau kedatangan perusahaan pemulihan peninggalan secara spesifik.
 - Pengungkapan mengubah hubungan kelompok: Tavian mengizinkan Kael tetap ikut, tetapi menetapkan keterbukaan informasi dan pencatatan salinan sebagai syarat kerja bersama.
 - Kael belum memenuhi kontraknya; benda yang ditemukan belum menghasilkan indeks yang dapat dibaca.
 - Iven Rusk dan kurator tersebut merupakan karakter/figur pendukung baru untuk draft cerita, bukan fakta CANON.
