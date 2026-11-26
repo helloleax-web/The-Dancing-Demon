@@ -5,6 +5,8 @@
 **Basis:** Eight-Book Series Architecture, transisi akhir Buku II, indeks karakter/lokasi/organisasi, dan misteri yang telah ditanam dalam Buku I–II.  
 **Fungsi:** menghubungkan penemuan yang terpisah menjadi pola informasi yang diperebutkan, tanpa menganggap semua fasilitas berasal dari satu pembuat atau memiliki satu tujuan.
 
+> **Catatan status:** dokumen ini adalah versi awal dan telah disupersesi oleh versi 0.2. Gunakan Book III Manuscript Continuity Audit, Manuscript Index, Scene Outline, dan Character Knowledge Matrix Draft 0.2 untuk status terbaru.
+
 ## 1. Fungsi Buku III
 
 Buku III mengubah pertanyaan dari “apa yang ditemukan?” menjadi “siapa yang berhak menyimpan, menyalin, menafsirkan, dan menyebarkan informasi dari penemuan itu?”
