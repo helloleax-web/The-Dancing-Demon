@@ -1,15 +1,15 @@
 # Book IV — Manuscript Continuity Audit
-## Draft 1.6 — Active Proofread and Audit Versions
+## Draft 1.7 — Current Proofread and Cross-Chapter Status
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
-**Ruang lingkup:** manuskrip Chapters 1–4 Revision Draft 0.4/0.3, transisi Book III–IV, CANON *Thirteen Prasasti*, dan metode penafsiran CANON.
+**Ruang lingkup:** manuskrip Chapters 1–4 Proofread Draft 0.2/0.3, transisi Book III–IV, CANON *Thirteen Prasasti*, dan metode penafsiran CANON.
 
 ## 1. Versi aktif
 
 - Chapter 1 — Proofread Draft 0.2 (basis Revision Draft 0.4).
 - Chapter 2 — Proofread Draft 0.2 (basis Revision Draft 0.3).
 - Chapter 3 — Proofread Draft 0.2 (basis Revision Draft 0.5).
-- Chapter 4 — Proofread Draft 0.1 (basis Revision Draft 0.5).
+- Chapter 4 — Proofread Draft 0.3 (basis Revision Draft 0.5).
 - Scene Outline — Draft 0.7.
 - Character Knowledge Matrix — Draft 0.8.
 
