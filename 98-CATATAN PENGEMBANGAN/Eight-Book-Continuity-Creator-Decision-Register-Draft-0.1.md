@@ -100,8 +100,18 @@ Tunjukkan perubahan melalui pilihan yang menimbulkan risiko atau konsekuensi, bu
 
 ---
 
+## ED-04 — Pengesahan pass revisi Bab 2 dan Bab 4 Buku V — DISETUJUI UNTUK PENGEMBANGAN
+
+Atas arahan kreator, revision pass 0.2 untuk Bab 2 dan Bab 4 disahkan sebagai versi kerja pengembangan.
+
+- Bab 2 memperketat pemeriksaan independensi sumber. Kemiripan kesaksian tidak otomatis dianggap sebagai konfirmasi terpisah; hubungan NVR AGAIN dengan musik Great War tetap berupa hasil perbandingan sumber, bukan penjelasan asal-usul.
+- Bab 4 memperjelas konflik publikasi melalui permintaan penghilangan konteks dan risiko pembukaan identitas pemberi kesaksian. Arsip lengkap dipisahkan dari ringkasan publik.
+- Indeks, audit kontinuitas, dan outline diperbarui untuk mencerminkan pass tersebut.
+- Persetujuan ini hanya mengesahkan kualitas dan arah editorial sebagai materi pengembangan. Kota, tokoh pendukung, penerbit, dokumen, dialog, dan peristiwa spesifik tetap NON-CANON.
+- Tidak ada fakta lore baru yang disahkan sebagai CANON.
+
 ## Penutup
 
-Tiga item CD-01 sampai CD-03 telah ditangani untuk kebutuhan pengembangan: CD-01 menggunakan pembedaan medium sementara NON-CANON; CD-02 menggunakan fakta LEAX minimum yang telah CANON; CD-03 menyelaraskan status pedoman metode dengan header dan fungsinya. Semua detail sumber dan adegan yang baru tetap NON-CANON.
+Tiga item CD-01 sampai CD-03 telah ditangani untuk kebutuhan pengembangan: CD-01 menggunakan pembedaan medium sementara NON-CANON; CD-02 menggunakan fakta LEAX minimum yang telah CANON; CD-03 menyelaraskan status pedoman metode dengan header dan fungsinya. Pass revisi Bab 2 dan Bab 4 Buku V juga disahkan untuk pengembangan melalui ED-04. Semua detail sumber dan adegan yang baru tetap NON-CANON.
 
-**Tidak ada keputusan CANON yang dibuat dalam register ini.**
+**Tidak ada keputusan CANON baru yang dibuat dalam register ini.**
