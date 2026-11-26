@@ -98,10 +98,17 @@ Manuskrip harus mempertahankan ketidakpastian tersebut. Jangan mengubah istilah 
 6. Laporan akhir perlu membedakan dengan jelas fakta CANON, hasil yang dapat disimpulkan dari arsip, dan batas cakupan sumber yang diperiksa.
 7. **Ditangani pada revision 0.2 Bab 2:** penilaian independensi sumber diperjelas; kemiripan kesaksian tidak otomatis dihitung sebagai konfirmasi terpisah.
 
-## 11. Kesimpulan
+## 11. Line edit awal lintas bab
+
+- Bab 1 Scene 3: urutan dialog perkenalan Neral dirapikan agar respons Seraphine berada tepat setelah penjelasan peran Neral.
+- Bab 4 Scene 14: pengulangan respons Seraphine kepada penghubung penerbit dihapus; dua kalimat penolakan kini menjadi satu giliran dialog yang utuh.
+- Temuan ini menunjukkan masih diperlukan pemeriksaan dialog menyeluruh. Belum ada klaim bahwa repetisi di seluruh 22 scene sudah selesai.
+- Pemeriksaan suara karakter, transisi, dan ritme lintas bab masih berlangsung.
+
+## 12. Kesimpulan
 
 Buku V memenuhi fungsi rekonstruksi sejarah Great War dan memberi payoff pada nama NVR AGAIN tanpa menjelaskan asal musik. Efek jubah mana hitam dan istilah Resonansi Hitam dijaga sesuai batas CANON. Koreksi 0.2 mencegah klaim global yang lebih luas daripada koleksi sumber yang diperiksa.
 
-**Buku V belum final. Scope LEAX tetap dibatasi pada dua fakta CANON minimum. Pass revisi seluruh lima bab kini mencapai 0.3, tetapi audit ini bukan line edit final. Isu yang tersisa adalah pengembangan pemadatan dialog, diferensiasi suara karakter, dampak publikasi di luar adegan, dan pemeriksaan manuskrip lengkap.
+**Buku V belum final. Scope LEAX tetap dibatasi pada dua fakta CANON minimum. Pass revisi seluruh lima bab kini mencapai 0.3. Line edit awal baru memperbaiki dua masalah dialog yang teridentifikasi; pemeriksaan menyeluruh atas repetisi, diferensiasi suara karakter, transisi, ritme, dan dampak publikasi di luar adegan masih terbuka.
 
 **Dampak CANON: tidak ada.** Semua karakter pendukung, lokasi, dokumen, dan peristiwa spesifik tetap NON-CANON.
