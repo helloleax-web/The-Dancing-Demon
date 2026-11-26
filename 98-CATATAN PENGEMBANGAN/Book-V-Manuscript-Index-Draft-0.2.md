@@ -256,3 +256,12 @@
 - Belum ada rasio, ukuran cetak, format publikasi, gutter, bleed, atau tipografi final yang dipilih.
 - Board PNG dibuat dalam sesi kerja dan belum disimpan sebagai aset biner di repository.
 - Seluruh materi NON-CANON; tidak ada perubahan CANON.
+
+
+## Uji rasio halaman dan tata letak panel — Bab 1 Scene 2
+
+- [Book V Scene 2 Page Ratio Test — Draft 0.1](Book-V-Scene-2-Page-Ratio-Test-Draft-0.1.md) — perbandingan komposisi tujuh panel Scene 2 dalam format 4:5 dan 2:3.
+- Format 4:5 sementara lebih fleksibel untuk establishing shot, aktivitas latar, dan panel dengan beberapa aksi; format 2:3 mempertahankan ritme vertikal yang lebih linear.
+- Hasil ini hanya berlaku sebagai evaluasi awal Scene 2; rasio halaman seluruh buku belum diputuskan.
+- Board PNG dibuat di sesi kerja dan belum disimpan sebagai aset biner di repository.
+- Semua materi NON-CANON; tidak ada perubahan CANON.
