@@ -17,7 +17,7 @@ Ia memastikan tanda yang dibuatnya masih terbaca, lalu membandingkannya dengan p
 
 Seraphine sedang menyusun laporan akhir. Ia memisahkan hasil pengukuran, dokumentasi kondisi, catatan insiden, dan interpretasi yang belum dapat dibuktikan. Tidak ada bagian yang diberi judul lebih besar daripada yang diperlukan.
 
-Wakil Vellum & Iron Recovery datang ketika mereka hampir selesai.
+Wakil perusahaan pemulihan peninggalan yang sama dari lokasi Buku I datang ketika mereka hampir selesai.
 
 “Kami sudah menerima salinan laporan insiden,” katanya.
 
