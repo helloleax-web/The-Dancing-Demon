@@ -87,3 +87,12 @@ Periksa sisa pemadatan Halaman 1–2, lalu lakukan review final layout tekstual 
 - [x] Indeks kontinuitas diperbarui dengan batas pengetahuan dan prosedur non-invasif Bab 2.
 - [ ] Storyboard dan layout Bab 2 tetap CATATAN PENGEMBANGAN / NON-CANON; pengesahan cerita tidak otomatis mengesahkan panel atau komposisi manga.
 - [ ] Produksi artwork thumbnail Bab 2 belum dilakukan.
+
+
+## Pengesahan cerita — Book IV Chapter 3
+- [x] Scenes 11–15 (*Nama yang Terlepas*) disahkan sebagai teks naratif CANON.
+- [x] Salinan resmi ditempatkan di `01-CANON/Book-IV-Chapter-03-Nama-yang-Terlepas.md`.
+- [x] Indeks kontinuitas diperbarui: NVR AGAIN hanya diungkap pada Scene 14 sebagai transliterasi satu rangkaian tanda, bukan terjemahan seluruh prasasti.
+- [x] Batas pengetahuan organisasi dijaga: permintaan individu dalam adegan tidak menetapkan mandat atau struktur organisasi.
+- [ ] Storyboard dan layout Bab 3 tetap CATATAN PENGEMBANGAN / NON-CANON.
+- [ ] Artwork thumbnail Bab 3 belum dibuat.
