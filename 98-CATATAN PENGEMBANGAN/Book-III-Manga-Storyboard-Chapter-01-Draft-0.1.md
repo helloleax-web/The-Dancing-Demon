@@ -225,7 +225,7 @@
 
 **Panel 1 — Final wide panel.** Tavian berdiri di depan meja yang kini memiliki empat kelompok dokumen terpisah. Hollow Vale terlihat sebagai nama pada lembar kecil, bukan peta. Narasi: “Mereka belum menemukan satu sistem. Mereka hanya menemukan arah yang dapat diperiksa.”
 
-**Akhir bab:** kelompok memiliki sumber ketiga yang menyebut Hollow Vale, tetapi belum tahu jenis tempat, lokasi, atau hubungannya dengan dua sumber sebelumnya.
+**Akhir bab:** kelompok memiliki catatan perjalanan tambahan yang menyebut Hollow Vale, tetapi belum tahu jenis tempat, lokasi, atau hubungannya dengan dua sumber sebelumnya.
 
 ---
 
