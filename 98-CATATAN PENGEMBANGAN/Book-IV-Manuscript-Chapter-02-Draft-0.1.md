@@ -1,6 +1,6 @@
 # Book IV — Prasasti Pertama
 ## Bab 2: Batu yang Tidak Terbaca
-### Draft Prosa 0.1 — Scenes 6–10
+### Revision Draft 0.2 — Scenes 6–10
 
 **Status: CATATAN PENGEMBANGAN / NON-CANON.**  
 **Fungsi:** manuskrip kerja Buku IV berdasarkan Book IV Scene Outline Draft 0.1. Semua detail baru tetap keputusan cerita draft.
@@ -45,6 +45,8 @@ Tavian mengarahkan cahaya ke bagian yang menghadap jalur. Guratan pertama terlih
 
 Ilyra mendekat.
 
+Ia membagi permukaan yang terlihat menjadi beberapa bidang dokumentasi. Setiap foto diberi penanda orientasi dan skala yang sama, sementara sketsanya mencatat guratan yang berlanjut melewati tepi bidang. Dengan begitu, tanda yang tampak berulang tidak langsung dianggap sebagai satu baris atau satu sistem.
+
 “Ini bukan sekadar tanda arah.”
 
 Ia menunjuk beberapa susunan yang berulang. Ada baris yang tampak sejajar, ada bagian yang lebih dalam, dan ada ruang kosong di antara kelompok tanda.
@@ -73,6 +75,8 @@ Ilyra menghabiskan waktu membandingkan bentuk guratan.
 
 Beberapa tanda muncul berulang. Ada yang menyerupai garis pendek, ada yang memiliki sudut tajam, dan ada kelompok yang terdiri dari beberapa bentuk dalam satu susunan.
 
+Ia membuat tabel perbandingan sederhana: bentuk yang berulang, bentuk yang hanya muncul sekali, bagian yang terpotong, dan guratan yang mungkin merupakan kerusakan. Ia tidak menggabungkan dua bentuk hanya karena terlihat mirip.
+
 Ia mencoba menyusun urutan berdasarkan jarak antarbaris.
 
 “Kalau ini tulisan, susunannya tidak mengikuti pola yang biasa kita lihat pada catatan perjalanan,” katanya.
@@ -99,7 +103,7 @@ Kael berdiri agak jauh.
 
 Ilyra tidak menoleh. Ia masih memeriksa satu kelompok tanda yang tampak berbeda dari lainnya.
 
-“Ini mungkin bukan bahasa yang digunakan dalam dokumen biasa,” katanya. “Bisa jadi penanda, gelar, atau bagian dari sistem tulisan yang belum kita kenal.”
+“Aku belum bisa menyebutnya bahasa, penanda, atau gelar,” katanya. “Yang bisa kucatat sekarang hanya pola visual dan pengulangannya. Semua fungsi tanda masih hipotesis.”
 
 Seraphine menambahkan bahwa kemungkinan tersebut harus dicatat sebagai hipotesis.
 
@@ -143,15 +147,15 @@ Seraphine memeriksa setiap gambar dan memastikan skala pembanding terlihat. Tavi
 
 Tidak ada satu pun salinan yang dianggap sebagai terjemahan.
 
-Ilyra menulis dua kolom: bentuk yang dapat dipastikan dan bentuk yang masih meragukan.
+Ilyra menulis beberapa kolom: bentuk yang dapat dipastikan, bentuk yang masih meragukan, posisi pada permukaan, dan alasan sebuah guratan dimasukkan atau dikeluarkan dari salinan kerja.
 
 “Kalau kita nanti menemukan catatan lain, kita bisa membandingkannya,” katanya.
 
 “Dan kalau tidak?” tanya Kael.
 
-“Berarti kita tetap punya catatan tentang apa yang benar-benar terlihat.”
+“Berarti kita tetap punya catatan tentang apa yang benar-benar terlihat. Orang lain bisa mengulang pemeriksaan kita tanpa harus percaya pada kesimpulan yang belum ada.”
 
-Seraphine menyimpan dokumentasi dalam wadah terpisah. Ia meminta agar salinan tidak dibagikan sebelum semua sumber dan kondisi dicatat.
+Seraphine menyimpan dokumentasi mentah, sketsa, dan salinan kerja dalam wadah terpisah. Setiap versi diberi tanggal pemeriksaan dan nama pencatat. Ia meminta agar salinan tidak dibagikan sebelum semua sumber dan kondisi dicatat.
 
 Jorren melihat hasil sketsa.
 
@@ -180,3 +184,4 @@ Dan semua pertanyaan masih tertinggal pada permukaannya.
 - Seraphine dan Tavian mendokumentasikan kondisi tanpa membersihkan atau memindahkan batu.
 - Tidak ada nama NVR AGAIN yang muncul pada bagian ini.
 - Semua detail fisik, prosedur, dan dialog tetap NON-CANON.
+- Revision 0.2 memperkuat metode dokumentasi berulang dan jejak perubahan salinan tanpa mengklaim bahwa Ilyra memahami sistem tulisan atau menerjemahkan keseluruhan prasasti.
