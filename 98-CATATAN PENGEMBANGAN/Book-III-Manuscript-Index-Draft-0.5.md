@@ -59,3 +59,17 @@
 - [Book III Manuscript Chapter 1 — Line Edit Draft 0.3](Book-III-Manuscript-Chapter-01-Line-Edit-Draft-0.3.md)
 
 Draft 0.3 is an editorial pass on Revision Draft 0.2. It is not yet final proofread and introduces no CANON changes.
+
+
+## Line edit manuscript — Chapters 1–6
+
+Semua enam bab kini memiliki line edit Draft 0.3 berbasis Revision Draft 0.2. File Revision Draft 0.2 tetap dipertahankan sebagai sumber historis; Draft 0.3 adalah versi kerja editorial untuk pemeriksaan berikutnya.
+
+- [Chapter 1 — Line Edit Draft 0.3](Book-III-Manuscript-Chapter-01-Line-Edit-Draft-0.3.md)
+- [Chapter 2 — Line Edit Draft 0.3](Book-III-Manuscript-Chapter-02-Line-Edit-Draft-0.3.md)
+- [Chapter 3 — Line Edit Draft 0.3](Book-III-Manuscript-Chapter-03-Line-Edit-Draft-0.3.md)
+- [Chapter 4 — Line Edit Draft 0.3](Book-III-Manuscript-Chapter-04-Line-Edit-Draft-0.3.md)
+- [Chapter 5 — Line Edit Draft 0.3](Book-III-Manuscript-Chapter-05-Line-Edit-Draft-0.3.md)
+- [Chapter 6 — Line Edit Draft 0.3](Book-III-Manuscript-Chapter-06-Line-Edit-Draft-0.3.md)
+
+**Status:** line edit awal keenam bab selesai. Belum final proofread, belum audit gabungan terakhir, dan belum dinyatakan final.
