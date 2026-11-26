@@ -308,3 +308,11 @@
 - Initial observations: A is visually lightest, B most structured, and C most voluminous. No direction is selected or approved.
 - The test uses abstract placeholders only and does not establish Tavian's appearance, clothing, proportions, equipment, or expressions.
 - All assets remain NON-CANON; CANON impact: none.
+
+
+## Tavian neutral pose exploration — Draft 0.1
+
+- [Tavian Rell — Neutral Pose Exploration Draft 0.1](Tavian-Neutral-Pose-Exploration-Draft-0.1.md) — perbandingan tiga arah siluet A/B/C dalam tampak depan dan tiga-perempat.
+- Observasi awal: A paling ringkas, B paling terstruktur, C paling bervolume. Belum ada opsi yang dipilih.
+- Board hanya menguji massa dan outline abstrak; wajah, anatomi final, kostum, bahan, dan properti tetap UNKNOWN.
+- Semua materi NON-CANON; tidak ada perubahan Character Bible atau CANON.
