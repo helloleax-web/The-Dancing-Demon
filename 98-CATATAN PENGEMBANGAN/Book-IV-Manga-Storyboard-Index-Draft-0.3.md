@@ -1,4 +1,4 @@
-# Book IV — Manga Storyboard Index — Draft 0.3
+# Book IV — Manga Storyboard Index — Draft 0.4
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.
 **Pembaruan:** Bab 1–2 disinkronkan dengan manuskrip revision 0.2; total halaman/panel tetap 74/370.  
@@ -43,7 +43,7 @@
 ## Status sinkronisasi setelah keputusan mekanisme B
 
 - Storyboard Bab 1–2 tetap menjadi baseline produksi; belum diaudit ulang terhadap revisi terbaru.
-- Storyboard Bab 3–4 Draft 0.1 belum sinkron dengan Chapter 3–4 Revision Draft 0.3.
+- Storyboard Bab 3 Revision Draft 0.3 kini disinkronkan dengan Chapter 3 Revision Draft 0.5; Chapter 4 Revision Draft 0.2 tetap baseline yang telah diperiksa terhadap Chapter 4 Revision Draft 0.4.
 - Pengungkapan NVR AGAIN harus berasal dari judul naskah interpretasi Prasasti I pada Scene 14, bukan dari guratan Northglass.
 - Panel Scene 12–13 harus memperlihatkan pemeriksaan naskah dan salinan bunyi tanpa menampilkan nama sebelum Scene 14.
 - Panel Scene 14 menampilkan judul naskah sebagai sumber pertama nama.
@@ -55,7 +55,7 @@
 
 ## Revisi storyboard setelah keputusan mekanisme B
 
-- [Chapter 1 — Revision Draft 0.3](Book-IV-Manga-Storyboard-Chapter-01-Revision-Draft-0.3.md) — koreksi sumber rute Hollow Vale vs catatan lokal Mira.\n- [Chapter 3 — Revision Draft 0.2](Book-IV-Manga-Storyboard-Chapter-03-Revision-Draft-0.2.md) — Scenes 11–15; judul NVR AGAIN muncul dari naskah interpretasi pada halaman 15.
+- [Chapter 1 — Revision Draft 0.3](Book-IV-Manga-Storyboard-Chapter-01-Revision-Draft-0.3.md) — koreksi sumber rute Hollow Vale vs catatan lokal Mira.\n- [Chapter 3 — Revision Draft 0.3](Book-IV-Manga-Storyboard-Chapter-03-Revision-Draft-0.2.md) — Scenes 11–15; judul NVR AGAIN muncul dari naskah interpretasi pada halaman 15.
 - [Chapter 4 — Revision Draft 0.2](Book-IV-Manga-Storyboard-Chapter-04-Revision-Draft-0.2.md) — Scenes 16–20; dokumentasi Northglass dipisahkan dari naskah dan salinan bunyi.
 - Storyboard lama Draft 0.1 diarsipkan sebagai baseline yang tidak lagi sinkron.
 - Storyboard Bab 1 telah dikoreksi pada Revision Draft 0.3; Bab 2 Revision Draft 0.2 tetap menjadi baseline aktif.
@@ -63,6 +63,6 @@
 
 
 ## Audit silang empat bab
-- [Book IV Manga Storyboard Audit Report — Draft 0.3](Book-IV-Manga-Storyboard-Audit-Report-Draft-0.3.md)
+- [Book IV Manga Storyboard Audit Report — Draft 0.4](Book-IV-Manga-Storyboard-Audit-Report-Draft-0.3.md)
 - Keempat storyboard telah diperiksa terhadap manuskrip aktif.
 - Estimasi 74 halaman masih bersifat kerja; total panel 370 dari baseline lama tidak lagi dianggap terverifikasi.
