@@ -28,7 +28,8 @@ Mencatat kemajuan produksi thumbnail halaman demi halaman tanpa mengubah storybo
 - [x] Membuat thumbnail visual pertama Halaman 15 — *Pemeriksaan Keselamatan* (eksplorasi; review belum selesai).
 - [x] Membuat thumbnail visual pertama Halaman 16 — *Prosedur Dokumentasi* (eksplorasi; review belum selesai).
 - [x] Membuat thumbnail visual pertama Halaman 17 — *Izin Terbatas* (eksplorasi; review belum selesai).
-- [ ] Thumbnail Halaman 18.
+- [x] Membuat thumbnail visual pertama Halaman 18 — *Mendekat* (eksplorasi; review belum selesai).
+- [x] Eksplorasi thumbnail Halaman 1–18 selesai; seluruh halaman masih memerlukan review dan revisi.
 - [ ] Review komposisi, ritme halaman, dan page-turn seluruh Bab 1.
 
 ## Batas kontinuitas Bab 1
@@ -41,9 +42,9 @@ Mencatat kemajuan produksi thumbnail halaman demi halaman tanpa mengubah storybo
 - Semua keputusan visual dan panel tetap NON-CANON.
 
 ## Catatan kualitas
-Thumbnail yang dihasilkan sejauh ini adalah eksplorasi komposisi, bukan artwork final. File gambar halaman 3–17 belum disimpan ke repository; repository saat ini memuat spesifikasi layout tekstualnya. Halaman 2–17 kini memiliki eksplorasi visual serta spesifikasi layout tertulis di dokumen layout masing-masing; Halaman 17 tercatat di `Book-IV-Manga-Thumbnail-Page-17-Layout-Draft-0.1.md`; review komposisi, keterbacaan balon, dan konsistensi desain masih terbuka. Ada percobaan visual Halaman 2 yang menambahkan detail yang tidak didukung storyboard; percobaan tersebut ditolak dan tidak boleh dijadikan acuan. Thumbnail Halaman 2 harus mengikuti lima beat storyboard asli tanpa memperlihatkan bentuk fisik batu atau lokasi spesifik.
+Thumbnail yang dihasilkan sejauh ini adalah eksplorasi komposisi, bukan artwork final. File gambar thumbnail belum disimpan sebagai aset di repository; dokumen layout dan log produksi tersimpan. repository saat ini memuat spesifikasi layout tekstualnya. Halaman 2–18 kini memiliki eksplorasi visual serta spesifikasi layout tertulis di dokumen layout masing-masing; Halaman 18 tercatat di `Book-IV-Manga-Thumbnail-Page-18-Layout-Draft-0.1.md`; review komposisi, keterbacaan balon, dan konsistensi desain masih terbuka. Ada percobaan visual Halaman 2 yang menambahkan detail yang tidak didukung storyboard; percobaan tersebut ditolak dan tidak boleh dijadikan acuan. Thumbnail Halaman 2 harus mengikuti lima beat storyboard asli tanpa memperlihatkan bentuk fisik batu atau lokasi spesifik.
 
 ## Langkah berikutnya
-Review thumbnail Halaman 1–17 (termasuk koreksi jika diperlukan), lalu lanjutkan thumbnail Halaman 18 sesuai storyboard.
+Lakukan review komposisi, kesinambungan, page-turn, dan kepatuhan canon untuk seluruh 18 halaman; revisi sebelum lettering dan layout final.
 
 **Dampak CANON: tidak ada.**
