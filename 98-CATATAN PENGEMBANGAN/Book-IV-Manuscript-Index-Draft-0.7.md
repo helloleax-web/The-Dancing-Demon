@@ -1,5 +1,5 @@
 # Book IV — Manuscript Index
-## Draft 1.3 — Chapter 4 Proofread 0.3
+## Draft 1.4 — Cross-Chapter Audit Published
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Progress:** 20 scene prosa dalam empat bab. Line edit selesai; Proofread Draft 0.2 diterbitkan untuk keempat bab setelah pass pembacaan manual. Audit lintas bab dan persetujuan final masih tertunda.
@@ -18,7 +18,8 @@
 - [Discovery Mechanism Decision Brief Draft 0.2](Book-IV-Prasasti-I-Discovery-Mechanism-Decision-Brief-Draft-0.2.md).
 - [Prasasti I Access and Provenance Decision Brief Draft 0.2](Book-IV-Prasasti-I-Access-and-Provenance-Decision-Brief-Draft-0.1.md).
 - [Discovery Mechanism Implementation Audit Draft 0.3](Book-IV-Discovery-Mechanism-Implementation-Audit-Draft-0.1.md).
-- [Manuscript Continuity Audit Draft 1.3](Book-IV-Manuscript-Continuity-Audit-Draft-0.8.md).
+- [Manuscript Continuity Audit Draft 1.4](Book-IV-Manuscript-Continuity-Audit-Draft-0.8.md).
+- [Cross-Chapter Proofread Audit Draft 0.1](Book-IV-Cross-Chapter-Proofread-Audit-Draft-0.1.md).
 - [Book III–IV Transition Audit Draft 0.1](Book-III-IV-Transition-Audit-Draft-0.1.md).
 - [Line Edit and Proofreading Readiness Report Draft 0.5](Book-IV-Line-Edit-and-Proofreading-Readiness-Report-Draft-0.1.md).
 
@@ -55,8 +56,8 @@ Jangan menetapkan jawaban atas hal-hal tersebut sebagai CANON tanpa dasar atau k
 
 **Line edit:** selesai untuk empat bab. **Proofread:** Proofread Draft 0.2 tersedia untuk keempat bab; final cross-chapter proofread dan persetujuan kreator masih tertunda.  
 **Proofread mekanis awal:** pemeriksaan jumlah scene, istilah kunci, dan pengulangan kata telah dilakukan.  
-**Proofread final:** pass manual per bab selesai pada Draft 0.1; final audit lintas bab dan persetujuan kreator belum selesai.  
+**Proofread:** empat bab memiliki Proofread Draft 0.2/0.3; sequential cross-chapter audit Scenes 1–20 Draft 0.1 selesai. Persetujuan kreator, thumbnail, dan produksi visual masih tertunda.  
 **Blocking naratif akses:** selesai pada level draft; Opsi A diterapkan sebagai keputusan pengembangan NON-CANON. **Provenance:** tetap OPEN QUESTION dan tidak diklaim terverifikasi.  
-**Storyboard:** Bab 3 Revision 0.3 dan Bab 4 Revision 0.3 disinkronkan dengan batas konsultasi terawasi; Bab 1–2 tetap baseline yang telah diperiksa. Thumbnail, page-rhythm review, lettering, layout, dan persetujuan kreator belum dilakukan.
+**Storyboard:** Bab 3 Revision 0.4 dan Bab 4 Revision 0.4 disinkronkan dengan batas konsultasi terawasi; Bab 1–2 tetap baseline yang telah diperiksa. Thumbnail, page-rhythm review, lettering, layout, dan persetujuan kreator belum dilakukan.
 
 **Dampak CANON: tidak ada.** Opsi A diterapkan hanya sebagai keputusan pengembangan NON-CANON.
