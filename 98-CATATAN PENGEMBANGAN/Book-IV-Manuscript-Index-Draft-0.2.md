@@ -1,20 +1,20 @@
 # Book IV — Manuscript Index — Draft 0.3
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
-**Progress:** 20 scene prosa awal; audit kontinuitas 0.2 dan klarifikasi transliterasi.  
+**Progress:** 20 scene prosa; Bab 3–4 memiliki revision 0.2 dengan pembedaan objek Northglass dan naskah interpretasi.  
 **Jumlah kata:** sekitar 4.550 kata termasuk judul, metadata, dan catatan adegan.
 
 ## Struktur bab
 
 1. [Bab 1 — Jejak di Luar Fasilitas](Book-IV-Manuscript-Chapter-01-Draft-0.1.md) — Scenes 1–5 (**1.218 kata**)
 2. [Bab 2 — Batu yang Tidak Terbaca](Book-IV-Manuscript-Chapter-02-Draft-0.1.md) — Scenes 6–10 (**1.059 kata**)
-3. [Bab 3 — Nama yang Terlepas](Book-IV-Manuscript-Chapter-03-Draft-0.1.md) — Scenes 11–15 (**1.132 kata**)
-4. [Bab 4 — Setelah Nama Ditemukan](Book-IV-Manuscript-Chapter-04-Draft-0.1.md) — Scenes 16–20 (**1.141 kata**)
+3. [Bab 3 — Nama yang Terlepas](Book-IV-Manuscript-Chapter-03-Revision-Draft-0.2.md) — Scenes 11–15 (revision 0.2)
+4. [Bab 4 — Setelah Nama Ditemukan](Book-IV-Manuscript-Chapter-04-Revision-Draft-0.2.md) — Scenes 16–20 (revision 0.2)
 
 ## Dokumen pengembangan
 
-- [Book IV Scene Outline — Draft 0.2](Book-IV-Scene-Outline-Draft-0.2.md) — revisi batas medium dan transliterasi.
-- [Book IV Character Knowledge Matrix — Draft 0.2](Book-IV-Character-Knowledge-Matrix-Draft-0.2.md) — jendela pengetahuan terbaru.
+- [Book IV Scene Outline — Draft 0.3](Book-IV-Scene-Outline-Draft-0.2.md) — revisi batas medium dan transliterasi.
+- [Book IV Character Knowledge Matrix — Draft 0.3](Book-IV-Character-Knowledge-Matrix-Draft-0.2.md) — jendela pengetahuan terbaru.
 - [Book IV Manuscript Continuity Audit — Draft 0.3](Book-IV-Manuscript-Continuity-Audit-Draft-0.2.md) — audit terbaru setelah pembedaan objek Northglass dan naskah interpretasi.
 - [Book IV Manuscript Continuity Audit — Draft 0.1](Book-IV-Manuscript-Continuity-Audit-Draft-0.1.md) — audit awal yang diarsipkan.
 - [Book IV Outline Audit — Draft 0.1](Book-IV-Outline-Audit-Report-Draft-0.1.md) — audit struktur awal.
