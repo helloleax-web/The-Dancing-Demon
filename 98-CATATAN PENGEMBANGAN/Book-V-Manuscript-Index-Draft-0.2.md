@@ -1,16 +1,16 @@
 # Book V — Manuscript Index — Draft 0.4
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
-**Progress:** 22 scene; seluruh lima bab telah memiliki pass revisi 0.3 atau lebih baru. Line edit dialog Bab 1–2 dan Bab 4 Scenes 14–18 telah dilakukan; Bab 3 Scenes 9–13 menerima revisi ritme terarah. Bab 5 Scenes 19–22 telah menerima line edit terarah; audit editorial lintas lima bab selesai. Proofreading akhir seluruh lima bab (Scenes 1–22) telah dilakukan.  
+**Progress:** 22 scene; seluruh lima bab berada pada Revision Draft 0.4 dan telah menerima proofreading akhir. Line edit dialog Bab 1–2, Bab 4 Scenes 14–18, dan Bab 5 Scenes 19–22 telah dilakukan; Bab 3 Scenes 9–13 menerima revisi ritme terarah. Audit editorial, audit suara karakter, audit kontinuitas, dan pemeriksaan konsistensi lintas bab telah dilakukan.  
 **Jumlah kata:** 11.485 kata termasuk judul, metadata, dan catatan tambahan; dihitung ulang setelah proofreading seluruh lima bab.
 
 ## Struktur bab
 
 1. [Bab 1 — Arsip yang Tidak Sepakat](Book-V-Manuscript-Chapter-01-Revision-Draft-0.2.md) — Scenes 1–4 (revision 0.4)
 2. [Bab 2 — Musik Tanpa Nama](Book-V-Manuscript-Chapter-02-Draft-0.1.md) — Scenes 5–8 (revision 0.4)
-3. [Bab 3 — Resonansi Hitam](Book-V-Manuscript-Chapter-03-Revision-Draft-0.2.md) — Scenes 9–13 (revision 0.3)
-4. [Bab 4 — Sejarah yang Diperebutkan](Book-V-Manuscript-Chapter-04-Draft-0.1.md) — Scenes 14–18 (revision 0.3)
-5. [Bab 5 — Perang yang Tertinggal](Book-V-Manuscript-Chapter-05-Revision-Draft-0.2.md) — Scenes 19–22 (revision 0.3)
+3. [Bab 3 — Resonansi Hitam](Book-V-Manuscript-Chapter-03-Revision-Draft-0.2.md) — Scenes 9–13 (revision 0.4)
+4. [Bab 4 — Sejarah yang Diperebutkan](Book-V-Manuscript-Chapter-04-Draft-0.1.md) — Scenes 14–18 (revision 0.4)
+5. [Bab 5 — Perang yang Tertinggal](Book-V-Manuscript-Chapter-05-Revision-Draft-0.2.md) — Scenes 19–22 (revision 0.4)
 
 ## Audit dan kontrol kontinuitas
 
@@ -153,3 +153,19 @@
 - Tidak ada perubahan CANON.
 - Jumlah kata manuskrip setelah penghitungan ulang lima bab: **11.485 kata** termasuk judul, metadata, dan catatan tambahan.
 - Status: seluruh lima bab dan 22 scene telah menerima proofreading akhir. Manuskrip masih NON-CANON dan belum disahkan.
+
+
+## Pemeriksaan konsistensi lintas bab — 2026-11-27
+
+- Header kelima file bab diperiksa ulang: seluruhnya Revision Draft 0.4; urutan scene lengkap dan berkesinambungan dari Scene 1 sampai Scene 22.
+- Hubungan NVR AGAIN dengan musik Great War tetap dibangun melalui perbandingan sumber; tidak ada klaim tentang pencipta, asal, tujuan, penyebar, atau mekanisme musik.
+- Pemeriksaan jubah mana hitam tetap dipisahkan dari pemeriksaan musik. Efek dan perolehan oleh sekutu LEAX tidak diperluas; cakupan Resonansi Hitam tetap tidak ditentukan.
+- Fakta tentang LEAX dibatasi pada penghilangan setelah Great War. Tidak ada rincian sebab, lokasi, tindakan, motif, atau nasib yang ditambahkan.
+- Petunjuk fenomena pada Scene 22 tetap belum diverifikasi dan tidak dihubungkan dengan Abstract Existence atau misteri CANON lain.
+- Tidak ditemukan kontradiksi besar lintas bab atau dengan batas CANON yang diperiksa.
+- Jembatan Scene 22 ke Book VI dinilai cukup. Detail permintaan kerja, pengelola jalur, dan honor dapat tetap diperkenalkan di Book VI; tidak perlu ditambahkan ke Book V.
+- Ketidaksinkronan indeks (Bab 3–5 sebelumnya tercatat revision 0.3) telah dikoreksi menjadi revision 0.4.
+- Jumlah kata resmi tetap mengikuti penghitungan terakhir yang tercatat: **11.485 kata** termasuk judul, metadata, dan catatan tambahan.
+- Semua materi tetap NON-CANON; pemeriksaan ini tidak mengesahkan isi cerita.
+
+**Status:** proofreading dan pemeriksaan konsistensi lintas bab selesai. Book V siap dipertimbangkan untuk pembekuan kandidat-final editorial, bukan pengesahan CANON.
