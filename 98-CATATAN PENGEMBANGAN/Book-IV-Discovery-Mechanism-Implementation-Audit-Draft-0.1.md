@@ -1,5 +1,5 @@
 # Book IV — Discovery Mechanism Implementation Audit
-## Draft 0.2 — Akses A Terintegrasi
+## Draft 0.3 — Lingkup Catatan dan Proofread Terintegrasi
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Keputusan pengembangan:** Opsi B dipilih.  
@@ -45,7 +45,7 @@ Hal-hal ini tidak diselesaikan oleh keputusan B dan tidak boleh dikarang sebagai
 ## 4. Risiko editorial tersisa
 
 1. Jalur akses naratif kini dijelaskan melalui keputusan pengembangan NON-CANON Opsi A: Jorren menyampaikan rujukan terbatas kepada penjaga kumpulan dokumen anonim; penjaga mengizinkan konsultasi terawasi di tempat.
-2. Izin tidak mencakup membawa, memisahkan, menyalin, atau menyebarluaskan materi sumber. Catatan kelompok bersifat non-reproduktif, bukan transkrip atau salinan.
+2. Izin mencakup catatan non-reproduktif dan ringkasan untuk pihak yang terlibat langsung; publikasi lebih luas memerlukan persetujuan terpisah. Izin tidak mencakup membawa, memisahkan, menyalin, atau menyebarluaskan materi sumber. Catatan kelompok bukan transkrip atau salinan.
 3. Identitas penjaga, lokasi geografis, kewenangan/legitimasi, kepemilikan sah, provenance, riwayat perpindahan, dan autentikasi tetap OPEN QUESTION.
 4. Storyboard Chapter 3 Revision Draft 0.3 dan Chapter 4 Revision Draft 0.3 telah diselaraskan dengan batas konsultasi. Nama tidak boleh ditampilkan sebelum Scene 14 dan harus muncul dari judul naskah.
 4. Character Knowledge Matrix lama memiliki istilah transliterasi pada Scene 11–13. Addendum Draft 0.6 mengoreksi jendela pengetahuan; matriks versi baru harus dipakai.
@@ -55,6 +55,6 @@ Hal-hal ini tidak diselesaikan oleh keputusan B dan tidak boleh dikarang sebagai
 
 **Mekanisme B telah diterapkan pada prosa Chapter 3–4 dan Scene Outline.** Implementasi menjaga fakta CANON yang tersedia dan tidak mengesahkan detail baru sebagai CANON.
 
-**Status Buku IV:** masih DALAM REVISI. Mekanisme pengungkapan B dan jalur akses A telah diterapkan pada prosa serta storyboard. Provenance tetap OPEN QUESTION. Proofread final manual, audit kontinuitas lintas bab, dan persetujuan kreator tetap diperlukan.
+**Status Buku IV:** masih DALAM REVISI. Mekanisme pengungkapan B dan jalur akses A telah diterapkan pada prosa serta storyboard. Provenance tetap OPEN QUESTION. Proofread manual per bab telah diterbitkan sebagai Proofread Draft 0.2. Final cross-chapter audit, sinkronisasi storyboard, dan persetujuan kreator tetap diperlukan.
 
 **Dampak CANON: tidak ada.**
