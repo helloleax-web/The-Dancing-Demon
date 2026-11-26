@@ -224,3 +224,13 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 - [ ] Audit akhir Buku III sebelum dinyatakan selesai.
 
 **Catatan status:** integrasi master dokumen selesai; thumbnail dan produksi visual belum dilakukan.
+
+
+## Book III — Manga page rhythm audit
+
+- [x] Audit baseline 108 pages / 521 panels dari enam storyboard terintegrasi.
+- [x] Identifikasi pola panel berulang, halaman berisiko padat, dan page-turn utama.
+- [x] Rekomendasi layout per rentang halaman dicatat dalam Book-III-Manga-Page-Rhythm-Audit-Draft-0.1.md.
+- [ ] Buat thumbnail visual berdasarkan prioritas audit.
+- [ ] Uji ulang jumlah panel/halaman berdasarkan thumbnail.
+- [ ] Periksa lettering, balon dialog, efek suara, dan urutan baca.
