@@ -184,3 +184,11 @@
 - [Book V Visual Storyboard — Bab 1: Arsip yang Tidak Sepakat](Book-V-Visual-Storyboard-Chapter-01-Draft-0.1.md) — storyboard teks untuk Scenes 1–4, daftar panel, aset, risiko kontinuitas, dan keputusan visual yang masih terbuka.
 - Status: storyboard teks selesai; thumbnail dan ilustrasi belum dibuat. Desain karakter/lokasi belum dikunci.
 - Seluruh storyboard dan detail visual usulan tetap NON-CANON.
+
+
+## Thumbnail dan evaluasi visual — Bab 1
+
+- [Book V Thumbnail Review — Bab 1](Book-V-Thumbnail-Review-Chapter-01-Draft-0.1.md) — evaluasi concept sheet empat scene.
+- Concept sheet awal telah dibuat dan ditinjau; diterima hanya sebagai studi komposisi. Thumbnail panel-per-panel belum selesai.
+- Ilustrasi final dan desain karakter/lokasi belum dibuat atau dikunci.
+- Seluruh visual tetap NON-CANON.
