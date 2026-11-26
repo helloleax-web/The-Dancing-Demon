@@ -1,5 +1,5 @@
 # Book IV — Prasasti Pertama
-## Scene Outline — Draft 0.4
+## Scene Outline — Draft 0.3
 
 **Status: CATATAN PENGEMBANGAN / NON-CANON.**  
 **Basis:** Eight-Book Series Architecture, penutup Buku III, dan fakta CANON tentang 13 Prasasti serta nama NVR AGAIN.  
@@ -259,7 +259,7 @@ Model ini adalah keputusan pengembangan NON-CANON agar draft tidak mencampuraduk
 - Model medium Northglass, metode transliterasi, dan detail situs tetap NON-CANON; tidak ada medium universal yang ditetapkan untuk 13 Prasasti.
 
 
-## 11. Addendum kontinuitas Buku III–IV — Draft 0.4
+## 11. Addendum kontinuitas Buku III–IV — Draft 0.3
 
 - Chapter 6 Buku III menyatakan rujukan indeks hanya mungkin menyebut batu bertulis di luar fasilitas; identitas, isi, lokasi, arah, dan jarak tidak diketahui.
 - Mira pada akhir Buku III hanya menunjukkan jalur yang mungkin digunakan untuk mencari catatan perjalanan tambahan; ia tidak menyerahkan seluruh catatan lokal.
