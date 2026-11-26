@@ -108,7 +108,7 @@ Kreator menyerahkan pilihan kepada editor dengan jawaban **“BEBAS”**. Opsi A
 2. Jorren hanya mengetahui kabar tentang keberadaan penjaga kumpulan dokumen. Ia tidak mengetahui isi, asal-usul, keaslian, atau hubungan materi dengan Northglass.
 3. Jorren menyampaikan permintaan; ia tidak menjamin akses.
 4. Penjaga anonim menerima kelompok untuk konsultasi terbatas di tempat dan di bawah pengawasannya.
-5. Izin tidak mencakup membawa, memisahkan, menyalin, atau menyebarluaskan materi.
+5. Izin tidak mencakup membawa, memisahkan, menyalin, atau menyebarluaskan materi. Catatan lapangan non-reproduktif hanya boleh mencatat pengamatan, struktur sumber, dan status ketidakpastian; bukan transkrip atau reproduksi materi.
 6. Seraphine mencatat pihak yang hadir, kondisi materi, lingkup izin, dan bahwa provenance belum diverifikasi.
 
 ### OPEN QUESTION yang tetap berlaku
