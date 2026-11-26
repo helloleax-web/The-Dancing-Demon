@@ -207,3 +207,8 @@ Mereka harus memastikan bahwa penemuan tersebut tidak dimulai dengan merusak ben
 ## Catatan kontinuitas Buku III–IV — Revision Draft 0.3
 
 Rujukan Hollow Vale tidak memberikan nama tempat, arah, jarak, atau koordinat. Catatan rute lokal Mira adalah sumber terpisah yang dipakai untuk mempersempit pencarian ke sekitar Jalan Northglass. Catatan lokal itu belum membuktikan bahwa penanda tertentu adalah batu yang dirujuk indeks; kecocokan tetap harus diuji di lapangan. Tidak ada perubahan CANON.
+
+
+## Catatan lokasi — batas CANON
+
+Nama **Jalan Northglass** adalah nama lokasi CANON. Letak, jalur, titik awal/akhir, jarak, arah, dan hubungan geografisnya tetap UNKNOWN. Rute yang digambarkan dalam bab ini adalah keputusan pengembangan NON-CANON, bukan peta atau geografi yang telah disahkan.
