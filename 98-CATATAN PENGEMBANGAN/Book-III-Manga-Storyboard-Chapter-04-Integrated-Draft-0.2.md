@@ -3,7 +3,7 @@
 **Judul bab:** Hak atas Informasi  
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Status integrasi:** MASTER STANDALONE TERINTEGRASI.  
-**Basis prosa aktif:** Manuscript Chapter 04 Revision Draft 0.2.  
+**Basis adaptasi awal:** Manuscript Chapter 04 Revision Draft 0.2. **Rujukan kontinuitas terbaru:** Manuscript Chapter 04 Proofread Draft 0.4; keputusan akses kreator B berlaku.  
 **Riwayat:** storyboard Draft 0.1 + synchronization revision Draft 0.2.
 
 ## Aturan penggunaan master ini
