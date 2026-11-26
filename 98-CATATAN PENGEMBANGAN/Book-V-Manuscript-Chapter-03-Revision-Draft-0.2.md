@@ -10,7 +10,7 @@
 
 ### Scene 9 — Catatan Jubah
 
-Koleksi mengenai jubah itu berada di bagian yang berbeda dari catatan musik.
+Koleksi mengenai jubah itu berada di bagian yang berbeda dari catatan musik. Hubungan yang mereka temukan antara NVR AGAIN dan bunyi selama Great War belum memberi alasan untuk menganggap semua catatan perang saling berkaitan. Mereka harus memulai pemeriksaan ini sebagai pertanyaan tersendiri.
 
 Hari itu ruang pemeriksaan dipenuhi suara kertas dan langkah petugas. Beberapa meja harus dikosongkan lebih cepat karena ada dokumen rapuh yang akan dipindahkan ke ruang penyimpanan. Neral memberi mereka waktu terbatas untuk memeriksa tiga nomor koleksi sebelum berkas dikembalikan. Seraphine membagi pekerjaan agar mereka tidak menghabiskan waktu pada salinan yang sama.
 
