@@ -2,7 +2,7 @@
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Naskah yang diperiksa:** Manuscript Chapters 1–6 Proofread Draft 0.4.  
-**Pembanding:** Line Edit Draft 0.3, Scene Outline Draft 0.2 + Addendum 0.3, Manuscript Continuity Audit Draft 0.7, Character Knowledge Matrix Draft 0.5, Character Bible (CANON), dan enam Integrated Storyboard Draft 0.2.  
+**Pembanding:** Line Edit Draft 0.3, Scene Outline Draft 0.2 + Addendum 0.3, Manuscript Continuity Audit Draft 0.7, Character Knowledge Matrix Draft 0.5, Character Bible, Ensemble Character Arcs, Location Bible, Thirteen Prasasti, Great War and Resonansi Hitam, Mystery & Revelation Architecture (CANON), dan enam Integrated Storyboard Draft 0.2.  
 **Tujuan:** pemeriksaan kalimat, kejelasan sumber, kesinambungan karakter, serta sinkronisasi prosa/storyboard.  
 **Batas:** audit ini bukan pengesahan CANON dan bukan keputusan kreator atas OPEN QUESTION.
 
