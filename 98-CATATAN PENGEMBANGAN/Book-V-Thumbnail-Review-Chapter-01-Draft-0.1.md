@@ -65,3 +65,20 @@ Pembuatan thumbnail panel-per-panel tidak dilanjutkan dengan satu prompt yang me
 
 **Status thumbnail panel-per-panel:** belum diterima.  
 **Dampak CANON:** tidak ada.
+
+
+## Audit Scene 1 — percobaan sheet lima panel — 2026-11-27
+
+Percobaan visual lima panel Scene 1 **DITOLAK**. Walau urutan kasarnya menyerupai storyboard, gambar memasukkan beberapa hal yang tidak didukung sumber:
+- Northglass digambar sebagai kota/benteng besar dengan jembatan, menara, dan panji/simbol yang tidak ditetapkan.
+- Adegan rapat di ruang seperti perpustakaan bukan bagian dari Scene 1; scene berlangsung dalam perjalanan meninggalkan Northglass.
+- Peta menambahkan jalur, penanda, dan geografi yang tidak ditetapkan.
+- Panel terakhir menampilkan penanda jalan dan bentuk lanskap batu yang terlalu spesifik.
+- Figur karakter diberi desain wajah, rambut, pakaian, dan aksesori yang belum disahkan.
+
+Karena itu gambar tidak diterima, tidak menjadi acuan desain, dan tidak disimpan ke repository. Pemetaan panel yang benar tetap mengikuti storyboard: (1) kelompok berjalan menjauhi Northglass; (2) insert tangan Tavian dan isi map; (3) kelompok berdiskusi sambil berjalan; (4) berhenti di persimpangan untuk membandingkan dua jalur; (5) catatan tujuan pemeriksaan lalu kelompok kembali bergerak.
+
+**Kesimpulan produksi:** model gambar belum dapat menjaga batas visual yang diperlukan saat diminta menghasilkan satu halaman sekaligus. Untuk menjaga akurasi, Scene 1 perlu dibuat sebagai layout thumbnail manual berbasis kotak komposisi dan deskripsi tekstual per panel, tanpa mengarang arsitektur, kostum, wajah, peta, atau properti. Gambar yang gagal tidak dianggap progres produksi yang diterima.
+
+**Status Scene 1:** thumbnail visual belum diterima.  
+**Dampak CANON:** tidak ada.
