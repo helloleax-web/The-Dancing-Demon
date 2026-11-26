@@ -46,7 +46,8 @@
 15. Bab 3 Scene 9: transisi dari bagian musik ke bagian jubah diperjelas agar tidak menyiratkan hubungan sebab-akibat yang belum diketahui.
 16. Bab 5 Scene 21: pengulangan daftar UNKNOWN dipadatkan; adegan kini meninjau batas hasil dan memberi ruang pada respons tiap karakter.
 17. Audit ritme mencatat Scene 9–13 masih berisiko mengulang percakapan metodologis, sedangkan Scene 3 perlu dipadatkan dengan hati-hati karena memuat aturan akses yang penting.
-18. Line edit lintas 22 scene belum selesai; diferensiasi suara karakter, pemadatan repetisi, ritme, dan transisi masih perlu diperiksa.
+18. Bab 3 Scene 9–13 direvisi agar tiap scene punya kemajuan berbeda: penelusuran sumber, perbandingan istilah, pengenalan istilah Resonansi Hitam, klasifikasi perbedaan dokumen, dan pencatatan hipotesis lisan.
+19. Line edit lintas 22 scene belum selesai; diferensiasi suara karakter, pemadatan repetisi, ritme, dan transisi masih perlu diperiksa.
 
 ## Status utama
 
