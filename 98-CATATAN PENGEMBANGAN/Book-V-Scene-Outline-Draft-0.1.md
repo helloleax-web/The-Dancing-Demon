@@ -98,6 +98,7 @@ Kelompok menerbitkan rekonstruksi terbatas. NVR AGAIN kini dapat ditempatkan dal
 
 **Scene 4 — Kronologi yang Tidak Cocok**
 - Tavian membandingkan dua garis waktu dari sumber berbeda.
+- Dalam katalog ringkas, kelompok menemukan satu entri yang hanya menyatakan bahwa LEAX menghilang setelah Great War; tidak ada sebab atau keadaan yang dicatat.
 - Tanggal dan urutan kejadian tidak cocok.
 - Neral menjelaskan bahwa beberapa catatan memakai kalender wilayah masing-masing.
 - Seraphine menolak menyatukan tanggal tanpa dasar konversi.
