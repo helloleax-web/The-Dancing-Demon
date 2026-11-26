@@ -1,15 +1,16 @@
 # Book III — Sisa-Sisa yang Tertinggal
 ## Bab 2: Akses dan Asal
-### Revisi Prosa 0.2 — Scenes 5–7
+### Line Edit Draft 0.3 — Scenes 5–7
 
 **Status: CATATAN PENGEMBANGAN / NON-CANON.**  
-**Fungsi:** manuskrip kerja Buku III berdasarkan Book III Scene Outline Draft 0.1. Semua detail baru tetap keputusan cerita draft.
+**Basis:** Manuscript Chapter 02 Revision Draft 0.2 dan Book III Continuity Audit Draft 0.5.
+**Jenis revisi:** line edit dan koreksi kontinuitas; seluruh detail tetap CATATAN PENGEMBANGAN / NON-CANON.
 
 ### Scene 5 — Siapa yang Boleh Menyalin
 
 Permintaan itu datang melalui seorang kurir pada sore hari.
 
-Ilyra menerima amplop kecil dari seorang kurir yang membawa pesan dari kurator yang berhubungan dengan Arsip Lentera. Surat itu tidak memberi kelompok dasar untuk memastikan identitas kurator tersebut. Ia membaca isinya, lalu menyerahkannya kepada Seraphine.
+Ilyra menerima amplop kecil dari seorang kurir yang membawa pesan dari kurator yang berhubungan dengan Arsip Lentera. Surat itu tidak memberi kelompok dasar untuk memastikan identitas kurator tersebut. Ilyra membaca isinya, lalu menyerahkannya kepada Seraphine.
 
 “Kurator meminta agar salinan catatan yang menyebut Hollow Vale tidak disebarkan sebelum sumbernya diperiksa.”
 
@@ -17,9 +18,9 @@ Ilyra menerima amplop kecil dari seorang kurir yang membawa pesan dari kurator y
 
 “Katanya, catatan itu mungkin memiliki batas akses yang belum kita ketahui. Ia tidak ingin salinan beredar tanpa konteks.”
 
-Kael membaca bagian luar amplop. “Siapa nama kuratornya?”
+Kael membaca bagian luar amplop. “Apa yang kita ketahui tentang kurator itu?”
 
-Ilyra menjelaskan bahwa surat itu berasal dari kurator yang berhubungan dengan Arsip Lentera, tetapi identitasnya tidak dapat mereka pastikan.
+Ilyra menjelaskan bahwa yang mereka ketahui hanya hubungan kurator itu dengan Arsip Lentera. Identitasnya tidak disebutkan dalam surat.
 
 Kael tidak menunjukkan reaksi berarti. Ia berhenti sejenak sebelum mengembalikan kertas itu.
 
@@ -119,7 +120,7 @@ Tavian berhenti pada jarak yang aman.
 
 Seraphine mengamati garis struktur. “Kita belum tahu apakah fungsi bangunannya juga berbeda.”
 
-Ilyra memeriksa salinan catatan ketiga. “Nama Hollow Vale muncul di sini, tapi tidak ada gambar yang cukup jelas untuk memastikan tempat ini.”
+Ilyra memeriksa salinan catatan perjalanan. “Nama Hollow Vale muncul di sini, tapi tidak ada gambar yang cukup jelas untuk memastikan tempat ini.”
 
 Kael menunjuk bagian dinding yang terlihat. “Setidaknya kita menemukan sesuatu.”
 
@@ -182,7 +183,7 @@ Di hadapan mereka, Hollow Vale tidak memberikan jawaban. Namun, ia memberi kelom
 - Struktur adegan, urutan kejadian, informasi, serta tingkat kepastian dipertahankan dari Revision Draft 0.2.
 - Tidak ada fakta CANON, karakter, lokasi, izin, hubungan, atau pengetahuan baru yang ditambahkan.
 
-**Jumlah penyesuaian redaksional terarah:** 11, ditambah koreksi kontinuitas pada identitas kurator dan durasi perjalanan.  
+**Jumlah penyesuaian redaksional terarah:** 11, ditambah koreksi kontinuitas pada identitas kurator, durasi perjalanan, dan penamaan sumber.  
 **Status editorial:** line edit awal; belum final proofread.  
 **Dampak CANON: tidak ada.**
 
