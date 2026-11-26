@@ -2,7 +2,7 @@
 ## Jejak di Luar Fasilitas
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
-**Sumber pembanding:** Manuscript Chapter 01 Revision Draft 0.2 dan Manga Storyboard Chapter 01 Revision Draft 0.2.  
+**Sumber pembanding:** Manuscript Chapter 01 Revision Draft 0.2 dan Manga Storyboard Chapter 01 Revision Draft 0.3.  
 **Tujuan:** mencatat beat, dialog, dan batas informasi yang berbeda antara manuskrip dan storyboard agar adaptasi layout tidak diam-diam mengubah atau menghilangkan materi sumber.
 
 ## Prinsip penanganan
@@ -38,7 +38,7 @@
 
 **Dampak adaptasi:** gestur menunjuk dapat terbaca sebagai informasi arah yang lebih pasti daripada ucapan manuskrip. Layout harus memperlakukan arah tersebut sebagai petunjuk umum dari pengangkut, bukan konfirmasi bahwa batu tujuan sudah ditemukan.
 
-**Status:** perlu dipertahankan sebagai petunjuk tentatif; tidak boleh memberi koordinat atau rute pasti.
+**Status:** diperbaiki dalam Storyboard Revision Draft 0.3 dan layout Halaman 8; informasi tetap tentatif dan tidak memberi koordinat atau rute pasti.
 
 ### 4. Halaman 11 — kalimat tambahan Jorren
 **Manuskrip Scene 3:** setelah menyatakan batu bukan milik kelompok peneliti, Jorren menambahkan bahwa orang-orang setempat juga tidak ingin batu rusak karena seseorang ingin tahu lebih cepat.
@@ -47,7 +47,7 @@
 
 **Dampak adaptasi:** alasan perlindungan yang dinyatakan Jorren dipadatkan/hilang dari dialog halaman ini. Layout saat ini mengikuti storyboard. Jangan menyisipkan dialog tambahan ke panel tanpa revisi storyboard yang tercatat.
 
-**Status:** omission tercatat; makna kehati-hatian tetap dijaga lewat adegan dan batas tindakan, tetapi kalimat spesifik belum diadaptasi.
+**Status:** dipulihkan dalam Storyboard Revision Draft 0.3 dan layout Halaman 11; kalimat tetap sesuai manuskrip Scene 3.
 
 ### 5. Halaman 12 — syarat terperinci izin
 **Manuskrip Scene 3:** izin Jorren mencakup mengikuti jalur yang ditunjukkan, tidak memindahkan batu, dan tidak membersihkan permukaan tanpa persetujuan. Izin hanya berlaku pada jalur yang ia jaga dan tidak mewakili semua pihak berkepentingan.
@@ -56,7 +56,7 @@
 
 **Dampak adaptasi:** storyboard memadatkan syarat izin. Larangan tidak menyentuh/menggores muncul di Halaman 16, sedangkan larangan menggali/memindahkan sudah ditegaskan sebelumnya. Namun, syarat mengikuti jalur yang ditunjukkan dan larangan membersihkan tanpa persetujuan belum dinyatakan lengkap sebagai dialog storyboard.
 
-**Status:** jangan menggambarkan izin sebagai akses bebas; layout harus mempertahankan jalur terbatas dan larangan kontak/perubahan pada batu.
+**Status:** syarat mengikuti jalur yang ditunjukkan serta larangan memindahkan/membersihkan tanpa persetujuan dipulihkan dalam Storyboard Revision Draft 0.3 dan layout Halaman 12.
 
 ### 6. Halaman 14 — Jorren menunjukkan batu
 **Manuskrip Scene 4:** Jorren menunjuk batu besar di kejauhan dan berkata, “Kalau yang kalian cari memang batu itu, kalian akan melihatnya dari sisi atas.”
@@ -65,7 +65,7 @@
 
 **Dampak adaptasi:** storyboard menghilangkan nuansa kondisional yang menegaskan identifikasi belum pasti. Layout tidak boleh memperlakukan batu yang ditunjuk sebagai objek yang sudah terkonfirmasi.
 
-**Status:** batu tetap petunjuk visual dari kejauhan, bukan identifikasi final.
+**Status:** kalimat bersyarat dipulihkan dalam Storyboard Revision Draft 0.3 dan layout Halaman 14; batu tetap petunjuk visual dari kejauhan, bukan identifikasi final.
 
 ### 7. Halaman 15 — lokasi perlengkapan berat
 **Manuskrip Scene 5:** Daren menyarankan perlengkapan berat ditinggalkan di tempat singgah.
@@ -83,7 +83,7 @@
 
 **Dampak adaptasi:** storyboard memadatkan prosedur konservasi. Layout harus tetap melarang pembersihan, pengangkatan material, sentuhan, dan goresan; jangan menggambar tindakan tersebut. Namun, detail “mencatat endapan tanpa mengangkatnya” belum menjadi dialog/panel eksplisit.
 
-**Status:** batas visual dipertahankan; omission prosedural tercatat.
+**Status:** pencatatan kondisi, larangan pembersihan agresif, dan larangan mengangkat endapan dipulihkan dalam Storyboard Revision Draft 0.3 dan layout Halaman 16.
 
 ### 9. Halaman 17–18 — penutupan adegan
 **Manuskrip Scene 5:** Tavian menandai titik awal pemeriksaan; Kael berkomentar tentang akhirnya sampai pada sesuatu di luar bangunan; Tavian mengingatkan bahwa mereka belum tahu apa yang akan ditemukan. Setelah Jorren memberi isyarat, batu terlihat lebih jelas, tetapi kelompok belum mendekat untuk membacanya.
@@ -108,3 +108,14 @@
 3. Setelah teks/layout stabil, lakukan review visual thumbnail gambar nyata secara berurutan.
 
 **Dampak CANON: tidak ada.**
+
+
+## Status tindak lanjut — Storyboard Revision Draft 0.3
+- [x] Halaman 8: informasi pengangkut kembali bersifat tentatif.
+- [x] Halaman 11: alasan Jorren menjaga batu dipulihkan.
+- [x] Halaman 12: syarat mengikuti jalur dan larangan memindahkan/membersihkan tanpa persetujuan dipulihkan.
+- [x] Halaman 14: pernyataan bersyarat Jorren dipulihkan.
+- [x] Halaman 16: pencatatan kondisi, tanpa pembersihan agresif, dan tanpa mengangkat endapan dipulihkan.
+- [ ] Halaman 1–2: dua salinan kerja Ilyra dan peringatan Seraphine tentang status nama/rujukan masih dipadatkan; evaluasi apakah perlu panel/beat tambahan tanpa mengubah jumlah halaman.
+
+**Catatan:** Storyboard dan layout terkait tetap NON-CANON. Perubahan hanya menyelaraskan adaptasi kerja dengan manuskrip Revision Draft 0.2.
