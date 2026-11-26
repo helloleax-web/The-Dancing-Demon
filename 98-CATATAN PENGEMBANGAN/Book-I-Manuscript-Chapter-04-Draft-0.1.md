@@ -133,7 +133,7 @@ Penemuan mereka tidak lagi hanya menjadi urusan ekspedisi.
 
 - Informasi awal menyebar melalui jalur pelaporan ekspedisi; pihak penyelenggara meneruskan ringkasan kepada pihak berkepentingan.
 - Pembawa pesan tidak mengetahui seluruh penerima laporan. Sumber spesifik yang pertama kali menyampaikan informasi kepada perusahaan tetap tidak dipastikan.
-- Vellum & Iron Recovery diperkenalkan sebagai perusahaan yang datang dengan klaim bahwa kegiatan pemulihannya mungkin mencakup wilayah tersebut. Dokumen dan cakupan hak belum diperiksa.
+- Vellum & Iron Recovery diperkenalkan dalam draft sebagai perusahaan yang mengajukan klaim kepemilikan komersial atas peninggalan di wilayah tersebut. Hubungan organisasi ini dengan perusahaan tak bernama dalam premis CANON masih memerlukan keputusan kreator; dokumen dan cakupan klaim belum diperiksa.
 - Perusahaan belum melakukan pemeriksaan langsung dan belum mengambil benda dalam adegan ini.
 - Kehadiran perusahaan menggeser konflik dari eksplorasi menuju sengketa hak, tanpa menetapkan bahwa perusahaan otomatis memiliki fasilitas.
 - Kael menunjukkan bahwa kedatangan pihak luar tidak mengejutkannya, tetapi alasan lengkapnya tetap ditahan untuk Scene 13.
@@ -156,7 +156,7 @@ Wakil perusahaan meletakkan sebuah map tipis di atas meja.
 
 Seraphine tidak langsung mengambilnya. “Kami perlu tahu apa yang Anda minta dari ekspedisi ini.”
 
-“Kami meminta pengakuan bahwa lokasi penemuan berada dalam cakupan hak pemulihan yang telah diberikan kepada perusahaan.”
+“Kami meminta pengakuan bahwa perusahaan memiliki klaim kepemilikan komersial atas peninggalan yang ditemukan di wilayah yang tercakup dalam kontrak kami.”
 
 “Pengakuan dari siapa?”
 
@@ -226,9 +226,9 @@ Wakil perusahaan menoleh. “Kami menerima informasi bahwa ada penemuan yang mun
 
 Kael mengangguk, seolah jawaban itu tidak mengejutkannya.
 
-Tavian menatap dokumen sekali lagi. “Kalau klaim ini hanya berlaku untuk pemulihan benda, apakah itu berarti perusahaan tidak mengklaim tanah di atas fasilitas?”
+Tavian menatap dokumen sekali lagi. “Kalau perusahaan mengklaim kepemilikan komersial atas peninggalan, bagaimana perusahaan membedakan kepemilikan benda dari hak atas tanah dan akses ke fasilitas?”
 
-Wakil perusahaan menjawab dengan hati-hati. “Perusahaan tidak sedang mengajukan klaim kepemilikan atas seluruh tanah. Kami menyatakan memiliki hak kontraktual untuk melakukan kegiatan tertentu di wilayah yang disebutkan.”
+Wakil perusahaan menjawab dengan hati-hati. “Kami tidak mengklaim seluruh tanah di atasnya. Klaim kami adalah kepemilikan komersial atas peninggalan yang termasuk dalam cakupan kontrak, beserta hak untuk melakukan pemeriksaan dan pemulihan sebagaimana tertulis di sana.”
 
 “Jadi hak atas tanah dan hak pemulihan bukan hal yang sama,” kata Tavian.
 
