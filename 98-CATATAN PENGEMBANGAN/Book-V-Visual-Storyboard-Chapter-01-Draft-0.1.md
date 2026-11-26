@@ -2,7 +2,7 @@
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Basis naskah:** Book V Chapter 1, Revision Draft 0.4 — Scenes 1–4.  
-**Fungsi:** rancangan visual awal untuk mengubah empat scene pembuka menjadi urutan panel yang dapat dipakai sebagai dasar thumbnail dan produksi ilustrasi.  
+**Fungsi:** rancangan visual awal untuk mengubah empat scene pembuka menjadi urutan 27 panel yang dapat dipakai sebagai dasar thumbnail dan produksi ilustrasi.  
 **Batas:** storyboard tidak menambah peristiwa, fakta sejarah, lokasi CANON, atau detail biografi/penampilan karakter. Kota Orlenn, Balai Catatan Perang, dan seluruh detail visual yang tidak ditetapkan sumber tetap proposal NON-CANON.
 
 ## 1. Prinsip produksi
@@ -151,7 +151,7 @@ Sampai keputusan tersebut tersedia, storyboard ini cukup untuk membuat **thumbna
 
 ## 7. Status produksi
 
-- Storyboard teks Bab 1 Scenes 1–4: selesai pada Draft 0.1.
+- Storyboard teks Bab 1 Scenes 1–4: selesai pada Draft 0.1; total 27 panel (Scene 1: 5, Scene 2: 7, Scene 3: 8, Scene 4: 7).
 - Concept sheet empat scene: dibuat dan ditinjau sebagai studi komposisi awal; thumbnail panel-per-panel belum dibuat.
 - Ilustrasi final: belum dibuat.
 - Desain karakter/lokasi: belum dikunci.
@@ -165,3 +165,8 @@ Sampai keputusan tersebut tersedia, storyboard ini cukup untuk membuat **thumbna
 Concept sheet empat scene dibuat sebagai studi komposisi awal dan dievaluasi dalam [Thumbnail Review — Bab 1](Book-V-Thumbnail-Review-Chapter-01-Draft-0.1.md). Hasil belum dianggap thumbnail panel-per-panel. Revisi utama: sederhanakan eksterior Balai Catatan Perang, pertahankan karakter sebagai placeholder, dan jangan mengunci detail visual NON-CANON. Tidak ada perubahan pada storyboard 25 panel atau isi naskah.
 
 **Status:** concept sheet awal selesai; thumbnail panel-per-panel masih terbuka.
+
+
+## Koreksi jumlah panel — 2026-11-27
+
+Jumlah panel yang dihasilkan oleh rincian scene adalah **27**, bukan 25: 5 + 7 + 8 + 7. Setiap panel bernomor 1.1–4.7 tetap dipertahankan; tidak ada panel yang dihapus atau digabung. Penyebutan 25 panel pada concept sheet/catatan produksi sebelumnya merupakan kesalahan hitung dan tidak mengubah naskah.
