@@ -13,7 +13,8 @@ Mencatat kemajuan produksi thumbnail halaman demi halaman tanpa mengubah storybo
 - [x] Membuat eksplorasi thumbnail awal Halaman 1 — *Salinan Hollow Vale*.
 - [ ] Review dan revisi final thumbnail Halaman 1.
 - [x] Membuat thumbnail visual pertama Halaman 2 — *Deskripsi, Bukan Koordinat* (eksplorasi; review belum selesai).
-- [ ] Thumbnail Halaman 3–18.
+- [x] Membuat thumbnail visual pertama Halaman 3 — *Petunjuk Northglass* (eksplorasi; review belum selesai).
+- [ ] Thumbnail Halaman 4–18.
 - [ ] Review komposisi, ritme halaman, dan page-turn seluruh Bab 1.
 
 ## Batas kontinuitas Bab 1
@@ -26,9 +27,9 @@ Mencatat kemajuan produksi thumbnail halaman demi halaman tanpa mengubah storybo
 - Semua keputusan visual dan panel tetap NON-CANON.
 
 ## Catatan kualitas
-Thumbnail yang dihasilkan sejauh ini adalah eksplorasi komposisi, bukan artwork final. Halaman 2 kini memiliki thumbnail visual pertama dan spesifikasi layout tertulis di `Book-IV-Manga-Thumbnail-Page-02-Layout-Draft-0.1.md`; review komposisi, keterbacaan balon, dan konsistensi desain masih terbuka. Ada percobaan visual Halaman 2 yang menambahkan detail yang tidak didukung storyboard; percobaan tersebut ditolak dan tidak boleh dijadikan acuan. Thumbnail Halaman 2 harus mengikuti lima beat storyboard asli tanpa memperlihatkan bentuk fisik batu atau lokasi spesifik.
+Thumbnail yang dihasilkan sejauh ini adalah eksplorasi komposisi, bukan artwork final. File gambar halaman 3 belum disimpan ke repository; repository saat ini memuat spesifikasi layout tekstualnya. Halaman 2 dan 3 kini memiliki eksplorasi visual serta spesifikasi layout tertulis di `Book-IV-Manga-Thumbnail-Page-02-Layout-Draft-0.1.md` dan `Book-IV-Manga-Thumbnail-Page-03-Layout-Draft-0.1.md`; review komposisi, keterbacaan balon, dan konsistensi desain masih terbuka. Ada percobaan visual Halaman 2 yang menambahkan detail yang tidak didukung storyboard; percobaan tersebut ditolak dan tidak boleh dijadikan acuan. Thumbnail Halaman 2 harus mengikuti lima beat storyboard asli tanpa memperlihatkan bentuk fisik batu atau lokasi spesifik.
 
 ## Langkah berikutnya
-Review thumbnail Halaman 1–2 (termasuk koreksi jika diperlukan), lalu lanjutkan thumbnail Halaman 3 sesuai storyboard.
+Review thumbnail Halaman 1–3 (termasuk koreksi jika diperlukan), lalu lanjutkan thumbnail Halaman 4 sesuai storyboard.
 
 **Dampak CANON: tidak ada.**
