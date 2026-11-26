@@ -34,9 +34,9 @@
 3. Hubungan NVR AGAIN dengan musik Great War tetap dibangun melalui perbandingan sumber.
 4. Efek jubah mana hitam tetap sesuai CANON; mekanisme tidak dijelaskan.
 5. Resonansi Hitam tetap digunakan sebagai istilah historis dengan cakupan UNKNOWN.
-5. Revision 0.2 memakai fakta CANON minimum tentang LEAX dan sekutunya tanpa menambahkan penyebab, keadaan, identitas, atau nasib.
-8. Revision 0.2 memasukkan fakta CANON bahwa sekutu LEAX memperoleh jubah mana hitam, tanpa identitas atau rincian tambahan.
-7. Revision 0.2 memasukkan fakta CANON bahwa LEAX menghilang setelah Great War, tanpa sebab atau keadaan.
+6. Bab 1 revision 0.2 menyebut fakta bahwa LEAX menghilang setelah Great War, tanpa sebab atau keadaan.
+7. Bab 3 revision 0.2 mencatat bahwa sekutu LEAX memperoleh jubah mana hitam, tanpa identitas atau rincian tambahan.
+8. Bab 5 revision 0.2 mencatat hilangnya LEAX sebagai fakta yang belum terjelaskan.
 
 ## Status utama
 
