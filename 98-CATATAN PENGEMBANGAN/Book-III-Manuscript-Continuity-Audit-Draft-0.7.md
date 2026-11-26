@@ -1,7 +1,7 @@
 # Book III — Manuscript Continuity Audit — Draft 0.7
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
-**Cakupan:** Chapters 1–6 Proofread Draft 0.4 (dibaca berurutan); Book III Scene Outline Draft 0.2; Character Knowledge Matrix Draft 0.5; Book II–III Transition Audit Draft 0.2; Book III–IV Transition Audit Draft 0.1; CANON Character Bible dan Ensemble Character Arcs.  
+**Cakupan:** Chapters 1–6 Proofread Draft 0.4 (dibaca berurutan); Book III Scene Outline Draft 0.2; Character Knowledge Matrix Draft 0.5; Book II–III Transition Audit Draft 0.2; Book III–IV Transition Audit Draft 0.1; CANON Character Bible, Ensemble Character Arcs, Location Bible, Thirteen Prasasti, Great War and Resonansi Hitam, serta Mystery & Revelation Architecture.  
 **Tujuan:** audit setelah revisi Chapters 3–6. Tidak ada perubahan CANON.
 
 ## 1. Hasil ringkas
