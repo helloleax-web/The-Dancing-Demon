@@ -42,6 +42,7 @@ batas informasi yang belum boleh diisi.
 -   Naskah interpretasi in-world untuk Prasasti I–XIII telah dikonsolidasikan sebagai dokumen CANON di `01-CANON/`. Pengesahan berlaku atas keberadaan dan isi naskah sebagai catatan penafsir, bukan atas kebenaran objektif semua dugaan penulisnya.
 -   Book IV Chapter 1, Scenes 1–5 (*Jejak di Luar Fasilitas*) telah disahkan sebagai teks naratif CANON di `01-CANON/Book-IV-Chapter-01-Jejak-di-Luar-Fasilitas.md`. Pengesahan mencakup kejadian, dialog, dan batas tindakan yang dinyatakan dalam teks; identitas batu, pembuat, isi guratan, lokasi rinci, serta hubungan pasti indeks Hollow Vale dengan Prasasti I tetap UNKNOWN/MYSTERY.
 -   Book IV Chapter 2, Scenes 6–10 (*Batu yang Tidak Terbaca*) telah disahkan sebagai teks naratif CANON di `01-CANON/Book-IV-Chapter-02-Batu-yang-Tidak-Terbaca.md`. Kelompok mendokumentasikan guratan dari posisi aman tanpa menyentuh, mengikis, membersihkan, atau memindahkan batu maupun endapan. Ilyra belum dapat membaca atau menerjemahkan tanda; sistem tulisan, fungsi, arah baca, pembuat, identitas batu, dan hubungan pastinya dengan indeks Hollow Vale tetap UNKNOWN/MYSTERY.
+-   Book IV Chapter 3, Scenes 11–15 (*Nama yang Terlepas*) telah disahkan sebagai teks naratif CANON di `01-CANON/Book-IV-Chapter-03-Nama-yang-Terlepas.md`. Pada Scene 14, satu rangkaian tanda yang masih utuh ditransliterasikan sebagai NVR AGAIN; ini bukan terjemahan seluruh prasasti dan tidak mengungkap referen, makna, pembuat, atau konteks sejarahnya. Permintaan dari individu yang mengatasnamakan Arsip Lentera, Konsorsium Survei Meridian, dan Vellum & Iron Recovery adalah kejadian adegan, bukan penetapan mandat atau struktur organisasi.
 -   Sistem mana memiliki parameter dan cabang sebagaimana dijelaskan
     dalam dokumen Sistem Mana.
 -   Prolog asal-usul LEAX merupakan proyek terpisah dari cerita utama.
@@ -77,7 +78,9 @@ batas informasi yang belum boleh diisi.
     interpretasi yang telah disahkan tetap harus dibaca sebagai perspektif
     penulisnya, bukan kebenaran sejarah yang otomatis terkonfirmasi.
 -   Untuk Book IV Chapter 1–2, Jorren Hale hanya memberi izin terbatas pada jalur yang ia jaga; ia tidak mewakili seluruh masyarakat atau semua pihak berkepentingan. Izin dokumentasi tidak berarti izin menyentuh, mengikis, membersihkan, atau memindahkan batu.
--   Dalam Book IV Chapter 2, seluruh pemeriksaan guratan bersifat visual dan non-invasif. Ilyra belum dapat membaca atau menerjemahkan tanda; jangan menetapkan sistem tulisan, fungsi, arah baca, atau isi prasasti tanpa keputusan kreator.
+-   Dalam Book IV Chapter 2–3, pemeriksaan guratan bersifat visual dan non-invasif; jangan menyentuh, mengikis, membersihkan, atau memindahkan batu maupun endapan.
+-   Dalam Book IV Chapter 3, NVR AGAIN hanya boleh muncul sebagai pengungkapan dalam Scene 14. Yang terbaca adalah transliterasi satu rangkaian tanda, bukan terjemahan keseluruhan prasasti. Referen, makna, pembuat, dan konteks sejarah tetap UNKNOWN/MYSTERY.
+-   Kehadiran individu yang mengatasnamakan Arsip Lentera, Konsorsium Survei Meridian, atau Vellum & Iron Recovery dalam Book IV Chapter 3 tidak menetapkan mandat, fungsi umum, struktur, kepemimpinan, atau kewenangan organisasi tersebut.
 -   Batu tidak boleh digali, dipindahkan, dibersihkan agresif, disentuh, atau digores dalam peristiwa Chapter 1. Endapan yang menutupi bagian tertentu dicatat tanpa diangkat.
 -   Jangan menganggap batu yang ditunjuk Jorren telah teridentifikasi sebagai objek dari indeks Hollow Vale; identifikasi tetap belum pasti.
 
