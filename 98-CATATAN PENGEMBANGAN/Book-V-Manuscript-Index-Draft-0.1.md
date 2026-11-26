@@ -1,6 +1,8 @@
 # Book V — Manuscript Index — Draft 0.1
 
-**Status:** CATATAN PENGEMBANGAN / NON-CANON.  
+**Status:** CATATAN PENGEMBANGAN / NON-CANON.
+
+> **Catatan status:** dokumen ini adalah versi awal dan telah disupersesi oleh dokumen terkait Draft 0.2. Gunakan audit, index, dan character knowledge matrix Draft 0.2 untuk status terbaru.  
 **Judul:** Perang yang Tertinggal.  
 **Cakupan:** pass pertama manuskrip, 22 scene dalam lima bab kerja.
 
