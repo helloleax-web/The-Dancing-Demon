@@ -27,7 +27,7 @@ Tavian mengambil salinan dan memeriksa bagian yang masih terbaca. Tidak ada nama
 
 Seraphine membaca ulang baris tersebut.
 
-“Kita tidak bisa menyebutnya Prasasti hanya dari kata ini.”
+“Kita belum bisa memastikan apakah catatan itu merujuk pada satu batu bertulis tertentu atau hanya memakai istilah umum.”
 
 Ilyra mengangguk. “Aku juga belum tahu apakah istilahnya merujuk pada satu benda atau jenis catatan.”
 
@@ -57,13 +57,13 @@ Tavian meletakkan empat sumber di atas meja: salinan fragmen fasilitas Buku I, d
 
 Seraphine membacakan apa yang dapat dipastikan.
 
-“Dua sumber pertama memiliki beberapa bentuk rujukan yang mirip. Laporan Daren adalah petunjuk terpisah tentang permukaan buatan, sedangkan indeks Hollow Vale memberi konteks lain. Kita belum punya bukti bahwa semuanya dibuat oleh pihak yang sama atau saling terhubung.”
+“Fragmen fasilitas Buku I dan indeks Hollow Vale memuat satu susunan rujukan yang sama. Ini bukti bahwa setidaknya dua fasilitas memakai konvensi rujukan yang sama. Itu hubungan dokumenter pertama yang bisa kita catat. Kita belum tahu apakah sistem ini menghubungkan fasilitas secara fisik, administratif, atau hanya melalui cara pencatatan. Penanda Rookbridge memiliki motif titik-garis yang mirip secara umum, tetapi tidak memuat urutan rujukan yang sama. Laporan Daren tetap menjadi petunjuk terpisah tentang permukaan buatan.”
 
 Ilyra menambahkan bahwa susunan tanda mungkin menunjukkan hubungan antarcatatan, tetapi bagian yang hilang membuat interpretasi belum lengkap.
 
-“Kalau kita menemukan sumber keempat, mungkin polanya akan lebih jelas.”
+“Kalau kita menemukan fasilitas atau catatan lain, mungkin cakupan sistem rujukan ini akan lebih jelas.”
 
-“Mungkin,” jawab Seraphine. “Tapi kita tidak boleh membuat sumber keempat hanya untuk membenarkan hipotesis.”
+“Mungkin,” jawab Seraphine. “Tapi kita tidak boleh menganggap semua penanda yang mirip sebagai bagian dari sistem ini hanya untuk membenarkan hipotesis.”
 
 Ilyra tersenyum tipis. “Aku mulai memahami maksudmu.”
 
@@ -81,7 +81,7 @@ Seraphine menutup map. “Kita hanya bisa memastikan bahwa kesimpulan kita tidak
 
 Daren memeriksa daftar perlengkapan untuk perjalanan keluar. Mira memastikan salinan catatan lokal yang mereka bawa masih berada dalam batas izin.
 
-Mereka tidak menemukan satu jawaban besar. Namun, mereka telah mengetahui bahwa beberapa tempat menyimpan cara pencatatan yang memiliki kemiripan. Mereka juga menemukan bahwa sebagian informasi mengarah ke sumber di luar fasilitas.
+Mereka tidak menemukan satu jawaban besar. Namun, mereka telah menemukan hubungan dokumenter yang dapat diperiksa antara dua fasilitas: keduanya memakai satu susunan rujukan yang sama. Itu cukup untuk menunjukkan adanya sistem rujukan lintas situs, tetapi belum cukup untuk memetakan seluruh jaringan atau membuktikan hubungan fisik antarbangunan. Mereka juga menemukan bahwa sebagian informasi mengarah ke sumber di luar fasilitas.
 
 Itu cukup untuk menentukan langkah berikutnya.
 
@@ -140,8 +140,10 @@ Petunjuk itu berasal dari sebuah batu bertulis di luar fasilitas.
 ## Catatan tambahan Scenes 18–20
 
 - Indeks Hollow Vale memuat rujukan kepada batu bertulis di luar fasilitas; isi, lokasi, identitas, dan hubungannya belum diketahui.
-- Seraphine menolak menyebutnya Prasasti sebelum ada bukti.
-- Dua sumber memiliki kemiripan format rujukan; laporan Daren merupakan petunjuk terpisah tentang permukaan buatan, dan indeks Hollow Vale memberi sumber tambahan. Belum ada bukti satu jaringan, pembuat, atau tujuan.
+- Seraphine menolak mengidentifikasi rujukan itu sebagai artefak tertentu sebelum ada bukti.
+- Fragmen fasilitas Buku I dan indeks Hollow Vale memuat satu susunan rujukan yang sama, memberi bukti awal sistem rujukan lintas situs. Cakupan jaringan, pembuat, tujuan, dan kemungkinan hubungan fisik tetap UNKNOWN.
+- Penanda Rookbridge hanya memiliki motif visual umum yang serupa; urutan rujukannya tidak sama.
+- Laporan Daren tetap merupakan petunjuk terpisah tentang permukaan buatan.
 - Sumber asli tetap berada di Hollow Vale; salinan disimpan dan dibagikan sesuai kesepakatan.
 - Ilyra memilih bergabung untuk menelusuri rujukan batu bertulis.
 - Kael belum memutus hubungan dengan jaringan informasi lamanya, tetapi tidak lagi mengirim salinan tanpa sumber dan persetujuan kelompok.
