@@ -74,3 +74,19 @@
 4. Baru setelah itu buat thumbnail gambar berurutan dan lakukan review visual nyata.
 
 **Dampak CANON: tidak ada.**
+
+## 6. Pemeriksaan silang terhadap manuskrip — koreksi baru
+
+### Halaman 15 — perlengkapan berat
+- Manuskrip Scene 5 menyatakan Daren menyarankan perlengkapan berat ditinggalkan di tempat singgah.
+- Arahan layout sebelumnya hanya menyebut kelompok menata ulang beban, yang mengaburkan lokasi barang.
+- Koreksi telah diterapkan: perlengkapan berat ditinggalkan di tempat singgah sebelum kelompok melanjutkan ke jalur atas. Barang tidak boleh digambarkan berada dekat batu.
+
+### Halaman 16–17 — pengulangan informasi
+- Kedua halaman memang memuat batas dokumentasi dan pencatatan sumber dalam storyboard/manuskrip.
+- Agar pengulangan tidak terasa sebagai negosiasi kedua, Halaman 16 harus menjadi halaman prosedur dan batas sosial; Halaman 17 menjadi konfirmasi singkat, penandaan titik awal pemeriksaan, dan transisi emosional menuju perjalanan.
+- Jangan menambahkan persetujuan baru atau memperluas izin Jorren.
+
+### Halaman 18 — batas adegan
+- Manuskrip menyatakan batu semakin jelas terlihat, tetapi kelompok belum mendekat untuk membacanya.
+- Thumbnail harus berhenti pada persiapan dokumentasi dan penegasan etika; jangan memperlihatkan pembacaan permukaan atau hasil foto.
