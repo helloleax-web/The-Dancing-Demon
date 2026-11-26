@@ -47,6 +47,11 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 21. Merevisi storyboard Book I Bab 2 dan Bab 3 menjadi Draft 0.2.
 22. Memperluas audit sinkronisasi storyboard menjadi Draft 0.3 untuk keenam bab.
 23. Menerbitkan indeks manuskrip Book I Draft 0.7 dengan daftar storyboard aktif.
+24. Memperbaiki storyboard Bab 5 menjadi Draft 0.3 agar urutan keluar dan bantuan dua anggota ekspedisi cocok dengan manuskrip.
+25. Memperbaiki storyboard Bab 4 menjadi Draft 0.3 untuk menghilangkan kontradiksi panel setelah wakil perusahaan pergi.
+26. Memperbaiki storyboard Bab 6 menjadi Draft 0.3 agar tidak menambahkan percakapan yang tidak ada dalam prosa.
+27. Membuat audit storyboard Book I Draft 0.4 yang mencatat temuan, koreksi, dan batas roster pendukung.
+28. Menerbitkan indeks manuskrip Book I Draft 0.8 dengan versi storyboard aktif.
 
 ## Temuan yang harus dibawa ke tahap berikutnya
 
@@ -95,4 +100,5 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 - 2026-11-26: Book I Chapter 6 direvisi menjadi Draft 0.2; indeks Draft 0.4 diterbitkan; audit revisi Bab 6 Draft 0.4 dan audit pembuka Bab 1–3 Draft 0.1 ditambahkan; Character Knowledge Matrix diperbarui menjadi Draft 0.2.
 - 2026-11-26: Book I Chapter 2 dan 3 direvisi menjadi Draft 0.2; audit revisi pembuka Draft 0.2 dan indeks Draft 0.5 diterbitkan.
 - 2026-11-26: storyboard Book I Bab 4–6 direvisi menjadi Draft 0.2; audit sinkronisasi storyboard Draft 0.2 dan indeks Draft 0.6 diterbitkan.
-- 2026-11-26: storyboard Book I Bab 2–3 direvisi menjadi Draft 0.2; audit sinkronisasi storyboard Draft 0.3 dan indeks Draft 0.7 diterbitkan. Status Book I tetap DALAM REVISI.
+- 2026-11-26: storyboard Book I Bab 2–3 direvisi menjadi Draft 0.2; audit sinkronisasi storyboard Draft 0.3 dan indeks Draft 0.7 diterbitkan.
+- 2026-11-26: storyboard Bab 4–6 diperbarui menjadi Draft 0.3 untuk memperbaiki tiga ketidaksesuaian terhadap prosa; audit storyboard Draft 0.4 dan indeks manuskrip Draft 0.8 diterbitkan. Status Book I tetap DALAM REVISI.
