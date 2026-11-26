@@ -10,6 +10,7 @@
 - [Outline Audit Report — Draft 0.1](Book-VIII-Outline-Audit-Report-Draft-0.1.md) — pemeriksaan kesesuaian outline dengan fondasi CANON dan arc karakter.
 - [Character Knowledge Matrix — Draft 0.1](Book-VIII-Character-Knowledge-Matrix-Draft-0.1.md) — kontrol informasi yang diketahui keenam karakter dan pembaca.
 - [Mystery Timing Audit — Draft 0.1](Book-VIII-Mystery-Timing-Audit-Draft-0.1.md) — urutan pengungkapan, misteri yang boleh tetap terbuka, dan larangan pengungkapan dini.
+- [The Dancing Demon — Title Meaning Proposal — Draft 0.1](The-Dancing-Demon-Title-Meaning-Proposal-Draft-0.1.md) — working meaning judul berdasarkan motif Prasasti dan tema seri.
 
 ## Status pengerjaan
 
@@ -17,22 +18,21 @@
 - Arc Tavian, Seraphine, Kael, Mira, Daren, dan Ilyra telah dipetakan ke fungsi penutup.
 - Mystery ledger dan batas pengungkapan delapan buku telah diperiksa.
 - Kerangka 20 scene telah dibuat sebagai struktur awal.
-- Makna judul *The Dancing Demon* belum ditetapkan dan sengaja tidak ditebak.
+- Working meaning *The Dancing Demon* telah dipilih: metafora pola interpretasi yang terus berubah, bukan satu monster atau Abstract Existence; status tetap NON-CANON sampai disahkan pengguna.
 - Konflik lapangan, lokasi, institusi, dan kejadian baru dalam outline tetap NON-CANON.
 - Outline belum final dan belum ada prosa Buku VIII.
 
 ## Gerbang sebelum penulisan prosa
 
-1. Tetapkan makna objektif judul, arti “Dancing”, dan referen “Demon”.
-2. Tentukan misteri yang wajib dijawab secara eksplisit selain judul.
-3. Tentukan keadaan akhir LEAX dan enam karakter, atau putuskan misteri mana yang sengaja tetap UNKNOWN.
-4. Spesifikasikan konflik lapangan final dan rantai sebab-akibatnya.
-5. Revisi bagian V outline berdasarkan keputusan kreator.
-6. Buat Character Knowledge Matrix dan Mystery Timing Audit Buku VIII.
+1. Tentukan misteri yang wajib dijawab secara eksplisit selain judul.
+2. Tentukan keadaan akhir LEAX dan enam karakter, atau putuskan misteri mana yang sengaja tetap UNKNOWN.
+3. Spesifikasikan konflik lapangan final dan rantai sebab-akibatnya.
+4. Revisi bagian V outline sesuai perkembangan draft.
+5. Perkuat Character Knowledge Matrix dan Mystery Timing Audit selama penulisan.
 
 ## Batas keputusan
 
-- Tidak ada makna judul baru yang ditetapkan.
+- Working meaning judul telah diusulkan sebagai metafora; belum menjadi fakta CANON.
 - Abstract Existence tidak diubah menjadi antagonis konvensional.
 - Tidak ada isi atau hubungan objektif baru bagi 13 Prasasti.
 - Tidak ada mekanisme baru untuk NVR AGAIN, jubah mana hitam, atau Resonansi Hitam.
