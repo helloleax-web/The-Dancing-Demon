@@ -2,7 +2,7 @@
 ## Source Audit & Creator Decision Register — Draft 0.1
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
-**Tujuan:** mengumpulkan kewajiban naratif CANON dan keputusan kreatif yang masih terbuka sebelum outline final Buku VIII disusun. Dokumen ini tidak menetapkan makna judul, ending, nasib karakter, atau jawaban misteri baru.
+**Tujuan:** mengumpulkan kewajiban naratif CANON dan keputusan kreatif yang masih terbuka untuk Buku VIII. Makna judul telah disahkan dalam dokumen CANON khusus; ending, nasib karakter, dan jawaban misteri lain tetap terbuka.
 
 ## 1. Fungsi Buku VIII yang telah ditetapkan
 
@@ -72,7 +72,7 @@ Semua detail publikasi dan reaksi masyarakat dalam manuskrip Buku VII masih NON-
 
 | Misteri | Kewajiban Buku VIII | Batas yang tetap berlaku |
 |---|---|---|
-| Makna judul The Dancing Demon | Harus diungkap ketika konvergensi cerita siap | Working meaning NON-CANON: metafora pola interpretasi yang berubah-ubah, bukan satu monster; lihat Title Meaning Proposal |
+| Makna judul The Dancing Demon | Makna tematik telah disahkan; perlu payoff dramatis | Metafora pola interpretasi manusia; bukan satu monster atau Abstract Existence |
 | 13 Prasasti | Memberi payoff pada fungsi dan makna naratif rangkaian sejauh sumber dan keputusan kreator mengizinkan | Tidak wajib menjelaskan fungsi objektif, pembuat, lokasi, asal, periode, atau setiap baris |
 | NVR AGAIN | Memberi payoff tematik sesuai keputusan kreator | Asal musik, pencipta, penyebaran, dan mekanisme tidak otomatis terjawab |
 | Great War | Menyelesaikan konsekuensi sejarah yang telah dibangun | Tidak wajib menjawab semua penyebab, pihak, kronologi, korban, dan dampak politik |
@@ -81,7 +81,7 @@ Semua detail publikasi dan reaksi masyarakat dalam manuskrip Buku VII masih NON-
 | Abstract Existence | Mempertahankan batas kosmologi dan konsekuensi pengaruhnya | Motif, bentuk, kesadaran, dan batas kemampuan boleh tetap misteri |
 | Pihak yang membayar Kael / kontak tak dikenal | Dapat menjadi bagian konflik personal jika diperlukan | Identitas, tujuan, dan nasib mereka belum ditetapkan |
 
-## 6. Arah makna judul yang dipilih untuk draft
+## 6. Makna judul yang telah disahkan CANON
 
 Kreator telah mengesahkan makna judul ini sebagai CANON pada 2026-11-26. Rumusan resminya tercatat di `01-CANON/The-Dancing-Demon-Title-Meaning.md`:
 
@@ -91,7 +91,7 @@ Kreator telah mengesahkan makna judul ini sebagai CANON pada 2026-11-26. Rumusan
 - **Dancing:** perubahan bentuk interpretasi ketika motif berpindah antara orang, sumber, dan sudut pandang. Prasasti III berjudul *Dancing with Your Eyes Closed*, tetapi judul tersebut tidak membuktikan adanya makhluk yang menari.
 - **The:** menunjuk pada pola berulang dalam cara manusia menafsirkan ketidakpastian, bukan satu sosok tunggal.
 
-Rujukan lengkap, dasar sumber, dan batas pemaknaan ada di [The Dancing Demon — Title Meaning Proposal — Draft 0.1](The-Dancing-Demon-Title-Meaning-Proposal-Draft-0.1.md).
+Rujukan lengkap, dasar sumber, dan batas pemaknaan ada di [The Dancing Demon — Makna Judul Seri](../../01-CANON/The-Dancing-Demon-Title-Meaning.md).
 
 Makna ini telah menjadi CANON. Ia mengesahkan makna tematik judul saja dan tidak mengubah fakta objektif Prasasti atau kosmologi.
 
