@@ -1,15 +1,15 @@
-# Book IV — Manuscript Index — Draft 0.5
+# Book IV — Manuscript Index — Draft 0.6
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
-**Progress:** 20 scene prosa; Chapter 1 memiliki Revision Draft 0.3 setelah koreksi transisi Buku III; Chapters 2–4 memiliki Revision Draft 0.2. Pembedaan objek Northglass dan naskah interpretasi dipertahankan sebagai model kerja NON-CANON.  
+**Progress:** 20 scene prosa; Chapter 1 memiliki Revision Draft 0.3 setelah koreksi transisi Buku III; Chapter 2 memiliki Revision Draft 0.2; Chapters 3–4 memiliki Revision Draft 0.3 setelah keputusan mekanisme B. Pembedaan objek Northglass dan naskah interpretasi dipertahankan sebagai model kerja NON-CANON.  
 **Jumlah kata:** sekitar 4.550 kata adalah baseline pass pertama; hitungan ulang dilakukan setelah line edit dan revisi seluruh bab.
 
 ## Struktur bab
 
 1. [Bab 1 — Jejak di Luar Fasilitas](Book-IV-Manuscript-Chapter-01-Draft-0.1.md) — Scenes 1–5 (revision 0.2)
 2. [Bab 2 — Batu yang Tidak Terbaca](Book-IV-Manuscript-Chapter-02-Draft-0.1.md) — Scenes 6–10 (revision 0.2)
-3. [Bab 3 — Nama yang Terlepas](Book-IV-Manuscript-Chapter-03-Revision-Draft-0.2.md) — Scenes 11–15 (revision 0.2)
-4. [Bab 4 — Setelah Nama Ditemukan](Book-IV-Manuscript-Chapter-04-Revision-Draft-0.2.md) — Scenes 16–20 (revision 0.2)
+3. [Bab 3 — Nama yang Terlepas](Book-IV-Manuscript-Chapter-03-Revision-Draft-0.3.md) — Scenes 11–15 (revision 0.2)
+4. [Bab 4 — Setelah Nama Ditemukan](Book-IV-Manuscript-Chapter-04-Revision-Draft-0.3.md) — Scenes 16–20 (revision 0.2)
 
 ## Versi aktif setelah koreksi transisi Buku III
 
@@ -20,8 +20,8 @@
 
 ## Dokumen pengembangan
 
-- [Book IV Scene Outline — Draft 0.4](Book-IV-Scene-Outline-Draft-0.4.md) — revisi batas medium dan transliterasi.
-- [Book IV Character Knowledge Matrix — Draft 0.5](Book-IV-Character-Knowledge-Matrix-Draft-0.4.md) — jendela pengetahuan terbaru.
+- [Book IV Scene Outline — Draft 0.5](Book-IV-Scene-Outline-Draft-0.5.md) — revisi batas medium dan transliterasi.
+- [Book IV Character Knowledge Matrix — Draft 0.6](Book-IV-Character-Knowledge-Matrix-Draft-0.6.md) — jendela pengetahuan terbaru.
 - [Book IV Manuscript Continuity Audit — Draft 0.6](Book-IV-Manuscript-Continuity-Audit-Draft-0.4.md) — audit terbaru setelah pembedaan objek Northglass dan naskah interpretasi.
 - [Book IV Manuscript Continuity Audit — Draft 0.1](Book-IV-Manuscript-Continuity-Audit-Draft-0.1.md) — audit awal yang diarsipkan.
 - [Book IV Outline Audit — Draft 0.1](Book-IV-Outline-Audit-Report-Draft-0.1.md) — audit struktur awal.
@@ -46,7 +46,7 @@
 
 ## Produksi manga
 
-- [Book IV Manga Storyboard Index — Draft 0.2](Book-IV-Manga-Storyboard-Index-Draft-0.2.md) — empat storyboard, 74 halaman dan 370 panel.
+- [Book IV Manga Storyboard Index — Draft 0.3](Book-IV-Manga-Storyboard-Index-Draft-0.3.md) — empat storyboard, 74 halaman dan 370 panel.
 - [Book IV Manga Storyboard Audit — Draft 0.2](Book-IV-Manga-Storyboard-Audit-Report-Draft-0.2.md) — audit visual setelah klarifikasi transliterasi.
 - Storyboard Bab 3 dan 4 sudah diselaraskan; pemeriksaan final dilakukan setelah revisi prosa berikutnya.
 
@@ -77,3 +77,15 @@
 - [Book IV — Prasasti I Discovery Mechanism — Creator Decision Brief Draft 0.1](Book-IV-Prasasti-I-Discovery-Mechanism-Decision-Brief-Draft-0.1.md)
 - Status: OPEN QUESTION. Rekomendasi editorial sementara Opsi B, belum disahkan kreator.
 - Bab 2–4 dan storyboard Bab 2–4 ditahan dari sinkronisasi final sampai keputusan mekanisme dibuat.
+
+
+## Keputusan kreator dan revisi mekanisme — Draft 0.6
+
+- Kreator menyerahkan pilihan mekanisme kepada editor; Opsi B dipilih sebagai keputusan pengembangan: Northglass mengantar penyelidikan kepada naskah interpretasi Prasasti I dan salinan bunyi yang disimpan bersamanya.
+- Nama NVR AGAIN pertama kali diketahui pada Scene 14 dari judul naskah interpretasi, bukan dari transliterasi langsung guratan Northglass.
+- [Book IV Chapter 3 — Revision Draft 0.3](Book-IV-Manuscript-Chapter-03-Revision-Draft-0.3.md)
+- [Book IV Chapter 4 — Revision Draft 0.3](Book-IV-Manuscript-Chapter-04-Revision-Draft-0.3.md)
+- [Book IV Scene Outline — Draft 0.5](Book-IV-Scene-Outline-Draft-0.5.md)
+- [Book IV Discovery Mechanism Implementation Audit — Draft 0.1](Book-IV-Discovery-Mechanism-Implementation-Audit-Draft-0.1.md)
+- Lokasi penyimpanan, penjaga, asal-usul, riwayat perpindahan, dan mekanisme penghubung Northglass ke materi Prasasti I tetap OPEN QUESTION. Tidak ditetapkan sebagai CANON.
+- Storyboard Bab 3–4 harus direvisi agar pengungkapan nama berasal dari judul naskah; storyboard lama belum dianggap sinkron dengan Revision Draft 0.3.
