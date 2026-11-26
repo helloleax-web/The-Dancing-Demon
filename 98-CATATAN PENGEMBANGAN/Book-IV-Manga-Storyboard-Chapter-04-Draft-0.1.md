@@ -79,7 +79,7 @@
 ## Halaman 10 — Salinan Dibagikan
 **Panel 1.** Setiap salinan diberi nomor.
 **Panel 2.** Metadata: tanggal, sumber, metode, bagian tidak pasti.
-**Panel 3.** Ilyra memeriksa ulang bentuk nama pada salinan.
+**Panel 3.** Ilyra memeriksa ulang bentuk dan urutan transliterasi pada salinan.
 **Panel 4.** Seraphine menambahkan bahwa bagian lain belum diterjemahkan.
 **Panel 5.** Semua pihak menerima salinan sesuai kesepakatan.
 
@@ -91,9 +91,9 @@
 **Panel 5.** Daren memeriksa batas keselamatan.
 
 ## Halaman 12 — Prasasti Pertama
-**Panel 1.** Ilyra menulis catatan pembacaan.
-**Panel 2.** Ia menyatakan satu rangkaian dapat dibaca sebagai nama NVR AGAIN.
-**Panel 3.** Bagian lain tetap belum dapat diterjemahkan.
+**Panel 1.** Ilyra menulis catatan transliterasi.
+**Panel 2.** Ia menyatakan satu rangkaian tanda dapat ditransliterasikan sebagai NVR AGAIN.
+**Panel 3.** Bagian lain tetap belum diterjemahkan; nama itu tidak menjelaskan seluruh teks.
 **Panel 4.** Pada halaman laporan tertulis: “Prasasti pertama yang berhasil diidentifikasi dalam penyelidikan ini.”
 **Panel 5.** Tidak ada daftar atau jumlah Prasasti lain ditampilkan.
 
@@ -134,12 +134,13 @@
 
 ## Halaman 18 — Pertanyaan Setelah Nama
 **Panel 1.** Daren membagi ulang beban dokumentasi.
-**Panel 2.** Tavian menulis: penemuan memberi nama, bukan penjelasan asal atau makna.
+**Panel 2.** Tavian menulis: transliterasi memberi nama, bukan penjelasan asal atau makna.
 **Panel 3.** Seraphine menyebut buku sejarah, kesaksian, dan catatan perang sebagai sumber yang perlu diperiksa.
 **Panel 4.** Ilyra menutup map; Kael berjalan di sisi Tavian.
 **Panel 5 — Final wide.** Jalan bercabang ke depan. Narasi: “Mereka telah menemukan nama NVR AGAIN. Untuk memahami konteksnya, mereka harus mencari sumber lain.”
 
 ## Catatan adaptasi
+- NVR AGAIN adalah transliterasi satu rangkaian tanda, bukan terjemahan seluruh teks.
 - Jangan menambahkan makna atau referen untuk NVR AGAIN.
 - Jangan menghubungkan nama dengan musik, Great War, LEAX, atau Resonansi Hitam melalui visual kilas balik.
 - Batu tetap berada di lokasi; tidak ada bagian dipisahkan.
