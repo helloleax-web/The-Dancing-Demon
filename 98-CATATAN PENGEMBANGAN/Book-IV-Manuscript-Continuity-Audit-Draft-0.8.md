@@ -1,5 +1,5 @@
 # Book IV — Manuscript Continuity Audit
-## Draft 1.3 — Access Note Sharing and Proofread 0.2
+## Draft 1.4 — Chapter 4 Proofread 0.3
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Ruang lingkup:** manuskrip Chapters 1–4 Revision Draft 0.4/0.3, transisi Book III–IV, CANON *Thirteen Prasasti*, dan metode penafsiran CANON.
