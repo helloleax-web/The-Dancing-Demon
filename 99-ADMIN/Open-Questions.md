@@ -20,7 +20,7 @@ Dokumen ini mencatat hal yang belum ditentukan. Pertanyaan terbuka dapat dikemba
 - Penyebab, pihak yang terlibat, durasi, lokasi, korban, dan dampak politik.
 - Asal-usul musik NVR AGAIN dan mekanisme jubah mana hitam.
 - Hubungan pasti Resonansi Hitam dengan 13 Prasasti.
-- Hubungan spesifik objek Northglass dengan naskah interpretasi Prasasti I: Northglass mengantar penyelidikan kepada naskah dan salinan bunyi dalam model pengembangan NON-CANON yang dipilih; hubungan asal-usul, lokasi penyimpanan, penjaga, riwayat perpindahan, dan mekanisme penghubung tetap OPEN QUESTION. Nama NVR AGAIN diungkap dari judul naskah pada Scene 14. Lihat Book IV Discovery Mechanism Implementation Audit.
+- Hubungan spesifik objek Northglass dengan naskah interpretasi Prasasti I: dalam model pengembangan NON-CANON, Northglass menjadi titik awal penyelidikan; Jorren menyampaikan rujukan terbatas kepada penjaga kumpulan dokumen anonim, yang memberi izin konsultasi terawasi di tempat. Nama NVR AGAIN diungkap dari judul naskah pada Scene 14. Yang tetap OPEN QUESTION: identitas penjaga, lokasi geografis, kepemilikan sah/kewenangan, provenance, riwayat perpindahan, autentikasi, pengetahuan penjaga tentang asal-usul, dan hubungan material/historis Northglass–Prasasti I. Lihat Book IV Prasasti I Access and Provenance Decision Brief Draft 0.2.
 
 ## LEAX
 - Identitas dan latar belakang lengkap.
