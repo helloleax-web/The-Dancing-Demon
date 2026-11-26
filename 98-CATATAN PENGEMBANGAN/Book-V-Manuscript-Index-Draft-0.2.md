@@ -274,3 +274,12 @@
 - Hasil ini belum mengunci rasio halaman seluruh buku. Tes Scene 4 dan pertimbangan media publikasi masih diperlukan.
 - Board PNG dibuat di sesi kerja dan belum disimpan sebagai aset biner repository.
 - Semua materi NON-CANON; tidak ada perubahan CANON.
+
+
+## Uji rasio halaman dan tata letak panel — Bab 1 Scene 4
+
+- [Book V Scene 4 Page Ratio Test — Draft 0.1](Book-V-Scene-4-Page-Ratio-Test-Draft-0.1.md) — perbandingan format halaman 4:5 dan 2:3 untuk tujuh panel Scene 4.
+- Format 4:5 sementara lebih fleksibel untuk dua dokumen berdampingan dan tabel kronologi empat kolom; 2:3 memberi ritme vertikal lebih bertahap.
+- Keempat scene Bab 1 kini telah diuji pada format 4:5 dan 2:3. Rasio seluruh buku belum dikunci; target media, ukuran cetak, gutter, bleed, dan tipografi masih terbuka.
+- Board PNG dibuat di sesi kerja dan belum disimpan sebagai aset biner di repository.
+- Semua materi NON-CANON; tidak ada perubahan CANON.
