@@ -120,8 +120,16 @@ Atas arahan kreator, revision pass 0.2 untuk Bab 1 dan Bab 2 Buku IV disahkan se
 - Persetujuan ini mengesahkan arah editorial sebagai materi pengembangan saja. Semua tokoh pendukung, lokasi spesifik, prosedur, dan adegan tetap NON-CANON.
 - Tidak ada fakta lore baru yang disahkan sebagai CANON.
 
+## ED-06 — Sinkronisasi storyboard Buku IV Bab 1–2 — DISETUJUI UNTUK PENGEMBANGAN
+
+Storyboard Bab 1 dan Bab 2 diselaraskan dengan manuskrip revision 0.2.
+- Bab 1 memperlihatkan batas kewenangan Jorren dan perlunya membahas penyebaran lokasi rinci dengan pengguna jalur setempat.
+- Bab 2 memperlihatkan dokumentasi per bidang, klasifikasi guratan, dan jejak versi salinan.
+- Total storyboard Buku IV tetap 74 halaman dan 370 panel. Tidak ada perubahan pada jendela pengungkapan: NVR AGAIN tetap pertama muncul pada Bab 3, Halaman 15.
+- Sinkronisasi ini adalah persetujuan editorial NON-CANON, bukan finalisasi artwork atau layout manga.
+
 ## Penutup
 
-Tiga item CD-01 sampai CD-03 telah ditangani untuk kebutuhan pengembangan: CD-01 menggunakan pembedaan medium sementara NON-CANON; CD-02 menggunakan fakta LEAX minimum yang telah CANON; CD-03 menyelaraskan status pedoman metode dengan header dan fungsinya. Pass revisi Bab 2 dan Bab 4 Buku V disahkan untuk pengembangan melalui ED-04. Pass revisi Bab 1 dan Bab 2 Buku IV disahkan untuk pengembangan melalui ED-05. Semua detail sumber dan adegan yang baru tetap NON-CANON.
+Tiga item CD-01 sampai CD-03 telah ditangani untuk kebutuhan pengembangan: CD-01 menggunakan pembedaan medium sementara NON-CANON; CD-02 menggunakan fakta LEAX minimum yang telah CANON; CD-03 menyelaraskan status pedoman metode dengan header dan fungsinya. Pass revisi Bab 2 dan Bab 4 Buku V disahkan untuk pengembangan melalui ED-04. Pass revisi Bab 1 dan Bab 2 Buku IV disahkan untuk pengembangan melalui ED-05. Sinkronisasi storyboard Bab 1–2 Buku IV disahkan melalui ED-06. Semua detail sumber dan adegan yang baru tetap NON-CANON.
 
 **Tidak ada keputusan CANON baru yang dibuat dalam register ini.**
