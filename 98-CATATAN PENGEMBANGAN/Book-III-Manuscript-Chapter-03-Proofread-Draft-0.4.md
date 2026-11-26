@@ -4,7 +4,7 @@
 
 **Status: CATATAN PENGEMBANGAN / NON-CANON.**  
 **Basis:** Book III Scene Outline Draft 0.2; Chapter 2 Revision Draft 0.2; Character Bible; Book III Continuity Audit Draft 0.4.  
-**Catatan:** Revisi ini tidak menetapkan pemilik, penguasa, atau pemberi izin resmi Hollow Vale. Akses legal dan kewenangan atas situs tetap OPEN QUESTION. Adegan dibatasi pada bagian yang sudah terbuka dan dapat dicapai tanpa membongkar struktur atau melewati penghalang yang diketahui.
+**Catatan:** Jalur cerita yang dipilih adalah pemeriksaan tanpa izin terkonfirmasi (keputusan kreator B). Naskah tidak menetapkan pemilik, penguasa, atau pemberi izin resmi Hollow Vale. Siapa yang berwenang tetap OPEN QUESTION. Kelompok sadar bahwa akses mereka dapat dipersoalkan; batas pemeriksaan tidak dianggap sebagai izin.
 
 ### Scene 8 — Ruang Penyimpanan
 
@@ -24,7 +24,9 @@ Mira mengamati lereng di belakang mereka. “Aku tidak punya catatan tentang sia
 
 “Berarti kita tidak akan mengaku punya izin yang belum kita dapatkan,” jawab Tavian.
 
-Keputusan itu tidak menyelesaikan persoalan akses. Mereka tetap belum tahu siapa, jika ada, yang memiliki kewenangan atas situs. Untuk saat ini, pemeriksaan dibatasi pada ruang yang terbuka akibat kerusakan dan dapat didokumentasikan tanpa mengubah keadaan.
+Keputusan itu tidak memberi mereka dasar izin. Mereka tahu belum memperoleh persetujuan dari pihak yang berwenang, dan mereka tetap tidak tahu siapa pihak tersebut. Seraphine menyebut risiko itu secara langsung: pemeriksaan mereka dapat dipersoalkan meskipun dilakukan tanpa membongkar struktur atau memindahkan benda.
+
+Tavian menatap celah itu sejenak. Mereka bisa menghentikan pemeriksaan dan menunggu kejelasan yang belum tentu datang, atau melanjutkan dengan batas yang ketat sambil menerima bahwa batas tersebut tidak membuat akses mereka sah. Setelah memastikan semua orang memahami risikonya, kelompok memilih melanjutkan pemeriksaan terbatas.
 
 Tavian masuk lebih dulu. Ia berhenti beberapa langkah dari ambang dan memeriksa permukaan lantai. Daren tetap di luar, mengawasi bagian dinding yang retak. Seraphine masuk setelah Tavian memberi tanda bahwa jalur pendek itu tidak menunjukkan perubahan.
 
@@ -185,6 +187,7 @@ Mereka kembali bekerja. Tidak terjadi pertengkaran ataupun ancaman. Namun, sejak
 - Naskah dibaca ulang sebagai rangkaian bab untuk memeriksa tata bahasa, kejelasan rujukan, repetisi, konsistensi istilah, dan kesinambungan adegan.
 - Koreksi yang diterapkan mempertahankan urutan peristiwa, batas pengetahuan karakter, dan semua misteri yang belum terjawab.
 - Bab ini tetap CATATAN PENGEMBANGAN / NON-CANON; tidak ada perubahan CANON.
-- Isu akses legal Hollow Vale tetap OPEN QUESTION dan belum dianggap terselesaikan.
+- Jalur cerita pemeriksaan tanpa izin terkonfirmasi telah dipilih oleh kreator; kewenangan dan status legal situs tetap UNKNOWN/OPEN QUESTION.
+- Kelompok tidak menganggap tidak adanya penghalang sebagai izin dan tidak menganggap pembatasan tindakan sebagai pembenaran legal.
 
-**Status:** proofread pass awal selesai; masih menunggu audit gabungan dan keputusan kreator atas isu terbuka.
+**Status:** proofread pass awal selesai; keputusan jalur cerita telah diterapkan, tetapi final read-through dan audit akhir masih diperlukan.
