@@ -1,15 +1,15 @@
 # Book IV — Manuscript Continuity Audit
-## Draft 1.0 — Access Route A Implemented
+## Draft 1.1 — Proofread Pass 0.1
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Ruang lingkup:** manuskrip Chapters 1–4 Revision Draft 0.4/0.3, transisi Book III–IV, CANON *Thirteen Prasasti*, dan metode penafsiran CANON.
 
 ## 1. Versi aktif
 
-- Chapter 1 — Revision Draft 0.4.
-- Chapter 2 — Revision Draft 0.3.
-- Chapter 3 — Revision Draft 0.5.
-- Chapter 4 — Revision Draft 0.5.
+- Chapter 1 — Proofread Draft 0.1 (basis Revision Draft 0.4).
+- Chapter 2 — Proofread Draft 0.1 (basis Revision Draft 0.3).
+- Chapter 3 — Proofread Draft 0.1 (basis Revision Draft 0.5).
+- Chapter 4 — Proofread Draft 0.1 (basis Revision Draft 0.5).
 - Scene Outline — Draft 0.6.
 - Character Knowledge Matrix — Draft 0.7.
 
@@ -52,11 +52,11 @@ Chapter 3 Scene 11–12 kini menjelaskan jalur akses pada level pengembangan: Jo
 
 - Line edit empat bab: selesai.
 - Pemeriksaan mekanis awal: selesai.
-- Proofread final manual: belum selesai.
+- Proofread pass manual per bab: selesai pada Draft 0.1; audit final lintas bab dan persetujuan kreator belum selesai.
 - Storyboard cross-check empat bab: diperbarui untuk akses terbatas pada Chapter 3 Revision 0.3 dan Chapter 4 Revision 0.3; belum ada thumbnail/page-rhythm/lettering/layout.
 - Sinkronisasi storyboard Bab 2 ke revisi prosa terbaru: perlu verifikasi versi.
 - Persetujuan kreator: belum ada.
 
-**Kesimpulan:** Buku IV lebih rapi secara bahasa dan konsistensi sumber, tetapi belum final. Jalur akses naratif kini diterapkan dan disinkronkan pada prosa, outline, matriks pengetahuan, dan storyboard Bab 3. Provenance tetap terbuka; proofread final masih ditahan sampai audit lintas dokumen dan pembacaan manual berikutnya selesai.
+**Kesimpulan:** Buku IV lebih rapi secara bahasa dan konsistensi sumber, tetapi belum final. Jalur akses naratif kini diterapkan dan disinkronkan pada prosa, outline, matriks pengetahuan, dan storyboard Bab 3. Provenance tetap terbuka; proofread pass manual per bab telah dilakukan dan diterbitkan sebagai Draft 0.1. Final audit lintas bab, sinkronisasi storyboard terakhir, dan persetujuan kreator masih tertunda.
 
 **Dampak CANON: tidak ada.**
