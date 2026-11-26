@@ -1,15 +1,15 @@
 # Book IV — Manuscript Index
-## Draft 0.9 — Access Route Implemented
+## Draft 1.0 — Proofread Drafts Published
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
-**Progress:** 20 scene prosa dalam empat bab. Line edit pass telah dilakukan pada seluruh bab; proofread final belum selesai.
+**Progress:** 20 scene prosa dalam empat bab. Line edit selesai; Proofread Draft 0.1 diterbitkan untuk keempat bab setelah pass pembacaan manual. Audit lintas bab dan persetujuan final masih tertunda.
 
 ## 1. Manuskrip aktif
 
-1. [Bab 1 — Jejak di Luar Fasilitas, Revision Draft 0.4](Book-IV-Manuscript-Chapter-01-Revision-Draft-0.4.md) — Scenes 1–5.
-2. [Bab 2 — Batu yang Tidak Terbaca, Revision Draft 0.3](Book-IV-Manuscript-Chapter-02-Revision-Draft-0.3.md) — Scenes 6–10.
-3. [Bab 3 — Nama yang Terlepas, Revision Draft 0.5](Book-IV-Manuscript-Chapter-03-Revision-Draft-0.4.md) — Scenes 11–15.
-4. [Bab 4 — Setelah Nama Ditemukan, Revision Draft 0.5](Book-IV-Manuscript-Chapter-04-Revision-Draft-0.4.md) — Scenes 16–20.
+1. [Bab 1 — Jejak di Luar Fasilitas, Proofread Draft 0.1](Book-IV-Manuscript-Chapter-01-Proofread-Draft-0.1.md) — Scenes 1–5.
+2. [Bab 2 — Batu yang Tidak Terbaca, Proofread Draft 0.1](Book-IV-Manuscript-Chapter-02-Proofread-Draft-0.1.md) — Scenes 6–10.
+3. [Bab 3 — Nama yang Terlepas, Proofread Draft 0.1](Book-IV-Manuscript-Chapter-03-Proofread-Draft-0.1.md) — Scenes 11–15.
+4. [Bab 4 — Setelah Nama Ditemukan, Proofread Draft 0.1](Book-IV-Manuscript-Chapter-04-Proofread-Draft-0.1.md) — Scenes 16–20.
 
 ## 2. Dokumen kontinuitas dan keputusan
 
@@ -53,10 +53,10 @@ Jangan menetapkan jawaban atas hal-hal tersebut sebagai CANON tanpa dasar atau k
 
 ## 6. Status
 
-**Line edit:** selesai untuk empat bab; Bab 3 Revision 0.5 dan Bab 4 Revision 0.5 memuat sinkronisasi akses terbatas.  
+**Line edit:** selesai untuk empat bab. **Proofread:** Proofread Draft 0.1 tersedia untuk keempat bab; final cross-chapter proofread dan persetujuan kreator masih tertunda.  
 **Proofread mekanis awal:** pemeriksaan jumlah scene, istilah kunci, dan pengulangan kata telah dilakukan.  
-**Proofread final:** belum selesai.  
-**Blocking naratif akses:** selesai pada level draft; Opsi A telah diterapkan sebagai keputusan pengembangan NON-CANON. **Provenance:** tetap OPEN QUESTION dan tidak diklaim terverifikasi.  
+**Proofread final:** pass manual per bab selesai pada Draft 0.1; final audit lintas bab dan persetujuan kreator belum selesai.  
+**Blocking naratif akses:** selesai pada level draft; Opsi A diterapkan sebagai keputusan pengembangan NON-CANON. **Provenance:** tetap OPEN QUESTION dan tidak diklaim terverifikasi.  
 **Storyboard:** Bab 3 Revision 0.3 dan Bab 4 Revision 0.3 disinkronkan dengan batas konsultasi terawasi; Bab 1–2 tetap baseline yang telah diperiksa. Thumbnail, page-rhythm review, lettering, layout, dan persetujuan kreator belum dilakukan.
 
 **Dampak CANON: tidak ada.** Opsi A diterapkan hanya sebagai keputusan pengembangan NON-CANON.
