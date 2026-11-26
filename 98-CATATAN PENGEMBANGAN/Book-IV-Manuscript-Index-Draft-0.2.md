@@ -1,4 +1,4 @@
-# Book IV — Manuscript Index — Draft 0.2
+# Book IV — Manuscript Index — Draft 0.3
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Progress:** 20 scene prosa awal; audit kontinuitas 0.2 dan klarifikasi transliterasi.  
@@ -15,24 +15,24 @@
 
 - [Book IV Scene Outline — Draft 0.2](Book-IV-Scene-Outline-Draft-0.2.md) — revisi batas medium dan transliterasi.
 - [Book IV Character Knowledge Matrix — Draft 0.2](Book-IV-Character-Knowledge-Matrix-Draft-0.2.md) — jendela pengetahuan terbaru.
-- [Book IV Manuscript Continuity Audit — Draft 0.2](Book-IV-Manuscript-Continuity-Audit-Draft-0.2.md) — audit terbaru, termasuk OPEN QUESTION mengenai medium Prasasti.
+- [Book IV Manuscript Continuity Audit — Draft 0.3](Book-IV-Manuscript-Continuity-Audit-Draft-0.2.md) — audit terbaru setelah pembedaan objek Northglass dan naskah interpretasi.
 - [Book IV Manuscript Continuity Audit — Draft 0.1](Book-IV-Manuscript-Continuity-Audit-Draft-0.1.md) — audit awal yang diarsipkan.
 - [Book IV Outline Audit — Draft 0.1](Book-IV-Outline-Audit-Report-Draft-0.1.md) — audit struktur awal.
 
-## Koreksi pada pass 0.2
+## Koreksi pada revision pass 0.2
 
 1. Scene 12–14 memperjelas bahwa Ilyra mentransliterasikan satu rangkaian tanda yang utuh, bukan menerjemahkan seluruh prasasti.
 2. Nama NVR AGAIN pertama muncul dalam narasi pada Scene 14.
 3. Makna dan referen nama tetap UNKNOWN; tidak ada hubungan dengan musik Great War atau LEAX yang dinyatakan.
 4. Arah riset Great War pada penutup tetap kemungkinan pencarian sumber, bukan pengetahuan karakter.
-5. Audit menandai hubungan batu fisik Northglass dengan bentuk naskah interpretasi keturunan LEAX sebagai OPEN QUESTION.
+5. Revision 0.2 membedakan objek bertulis Northglass sebagai artefak fisik terkait penemuan Prasasti I dari naskah interpretasi keturunan LEAX yang merupakan dokumen CANON tersendiri. Hubungan asal-usul/informasi di antara keduanya tetap UNKNOWN.
 6. Semua detail situs, izin, organisasi dalam peran operasional, dan metode transliterasi tetap NON-CANON.
 
 ## Status utama
 
 - Buku IV memenuhi fungsi pengungkapan nama NVR AGAIN melalui penemuan Prasasti pertama.
 - Jendela pengungkapan dijaga: tidak ada NVR AGAIN dalam narasi sebelum Scene 14.
-- Buku IV belum final; medium Prasasti, metode transliterasi, izin situs, dan konflik hak dokumentasi masih perlu diperjelas.
+- Buku IV belum final; metode transliterasi, izin situs, konflik hak dokumentasi, dan pengembangan prosa masih perlu diperjelas. Model medium Northglass sudah dipakai sebagai keputusan pengembangan NON-CANON.
 - Prosa masih pendek dan membutuhkan pengembangan adegan, bukan sekadar penambahan penjelasan.
 
 ## Produksi manga
