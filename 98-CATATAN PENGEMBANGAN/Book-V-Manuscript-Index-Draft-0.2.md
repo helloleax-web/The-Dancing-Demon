@@ -409,3 +409,11 @@
 - [Book V Scene 1, Panel 1.3 — Thumbnail Draft 0.1](Book-V-Scene-01-Panel-1-3-Thumbnail-Draft-0.1.md) — medium-group staging dengan enam anggota rombongan; diskusi tetap berlangsung sambil berjalan.
 - Tavian memeriksa lembar, Kael berkomentar, Ilyra menjelaskan batas pembacaan, dan Seraphine sedikit di depan memeriksa daftar dokumen. Mira dan Daren tetap hadir tanpa aksi tambahan.
 - Layout manual diterima sebagai studi komposisi NON-CANON; bukan ilustrasi final. Dampak CANON nihil.
+
+
+
+### Scene 1 — Panel 1.4 thumbnail
+
+- [Book V Scene 1, Panel 1.4 — Thumbnail Draft 0.1](Book-V-Scene-01-Panel-1-4-Thumbnail-Draft-0.1.md) — wide-group staging di persimpangan dengan tiga subaksi: Seraphine-catatan, Mira-peta lokal, Daren-ikatan tas.
+- Tavian, Kael, dan Ilyra tetap hadir dalam rombongan. Dua arah hanya percabangan abstrak; tidak ada detail rute/geografi yang ditetapkan.
+- Layout manual diterima untuk staging, bukan ilustrasi final. Semua materi NON-CANON; dampak CANON nihil.
