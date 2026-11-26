@@ -152,3 +152,36 @@ Pemeriksaan batas isi:
 **Status:** layout manual Scene 3 Draft 0.1 selesai; menunggu review komposisi.  
 **Aset PNG:** dibuat dalam sesi kerja; belum disimpan sebagai file biner di repository.  
 **Dampak CANON:** tidak ada.
+
+
+## Thumbnail manual Scene 4 — 2026-11-27
+
+Layout manual Scene 4 — Kronologi yang Tidak Cocok — dibuat sebagai Draft 0.1 dengan tujuh panel. Layout memakai kotak komposisi abstrak dan deskripsi panel, bukan ilustrasi karakter/lokasi final.
+
+Pemeriksaan isi:
+- Dua dokumen memakai sistem penanggalan berbeda; tidak ada nama kalender atau angka tanggal yang ditambahkan.
+- Neral hanya menunjuk masalah perbandingan tanpa konversi.
+- Tiga kategori tanggal dan tabel empat kolom mengikuti istilah naskah.
+- Entri LEAX dipisahkan sebagai fakta sejarah: hanya menyebut bahwa LEAX menghilang setelah Great War. Tidak ada gambar LEAX atau adegan hilangnya.
+- Tidak ada visualisasi perang, lokasi hilangnya, sebab, atau kronologi tambahan.
+
+**Status:** layout komposisi manual selesai; belum menjadi ilustrasi final. NON-CANON.
+
+## Audit jumlah panel Bab 1
+
+Storyboard per scene menghasilkan:
+- Scene 1: 5 panel (1.1–1.5)
+- Scene 2: 7 panel (2.1–2.7)
+- Scene 3: 8 panel (3.1–3.8)
+- Scene 4: 7 panel (4.1–4.7)
+
+**Total yang benar: 27 panel, bukan 25.** Penyebutan “25 panel” pada concept sheet dan beberapa catatan produksi sebelumnya adalah kesalahan hitung. Rincian per-scene dalam storyboard dan naskah tidak diubah; metadata produksi harus diselaraskan menjadi 27 panel.
+
+## Status layout manual Bab 1
+
+- Scene 1: layout manual Draft 0.2, lima panel.
+- Scene 2: layout manual Draft 0.1, tujuh panel.
+- Scene 3: layout manual Draft 0.1, delapan panel.
+- Scene 4: layout manual Draft 0.1, tujuh panel.
+- Total layout manual: 27 panel dari 27 panel storyboard.
+- Semua layout berupa panduan komposisi, bukan artwork final; karakter/lokasi tetap belum dikunci dan semua materi NON-CANON.
