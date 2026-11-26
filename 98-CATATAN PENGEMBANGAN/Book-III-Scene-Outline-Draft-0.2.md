@@ -147,7 +147,7 @@ Kelompok berhasil menyimpan dokumentasi bersama, tetapi tidak memperoleh jawaban
 - **Fungsi:** memperluas misteri institusional tanpa menciptakan konspirasi yang sudah pasti.
 
 **Scene 17 — Perjanjian Dokumentasi**
-- Para pihak menyepakati prosedur sementara untuk dokumentasi, penyimpanan salinan, dan akses terbatas.
+- Para pihak menyepakati prosedur sementara untuk dokumentasi, penyimpanan salinan, dan distribusi salinan terbatas. Kesepakatan tidak memberi hak masuk atau akses fisik ke situs.
 - Tidak semua pihak puas; beberapa informasi tetap tidak boleh disebarkan.
 - **Fungsi:** menyelesaikan konflik praktis tanpa menghapus perbedaan kepentingan.
 
