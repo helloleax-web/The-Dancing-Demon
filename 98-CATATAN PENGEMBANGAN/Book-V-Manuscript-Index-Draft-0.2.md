@@ -177,3 +177,10 @@
 - Status: **kandidat-final editorial dibekukan**. Perubahan berikutnya harus menjadi revisi baru dan dicatat.
 - Pembekuan bukan pengesahan CANON. Seluruh manuskrip tetap NON-CANON.
 - Produksi storyboard, thumbnail, ilustrasi, tata letak, dan aset visual belum dinyatakan selesai.
+
+
+## Produksi visual — Bab 1
+
+- [Book V Visual Storyboard — Bab 1: Arsip yang Tidak Sepakat](Book-V-Visual-Storyboard-Chapter-01-Draft-0.1.md) — storyboard teks untuk Scenes 1–4, daftar panel, aset, risiko kontinuitas, dan keputusan visual yang masih terbuka.
+- Status: storyboard teks selesai; thumbnail dan ilustrasi belum dibuat. Desain karakter/lokasi belum dikunci.
+- Seluruh storyboard dan detail visual usulan tetap NON-CANON.
