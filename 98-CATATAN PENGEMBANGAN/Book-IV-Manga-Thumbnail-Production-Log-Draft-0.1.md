@@ -36,6 +36,9 @@ Mencatat kemajuan produksi thumbnail halaman demi halaman tanpa mengubah storybo
 - [x] Memeriksa layout terhadap manuskrip Scene 1–5.
 - [x] Merevisi Halaman 15: perlengkapan berat ditinggalkan di tempat singgah, sesuai manuskrip.
 - [x] Menambahkan catatan audit untuk membedakan fungsi Halaman 16 dan 17 serta menjaga batas adegan Halaman 18.
+- [x] Membandingkan manuskrip Scene 1–5 dengan storyboard Halaman 1–18 dan membuat Source Discrepancy Register.
+- [x] Mencatat pemadatan/perbedaan pada Halaman 1–2, 4, 8, 11–12, 14–16, serta keputusan adaptasi Halaman 15.
+- [ ] Menentukan apakah dialog/beat manuskrip yang dipadatkan perlu dipulihkan melalui revisi storyboard; jangan menambahkannya diam-diam ke layout.
 - [ ] Review komposisi visual, lettering, ritme halaman, dan page-turn seluruh Bab 1 berdasarkan thumbnail gambar nyata.
 
 ## Batas kontinuitas Bab 1
@@ -51,6 +54,12 @@ Mencatat kemajuan produksi thumbnail halaman demi halaman tanpa mengubah storybo
 Thumbnail yang dihasilkan sejauh ini adalah eksplorasi komposisi, bukan artwork final. File gambar thumbnail belum disimpan sebagai aset di repository. Yang tersimpan adalah spesifikasi layout tekstual dan log produksi; jangan menyebut seluruh 18 halaman sebagai thumbnail gambar yang sudah selesai. Halaman 1–18 kini memiliki spesifikasi layout tertulis di dokumen masing-masing; Halaman 18 tercatat di `Book-IV-Manga-Thumbnail-Page-18-Layout-Draft-0.1.md`; review komposisi, keterbacaan balon, dan konsistensi desain masih terbuka. Ada percobaan visual Halaman 2 yang menambahkan detail yang tidak didukung storyboard; percobaan tersebut ditolak dan tidak boleh dijadikan acuan. Thumbnail Halaman 2 harus mengikuti lima beat storyboard asli tanpa memperlihatkan bentuk fisik batu atau lokasi spesifik.
 
 ## Langkah berikutnya
-Lanjutkan revisi silang seluruh halaman terhadap manuskrip; setelah layout tekstual diselaraskan, buat thumbnail gambar nyata dan lakukan review visual berurutan. Artwork/PNG belum tersedia di repository.
+Gunakan Source Discrepancy Register untuk memutuskan revisi storyboard/layout yang diperlukan; setelah sumber teks disepakati, buat thumbnail gambar nyata dan lakukan review visual berurutan. Artwork/PNG belum tersedia di repository.
 
 **Dampak CANON: tidak ada.**
+
+
+## Pemeriksaan sumber
+- Register perbedaan manuskrip–storyboard tersedia: `Book-IV-Manga-Storyboard-Source-Discrepancy-Register-Chapter-01-Draft-0.1.md`.
+- Audit kontinuitas diperbarui dengan temuan pemadatan dan keputusan untuk tidak menyelaraskan sumber secara diam-diam.
+- Layout tekstual 18/18 tersedia, tetapi belum seluruhnya dinyatakan lolos review; artwork thumbnail nyata belum tersimpan sebagai aset repository.
