@@ -42,7 +42,7 @@ Ilyra menyusul di samping Tavian. “Kita sudah tahu rangkaian itu bisa dibaca s
 
 “Bisa jadi tempat. Bisa jadi orang. Bisa jadi judul.”
 
-“Bisa. Tapi daftar kemungkinan bukan hasil penelitian.”
+“Bisa. Tapi dari bentuk tulisannya saja, kita belum bisa memilih salah satu. Aku bahkan belum tahu apakah rangkaian itu mengikuti pola penamaan yang biasa dipakai untuk tempat atau orang.”
 
 Tavian menutup mapnya.
 
@@ -58,7 +58,7 @@ Ia mengatakannya sebagai usulan, bukan kesimpulan.
 
 Tavian melihat ke arah Seraphine. “Kita punya catatan tentang periode itu?”
 
-“Belum cukup. Tapi Great War tercatat dalam sumber sejarah yang bisa ditelusuri. Kita dapat memeriksa arsip yang tersedia, lalu melihat apakah ada hal yang relevan.”
+“Belum cukup. Kita tahu Great War tercatat dalam sumber sejarah. Yang belum kita tahu adalah apakah arsip yang masih tersedia menyimpan keterangan yang bisa dibandingkan dengan Prasasti.”
 
 Kael menggeser tali tasnya. “Dan kalau tidak ada?”
 
@@ -134,13 +134,13 @@ Tavian membuka catatan perjalanan. “Di Orlenn, kita bisa memeriksa arsip dari 
 
 “Salinan yang dibuat jauh setelah kejadian bisa mengubah detail,” kata Ilyra.
 
-“Bukan berarti tidak berguna,” tambah Seraphine. “Tapi jarak waktunya harus dicatat.”
+“Salinan belakangan tetap bisa menyimpan keterangan lama,” kata Seraphine. “Yang perlu kita pisahkan adalah kapan peristiwanya terjadi dan kapan teks yang kita pegang dibuat.”
 
 Mira menghabiskan minumnya. “Di kota besar, orang sering menganggap dokumen yang disimpan di gedung resmi lebih benar daripada cerita keluarga. Padahal keduanya bisa punya masalah masing-masing.”
 
-“Cerita keluarga juga bisa berubah,” kata Tavian.
+Tavian menatap daftar sumber di tangannya. “Kalau begitu, kita harus tahu siapa yang menyimpan cerita itu dan siapa yang menyusun dokumen.”
 
-“Bisa. Tapi dokumen resmi juga dibuat oleh orang yang punya kepentingan.”
+Mira mengangguk. “Dan jangan mengira tempat penyimpanan menentukan apakah isinya benar.”
 
 Tavian tidak langsung menjawab.
 
@@ -302,7 +302,9 @@ Di antara katalog ringkas, Neral menunjukkan satu entri yang menyebut LEAX mengh
 
 Tavian menyalin keterangan itu ke daftar fakta sejarah, bukan ke tabel kronologi. “Jadi kita tahu ia menghilang setelah perang. Tapi ini tidak membantu menyusun kapan atau bagaimana.”
 
-“Benar,” kata Seraphine. “Jangan isi kekosongan itu dengan dugaan.” Ilyra mengelompokkan istilah yang tampak serupa, tetapi tidak menyatukannya sebelum ada alasan. Seraphine memeriksa setiap catatan agar tidak ada kesimpulan yang masuk ke kolom observasi.
+“Benar,” kata Seraphine. “Catat sebagai keterangan tentang hilangnya LEAX setelah perang. Jangan masukkan ke urutan peristiwa yang belum bisa kita susun.”
+
+Ilyra mengelompokkan istilah yang tampak serupa berdasarkan pemakaian katanya, tetapi tidak menyatukannya sebelum ada alasan. Seraphine memeriksa agar hasil pembacaan itu tetap terpisah dari interpretasi.
 
 Daren beberapa kali berdiri untuk meregangkan kaki. Ia tidak ikut membaca setiap baris, tetapi tetap memperhatikan waktu dan kondisi kelompok.
 
