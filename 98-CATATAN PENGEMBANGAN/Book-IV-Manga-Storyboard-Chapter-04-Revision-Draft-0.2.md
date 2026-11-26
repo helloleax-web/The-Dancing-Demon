@@ -78,7 +78,7 @@
 
 ## Halaman 10 — Kesepakatan Dokumentasi
 **Panel 1.** Para pihak membandingkan ketentuan.
-**Panel 2.** Catatan non-reproduktif hasil konsultasi disimpan sesuai batas izin; tidak ada salinan naskah atau bunyi yang dibuat.
+**Panel 2.** Salinan laporan dan catatan non-reproduktif hasil konsultasi disimpan sesuai batas izin; tidak ada salinan naskah atau bunyi yang dibuat.
 **Panel 3.** Salinan penelitian dibagikan sesuai ketentuan.
 **Panel 4.** Informasi publik tidak memuat rincian akses sensitif.
 **Panel 5.** Batu tetap di tempat; naskah dan bunyi tetap berpasangan.
