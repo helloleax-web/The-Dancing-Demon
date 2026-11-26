@@ -60,6 +60,6 @@
 
 
 ## Audit silang empat bab
-- [Book IV Manga Storyboard Audit Report — Draft 0.4](Book-IV-Manga-Storyboard-Audit-Report-Draft-0.3.md)
+- [Book IV Manga Storyboard Audit Report — Draft 0.5](Book-IV-Manga-Storyboard-Audit-Report-Draft-0.3.md)
 - Keempat storyboard telah diperiksa terhadap manuskrip aktif.
 - Estimasi 74 halaman masih bersifat kerja; total panel 370 dari baseline lama tidak lagi dianggap terverifikasi.
