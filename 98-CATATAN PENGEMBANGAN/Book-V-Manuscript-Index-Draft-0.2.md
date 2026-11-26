@@ -324,3 +324,4 @@
 - Ketiga opsi masih dapat menampung aktivitas pada tingkat siluet abstrak; belum ada opsi yang dipilih.
 - Tes belum menguji anatomi, mekanika sendi, perspektif, atau detail kostum. Semua placeholder dan hasil tetap NON-CANON.
 - Tidak ada perubahan Character Bible atau fakta CANON.
+- [Tavian Hand & Prop Interaction Study — Draft 0.1](Tavian-Hand-Prop-Interaction-Study-Draft-0.1.md) — NON-CANON schematic study of Tavian's interactions with maps, documents, and writing tools.
