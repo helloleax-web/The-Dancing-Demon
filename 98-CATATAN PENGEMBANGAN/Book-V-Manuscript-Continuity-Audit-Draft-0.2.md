@@ -101,7 +101,7 @@ Manuskrip harus mempertahankan ketidakpastian tersebut. Jangan mengubah istilah 
 ## 11. Line edit awal lintas bab
 
 - Bab 1 Scene 3: urutan dialog perkenalan Neral dirapikan agar respons Seraphine berada tepat setelah penjelasan peran Neral.
-- Bab 4 Scene 14: pengulangan respons Seraphine kepada penghubung penerbit dihapus; dua kalimat penolakan kini menjadi satu giliran dialog yang utuh.
+- Bab 4 Scenes 14–18: line edit lanjutan membedakan fungsi dialog Kael, Seraphine, Tavian, Ilyra, dan Sava; pengulangan argumen publikasi dipadatkan, koreksi sumber dibuat lebih operasional, dan pembahasan kesaksian diberi konteks pewarisan cerita.
 - Temuan ini menunjukkan masih diperlukan pemeriksaan dialog menyeluruh. Belum ada klaim bahwa repetisi di seluruh 22 scene sudah selesai.
 - Bab 5 Scene 21: dialog Daren diubah dari komentar umum tentang banyaknya hal yang belum diketahui menjadi pertanyaan praktis tentang jalur, kondisi medan, dan keterjangkauan lokasi. Ini menegaskan perspektifnya sebagai pekerja lapangan tanpa menetapkan lokasi atau fakta baru.
 - Bab 3 Scene 9: transisi dari temuan NVR AGAIN ke koleksi jubah diperjelas. Naskah menyatakan bahwa hubungan musik dengan Great War tidak otomatis menghubungkan seluruh catatan perang; pemeriksaan jubah dimulai sebagai pertanyaan terpisah.
@@ -164,3 +164,15 @@ Tidak ada fakta sejarah, identitas, mekanisme, kronologi, atau hubungan lore bar
 Commits:
 - Chapter 1: `589cb50ada3604e1d2e515c2840e1d0beee41341`
 - Chapter 2: `52a94c72935644335a57e0ab906584179889ab3b`
+
+
+## 17. Line edit dialog Bab 4 — Scenes 14–18
+
+- **Scene 14:** Kael kini menyoroti akibat penyamaan sumber terhadap pembaca, sedangkan Seraphine menetapkan batas perubahan bukti dan izin publikasi. Pengulangan penolakan terhadap penerbit dipadatkan.
+- **Scene 15:** Ilyra mengidentifikasi perubahan makna akibat pemotongan konteks; Tavian menangani nomor koleksi dan halaman; Seraphine menetapkan bentuk koreksi serta jejak pengirimannya.
+- **Scene 16:** Sava tidak hanya menolak penekanan berlebihan pada kelemahan kesaksian, tetapi menjelaskan nilai jalur pewarisan dan konteks cerita keluarga.
+- **Scene 18:** percakapan penutup dipadatkan agar keputusan penyimpanan, akses, dan distribusi laporan menjadi tindakan utama, bukan pengulangan slogan tentang integritas bukti.
+- Tidak ada fakta sejarah, mekanisme, kronologi, identitas, atau hubungan lore baru yang ditambahkan.
+- Tidak ada perubahan status manuskrip: seluruh Bab 4 tetap NON-CANON.
+
+**Status line edit:** Bab 1–2 telah menerima pass dialog terarah; Bab 3 Scene 9–13 telah menerima pass ritme; Bab 4 Scenes 14–18 kini telah menerima pass dialog terarah. Bab 5 masih menunggu line edit menyeluruh.
