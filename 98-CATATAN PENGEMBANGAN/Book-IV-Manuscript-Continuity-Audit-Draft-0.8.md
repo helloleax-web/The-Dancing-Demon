@@ -1,5 +1,5 @@
 # Book IV — Manuscript Continuity Audit
-## Draft 0.9 — Access Gap Decision Prepared
+## Draft 1.0 — Access Route A Implemented
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Ruang lingkup:** manuskrip Chapters 1–4 Revision Draft 0.4/0.3, transisi Book III–IV, CANON *Thirteen Prasasti*, dan metode penafsiran CANON.
@@ -8,10 +8,10 @@
 
 - Chapter 1 — Revision Draft 0.4.
 - Chapter 2 — Revision Draft 0.3.
-- Chapter 3 — Revision Draft 0.4.
+- Chapter 3 — Revision Draft 0.5.
 - Chapter 4 — Revision Draft 0.4.
-- Scene Outline — Draft 0.5.
-- Character Knowledge Matrix — Draft 0.6.
+- Scene Outline — Draft 0.6.
+- Character Knowledge Matrix — Draft 0.7.
 
 ## 2. Hasil kontinuitas
 
@@ -21,7 +21,7 @@
 | Izin jalur Jorren | LULUS | Izin terbatas; tidak mewakili seluruh pemilik/kepentingan |
 | Penemuan objek Northglass | LULUS | Dokumentasi fisik tanpa penggalian, pembersihan agresif, atau pemindahan |
 | Pengetahuan Ilyra atas guratan | LULUS | Bentuk visual dan pengulangan; belum ada transliterasi |
-| Mekanisme B | LULUS BERSYARAT | Naskah interpretasi dan salinan bunyi diperkenalkan; jalur akses masih belum dijelaskan; tiga opsi akses disiapkan untuk keputusan kreator |
+| Mekanisme B + akses A | LULUS BERSYARAT | Jalur akses dijelaskan melalui rujukan Jorren dan konsultasi terawasi; provenance tetap UNKNOWN |
 | Reveal NVR AGAIN | LULUS | Scene 14, dari judul naskah interpretasi |
 | Batas isi interpretasi | LULUS | Perspektif penafsir, bukan fakta objektif otomatis |
 | Salinan bunyi | LULUS | Disimpan bersama naskah dan diperiksa sebagai pasangan |
@@ -40,13 +40,13 @@
 
 ## 4. OPEN QUESTION yang menghambat finalisasi
 
-1. Siapa atau apa yang memberi petunjuk lanjutan setelah temuan Northglass.
-2. Di mana naskah dan salinan bunyi ditemukan atau disimpan.
-3. Siapa penjaga atau pemilik materi.
-4. Atas dasar apa kelompok dapat memeriksa materi.
+1. Identitas penjaga kumpulan dokumen dan kewenangan/legitimasinya.
+2. Lokasi penyimpanan secara geografis.
+3. Kepemilikan sah, asal-usul, riwayat perpindahan, dan autentikasi materi.
+4. Apakah penjaga mengetahui asal-usul materi.
 5. Apakah Northglass memiliki hubungan material/historis dengan Prasasti I, atau hanya memicu jalur penyelidikan.
 
-Chapter 3 Scene 11–12 belum menyajikan jalur penemuan secara konkret. Line edit tidak mengisi kekosongan tersebut dengan detail rekaan. [Access and Provenance Decision Brief Draft 0.1](Book-IV-Prasasti-I-Access-and-Provenance-Decision-Brief-Draft-0.1.md) kini memuat tiga jalur NON-CANON dan merekomendasikan Opsi A: rujukan terbatas dari Jorren kepada pemegang arsip lokal, diikuti permintaan dan izin konsultasi terawasi. Opsi ini belum dipilih kreator dan belum diterapkan pada manuskrip.
+Chapter 3 Scene 11–12 kini menjelaskan jalur akses pada level pengembangan: Jorren menyampaikan rujukan terbatas kepada penjaga kumpulan dokumen anonim; penjaga memberi izin konsultasi terawasi di tempat. Izin tidak mencakup membawa, memisahkan, menyalin, atau menyebarluaskan materi. [Access and Provenance Decision Brief Draft 0.2](Book-IV-Prasasti-I-Access-and-Provenance-Decision-Brief-Draft-0.1.md) mencatat Opsi A sebagai keputusan pengembangan setelah kreator menyerahkan pilihan kepada editor. Identitas penjaga, lokasi, kepemilikan sah, provenance, autentikasi, dan hubungan material dengan Northglass tetap OPEN QUESTION.
 
 ## 5. Status produksi
 
@@ -57,6 +57,6 @@ Chapter 3 Scene 11–12 belum menyajikan jalur penemuan secara konkret. Line edi
 - Sinkronisasi storyboard Bab 2 ke revisi prosa terbaru: perlu verifikasi versi.
 - Persetujuan kreator: belum ada.
 
-**Kesimpulan:** Buku IV lebih rapi secara bahasa dan konsistensi sumber, tetapi belum final. Blocking provenance/access kini memiliki opsi dan rekomendasi tertulis, tetapi keputusan kreator masih diperlukan sebelum prosa diubah. Proofread final tetap ditahan.
+**Kesimpulan:** Buku IV lebih rapi secara bahasa dan konsistensi sumber, tetapi belum final. Jalur akses naratif kini diterapkan dan disinkronkan pada prosa, outline, matriks pengetahuan, dan storyboard Bab 3. Provenance tetap terbuka; proofread final masih ditahan sampai audit lintas dokumen dan pembacaan manual berikutnya selesai.
 
 **Dampak CANON: tidak ada.**
