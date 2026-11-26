@@ -185,3 +185,22 @@ Storyboard per scene menghasilkan:
 - Scene 4: layout manual Draft 0.1, tujuh panel.
 - Total layout manual: 27 panel dari 27 panel storyboard.
 - Semua layout berupa panduan komposisi, bukan artwork final; karakter/lokasi tetap belum dikunci dan semua materi NON-CANON.
+
+
+## Scene 1 — audit dan revisi Draft 0.2 — 2026-11-27
+
+Lembar produksi Scene 1 Draft 0.1 diperiksa panel per panel terhadap storyboard dan blocking audit. Hasil pemeriksaan menemukan kekurangan kontinuitas/kelengkapan, bukan penambahan fakta cerita:
+- 1.1: lima figur terlihat, padahal kelompok utama terdiri dari enam anggota.
+- 1.2: tiga isi map belum terpisah jelas sebagai tiga objek.
+- 1.3–1.4: sebagian anggota kelompok hilang dari komposisi sehingga kontinuitas rombongan tidak terbaca.
+- 1.5: teks catatan dipendekkan dan kelompok yang kembali bergerak tidak tergambar.
+
+Draft 0.1 tidak dipakai sebagai acuan staging yang diterima. Revisi manual Draft 0.2 memperbaiki jumlah figur, pemisahan tiga objek map, kontinuitas kelompok, dan kutipan catatan persis sesuai storyboard. Dua jalur pada 1.4 tetap berupa garis abstrak; tidak ada geografi atau isi peta yang ditetapkan.
+
+**Keputusan:** Draft 0.2 diterima sebagai layout komposisi manual untuk staging Scene 1, bukan sebagai ilustrasi final. Tidak ada desain karakter/lokasi/properti yang dikunci dan tidak ada perubahan CANON.
+
+**File kerja:** `LEAX_BookV_Scene1_Thumbnail_Production_Draft02.png` (dibuat dalam sesi kerja; belum disimpan sebagai aset biner repository).
+
+**Status Scene 1:** layout staging manual 5/5 panel telah direview; thumbnail ilustratif dan ilustrasi final belum dibuat. Semua materi NON-CANON.
+
+**Dampak CANON: tidak ada.**
