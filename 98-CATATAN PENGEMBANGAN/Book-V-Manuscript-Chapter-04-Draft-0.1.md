@@ -210,13 +210,13 @@ Ilyra menggeleng. “Aku sudah memeriksa istilah dan rujukannya.”
 
 Tavian menunjuk tabel kronologi. “Bagian ini masih belum punya urutan final.”
 
-“Biarkan begitu,” kata Seraphine.
+“Jangan dipaksa menjadi urutan,” kata Seraphine. “Tabel ini harus memperlihatkan bagian yang belum bisa kita cocokkan.”
 
 Kael melihat daftar pertanyaan terbuka.
 
 “Orang mungkin kecewa karena kita tidak memberi mereka cerita lengkap.”
 
-“Kalau begitu mereka harus tahu bahwa sumber yang kita punya memang tidak lengkap,” jawab Tavian.
+Tavian memandang kolom-kolom yang ia susun. “Awalnya aku ingin membuat semuanya tersusun rapi. Sekarang justru bagian yang tidak bisa disatukan harus terlihat jelas.”
 
 Untuk pertama kalinya sejak tiba di Orlenn, Tavian merasa laporan mereka mulai memiliki bentuk. Bukan kronologi yang menyatukan semua kejadian, melainkan peta tentang apa yang dapat dikatakan dan apa yang masih harus ditahan.
 
