@@ -1,9 +1,9 @@
 # Book V — Perang yang Tertinggal
 ## Bab 1: Arsip yang Tidak Sepakat
-### Revision Draft 0.2 — Scenes 1–4
+### Revision Draft 0.3 — Scenes 1–4
 
 **Status: CATATAN PENGEMBANGAN / NON-CANON.**  
-**Basis:** Book V Scene Outline Draft 0.1, Book V Character Knowledge Matrix Draft 0.1, fakta CANON tentang Great War, NVR AGAIN, jubah mana hitam, dan Resonansi Hitam, serta penutup Buku IV.  
+**Basis:** Book V Scene Outline Draft 0.2, Character Knowledge Matrix Draft 0.3, fakta CANON tentang Great War, NVR AGAIN, jubah mana hitam, dan Resonansi Hitam, serta penutup Buku IV.  
 **Batas:** seluruh adegan, dialog, detail perjalanan, Kota Orlenn, Balai Catatan Perang, dan Neral Voss merupakan materi cerita draft. Tidak ada informasi baru tentang LEAX yang ditetapkan.
 
 ---
@@ -90,7 +90,9 @@ Untuk saat ini, itu sudah cukup.
 
 ### Scene 2 — Jalan ke Orlenn
 
-Jalur menuju Orlenn lebih ramai daripada yang diperkirakan Tavian.
+Jalur menuju Orlenn lebih ramai daripada yang diperkirakan Tavian. Mendekati kota, arus perjalanan mulai bercampur dengan kegiatan penduduk yang tidak sedang bepergian jauh: gerobak sayur menuju pasar, pembawa air yang menghindari roda kereta, dan pekerja yang berjalan pulang sambil membawa perkakas. Tidak semua orang bergerak dengan tujuan yang sama. Sebagian harus tiba sebelum kios tutup; sebagian lain hanya mencari tempat untuk beristirahat sebelum melanjutkan perjalanan esok hari.
+
+Di dekat gerbang, sebuah kereta kecil berhenti karena salah satu roda tersangkut di celah batu. Orang-orang di belakangnya mengeluh, tetapi seorang pedagang justru memanfaatkan jeda itu untuk menawarkan roti kepada pengangkut barang. Daren mengarahkan kelompok ke sisi jalan agar tidak menghalangi lalu lintas. Tavian sempat mencatat kepadatan jalur, lalu menyadari bahwa angka pada petanya tidak menjelaskan bagaimana jalan digunakan pada jam sibuk.
 
 Kereta barang bergerak beriringan dengan rombongan kecil pedagang. Beberapa orang berjalan membawa peti kayu, sementara pengangkut lain berhenti di tepi jalan untuk memperbaiki tali muatan. Daren memilih posisi berjalan yang membuat kelompok tidak terpecah oleh arus orang.
 
@@ -146,7 +148,15 @@ Ia teringat bagaimana laporan penemuan Prasasti harus memuat kondisi batu, akses
 
 Mereka melanjutkan perjalanan sebelum sore. Kota Orlenn mulai terlihat menjelang akhir hari, dengan bangunan yang semakin rapat dan jalan yang lebih teratur. Tavian memperhatikan penanda jalan saat mereka memasuki kawasan kota. Ia mencocokkan arah dengan peta, lalu menandai posisi gerbang yang mereka lewati.
 
-Daren membawa kelompok ke tempat menginap yang telah dipilih Mira. Tidak ada yang memulai pemeriksaan arsip malam itu. Mereka perlu memastikan jadwal, izin, dan kondisi dokumen yang akan diminta.
+Daren membawa kelompok ke tempat menginap yang telah dipilih Mira. Penginapan itu tidak besar, dan pemiliknya meminta pembayaran untuk malam pertama sebelum menunjukkan kamar yang tersedia. Kael memeriksa catatan pengeluaran, sementara Tavian menghitung berapa lama mereka dapat tinggal jika permintaan salinan dokumen membutuhkan biaya tambahan.
+
+“Kita belum tahu berapa hari,” kata Tavian.
+
+“Makanya jangan bayar untuk waktu yang belum kita pakai,” jawab Kael. “Kita cari tahu dulu aturan Balai. Arsip bisa membuat orang lupa bahwa makan dan tempat tidur tetap harus dibayar.”
+
+Seraphine menyimpan kuitansi bersama catatan perjalanan. Ia menetapkan batas pengeluaran awal untuk kebutuhan pemeriksaan, tetapi tidak menganggap angka itu sebagai biaya final. Tidak ada yang tahu berapa banyak dokumen yang perlu diminta atau berapa lama prosesnya.
+
+Tidak ada yang memulai pemeriksaan arsip malam itu. Mereka perlu memastikan jadwal, izin, dan kondisi dokumen yang akan diminta.
 
 Sebelum tidur, Tavian membuka mapnya sekali lagi.
 
@@ -175,6 +185,16 @@ Petugas itu menulis sesuatu pada lembar permohonan, lalu memanggil seorang pria 
 Pria itu memperkenalkan diri sebagai Neral Voss.
 
 “Saya mengatur akses koleksi dan pencatatan salinan,” katanya. “Saya bukan penafsir semua dokumen di sini, jadi kalau kalian mencari jawaban sejarah, saya hanya bisa menunjukkan sumber yang tersedia.”
+
+Sebelum membawa mereka ke meja, Neral menghentikan seorang pengunjung yang hendak memotret halaman katalog. Ia menjelaskan bahwa beberapa entri memuat nama penyumbang dan alamat penyimpanan pribadi. Pengunjung itu keberatan karena menganggap katalog sebagai daftar umum, tetapi Neral tidak mengubah aturan.
+
+“Kalau nama penyumbang tersebar, orang bisa mendatangi rumah mereka untuk meminta dokumen,” katanya setelah pengunjung itu pergi. “Ada yang menyerahkan salinan karena percaya informasi asalnya tidak akan dipakai untuk mencari sumber pribadi.”
+
+Kael memperhatikan cara Neral menutup buku katalog. “Jadi, akses informasi juga punya batas yang tidak tertulis di halaman dokumen.”
+
+“Batasnya tertulis,” jawab Neral. “Hanya saja tidak semua orang mau membacanya.”
+
+Ia tidak menjelaskan lebih jauh siapa penyumbang yang dimaksud. Seraphine pun tidak bertanya. Mereka belum memiliki alasan atau izin untuk mengetahui identitas tersebut.
 
 “Itu cukup,” jawab Seraphine. “Kami tidak datang untuk meminta satu kesimpulan.”
 
@@ -222,7 +242,9 @@ Seraphine membuka catatannya.
 
 Neral mengangguk. “Itu permintaan yang lebih masuk akal daripada meminta kronologi lengkap.”
 
-Ia membawa mereka ke katalog pertama.
+Ia membawa mereka ke katalog pertama. Di ruang baca, beberapa meja telah ditempati orang yang mengerjakan urusan berbeda: seorang penyalin memeriksa daftar kepemilikan, dua mahasiswa membandingkan salinan peta, dan seorang lelaki tua menunggu petugas mengambil berkas yang hanya boleh dibaca dengan pendampingan. Balai itu bukan ruang yang berhenti pada masa lalu. Orang-orang datang membawa kebutuhan masa kini, dan dokumen lama menjadi bagian dari pekerjaan mereka.
+
+Tavian melihat satu meja kosong di dekat jendela. Dari sana ia dapat mengamati pintu penyimpanan dan meja katalog sekaligus. Ia memilih tempat itu, lalu mengatur kertas kerja agar setiap dokumen memiliki ruang sendiri.
 
 ### Scene 4 — Kronologi yang Tidak Cocok
 
@@ -264,7 +286,17 @@ Kael tersenyum tipis. “Setidaknya itu membuat pekerjaan penerbit lebih mudah.�
 
 Seraphine tidak menanggapi.
 
-Mereka melanjutkan pemeriksaan selama beberapa jam. Tavian mencatat asal dokumen, jenis penanggalan, dan bagian yang belum dapat dibandingkan.
+Mereka melanjutkan pemeriksaan selama beberapa jam. Tavian mencatat asal dokumen, jenis penanggalan, dan bagian yang belum dapat dibandingkan. Pada satu titik, ia menyadari bahwa catatannya sendiri mulai menumpuk tanpa urutan yang jelas. Ia berhenti, mengosongkan satu halaman, lalu membuat kolom terpisah untuk tanggal kejadian, tanggal pencatatan, tanggal penyalinan, dan tanggal penerimaan koleksi.
+
+“Lebih lambat,” kata Kael yang melihatnya mengulang tabel.
+
+“Lebih bisa diperiksa,” jawab Tavian.
+
+“Kalau begitu, semoga orang yang membacanya nanti punya kesabaran.”
+
+“Kalau tidak, itu bukan alasan untuk membuatnya lebih sederhana dari sumbernya.”
+
+Kael tidak membalas. Ia mengambil lembar katalog berikutnya dan mulai memeriksa siapa yang menyerahkan salinan, bukan hanya apa isi ringkasannya.
 
 Di antara katalog ringkas, Neral menunjukkan satu entri yang menyebut LEAX menghilang setelah Great War. Entri itu hanya mencatat fakta hilangnya; tidak ada keterangan tentang lokasi, waktu rinci, penyebab, atau keadaan setelahnya.
 
@@ -315,6 +347,7 @@ Penyelidikan itu baru dimulai. Dan bahkan sebelum menemukan satu jawaban, mereka
 - Kelompok meninggalkan Northglass dan memilih Great War sebagai periode yang layak diteliti, bukan karena telah mengetahui hubungan NVR AGAIN dengan musik perang.
 - NVR AGAIN tetap diketahui dari penemuan Prasasti pertama pada Buku IV.
 - Kota Orlenn, Balai Catatan Perang, Neral Voss, aturan akses, dan detail perjalanan adalah elemen cerita draft NON-CANON.
+- Revision 0.3 memperluas kehidupan sehari-hari Orlenn, memperlihatkan biaya dan logistik tinggal untuk penelitian, serta memberi Neral konflik prosedural terkait privasi penyumbang. Detail tersebut adalah pengembangan NON-CANON, bukan penetapan sejarah atau struktur resmi Balai.
 - Sumber sejarah tidak terkumpul dalam satu lembaga dan memiliki asal serta kualitas berbeda.
 - Sebuah entri katalog menyebut LEAX menghilang setelah Great War, tanpa menjelaskan sebab atau keadaan; ini hanya mengantar fakta CANON yang sudah diketahui.
 - Perbedaan kalender dan jenis tanggal diperkenalkan sebagai hambatan metodologis; belum ada kronologi perang yang ditetapkan.
