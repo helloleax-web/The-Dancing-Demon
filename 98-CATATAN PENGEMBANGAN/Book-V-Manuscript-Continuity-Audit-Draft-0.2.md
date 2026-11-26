@@ -142,3 +142,25 @@ Risiko utama adalah tumpang tindih bentuk kalimat metodologis antara Tavian, Ser
 - Semua perubahan tetap NON-CANON.
 
 **Dampak CANON: tidak ada.**
+
+
+## 16. Line edit dialog Bab 1–2
+
+Dua bab awal menerima pass dialog terarah untuk mengurangi kalimat metodologis yang dapat dipertukarkan antar tokoh.
+
+- **Tavian:** pertanyaannya kini lebih berangkat dari kebutuhan mengelola dan memahami sumber, bukan selalu mengulang kehati-hatian Seraphine.
+- **Seraphine:** dialognya lebih banyak berupa keputusan kerja yang spesifik—memisahkan tanggal kejadian dari tanggal dokumen, mengatur kategori sumber, dan menjaga tingkat kepastian.
+- **Ilyra:** kontribusinya lebih terikat pada pembacaan istilah dan bentuk penamaan, bukan menjadi pengulang prinsip umum.
+- **Mira:** tanggapannya diarahkan pada konteks penggunaan peta dan otoritas tempat penyimpanan, bukan sekadar menyatakan dokumen resmi juga bisa bias.
+- **Sava:** penjelasan tentang independensi kesaksian dibuat lebih berakar pada praktik menerima cerita keluarga; ia memberi contoh jalur cerita yang bisa berasal dari satu kerabat tanpa menyatakan adanya peristiwa baru dalam sejarah Great War.
+
+Perubahan tambahan:
+- Chapter 1 Scene 4 memisahkan pencatatan fakta hilangnya LEAX dari pengurutan kronologi dan memperjelas fungsi Ilyra saat mengelompokkan istilah.
+- Chapter 2 Scene 7 membedakan pekerjaan Seraphine memeriksa independensi sumber dari pekerjaan Ilyra membandingkan deskripsi dan Tavian menguji rumusan hasil.
+- Chapter 2 Scene 8 memperlihatkan Seraphine mengoreksi tingkat kepastian rumusan, sedangkan Ilyra menyesuaikannya dengan kategori sumber.
+
+Tidak ada fakta sejarah, identitas, mekanisme, kronologi, atau hubungan lore baru yang ditetapkan. Semua perubahan prosa tetap NON-CANON.
+
+Commits:
+- Chapter 1: `589cb50ada3604e1d2e515c2840e1d0beee41341`
+- Chapter 2: `52a94c72935644335a57e0ab906584179889ab3b`
