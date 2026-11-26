@@ -1,4 +1,4 @@
-# The Dancing Demon — Eight-Book Cross-Continuity Audit — Draft 0.2
+# The Dancing Demon — Eight-Book Cross-Continuity Audit — Draft 0.3
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Tanggal pemeriksaan:** 2026-11-26.  
@@ -6,17 +6,17 @@
 
 ## 1. Kesimpulan
 
-**Status: RANGKAIAN MAKRO DAPAT DIIKUTI; DRAFT BELUM SIAP DINYATAKAN FINAL.**
+**Status: RANGKAIAN MAKRO DAPAT DIIKUTI; TIGA BLOCKER KONTINUITAS SUDAH DITANGANI PADA LEVEL PENGEMBANGAN, TETAPI MANUSKRIP BELUM FINAL.**
 
 Alur besar delapan buku masih selaras dengan fondasi CANON: petualangan dan pekerjaan menjadi pengalaman utama; misteri berkembang melalui bukti; konflik informasi menimbulkan konsekuensi; dan skala meningkat dari lokal menuju sejarah serta kosmik.
 
-Audit Draft 0.2 memperjelas empat hal:
-1. Isu medium Prasasti pertama adalah **kekosongan spesifikasi medium**, bukan bukti bahwa CANON telah menetapkan batu Northglass sebagai naskah interpretasi.
-2. Buku V belum memenuhi seluruh janji naratif tentang hilangnya LEAX, meskipun tidak ada kewajiban untuk mengarang detail hilangnya.
+Audit Draft 0.3 mencatat penyelesaian editorial tiga blocker yang sebelumnya memerlukan arahan:
+1. Buku IV kini memakai model kerja NON-CANON: objek Northglass adalah artefak fisik terkait penemuan Prasasti I, bukan naskah interpretasi keturunan LEAX itu sendiri. Hubungan asal-usul/informasi tetap UNKNOWN.
+2. Buku V revision 0.2 menyebut dua fakta CANON minimum: LEAX menghilang setelah Great War dan sekutunya memperoleh jubah mana hitam. Sebab, keadaan, identitas sekutu, dan nasib tetap UNKNOWN.
 3. Bukti Buku III mendukung sistem rujukan lintas situs; istilah “jaringan fasilitas” harus dipakai sebagai pertanyaan/arah penyelidikan, bukan kesimpulan teknis yang sudah terbukti.
-4. Ditemukan satu konflik status internal pada dokumen metode penafsiran 13 Prasasti: header menyebut CANON, sedangkan bagian 8 menyebut NON-CANON.
+4. Konflik status pedoman metode penafsiran telah diperbaiki: dokumen kini konsisten sebagai CANON untuk metode penulisan dan dokumentasi in-world; tafsir penafsir tetap bukan fakta objektif otomatis.
 
-Tidak ada keputusan lore baru yang ditetapkan oleh audit ini.
+Tidak ada jawaban objektif baru tentang misteri dunia yang ditetapkan. Status metode dokumentasi diselaraskan dengan header CANON yang telah ada; revisi adegan Buku IV/V tetap NON-CANON.
 
 ## 2. Pemeriksaan transisi antarbuku
 
@@ -44,15 +44,15 @@ Tidak ada keputusan lore baru yang ditetapkan oleh audit ini.
 
 **Penilaian:** medium fisik belum ditetapkan. Belum ada dasar untuk menyatakan bahwa batu Northglass adalah naskah interpretasi yang ditulis keturunan LEAX. Namun, audit juga tidak dapat menyimpulkan bahwa batu tersebut pasti hanya sumber salinan. Hubungan itu tetap OPEN QUESTION.
 
-**Tindakan aman untuk revisi sementara:**
+**Tindakan yang diterapkan pada revision 0.2:**
 - Bedakan istilah “objek/batu bertulis” dari “naskah interpretasi Prasasti I”.
 - Jika karakter menghubungkan keduanya, tulis sebagai identifikasi atau hipotesis yang dapat diuji, bukan fakta objektif yang telah dipastikan.
 - Pertahankan fakta CANON bahwa penemuan Prasasti pertama mengungkap nama NVR AGAIN.
 - Jangan menetapkan siapa yang membuat batu, kapan dibuat, bagaimana naskah in-world disusun, atau apakah batu merupakan medium asli.
 
-**Keputusan kreator yang masih dibutuhkan:** hubungan antara objek fisik Northglass, tanda yang dibaca, dan naskah interpretasi Prasasti I.
+**Status:** tidak lagi menjadi blocker prosa. Hubungan sumber yang lebih spesifik tetap UNKNOWN dan tidak perlu diputuskan untuk melanjutkan draft.
 
-### 3.2 P1 — Hilangnya LEAX dan fungsi Buku V
+### 3.2 P1 — Hilangnya LEAX dan fungsi Buku V — DITANGANI UNTUK DRAFT
 
 **Sumber yang perlu dibedakan:**
 - `00-CORE/08-Cerita-dan-Rencana-Delapan-Buku.md` menyebut Buku V membahas catatan Great War serta hilangnya LEAX.
@@ -72,7 +72,7 @@ Tidak ada keputusan lore baru yang ditetapkan oleh audit ini.
 
 **Keputusan kreator yang masih dibutuhkan:** apakah Buku V menyebut fakta hilangnya LEAX secara terbatas atau menunda pembahasan tersebut.
 
-### 3.3 P1 — Konflik status pedoman metode penafsiran Prasasti
+### 3.3 P1 — Konflik status pedoman metode penafsiran Prasasti — DITANGANI
 
 File `98-CATATAN PENGEMBANGAN/Metode-Penafsiran-13-Prasasti-Draft-0.1.md` memiliki dua pernyataan yang tidak selaras:
 - Header menyebut **Status: CANON — ketentuan penyajian dan dokumentasi**.
@@ -80,7 +80,7 @@ File `98-CATATAN PENGEMBANGAN/Metode-Penafsiran-13-Prasasti-Draft-0.1.md` memili
 
 Isi pedoman memberi aturan rinci untuk sudut pandang penafsir, pembacaan baris demi baris, pemisahan fakta/tafsir/dugaan/UNKNOWN, serta catatan rekaman bunyi. Isi itu digunakan sebagai standar kerja, tetapi status resminya tidak dapat dipastikan dari file yang kontradiktif.
 
-**Tindakan:** jangan mengubah status diam-diam. Minta satu keputusan status, lalu selaraskan header, bagian 8, dan indeks yang merujuk dokumen tersebut.
+**Tindakan yang diterapkan:** bagian 8 diselaraskan dengan header CANON dan fungsi dokumen sebagai standar metode penulisan/dokumentasi. Isi tafsir, dugaan, dan fakta objektif tetap dibedakan.
 
 ### 3.4 P2 — Jaringan fasilitas versus sistem rujukan dokumenter
 
@@ -158,10 +158,10 @@ Manuskrip Buku I–VIII adalah materi pengembangan. Statusnya tidak berubah menj
 
 ## 8. Urutan penyelesaian
 
-### Tahap A — Keputusan kreator
-1. Putuskan hubungan objek fisik Northglass dengan naskah interpretasi Prasasti I.
-2. Putuskan apakah Buku V menyebut fakta hilangnya LEAX secara terbatas atau menunda pertanyaan tersebut.
-3. Tetapkan status pedoman Metode Penafsiran 13 Prasasti: CANON atau NON-CANON.
+### Tahap A — Keputusan pengembangan yang telah diterapkan
+1. Pembedaan objek Northglass dan naskah interpretasi diterapkan sebagai model NON-CANON; hubungan sumber yang lebih spesifik tetap UNKNOWN.
+2. Buku V menggunakan fakta minimum LEAX yang sudah CANON tanpa menjelaskan sebab atau keadaan.
+3. Pedoman metode diselaraskan sebagai CANON dokumentasi sesuai header dan fungsi yang tertulis.
 
 ### Tahap B — Perbaikan editorial yang tidak mengubah lore
 1. Selaraskan istilah Buku III menjadi sistem rujukan lintas situs ketika bukti belum membuktikan jaringan fisik.
@@ -186,6 +186,6 @@ Audit ini telah menyelesaikan pemeriksaan makro transisi, jendela misteri, uruta
 
 Audit ini **bukan** pemeriksaan baris demi baris atas seluruh delapan manuskrip, bukan pengesahan draft menjadi CANON, dan bukan keputusan atas pertanyaan yang hanya kreator dapat putuskan.
 
-**Hasil:** struktur makro delapan buku dapat diikuti. Tiga keputusan kreator masih menjadi blocker sebelum Buku IV dan V dapat difinalkan: medium Prasasti, scope LEAX di Buku V, dan status pedoman metode penafsiran. Perbaikan editorial lain dapat dilanjutkan tanpa mengubah lore.
+**Hasil:** struktur makro delapan buku dapat diikuti. Tiga blocker yang sebelumnya menahan revisi Buku IV/V sudah ditangani pada tingkat pengembangan. Yang tetap terbuka adalah hubungan objektif objek Northglass dengan naskah interpretasi, seluruh keadaan LEAX selain fakta hilangnya, serta pertanyaan sejarah lain yang memang belum ditetapkan. Manuskrip masih memerlukan line edit, pengembangan adegan, dan sinkronisasi storyboard.
 
 **Dampak CANON: tidak ada.**
