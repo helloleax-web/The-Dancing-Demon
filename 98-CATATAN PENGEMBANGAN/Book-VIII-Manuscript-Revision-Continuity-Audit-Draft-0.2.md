@@ -8,9 +8,11 @@
 
 **Status: LEBIH KUAT DARI FIRST-PASS; BELUM FINAL.**
 
-Revisi mempertahankan 20 scene dan lima bagian, dengan panjang sekitar 8.802 kata. Konflik lapangan kini memiliki konsekuensi yang lebih konkret. Keenam karakter mengambil tindakan yang memperlihatkan perkembangan, bukan hanya mengucapkan prinsip. Payoff judul lebih terhubung dengan pengalaman kelompok melihat informasi berubah ketika disalin dan ditafsirkan.
+Revisi mempertahankan 20 scene dan lima bagian, dengan panjang sekitar 8.831 kata. Konflik lapangan kini memiliki konsekuensi yang lebih konkret. Keenam karakter mengambil tindakan yang memperlihatkan perkembangan, bukan hanya mengucapkan prinsip. Payoff judul lebih terhubung dengan pengalaman kelompok melihat informasi berubah ketika disalin dan ditafsirkan.
 
 ## 2. Audit sebab-akibat eksternal
+
+Catatan kontinuitas: Lysa kini diperkenalkan sebagai utusan dan penghubung warga pada Scene 3 sebelum kembali tampil di Scene 6, 13, 19, dan 20. Bram diperkenalkan sebagai pekerja lokal pada Scene 7 sebelum mengambil peran dalam Scene 16 dan Scene 20.
 
 1. Ringkasan awal yang disetujui Tavian dipisahkan dari batas-batasnya dan beredar dalam bentuk yang menyesatkan.
 2. Tavian mengakui bahwa format awal kelompok turut memungkinkan salah tafsir.
