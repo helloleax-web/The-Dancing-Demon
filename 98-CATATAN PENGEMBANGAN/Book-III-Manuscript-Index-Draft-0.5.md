@@ -20,8 +20,10 @@
 - [Book III Character Knowledge Matrix — Draft 0.3](Book-III-Character-Knowledge-Matrix-Draft-0.3.md) — versi sebelumnya.
 - [Book III Manuscript Continuity Audit — Draft 0.4](Book-III-Manuscript-Continuity-Audit-Draft-0.4.md) — versi sebelumnya.
 - [Book II–III Transition Audit — Draft 0.2](Book-II-III-Transition-Audit-Draft-0.2.md)
-- [Book III Manga Storyboard Index — Draft 0.2](Book-III-Manga-Storyboard-Index-Draft-0.2.md)
-- [Book III Manga Storyboard Audit — Draft 0.2](Book-III-Manga-Storyboard-Audit-Report-Draft-0.2.md)
+- [Book III Manga Storyboard Index — Draft 0.3](Book-III-Manga-Storyboard-Index-Draft-0.3.md)
+- [Book III Manga Storyboard Synchronization Audit — Draft 0.3](Book-III-Manga-Storyboard-Audit-Report-Draft-0.3.md)
+- [Book III Manga Storyboard Index — Draft 0.2](Book-III-Manga-Storyboard-Index-Draft-0.2.md) — versi sebelumnya.
+- [Book III Manga Storyboard Audit — Draft 0.2](Book-III-Manga-Storyboard-Audit-Report-Draft-0.2.md) — versi sebelumnya.
 - [Book III Manuscript Continuity Audit — Draft 0.3](Book-III-Manuscript-Continuity-Audit-Draft-0.3.md) — versi sebelumnya.
 - [Book III Manuscript Index — Draft 0.3](Book-III-Manuscript-Index-Draft-0.3.md) — versi sebelumnya.
 
@@ -45,7 +47,7 @@
 - Kesepakatan dokumentasi dibatasi pada prosedur dan salinan; tidak menetapkan kepemilikan, hak tanah, akses permanen, atau izin pemindahan.
 - Motivasi Ilyra kini ditautkan ke motivasi CANON membangun reputasi melalui hasil penelitiannya sendiri.
 - Kael kini membuat pilihan konkret untuk tidak mengirim salinan tanpa sumber dan persetujuan; identitas kontak dan jaringan tetap misteri.
-- Storyboard: tersedia, perlu sinkronisasi ulang setelah prosa stabil.
+- Storyboard: enam paket revisi sinkronisasi panel Draft 0.2 tersedia. Paket patch masih harus diintegrasikan ke storyboard master standalone dan diuji melalui thumbnail.
 - Proofreading final: belum dilakukan.
 
 **Status Book III:** DALAM REVISI — belum final.  
