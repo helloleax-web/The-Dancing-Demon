@@ -81,19 +81,24 @@ Semua detail publikasi dan reaksi masyarakat dalam manuskrip Buku VII masih NON-
 | Abstract Existence | Mempertahankan batas kosmologi dan konsekuensi pengaruhnya | Motif, bentuk, kesadaran, dan batas kemampuan boleh tetap misteri |
 | Pihak yang membayar Kael / kontak tak dikenal | Dapat menjadi bagian konflik personal jika diperlukan | Identitas, tujuan, dan nasib mereka belum ditetapkan |
 
-## 6. Keputusan kreator yang masih terbuka
+## 6. Arah makna judul yang dipilih untuk draft
 
-Daftar ini adalah register, bukan permintaan untuk menjawab semuanya sekarang.
+Pengguna menyerahkan pengembangan makna judul kepada co-writer. Berdasarkan pembacaan CANON dan ketiga belas naskah Prasasti, arah kerja yang dipilih adalah:
 
-### Prioritas mutlak sebelum adegan pengungkapan judul ditulis
-1. Apa makna objektif judul *The Dancing Demon* dalam cerita?
-2. Apakah istilah “Demon” pada judul merujuk pada orang, entitas, sebutan, peristiwa, metafora, atau sesuatu yang lain?
-3. Apa arti “Dancing” dalam konteks judul?
-4. Apakah makna judul harus dijelaskan secara literal, simbolis, atau melalui rangkaian bukti dan pilihan karakter?
+**The Dancing Demon bukan nama satu monster atau identitas Abstract Existence. Judul ini adalah metafora bagi pola ketika rasa takut, penderitaan, dan hal yang belum dipahami terus diberi wajah berbeda oleh orang yang mencoba menjelaskannya.**
 
-### Prioritas plot akhir
+- **Demon:** wajah atau nama yang diberikan manusia kepada sesuatu yang menakutkan, menyakitkan, atau belum dipahami. Kemunculan kata “demons” pada Prasasti I, VIII, XI, dan XIII tidak membuktikan referen yang sama.
+- **Dancing:** perubahan bentuk interpretasi ketika motif berpindah antara orang, sumber, dan sudut pandang. Prasasti III berjudul *Dancing with Your Eyes Closed*, tetapi judul tersebut tidak membuktikan adanya makhluk yang menari.
+- **The:** menunjuk pada pola berulang dalam cara manusia menafsirkan ketidakpastian, bukan satu sosok tunggal.
+
+Rujukan lengkap, dasar sumber, dan batas pemaknaan ada di [The Dancing Demon — Title Meaning Proposal — Draft 0.1](The-Dancing-Demon-Title-Meaning-Proposal-Draft-0.1.md).
+
+Arah ini dipakai sebagai working meaning untuk mengembangkan Buku VIII. Statusnya NON-CANON sampai pengguna mengesahkan. Pemberian mandat kepada co-writer untuk mengembangkan makna tidak otomatis mengubah fakta CANON yang telah ada.
+
+## 7. Keputusan plot akhir yang masih terbuka
+
 1. Konflik utama apa yang harus diselesaikan kelompok pada Buku VIII?
-2. Misteri mana yang wajib memperoleh jawaban eksplisit, dan mana yang sengaja tetap UNKNOWN?
+2. Misteri mana yang wajib memperoleh jawaban eksplisit selain makna judul, dan mana yang sengaja tetap UNKNOWN?
 3. Apa keputusan final Tavian yang menunjukkan perubahan arc-nya?
 4. Apa konsekuensi yang harus dihadapi Kael terkait kebiasaan menyimpan atau memperdagangkan informasi?
 5. Bagaimana Seraphine menimbang keselamatan manusia dan preservasi bukti ketika keduanya berbenturan?
