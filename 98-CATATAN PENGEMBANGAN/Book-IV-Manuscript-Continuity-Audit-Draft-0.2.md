@@ -1,11 +1,11 @@
-# Book IV — Manuscript Continuity Audit — Draft 0.2
+# Book IV — Manuscript Continuity Audit — Draft 0.3
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Cakupan:** empat bab manuskrip, 20 scene; dibandingkan dengan Book IV Scene Outline, Character Knowledge Matrix, Thirteen Prasasti, Great War and Resonansi Hitam, Series Mystery & Revelation Architecture, serta transisi Buku III.
 
 ## 1. Hasil ringkas
 
-**Status: JENDELA PENGUNGKAPAN TERJAGA; ADA SATU PERTANYAAN MEDIUM CANON YANG HARUS DISELESAIKAN.**
+**Status: JENDELA PENGUNGKAPAN TERJAGA; PEMBEDAAN MEDIUM KINI MEMILIKI MODEL KERJA NON-CANON.**
 
 Manuskrip memiliki 20 scene dalam empat bab dan sekitar **4.550 kata** termasuk metadata serta catatan tambahan. Nama NVR AGAIN pertama kali muncul dalam narasi pada Scene 14. Revisi 0.2 memperjelas bahwa Ilyra melakukan **transliterasi satu rangkaian tanda**, bukan menerjemahkan seluruh prasasti.
 
@@ -24,7 +24,7 @@ Manuskrip memiliki 20 scene dalam empat bab dan sekitar **4.550 kata** termasuk 
 | Hubungan dengan LEAX | Tidak diungkap |
 | Prasasti lain | Isi, lokasi, dan statusnya tidak diungkap |
 
-## 3. Pertanyaan medium dan bentuk Prasasti — OPEN QUESTION KRITIS
+## 3. Pembedaan objek Northglass dan naskah interpretasi — MODEL KERJA NON-CANON
 
 Dokumen CANON [Thirteen Prasasti](../../01-CANON/Thirteen-Prasasti.md) menetapkan bahwa ketiga belas Prasasti merupakan **naskah interpretasi seorang keturunan LEAX dari sudut pandang in-world**. Dokumen tersebut belum menetapkan secara rinci medium fisik setiap naskah.
 
@@ -35,7 +35,9 @@ Sebelum naskah difinalkan, hubungan berikut harus diperjelas:
 - Apakah batu tersebut merupakan sumber yang kemudian ditranskripsikan atau ditafsirkan oleh keturunan LEAX?
 - Apakah NVR AGAIN terbaca pada batu sebagai judul, nama, atau hasil transliterasi dari salinan yang lebih lengkap?
 
-Audit ini **tidak memilih salah satu jawaban**. Jangan mengubah hubungan tersebut menjadi fakta CANON tanpa keputusan kreator. Untuk sementara, detail batu sebagai medium dan proses penyalinannya tetap NON-CANON.
+**Keputusan editorial untuk draft:** objek bertulis Northglass diperlakukan sebagai artefak fisik yang berkaitan dengan penemuan Prasasti I dan menyediakan satu rangkaian tanda yang dapat ditransliterasikan sebagai NVR AGAIN. Objek tersebut tidak dinyatakan sebagai naskah interpretasi keturunan LEAX. Naskah interpretasi Prasasti I tetap dokumen in-world tersendiri sebagaimana ditetapkan CANON.
+
+Hubungan asal-usul atau mekanisme informasi antara objek Northglass dan naskah interpretasi tetap tidak diketahui. Model ini hanya membantu prosa membedakan objek fisik dari dokumen interpretasi; ia **NON-CANON** dan tidak menetapkan medium untuk seluruh 13 Prasasti.
 
 ## 4. Pemeriksaan karakter dan metode
 
@@ -64,7 +66,7 @@ Audit ini **tidak memilih salah satu jawaban**. Jangan mengubah hubungan tersebu
 ## 7. Isu editorial yang masih terbuka
 
 1. **Metode transliterasi perlu diperkuat.** Jelaskan sumber pembanding dan bagaimana Ilyra dapat menyalin satu nama tanpa memahami bahasa atau seluruh teks.
-2. **Medium Prasasti belum jelas.** Selesaikan OPEN QUESTION pada Bagian 3 sebelum finalisasi.
+2. **Hubungan sumber masih UNKNOWN.** Prosa sekarang membedakan objek Northglass dari naskah interpretasi, tetapi belum menjelaskan apakah objek itu sumber, indeks, salinan, atau artefak yang menyertai rekaman.
 3. **Identitas penafsir in-world belum muncul.** Canon menyatakan naskah interpretasi berasal dari seorang keturunan LEAX; hubungan antara penafsir tersebut, teks, dan medium batu perlu dipertimbangkan.
 4. **Hak akses lokal.** Jorren memberi izin terbatas, tetapi kewenangan dan hubungan izin itu dengan masyarakat setempat perlu dibuat lebih konkret.
 5. **Kedatangan Vellum & Iron Recovery.** Jalur informasi yang membawa perusahaan ke Northglass belum cukup jelas.
@@ -82,4 +84,4 @@ Koreksi transliterasi memperjelas batas pembacaan. Namun, hubungan antara batu f
 
 **Buku IV belum final.** Prioritas berikutnya: putuskan atau klarifikasi medium Prasasti, kuatkan metode transliterasi, bedakan konflik Buku IV dari Buku III, lalu perluas prosa.
 
-**Dampak CANON: tidak ada.** Semua detail adegan dan medium fisik tetap NON-CANON sampai disahkan kreator.
+**Dampak CANON: tidak ada.** Model pembedaan objek Northglass dan naskah interpretasi adalah keputusan pengembangan NON-CANON.
