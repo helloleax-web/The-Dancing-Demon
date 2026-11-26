@@ -9,7 +9,7 @@
 
 Manuskrip membangun hubungan NVR AGAIN dengan musik Great War melalui perbandingan arsip dan kesaksian. Efek jubah mana hitam dipertahankan sesuai CANON. Istilah Resonansi Hitam dicatat tanpa menentukan cakupan yang belum jelas.
 
-**Jumlah kata terverifikasi:** sekitar **9.151 kata** termasuk judul, metadata, dan catatan tambahan. Lima bab memuat 22 scene.
+**Jumlah kata:** angka 9.151 adalah baseline pass pertama; revision 0.2 mengubah Bab 1, 3, dan 5 sehingga jumlah kata harus dihitung ulang pada final pass. Lima bab tetap memuat 22 scene.
 
 ## 2. Koreksi yang diterapkan pada pass 0.2
 
@@ -47,7 +47,7 @@ Ini tidak mengubah fakta CANON bahwa musik terdengar di seluruh dunia selama Gre
 
 Eight-Book Series Architecture menyebut fungsi Buku V mencakup rekonstruksi Great War dan hilangnya LEAX. Namun Book V Scene Outline secara eksplisit menahan seluruh tindakan, motif, peran, hubungan, keadaan, dan rincian hilangnya LEAX untuk arahan kreator. Manuskrip pass pertama mengikuti penahanan tersebut dan tidak membahas LEAX. Revision Draft 0.2 kini menggunakan fakta minimum yang sudah CANON: LEAX menghilang setelah Great War, dan sekutunya memperoleh jubah mana hitam. Entri katalog dan cara karakter menemukan informasi tersebut tetap merupakan detail cerita NON-CANON.
 
-Fakta CANON yang sudah tersedia dan belum digunakan:
+Fakta CANON yang menjadi dasar revision 0.2:
 - LEAX menghilang setelah Great War.
 - Sekutu LEAX memperoleh jubah mana hitam.
 
