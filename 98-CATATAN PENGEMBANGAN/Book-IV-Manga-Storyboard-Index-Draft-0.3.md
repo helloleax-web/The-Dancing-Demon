@@ -55,8 +55,14 @@
 
 ## Revisi storyboard setelah keputusan mekanisme B
 
-- [Chapter 3 — Revision Draft 0.2](Book-IV-Manga-Storyboard-Chapter-03-Revision-Draft-0.2.md) — Scenes 11–15; judul NVR AGAIN muncul dari naskah interpretasi pada halaman 15.
+- [Chapter 1 — Revision Draft 0.3](Book-IV-Manga-Storyboard-Chapter-01-Revision-Draft-0.3.md) — koreksi sumber rute Hollow Vale vs catatan lokal Mira.\n- [Chapter 3 — Revision Draft 0.2](Book-IV-Manga-Storyboard-Chapter-03-Revision-Draft-0.2.md) — Scenes 11–15; judul NVR AGAIN muncul dari naskah interpretasi pada halaman 15.
 - [Chapter 4 — Revision Draft 0.2](Book-IV-Manga-Storyboard-Chapter-04-Revision-Draft-0.2.md) — Scenes 16–20; dokumentasi Northglass dipisahkan dari naskah dan salinan bunyi.
 - Storyboard lama Draft 0.1 diarsipkan sebagai baseline yang tidak lagi sinkron.
-- Storyboard Bab 1–2 belum direvisi dalam pass ini.
+- Storyboard Bab 1 telah dikoreksi pada Revision Draft 0.3; Bab 2 Revision Draft 0.2 tetap menjadi baseline aktif.
 - Estimasi 74 halaman / 370 panel adalah baseline lama. Jumlah akhir harus dihitung ulang setelah thumbnail dan page-rhythm review.
+
+
+## Audit silang empat bab
+- [Book IV Manga Storyboard Audit Report — Draft 0.3](Book-IV-Manga-Storyboard-Audit-Report-Draft-0.3.md)
+- Keempat storyboard telah diperiksa terhadap manuskrip aktif.
+- Estimasi 74 halaman masih bersifat kerja; total panel 370 dari baseline lama tidak lagi dianggap terverifikasi.
