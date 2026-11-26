@@ -58,31 +58,19 @@ Seorang pengunjung di meja sebelah mendengar percakapan itu dan menyela bahwa ia
 
 “Benar. Tapi bisa menjadi alasan seseorang mencari dokumennya.”
 
-Tavian menyimpan catatan sementara. Ia menulis efek yang disebut sumber, bukan penjelasan tentang cara kerja jubah.
-
-Di bawahnya, ia menambahkan:
-
-**Asal, pembuat, pemakai, jumlah, dan mekanisme belum diketahui.**
+Tavian menyimpan catatan sementara. Ia menyalin dua efek yang benar-benar disebutkan sumber, lalu memberi tanda pada nomor koleksi yang masih perlu ditelusuri asal salinannya. Untuk saat ini, pertanyaan terpenting bukan bagaimana jubah itu bekerja, melainkan apakah beberapa catatan yang tampak berbeda benar-benar berdiri sendiri.
 
 ### Scene 10 — Efek yang Tidak Biasa
 
-Tavian membuat tabel untuk membandingkan deskripsi jubah.
-
-Kolom pertama berisi sumber. Kolom kedua mencatat istilah yang digunakan. Kolom ketiga mencatat efek yang disebutkan. Ia sengaja memisahkan kata-kata asli dari terjemahan kerja agar perubahan istilah tidak menyembunyikan perbedaan.
+Tavian membuka tabel baru, kali ini bukan untuk mengumpulkan semua efek, melainkan untuk melacak bagaimana tiap penyalin memilih kata. Ia menambahkan kolom untuk istilah asli, terjemahan kerja, dan konteks kalimat. Dua dokumen bisa terdengar berbeda karena pilihan kata, bukan karena menggambarkan kemampuan yang berbeda.
 
 Seraphine memeriksa setiap baris.
 
-“Yang ini menyebut pertahanan,” katanya. “Yang ini menyebut pemulihan. Jangan langsung menganggap sumber kedua sedang menjelaskan efek yang berbeda.”
+“Di sini penulis memakai istilah yang lebih dekat dengan ketahanan,” kata Tavian. “Di sini, penyalinnya memilih kata yang berarti pemulihan.”
 
-Ilyra membaca catatan pada salah satu salinan.
+Ilyra memeriksa kalimat lengkapnya. “Kata ini bisa berarti pemulihan atau pengisian kembali. Konteksnya mendukung terjemahan pemulihan, tetapi tidak menjelaskan prosesnya.”
 
-“Dalam bahasa sumbernya, kata yang digunakan di sini juga bisa berarti pemulihan atau pengisian kembali, tergantung konteks.”
-
-“Apakah konteksnya cukup?” tanya Tavian.
-
-“Cukup untuk mencatat bahwa penulis sedang menggambarkan pemulihan. Tidak cukup untuk menjelaskan prosesnya.”
-
-Tavian menghapus satu kata dari kolom kesimpulan.
+Tavian menghapus label yang terlalu spesifik dari kolom kesimpulan. Ia menggantinya dengan kutipan asli dan catatan terjemahan. Perubahan kecil itu membuat dua sumber tersebut bisa dibandingkan tanpa memaksa keduanya memakai istilah yang sama.
 
 Daren yang sejak tadi memeriksa perlengkapan di sisi ruangan akhirnya mendekat. “Kalau jubah itu benar-benar memberi pertahanan sebesar yang ditulis, apakah orang yang memakainya masih bisa terluka?”
 
@@ -100,28 +88,11 @@ Kael mengambil lembar lain. “Dan kalau pemulihan HP serta MP terus berlangsung
 
 Seraphine menunjuk tabel. “Catat efek yang dinyatakan. Jangan memperluasnya menjadi kemampuan yang tidak tertulis.”
 
-Tavian mengubah susunan tabel. Ia membuat dua bagian: **deskripsi efek** dan **hal yang tidak dijelaskan sumber**.
+Tavian memindahkan kutipan asli ke lampiran tabel dan mempertahankan terjemahan kerja di kolom terpisah. Ia juga menandai dua bagian yang belum bisa dibandingkan karena konteks halaman sumbernya tidak lengkap.
 
-Pada bagian pertama, ia menulis:
-- pertahanan luar biasa;
-- regenerasi HP secara berkelanjutan;
-- regenerasi MP secara berkelanjutan.
+Seraphine memeriksa perubahan itu. “Sekarang pembaca bisa melihat mana kata sumber dan mana pilihan terjemahan kita.”
 
-Pada bagian kedua:
-- mekanisme;
-- batas;
-- durasi;
-- kondisi penggunaan;
-- pembuat;
-- pemakai;
-- jumlah jubah;
-- cara perolehan.
-
-Tabel itu terlihat lebih panjang daripada kesimpulannya.
-
-“Kadang daftar yang tidak diketahui lebih banyak daripada yang diketahui,” kata Tavian.
-
-“Dalam penelitian sejarah, itu biasa,” jawab Seraphine. “Yang penting kita tidak menyamarkan perbedaannya.”
+Tavian mengangguk. Ia tidak lagi mencoba membuat setiap catatan terdengar seragam.
 
 ### Scene 11 — Nama Resonansi Hitam
 
@@ -165,9 +136,9 @@ Seraphine mengangguk. “Dan keduanya harus tetap dipisahkan.”
 
 ### Scene 12 — Sumber yang Bertentangan
 
-Dua dokumen yang mereka periksa pada hari berikutnya tampak saling bertentangan.
+Dua dokumen yang mereka periksa pada hari berikutnya tampak saling bertentangan jika dibaca hanya dari ringkasannya.
 
-Dokumen pertama lebih banyak membahas pertahanan. Dokumen kedua lebih menekankan pemulihan. Keduanya menggunakan istilah berbeda untuk menggambarkan jubah yang sama-sama disebut berwarna hitam.
+Dokumen pertama merupakan uraian yang lebih panjang tentang pertahanan. Dokumen kedua adalah kutipan pendek yang menekankan pemulihan. Keduanya menyebut jubah berwarna hitam, tetapi bentuk dan kelengkapan sumbernya tidak setara.
 
 Tavian meletakkan salinan itu berdampingan.
 
@@ -181,11 +152,11 @@ Tavian meletakkan salinan itu berdampingan.
 
 Ilyra membandingkan struktur kalimat, istilah, dan rujukan dokumen. Ia menemukan bahwa salah satu ringkasan dibuat berdasarkan catatan yang lebih panjang, sementara yang lain merupakan kutipan dari laporan yang tidak lengkap.
 
-“Tidak ada dasar untuk menyatakan keduanya dua jubah berbeda,” katanya. “Tapi juga belum cukup untuk memastikan seluruh detailnya berasal dari satu sumber yang sama.”
+“Kita tidak punya dasar untuk menyatakan keduanya dua jubah berbeda,” katanya. “Tapi kutipan pendek ini juga tidak cukup untuk mengonfirmasi semua rincian dari uraian pertama.”
 
-Tavian mencatat kedua kemungkinan tersebut.
+Tavian mencatat perbedaan jenis sumber itu. Ia mengubah judul kolom dari **pertentangan** menjadi **perbedaan penekanan dan kelengkapan**.
 
-Seraphine meminta agar tabel tidak menghapus perbedaan. Ia ingin laporan memperlihatkan bahwa sumber-sumber itu memiliki fokus berbeda, bukan memaksa semuanya menjadi satu deskripsi yang tampak rapi.
+Seraphine meminta agar tabel mempertahankan kedua kutipan beserta keterbatasannya. Mereka belum menemukan pertentangan langsung pada fakta yang dapat dibandingkan; yang terlihat sejauh ini adalah perbedaan fokus dan kelengkapan dokumen.
 
 Daren memperhatikan mereka dari sisi meja.
 
@@ -195,9 +166,9 @@ Kael tertawa pendek. “Ada orang yang memang lebih suka laporan yang tidak puny
 
 “Kalau begitu, mereka bisa menulisnya sendiri,” kata Seraphine.
 
-Tavian memeriksa tabel. Ia tidak lagi berusaha membuat dua kolom itu cocok. Ia hanya menambahkan catatan bahwa perbedaan penekanan belum membuktikan adanya dua benda yang berbeda.
+Tavian memeriksa tabel yang kini menunjukkan apa yang benar-benar dapat dibandingkan dan apa yang belum. Ia menghapus tanda silang merah yang semula ia letakkan di antara kedua sumber, lalu menggantinya dengan catatan bahwa bukti belum cukup untuk menyatakan keduanya bertentangan.
 
-Pekerjaan itu terasa lambat. Tetapi setidaknya mereka tidak sedang mengubah dokumen agar sesuai dengan kesimpulan yang diinginkan.
+Pekerjaan itu tidak menghasilkan jawaban baru tentang jubah. Namun, mereka berhasil menghindari kesimpulan keliru yang muncul hanya karena dua ringkasan ditulis dengan fokus berbeda.
 
 ### Scene 13 — Tidak Ada Mekanisme
 
@@ -231,23 +202,21 @@ Peneliti itu akhirnya mengangguk dan kembali ke mejanya. Sebelum pergi, ia memin
 
 Kael memperhatikan punggungnya. “Dia terlihat yakin.”
 
-“Keyakinan tidak menambah bukti,” kata Tavian.
+Tavian tidak menjawab. Ia meminta Ilyra menuliskan judul ringkasan yang disebut peneliti itu, sementara Seraphine mencatat bahwa hipotesis tersebut disampaikan secara lisan dan tidak boleh dikutip sebagai temuan koleksi.
 
-Ilyra merapikan lembar perbandingan. “Kita tidak perlu menolak teorinya. Kita hanya tidak boleh menulisnya sebagai fakta.”
+“Kalau nanti ada dokumen yang bisa diperiksa, kita bisa menilainya,” kata Seraphine. “Sampai saat itu, teori ini tidak masuk ke laporan.”
 
-Seraphine menutup map berisi dokumen jubah.
+Peneliti itu mengangguk, lalu kembali ke mejanya.
 
-Mereka telah menemukan deskripsi efek yang konsisten dengan fakta yang sudah diketahui. Mereka juga menemukan istilah Resonansi Hitam dalam sumber sejarah. Namun, tidak satu pun dokumen yang mereka periksa menjelaskan bagaimana jubah itu bekerja atau apa cakupan istilah tersebut.
+Kael menunggu sampai orang itu cukup jauh. “Dia ingin idenya dicatat, tapi tidak ingin namanya ikut dicatat.”
 
-Tavian melihat daftar pertanyaan di halaman terakhir.
+“Permintaan itu harus dihormati,” jawab Seraphine. “Kita bisa menyimpan petunjuknya tanpa mengubahnya menjadi kesaksian publik.”
 
-Jumlahnya masih banyak.
+Ilyra menutup map. “Jadi, untuk sekarang, kita punya satu hipotesis tanpa sumber tertulis yang bisa diuji.”
 
-Ia menambahkan satu baris:
+Tavian menuliskan statusnya di lembar kerja: **hipotesis lisan — belum diverifikasi; tidak digunakan sebagai dasar kesimpulan.**
 
-**Tidak ditemukan mekanisme yang dapat diverifikasi dalam koleksi yang diperiksa.**
-
-Lalu ia menyimpan catatannya.
+Mereka membereskan meja ketika petugas mulai mengembalikan dokumen ke ruang penyimpanan. Waktu pemeriksaan hari itu habis. Pertanyaan tentang mekanisme jubah tetap terbuka, tetapi setidaknya mereka tahu persis mengapa hipotesis tadi belum dapat dimasukkan ke laporan.
 
 ---
 
