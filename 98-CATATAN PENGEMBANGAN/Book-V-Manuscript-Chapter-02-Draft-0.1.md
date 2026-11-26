@@ -1,6 +1,6 @@
 # Book V — Perang yang Tertinggal
 ## Bab 2: Musik Tanpa Nama
-### Revision Draft 0.2 — Scenes 5–8
+### Revision Draft 0.3 — Scenes 5–8
 
 **Status: CATATAN PENGEMBANGAN / NON-CANON.**  
 **Basis:** Book V Scene Outline Draft 0.1, Book V Character Knowledge Matrix Draft 0.1, fakta CANON bahwa musik terdengar di seluruh dunia selama Great War dan nama NVR AGAIN baru diketahui melalui Prasasti pertama.  
@@ -11,6 +11,10 @@
 ### Scene 5 — Catatan tentang Bunyi
 
 Koleksi berikutnya tidak disimpan bersama dokumen kronologi.
+
+Pagi itu ruang baca lebih bising dari biasanya. Seorang petugas mendorong troli berisi kotak arsip, sementara dua pengunjung berdebat pelan tentang urutan peminjaman. Di luar jendela, pedagang menurunkan peti dari kereta dan suara roda sesekali menembus dinding tebal Balai. Neral menunggu sampai meja mereka kosong sebelum membuka katalog.
+
+Ia tampak kurang tidur. Ketika Tavian menanyakan apakah koleksi itu baru diterima, Neral menjawab bahwa beberapa kotak masih menunggu pemeriksaan kondisi. Ia tidak ingin dokumen yang belum dicatat masuk ke daftar akses hanya karena ada orang yang mendesak.
 
 Neral membawa mereka ke meja yang lebih kecil, lalu meletakkan tiga katalog di hadapan Ilyra. Sampulnya berbeda. Salah satunya berisi ringkasan laporan wilayah, satu lagi kumpulan catatan perjalanan, dan yang terakhir daftar dokumen yang diserahkan kepada Balai oleh beberapa keluarga.
 
@@ -68,7 +72,9 @@ Di lembar kerja, ia memberi judul sementara:
 
 ### Scene 6 — Kesaksian dari Wilayah Berbeda
 
-Sava Renn datang ke Balai pada hari berikutnya.
+Sava Renn datang ke Balai pada hari berikutnya. Ia terlambat karena harus mengembalikan map kesaksian kepada seorang anggota keluarga yang meminta satu bagian catatan diperiksa ulang sebelum digunakan. Sava tidak terlihat senang dengan keterlambatan itu, tetapi ia menolak meninggalkan map tersebut di tangan orang lain tanpa memastikan halaman yang diminta telah dipisahkan dari salinan kerja.
+
+“Kalau kita ingin orang mempercayakan cerita keluarganya, kita harus menghormati batas yang mereka tetapkan,” katanya ketika akhirnya duduk.
 
 Neral memperkenalkannya sebagai peneliti sejarah lisan yang pernah menyerahkan ringkasan beberapa kesaksian keluarga. Sava membawa map tipis dan beberapa lembar catatan. Ia tidak mengklaim bahwa seluruh keterangan itu berasal dari saksi langsung.
 
@@ -116,7 +122,7 @@ Mereka menghabiskan sisa waktu dengan memeriksa sumber satu per satu. Sava menje
 
 Tidak ada satu pun yang menyebut nama NVR AGAIN.
 
-Namun, beberapa sumber dari tempat yang berjauhan menggambarkan bunyi atau lantunan yang terdengar selama Great War.
+Namun, beberapa sumber dari tempat yang berjauhan menggambarkan bunyi atau lantunan yang terdengar selama Great War. Sava meminta mereka tidak menulis seolah semua keluarga mengingat pengalaman yang sama. Salah satu ringkasan bahkan memuat dua versi dalam keluarga yang sama: seorang anggota mengingat bunyi itu berlangsung lama, sementara anggota lain hanya mengingatnya sebagai suara singkat. Mereka mencatat perbedaan tersebut tanpa memaksa salah satunya menjadi versi utama.
 
 Bagi Tavian, itu belum menjadi jawaban. Tapi untuk pertama kalinya, pertanyaan mereka tidak hanya bertumpu pada satu dokumen.
 
@@ -238,3 +244,4 @@ Untuk sementara, itu adalah batas yang bisa mereka pertanggungjawabkan.
 - Tidak ada informasi baru tentang LEAX, jubah mana hitam, atau Resonansi Hitam.
 - Kota Orlenn, Balai Catatan Perang, Neral Voss, Sava Renn, seluruh dokumen, dan dialog tetap NON-CANON.
 - Revision 0.2 memperketat standar independensi sumber dan membatasi kekuatan kesimpulan pada sumber yang asal keterangannya dapat diperiksa.
+- Revision 0.3 menambah konteks kerja ruang arsip dan batas persetujuan keluarga atas penggunaan kesaksian; seluruh detail tetap NON-CANON.
