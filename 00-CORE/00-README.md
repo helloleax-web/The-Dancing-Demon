@@ -22,6 +22,7 @@ Paket ini berisi ringkasan, indeks, dan panduan kontinuitas untuk lore *The Danc
 - [Editorial and Repository Maintenance Policy](../99-ADMIN/Editorial-Maintenance-Policy.md) — standar editorial dan pemeliharaan repository.
 - [Open Questions](../99-ADMIN/Open-Questions.md) — daftar keputusan dan pengembangan yang masih terbuka.
 - [Canon Changelog](../99-ADMIN/Canon-Changelog.md) — riwayat perubahan canon dan dokumentasi.
+- [Catatan Pengesahan Dokumentasi — 2026-11-26](../99-ADMIN/Documentation-Approval-Record-2026-11-26.md) — cakupan pengesahan karakter, lokasi, dan organisasi serta batas informasi yang tetap UNKNOWN/NON-CANON.
 
 ## Rujukan CANON cerita
 - [Series Spine & Narrative Framework](../01-CANON/Series-Spine-and-Narrative-Framework.md) — fondasi naratif, pusat emosional, lapisan konflik, dan fungsi delapan buku.
@@ -30,7 +31,7 @@ Paket ini berisi ringkasan, indeks, dan panduan kontinuitas untuk lore *The Danc
 ## Materi pengembangan cerita
 
 Dokumen berikut merupakan draft NON-CANON dan tidak menggantikan Bible rujukan:
-- [Character Development Dossier — Draft 0.1](../98-CATATAN%20PENGEMBANGAN/Character-Development-Dossier-Draft-0.1.md) — proposal profil dan arc karakter.
+- [Character Development Dossier — Draft 0.1](../98-CATATAN%20PENGEMBANGAN/Character-Development-Dossier-Draft-0.1.md) — arsip pengembangan NON-CANON; rujukan resmi profil dan arc karakter ada di Character Bible dan Ensemble Character Arcs.
 - [Book I Scene Outline — Draft 0.1](../98-CATATAN%20PENGEMBANGAN/Book-I-Scene-Outline-Draft-0.1.md) — pengembangan premis Buku I menjadi rangkaian adegan.
 - [Location & Organization Dossier — Draft 0.1](../98-CATATAN%20PENGEMBANGAN/Location-Organization-Development-Dossier-Draft-0.1.md) — proposal fungsi lokasi dan organisasi.
 - [Eight-Book Series Architecture — Draft 0.1](../98-CATATAN%20PENGEMBANGAN/Eight-Book-Series-Architecture-Draft-0.1.md) — rancangan fungsi dan kesinambungan delapan buku.
