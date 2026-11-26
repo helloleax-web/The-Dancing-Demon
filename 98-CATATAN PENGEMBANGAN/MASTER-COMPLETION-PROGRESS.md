@@ -196,3 +196,17 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 - 2026-11-27: Book III Chapter 2 direvisi menjadi Draft 0.2 untuk memakai catatan perjalanan Hollow Vale yang telah diperkenalkan pada Chapter 1 dan menghapus asumsi pendanaan kurator yang tidak didukung outline. Continuity Audit Draft 0.4 dan Manuscript Index Draft 0.4 diterbitkan. Book II dan III tetap DALAM REVISI.
 - 2026-11-27: Book III Chapters 3–6 direvisi menjadi Revision Draft 0.2. Revisi membatasi akses pada bagian situs yang terbuka tanpa mengklaim izin formal, menjaga jalur informasi Vellum & Iron Recovery dan kebocoran salinan tetap misteri, memperjelas bahwa perjanjian hanya mengatur dokumentasi/salinan, menyelaraskan motivasi Ilyra dengan Character Bible, dan memberi Kael keputusan untuk tidak mengirim salinan tanpa sumber/persetujuan. Character Knowledge Matrix Draft 0.4, Continuity Audit Draft 0.5, Manuscript Index Draft 0.5 diterbitkan. Status akses legal Hollow Vale tetap OPEN QUESTION.
 - 2026-11-27: Enam storyboard Buku III memperoleh paket sinkronisasi panel Draft 0.2 berdasarkan manuskrip Chapters 1–6 Revision Draft 0.2. Koreksi meliputi hitungan sumber, batas akses Hollow Vale, klaim dan jalur informasi Vellum & Iron Recovery, lingkup kesepakatan dokumentasi, bagian indeks yang tidak lengkap, motivasi Ilyra, dan keputusan Kael. Storyboard Index Draft 0.3 dan Synchronization Audit Draft 0.3 diterbitkan. Paket revisi masih berupa patch panel; integrasi master standalone dan thumbnail belum dilakukan.
+
+
+## Book III — Manga storyboard update (Integrated Draft 0.2)
+
+- [x] Enam storyboard master standalone dibuat dengan menggabungkan Draft 0.1 dan koreksi sinkronisasi Draft 0.2.
+- [x] Storyboard Index diperbarui ke Draft 0.4.
+- [x] Integration & Continuity Audit diperbarui ke Draft 0.4.
+- [ ] Uji ritme halaman dan jumlah panel.
+- [ ] Buat thumbnail visual.
+- [ ] Periksa lettering, balon dialog, efek suara, dan urutan baca kanan-ke-kiri.
+- [ ] Final line edit dan proofreading manuskrip Buku III.
+- [ ] Audit akhir Buku III sebelum dinyatakan selesai.
+
+**Catatan status:** integrasi master dokumen selesai; ini bukan klaim bahwa thumbnail atau produksi visual telah dilakukan.
