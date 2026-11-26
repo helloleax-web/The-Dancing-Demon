@@ -384,5 +384,6 @@
 ## Scene 1 thumbnail production — Draft 0.1
 
 - [Book V Scene 1 Thumbnail Production — Draft 0.1](Book-V-Scene-01-Thumbnail-Production-Draft-0.1.md) — staging manual lima panel Scene 1 berdasarkan storyboard dan blocking audit.
-- Thumbnail diterima hanya sebagai studi komposisi; figur, properti, dan latar tetap abstrak.
-- Thumbnail ilustratif dan ilustrasi final belum diterima/dibuat. Semua materi NON-CANON; dampak CANON nihil.
+- Draft 0.1 diperiksa dan direvisi setelah ditemukan kekurangan jumlah figur, pemisahan properti map, kontinuitas rombongan, dan teks catatan.
+- [Book V Scene 1 Thumbnail Production — Draft 0.1](Book-V-Scene-01-Thumbnail-Production-Draft-0.1.md) diperbarui dengan hasil audit dan penerimaan layout manual Draft 0.2.
+- Layout staging 5/5 panel diterima sebagai komposisi abstrak; thumbnail ilustratif dan ilustrasi final belum dibuat. Semua materi NON-CANON; dampak CANON nihil.
