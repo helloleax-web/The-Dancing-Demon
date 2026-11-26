@@ -1,6 +1,6 @@
 # Book III — Sisa-Sisa yang Tertinggal
 ## Bab 2: Akses dan Asal
-### Line Edit Draft 0.3 — Scenes 5–7
+### Proofread Draft 0.4 — Scenes 5–7
 
 **Status: CATATAN PENGEMBANGAN / NON-CANON.**  
 **Basis:** Manuscript Chapter 02 Revision Draft 0.2 dan Book III Continuity Audit Draft 0.5.
