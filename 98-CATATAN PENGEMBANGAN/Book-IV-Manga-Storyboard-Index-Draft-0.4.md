@@ -25,6 +25,7 @@
 ## Page rhythm dan thumbnail
 
 - [Book IV Page Rhythm & Thumbnail Plan — Draft 0.1](Book-IV-Page-Rhythm-and-Thumbnail-Plan-Draft-0.1.md)
+- [Book IV Thumbnail Wireframe Samples — Draft 0.1](Book-IV-Thumbnail-Wireframe-Samples-Draft-0.1.md)
 - Target layout bervariasi: 4, 5, dan 6 panel; Bab 3 halaman 15 menjadi full-page splash.
 - 370 adalah jumlah beat panel yang saat ini ditulis, bukan jumlah panel final setelah thumbnail visual.
 
