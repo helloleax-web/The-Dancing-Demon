@@ -402,3 +402,10 @@
 - Layout komposisi manual Panel 1.2 dibuat sebagai insert map Tavian dengan tiga objek terpisah: salinan peta lokasi batu, catatan kondisi permukaan, dan lembar NVR AGAIN.
 - Hanya teks NVR AGAIN yang terbaca; isi peta dan catatan tidak ditetapkan.
 - Status: layout komposisi diterima untuk uji keterbacaan properti; bukan ilustrasi final. NON-CANON.
+
+
+### Scene 1 — Panel 1.3 thumbnail
+
+- [Book V Scene 1, Panel 1.3 — Thumbnail Draft 0.1](Book-V-Scene-01-Panel-1-3-Thumbnail-Draft-0.1.md) — medium-group staging dengan enam anggota rombongan; diskusi tetap berlangsung sambil berjalan.
+- Tavian memeriksa lembar, Kael berkomentar, Ilyra menjelaskan batas pembacaan, dan Seraphine sedikit di depan memeriksa daftar dokumen. Mira dan Daren tetap hadir tanpa aksi tambahan.
+- Layout manual diterima sebagai studi komposisi NON-CANON; bukan ilustrasi final. Dampak CANON nihil.
