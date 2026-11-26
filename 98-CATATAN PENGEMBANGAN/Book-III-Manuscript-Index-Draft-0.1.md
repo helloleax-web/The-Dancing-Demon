@@ -1,6 +1,8 @@
 # Book III — Manuscript Index — Draft 0.1
 
-**Status:** CATATAN PENGEMBANGAN / NON-CANON.  
+**Status:** CATATAN PENGEMBANGAN / NON-CANON.
+
+> **Catatan status:** dokumen ini adalah versi awal dan telah disupersesi oleh versi 0.2. Gunakan Book III Manuscript Continuity Audit, Manuscript Index, Scene Outline, dan Character Knowledge Matrix Draft 0.2 untuk status terbaru.  
 **Progress:** pass pertama untuk seluruh 20 scene outline telah ditulis dan dipisahkan menjadi enam bab kerja.  
 **Jumlah kata:** sekitar 6,890 kata termasuk judul dan catatan tambahan.
 
