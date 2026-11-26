@@ -15,7 +15,7 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 |---|---|---|
 | I — Jalur yang Terlupakan | DALAM REVISI | Keenam bab telah melalui line edit awal (Bab 1 Draft 0.2; Bab 2–6 Draft 0.3). Audit line edit enam bab Draft 0.2 dan indeks manuskrip Draft 1.3 tersedia. Sinkronisasi panel-per-panel, line edit terpadu, proofreading, roster pendukung, dan audit kontinuitas final masih tertunda. |
 | II — Dunia di Luar Peta | DALAM REVISI | Bab 1–4 memiliki pass line-edit Draft 0.3; Bab 5–6 memiliki revisi klarifikasi Draft 0.4. Unified Line-Edit Audit Draft 0.3 menyelesaikan status laporan Rookbridge dengan membedakan salinan lapangan, laporan kontrak Meridian, dan laporan akhir Tavian. Posisi lintasan sempit pada cabang alternatif tetap OPEN QUESTION karena outline dan storyboard tidak menentukannya. Storyboard Chapter 6 Draft 0.2 telah disinkronkan; Chapters 1–5, proofreading, dan audit final masih tertunda. |
-| III — Sisa-Sisa yang Tertinggal | DALAM REVISI | Chapters 1–6 memiliki Revision Draft 0.2. Chapters 3–6 direvisi untuk memperjelas batas akses (tanpa mengarang izin formal), jalur informasi Vellum & Iron Recovery dan kebocoran tetap misteri, kesepakatan dokumentasi dibatasi pada salinan, motivasi Ilyra disejajarkan dengan Character Bible, dan Kael mengambil keputusan konkret untuk menahan salinan. Continuity Audit Draft 0.5, Character Knowledge Matrix Draft 0.4, dan Manuscript Index Draft 0.5 tersedia. Enam paket storyboard synchronization revision 0.2, Storyboard Index Draft 0.3, dan Synchronization Audit Draft 0.3 telah dibuat. Paket storyboard masih berupa patch panel yang harus diintegrasikan ke master standalone dan diuji dengan thumbnail. Status legal akses Hollow Vale masih OPEN QUESTION; line edit terpadu dan proofreading masih tertunda. |
+| III — Sisa-Sisa yang Tertinggal | DALAM REVISI | Keenam bab memiliki Proofread Draft 0.4 dan telah dibaca berurutan setelah keputusan kreator B. Keputusan B diterapkan: kelompok masuk tanpa izin atau kewenangan yang terkonfirmasi dan sadar tindakan itu dapat dipersoalkan; identitas otoritas dan status legal situs tetap UNKNOWN/OPEN QUESTION. Continuity Audit Draft 0.7, Character Knowledge Matrix Draft 0.5, Manuscript Index Draft 0.7, Storyboard Index Draft 0.5, Storyboard Audit Draft 0.5, dan Page Rhythm Audit Draft 0.2 tersedia. Enam storyboard master standalone sudah terintegrasi dan catatan keputusan B telah disinkronkan; audit panel-per-panel terhadap Proofread Draft 0.4, thumbnail, lettering, dan layout final masih tertunda. Final proofread mikro, audit sumber CANON/transisi Buku IV, dan persetujuan kreator belum selesai. |
 | IV — Prasasti Pertama | BELUM DIKERJAKAN | Perlu memilih versi chapter aktif berdasarkan riwayat dan mengaudit interpretasi prasasti. |
 | V — Perang yang Tertinggal | BELUM DIKERJAKAN | Perlu membandingkan draft dan revisi yang tersedia serta audit sejarah/konsekuensi. |
 | VI — Dunia yang Gelisah | BELUM DIKERJAKAN | Perlu audit seluruh lima chapter dan eskalasi pasca-Book V. |
@@ -286,8 +286,8 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 - [x] Storyboard Chapter 2 and Chapter 6 synchronization corrections.
 - [x] Creator decision: select knowingly undertaken entry without confirmed permission (Option B).
 - [x] Apply Option B to Chapter 3 prose, scene outline, all six manuscript continuity notes, all six integrated storyboard masters, decision brief, and audits/index.
-- [ ] Fresh consecutive read-through after access decision.
-- [ ] Final approval audit and author approval of Book III.
+- [x] Fresh consecutive read-through Scenes 1–20 after access decision; continuity corrections and stale status notes updated.
+- [ ] Final micro-proofread, canon-source/Book IV transition audit, storyboard panel-by-panel cross-check, and author approval of Book III.
 
 
 ## Book III — Creator decision required
@@ -295,7 +295,11 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 - [x] Prepare decision brief for Hollow Vale access.
 - [x] Creator chose Option B: knowingly undertaken entry without confirmed permission.
 - [x] Apply the chosen path consistently to manuscript and storyboard.
-- [ ] Only then perform final read-through and approval audit.
+- [x] Perform consecutive read-through after applying Option B.
+- [ ] Perform final micro-proofread, canon-source/Book IV transition audit, storyboard panel-by-panel cross-check, and approval audit.
 
 
 - 2026-11-27: Creator selected Option B for Hollow Vale access. Chapter 3 now frames entry as knowingly undertaken without confirmed permission; physical limits are not treated as legal authorization. The decision was propagated to the scene outline, all six manuscript continuity notes, all six integrated storyboard masters, continuity/proofreading audits, manuscript index, and decision brief. Site authority/legal status and any specific consequences remain UNKNOWN/OPEN QUESTION. Book III is not final; a fresh consecutive read-through and final approval audit remain.
+
+
+- 2026-11-27: Sequential read-through of Book III Proofread Draft 0.4, Scenes 1–20, completed after Option B. Stale editorial notes in Chapters 1, 2, 4, 5, and 6 were corrected; Chapter 6 closing wording now explicitly says no official decision authorized the group's access. Scene Outline 0.2 clarifies that the agreement concerns limited distribution of copies, not physical site access. New Manuscript Continuity Audit 0.7, Character Knowledge Matrix 0.5, Manuscript Index 0.7, Storyboard Index 0.5, Storyboard Audit 0.5, and Page Rhythm Audit 0.2 were published. Book III remains in revision: final micro-proofread, CANON/source and Book IV transition audit, panel-by-panel storyboard cross-check, thumbnails, lettering/layout, and creator approval remain.
