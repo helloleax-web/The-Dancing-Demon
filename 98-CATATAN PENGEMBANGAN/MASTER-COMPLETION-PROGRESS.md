@@ -242,3 +242,16 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 - [ ] Line edit Chapters 2–6.
 - [ ] Unified line edit and proofreading audit.
 - [ ] Final continuity/proofread pass before Book III completion.
+
+
+## Book III — Manuscript line edit Draft 0.3
+
+- [x] Chapter 1 line edit Draft 0.3.
+- [x] Chapter 2 line edit Draft 0.3.
+- [x] Chapter 3 line edit Draft 0.3.
+- [x] Chapter 4 line edit Draft 0.3.
+- [x] Chapter 5 line edit Draft 0.3.
+- [x] Chapter 6 line edit Draft 0.3.
+- [ ] Unified line-edit and proofreading audit.
+- [ ] Verify scene-to-scene and chapter-to-chapter continuity against current canon and approved development constraints.
+- [ ] Final proofread after all revisions.
