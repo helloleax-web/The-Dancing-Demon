@@ -79,3 +79,11 @@ Periksa sisa pemadatan Halaman 1–2, lalu lakukan review final layout tekstual 
 - Source Discrepancy Register diperbarui: lima perbedaan tersebut ditandai telah diperbaiki.
 - Sisa pemadatan yang masih perlu dievaluasi: Halaman 1–2 (dua salinan kerja Ilyra dan peringatan Seraphine).
 - Teks naratif Scenes 1–5 kini CANON; storyboard dan layout manga tetap NON-CANON. Belum ada artwork thumbnail nyata di repository.
+
+
+## Pengesahan cerita — Book IV Chapter 2
+- [x] Scenes 6–10 (*Batu yang Tidak Terbaca*) disahkan sebagai teks naratif CANON.
+- [x] Salinan resmi ditempatkan di `01-CANON/Book-IV-Chapter-02-Batu-yang-Tidak-Terbaca.md`.
+- [x] Indeks kontinuitas diperbarui dengan batas pengetahuan dan prosedur non-invasif Bab 2.
+- [ ] Storyboard dan layout Bab 2 tetap CATATAN PENGEMBANGAN / NON-CANON; pengesahan cerita tidak otomatis mengesahkan panel atau komposisi manga.
+- [ ] Produksi artwork thumbnail Bab 2 belum dilakukan.
