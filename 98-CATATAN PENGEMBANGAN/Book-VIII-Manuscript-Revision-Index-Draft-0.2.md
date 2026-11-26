@@ -3,7 +3,7 @@
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Manuscript:** `Book-VIII-Manuscript-Revision-Draft-0.2.md`  
 **Bentuk:** lima bagian, dua puluh scene.  
-**Panjang:** sekitar 8.802 kata berdasarkan pemisahan whitespace; hitungan mencakup judul dan metadata.
+**Panjang:** sekitar 8.831 kata berdasarkan pemisahan whitespace; hitungan mencakup judul dan metadata.
 
 ## Struktur
 
