@@ -192,3 +192,11 @@
 - Concept sheet awal telah dibuat dan ditinjau; diterima hanya sebagai studi komposisi. Thumbnail panel-per-panel belum selesai.
 - Ilustrasi final dan desain karakter/lokasi belum dibuat atau dikunci.
 - Seluruh visual tetap NON-CANON.
+
+
+### Thumbnail manual Scene 1
+
+- Layout thumbnail manual Scene 1 Draft 0.2 telah dibuat dan diterima sebagai studi komposisi abstrak lima panel.
+- Detail desain karakter, arsitektur, geografi, dan properti visual belum dikunci.
+- Catatan evaluasi: [Book V Thumbnail Review — Bab 1](Book-V-Thumbnail-Review-Chapter-01-Draft-0.1.md).
+- Status: layout komposisi awal diterima; thumbnail ilustratif dan ilustrasi final belum dibuat. Seluruh materi NON-CANON.
