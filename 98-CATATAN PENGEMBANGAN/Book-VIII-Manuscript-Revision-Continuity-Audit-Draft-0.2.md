@@ -8,7 +8,7 @@
 
 **Status: LEBIH KUAT DARI FIRST-PASS; BELUM FINAL.**
 
-Revisi mempertahankan 20 scene dan lima bagian, dengan panjang sekitar 8.237 kata. Konflik lapangan kini memiliki konsekuensi yang lebih konkret. Keenam karakter mengambil tindakan yang memperlihatkan perkembangan, bukan hanya mengucapkan prinsip. Payoff judul lebih terhubung dengan pengalaman kelompok melihat informasi berubah ketika disalin dan ditafsirkan.
+Revisi mempertahankan 20 scene dan lima bagian, dengan panjang sekitar 8.802 kata. Konflik lapangan kini memiliki konsekuensi yang lebih konkret. Keenam karakter mengambil tindakan yang memperlihatkan perkembangan, bukan hanya mengucapkan prinsip. Payoff judul lebih terhubung dengan pengalaman kelompok melihat informasi berubah ketika disalin dan ditafsirkan.
 
 ## 2. Audit sebab-akibat eksternal
 
@@ -58,7 +58,16 @@ Revisi mempertahankan 20 scene dan lima bagian, dengan panjang sekitar 8.237 kat
 | Kontak Kael | Identitas dan pesan tetap UNKNOWN |
 | Makna judul | Mengikuti dokumen CANON khusus |
 
-## 6. Hal yang masih perlu diperbaiki
+## 6. Pemeriksaan tambahan pada bagian tengah
+
+- Scene 9 sekarang memperlihatkan hak pemilik dokumen melalui Olan; dokumen keluarga tidak otomatis menjadi bahan publik.
+- Scene 10 menguji risiko mengubah nama NVR AGAIN menjadi atribusi pencipta musik; tidak ada klaim baru yang dibuat.
+- Scene 12 menampilkan kesaksian yang saling tidak cocok dan satu rekaman getaran; tidak ada penyebab yang dipastikan.
+- Scene 11 memperlihatkan Ilyra mengoreksi garis hubungan yang ia buat sendiri.
+
+**Penilaian:** bagian tengah tidak lagi sepenuhnya berupa paparan. Konflik kecil dengan pemilik dokumen, katalog, dan perbedaan kesaksian memberi tekanan pada keputusan karakter.
+
+## 7. Hal yang masih perlu diperbaiki
 
 1. Pembukaan harus dicocokkan lagi dengan akhir Buku VII setelah seluruh manuskrip I–VII ditinjau sebagai satu rangkaian.
 2. Scene 9–12 masih berpotensi terasa seperti diskusi arsip. Perlu satu atau dua tindakan lapangan/konflik interpersonal tambahan agar informasi tidak disampaikan sebagai kuliah.
@@ -68,6 +77,6 @@ Revisi mempertahankan 20 scene dan lima bagian, dengan panjang sekitar 8.237 kat
 6. Sebagian persediaan rusak disebutkan di bagian akhir, tetapi pembaca belum melihat skala dan akibatnya. Revisi berikutnya dapat memberi satu adegan singkat tentang keputusan warga terhadap barang yang rusak.
 7. Penutup menyelesaikan konflik lokal dan payoff judul, tetapi status masa depan kelompok masih terbuka. Pastikan penutup terasa sebagai akhir seri, bukan sekadar akhir ekspedisi.
 
-## 7. Kesimpulan
+## 8. Kesimpulan
 
 Draft 0.2 merupakan peningkatan substantif atas first-pass: keputusan Tavian lebih berbiaya, kesalahan Seraphine dan Ilyra terlihat, Kael kehilangan peluang, Mira melakukan negosiasi yang dapat diuji, dan Daren harus menerima bantuan. Naskah belum layak disebut final sebelum audit lintas delapan buku, revisi ritme adegan tengah, dan line edit.
