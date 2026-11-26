@@ -1,4 +1,4 @@
-# Book IV — Manga Storyboard — Chapter 1 — Revision Draft 0.2
+# Book IV — Manga Storyboard — Chapter 1 — Revision Draft 0.3
 
 **Judul bab:** Jejak di Luar Fasilitas  
 **Basis:** Manuscript Chapter 01, Scenes 1–5.  
@@ -64,9 +64,9 @@
 
 ## Halaman 8 — Tempat Singgah
 **Panel 1 — Wide.** Tempat singgah kecil dekat persimpangan lama.
-**Panel 2.** Pengangkut menunjukkan arah punggung batu.
-**Panel 3.** Tavian bertanya apakah orang masih melewatinya.
-**Panel 4.** Pengangkut menjawab sebagian, tetapi jalurnya sulit.
+**Panel 2.** Pengangkut mengatakan batu bertulis itu mungkin berada lebih jauh di punggung batu dan menunjukkan arah umum, bukan lokasi yang pasti.
+**Panel 3.** Tavian bertanya apakah orang masih melewati jalur tersebut.
+**Panel 4.** Pengangkut menjawab: “Sebagian. Tapi tidak banyak yang berhenti. Jalur itu lebih sulit dilalui.”
 **Panel 5.** Mira berkata mereka perlu menemui penjaga jalur.
 
 ## Halaman 9 — Jorren Hale
@@ -86,16 +86,16 @@
 ## Halaman 11 — Permintaan Izin
 **Panel 1.** Tavian meminta izin mendokumentasikan permukaan.
 **Panel 2.** Jorren tidak langsung menjawab.
-**Panel 3.** “Batu itu bukan milik kelompok yang datang untuk menelitinya.”
-**Panel 4.** Seraphine menjanjikan tidak menggali atau memindahkan.
+**Panel 3.** Jorren berkata: “Batu itu bukan milik kelompok yang datang untuk menelitinya. Tapi orang-orang di sini juga tidak ingin batu itu rusak karena seseorang ingin tahu lebih cepat.”
+**Panel 4.** Seraphine menjanjikan tidak menggali atau memindahkan apa pun.
 **Panel 5.** Jorren menatap Mira, meminta penilaiannya.
 
 ## Halaman 12 — Batas yang Disepakati
 **Panel 1.** Mira menjelaskan bahwa kelompok mau mendengar batas.
 **Panel 2.** Jorren bertanya apa yang dilakukan jika menemukan sesuatu yang bisa dibaca.
 **Panel 3.** Seraphine: sumber dan kondisi dicatat; kesimpulan tidak diumumkan sebelum diperiksa.
-**Panel 4.** Jorren setuju mengantar mereka, sambil menegaskan bahwa izinnya terbatas pada akses jalur yang ia jaga.
-**Panel 5.** Tavian menerima ketentuan; tidak ada klaim bahwa Jorren mewakili semua pihak yang berkepentingan.
+**Panel 4.** Jorren setuju mengantar mereka hanya melalui jalur yang ia jaga. Ia menetapkan bahwa kelompok harus mengikuti jalur yang ditunjukkan, tidak memindahkan batu, dan tidak membersihkan permukaan tanpa persetujuan.
+**Panel 5.** Tavian menerima ketentuan. Tegaskan bahwa izin Jorren tidak berarti ia mewakili semua pihak yang berkepentingan.
 
 ## Halaman 13 — Persimpangan Ketiga
 **Panel 1 — Wide.** Jorren membawa mereka ke jalur yang tidak lagi dipakai gerobak.
@@ -108,7 +108,7 @@
 **Panel 1.** Mira menjelaskan satu jalur sudah tidak digunakan.
 **Panel 2.** Ilyra membandingkan deskripsi dengan catatan.
 **Panel 3.** Seraphine: “Belum cukup.”
-**Panel 4.** Jorren menunjuk batu besar di kejauhan.
+**Panel 4.** Jorren menunjuk batu besar di kejauhan: “Kalau yang kalian cari memang batu itu, kalian akan melihatnya dari sisi atas.” Ucapannya tetap bersyarat; identifikasi belum dipastikan.
 **Panel 5.** Tavian mencatat arah dan jarak perkiraan, tanpa koordinat pasti.
 
 ## Halaman 15 — Pemeriksaan Keselamatan
@@ -119,10 +119,10 @@
 **Panel 5.** Kelompok menata ulang beban.
 
 ## Halaman 16 — Prosedur Dokumentasi
-**Panel 1.** Seraphine menjelaskan pengambilan gambar dari beberapa sudut.
+**Panel 1.** Seraphine menjelaskan bahwa mereka akan mengambil gambar dari beberapa sudut dan mencatat kondisi permukaan. Tidak ada pembersihan agresif.
 **Panel 2.** Tavian menyiapkan sketsa posisi.
 **Panel 3.** Ilyra meminta izin menyalin tanda yang terlihat.
-**Panel 4.** Jorren mengizinkan selama tidak disentuh atau digores.
+**Panel 4.** Jorren mengizinkan selama tidak ada yang menyentuh atau menggores. Jika endapan menutupi bagian tertentu, mereka hanya mencatatnya dan tidak mengangkat material.
 **Panel 5.** Mira meminta konteks masyarakat setempat dicantumkan dan petunjuk lokasi rinci tidak disebarkan sebelum dampaknya dibicarakan dengan pengguna jalur.
 
 ## Halaman 17 — Izin Terbatas
@@ -146,3 +146,12 @@
 - Tidak ada penggalian, pembersihan agresif, atau pemindahan.
 - Nama NVR AGAIN tidak boleh muncul sebelum Scene 14 Buku IV.
 - Semua panel dan komposisi tetap NON-CANON.
+ 
+
+## Catatan revisi Revision Draft 0.3
+- Halaman 8 mengembalikan sifat tentatif informasi pengangkut.
+- Halaman 11 memulihkan alasan Jorren tentang perlindungan batu.
+- Halaman 12 memperjelas syarat jalur dan larangan memindahkan/membersihkan tanpa persetujuan.
+- Halaman 14 mempertahankan kalimat bersyarat Jorren agar identifikasi batu belum dianggap pasti.
+- Halaman 16 memulihkan batas konservasi: tidak ada pembersihan agresif dan endapan tidak diangkat.
+- Seluruh perubahan adalah penyesuaian storyboard NON-CANON; tidak mengubah lore/CANON.
