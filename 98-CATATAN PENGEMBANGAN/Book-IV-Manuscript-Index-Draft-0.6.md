@@ -45,9 +45,9 @@ Hal-hal tersebut tidak boleh disajikan sebagai CANON tanpa keputusan kreator.
 ## 5. Produksi manga
 
 - [Storyboard Index Draft 0.3](Book-IV-Manga-Storyboard-Index-Draft-0.3.md).\n- [Storyboard Audit Report Draft 0.3](Book-IV-Manga-Storyboard-Audit-Report-Draft-0.3.md) — cross-check empat bab terhadap manuskrip aktif.
-- [Storyboard Chapter 3 Revision Draft 0.2](Book-IV-Manga-Storyboard-Chapter-03-Revision-Draft-0.2.md).
+- [Storyboard Chapter 1 Revision Draft 0.3](Book-IV-Manga-Storyboard-Chapter-01-Revision-Draft-0.3.md).\n- [Storyboard Chapter 3 Revision Draft 0.2](Book-IV-Manga-Storyboard-Chapter-03-Revision-Draft-0.2.md).
 - [Storyboard Chapter 4 Revision Draft 0.2](Book-IV-Manga-Storyboard-Chapter-04-Revision-Draft-0.2.md).
-- Storyboard Bab 1–2 belum disinkronkan dalam pass mekanisme B.
+- Storyboard Bab 1 Revision Draft 0.3 telah dikoreksi untuk sumber rute; Bab 2 Revision Draft 0.2 tetap menjadi baseline dan telah diperiksa terhadap manuskrip. Keempat bab tercakup dalam Storyboard Audit Report Draft 0.3.
 - Storyboard lama Bab 3–4 Draft 0.1 merupakan baseline yang tidak lagi sinkron.
 - Estimasi lama 74 halaman / 370 panel bukan hitungan final setelah revisi.
 
