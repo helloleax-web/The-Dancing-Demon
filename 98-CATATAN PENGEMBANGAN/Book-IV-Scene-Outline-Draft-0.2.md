@@ -238,11 +238,21 @@ Penemuan didokumentasikan dan diumumkan dengan batas interpretasi yang jelas. Na
 
 **Dampak CANON: tidak ada.** Outline ini mengembangkan penemuan Prasasti pertama sesuai fakta CANON, tanpa menetapkan makna atau hubungan lain.
 
+## 10. Model kerja medium — NON-CANON
+
+Untuk konsistensi istilah dalam outline dan revisi prosa:
+- **Objek Northglass** adalah artefak fisik bertulis yang ditemukan kelompok dan memuat rangkaian tanda yang ditransliterasikan sebagai NVR AGAIN.
+- **Prasasti I** adalah naskah interpretasi in-world yang ditulis oleh seorang keturunan LEAX, sesuai dokumen CANON.
+- Objek Northglass tidak disebut sebagai naskah interpretasi itu sendiri. Ia hanya diperlakukan sebagai artefak fisik yang berkaitan dengan penemuan Prasasti I.
+- Hubungan apakah objek itu sumber, indeks, salinan, atau artefak yang menyertai rekaman tidak dijelaskan dan tetap UNKNOWN.
+
+Model ini adalah keputusan pengembangan NON-CANON agar draft tidak mencampuradukkan objek fisik dan dokumen interpretasi. Ia tidak menetapkan medium yang sama bagi Prasasti II–XIII.
+
 
 ## 9. Addendum — revisi kontinuitas 0.2
 
 - Scene 12–14 membedakan transliterasi satu rangkaian tanda dari terjemahan seluruh prasasti.
 - Nama NVR AGAIN muncul pertama kali pada Scene 14 dan tidak menjelaskan referen atau makna.
-- Hubungan antara batu fisik Northglass dan bentuk naskah interpretasi in-world yang ditetapkan CANON ditandai sebagai OPEN QUESTION.
+- Model kerja NON-CANON membedakan objek Northglass sebagai artefak fisik yang terkait dengan penemuan Prasasti I dari naskah interpretasi keturunan LEAX yang merupakan dokumen CANON tersendiri. Hubungan asal-usul/informasi di antara keduanya tetap UNKNOWN.
 - Arah riset Great War pada penutup tetap kemungkinan pencarian sumber, bukan pengetahuan bahwa NVR AGAIN adalah nama musik yang terdengar selama perang.
-- Semua keputusan medium, metode transliterasi, dan detail situs tetap NON-CANON.
+- Model medium Northglass, metode transliterasi, dan detail situs tetap NON-CANON; tidak ada medium universal yang ditetapkan untuk 13 Prasasti.
