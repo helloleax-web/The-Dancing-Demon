@@ -1,7 +1,7 @@
 # Book IV — Character Knowledge and Continuity Matrix — Draft 0.3
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
-**Basis:** Book IV Scene Outline Draft 0.2, four-chapter manuscript, CANON Thirteen Prasasti, and Great War & Resonansi Hitam.
+**Basis:** Book IV Scene Outline Draft 0.3, four-chapter manuscript, CANON Thirteen Prasasti, and Great War & Resonansi Hitam.
 
 ## 1. Aturan
 
