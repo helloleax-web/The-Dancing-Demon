@@ -56,4 +56,4 @@
 - Resonansi Hitam: cakupan istilah belum ditentukan.
 - Jubah mana hitam: identitas pengguna, pembuat, jumlah, dan cara perolehan tidak ditentukan.
 
-**Dampak CANON: tidak ada.** Penggunaan fakta minimum LEAX mengikuti CANON; semua sumber dan adegan yang mengantarkannya tetap NON-CANON.
+**Dampak CANON: tidak ada.** Penggunaan fakta minimum LEAX mengikuti CANON; semua sumber dan adegan yang mengantarkannya tetap NON-CANON. Penggunaan fakta minimum LEAX mengikuti CANON; semua sumber dan adegan yang mengantarkannya tetap NON-CANON.
