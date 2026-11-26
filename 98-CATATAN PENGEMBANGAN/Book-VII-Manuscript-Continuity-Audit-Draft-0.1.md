@@ -6,7 +6,7 @@
 ## 1. Hasil ringkas
 
 - Seluruh 22 scene outline telah memiliki prosa awal dalam lima bab.
-- Manuskrip terdiri dari sekitar **8.047 kata**, termasuk metadata, judul, dan catatan tambahan.
+- Manuskrip terdiri dari sekitar **8.049 kata**, termasuk metadata, judul, dan catatan tambahan.
 - Permintaan dari akhir Buku VI menjadi pemicu praktis; kelompok memeriksa ruang lingkup sebelum menerima pekerjaan.
 - Kumpulan yang diperiksa adalah naskah interpretasi dan salinan pendukung. Manuskrip tidak mengklaim bahwa seluruh benda fisik Prasasti berada di satu tempat.
 - Penomoran I–XIII diperlakukan sebagai urutan arsip, bukan kronologi.
@@ -65,12 +65,12 @@
 
 | Bab | Scene | Jumlah kata |
 |---|---:|---:|
-| 1 — Kumpulan yang Belum Dibandingkan | 1–4 | 1.847 |
+| 1 — Kumpulan yang Belum Dibandingkan | 1–4 | 1.849 |
 | 2 — Tiga Belas Suara | 5–8 | 1.457 |
 | 3 — Pola yang Tidak Cukup | 9–13 | 1.542 |
 | 4 — Hak atas Kesimpulan | 14–17 | 1.425 |
 | 5 — Ketiga Belas | 18–22 | 1.776 |
-| **Total** | **1–22** | **8.047** |
+| **Total** | **1–22** | **8.049** |
 
 ## 7. Kesimpulan
 
