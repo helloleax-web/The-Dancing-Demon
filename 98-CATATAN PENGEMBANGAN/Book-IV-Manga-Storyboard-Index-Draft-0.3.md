@@ -1,4 +1,4 @@
-# Book IV — Manga Storyboard Index — Draft 0.5
+# Book IV — Manga Storyboard Index — Draft 0.6
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.
 **Pembaruan:** Bab 1–2 disinkronkan dengan manuskrip revision 0.2; estimasi 74 halaman masih provisional; total 370 panel tidak terverifikasi.  
@@ -60,6 +60,6 @@
 
 
 ## Audit silang empat bab
-- [Book IV Manga Storyboard Audit Report — Draft 0.7](Book-IV-Manga-Storyboard-Audit-Report-Draft-0.3.md)
+- [Book IV Manga Storyboard Audit Report — Draft 0.8](Book-IV-Manga-Storyboard-Audit-Report-Draft-0.3.md)
 - Keempat storyboard telah diperiksa terhadap manuskrip aktif.
 - Estimasi 74 halaman masih bersifat kerja; total panel 370 dari baseline lama tidak lagi dianggap terverifikasi.
