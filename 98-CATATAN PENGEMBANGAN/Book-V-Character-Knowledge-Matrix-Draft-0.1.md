@@ -3,6 +3,8 @@
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Basis:** Book V Scene Outline Draft 0.1 dan fakta CANON Great War, NVR AGAIN, jubah mana hitam, dan Resonansi Hitam.
 
+> **Catatan status:** dokumen ini adalah versi awal dan telah disupersesi oleh dokumen terkait Draft 0.2. Gunakan audit, index, dan character knowledge matrix Draft 0.2 untuk status terbaru.
+
 ## 1. Aturan
 
 - NVR AGAIN sudah diketahui kelompok dari penemuan Prasasti pertama pada Buku IV.
