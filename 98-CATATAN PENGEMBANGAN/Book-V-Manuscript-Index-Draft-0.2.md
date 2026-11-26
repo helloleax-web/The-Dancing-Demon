@@ -300,3 +300,11 @@
 - Automated concept sheets were not accepted as design references because they introduced unsupported appearance details and one sheet misrepresented non-CANON personality claims as CANON.
 - A neutral abstract silhouette board is retained as a comparison aid only.
 - No Character Bible or CANON facts were changed.
+
+
+## Tavian silhouette context test — Draft 0.1
+
+- [Tavian Rell — Silhouette Context Test — Draft 0.1](Book-V-Tavian-Silhouette-Context-Test-Draft-0.1.md) — compares three abstract silhouette directions across walking with a map, reading a document, and sitting to take notes.
+- Initial observations: A is visually lightest, B most structured, and C most voluminous. No direction is selected or approved.
+- The test uses abstract placeholders only and does not establish Tavian's appearance, clothing, proportions, equipment, or expressions.
+- All assets remain NON-CANON; CANON impact: none.
