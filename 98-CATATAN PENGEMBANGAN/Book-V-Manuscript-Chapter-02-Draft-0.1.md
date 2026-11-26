@@ -1,10 +1,10 @@
 # Book V — Perang yang Tertinggal
 ## Bab 2: Musik Tanpa Nama
-### Draft Prosa 0.1 — Scenes 5–8
+### Revision Draft 0.2 — Scenes 5–8
 
 **Status: CATATAN PENGEMBANGAN / NON-CANON.**  
 **Basis:** Book V Scene Outline Draft 0.1, Book V Character Knowledge Matrix Draft 0.1, fakta CANON bahwa musik terdengar di seluruh dunia selama Great War dan nama NVR AGAIN baru diketahui melalui Prasasti pertama.  
-**Batas:** semua dokumen, kesaksian, kutipan, dan detail adegan merupakan materi cerita draft. Tidak ada penetapan asal, pencipta, penyebar, atau mekanisme musik.
+**Batas:** semua dokumen, kesaksian, kutipan, dan detail adegan merupakan materi cerita draft. Tidak ada penetapan asal, pencipta, penyebar, atau mekanisme musik. Kesamaan deskripsi tidak otomatis membuktikan sumber-sumber independen atau satu kejadian yang sama.
 
 ---
 
@@ -102,7 +102,7 @@ Tavian menyusun tabel baru. Ia membuat kolom untuk asal kesaksian, generasi pemb
 
 “Kalau beberapa keluarga dari wilayah berbeda mengingat bunyi yang mirip, apakah itu cukup untuk menyimpulkan mereka mendengar hal yang sama?” tanyanya.
 
-“Belum,” jawab Sava. “Tapi cukup untuk membuat pertanyaan yang lebih terarah. Jangan buang kesaksian hanya karena tidak sama dengan dokumen resmi. Namun, jangan pula menganggap semuanya benar hanya karena terdengar mirip.”
+“Belum,” jawab Sava. “Kita harus memeriksa apakah cerita mereka berasal dari jalur ingatan yang benar-benar terpisah. Dua keluarga bisa saja mengulang cerita yang sama dari satu sumber. Kemiripan baru bernilai jika asal keterangannya dapat dibedakan. Jangan buang kesaksian hanya karena tidak sama dengan dokumen resmi. Namun, jangan pula menganggap semuanya benar hanya karena terdengar mirip.”
 
 Seraphine menulis kalimat itu di pinggir catatan.
 
@@ -144,13 +144,13 @@ Seraphine memeriksa ulang sumber-sumber itu.
 
 “Kita harus hati-hati. Sebagian kesaksian tidak punya tanggal pasti. Dan dokumen ini mungkin menyalin keterangan yang sama.”
 
-“Sudah kutandai,” kata Ilyra. “Sumber yang saling mengutip tidak akan kuhitung sebagai kesaksian independen.”
+“Sudah kutandai,” kata Ilyra. “Sumber yang saling mengutip tidak akan kuhitung sebagai kesaksian independen. Untuk yang jalur asalnya belum jelas, aku pisahkan sebagai kelompok sumber yang belum teruji independensinya.”
 
 Kael mencondongkan tubuh. “Jadi apa kesimpulanmu?”
 
 Ilyra menatap salinan nama di sebelah kiri.
 
-“Belum ada bukti yang menjelaskan asal nama ini. Tapi ada beberapa sumber yang secara terpisah menggambarkan musik atau bunyi yang terdengar selama Great War. Ketika catatan itu dibandingkan dengan nama yang dibaca pada Prasasti, kemungkinan bahwa NVR AGAIN merujuk pada musik tersebut menjadi kuat.”
+“Belum ada bukti yang menjelaskan asal nama ini. Ada beberapa sumber yang menggambarkan musik atau bunyi selama Great War. Sebagian memiliki asal yang dapat dibedakan; sebagian lain belum bisa dipastikan independensinya. Jika kita membatasi perbandingan pada sumber yang asalnya dapat diperiksa, hubungan nama NVR AGAIN pada Prasasti dengan musik yang tercatat selama perang menjadi dukungan yang kuat—tetapi tetap bukan penjelasan asal-usulnya.”
 
 Tavian mengamati tabelnya. “Kuat, tapi bukan penjelasan asal.”
 
@@ -158,7 +158,7 @@ Tavian mengamati tabelnya. “Kuat, tapi bukan penjelasan asal.”
 
 Seraphine menambahkan satu kalimat pada catatan hasil pemeriksaan:
 
-**Identifikasi sementara: NVR AGAIN merupakan nama yang berkaitan dengan musik yang terdengar selama Great War. Hubungan ini didukung oleh perbandingan Prasasti pertama dengan beberapa sumber sejarah, tetapi tidak menjelaskan pencipta, sumber, penyebaran, atau mekanismenya.**
+**Identifikasi sementara: nama NVR AGAIN pada Prasasti pertama berkaitan dengan musik yang tercatat terdengar selama Great War. Dukungan berasal dari perbandingan dengan sumber sejarah yang asal keterangannya dapat diperiksa. Sumber yang independensinya belum teruji tidak diperlakukan sebagai penguat terpisah. Hubungan ini tidak menjelaskan pencipta, sumber, penyebaran, tujuan, atau mekanisme musik.**
 
 Ilyra membaca kalimat itu.
 
@@ -231,9 +231,10 @@ Untuk sementara, itu adalah batas yang bisa mereka pertanggungjawabkan.
 ## Catatan tambahan Bab 2
 
 - Sumber sejarah awal tidak menyebut nama NVR AGAIN.
-- Beberapa dokumen dan kesaksian dari wilayah berbeda menggambarkan musik, bunyi, atau lantunan yang terdengar selama Great War.
+- Beberapa dokumen dan kesaksian dari wilayah berbeda menggambarkan musik, bunyi, atau lantunan yang terdengar selama Great War; tingkat independensi asal sumber tidak seragam.
 - Asal, tanggal, dan independensi sumber diperiksa; sumber yang saling mengutip tidak dihitung sebagai bukti independen.
-- Perbandingan dengan pembacaan Prasasti pertama menghasilkan identifikasi kuat bahwa NVR AGAIN merupakan nama musik yang terdengar selama Great War.
+- Perbandingan dengan pembacaan Prasasti pertama mendukung identifikasi NVR AGAIN sebagai nama musik yang terdengar selama Great War; sumber yang belum teruji independensinya tidak dihitung sebagai konfirmasi terpisah.
 - Identifikasi tersebut tidak menjelaskan pencipta, sumber, penyebar, tujuan, atau mekanisme musik.
 - Tidak ada informasi baru tentang LEAX, jubah mana hitam, atau Resonansi Hitam.
 - Kota Orlenn, Balai Catatan Perang, Neral Voss, Sava Renn, seluruh dokumen, dan dialog tetap NON-CANON.
+- Revision 0.2 memperketat standar independensi sumber dan membatasi kekuatan kesimpulan pada sumber yang asal keterangannya dapat diperiksa.
