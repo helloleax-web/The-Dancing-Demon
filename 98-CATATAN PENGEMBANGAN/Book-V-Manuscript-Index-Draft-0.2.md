@@ -248,3 +248,11 @@
 - [Book V Visual Language Study — Draft 0.1](Book-V-Visual-Language-Study-Draft-0.1.md) diperbarui dengan hasil dan batas uji.
 - File PNG dibuat di sesi kerja dan belum disimpan sebagai aset biner repository.
 - Semi-Flat Editorial tetap kandidat sementara untuk tes lanjutan; belum dikunci. Seluruh materi NON-CANON.
+
+## Uji rasio halaman dan tata letak panel — Bab 1
+
+- [Book V Page Ratio & Panel Layout Test — Draft 0.1](Book-V-Page-Ratio-and-Panel-Layout-Test-Draft-0.1.md) — perbandingan format halaman 4:5 dan 2:3 menggunakan lima beat Scene 1 yang sama.
+- Format 4:5 sementara lebih mudah menampung panel kelompok dan insert; format 2:3 tetap layak diuji untuk ritme vertikal.
+- Belum ada rasio, ukuran cetak, format publikasi, gutter, bleed, atau tipografi final yang dipilih.
+- Board PNG dibuat dalam sesi kerja dan belum disimpan sebagai aset biner di repository.
+- Seluruh materi NON-CANON; tidak ada perubahan CANON.
