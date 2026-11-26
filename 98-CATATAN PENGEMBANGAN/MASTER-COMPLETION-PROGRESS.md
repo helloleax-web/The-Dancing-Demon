@@ -13,8 +13,8 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 
 | Buku | Status | Catatan |
 |---|---|---|
-| I — Jalur yang Terlupakan | DALAM REVISI | Bab 4–6 memiliki revisi editorial 0.2. Audit parsial Bab 4–5 (0.3) dan Bab 6 (0.4) tersedia. Bab 1–3 telah diaudit; klarifikasi Bab 2–3 diterapkan pada revisi 0.2, Bab 1 tetap Draft 0.1. Roster anggota dokumentasi yang cedera, sinkronisasi storyboard, line edit, dan audit penuh masih tertunda. |
-| II — Dunia di Luar Peta | DALAM REVISI | Bab 6 direvisi 0.2 untuk memperjelas kebutuhan praktis kembali ke Bellwether; Bab 1–5 dan storyboard belum direvisi penuh. |
+| I — Jalur yang Terlupakan | DALAM REVISI | Keenam bab telah melalui line edit awal (Bab 1 Draft 0.2; Bab 2–6 Draft 0.3). Audit line edit enam bab Draft 0.2 dan indeks manuskrip Draft 1.3 tersedia. Sinkronisasi panel-per-panel, line edit terpadu, proofreading, roster pendukung, dan audit kontinuitas final masih tertunda. |
+| II — Dunia di Luar Peta | DALAM REVISI | Bab 1 kini direvisi 0.2 untuk menyelaraskan handoff Book I dan alasan praktis ke Bellwether; Bab 6 direvisi 0.2. Bab 2–5 masih Draft 0.1. Audit transisi Book I–II Draft 0.1 tersedia; storyboard dan audit penuh belum selesai. |
 | III — Sisa-Sisa yang Tertinggal | BELUM DIKERJAKAN | Perlu audit seluruh enam chapter dan pengenalan Ilyra. |
 | IV — Prasasti Pertama | BELUM DIKERJAKAN | Perlu memilih versi chapter aktif berdasarkan riwayat dan mengaudit interpretasi prasasti. |
 | V — Perang yang Tertinggal | BELUM DIKERJAKAN | Perlu membandingkan draft dan revisi yang tersedia serta audit sejarah/konsekuensi. |
@@ -67,13 +67,17 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 41. Menerbitkan indeks manuskrip Book I Draft 1.2.
 42. Memperbarui Manga Storyboard Index menjadi Draft 0.2 dengan file aktif Bab 1–6.
 43. Menerbitkan indeks manuskrip Book I Draft 1.3.
+44. Merevisi Book II Chapter 1 menjadi Draft 0.2 untuk menyelaraskan handoff Book I dan memperjelas alasan praktis ke Bellwether.
+45. Membuat audit kontinuitas transisi Book I–II Draft 0.1.
+46. Memperbarui indeks manuskrip Book II menjadi Draft 0.4.
 
 ## Temuan yang harus dibawa ke tahap berikutnya
 
 - Bab 4 memisahkan pengenalan perusahaan, pemeriksaan klaim, kesepakatan sementara, dan pengungkapan kontrak Kael.
 - Bab 5 memperjelas posisi karakter dan urutan penyelamatan.
 - Bab 6 memastikan salinan fragmen berasal dari dokumentasi sebelum insiden; diagram belum dapat ditafsirkan atau ditempatkan pada koordinat.
-- Penutup Book I berlangsung pada malam sebelum laporan terakhir diserahkan; pembukaan Book II dapat melanjutkan proses laporan tersebut.
+- Penutup Book I berlangsung pada malam sebelum laporan terakhir diserahkan; Book II Chapter 1 Draft 0.2 melanjutkan penyerahan laporan pada pagi berikutnya.
+- Bellwether dipilih sebagai tujuan praktis berdasarkan catatan perjalanan yang menyebut sumber peta/catatan rute dan kebutuhan persediaan; fragmen belum terbukti sebagai peta.
 - Identitas perusahaan Buku I tetap anonim.
 - Iven Rusk dan kurator tetap NON-CANON.
 - Mekanisme fasilitas tetap UNKNOWN.
@@ -89,11 +93,15 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 - [x] Buat revisi storyboard Bab 4–6 Draft 0.2 untuk sinkronisasi awal.
 - [ ] Lakukan pemeriksaan panel-per-panel Bab 4–6 dan audit seluruh storyboard.
 - [ ] Sinkronkan storyboard Bab 1–3 dan periksa seluruh enam storyboard.
-- [ ] Lakukan line edit terpadu enam bab.
-- [ ] Perbarui Character Knowledge Matrix dan Scene Outline bila ditemukan ketidaksesuaian aktual.
-- [ ] Terbitkan audit final Book I setelah semua poin di atas selesai.
+- [x] Lakukan line edit awal keenam bab.
+- [ ] Lakukan line edit terpadu enam bab untuk menyatukan suara, ritme, istilah, dan transisi.
+- [ ] Periksa panel-per-panel dan sinkronkan seluruh storyboard terhadap prosa aktif.
+- [ ] Verifikasi roster dan kesinambungan cedera anggota dokumentasi; pertahankan UNKNOWN bila sumber belum menetapkan identitas.
+- [ ] Perbarui Character Knowledge Matrix dan Scene Outline hanya jika audit menemukan ketidaksesuaian aktual.
+- [ ] Lakukan proofreading dan audit kontinuitas final Book I.
 
 ### Book II–VIII
+- [x] Selaraskan pembukaan Book II dengan akhir Book I dan catat dalam audit transisi Draft 0.1.
 - [ ] Audit dan revisi semua chapter.
 - [ ] Perbarui indeks dan dokumen pendukung.
 - [ ] Sinkronkan storyboard yang tersedia.
@@ -122,3 +130,4 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 - 2026-11-26: Bab 3 menjalani line edit menjadi Draft 0.3; audit line edit awal Bab 1–3 dan indeks manuskrip Draft 1.1 diterbitkan.
 - 2026-11-26: Bab 4, Bab 5, dan Bab 6 menjalani line edit menjadi Draft 0.3; audit line edit enam bab Draft 0.2 dan indeks manuskrip Draft 1.2 diterbitkan.
 - 2026-11-26: indeks storyboard Book I diperbarui menjadi Draft 0.2 dan indeks manuskrip menjadi Draft 1.3. Status Book I tetap DALAM REVISI.
+- 2026-11-26: Book II Chapter 1 direvisi menjadi Draft 0.2; audit transisi Book I–II Draft 0.1 dan indeks Book II Draft 0.4 diterbitkan. Status Book II tetap DALAM REVISI.
