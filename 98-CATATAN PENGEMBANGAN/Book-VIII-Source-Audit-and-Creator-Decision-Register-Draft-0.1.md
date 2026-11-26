@@ -72,7 +72,7 @@ Semua detail publikasi dan reaksi masyarakat dalam manuskrip Buku VII masih NON-
 
 | Misteri | Kewajiban Buku VIII | Batas yang tetap berlaku |
 |---|---|---|
-| Makna judul The Dancing Demon | Harus diungkap ketika konvergensi cerita siap | Makna belum ditetapkan; jangan mengarang jawaban tanpa keputusan kreator |
+| Makna judul The Dancing Demon | Harus diungkap ketika konvergensi cerita siap | Working meaning NON-CANON: metafora pola interpretasi yang berubah-ubah, bukan satu monster; lihat Title Meaning Proposal |
 | 13 Prasasti | Memberi payoff pada fungsi dan makna naratif rangkaian sejauh sumber dan keputusan kreator mengizinkan | Tidak wajib menjelaskan fungsi objektif, pembuat, lokasi, asal, periode, atau setiap baris |
 | NVR AGAIN | Memberi payoff tematik sesuai keputusan kreator | Asal musik, pencipta, penyebaran, dan mekanisme tidak otomatis terjawab |
 | Great War | Menyelesaikan konsekuensi sejarah yang telah dibangun | Tidak wajib menjawab semua penyebab, pihak, kronologi, korban, dan dampak politik |
