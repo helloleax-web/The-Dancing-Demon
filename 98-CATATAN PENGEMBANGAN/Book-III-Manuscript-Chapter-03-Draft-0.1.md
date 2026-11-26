@@ -65,7 +65,7 @@ Ia menyusun tiga lembar di atas permukaan meja sementara.
 
 Tavian mendekat.
 
-Pada setiap sumber, ada susunan tanda yang menunjukkan hubungan antara beberapa bagian. Bentuknya tidak sama persis, tetapi satu rangkaian rujukan muncul dengan urutan yang sama pada fragmen fasilitas Buku I dan indeks Hollow Vale. Bukan hanya garis dan titiknya yang serupa; susunan pemisah dan posisi tanda penghubungnya juga berulang. Penanda Rookbridge memiliki motif titik-garis yang sejenis secara umum, tetapi tidak memuat urutan rujukan yang sama.
+Pada fragmen fasilitas Buku I dan indeks Hollow Vale, satu rangkaian rujukan muncul dengan urutan yang sama. Bukan hanya garis dan titiknya yang serupa; susunan pemisah dan posisi tanda penghubungnya juga berulang. Penanda Rookbridge memiliki motif titik-garis yang sejenis secara umum, tetapi tidak memuat urutan rujukan yang sama.
 
 “Ini bisa jadi format indeks yang dipakai di dua fasilitas,” kata Ilyra.
 
