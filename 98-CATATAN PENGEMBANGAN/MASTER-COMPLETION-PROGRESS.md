@@ -15,7 +15,7 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 |---|---|---|
 | I — Jalur yang Terlupakan | DALAM REVISI | Keenam bab telah melalui line edit awal (Bab 1 Draft 0.2; Bab 2–6 Draft 0.3). Audit line edit enam bab Draft 0.2 dan indeks manuskrip Draft 1.3 tersedia. Sinkronisasi panel-per-panel, line edit terpadu, proofreading, roster pendukung, dan audit kontinuitas final masih tertunda. |
 | II — Dunia di Luar Peta | DALAM REVISI | Bab 1–4 memiliki pass line-edit Draft 0.3; Bab 5–6 memiliki revisi klarifikasi Draft 0.4. Unified Line-Edit Audit Draft 0.3 menyelesaikan status laporan Rookbridge dengan membedakan salinan lapangan, laporan kontrak Meridian, dan laporan akhir Tavian. Posisi lintasan sempit pada cabang alternatif tetap OPEN QUESTION karena outline dan storyboard tidak menentukannya. Storyboard Chapter 6 Draft 0.2 telah disinkronkan; Chapters 1–5, proofreading, dan audit final masih tertunda. |
-| III — Sisa-Sisa yang Tertinggal | DALAM REVISI | Enam chapter Draft 0.1 tersedia; Chapter 1 diselaraskan menjadi Revision Draft 0.2; Continuity Audit Draft 0.3 dan Character Knowledge Matrix Draft 0.3 tersedia. Pengembangan prosa, isu akses Hollow Vale, jalur informasi, arc karakter, line edit Chapters 2–6, storyboard, dan proofreading masih tertunda. |
+| III — Sisa-Sisa yang Tertinggal | DALAM REVISI | Chapters 1–6 memiliki Revision Draft 0.2. Chapters 3–6 direvisi untuk memperjelas batas akses (tanpa mengarang izin formal), jalur informasi Vellum & Iron Recovery dan kebocoran tetap misteri, kesepakatan dokumentasi dibatasi pada salinan, motivasi Ilyra disejajarkan dengan Character Bible, dan Kael mengambil keputusan konkret untuk menahan salinan. Continuity Audit Draft 0.5, Character Knowledge Matrix Draft 0.4, dan Manuscript Index Draft 0.5 tersedia. Status legal akses Hollow Vale masih OPEN QUESTION; storyboard, line edit terpadu, dan proofreading masih tertunda. |
 | IV — Prasasti Pertama | BELUM DIKERJAKAN | Perlu memilih versi chapter aktif berdasarkan riwayat dan mengaudit interpretasi prasasti. |
 | V — Perang yang Tertinggal | BELUM DIKERJAKAN | Perlu membandingkan draft dan revisi yang tersedia serta audit sejarah/konsekuensi. |
 | VI — Dunia yang Gelisah | BELUM DIKERJAKAN | Perlu audit seluruh lima chapter dan eskalasi pasca-Book V. |
@@ -148,8 +148,11 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 - [ ] Audit geografi, kronologi, kontrak, dan arc karakter Book II.
 - [x] Audit transisi Book II–III dan selaraskan Book III Chapter 1 dengan kontinuitas Draft 0.2.
 - [x] Selaraskan Chapter 2 dengan Chapter 1 dan Scene Outline Draft 0.2.
-- [ ] Audit dan revisi Chapters 3–6.
-- [ ] Perbarui indeks dan dokumen pendukung.
+- [x] Revisi Chapters 3–6 menjadi Revision Draft 0.2 setelah audit sumber, Character Bible, dan outline.
+- [x] Perbarui Character Knowledge Matrix menjadi Draft 0.4, Continuity Audit menjadi Draft 0.5, dan Manuscript Index menjadi Draft 0.5.
+- [ ] Putuskan dasar akses Hollow Vale sebelum naskah final.
+- [ ] Sinkronkan storyboard keenam bab dengan prosa aktif.
+- [ ] Lakukan line edit terpadu dan proofreading.
 - [x] Sinkronkan storyboard Chapter 6 dengan prosa Draft 0.4.
 - [ ] Sinkronkan storyboard Chapters 1–5 setelah keputusan geografi jalur.
 - [ ] Lakukan line edit dan proofreading.
@@ -188,3 +191,4 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 - 2026-11-27: Book III Chapter 1 direvisi menjadi Draft 0.2; Continuity Audit Draft 0.3, Character Knowledge Matrix Draft 0.3, dan Manuscript Index Draft 0.3 diterbitkan. Book II–III Transition Audit Draft 0.2 dan Book II Index Draft 1.2 diterbitkan.
 - 2026-11-27: Book II Chapters 5–6 direvisi menjadi Draft 0.4 untuk membedakan salinan lapangan, laporan kontrak Meridian, dan laporan akhir Tavian. Storyboard Chapter 6 Draft 0.2 disinkronkan. Unified Line-Edit Audit Draft 0.3 menyelesaikan temuan laporan dan mempertahankan geografi lintasan sempit sebagai OPEN QUESTION. Book II Storyboard Index Draft 0.2 dan Manuscript Index Draft 1.3 diterbitkan.
 - 2026-11-27: Book III Chapter 2 direvisi menjadi Draft 0.2 untuk memakai catatan perjalanan Hollow Vale yang telah diperkenalkan pada Chapter 1 dan menghapus asumsi pendanaan kurator yang tidak didukung outline. Continuity Audit Draft 0.4 dan Manuscript Index Draft 0.4 diterbitkan. Book II dan III tetap DALAM REVISI.
+- 2026-11-27: Book III Chapters 3–6 direvisi menjadi Revision Draft 0.2. Revisi membatasi akses pada bagian situs yang terbuka tanpa mengklaim izin formal, menjaga jalur informasi Vellum & Iron Recovery dan kebocoran salinan tetap misteri, memperjelas bahwa perjanjian hanya mengatur dokumentasi/salinan, menyelaraskan motivasi Ilyra dengan Character Bible, dan memberi Kael keputusan untuk tidak mengirim salinan tanpa sumber/persetujuan. Character Knowledge Matrix Draft 0.4, Continuity Audit Draft 0.5, Manuscript Index Draft 0.5 diterbitkan. Status akses legal Hollow Vale tetap OPEN QUESTION.
