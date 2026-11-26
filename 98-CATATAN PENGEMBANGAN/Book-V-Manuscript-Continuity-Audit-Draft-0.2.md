@@ -93,6 +93,6 @@ Manuskrip harus mempertahankan ketidakpastian tersebut. Jangan mengubah istilah 
 
 Buku V memenuhi fungsi rekonstruksi sejarah Great War dan memberi payoff pada nama NVR AGAIN tanpa menjelaskan asal musik. Efek jubah mana hitam dan istilah Resonansi Hitam dijaga sesuai batas CANON. Koreksi 0.2 mencegah klaim global yang lebih luas daripada koleksi sumber yang diperiksa.
 
-**Buku V belum final.** Scope LEAX kini dibatasi secara konsisten pada dua fakta CANON minimum; isu yang tersisa adalah pengembangan sumber pendukung, variasi karakter arsip, kehidupan kota Orlenn, konflik publikasi, dan pemeriksaan manuskrip lengkap. buku ini.
+**Buku V belum final. Scope LEAX kini dibatasi secara konsisten pada dua fakta CANON minimum. Isu yang tersisa adalah pengembangan sumber pendukung, variasi karakter arsip, kehidupan kota Orlenn, konflik publikasi, dan pemeriksaan manuskrip lengkap.
 
 **Dampak CANON: tidak ada.** Semua karakter pendukung, lokasi, dokumen, dan peristiwa spesifik tetap NON-CANON.
