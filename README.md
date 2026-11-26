@@ -26,6 +26,7 @@ Dokumen ini adalah pusat dokumentasi dunia LEAX. Isinya memisahkan fakta yang su
 - [BACA-DULU.md](BACA-DULU.md) — panduan paket dokumen dan jalur baca.
 - [Canon Audit Report — 2026-11-18](99-ADMIN/Canon-Audit-Report-2026-11-18.md) — audit administratif konsistensi dan kontinuitas; tidak mengubah canon.
 - [Repository Maintenance Report — 2026-11-18](99-ADMIN/Repository-Maintenance-Report-2026-11-18.md) — catatan pemeliharaan atlas dan matriks worldbuilding terbaru.
+- [Catatan Pengesahan Dokumentasi — 2026-11-26](99-ADMIN/Documentation-Approval-Record-2026-11-26.md) — cakupan pengesahan karakter, lokasi, dan organisasi.
 - [Editorial and Repository Maintenance Policy](99-ADMIN/Editorial-Maintenance-Policy.md) — mandat editorial, status materi, hierarki sumber, dan standar pemeliharaan.
 
 ### Rujukan CANON cerita
@@ -33,7 +34,7 @@ Dokumen ini adalah pusat dokumentasi dunia LEAX. Isinya memisahkan fakta yang su
 - [Tavian Rell — Character Arc](01-CANON/Tavian-Character-Arc.md) — motivasi inti, kelemahan, dan perkembangan protagonis.
 
 ### Materi pengembangan terbaru
-- [Character Development Dossier — Draft 0.1](98-CATATAN%20PENGEMBANGAN/Character-Development-Dossier-Draft-0.1.md) — rancangan motivasi, kepribadian, kelemahan, dan arc enam karakter.
+- [Character Development Dossier — Draft 0.1](98-CATATAN%20PENGEMBANGAN/Character-Development-Dossier-Draft-0.1.md) — arsip proposal NON-CANON; profil resmi enam karakter ada di Character Bible.
 - [Book I Scene Outline — Draft 0.1](98-CATATAN%20PENGEMBANGAN/Book-I-Scene-Outline-Draft-0.1.md) — kerangka 19 adegan Buku I.
 - [Location & Organization Dossier — Draft 0.1](98-CATATAN%20PENGEMBANGAN/Location-Organization-Development-Dossier-Draft-0.1.md) — proposal fungsi lokasi dan organisasi yang telah terdaftar.
 - [Eight-Book Series Architecture — Draft 0.1](98-CATATAN%20PENGEMBANGAN/Eight-Book-Series-Architecture-Draft-0.1.md) — fungsi dramatik delapan buku, eskalasi konflik, dan arc lintas seri.
