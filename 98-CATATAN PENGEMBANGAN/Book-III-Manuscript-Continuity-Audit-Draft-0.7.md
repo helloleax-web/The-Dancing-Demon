@@ -147,7 +147,7 @@ Kesepakatan tidak mengatur atau memberikan:
 - Storyboard Bab 2 tidak lagi menampilkan identitas kurator atau durasi perjalanan tertentu.
 - Storyboard Bab 6 tidak menyatakan batu telah dipastikan ada/ditemukan dan tidak menunjukkan Kael mengirim salinan.
 - **Keputusan kreator B telah diterapkan:** kelompok memilih masuk tanpa izin atau kewenangan yang terkonfirmasi dan sadar tindakan itu dapat dipersoalkan. Status legal situs dan identitas otoritas tetap OPEN QUESTION.
-- Proofreading pass awal selesai; read-through final dan pengesahan belum dilakukan.
+- Proofreading pass awal, read-through berurutan Scenes 1–20, dan final micro-proofread pass selesai; pengesahan belum dilakukan.
 
 **Status:** Book III belum final. Tidak ada perubahan CANON.
 
@@ -157,7 +157,7 @@ Kesepakatan tidak mengatur atau memberikan:
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.
 Kelompok memilih masuk ke bagian situs yang telah terbuka tanpa izin atau kewenangan yang terkonfirmasi. Mereka sadar tindakan itu dapat dipersoalkan. Batas fisik pemeriksaan bukan bukti izin dan tidak menjadikan akses sah. Jangan menciptakan pemilik, otoritas, penjaga, izin lisan, atau dokumen izin. Pemilik/otoritas, status legal, dan konsekuensi spesifik tetap UNKNOWN/OPEN QUESTION.
 
-**Audit consequence:** blocker pemilihan jalur cerita ditutup karena kreator memilih B. Pertanyaan faktual tentang kewenangan situs tetap terbuka. Lakukan read-through berurutan dan audit ulang agar bab selanjutnya tidak menyiratkan adanya pengesahan akses.
+**Audit consequence:** blocker pemilihan jalur cerita ditutup karena kreator memilih B. Pertanyaan faktual tentang kewenangan situs tetap terbuka. Read-through berurutan telah dilakukan. Audit lanjutan harus memastikan bab selanjutnya tidak menyiratkan adanya pengesahan akses.
 
 
 ## 12. Read-through berurutan setelah keputusan kreator B
@@ -184,8 +184,9 @@ Kelompok memilih masuk ke bagian situs yang telah terbuka tanpa izin atau kewena
 - [x] Perbarui catatan editorial yang masih menyebut keputusan kreator belum dibuat.
 - [x] Perjelas penutup Chapter 6 agar tidak menyiratkan akses disahkan.
 - [x] Catat bahwa kesepakatan dokumentasi tidak mengatur izin masuk situs.
-- [ ] Final proofread mikro setelah seluruh audit dokumen selesai.
+- [x] Final micro-proofread pass keenam bab setelah keputusan B dan koreksi transisi selesai.
 - [x] Audit awal transisi Buku III–IV; perbedaan sumber rute dikoreksi melalui catatan lokal Mira sebagai sumber terpisah.
+- [x] Audit teks/panel-per-panel keenam storyboard terhadap Proofread Draft 0.4.
 - [ ] Audit akhir terhadap seluruh sumber CANON dan transisi Buku IV setelah revisi naskah Buku IV.
 - [ ] Persetujuan akhir kreator.
 
