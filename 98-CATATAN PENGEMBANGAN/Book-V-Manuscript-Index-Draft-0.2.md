@@ -364,3 +364,10 @@
 
 - [Tavian Visual Design Exploration — Draft 0.1](Tavian-Visual-Design-Exploration-Draft-0.1.md) — dasar eksplorasi siluet dan batas UNKNOWN.
 - [Tavian Pose Mechanics Review — Draft 0.1](Tavian-Pose-Mechanics-Review-Draft-0.1.md) — tinjauan skematis empat aksi kerja, keseimbangan, arah sendi, dan interaksi properti. Seluruh hasil NON-CANON.
+
+
+## Tavian character blocking integration — Draft 0.1
+
+- [Book V — Tavian Character Blocking Integration — Draft 0.1](Book-V-Tavian-Character-Blocking-Integration-Draft-0.1.md) — tests neutral blocking in storyboard panels 1.2, 2.3, 3.8, and 4.5.
+- Panel 2.3 preserves Mira as the focus of route-reading; Tavian remains secondary and takes notes. Panels 1.2 and 4.5 emphasize hands and documents; Panel 3.8 emphasizes document spacing.
+- The study adds no story events, document text, location facts, or character appearance details. All mannequin blocking remains NON-CANON; no manuscript, Character Bible, or CANON changes.
