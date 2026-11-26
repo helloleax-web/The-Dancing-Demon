@@ -1,6 +1,6 @@
 # Book V — Perang yang Tertinggal
 ## Bab 5: Perang yang Tertinggal
-### Revision Draft 0.2 — Scenes 19–22
+### Revision Draft 0.3 — Scenes 19–22
 
 **Status: CATATAN PENGEMBANGAN / NON-CANON.**  
 **Basis:** Book V Scene Outline Draft 0.1, Book V Character Knowledge Matrix Draft 0.1, dan fakta CANON tentang Great War, NVR AGAIN, jubah mana hitam, serta Resonansi Hitam.  
@@ -57,6 +57,10 @@ Ia menawarkan sesuatu yang lebih terbatas: kumpulan bukti yang dapat diperiksa d
 ### Scene 20 — Sejarah yang Berbeda
 
 Tanggapan mulai datang setelah laporan dibagikan.
+
+Salah satu salinan ringkasan publik dibaca oleh seorang penyalin peta yang bekerja di ruang umum Balai. Ia tidak mengajukan teori tentang perang; ia hanya bertanya apakah tabel sumber dapat digunakan untuk memeriksa catatan perjalanan milik keluarganya. Seraphine menjelaskan bagian mana yang terbuka untuk dibaca dan bagian mana yang masih dibatasi. Penyalin itu menerima batas tersebut, lalu meminta petunjuk tentang cara mencatat asal salinan agar catatan keluarganya tidak kelak dianggap sebagai dokumen sezaman.
+
+Tavian membantu menunjukkan format pencatatan sederhana. Ia menyadari bahwa laporan mereka mungkin tidak memberi jawaban besar, tetapi cara menyusun sumber dapat berguna bagi orang yang sedang menjaga catatan kecil milik keluarganya sendiri.
 
 Sebagian peneliti menerima hubungan antara NVR AGAIN dan musik Great War sebagai hasil perbandingan yang kuat. Mereka meminta salinan metode pembacaan Prasasti dan daftar sumber yang digunakan.
 
@@ -170,7 +174,9 @@ Tavian mencatat posisi penanda itu.
 
 Daren berjalan di depan, memastikan jalur tetap aman. Kael berbicara dengan seorang pengangkut yang mereka temui di persimpangan. Seraphine memeriksa kembali map laporan. Ilyra membaca catatan yang mereka bawa dari Balai.
 
-Di sebuah tempat singgah, mereka menerima kabar tentang laporan lain yang sedang beredar. Isinya menyebut fenomena tidak biasa di wilayah berbeda. Keterangan yang tersedia masih singkat dan belum menjelaskan apa yang sebenarnya terjadi.
+Di sebuah tempat singgah, mereka menerima kabar tentang laporan lain yang sedang beredar. Sebelum membahasnya, kelompok harus menunggu karena tempat itu ramai oleh pengangkut yang sedang berteduh dan pedagang yang membagi ruang meja. Daren memastikan tas dokumen tidak diletakkan di lantai yang basah. Mira berbicara dengan pemilik tempat singgah untuk memastikan jalur keluar masih dapat dilalui setelah hujan.
+
+Isinya menyebut fenomena tidak biasa di wilayah berbeda. Keterangan yang tersedia masih singkat dan belum menjelaskan apa yang sebenarnya terjadi.
 
 Tavian membaca ringkasannya.
 
@@ -215,3 +221,4 @@ Dan di luar semua catatan yang telah mereka periksa, masih ada hal-hal yang belu
 - Petunjuk menuju Buku VI hanya berupa laporan singkat tentang fenomena tidak biasa. Tidak ada penjelasan tentang Abstract Existence atau penyebab fenomena.
 - LEAX disebut hanya berdasarkan fakta CANON bahwa ia menghilang setelah Great War; penyebab, lokasi, kronologi rinci, keadaan, dan nasib tetap UNKNOWN.
 - Semua adegan, laporan, reaksi, dialog, dan petunjuk tambahan tetap NON-CANON.
+- Revision 0.3 menambah dampak praktis laporan bagi pengguna arsip biasa dan memperlihatkan logistik perjalanan saat kelompok menerima petunjuk baru. Laporan fenomena tetap belum diverifikasi dan tidak dihubungkan dengan Abstract Existence.
