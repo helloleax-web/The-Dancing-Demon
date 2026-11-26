@@ -1,5 +1,5 @@
 # Book IV — Manga Storyboard Cross-Check Audit
-## Draft 0.8 — Cross-Check terhadap Proofread Draft 0.2 dan Akses A
+## Draft 0.9 — Cross-Check terhadap Proofread Draft 0.2/0.3
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Ruang lingkup:** storyboard Chapters 1–4 dibandingkan dengan manuskrip aktif dan Scene Outline Draft 0.6.
