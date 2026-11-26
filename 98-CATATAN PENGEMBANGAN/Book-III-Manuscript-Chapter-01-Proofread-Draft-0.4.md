@@ -260,3 +260,8 @@ Namun, untuk pertama kalinya, mereka memiliki nama tempat dan urutan lintasan ya
 - Isu akses legal Hollow Vale tetap OPEN QUESTION dan belum dianggap terselesaikan.
 
 **Status:** proofread pass awal selesai; masih menunggu audit gabungan dan keputusan kreator atas isu terbuka.
+
+
+## Catatan kontinuitas — keputusan akses Hollow Vale
+
+Jalur cerita aktif mengikuti keputusan kreator B: kelompok telah memasuki bagian situs tanpa izin atau kewenangan yang terkonfirmasi dan sadar bahwa tindakan tersebut dapat dipersoalkan. Adegan bab ini tidak boleh menyiratkan bahwa akses mereka kemudian disahkan, bahwa ketiadaan penghalang berarti izin, atau bahwa batas dokumentasi memberi hak atas situs. Identitas pemilik/otoritas, status legal, dan konsekuensi spesifik tetap UNKNOWN/OPEN QUESTION. Catatan ini menjaga kesinambungan lintas bab; tidak menambahkan fakta dunia atau CANON.
