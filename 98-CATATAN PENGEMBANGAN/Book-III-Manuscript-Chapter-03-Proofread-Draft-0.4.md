@@ -190,4 +190,4 @@ Mereka kembali bekerja. Tidak terjadi pertengkaran ataupun ancaman. Namun, sejak
 - Jalur cerita pemeriksaan tanpa izin terkonfirmasi telah dipilih oleh kreator; kewenangan dan status legal situs tetap UNKNOWN/OPEN QUESTION.
 - Kelompok tidak menganggap tidak adanya penghalang sebagai izin dan tidak menganggap pembatasan tindakan sebagai pembenaran legal.
 
-**Status:** proofread pass awal selesai; keputusan jalur cerita telah diterapkan, tetapi final read-through dan audit akhir masih diperlukan.
+**Status:** proofread pass awal dan read-through berurutan selesai; keputusan jalur cerita telah diterapkan. Final micro-proofread, audit akhir sumber CANON/transisi Buku IV, dan persetujuan kreator masih diperlukan.
