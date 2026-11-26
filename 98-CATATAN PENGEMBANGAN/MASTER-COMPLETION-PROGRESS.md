@@ -210,3 +210,17 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 - [ ] Audit akhir Buku III sebelum dinyatakan selesai.
 
 **Catatan status:** integrasi master dokumen selesai; ini bukan klaim bahwa thumbnail atau produksi visual telah dilakukan.
+
+
+## Book III — Manga storyboard update (Integrated Draft 0.2)
+
+- [x] Enam storyboard master standalone dibuat dari Draft 0.1 dan koreksi sinkronisasi Draft 0.2.
+- [x] Storyboard Index Draft 0.4 dibuat.
+- [x] Integration & Continuity Audit Draft 0.4 dibuat.
+- [ ] Uji ritme halaman dan jumlah panel.
+- [ ] Buat thumbnail visual.
+- [ ] Periksa lettering, balon dialog, efek suara, dan urutan baca kanan-ke-kiri.
+- [ ] Final line edit dan proofreading manuskrip Buku III.
+- [ ] Audit akhir Buku III sebelum dinyatakan selesai.
+
+**Catatan status:** integrasi master dokumen selesai; thumbnail dan produksi visual belum dilakukan.
