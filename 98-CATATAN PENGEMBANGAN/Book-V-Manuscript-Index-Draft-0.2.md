@@ -2,7 +2,7 @@
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Progress:** 22 scene; seluruh lima bab telah memiliki pass revisi 0.3 atau lebih baru. Line edit awal Bab 1 Scene 3 dan Bab 4 Scene 14 telah dilakukan; audit kontinuitas mencatat temuan tersebut.  
-**Jumlah kata:** 11.213 kata termasuk judul, metadata, dan catatan tambahan; dihitung ulang setelah revision pass 0.3.
+**Jumlah kata:** 11.233 kata termasuk judul, metadata, dan catatan tambahan; dihitung ulang setelah revision pass 0.3.
 
 ## Struktur bab
 
@@ -13,6 +13,9 @@
 5. [Bab 5 — Perang yang Tertinggal](Book-V-Manuscript-Chapter-05-Revision-Draft-0.2.md) — Scenes 19–22 (revision 0.3)
 
 ## Audit dan kontrol kontinuitas
+
+- [Book V Character Voice Audit — 2026-11-27](Book-V-Character-Voice-Audit-2026-11-27.md) — profil suara delapan karakter, tumpang tindih dialog, dan rekomendasi line edit.
+- Continuity audit diperbarui menjadi Draft 0.6; mencatat audit suara 22 scene dan line edit Chapter 4 Scene 17.
 
 - [Book V Manuscript Continuity Audit — Draft 0.3](Book-V-Manuscript-Continuity-Audit-Draft-0.2.md) — audit terbaru setelah fakta LEAX dan perolehan jubah oleh sekutunya dimasukkan secara terbatas.
 - [Book V Character Knowledge Matrix — Draft 0.3](Book-V-Character-Knowledge-Matrix-Draft-0.2.md) — pengetahuan karakter dan batas fakta.
@@ -47,7 +50,8 @@
 16. Bab 5 Scene 21: pengulangan daftar UNKNOWN dipadatkan; adegan kini meninjau batas hasil dan memberi ruang pada respons tiap karakter.
 17. Audit ritme mencatat Scene 9–13 masih berisiko mengulang percakapan metodologis, sedangkan Scene 3 perlu dipadatkan dengan hati-hati karena memuat aturan akses yang penting.
 18. Bab 3 Scene 9–13 direvisi agar tiap scene punya kemajuan berbeda: penelusuran sumber, perbandingan istilah, pengenalan istilah Resonansi Hitam, klasifikasi perbedaan dokumen, dan pencatatan hipotesis lisan.
-19. Line edit lintas 22 scene belum selesai; diferensiasi suara karakter, pemadatan repetisi, ritme, dan transisi masih perlu diperiksa.
+19. Audit suara karakter telah memeriksa dialog 22 scene; line edit Chapter 4 Scene 17 membedakan suara prosedural Seraphine dan perkembangan pemikiran Tavian.
+20. Line edit lintas 22 scene belum selesai; tumpang tindih dialog Tavian–Seraphine–Ilyra, karakterisasi Neral/Sava, dan repetisi aforisme masih perlu diperiksa.
 
 ## Status utama
 
