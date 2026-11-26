@@ -29,12 +29,13 @@
 
 ## Koreksi pada revision pass 0.2
 
-1. Scene 17 membatasi klaim laporan pada sumber dari wilayah yang berjauhan; laporan tidak menyatakan bahwa koleksi yang diperiksa memverifikasi setiap wilayah dunia.
-2. Hubungan NVR AGAIN dengan musik Great War tetap dibangun melalui perbandingan sumber.
-3. Efek jubah mana hitam tetap sesuai CANON; mekanisme tidak dijelaskan.
-4. Resonansi Hitam tetap digunakan sebagai istilah historis dengan cakupan UNKNOWN.
+1. Bab 1, 3, dan 5 memiliki revision 0.2; Bab 2 dan 4 masih menggunakan pass pertama.
+2. Scene 17 membatasi klaim laporan pada sumber dari wilayah yang berjauhan; laporan tidak menyatakan bahwa koleksi yang diperiksa memverifikasi setiap wilayah dunia.
+3. Hubungan NVR AGAIN dengan musik Great War tetap dibangun melalui perbandingan sumber.
+4. Efek jubah mana hitam tetap sesuai CANON; mekanisme tidak dijelaskan.
+5. Resonansi Hitam tetap digunakan sebagai istilah historis dengan cakupan UNKNOWN.
 5. Revision 0.2 memakai fakta CANON minimum tentang LEAX dan sekutunya tanpa menambahkan penyebab, keadaan, identitas, atau nasib.
-6. Revision 0.2 memasukkan fakta CANON bahwa sekutu LEAX memperoleh jubah mana hitam, tanpa identitas atau rincian tambahan.
+8. Revision 0.2 memasukkan fakta CANON bahwa sekutu LEAX memperoleh jubah mana hitam, tanpa identitas atau rincian tambahan.
 7. Revision 0.2 memasukkan fakta CANON bahwa LEAX menghilang setelah Great War, tanpa sebab atau keadaan.
 
 ## Status utama
