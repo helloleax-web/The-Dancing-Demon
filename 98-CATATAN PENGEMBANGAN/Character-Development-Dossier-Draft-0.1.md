@@ -1,10 +1,11 @@
 # Character Development Dossier — Draft 0.1
 
-
+> **Catatan arsip:** Dossier ini adalah rekam proses historis. Proposal tentang enam karakter inti yang telah dipindahkan ke Character Bible tidak lagi menjadi sumber otoritatif. Bagian yang belum dipindahkan tetap NON-CANON.
+>
 > **Catatan status — 2026-11-22:** Fungsi, motivasi, kekuatan, kelemahan, dan arah arc inti Tavian, Seraphine, Kael, Mira, Daren, serta Ilyra telah disahkan sebagai CANON dan dipindahkan ke [`01-CANON/Character-Bible.md`](../01-CANON/Character-Bible.md). Dossier ini tetap arsip pengembangan: rincian tentang Iven Rusk, Jorren Hale, kontrak Kael, kurator, hubungan organisasi, detail visual, serta proposal lain yang tidak dipindahkan tetap NON-CANON. Jika ada perbedaan, Character Bible menjadi rujukan utama.
-**Status: CATATAN PENGEMBANGAN / NON-CANON.**  
-**Fungsi:** proposal editorial untuk mengembangkan enam nama karakter yang sudah tercantum dalam indeks.  
-**Batas:** hanya fakta yang sudah terdokumentasi yang boleh disebut CANON. Semua kepribadian, motivasi, visual, relasi, dan arc di bawah adalah rancangan baru yang dapat diubah atau dibuang.
+**Status: ARSIP CATATAN PENGEMBANGAN / NON-CANON.**  
+**Fungsi:** menyimpan riwayat proposal dan keputusan awal pengembangan karakter.  
+**Batas:** materi yang telah disahkan hanya berlaku sejauh sudah dipindahkan ke `01-CANON/Character-Bible.md` atau `01-CANON/Ensemble-Character-Arcs.md`. Proposal yang tersisa, detail visual sementara, karakter pendukung, dan hubungan yang belum disahkan tetap NON-CANON.
 
 Dokumen ini sengaja tidak mengungkap identitas pihak yang membayar Kael, tujuan tersembunyinya, identitas kontak tak dikenal, isi Prasasti, keadaan LEAX, atau misteri entitas kosmik.
 
