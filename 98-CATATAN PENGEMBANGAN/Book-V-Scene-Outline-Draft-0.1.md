@@ -25,7 +25,6 @@ Buku V mengubah penemuan nama NVR AGAIN menjadi penyelidikan sejarah. Kelompok t
 - Jubah tersebut memberikan pertahanan luar biasa serta regenerasi HP dan MP secara berkelanjutan.
 - Peristiwa tersebut dikenal dalam catatan sejarah dengan nama lain, yaitu **Resonansi Hitam**.
 - LEAX menghilang setelah Great War; penyebab dan keadaan hilangnya tetap UNKNOWN.
-- LEAX menghilang setelah Great War; penyebab dan keadaan hilangnya tetap UNKNOWN.
 
 ## 3. Batas UNKNOWN yang harus dijaga
 
