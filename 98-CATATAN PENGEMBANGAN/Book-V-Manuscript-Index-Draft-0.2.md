@@ -316,3 +316,11 @@
 - Observasi awal: A paling ringkas, B paling terstruktur, C paling bervolume. Belum ada opsi yang dipilih.
 - Board hanya menguji massa dan outline abstrak; wajah, anatomi final, kostum, bahan, dan properti tetap UNKNOWN.
 - Semua materi NON-CANON; tidak ada perubahan Character Bible atau CANON.
+
+
+## Tavian functional pose test — Draft 0.1
+
+- [Tavian Rell — Functional Pose Test Draft 0.1](Book-V-Tavian-Functional-Pose-Test-Draft-0.1.md) — membandingkan tiga arah siluet A/B/C pada empat aktivitas: memegang map, menulis sambil berdiri, membawa dokumen, dan memeriksa catatan di meja.
+- Ketiga opsi masih dapat menampung aktivitas pada tingkat siluet abstrak; belum ada opsi yang dipilih.
+- Tes belum menguji anatomi, mekanika sendi, perspektif, atau detail kostum. Semua placeholder dan hasil tetap NON-CANON.
+- Tidak ada perubahan Character Bible atau fakta CANON.
