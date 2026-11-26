@@ -105,3 +105,14 @@ Periksa sisa pemadatan Halaman 1–2, lalu lakukan review final layout tekstual 
 - [ ] Storyboard dan layout Bab 4 tetap CATATAN PENGEMBANGAN / NON-CANON.
 - [ ] Artwork thumbnail Bab 4 belum dibuat.
 - [ ] Audit keseluruhan Book IV dan konsistensi lintas buku masih perlu dilakukan.
+
+
+## Audit kontinuitas Book IV — 2026-11-27
+- [x] Empat bab / 20 scene diperiksa terhadap indeks kanon, kerangka seri, Character Bible, Location Bible, Organization Bible, Thirteen Prasasti, dan Great War & Resonansi Hitam.
+- [x] Tidak ditemukan kontradiksi besar pada urutan pengungkapan NVR AGAIN: nama hanya muncul pada Scene 14; bab sebelumnya tidak menyebutnya.
+- [x] Batas transliterasi dijaga: NVR AGAIN adalah satu rangkaian tanda, bukan terjemahan seluruh prasasti; referen dan maknanya tetap UNKNOWN.
+- [x] Diperjelas kalimat Scene 20 Bab 4 agar Jorren hanya menjaga akses melalui jalur dalam tanggung jawabnya, tidak mengatasnamakan seluruh masyarakat. Ini klarifikasi kontinuitas, bukan perubahan kewenangan karakter.
+- [x] Dipertahankan pembedaan antara objek fisik Northglass dan naskah interpretasi in-world Prasasti I; hubungan pasti keduanya UNKNOWN.
+- [x] Tidak ada hubungan baru yang ditetapkan antara organisasi yang muncul, International Authority, KVK, atau pihak tak dikenal dari Buku I.
+- [ ] Transisi ke Book V masih perlu dikembangkan dari sumber arsip/kesaksian Great War; jangan menganggap kelompok sudah mengetahui penyebab, pihak, kronologi rinci, atau mekanisme perang.
+- [ ] Storyboard, layout, dan artwork manga Book IV belum memperoleh audit produksi final; artwork thumbnail belum dibuat.
