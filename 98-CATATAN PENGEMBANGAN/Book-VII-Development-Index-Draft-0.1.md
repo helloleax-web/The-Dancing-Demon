@@ -20,7 +20,7 @@
 ## Status pengerjaan
 
 - Seluruh 22 scene outline telah memiliki prosa awal dalam lima bab kerja.
-- Total pass pertama sekitar 8.047 kata termasuk metadata, judul, dan catatan tambahan.
+- Total pass pertama sekitar 8.049 kata termasuk metadata, judul, dan catatan tambahan.
 - Source audit, character knowledge matrix, outline audit, dan manuscript continuity audit telah dibuat.
 - Naskah belum final; revisi prosa, ritme, karakterisasi, konsekuensi sosial, dan pemeriksaan kesinambungan masih diperlukan.
 
