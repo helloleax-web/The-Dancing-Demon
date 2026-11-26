@@ -14,21 +14,21 @@ Menunjukkan kelompok berhenti sebelum mencapai batu, Jorren memeriksa jalur atas
 2. **Panel 2 — medium.** Jorren memeriksa jalur atas. Arah pandang dan posisi tubuh menunjukkan pemeriksaan medan, bukan memberi sinyal bahwa jalur sudah aman.
 3. **Panel 3 — close/low angle.** Daren memeriksa tanah retak. Retakan terlihat sebagai kondisi permukaan; jangan menambahkan longsor, runtuhan, atau insiden.
 4. **Panel 4 — close-up Daren.** Daren menyarankan perlengkapan berat ditinggalkan. Jangan menambahkan dialog atau alasan lain di luar keputusan keselamatan ini.
-5. **Panel 5 — wide group shot.** Kelompok menata ulang beban dan meninggalkan perlengkapan berat. Jangan menggambarkan barang ditinggalkan di situs batu atau sebagai persembahan; fokus pada penyesuaian beban sebelum bergerak.
+5. **Panel 5 — wide group shot.** Kelompok memutuskan meninggalkan perlengkapan berat di tempat singgah sebelum melanjutkan. Jika panel memperlihatkan barang, tempatkan sebagai barang yang dititipkan/ditinggalkan di tempat singgah, bukan di jalur atau dekat batu.
 
 ## Pemeriksaan kontinuitas
 - Kelompok berhenti sebelum mencapai batu.
 - Jorren memeriksa jalur atas.
 - Daren melihat tanah retak.
 - Daren menyarankan perlengkapan berat ditinggalkan.
-- Kelompok menata ulang beban.
+- Perlengkapan berat ditinggalkan di tempat singgah sesuai manuskrip; jangan memindahkannya ke dekat batu.
 - Jangan menggambarkan mereka menyentuh, menggali, memindahkan, atau membersihkan batu.
 - Jangan menambahkan kecelakaan atau bahaya baru.
 - Seluruh visual tetap NON-CANON.
 
 ## Status review
-- Thumbnail visual pertama Halaman 15 dibuat sebagai eksplorasi.
-- Review posisi kelompok terhadap batu, keterbacaan retakan tanah, konsistensi perlengkapan, dan urutan baca masih diperlukan.
+- Layout Halaman 15 direvisi agar sesuai dengan manuskrip: perlengkapan berat ditinggalkan di tempat singgah, bukan sekadar ditata ulang di jalur.
+- Review visual posisi kelompok, keterbacaan retakan tanah, dan kesinambungan tempat singgah ke jalur atas masih diperlukan.
 - File gambar hasil eksplorasi belum disimpan ke repository; dokumen ini mencatat arahan layout, bukan artwork final.
 
 **Dampak CANON: tidak ada.**
