@@ -109,18 +109,18 @@
 **Panel 2.** Ilyra membawa salinan yang telah diperiksa ulang.
 **Panel 3.** Ia menunjukkan bagian yang dapat dibaca tanpa menebak karakter hilang.
 **Panel 4.** Seraphine membandingkan dengan foto asli.
-**Panel 5.** “Urutannya konsisten.”
+**Panel 5.** “Bentuk tanda dan urutannya konsisten untuk ditransliterasikan.”
 
-## Halaman 15 — NVR AGAIN
+## Halaman 15 — NVR AGAIN (Transliterasi)
 **Panel 1.** Tavian memeriksa posisi tulisan pada batu.
 **Panel 2.** Ia bertanya apakah ada karakter yang ditambahkan.
 **Panel 3.** Ilyra: “Tidak.”
-**Panel 4 — Close-up.** Ilyra membaca rangkaian tanda: “NVR AGAIN.”
+**Panel 4 — Close-up.** Ilyra menyebut hasil transliterasi rangkaian tanda: “NVR AGAIN.”
 **Panel 5 — Silent panel.** Tidak ada yang langsung berbicara; hanya batu dan salinan di meja.
 
 ## Halaman 16 — Nama, Bukan Penjelasan
 **Panel 1.** Kael bertanya apakah itu nama.
-**Panel 2.** Ilyra menjawab bentuknya menunjukkan nama atau judul, tetapi referennya belum diketahui.
+**Panel 2.** Ilyra menjelaskan bahwa NVR AGAIN adalah transliterasi satu rangkaian, bukan terjemahan teks; referennya belum diketahui.
 **Panel 3.** Seraphine mencatat hasil pembacaan beserta dasar dan batasnya.
 **Panel 4.** Tavian memandang guratan di batu.
 **Panel 5.** Close-up: nama tercatat, tetapi bagian lain tetap rusak.
