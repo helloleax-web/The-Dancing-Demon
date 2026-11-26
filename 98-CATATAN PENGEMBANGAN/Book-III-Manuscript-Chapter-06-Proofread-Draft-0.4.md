@@ -96,7 +96,7 @@ Kelompok meninggalkan Hollow Vale setelah salinan yang disepakati selesai dibuat
 
 Sumber asli tetap berada di fasilitas. Peta kondisi dan catatan survei disimpan oleh tim yang membuatnya. Salinan untuk Arsip Lentera dan pihak lain dibatasi sesuai prosedur sementara. Vellum & Iron Recovery menerima daftar kondisi yang telah disepakati, tetapi tidak mengambil benda apa pun.
 
-Tidak semua pihak merasa puas. Klaim perusahaan belum selesai diperiksa. Status akses situs juga belum mendapat keputusan yang dapat dianggap permanen. Mereka hanya berhasil menyelesaikan pekerjaan dokumentasi tanpa membongkar struktur, membuka bagian yang tertutup, atau memindahkan benda. Tidak ada keputusan resmi yang mengesahkan akses kelompok ke situs.
+Tidak semua pihak merasa puas. Klaim perusahaan belum selesai diperiksa. Tidak ada keputusan resmi yang menetapkan kewenangan atas situs atau mengesahkan akses kelompok. Mereka hanya berhasil menyelesaikan pekerjaan dokumentasi tanpa membongkar struktur, membuka bagian yang tertutup, atau memindahkan benda.
 
 Ilyra menyelesaikan daftar salinan terakhir. Ia menuliskan namanya sebagai penyalin dan asisten arsip, tetapi ia juga mencatat bagian mana yang merupakan hasil perbandingannya sendiri.
 
