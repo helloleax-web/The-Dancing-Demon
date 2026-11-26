@@ -2,7 +2,7 @@
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Progress:** 20 scene prosa; Bab 3–4 memiliki revision 0.2 dengan pembedaan objek Northglass dan naskah interpretasi.  
-**Jumlah kata:** sekitar 4.550 kata termasuk judul, metadata, dan catatan adegan.
+**Jumlah kata:** sekitar 4.550 kata adalah baseline pass pertama; hitungan ulang dilakukan setelah line edit dan revisi seluruh bab.
 
 ## Struktur bab
 
