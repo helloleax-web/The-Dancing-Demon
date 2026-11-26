@@ -1,5 +1,5 @@
 # Book IV — Prasasti I Access and Provenance Decision Brief
-## Draft 0.1
+## Draft 0.2 — Opsi A Dipilih
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Tujuan:** menyelesaikan celah dramatik antara temuan Northglass dan pemeriksaan naskah interpretasi Prasasti I beserta salinan bunyinya, tanpa mengubah CANON secara diam-diam.
@@ -98,8 +98,28 @@ Bahkan jika Opsi A dipilih, hal berikut tidak otomatis terjawab:
 - apakah materi pernah dipindahkan atau diubah;
 - hubungan historis atau material dengan batu Northglass.
 
-## 7. Status keputusan
+## 7. Status keputusan — Opsi A dipilih
 
-**Belum dipilih.** Rekomendasi editorial adalah Opsi A. Tidak ada perubahan pada manuskrip aktif dan tidak ada perubahan CANON melalui dokumen ini.
+Kreator menyerahkan pilihan kepada editor dengan jawaban **“BEBAS”**. Opsi A dipilih sebagai keputusan pengembangan NON-CANON dan telah diterapkan pada Chapter 3 Revision Draft 0.5, Scene Outline Draft 0.6, Character Knowledge Matrix Draft 0.7, serta storyboard Chapter 3 Revision Draft 0.3.
+
+### Mekanisme akses yang diterapkan
+
+1. Setelah dokumentasi Northglass, Mira meminta Jorren menyampaikan rujukan kepada seseorang yang menjaga kumpulan dokumen lama.
+2. Jorren hanya mengetahui kabar tentang keberadaan penjaga kumpulan dokumen. Ia tidak mengetahui isi, asal-usul, keaslian, atau hubungan materi dengan Northglass.
+3. Jorren menyampaikan permintaan; ia tidak menjamin akses.
+4. Penjaga anonim menerima kelompok untuk konsultasi terbatas di tempat dan di bawah pengawasannya.
+5. Izin tidak mencakup membawa, memisahkan, menyalin, atau menyebarluaskan materi.
+6. Seraphine mencatat pihak yang hadir, kondisi materi, lingkup izin, dan bahwa provenance belum diverifikasi.
+
+### OPEN QUESTION yang tetap berlaku
+
+- Identitas penjaga kumpulan dokumen.
+- Lokasi penyimpanan secara geografis.
+- Kepemilikan sah dan kewenangan penjaga.
+- Asal-usul, riwayat perpindahan, dan autentikasi naskah serta salinan bunyi.
+- Apakah penjaga mengetahui asal-usul materi.
+- Hubungan historis atau material antara Northglass dan Prasasti I.
+
+**Status:** jalur sebab-akibat dan dasar konsultasi kini dijelaskan pada level pengembangan. Provenance tidak diselesaikan dan tidak boleh diklaim telah terbukti. Seluruh tambahan tetap NON-CANON.
 
 **Dampak CANON: tidak ada.**
