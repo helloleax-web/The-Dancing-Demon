@@ -42,7 +42,8 @@
 11. Jumlah kata dihitung ulang setelah revision pass 0.3: 11.065 kata termasuk judul, metadata, dan catatan tambahan.
 12. Line edit awal Bab 1 Scene 3 memperbaiki urutan dialog perkenalan Neral: respons Seraphine kini langsung mengikuti penjelasan tugas Neral.
 13. Line edit Bab 4 Scene 14 menghapus pengulangan respons Seraphine kepada penghubung penerbit dan menyatukan penolakannya dalam satu giliran dialog.
-14. Line edit lintas 22 scene belum selesai; diferensiasi suara karakter, pemadatan repetisi, ritme, dan transisi masih perlu diperiksa.
+14. Bab 5 Scene 21: dialog Daren diperjelas melalui pertanyaan praktis tentang akses lokasi, jalur, dan kondisi medan; perubahan ini menjaga fokusnya sebagai pekerja lapangan.
+15. Line edit lintas 22 scene belum selesai; diferensiasi suara karakter, pemadatan repetisi, ritme, dan transisi masih perlu diperiksa.
 
 ## Status utama
 
