@@ -1,6 +1,6 @@
 # Book III — Sisa-Sisa yang Tertinggal
 ## Bab 3: Ruang Penyimpanan
-### Revisi Prosa 0.2 — Scenes 8–10
+### Line Edit Draft 0.3 — Scenes 8–10
 
 **Status: CATATAN PENGEMBANGAN / NON-CANON.**  
 **Basis:** Book III Scene Outline Draft 0.2; Chapter 2 Revision Draft 0.2; Character Bible; Book III Continuity Audit Draft 0.4.  
