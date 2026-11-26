@@ -152,9 +152,16 @@ Sampai keputusan tersebut tersedia, storyboard ini cukup untuk membuat **thumbna
 ## 7. Status produksi
 
 - Storyboard teks Bab 1 Scenes 1–4: selesai pada Draft 0.1.
-- Thumbnail visual: belum dibuat.
+- Concept sheet empat scene: dibuat dan ditinjau sebagai studi komposisi awal; thumbnail panel-per-panel belum dibuat.
 - Ilustrasi final: belum dibuat.
 - Desain karakter/lokasi: belum dikunci.
 - Status CANON: tidak berubah; seluruh storyboard dan detail visual yang diusulkan tetap NON-CANON.
 
 **Dampak CANON: tidak ada.**
+
+
+## Catatan concept sheet — 2026-11-27
+
+Concept sheet empat scene dibuat sebagai studi komposisi awal dan dievaluasi dalam [Thumbnail Review — Bab 1](Book-V-Thumbnail-Review-Chapter-01-Draft-0.1.md). Hasil belum dianggap thumbnail panel-per-panel. Revisi utama: sederhanakan eksterior Balai Catatan Perang, pertahankan karakter sebagai placeholder, dan jangan mengunci detail visual NON-CANON. Tidak ada perubahan pada storyboard 25 panel atau isi naskah.
+
+**Status:** concept sheet awal selesai; thumbnail panel-per-panel masih terbuka.
