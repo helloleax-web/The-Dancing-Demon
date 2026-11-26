@@ -255,3 +255,9 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 - [ ] Unified line-edit and proofreading audit.
 - [ ] Verify scene-to-scene and chapter-to-chapter continuity against current canon and approved development constraints.
 - [ ] Final proofread after all revisions.
+
+
+## Book III — Continuity corrections after line edit
+- [x] Chapter 2: remove curator name/identity; preserve only connection to Arsip Lentera.
+- [x] Chapter 2: remove unsupported exact three-day travel duration.
+- [ ] Full consecutive proofread and storyboard cross-check.
