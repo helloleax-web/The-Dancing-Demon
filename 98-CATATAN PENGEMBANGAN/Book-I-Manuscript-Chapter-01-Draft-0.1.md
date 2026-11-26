@@ -33,6 +33,10 @@ Pekerjaan survei jarang terlihat penting ketika dilakukan dengan benar. Tidak ad
 
 Tavian sudah cukup lama menjadi asisten untuk memahami bagian itu.
 
+Ia ingin suatu hari dipercaya menangani pekerjaan survei atas namanya sendiri. Bukan karena ia menganggap jabatan asisten sebagai sesuatu yang memalukan, melainkan karena ia ingin hasil kerjanya cukup kuat untuk memberinya pilihan: menerima pekerjaan karena ia mampu, bukan karena tidak ada jalan lain. Upah dari pekerjaan seperti ini juga berarti sesuatu. Setiap perjalanan memberinya pengalaman dan penghasilan, sedikit demi sedikit membangun kehidupan yang tidak sepenuhnya bergantung pada keputusan orang lain.
+
+Ia belum sampai ke sana. Untuk sekarang, ia masih harus membuktikan bahwa catatannya layak dipercaya.
+
 Ia bukan orang yang menentukan rute. Bukan pula orang yang memutuskan ke mana ekspedisi harus pergi. Tugasnya memastikan bahwa orang-orang yang membuat keputusan memiliki angka dan catatan yang bisa dipercaya.
 
 Setidaknya, itulah yang seharusnya terjadi.
@@ -90,7 +94,7 @@ Dan di antara keduanya, peta resmi masih menunjukkan jarak yang berbeda.
 ## Catatan editorial
 
 - Prosa ini menggunakan pekerjaan survei sebagai pembuka, sesuai fungsi Scene 1.
-- Tavian ditulis teliti dan berhati-hati sebagai interpretasi dari proposal karakter NON-CANON, bukan fakta kepribadian yang telah disahkan.
+- Motivasi pengakuan profesional dan kemandirian hidup mengikuti Character Bible serta Tavian Character Arc CANON. Ketelitian dalam adegan adalah pilihan prosa untuk memperlihatkan cara kerja survei, bukan penetapan sifat kepribadian tambahan.
 - Tidak ada nama lokasi baru, nama karakter pendukung baru, organisasi baru, kemampuan mana, atau penjelasan teknologi yang ditetapkan.
 - Ketidaksesuaian pengukuran hanya menjadi masalah yang perlu diverifikasi; penyebabnya tidak dijelaskan.
 - Dialog dan detail tindakan merupakan eksperimen prosa, bukan kejadian CANON.
