@@ -74,3 +74,24 @@ Draft 0.1 tidak diterima sebagai acuan final staging. Revisi Draft 0.2 memperbai
 **Status:** 5/5 panel memiliki layout staging yang telah diperiksa; thumbnail ilustratif dan ilustrasi final belum dibuat. Seluruh materi NON-CANON.
 
 **Dampak CANON: tidak ada.**
+
+
+## Panel 1.2 — Map Insert — Draft 0.1
+
+**Output:** `LEAX_BookV_Scene1_Panel1-2_Thumbnail_Draft01.png`  
+**Status:** layout komposisi manual; NON-CANON.
+
+### Komposisi
+- Insert close-up pada map yang dijaga oleh tangan Tavian.
+- Tiga benda dipisahkan secara visual: salinan peta lokasi batu, catatan kondisi permukaan, dan lembar bertuliskan **NVR AGAIN**.
+- Hanya teks **NVR AGAIN** yang ditampilkan terbaca.
+- Peta dan catatan kondisi memakai tekstur/garis abstrak tanpa koordinat, nama, simbol, rute, atau tulisan tambahan.
+
+### Pemeriksaan batas
+- Ketiga objek dapat dibedakan sebagai dokumen terpisah.
+- Tidak ada isi peta atau catatan yang ditetapkan sebagai fakta.
+- Tidak ada simbol/lambang atau detail baru tentang Northglass.
+- Tangan dan properti tetap skematis; desain tangan, map, dan dokumen final belum dikunci.
+
+**Keputusan:** diterima sebagai layout komposisi insert untuk pengujian keterbacaan properti, bukan ilustrasi final.  
+**Dampak CANON:** tidak ada.
