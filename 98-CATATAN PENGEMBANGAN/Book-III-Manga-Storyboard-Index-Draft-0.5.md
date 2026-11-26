@@ -18,7 +18,7 @@ Gunakan keenam dokumen berikut sebagai master kerja utama. Masing-masing memuat 
 
 ## Audit ritme halaman
 
-- [Book III Manga Page Rhythm Audit — Draft 0.1](Book-III-Manga-Page-Rhythm-Audit-Draft-0.1.md)
+- [Book III Manga Page Rhythm Audit — Draft 0.2](Book-III-Manga-Page-Rhythm-Audit-Draft-0.2.md)
 
 ## Riwayat dan sumber
 - Draft 0.1 per bab tetap disimpan sebagai baseline historis.
