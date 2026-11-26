@@ -1,5 +1,5 @@
 # Book IV — Prasasti I Access and Provenance Decision Brief
-## Draft 0.2 — Opsi A Dipilih
+## Draft 0.3 — Opsi A dan Lingkup Catatan Dipilih
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Tujuan:** menyelesaikan celah dramatik antara temuan Northglass dan pemeriksaan naskah interpretasi Prasasti I beserta salinan bunyinya, tanpa mengubah CANON secara diam-diam.
