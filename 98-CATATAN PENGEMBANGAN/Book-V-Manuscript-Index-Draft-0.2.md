@@ -1,4 +1,4 @@
-# Book V — Manuscript Index — Draft 0.2
+# Book V — Manuscript Index — Draft 0.3
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Progress:** 22 scene prosa awal; audit kontinuitas 0.2.  
@@ -14,20 +14,21 @@
 
 ## Audit dan kontrol kontinuitas
 
-- [Book V Manuscript Continuity Audit — Draft 0.2](Book-V-Manuscript-Continuity-Audit-Draft-0.2.md) — audit terbaru setelah pembatasan klaim geografis dan pemeriksaan LEAX.
+- [Book V Manuscript Continuity Audit — Draft 0.3](Book-V-Manuscript-Continuity-Audit-Draft-0.2.md) — audit terbaru setelah fakta LEAX dan perolehan jubah oleh sekutunya dimasukkan secara terbatas.
 - [Book V Character Knowledge Matrix — Draft 0.2](Book-V-Character-Knowledge-Matrix-Draft-0.2.md) — pengetahuan karakter dan batas fakta.
 - [Book V Manuscript Continuity Audit — Draft 0.1](Book-V-Manuscript-Continuity-Audit-Draft-0.1.md) — audit awal yang diarsipkan.
 - [Book V Scene Outline — Draft 0.1](Book-V-Scene-Outline-Draft-0.1.md) — fungsi dan urutan 22 scene.
 - [Book V Outline Audit — Draft 0.1](Book-V-Outline-Audit-Report-Draft-0.1.md) — audit struktur awal.
 
-## Koreksi pada pass 0.2
+## Koreksi pada revision pass 0.2
 
 1. Scene 17 membatasi klaim laporan pada sumber dari wilayah yang berjauhan; laporan tidak menyatakan bahwa koleksi yang diperiksa memverifikasi setiap wilayah dunia.
 2. Hubungan NVR AGAIN dengan musik Great War tetap dibangun melalui perbandingan sumber.
 3. Efek jubah mana hitam tetap sesuai CANON; mekanisme tidak dijelaskan.
 4. Resonansi Hitam tetap digunakan sebagai istilah historis dengan cakupan UNKNOWN.
 5. Audit menandai ketegangan scope: fungsi seri Buku V menyebut hilangnya LEAX, sementara outline sengaja menahan semua materi LEAX untuk arahan kreator.
-6. Fakta CANON bahwa sekutu LEAX memperoleh jubah belum digunakan dan menunggu keputusan scope.
+6. Revision 0.2 memasukkan fakta CANON bahwa sekutu LEAX memperoleh jubah mana hitam, tanpa identitas atau rincian tambahan.
+7. Revision 0.2 memasukkan fakta CANON bahwa LEAX menghilang setelah Great War, tanpa sebab atau keadaan.
 
 ## Status utama
 
