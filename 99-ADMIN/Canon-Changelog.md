@@ -765,3 +765,13 @@ Matriks rotasi R0.2 diperiksa ulang dan diperbaiki agar ortogonal (deviasi maksi
 - Bagian 8 diselaraskan menjadi CANON untuk standar metode penulisan dan dokumentasi in-world, konsisten dengan header dan fungsi dokumen.
 - Penegasan batas: metode dokumentasi CANON tidak mengesahkan tafsir, dugaan, atau kesimpulan penafsir sebagai fakta objektif.
 - Tidak ada makna lagu, isi objektif Prasasti, identitas penafsir, atau fakta sejarah baru yang ditetapkan.
+
+
+## 2026-11-26 — Pengesahan dokumentasi karakter, lokasi, dan organisasi
+
+- **Karakter:** Alkitab Karakter disahkan sebagai rujukan CANON untuk enam karakter inti: Tavian Rell, Seraphine Veyra, Kael Veyron, Mira Solenne, Daren Holt, dan Ilyra Nym. Cakupannya terbatas pada fakta yang tercantum sebagai CANON. Detail UNKNOWN tidak disahkan. Ensemble Character Arcs dan Tavian Character Arc tetap menjadi rujukan CANON yang sudah disahkan sebelumnya.
+- **Lokasi:** Alkitab Lokasi ditegaskan berstatus CANON hanya untuk nama dan fakta lokasi yang didukung sumber repository. Posisi, geografi, fungsi, dan hubungan yang berstatus UNKNOWN atau CATATAN PENGEMBANGAN tidak disahkan.
+- **Organisasi:** Alkitab Organisasi ditegaskan berstatus CANON hanya untuk nama dan fakta organisasi yang didukung sumber repository. Fungsi, struktur, kepemimpinan, afiliasi, dan hubungan yang berstatus UNKNOWN atau CATATAN PENGEMBANGAN tidak disahkan.
+- **Arsip pengembangan:** Character Development Dossier diperjelas sebagai arsip NON-CANON; hanya materi yang sudah dipindahkan ke dokumen CANON yang berlaku sebagai kanon.
+- **Dokumen yang diperbarui:** `01-CANON/Character-Bible.md`, `01-CANON/Location-Bible.md`, `01-CANON/Organization-Bible.md`, dan `98-CATATAN PENGEMBANGAN/Character-Development-Dossier-Draft-0.1.md`.
+- **Retcon:** Tidak. Perubahan ini memperjelas status dokumentasi dan batas pengesahan; tidak menambahkan biografi, hubungan, lokasi, organisasi, atau lore baru.
