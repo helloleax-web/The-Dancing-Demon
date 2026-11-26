@@ -1,6 +1,6 @@
 # Book V — Perang yang Tertinggal
 ## Bab 2: Musik Tanpa Nama
-### Revision Draft 0.3 — Scenes 5–8
+### Revision Draft 0.4 — Scenes 5–8
 
 **Status: CATATAN PENGEMBANGAN / NON-CANON.**  
 **Basis:** Book V Scene Outline Draft 0.1, Book V Character Knowledge Matrix Draft 0.1, fakta CANON bahwa musik terdengar di seluruh dunia selama Great War dan nama NVR AGAIN baru diketahui melalui Prasasti pertama.  
@@ -46,7 +46,7 @@ Dokumen itu hanya berupa salinan ringkas. Beberapa bagian hilang, dan tidak ada 
 
 Ilyra membaca bagian tersebut pelan.
 
-“Di beberapa hari ketika jalur komunikasi terputus, orang-orang di permukiman tetap mendengar lantunan dari arah yang tidak dapat ditentukan. Catatan ini tidak menyebut siapa yang memainkan atau dari mana bunyi itu berasal.”
+“Pada beberapa hari ketika jalur komunikasi terputus, orang-orang di permukiman tetap mendengar lantunan dari arah yang tidak dapat ditentukan. Catatan ini tidak menyebut siapa yang memainkan atau dari mana bunyi itu berasal.”
 
 Tavian melihat tanggal yang tercantum.
 
@@ -146,17 +146,15 @@ Tavian berdiri di sisi meja. Ia melihat beberapa kolom yang telah dibuat Ilyra: 
 
 “Tidak ada yang menyebut NVR AGAIN,” kata Tavian.
 
-“Benar. Dalam kumpulan sumber yang kita periksa, nama itu hanya tercatat pada Prasasti. Jangan masukkan ke kutipan sejarah seolah-olah para penulis dokumen juga memakai nama tersebut.”
+“Benar. Dalam kumpulan sumber yang kita periksa, nama itu hanya tercatat pada Prasasti. Jangan masukkan ke kutipan sejarah seolah para penulis dokumen juga memakai nama tersebut.”
 
 Ilyra kemudian menunjukkan catatan lain. Isinya tidak lengkap, tetapi menyebut bahwa bunyi tersebut terdengar di wilayah yang berbeda pada masa Great War. Keterangan itu tidak cukup untuk menentukan asalnya. Namun, ketika dibandingkan dengan beberapa kesaksian keluarga, pola waktunya tidak bertentangan.
 
-Seraphine memeriksa ulang sumber-sumber itu.
-
-Seraphine menggeser dua lembar yang memiliki susunan kalimat serupa. “Sebelum kita membandingkan isinya, pastikan dulu apakah keduanya benar-benar berasal dari jalur yang berbeda.”
+Seraphine memeriksa ulang sumber-sumber itu, lalu menggeser dua lembar yang memiliki susunan kalimat serupa. “Sebelum kita membandingkan isinya, pastikan dulu apakah keduanya benar-benar berasal dari jalur yang berbeda.”
 
 “Sudah kutandai,” kata Ilyra. “Sumber yang saling mengutip tidak akan kuhitung sebagai kesaksian independen. Untuk yang jalur asalnya belum jelas, aku pisahkan sebagai kelompok sumber yang belum teruji independensinya.”
 
-Kael mencondongkan tubuh. “Jadi apa kesimpulanmu?”
+Kael mencondongkan tubuh. “Jadi, apa kesimpulanmu?”
 
 Ilyra menatap salinan nama di sebelah kiri.
 
@@ -174,7 +172,7 @@ Ilyra membaca kalimat itu.
 
 “Menurutku cukup.”
 
-“Untuk laporan sementara,” kata Seraphine. “Bukan untuk menutup penelitian.”
+“Untuk laporan sementara,” kata Seraphine. “Bukan berarti penelitian selesai.”
 
 Tavian melihat dua kelompok dokumen yang akhirnya diletakkan berdampingan. Satu memberi mereka nama. Yang lain memberi mereka gambaran tentang bunyi yang pernah terdengar selama perang.
 
@@ -186,7 +184,7 @@ Namun, keduanya kini memiliki hubungan yang dapat diuji.
 
 Setelah hubungan itu dicatat, Ilyra kembali memeriksa katalog.
 
-Ia mencari penggunaan nama yang sama dalam sumber lain. Neral membantu menunjukkan beberapa indeks, tetapi hasilnya tidak banyak. Sebagian dokumen tidak mencantumkan nama musik sama sekali. Sebagian hanya mengulang deskripsi bunyi. Ada pula salinan yang dibuat jauh setelah Great War dan tidak menjelaskan dari mana istilahnya berasal.
+Ia mencari penggunaan nama yang sama di sumber lain. Neral membantu menunjukkan beberapa indeks, tetapi hasilnya tidak banyak. Sebagian dokumen tidak mencantumkan nama musik sama sekali. Sebagian hanya mengulang deskripsi bunyi. Ada pula salinan yang dibuat jauh setelah Great War dan tidak menjelaskan dari mana istilahnya berasal.
 
 “Apakah ada catatan yang menyebut siapa pertama kali memakai nama itu?” tanya Ilyra.
 
@@ -226,7 +224,7 @@ Neral mengumpulkan katalog yang telah dipinjamkan.
 
 “Kami belum berniat berhenti,” jawab Ilyra.
 
-Mereka meninggalkan meja dengan beberapa salinan yang telah diberi nomor koleksi. Tidak ada dokumen yang menyebut pencipta musik. Tidak ada yang menjelaskan bagaimana musik itu terdengar di wilayah-wilayah berbeda. Tidak ada yang memberi mereka nama seseorang yang dapat dimintai keterangan.
+Mereka meninggalkan meja dengan beberapa salinan yang telah diberi nomor koleksi. Tidak ada dokumen yang menyebut pencipta musik. Tidak ada yang menjelaskan bagaimana musik itu terdengar di wilayah berbeda. Tidak ada yang memberi mereka nama seseorang yang dapat dimintai keterangan.
 
 Tavian menyimpan lembar hasil perbandingan di map.
 
