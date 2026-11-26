@@ -103,3 +103,8 @@ Identitas, isi, lokasi, dan hubungan dengan sumber lain belum diketahui. Jangan 
 **Kesimpulan:** keenam bab memiliki Proofread Draft 0.4 dan telah melalui pass awal lintas bab. Buku III belum final. Status akses Hollow Vale tetap menjadi keputusan kreator yang harus diselesaikan sebelum pengesahan naskah.
 
 **Dampak CANON: tidak ada.**
+
+
+## Keputusan kreator — akses Hollow Vale (B)
+
+Jalur cerita dipilih: kelompok secara sadar melakukan pemeriksaan tanpa izin terkonfirmasi. Ini bukan izin legal. Pemilik/otoritas dan konsekuensi spesifik tetap UNKNOWN/OPEN QUESTION. Proofreading lanjutan harus memastikan Chapter 3 menyatakan kesadaran risiko dan bab-bab berikutnya tidak menyiratkan akses telah disahkan. Book III belum final; read-through berurutan dan audit persetujuan akhir masih diperlukan.
