@@ -357,3 +357,5 @@
 - [Tavian Rell — Volume Construction Test Draft 0.1](Tavian-Volume-Construction-Test-Draft-0.1.md) — membandingkan P1/P2/P3 sebagai massa tiga dimensi sederhana pada tampak depan, samping, dan tiga-perempat.
 - Studi hanya menggunakan bentuk primitif untuk membedakan massa kepala, torso, pelvis, dan anggota badan; belum memvalidasi anatomi, sendi, perspektif akurat, foreshortening, atau mekanika gerak.
 - Tidak ada kandidat yang dipilih dan tidak ada ciri fisik Tavian yang ditetapkan. Seluruh materi NON-CANON; tidak ada perubahan Character Bible atau CANON.
+
+- [Tavian Joint & Foreshortening Study — Draft 0.1](Tavian-Joint-Foreshortening-Study-Draft-0.1.md) — NON-CANON; articulation landmarks, limb overlap, and depth readability.
