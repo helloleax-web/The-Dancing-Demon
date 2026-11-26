@@ -1,7 +1,7 @@
 # Book IV — Manga Storyboard — Chapter 4
-## Revision Draft 0.2 — Scenes 16–20
+## Revision Draft 0.3 — Scenes 16–20
 
-**Basis:** Chapter 4 Manuscript Revision Draft 0.3.  
+**Basis:** Chapter 4 Manuscript Revision Draft 0.5.  
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Format:** manga hitam-putih, pembacaan kanan-ke-kiri.  
 **Estimasi kerja:** 18 halaman; jumlah panel dan layout masih dapat berubah.
@@ -64,8 +64,8 @@
 
 ## Halaman 8 — Naskah dan Bunyi Tidak Dipisah
 **Panel 1.** Naskah dan salinan bunyi diletakkan berdampingan.
-**Panel 2.** Seraphine menuliskan bahwa keduanya disimpan bersama.
-**Panel 3.** Ilyra memastikan catatan pendengaran merujuk pada salinan bunyi yang sama.
+**Panel 2.** Seraphine mencatat bahwa keduanya disimpan bersama oleh penjaganya.
+**Panel 3.** Ilyra memastikan catatan pendengaran merujuk pada salinan bunyi yang sama tanpa menyalin atau merekam ulang sumber.
 **Panel 4.** Arsip Lentera meminta penyimpanan dan dokumentasi tetap berpasangan.
 **Panel 5.** Tidak ada pihak mengambil salah satunya secara terpisah.
 
@@ -78,7 +78,7 @@
 
 ## Halaman 10 — Kesepakatan Dokumentasi
 **Panel 1.** Para pihak membandingkan ketentuan.
-**Panel 2.** Salinan kerja disimpan oleh pembuatnya.
+**Panel 2.** Catatan non-reproduktif hasil konsultasi disimpan sesuai batas izin; tidak ada salinan naskah atau bunyi yang dibuat.
 **Panel 3.** Salinan penelitian dibagikan sesuai ketentuan.
 **Panel 4.** Informasi publik tidak memuat rincian akses sensitif.
 **Panel 5.** Batu tetap di tempat; naskah dan bunyi tetap berpasangan.
@@ -127,7 +127,7 @@
 
 ## Halaman 17 — Arah Pencarian
 **Panel 1.** Kelompok bersiap meninggalkan lokasi.
-**Panel 2.** Ilyra menyimpan naskah dan catatan salinan bunyi sebagai satu paket dokumentasi.
+**Panel 2.** Ilyra menyimpan catatan non-reproduktif konsultasi naskah dan bunyi dalam satu map; materi sumber tetap bersama penjaganya.
 **Panel 3.** Tavian menyimpan peta Northglass di map berbeda.
 **Panel 4.** Seraphine menyebut catatan sejarah Great War sebagai sumber yang mungkin diperiksa.
 **Panel 5.** Tidak ada jawaban yang diberikan.
@@ -142,7 +142,8 @@
 ## Catatan adaptasi
 - Jangan menggambarkan NVR AGAIN sebagai tulisan pada batu Northglass.
 - Sumber nama adalah judul naskah interpretasi Prasasti I.
-- Naskah dan salinan bunyi yang sama disimpan bersama.
+- Naskah dan salinan bunyi yang sama disimpan bersama oleh penjaganya; kelompok tidak membawa atau menyalinnya.
+- Catatan kerja kelompok bersifat non-reproduktif dan tidak boleh tampak sebagai transkrip atau salinan sumber.
 - Isi interpretasi tetap perspektif penafsir.
 - Hubungan asal-usul Northglass dengan naskah tetap UNKNOWN.
 - Tidak ada visual yang memastikan identitas suara, LEAX, Great War, atau Resonansi Hitam.
