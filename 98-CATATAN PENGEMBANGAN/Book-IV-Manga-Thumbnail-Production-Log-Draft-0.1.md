@@ -38,7 +38,9 @@ Mencatat kemajuan produksi thumbnail halaman demi halaman tanpa mengubah storybo
 - [x] Menambahkan catatan audit untuk membedakan fungsi Halaman 16 dan 17 serta menjaga batas adegan Halaman 18.
 - [x] Membandingkan manuskrip Scene 1–5 dengan storyboard Halaman 1–18 dan membuat Source Discrepancy Register.
 - [x] Mencatat pemadatan/perbedaan pada Halaman 1–2, 4, 8, 11–12, 14–16, serta keputusan adaptasi Halaman 15.
-- [ ] Menentukan apakah dialog/beat manuskrip yang dipadatkan perlu dipulihkan melalui revisi storyboard; jangan menambahkannya diam-diam ke layout.
+- [x] Merevisi storyboard menjadi Revision Draft 0.3 untuk memulihkan informasi tentatif pengangkut, alasan Jorren melindungi batu, syarat akses terperinci, identifikasi bersyarat, dan batas konservasi.
+- [x] Menyelaraskan layout Halaman 8, 11, 12, 14, dan 16 dengan Storyboard Revision Draft 0.3.
+- [ ] Meninjau ulang Halaman 1–2: dua salinan kerja Ilyra dan peringatan Seraphine masih dipadatkan.
 - [ ] Review komposisi visual, lettering, ritme halaman, dan page-turn seluruh Bab 1 berdasarkan thumbnail gambar nyata.
 
 ## Batas kontinuitas Bab 1
@@ -54,7 +56,7 @@ Mencatat kemajuan produksi thumbnail halaman demi halaman tanpa mengubah storybo
 Thumbnail yang dihasilkan sejauh ini adalah eksplorasi komposisi, bukan artwork final. File gambar thumbnail belum disimpan sebagai aset di repository. Yang tersimpan adalah spesifikasi layout tekstual dan log produksi; jangan menyebut seluruh 18 halaman sebagai thumbnail gambar yang sudah selesai. Halaman 1–18 kini memiliki spesifikasi layout tertulis di dokumen masing-masing; Halaman 18 tercatat di `Book-IV-Manga-Thumbnail-Page-18-Layout-Draft-0.1.md`; review komposisi, keterbacaan balon, dan konsistensi desain masih terbuka. Ada percobaan visual Halaman 2 yang menambahkan detail yang tidak didukung storyboard; percobaan tersebut ditolak dan tidak boleh dijadikan acuan. Thumbnail Halaman 2 harus mengikuti lima beat storyboard asli tanpa memperlihatkan bentuk fisik batu atau lokasi spesifik.
 
 ## Langkah berikutnya
-Gunakan Source Discrepancy Register untuk memutuskan revisi storyboard/layout yang diperlukan; setelah sumber teks disepakati, buat thumbnail gambar nyata dan lakukan review visual berurutan. Artwork/PNG belum tersedia di repository.
+Periksa sisa pemadatan Halaman 1–2, lalu lakukan review final layout tekstual 1–18. Setelah layout stabil, buat thumbnail gambar nyata dan lakukan review visual berurutan. Artwork/PNG belum tersedia di repository.
 
 **Dampak CANON: tidak ada.**
 
@@ -63,3 +65,11 @@ Gunakan Source Discrepancy Register untuk memutuskan revisi storyboard/layout ya
 - Register perbedaan manuskrip–storyboard tersedia: `Book-IV-Manga-Storyboard-Source-Discrepancy-Register-Chapter-01-Draft-0.1.md`.
 - Audit kontinuitas diperbarui dengan temuan pemadatan dan keputusan untuk tidak menyelaraskan sumber secara diam-diam.
 - Layout tekstual 18/18 tersedia, tetapi belum seluruhnya dinyatakan lolos review; artwork thumbnail nyata belum tersimpan sebagai aset repository.
+
+
+## Pembaruan setelah Storyboard Revision Draft 0.3
+- Storyboard Bab 1 kini Revision Draft 0.3.
+- Layout yang diselaraskan: Halaman 8, 11, 12, 14, dan 16.
+- Source Discrepancy Register diperbarui: lima perbedaan tersebut ditandai telah diperbaiki.
+- Sisa pemadatan yang masih perlu dievaluasi: Halaman 1–2 (dua salinan kerja Ilyra dan peringatan Seraphine).
+- Seluruh perubahan tetap NON-CANON; belum ada artwork thumbnail nyata di repository.
