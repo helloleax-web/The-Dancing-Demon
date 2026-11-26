@@ -223,3 +223,12 @@
 - Semua empat scene kini memiliki layout komposisi manual; belum ada ilustrasi final atau desain karakter/lokasi yang dikunci.
 - Review dan audit: [Book V Thumbnail Review — Bab 1](Book-V-Thumbnail-Review-Chapter-01-Draft-0.1.md).
 - PNG Scene 4 dibuat di sesi kerja, belum masuk repository sebagai aset biner.
+
+
+### Review kontinuitas visual Bab 1
+
+- [Book V Chapter 1 Visual Continuity Review](Book-V-Chapter-01-Visual-Continuity-Review-Draft-0.1.md) — pemeriksaan gabungan Scene 1–4.
+- Keempat layout manual diterima sebagai panduan komposisi abstrak untuk pengembangan berikutnya, dengan batas kontinuitas dan koreksi tercatat.
+- Total layout: 27 panel dari 27 panel storyboard.
+- Thumbnail ilustratif dan ilustrasi final belum dibuat; desain karakter dan lokasi belum dikunci.
+- Seluruh materi visual tetap NON-CANON.
