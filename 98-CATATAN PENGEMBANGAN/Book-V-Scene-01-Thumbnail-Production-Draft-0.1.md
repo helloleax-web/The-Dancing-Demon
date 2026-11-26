@@ -3,7 +3,7 @@
 **Tanggal:** 2026-11-27  
 **Status:** CATATAN PENGEMBANGAN / NON-CANON  
 **Basis:** Scene 1 — Setelah Nama, storyboard panel 1.1–1.5; Scene-by-Scene Blocking Audit Draft 0.1.  
-**Output visual:** `LEAX_BookV_Scene1_Thumbnail_Production_Draft01.png` (manual composition sheet).
+**Output visual awal:** `LEAX_BookV_Scene1_Thumbnail_Production_Draft01.png` (manual composition sheet; direvisi setelah review).
 
 ## Tujuan
 
@@ -47,5 +47,30 @@ Menerjemahkan lima panel Scene 1 menjadi thumbnail komposisi manual yang dapat d
 - Ilustrasi final: belum dibuat.
 - Desain karakter/lokasi: belum dikunci.
 - Semua materi visual: NON-CANON.
+
+**Dampak CANON: tidak ada.**
+
+
+## Review dan revisi komposisi — Draft 0.2 — 2026-11-27
+
+Draft 0.1 diperiksa langsung terhadap storyboard 1.1–1.5 dan ditemukan empat kekurangan representasi visual:
+
+1. Panel 1.1 hanya memperlihatkan lima figur, sehingga kontinuitas rombongan enam karakter utama tidak terjaga.
+2. Panel 1.2 belum membedakan secara jelas tiga objek di dalam map: salinan peta lokasi batu, catatan kondisi permukaan, dan lembar NVR AGAIN.
+3. Panel 1.3–1.4 hanya memperlihatkan sebagian anggota rombongan; fokus aksi utama benar, tetapi anggota lain perlu tetap hadir sebagai kontinuitas kelompok.
+4. Panel 1.5 memendekkan isi catatan dan tidak memperlihatkan kelompok kembali bergerak.
+
+Draft 0.1 tidak diterima sebagai acuan final staging. Revisi Draft 0.2 memperbaiki empat hal tersebut:
+- Enam figur dipertahankan sebagai kontinuitas kelompok pada seluruh panel yang menampilkan rombongan.
+- Panel 1.2 memisahkan tiga bidang dokumen secara visual; hanya NVR AGAIN yang terbaca.
+- Panel 1.3 mempertahankan empat aksi fokus sambil menjaga enam anggota dalam rombongan.
+- Panel 1.4 mempertahankan tiga subaksi Seraphine, Mira, dan Daren; tiga anggota lain tetap hadir sebagai bagian kelompok. Garis dua jalur tetap abstrak.
+- Panel 1.5 menggunakan kalimat persis dari storyboard: “Tujuan pemeriksaan: sumber sejarah Great War. Hubungan dengan nama NVR AGAIN belum diketahui.” Kelompok ditampilkan kembali bergerak.
+
+**Keputusan:** Draft 0.2 diterima sebagai layout komposisi manual untuk staging Scene 1. Penerimaan ini tidak berarti validasi anatomi, desain properti, perspektif final, atau ilustrasi final. Tidak ada penampilan karakter, geografi, arsitektur, simbol, atau fakta dunia yang dikunci.
+
+**File visual:** `LEAX_BookV_Scene1_Thumbnail_Production_Draft02.png` (dibuat di sesi kerja; belum disimpan sebagai aset biner repository).
+
+**Status:** 5/5 panel memiliki layout staging yang telah diperiksa; thumbnail ilustratif dan ilustrasi final belum dibuat. Seluruh materi NON-CANON.
 
 **Dampak CANON: tidak ada.**
