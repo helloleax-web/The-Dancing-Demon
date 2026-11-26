@@ -40,13 +40,15 @@ All six chapters have an editorial working copy. Revision Draft 0.2 files remain
 4. **Company claim:** keep the unnamed information source and legal basis unresolved. Do not imply the company has authority merely because it arrives with documents.
 5. **Copy handling:** avoid wording that suggests source originals leave Hollow Vale or that all local route notes are included in the shared packet.
 6. **Chapter transitions:** Chapter 1 ends with a route lead; Chapter 2 uses that route lead and Mira's shareable notes to narrow the search. Chapter 3's comparison at Hollow Vale establishes the specific repeated sequence.
-7. **Final reveal:** Chapter 6 points to a possible inscribed stone but does not locate or depict it. Keep the final line as a lead, not a confirmed destination.
+7. **Procedure repetition:** Chapter 4 introduces the temporary copy procedure and Chapter 5 records the later multi-party agreement. Proofread should keep the distinction clear: preliminary procedure vs. documented agreement, without implying new property or access rights.
+8. **Final reveal:** Chapter 6 points to a possible inscribed stone but does not locate or depict it. Keep the final line as a lead, not a confirmed destination.
 
 ## 4. Remaining work
 
 - [x] Initial line edit of all six chapters.
 - [x] Index and progress tracker updated.
 - [x] Corrected Chapter 2 curator identity and unsupported exact travel duration.
+- [x] Aligned Chapter 2 integrated storyboard: removed curator name/identity and replaced the 'Hari Ketiga' page title with 'Tiba di Hollow Vale'.
 - [ ] Full sentence-level proofread for grammar, punctuation, dialogue voice, and repeated phrasing.
 - [ ] Read all six chapters consecutively for pacing and chapter handoffs.
 - [ ] Cross-check every scene against storyboard integrated Draft 0.2.
