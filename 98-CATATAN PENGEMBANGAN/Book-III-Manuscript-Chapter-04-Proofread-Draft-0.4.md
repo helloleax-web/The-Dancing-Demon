@@ -1,6 +1,6 @@
 # Book III — Sisa-Sisa yang Tertinggal
 ## Bab 4: Hak atas Informasi
-### Line Edit Draft 0.3 — Scenes 11–14
+### Proofread Draft 0.4 — Scenes 11–14
 
 **Status: CATATAN PENGEMBANGAN / NON-CANON.**  
 **Basis:** Book III Scene Outline Draft 0.2; Character Bible; Ensemble Character Arcs; Chapter 3 Revision Draft 0.2.  
