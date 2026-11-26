@@ -1,7 +1,7 @@
 # Book III — Manuscript Index — Draft 0.7
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
-**Progress:** enam bab prosa tersedia. Chapters 1–6 kini memiliki versi revisi Draft 0.2; Draft 0.1 untuk Chapters 3–6 dipertahankan sebagai arsip. Continuity Audit Draft 0.5 dan Character Knowledge Matrix Draft 0.4 tersedia. Manuskrip belum final.
+**Progress:** enam bab prosa tersedia. Chapters 1–6 kini memiliki versi revisi Draft 0.2; Draft 0.1 untuk Chapters 3–6 dipertahankan sebagai arsip. Continuity Audit Draft 0.7 dan Character Knowledge Matrix Draft 0.5 tersedia. Manuskrip belum final.
 
 ## Struktur bab
 
@@ -86,7 +86,7 @@ Proofread Draft 0.4 dibuat dari masing-masing Line Edit Draft 0.3. Versi ini men
 - [Chapter 5 — Proofread Draft 0.4](Book-III-Manuscript-Chapter-05-Proofread-Draft-0.4.md)
 - [Chapter 6 — Proofread Draft 0.4](Book-III-Manuscript-Chapter-06-Proofread-Draft-0.4.md)
 
-**Status:** proofread pass awal selesai. Belum final karena status legal akses Hollow Vale tetap OPEN QUESTION dan perlu keputusan kreator sebelum finalisasi.
+**Status:** proofread pass awal dan read-through berurutan selesai. Keputusan akses B sudah diterapkan; kewenangan dan status legal Hollow Vale tetap UNKNOWN/OPEN QUESTION. Final micro-proofread, audit CANON/transisi Buku IV, storyboard panel-by-panel, dan persetujuan kreator masih tertunda.
 
 ## Hollow Vale access — active development decision
 
@@ -117,3 +117,7 @@ Gunakan enam file ini sebagai prosa kerja terbaru untuk pembacaan dan audit. Rev
 - [Manga Page Rhythm Audit — Draft 0.2](Book-III-Manga-Page-Rhythm-Audit-Draft-0.2.md)
 
 **Status after read-through:** enam bab sudah dibaca berurutan; keputusan akses B diterapkan; status kewenangan situs tetap UNKNOWN/OPEN QUESTION. Book III masih DALAM REVISI.
+
+
+## Cross-book transition
+- [Book III–IV Transition Audit — Draft 0.1](Book-III-IV-Transition-Audit-Draft-0.1.md) — memisahkan rujukan Hollow Vale dari catatan rute lokal Mira yang dipakai untuk mencari Northglass.
