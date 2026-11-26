@@ -21,7 +21,8 @@ Mencatat kemajuan produksi thumbnail halaman demi halaman tanpa mengubah storybo
 - [x] Membuat thumbnail visual pertama Halaman 8 — *Tempat Singgah* (eksplorasi; review belum selesai).
 - [x] Membuat thumbnail visual pertama Halaman 9 — *Jorren Hale* (eksplorasi; review belum selesai).
 - [x] Membuat thumbnail visual pertama Halaman 10 — *Batu yang Sudah Lama Ada* (eksplorasi; review belum selesai).
-- [ ] Thumbnail Halaman 11–18.
+- [x] Membuat thumbnail visual pertama Halaman 11 — *Permintaan Izin* (eksplorasi; review belum selesai).
+- [ ] Thumbnail Halaman 12–18.
 - [ ] Review komposisi, ritme halaman, dan page-turn seluruh Bab 1.
 
 ## Batas kontinuitas Bab 1
@@ -34,9 +35,9 @@ Mencatat kemajuan produksi thumbnail halaman demi halaman tanpa mengubah storybo
 - Semua keputusan visual dan panel tetap NON-CANON.
 
 ## Catatan kualitas
-Thumbnail yang dihasilkan sejauh ini adalah eksplorasi komposisi, bukan artwork final. File gambar halaman 3–10 belum disimpan ke repository; repository saat ini memuat spesifikasi layout tekstualnya. Halaman 2–10 kini memiliki eksplorasi visual serta spesifikasi layout tertulis di dokumen layout masing-masing; Halaman 10 tercatat di `Book-IV-Manga-Thumbnail-Page-10-Layout-Draft-0.1.md`; review komposisi, keterbacaan balon, dan konsistensi desain masih terbuka. Ada percobaan visual Halaman 2 yang menambahkan detail yang tidak didukung storyboard; percobaan tersebut ditolak dan tidak boleh dijadikan acuan. Thumbnail Halaman 2 harus mengikuti lima beat storyboard asli tanpa memperlihatkan bentuk fisik batu atau lokasi spesifik.
+Thumbnail yang dihasilkan sejauh ini adalah eksplorasi komposisi, bukan artwork final. File gambar halaman 3–11 belum disimpan ke repository; repository saat ini memuat spesifikasi layout tekstualnya. Halaman 2–11 kini memiliki eksplorasi visual serta spesifikasi layout tertulis di dokumen layout masing-masing; Halaman 11 tercatat di `Book-IV-Manga-Thumbnail-Page-11-Layout-Draft-0.1.md`; review komposisi, keterbacaan balon, dan konsistensi desain masih terbuka. Ada percobaan visual Halaman 2 yang menambahkan detail yang tidak didukung storyboard; percobaan tersebut ditolak dan tidak boleh dijadikan acuan. Thumbnail Halaman 2 harus mengikuti lima beat storyboard asli tanpa memperlihatkan bentuk fisik batu atau lokasi spesifik.
 
 ## Langkah berikutnya
-Review thumbnail Halaman 1–10 (termasuk koreksi jika diperlukan), lalu lanjutkan thumbnail Halaman 11 sesuai storyboard.
+Review thumbnail Halaman 1–11 (termasuk koreksi jika diperlukan), lalu lanjutkan thumbnail Halaman 12 sesuai storyboard.
 
 **Dampak CANON: tidak ada.**
