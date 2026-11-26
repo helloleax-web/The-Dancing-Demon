@@ -417,3 +417,11 @@
 - [Book V Scene 1, Panel 1.4 — Thumbnail Draft 0.1](Book-V-Scene-01-Panel-1-4-Thumbnail-Draft-0.1.md) — wide-group staging di persimpangan dengan tiga subaksi: Seraphine-catatan, Mira-peta lokal, Daren-ikatan tas.
 - Tavian, Kael, dan Ilyra tetap hadir dalam rombongan. Dua arah hanya percabangan abstrak; tidak ada detail rute/geografi yang ditetapkan.
 - Layout manual diterima untuk staging, bukan ilustrasi final. Semua materi NON-CANON; dampak CANON nihil.
+
+
+### Scene 1 — Panel 1.5 thumbnail
+
+- [Book V Scene 1, Panel 1.5 — Thumbnail Draft 0.1](Book-V-Scene-01-Panel-1-5-Thumbnail-Draft-0.1.md) — insert catatan tujuan pemeriksaan dengan kutipan persis storyboard, diikuti kelompok enam anggota yang kembali bergerak.
+- Layout manual diterima sebagai studi komposisi NON-CANON; bukan ilustrasi final. Dampak CANON nihil.
+
+**Status Scene 1:** 5/5 panel memiliki studi komposisi manual per panel; ilustrasi final belum dibuat.
