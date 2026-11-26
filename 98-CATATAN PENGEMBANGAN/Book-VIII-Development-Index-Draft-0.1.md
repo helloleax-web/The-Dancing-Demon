@@ -1,4 +1,4 @@
-# Book VIII — Development Index — Draft 0.2
+# Book VIII — Development Index — Draft 0.3
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Judul:** The Dancing Demon.  
@@ -6,35 +6,35 @@
 
 ## Dokumen
 
-- [Source Audit & Creator Decision Register](Book-VIII-Source-Audit-and-Creator-Decision-Register-Draft-0.1.md) — kewajiban CANON, batas misteri, dan keputusan plot yang masih terbuka.
+- [Source Audit & Creator Decision Register](Book-VIII-Source-Audit-and-Creator-Decision-Register-Draft-0.1.md) — kewajiban CANON dan batas misteri.
 - [Structural Outline](Book-VIII-Structural-Outline-Draft-0.1.md) — kerangka lima bagian dan 20 scene.
-- [Outline Audit Report](Book-VIII-Outline-Audit-Report-Draft-0.1.md) — pemeriksaan kerangka dengan fondasi CANON dan arc karakter.
+- [Outline Audit Report](Book-VIII-Outline-Audit-Report-Draft-0.1.md) — pemeriksaan kerangka dan manuskrip.
 - [Character Knowledge Matrix](Book-VIII-Character-Knowledge-Matrix-Draft-0.1.md) — kontrol informasi keenam karakter.
 - [Mystery Timing Audit](Book-VIII-Mystery-Timing-Audit-Draft-0.1.md) — urutan pengungkapan dan batas misteri.
 - [Title Meaning — CANON](../../01-CANON/The-Dancing-Demon-Title-Meaning.md) — makna resmi judul.
-- [Manuscript — Draft 0.1](Book-VIII-Manuscript-Draft-0.1.md) — first-pass prosa lengkap, 20 scene, sekitar 6.283 kata.
-- [Manuscript Index — Draft 0.1](Book-VIII-Manuscript-Index-Draft-0.1.md) — struktur dan ringkasan scene.
-- [Manuscript Continuity Audit — Draft 0.1](Book-VIII-Manuscript-Continuity-Audit-Draft-0.1.md) — audit pertama atas canon, misteri, arc, dan ritme.
+- [Manuscript Draft 0.1](Book-VIII-Manuscript-Draft-0.1.md) — first-pass awal, dipertahankan sebagai arsip.
+- [Manuscript Revision Draft 0.2](Book-VIII-Manuscript-Revision-Draft-0.2.md) — revisi prosa terbaru, 20 scene, sekitar 8.237 kata.
+- [Revision Index Draft 0.2](Book-VIII-Manuscript-Revision-Index-Draft-0.2.md) — struktur dan perubahan utama.
+- [Revision Continuity Audit Draft 0.2](Book-VIII-Manuscript-Revision-Continuity-Audit-Draft-0.2.md) — audit revisi.
 
 ## Status pengerjaan
 
 - Fondasi CANON Buku VIII diperiksa.
 - Makna judul telah disahkan kreator dan dipindahkan ke dokumen CANON.
 - Struktur lima bagian / 20 scene telah dikembangkan menjadi manuskrip first-pass.
-- Konflik eksternal draft: pengalihan air dan penilaian jalur lama dalam keadaan darurat.
-- Keenam karakter memiliki tindakan yang menunjukkan arah arc masing-masing.
-- Manuskrip first-pass telah dibuat dan diindeks.
-- Audit kontinuitas pertama selesai; naskah dinilai layak sebagai first-pass, belum final.
-- Detail lokasi, pihak lokal, dan kejadian lapangan baru tetap NON-CANON.
+- Revisi prosa 0.2 telah dibuat; memperkuat konsekuensi publik, krisis lapangan, dan arc enam karakter.
+- Audit revisi 0.2 menyatakan naskah lebih kuat dari first-pass, tetapi belum final.
+- Detail lokasi, tokoh pendukung Lysa dan Bram, krisis air, serta seluruh kejadian lapangan baru tetap NON-CANON.
 
 ## Pekerjaan yang masih terbuka
 
-1. Cocokkan pembukaan Buku VIII dengan akhir manuskrip Buku VII secara langsung.
-2. Perluas konsekuensi personal dan konflik lapangan tanpa mengulang eksposisi.
-3. Revisi dialog dan variasi suara karakter.
-4. Perkuat payoff distribusi informasi dari awal hingga akhir.
-5. Lakukan line edit, proofread, dan audit kontinuitas final.
-6. Tinjau ulang manuskrip Buku I–VII dan revisi semua masalah lintas buku sebelum seri dinyatakan selesai.
+1. Cocokkan pembukaan Buku VIII dengan akhir manuskrip Buku VII setelah audit lintas seri.
+2. Perkuat Scenes 9–12 agar pembahasan arsip tidak terasa seperti kuliah.
+3. Perjelas akibat kerusakan persediaan warga dan konsekuensi sosial keputusan lapangan.
+4. Tajamkan suara dialog masing-masing karakter dan lakukan line edit.
+5. Pastikan cedera Daren konsisten pada seluruh adegan setelah Scene 16.
+6. Audit kesinambungan Book I–VIII dan revisi masalah lintas buku.
+7. Lakukan proofread dan audit kontinuitas final sebelum menyebut seri selesai.
 
 ## Batas CANON
 
