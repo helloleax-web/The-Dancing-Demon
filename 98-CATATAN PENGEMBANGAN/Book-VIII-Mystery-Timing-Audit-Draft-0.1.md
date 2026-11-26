@@ -11,7 +11,7 @@ Audit ini memastikan bahwa Buku VIII membayar misteri yang dijanjikan tanpa meng
 
 | Misteri | Status sebelum Buku VIII | Jendela yang disarankan | Boleh terjawab? | Batas |
 |---|---|---|---|---|
-| Makna judul The Dancing Demon | MYSTERY; CANON menyatakan diungkap pada Buku VIII | Scenes 17–18, melalui perbandingan motif dan keputusan kelompok | Wajib | Working meaning NON-CANON: pola interpretasi yang berubah-ubah, bukan satu monster atau Abstract Existence |
+| Makna judul The Dancing Demon | CANON: makna tematik disahkan 2026-11-26 | Scene 18, melalui perbandingan motif dan keputusan kelompok | Wajib diungkap secara dramatis | Makna metaforis, bukan satu monster atau Abstract Existence |
 | Identitas suara sebagai LEAX pada Prasasti I | Dugaan penafsir, bukan fakta objektif | Dapat tetap UNKNOWN | Tidak wajib | Jangan sahkan dugaan hanya karena tema seri |
 | Hubungan objektif 13 Prasasti | UNKNOWN | Buku VII–VIII dapat memberi payoff naratif pada perbandingan | Tidak wajib seluruhnya | Tidak semua Prasasti harus saling berhubungan atau satu fungsi |
 | NVR AGAIN dan musik Great War | Nama dan kemunculan musik selama perang adalah CANON | Buku VIII dapat memberi payoff tematik | Asal/mekanisme tidak wajib | Nama tidak menjelaskan pencipta, penyebar, atau cara kerja |
@@ -36,7 +36,7 @@ Audit ini memastikan bahwa Buku VIII membayar misteri yang dijanjikan tanpa meng
 ## 4. Larangan pengungkapan dini
 
 - Jangan memakai kata “demon” dalam judul sebagai bukti bahwa Abstract Existence adalah iblis.
-- Jangan menjadikan working meaning metaforis ini sebagai fakta CANON sebelum pengguna mengesahkan.
+- Jangan memperlakukan makna metaforis sebagai identitas literal atau penjelasan kosmologi.
 - Jangan membuat kata “dancing” menjadi deskripsi gerak entitas tanpa keputusan kreator.
 - Jangan membuat istilah iblis dalam Prasasti VIII atau XIII menjadi petunjuk langsung judul.
 - Jangan membuat “unseen forces” pada Prasasti III sebagai identifikasi Abstract Existence.
@@ -57,4 +57,4 @@ Ketika keputusan kreator sudah ada, pengungkapan harus lolos pemeriksaan:
 
 ## 6. Status
 
-Audit ini mencatat working meaning NON-CANON yang dipilih co-writer berdasarkan mandat pengguna. Makna tersebut belum menjadi fakta CANON. Semua keputusan akhir lainnya tetap terbuka.
+Audit ini telah disesuaikan setelah pengesahan makna judul sebagai CANON pada 2026-11-26. Semua keputusan akhir lainnya tetap terbuka.
