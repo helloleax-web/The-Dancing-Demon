@@ -103,6 +103,7 @@ Manuskrip harus mempertahankan ketidakpastian tersebut. Jangan mengubah istilah 
 - Bab 1 Scene 3: urutan dialog perkenalan Neral dirapikan agar respons Seraphine berada tepat setelah penjelasan peran Neral.
 - Bab 4 Scene 14: pengulangan respons Seraphine kepada penghubung penerbit dihapus; dua kalimat penolakan kini menjadi satu giliran dialog yang utuh.
 - Temuan ini menunjukkan masih diperlukan pemeriksaan dialog menyeluruh. Belum ada klaim bahwa repetisi di seluruh 22 scene sudah selesai.
+- Bab 5 Scene 21: dialog Daren diubah dari komentar umum tentang banyaknya hal yang belum diketahui menjadi pertanyaan praktis tentang jalur, kondisi medan, dan keterjangkauan lokasi. Ini menegaskan perspektifnya sebagai pekerja lapangan tanpa menetapkan lokasi atau fakta baru.
 - Pemeriksaan suara karakter, transisi, dan ritme lintas bab masih berlangsung.
 
 ## 12. Kesimpulan
