@@ -32,55 +32,33 @@ Tidak ada jawaban objektif baru tentang misteri dunia yang ditetapkan. Status me
 
 ## 3. Temuan prioritas
 
-### 3.1 P1 — Definisi Prasasti dan medium fisik Buku IV
+### 3.1 P1 — Definisi Prasasti dan medium fisik Buku IV — DITANGANI UNTUK DRAFT
 
-**Sumber CANON:**
-- `01-CANON/Thirteen-Prasasti.md` menetapkan keberadaan 13 Prasasti dan 13 naskah interpretasi in-world.
-- `01-CANON/Prasasti-I-NVR-AGAIN.md` menetapkan Prasasti I sebagai naskah interpretasi seorang keturunan LEAX.
-- `01-CANON/Series-Mystery-and-Revelation-Architecture.md` menetapkan bahwa penemuan Prasasti pertama mengungkap nama NVR AGAIN.
-- Sumber-sumber tersebut tidak menetapkan lokasi, pembuat, asal, periode, fungsi, atau bentuk fisik setiap Prasasti.
+**Sumber CANON:** `01-CANON/Thirteen-Prasasti.md` dan `01-CANON/Prasasti-I-NVR-AGAIN.md` menetapkan 13 naskah interpretasi in-world dari perspektif keturunan LEAX. Penemuan Prasasti pertama mengungkap nama NVR AGAIN. Sumber CANON tidak menetapkan medium fisik universal untuk seluruh Prasasti.
 
-**Kondisi draft Buku IV:** manuskrip memperlihatkan batu bertulis Northglass sebagai objek fisik yang diperiksa Ilyra. Satu rangkaian tanda ditransliterasikan menjadi NVR AGAIN. Draft sebelumnya kadang memakai istilah “batu”, “Prasasti”, dan “naskah” seolah-olah ketiganya pasti satu benda/kategori.
+**Model kerja yang diterapkan pada revision prosa 0.2:** objek bertulis Northglass adalah artefak fisik yang berkaitan dengan penemuan Prasasti I dan memuat rangkaian tanda yang ditransliterasikan sebagai NVR AGAIN. Objek itu tidak disamakan dengan naskah interpretasi keturunan LEAX. Naskah interpretasi Prasasti I tetap dokumen CANON tersendiri.
 
-**Penilaian:** medium fisik belum ditetapkan. Belum ada dasar untuk menyatakan bahwa batu Northglass adalah naskah interpretasi yang ditulis keturunan LEAX. Namun, audit juga tidak dapat menyimpulkan bahwa batu tersebut pasti hanya sumber salinan. Hubungan itu tetap OPEN QUESTION.
+**Batas:** hubungan asal-usul/informasi antara objek Northglass dan naskah interpretasi—apakah sumber, indeks, salinan, atau artefak yang menyertai rekaman—tetap UNKNOWN. Model ini NON-CANON dan hanya membedakan istilah dalam draft. Tidak ada medium yang ditetapkan untuk Prasasti II–XIII.
 
-**Tindakan yang diterapkan pada revision 0.2:**
-- Bedakan istilah “objek/batu bertulis” dari “naskah interpretasi Prasasti I”.
-- Jika karakter menghubungkan keduanya, tulis sebagai identifikasi atau hipotesis yang dapat diuji, bukan fakta objektif yang telah dipastikan.
-- Pertahankan fakta CANON bahwa penemuan Prasasti pertama mengungkap nama NVR AGAIN.
-- Jangan menetapkan siapa yang membuat batu, kapan dibuat, bagaimana naskah in-world disusun, atau apakah batu merupakan medium asli.
-
-**Status:** tidak lagi menjadi blocker prosa. Hubungan sumber yang lebih spesifik tetap UNKNOWN dan tidak perlu diputuskan untuk melanjutkan draft.
+**Status:** tidak lagi menjadi blocker prosa.
 
 ### 3.2 P1 — Hilangnya LEAX dan fungsi Buku V — DITANGANI UNTUK DRAFT
 
-**Sumber yang perlu dibedakan:**
-- `00-CORE/08-Cerita-dan-Rencana-Delapan-Buku.md` menyebut Buku V membahas catatan Great War serta hilangnya LEAX.
-- `01-CANON/Series-Spine-and-Narrative-Framework.md` menyebut fungsi Buku V sebagai rekonstruksi Great War melalui arsip, kesaksian, dan bukti yang tidak lengkap.
-- `01-CANON/Series-Mystery-and-Revelation-Architecture.md` menempatkan hilangnya LEAX sebagai pertanyaan sejarah yang relevan pada Buku V.
-- `01-CANON/Great-War-and-Resonansi-Hitam.md` menetapkan bahwa LEAX menghilang secara misterius setelah Great War dan bahwa sekutu LEAX memperoleh jubah mana hitam.
+**Sumber CANON:** LEAX menghilang secara misterius setelah Great War; sekutu LEAX memperoleh jubah mana hitam. Fungsi Buku V mencakup rekonstruksi Great War dan pertanyaan sejarah tentang hilangnya LEAX.
 
-**Kondisi draft:** outline dan manuskrip Buku V menahan seluruh detail tindakan, motif, peran, hubungan, keadaan, dan rincian hilangnya LEAX. Manuskrip tidak membahas LEAX.
+**Revisi yang diterapkan:** Buku V menyebut fakta minimum tersebut melalui catatan arsip draft. Bab 1 memperkenalkan entri katalog yang menyatakan LEAX menghilang setelah Great War; Bab 3 mengaitkan jubah dengan sekutu LEAX; Bab 5 mencatat hilangnya LEAX sebagai fakta yang tidak memiliki penjelasan dalam sumber yang diperiksa.
 
-**Penilaian:** penahanan detail adalah benar; penghilangan seluruh pertanyaan LEAX dari Buku V membuat janji tingkat seri kurang terasa. Buku V tidak harus menjawab misteri tersebut, tetapi setidaknya perlu memperlihatkan bahwa sumber sejarah tentang perang juga menghadapi pertanyaan tentang hilangnya LEAX—jika scope itu disetujui kreator.
+**Batas:** entri katalog, arsip, dan adegan pengantar adalah detail cerita NON-CANON. Tidak ada nama sekutu, tindakan, motif, lokasi terakhir, kronologi rinci, keadaan, penyebab, atau nasib LEAX yang ditambahkan.
 
-**Tindakan aman untuk dipertimbangkan:**
-- Gunakan fakta CANON minimum: LEAX menghilang setelah Great War.
-- Jangan menambahkan kronologi rinci, lokasi terakhir, pelaku, motif, tindakan, kondisi, atau nasib LEAX.
-- Fakta bahwa sekutu LEAX memperoleh jubah mana hitam boleh dipakai hanya jika karakter memperoleh informasi itu melalui sumber in-world yang masuk akal. Pengetahuan kreator tidak otomatis menjadi pengetahuan karakter.
-- Jika Buku V memang sengaja tidak membahas LEAX, perjelas fungsi Buku V dan pindahkan payoff pertanyaan tersebut ke tahap lain melalui keputusan kreator.
-
-**Keputusan kreator yang masih dibutuhkan:** apakah Buku V menyebut fakta hilangnya LEAX secara terbatas atau menunda pembahasan tersebut.
+**Status:** scope Buku V telah ditangani pada level pengembangan; misteri LEAX tetap terbuka.
 
 ### 3.3 P1 — Konflik status pedoman metode penafsiran Prasasti — DITANGANI
 
-File `98-CATATAN PENGEMBANGAN/Metode-Penafsiran-13-Prasasti-Draft-0.1.md` memiliki dua pernyataan yang tidak selaras:
-- Header menyebut **Status: CANON — ketentuan penyajian dan dokumentasi**.
-- Bagian 8 menyebut pedoman tersebut berstatus **NON-CANON**.
+File `98-CATATAN PENGEMBANGAN/Metode-Penafsiran-13-Prasasti-Draft-0.1.md` memiliki header CANON tetapi Bagian 8 sebelumnya menyebut NON-CANON.
 
-Isi pedoman memberi aturan rinci untuk sudut pandang penafsir, pembacaan baris demi baris, pemisahan fakta/tafsir/dugaan/UNKNOWN, serta catatan rekaman bunyi. Isi itu digunakan sebagai standar kerja, tetapi status resminya tidak dapat dipastikan dari file yang kontradiktif.
+**Tindakan:** Bagian 8 diselaraskan dengan header dan fungsi dokumen sebagai standar metode penulisan serta dokumentasi in-world. Status CANON mengikat metode dan batas pengetahuan penafsir, bukan kebenaran objektif tafsirnya. Perubahan administratif dicatat dalam Canon Changelog.
 
-**Tindakan yang diterapkan:** bagian 8 diselaraskan dengan header CANON dan fungsi dokumen sebagai standar metode penulisan/dokumentasi. Isi tafsir, dugaan, dan fakta objektif tetap dibedakan.
+**Status:** konflik redaksional selesai; tidak ada fakta sejarah atau makna Prasasti baru yang ditetapkan.
 
 ### 3.4 P2 — Jaringan fasilitas versus sistem rujukan dokumenter
 
