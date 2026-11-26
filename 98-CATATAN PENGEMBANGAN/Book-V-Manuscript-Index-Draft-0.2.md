@@ -1,8 +1,8 @@
 # Book V — Manuscript Index — Draft 0.4
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
-**Progress:** 22 scene; seluruh lima bab telah memiliki pass revisi 0.3 atau lebih baru. Line edit dialog Bab 1–2 dan Bab 4 Scenes 14–18 telah dilakukan; Bab 3 Scenes 9–13 menerima revisi ritme terarah. Bab 5 Scenes 19–22 telah menerima line edit terarah; audit editorial lintas lima bab selesai. Proofreading akhir Bab 1 Scenes 1–4, Bab 2 Scenes 5–8, Bab 3 Scenes 9–13, dan Bab 4 Scenes 14–18 telah dilakukan; Bab 5 menunggu giliran.  
-**Jumlah kata:** 11.482 kata termasuk judul, metadata, dan catatan tambahan; dihitung ulang setelah proofreading Bab 4.
+**Progress:** 22 scene; seluruh lima bab telah memiliki pass revisi 0.3 atau lebih baru. Line edit dialog Bab 1–2 dan Bab 4 Scenes 14–18 telah dilakukan; Bab 3 Scenes 9–13 menerima revisi ritme terarah. Bab 5 Scenes 19–22 telah menerima line edit terarah; audit editorial lintas lima bab selesai. Proofreading akhir seluruh lima bab (Scenes 1–22) telah dilakukan.  
+**Jumlah kata:** 11.485 kata termasuk judul, metadata, dan catatan tambahan; dihitung ulang setelah proofreading seluruh lima bab.
 
 ## Struktur bab
 
@@ -131,7 +131,7 @@
 - Batas fakta tetap dijaga: efek jubah dan perolehan oleh sekutu LEAX sesuai CANON; mekanisme, pemakai, pembuat, jumlah, dan cakupan Resonansi Hitam tidak ditambahkan.
 - Tidak ada perubahan CANON.
 - Jumlah kata manuskrip setelah penghitungan ulang lima bab: **11.479 kata** termasuk judul, metadata, dan catatan tambahan.
-- Status: Bab 1–4 proofreading selesai; Bab 5 belum diproofread.
+- Status: Bab 1–5 proofreading selesai; seluruh 22 scene telah diproofread.
 
 
 ## Proofreading akhir — Bab 4
@@ -142,3 +142,14 @@
 - Tidak ada perubahan CANON dan tidak ada penambahan fakta sejarah.
 - Jumlah kata manuskrip setelah penghitungan ulang lima bab: **11.482 kata** termasuk judul, metadata, dan catatan tambahan.
 - Status: Bab 1–4 proofreading selesai; Bab 5 belum diproofread.
+
+
+## Proofreading akhir — Bab 5
+
+- Bab 5 Scenes 19–22 menerima proofreading mikro.
+- Koreksi meliputi pemadatan beberapa konstruksi kalimat, perapian transisi, dan penghalusan pilihan kata tanpa mengubah isi laporan atau hasil penelitian.
+- Hubungan NVR AGAIN dengan musik Great War tetap berdasarkan perbandingan sumber; efek jubah tetap sesuai CANON; cakupan Resonansi Hitam tetap tidak dipastikan.
+- Petunjuk fenomena pada Scene 22 tetap berupa laporan singkat yang belum diverifikasi. Tidak ada hubungan baru dengan Abstract Existence.
+- Tidak ada perubahan CANON.
+- Jumlah kata manuskrip setelah penghitungan ulang lima bab: **11.485 kata** termasuk judul, metadata, dan catatan tambahan.
+- Status: seluruh lima bab dan 22 scene telah menerima proofreading akhir. Manuskrip masih NON-CANON dan belum disahkan.
