@@ -1,6 +1,6 @@
 # Book IV — Prasasti Pertama
 ## Bab 1: Jejak di Luar Fasilitas
-### Draft Prosa 0.1 — Scenes 1–5
+### Revision Draft 0.2 — Scenes 1–5
 
 **Status: CATATAN PENGEMBANGAN / NON-CANON.**  
 **Fungsi:** manuskrip kerja Buku IV berdasarkan Book IV Scene Outline Draft 0.1. Semua detail baru tetap keputusan cerita draft.
@@ -9,7 +9,7 @@
 
 Mereka membaca ulang salinan itu sebelum meninggalkan Bellwether.
 
-Ilyra meletakkan lembar indeks Hollow Vale di atas meja, lalu menahan sudutnya agar tidak bergeser. Bagian bawah halaman memiliki baris yang rusak. Beberapa kata masih dapat dibaca, tetapi bagian yang mungkin menunjukkan nama tempat telah hilang.
+Ilyra meletakkan lembar indeks Hollow Vale di atas meja, lalu menahan sudutnya agar tidak bergeser. Bagian bawah halaman memiliki baris yang rusak. Beberapa kata masih dapat dibaca, tetapi bagian yang mungkin menunjukkan nama tempat telah hilang. Ia membuat dua salinan kerja: satu mempertahankan bentuk halaman sebagaimana ditemukan, satu lagi memuat pembacaan sementara dengan bagian yang hilang ditandai. Keduanya tidak akan diperlakukan sebagai dokumen yang sama.
 
 “Yang tersisa hanya deskripsi batu bertulis dan arah umum,” katanya.
 
@@ -21,7 +21,7 @@ Tavian melihat sketsa kecil di sisi halaman. Bentuknya tidak cukup untuk menentu
 
 Seraphine memeriksa dokumentasi sebelumnya.
 
-“Kita harus mencatat bahwa itu interpretasi dari bagian yang rusak. Jangan menuliskannya sebagai nama resmi.”
+“Kita harus mencatat bahwa itu interpretasi dari bagian yang rusak. Jangan menuliskannya sebagai nama resmi. Dan jangan menyebut benda yang kita cari sebagai naskah Prasasti I sebelum hubungan sumbernya jelas.”
 
 Ilyra mengangguk.
 
@@ -115,7 +115,7 @@ Jorren memandang Mira.
 
 “Sudah cukup lama untuk tahu bahwa mereka mau mendengar batas.”
 
-Jorren akhirnya setuju mengantar mereka ke jalur atas. Ia menetapkan bahwa kelompok harus mengikuti jalur yang ditunjukkan, tidak memindahkan batu, dan tidak membersihkan permukaan tanpa persetujuan.
+Jorren akhirnya setuju mengantar mereka ke jalur atas. Ia menjelaskan bahwa izinnya terbatas pada akses melalui jalur yang ia jaga; ia tidak dapat mengatasnamakan setiap orang yang memiliki kepentingan atas tempat itu. Ia menetapkan bahwa kelompok harus mengikuti jalur yang ditunjukkan, tidak memindahkan batu, dan tidak membersihkan permukaan tanpa persetujuan.
 
 Tavian menerima ketentuan itu.
 
@@ -171,7 +171,7 @@ Ilyra meminta izin untuk membuat salinan tanda yang terlihat.
 
 Jorren menyetujui, selama tidak ada bagian yang disentuh atau digores.
 
-Mira menambahkan bahwa salinan yang dibawa keluar harus mencantumkan bahwa batu tersebut berada di wilayah yang dijaga masyarakat setempat.
+Mira menambahkan bahwa salinan yang dibawa keluar harus mencantumkan bahwa batu tersebut berada di wilayah yang dijaga masyarakat setempat. Ia juga meminta agar kelompok tidak menyebarkan petunjuk lokasi yang lebih rinci sebelum membicarakan dampaknya dengan orang-orang yang menggunakan jalur itu.
 
 “Kami bisa mencatat sumber dan batas penggunaannya,” kata Seraphine.
 
@@ -202,3 +202,5 @@ Mereka harus memastikan bahwa penemuan tersebut tidak dimulai dengan merusak ben
 - Ilyra hanya memiliki deskripsi yang terpotong dan belum mengetahui isi batu.
 - Tidak ada nama NVR AGAIN yang muncul pada bagian ini.
 - Semua detail Jorren, akses situs, dan Jalan Northglass tetap NON-CANON.
+- Revision 0.2 memperjelas bahwa izin penjaga jalur memiliki cakupan terbatas dan tidak otomatis mewakili seluruh kepentingan lokal.
+- Catatan pencarian membedakan indeks Hollow Vale, objek fisik yang dicari, dan naskah interpretasi Prasasti I; hubungan di antaranya tidak ditetapkan.
