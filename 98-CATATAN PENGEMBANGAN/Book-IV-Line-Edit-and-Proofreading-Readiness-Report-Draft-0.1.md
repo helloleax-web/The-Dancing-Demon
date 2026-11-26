@@ -1,5 +1,5 @@
 # Book IV — Line Edit and Proofreading Readiness Report
-## Draft 0.4 — Proofread Pass 0.2
+## Draft 0.5 — Access Note Sharing and Proofread 0.2
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Ruang lingkup:** manuskrip aktif Book IV Chapters 1–4, CANON *Thirteen Prasasti*, dan *Metode Penafsiran Tiga Belas Prasasti — Draft 0.2*.  
@@ -9,7 +9,7 @@
 
 | Bab | Scene | Versi line edit | Hasil |
 |---|---:|---|---|
-| 1 — Jejak di Luar Fasilitas | 1–5 | Proofread Draft 0.1 (basis Revision 0.4) | Pass manual selesai; final cross-chapter audit pending |
+| 1 — Jejak di Luar Fasilitas | 1–5 | Proofread Draft 0.2 (basis Revision 0.4) | Pass manual selesai; final cross-chapter audit pending |
 | 2 — Batu yang Tidak Terbaca | 6–10 | Proofread Draft 0.1 (basis Revision 0.3) | Pass manual selesai; final cross-chapter audit pending |
 | 3 — Nama yang Terlepas | 11–15 | Proofread Draft 0.1 (basis Revision 0.5) | Pass manual selesai; akses A dan batas non-reproduksi diperiksa |
 | 4 — Setelah Nama Ditemukan | 16–20 | Proofread Draft 0.1 (basis Revision 0.5) | Pass manual selesai; batas konsultasi dan dokumentasi non-reproduktif diperiksa |
