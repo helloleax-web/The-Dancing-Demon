@@ -148,3 +148,11 @@ Kesepakatan tidak mengatur atau memberikan:
 - Proofreading pass awal selesai; read-through final dan pengesahan belum dilakukan.
 
 **Status:** Book III belum final. Tidak ada perubahan CANON.
+
+
+## Keputusan kreator — akses Hollow Vale (B)
+
+**Status:** CATATAN PENGEMBANGAN / NON-CANON.
+Kelompok memilih masuk ke bagian situs yang telah terbuka tanpa izin atau kewenangan yang terkonfirmasi. Mereka sadar tindakan itu dapat dipersoalkan. Batas fisik pemeriksaan bukan bukti izin dan tidak menjadikan akses sah. Jangan menciptakan pemilik, otoritas, penjaga, izin lisan, atau dokumen izin. Pemilik/otoritas, status legal, dan konsekuensi spesifik tetap UNKNOWN/OPEN QUESTION.
+
+**Audit consequence:** blocker pemilihan jalur cerita ditutup karena kreator memilih B. Pertanyaan faktual tentang kewenangan situs tetap terbuka. Lakukan read-through berurutan dan audit ulang agar bab selanjutnya tidak menyiratkan adanya pengesahan akses.
