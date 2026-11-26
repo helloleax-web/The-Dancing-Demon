@@ -74,8 +74,8 @@
 **Panel 1 — Overhead.** Naskah terbuka; catatan pemeriksaan disiapkan.
 **Panel 2.** Ilyra membaca satu baris.
 **Panel 3.** Seraphine menandai komentar penafsir.
-**Panel 4.** Bagian berulang dicatat, bukan dihapus.
-**Panel 5.** Tabel kecil memisahkan pengamatan, tafsir, dugaan, UNKNOWN.
+**Panel 4.** Posisi setiap pengulangan ditandai dalam catatan analisis; tidak ada baris sumber yang disalin ulang.
+**Panel 5.** Tabel kecil memisahkan pengamatan, tafsir, dugaan, UNKNOWN tanpa mereproduksi teks sumber.
 
 ## Halaman 10 — Bagian yang Belum Dipahami
 **Panel 1.** Ilyra menemukan istilah yang tidak dikenali penafsir.
