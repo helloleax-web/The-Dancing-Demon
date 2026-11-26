@@ -14,7 +14,7 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 | Buku | Status | Catatan |
 |---|---|---|
 | I — Jalur yang Terlupakan | DALAM REVISI | Keenam bab telah melalui line edit awal (Bab 1 Draft 0.2; Bab 2–6 Draft 0.3). Audit line edit enam bab Draft 0.2 dan indeks manuskrip Draft 1.3 tersedia. Sinkronisasi panel-per-panel, line edit terpadu, proofreading, roster pendukung, dan audit kontinuitas final masih tertunda. |
-| II — Dunia di Luar Peta | DALAM REVISI | Bab 1 kini direvisi 0.2 untuk menyelaraskan handoff Book I dan alasan praktis ke Bellwether; Bab 6 direvisi 0.2. Bab 2–5 masih Draft 0.1. Audit transisi Book I–II Draft 0.1 tersedia; storyboard dan audit penuh belum selesai. |
+| II — Dunia di Luar Peta | DALAM REVISI | Bab 1–3 telah direvisi menjadi Draft 0.2; Bab 6 memiliki revisi 0.2; Bab 4–5 masih Draft 0.1. Audit transisi Book I–II dan audit arc Bellwether Draft 0.1 tersedia. Storyboard, line edit terpadu, dan audit penuh belum selesai. |
 | III — Sisa-Sisa yang Tertinggal | BELUM DIKERJAKAN | Perlu audit seluruh enam chapter dan pengenalan Ilyra. |
 | IV — Prasasti Pertama | BELUM DIKERJAKAN | Perlu memilih versi chapter aktif berdasarkan riwayat dan mengaudit interpretasi prasasti. |
 | V — Perang yang Tertinggal | BELUM DIKERJAKAN | Perlu membandingkan draft dan revisi yang tersedia serta audit sejarah/konsekuensi. |
@@ -70,6 +70,9 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 44. Merevisi Book II Chapter 1 menjadi Draft 0.2 untuk menyelaraskan handoff Book I dan memperjelas alasan praktis ke Bellwether.
 45. Membuat audit kontinuitas transisi Book I–II Draft 0.1.
 46. Memperbarui indeks manuskrip Book II menjadi Draft 0.4.
+47. Merevisi Book II Chapter 2 menjadi Draft 0.2 dan memperjelas batas pengetahuan Mira.
+48. Merevisi Book II Chapter 3 menjadi Draft 0.2 dan memperjelas mandat terpisah kelompok serta tim Meridian.
+49. Membuat audit arc Bellwether Draft 0.1 dan memperbarui indeks Book II menjadi Draft 0.5.
 
 ## Temuan yang harus dibawa ke tahap berikutnya
 
@@ -102,7 +105,9 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 
 ### Book II–VIII
 - [x] Selaraskan pembukaan Book II dengan akhir Book I dan catat dalam audit transisi Draft 0.1.
-- [ ] Audit dan revisi semua chapter.
+- [x] Revisi awal Bab 1–3 dan audit arc Bellwether.
+- [ ] Revisi Bab 4–5 dan lakukan line edit terpadu enam bab.
+- [ ] Audit dan revisi seluruh chapter.
 - [ ] Perbarui indeks dan dokumen pendukung.
 - [ ] Sinkronkan storyboard yang tersedia.
 - [ ] Lakukan line edit dan proofreading.
@@ -130,4 +135,5 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 - 2026-11-26: Bab 3 menjalani line edit menjadi Draft 0.3; audit line edit awal Bab 1–3 dan indeks manuskrip Draft 1.1 diterbitkan.
 - 2026-11-26: Bab 4, Bab 5, dan Bab 6 menjalani line edit menjadi Draft 0.3; audit line edit enam bab Draft 0.2 dan indeks manuskrip Draft 1.2 diterbitkan.
 - 2026-11-26: indeks storyboard Book I diperbarui menjadi Draft 0.2 dan indeks manuskrip menjadi Draft 1.3. Status Book I tetap DALAM REVISI.
-- 2026-11-26: Book II Chapter 1 direvisi menjadi Draft 0.2; audit transisi Book I–II Draft 0.1 dan indeks Book II Draft 0.4 diterbitkan. Status Book II tetap DALAM REVISI.
+- 2026-11-26: Book II Chapter 1 direvisi menjadi Draft 0.2; audit transisi Book I–II Draft 0.1 dan indeks Book II Draft 0.4 diterbitkan.
+- 2026-11-26: Book II Chapters 2–3 direvisi menjadi Draft 0.2; audit arc Bellwether Draft 0.1 dan indeks Book II Draft 0.5 diterbitkan. Status Book II tetap DALAM REVISI.
