@@ -16,11 +16,11 @@ Salinan ringkasan itu ditempel di tiga tempat berbeda.
 
 Yang pertama berada di ruang baca, di samping daftar peminjaman. Yang kedua di papan pengumuman dekat pasar. Yang ketiga sudah dibawa seseorang ke meja penjual peta, diberi garis merah dan catatan tangan yang menyebutnya sebagai bukti bahwa seluruh Prasasti berasal dari satu sumber.
 
-Tavian membaca salinan ketiga dua kali. Pada bagian bawah, ia menemukan tanda kecil yang ia kenali: tanda kelompok mereka, dicetak dari lembar pengantar yang ia setujui beberapa hari sebelumnya.
+Tavian membaca salinan ketiga dua kali.
 
 “Ini bukan yang kita tulis,” katanya.
 
-“Bukan,” jawab Seraphine. Ia membalik lembar itu dan memeriksa tanda salinannya. “Tapi beberapa kalimatnya memang berasal dari ringkasan awal kita.”
+“Bukan,” jawab Seraphine. Ia membalik lembar itu dan memeriksa tanda salinannya. “Tapi beberapa kalimatnya memang berasal dari ringkasan kita.”
 
 Ilyra berdiri di samping mereka. “Mereka mengambil bagian yang menyebut kemiripan, lalu menghilangkan catatan bahwa kemiripan itu belum membuktikan hubungan.”
 
@@ -34,33 +34,21 @@ Kael tidak membantah. Ia mengambil lembar itu, membaca bagian yang digarisbawahi
 
 Di meja ruang baca, seorang petugas sedang menjelaskan kepada dua pengunjung bahwa katalog komparatif lengkap belum tersedia untuk umum. Salah satu pengunjung menganggap pembatasan itu sebagai usaha menutupi temuan. Yang lain menganggap ringkasan yang beredar sudah cukup untuk memulai pencarian sendiri.
 
-Seorang lelaki yang sedang menyalin daftar peminjaman ikut bicara. “Kalau kalian tidak ingin orang salah paham, kenapa memberi mereka lembar yang bisa dipotong-potong?”
+Tidak ada yang tampak seperti penjahat. Mereka hanya memegang bagian informasi yang berbeda dan menggunakannya untuk tujuan masing-masing.
 
-Tavian menoleh. Ia bisa saja menjawab bahwa lembar itu hanya pengantar, bahwa mereka tidak pernah mengizinkan penyebaran tanpa halaman penjelas, atau bahwa pihak lainlah yang menghapus catatan. Semua itu benar. Tidak satu pun menjawab pertanyaan lelaki tersebut.
+Tavian menatap tiga salinan itu. Selama ini ia membayangkan pekerjaan mereka selesai ketika pengukuran, catatan, dan kesimpulan disusun dengan benar. Ia baru semakin memahami bahwa pekerjaan tidak berhenti ketika dokumen meninggalkan tangan mereka.
 
-“Karena kami mengira keterangan di halaman berikutnya akan ikut dibaca,” katanya. “Itu kesalahan kami.”
-
-Seraphine memandangnya. Ia tidak menyela.
-
-Lelaki itu mengangkat lembar yang ia pegang. “Jadi kalian mengakui ringkasan itu menyesatkan?”
-
-“Kami mengakui format awal kami membuatnya terlalu mudah disalahgunakan,” jawab Tavian. “Kami belum tahu siapa yang menyebarkan versi ini. Tapi kami tahu bagian yang hilang seharusnya tidak pernah terpisah dari kutipannya.”
-
-Ilyra menatapnya sebentar. Ia tahu Tavian tidak suka mengakui kesalahan sebelum seluruh urutan kejadian diperiksa. Kali ini ia tidak menunggu pemeriksaan selesai untuk mengakui bagian yang memang menjadi tanggung jawab mereka.
-
-“Salinan lengkapnya harus punya penjelasan yang bisa dibaca tanpa harus mempercayai kita,” kata Tavian. “Bukan cuma catatan kaki. Batasnya harus terlihat pada halaman yang sama dengan klaimnya.”
+“Salinan lengkapnya harus punya penjelasan yang bisa dibaca tanpa harus mempercayai kita,” katanya.
 
 “Dan harus jelas bagian mana yang belum kita ketahui,” tambah Ilyra.
 
-Seraphine mengangguk. “Kita juga harus menerbitkan koreksi yang menyebutkan kesalahan kita sendiri. Bukan hanya menyalahkan orang yang memotongnya.”
+Seraphine mengangguk. “Kalau kita menerbitkan koreksi, kita juga harus menyebutkan kesalahan kita sendiri. Ringkasan awal terlalu mudah dipisahkan dari batas-batasnya.”
 
 Kael memandang Tavian. “Kau siap mencantumkan nama kita di bawah koreksi itu?”
 
-Tavian menatap lagi tanda kelompok di lembar tersebut.
+Tavian tidak segera menjawab.
 
-“Ya,” katanya. “Kalau nama kita cukup penting untuk dicetak di laporan, nama kita juga harus ada ketika laporan itu disalahgunakan.”
-
-Kali ini, ia tidak meminta Seraphine menulis kalimat yang lebih halus.
+“Ya,” katanya akhirnya. “Kalau nama kita cukup penting untuk dicetak di laporan, nama kita juga harus ada ketika laporan itu disalahgunakan.”
 
 ## Scene 2 — Pesan Lama
 
@@ -106,15 +94,9 @@ Tavian menatapnya. “Apa lagi yang kau tahu?”
 
 “Kenapa kau tidak mengatakan semuanya sejak awal?” tanya Mira.
 
-Kael memandangnya, lalu menunduk pada kertas. “Karena aku lebih suka menjadi orang yang memegang informasi daripada orang yang harus menjelaskan kenapa ia memilikinya.”
+“Karena aku lebih suka menjadi orang yang memegang informasi daripada orang yang harus menjelaskan kenapa ia memilikinya.”
 
-“Kalau informasi itu cuma milikmu, kau bisa melakukan apa pun dengannya,” kata Mira. “Kalau itu menyangkut keputusan kita, kau membuat orang lain menanggung risiko tanpa tahu apa yang sedang dipertaruhkan.”
-
-“Aku tahu.”
-
-“Belum tentu,” jawab Mira. “Kau baru mengatakannya.”
-
-Kejujuran itu tidak membuat ruangan lebih nyaman. Kael tidak berusaha mengubahnya menjadi lelucon.
+Kejujuran itu tidak membuat ruangan lebih nyaman.
 
 Tavian melipat kembali kertas tersebut dan mendorongnya ke arah Kael. “Kau tetap menyimpannya. Tapi mulai sekarang, kalau ada informasi yang bisa mengubah keputusan kelompok, kau beri tahu kami sebelum keputusan dibuat.”
 
@@ -124,13 +106,117 @@ Kael mengambil kertas itu. “Aku setuju.”
 
 “Aku tahu.”
 
-“Kalau nanti ada tawaran yang menguntungkanmu, kau tetap harus memberi tahu kami sebelum bertindak.”
-
-Kael mengangguk sekali. “Itu bagian yang paling sulit.”
-
-“Setidaknya kau tahu bagian mana yang sulit,” kata Daren.
-
 Tidak ada yang memaafkannya. Belum. Namun untuk pertama kalinya, Kael tidak mencoba mengubah rahasia menjadi harga.
+
+## Scene 3 — Permintaan yang Tidak Sederhana
+
+Permintaan itu datang dari sebuah permukiman di jalur rendah, di antara lereng batu dan dataran berair.
+
+Mereka tidak diminta mencari artefak. Mereka diminta menilai apakah jalur lama di bawah tanggul masih dapat digunakan untuk mengalirkan air jika saluran utama kembali tersumbat.
+
+Beberapa pekan sebelumnya, hujan panjang merusak bagian tanggul dan membuat aliran sungai berubah. Saluran buatan yang selama ini menahan air mulai dipenuhi lumpur. Jika hujan berikutnya datang sebelum saluran dibersihkan, air dapat masuk ke kawasan tempat tinggal dan gudang persediaan.
+
+Masalahnya, jalur lama tidak tercatat dengan baik. Peta resmi menunjukkan satu saluran yang berakhir di sisi timur. Peta masyarakat menunjukkan cabang lain, tetapi garisnya dibuat berdasarkan ingatan dan penanda yang sudah berubah.
+
+“Kenapa kalian meminta kelompok survei?” tanya Tavian kepada utusan yang membawa permintaan.
+
+“Karena orang yang memperbaiki saluran tahu cara membersihkan bagian yang terlihat,” jawab utusan itu. “Mereka tidak tahu apakah dinding di bawah jalan masih kuat. Kami butuh orang yang bisa mengukur, membaca peta, dan mengatakan kapan mereka tidak tahu.”
+
+“Siapa yang akan membayar?”
+
+“Dewan permukiman. Sebagian biaya akan ditanggung pemilik gudang yang berada di dataran rendah.”
+
+“Siapa yang mengendalikan hasilnya?”
+
+Utusan itu terdiam. “Kami berharap kalian.”
+
+Mira menggeleng pelan. “Itu bukan jawaban.”
+
+Utusan itu menatapnya, lalu mengoreksi diri. “Hasil pengukuran milik bersama. Keputusan tentang jalur dan tanah tetap harus dibicarakan dengan orang yang tinggal di sana.”
+
+Seraphine membuka buku catatan. “Kami bisa menerima jika akses ke lokasi dan penggunaan hasil dicatat sejak awal. Kami tidak akan menjamin jalurnya aman sebelum diperiksa.”
+
+Daren bertanya tentang pekerja, alat, cuaca, dan rencana evakuasi. Ilyra meminta salinan semua peta, termasuk yang dianggap tidak resmi.
+
+Tavian mendengarkan semuanya sebelum menjawab.
+
+“Kami akan datang,” katanya. “Tapi kami tidak akan memberi satu tanda aman hanya karena kalian membutuhkan jawaban cepat.”
+
+Utusan itu tampak kecewa, tetapi mengangguk.
+
+“Kalau begitu,” katanya, “setidaknya kami akan tahu bagian mana yang belum boleh kami percayai.”
+
+## Scene 4 — Keputusan Berangkat
+
+Mereka menyusun syarat sebelum berangkat.
+
+Tidak ada pengukuran yang akan disembunyikan dari masyarakat yang terdampak. Tidak ada peta rute lokal yang akan disalin untuk kepentingan komersial tanpa persetujuan pihak yang memberikannya. Jika kondisi lapangan berubah, Tavian berhak menghentikan survei. Jika Daren menyatakan jalur tidak layak dimasuki, tidak seorang pun boleh mengubah keputusan itu hanya karena biaya perjalanan sudah dibayar.
+
+Seraphine menambahkan satu syarat: laporan akan memisahkan pengamatan, kesaksian, dugaan, dan rekomendasi.
+
+“Orang akan menganggap laporan yang penuh batas sebagai laporan yang tidak berguna,” kata Kael.
+
+“Lebih baik dianggap tidak berguna daripada dipakai untuk menyesatkan,” jawab Seraphine.
+
+Mira mengajukan syarat terakhir. Orang-orang setempat harus ikut menentukan bagian mana dari pengetahuan rute mereka yang boleh disalin. Mereka tidak akan diperlakukan sebagai pemberi informasi tanpa hak untuk menolak.
+
+Tavian menuliskan semua syarat itu.
+
+Ia tahu keputusan tersebut dapat membuat pekerjaan lebih lambat. Mereka mungkin kehilangan sebagian bayaran jika pemilik gudang tidak setuju. Mereka mungkin juga kehilangan akses jika dewan menganggap persyaratan itu terlalu rumit.
+
+Namun ia tidak menghapus satu pun.
+
+“Kalau kita berangkat dengan syarat yang tidak bisa kita pertahankan,” katanya, “berarti kita hanya menunda pertengkaran sampai di lokasi.”
+
+Daren memeriksa perlengkapan. “Kita berangkat besok pagi. Sebelum itu aku mau lihat daftar alat dan jumlah orang yang akan ikut.”
+
+“Dan aku mau salinan peta lokal,” kata Ilyra.
+
+“Dengan izin pemiliknya,” Mira mengingatkan.
+
+Ilyra mengangguk. “Dengan izin pemiliknya.”
+
+Kael menggulung peta perjalanan. “Kalian membuat pekerjaan sederhana menjadi rumit.”
+
+“Pekerjaan ini memang tidak sederhana,” kata Tavian.
+
+Mereka berangkat keesokan paginya, membawa lebih banyak pertanyaan daripada jawaban.
+
+---
+
+# BAGIAN II — PETA YANG TIDAK MENJAMIN KESELAMATAN
+
+## Scene 5 — Rute dan Pemilik Pengetahuan
+
+Jalur menuju permukiman itu melewati tanah yang tampak keras dari kejauhan, tetapi berubah menjadi lumpur setelah beberapa langkah. Peta resmi menunjukkan jalan lurus di antara dua bukit kecil. Mira memilih jalur memutar yang lebih panjang.
+
+“Jalur ini tidak ada di peta,” kata Tavian.
+
+“Karena jalur itu bukan jalan untuk kereta,” jawab Mira. “Orang yang tinggal di sini menggunakannya ketika tanah rendah tergenang.”
+
+“Kalau begitu kita perlu mencatatnya.”
+
+“Kita perlu bertanya dulu.”
+
+Mira menemui dua orang yang sedang memperbaiki pagar. Ia menjelaskan pekerjaan mereka dan menunjukkan bagian peta yang ingin dicatat. Salah seorang bersedia menjelaskan arah jalur, tetapi tidak ingin letak sumur kecil di dekatnya dimasukkan ke peta umum.
+
+“Sumur itu dipakai beberapa keluarga,” kata orang tersebut. “Kalau semua orang tahu lokasinya, persediaan air kami akan habis ketika jalur ramai.”
+
+Tavian menunggu jawaban Mira.
+
+“Kami bisa mencatat bahwa jalur memutar tersedia tanpa menandai sumur,” kata Mira. “Catatan rinci tetap berada pada orang yang mengelolanya.”
+
+Ilyra mencatat batas itu di lembar terpisah. “Berarti peta kita akan punya dua versi?”
+
+“Bukan dua versi yang saling bertentangan,” kata Mira. “Satu untuk kebutuhan perjalanan bersama. Satu lagi untuk pemilik pengetahuan yang memang membutuhkan detailnya.”
+
+Tavian memandang garis yang belum selesai. Ia terbiasa menganggap peta yang baik sebagai peta yang memuat sebanyak mungkin informasi. Sekarang ia melihat bahwa kelengkapan juga dapat menjadi risiko.
+
+“Catat alasan pembatasannya,” katanya. “Bukan koordinatnya.”
+
+Mira mengangguk.
+
+Mereka melanjutkan perjalanan. Peta mereka tidak menjadi lebih lengkap dalam arti biasa. Namun untuk pertama kalinya, Tavian merasa garis yang sengaja tidak digambar dapat sama pentingnya dengan garis yang ditambahkan.
 
 ## Scene 6 — Ukuran yang Belum Cukup
 
@@ -138,23 +224,21 @@ Dari punggung tanah, mereka dapat melihat tanggul dan saluran utama.
 
 Air bergerak lebih lambat daripada yang diperkirakan utusan. Beberapa bagian saluran tertutup endapan. Di sisi utara, jalan lama melintas di atas struktur batu yang sebagian permukaannya retak.
 
-Seorang perempuan bernama Lysa menunggu di dekat penanda kayu. Ia adalah orang yang mengatur giliran kerja warga dan menjadi penghubung antara kelompok survei dengan dewan permukiman. Sejak pagi ia sudah dua kali mengirim orang untuk memeriksa tinggi air.
+Seorang perempuan bernama Lysa menunggu di dekat penanda kayu. Ia mengatur giliran kerja warga dan menjadi penghubung antara kelompok survei dengan dewan permukiman. Sejak pagi ia sudah dua kali mengirim orang untuk memeriksa tinggi air.
 
 “Gudang paling bawah sudah kemasukan air,” katanya. “Belum banyak, tapi persediaan di lantainya harus dipindahkan. Orang-orang mulai bertanya apakah jalur lama bisa dibuka.”
 
-Tavian memasang alat ukur dan membandingkan kemiringan tanah dengan peta yang tersedia. Hasilnya tidak cocok. Perbedaan itu cukup besar untuk mengubah perkiraan arah aliran, tetapi belum cukup untuk memastikan jalur air yang sebenarnya.
-
-Ia mengulang pengukuran dari titik lain. Angkanya berubah sedikit, tetapi tidak cukup untuk menjelaskan perbedaan pada peta.
+Tavian memasang alat ukur dan membandingkan kemiringan tanah dengan peta yang tersedia. Hasilnya tidak cocok. Ia mengulang pengukuran dari titik lain. Angkanya berubah sedikit, tetapi tidak cukup untuk menjelaskan perbedaan pada peta.
 
 “Berapa lama sampai kita bisa memberi rekomendasi?” tanya Lysa.
 
 “Belum tahu.”
 
-Lysa memandang air, bukan kepadanya. “Aku tidak meminta kepastian. Aku meminta sesuatu yang bisa kupakai untuk menentukan siapa yang harus memindahkan barang lebih dulu.”
+Lysa memandang air. “Aku tidak meminta kepastian. Aku meminta sesuatu yang bisa kupakai untuk menentukan siapa yang harus memindahkan barang lebih dulu.”
 
 Tavian menurunkan alatnya. Pertanyaan itu lebih sulit daripada permintaan untuk memberi tanda aman.
 
-“Kami bisa menentukan area yang harus dianggap berisiko sekarang,” katanya. “Tapi kami belum bisa menyatakan jalur bawah jalan aman untuk dibuka.”
+“Kami bisa menentukan area yang harus dianggap berisiko sekarang. Tapi kami belum bisa menyatakan jalur bawah jalan aman untuk dibuka.”
 
 “Kalau begitu, katakan itu pada dewan. Jangan hanya tulis di lembar yang nanti dibaca setelah air naik.”
 
@@ -174,11 +258,7 @@ Tavian memandang Seraphine, kemudian Daren.
 
 “Bukan,” kata Tavian. “Tapi itu jawaban yang bisa dipertanggungjawabkan sekarang.”
 
-Ia meminta tim membagi pengukuran. Tidak seorang pun akan masuk ke struktur bawah tanah sebelum Daren memeriksa akses dan Seraphine menilai cara dokumentasinya.
-
-Tavian menandatangani rekomendasi sementara dengan kata-kata yang jelas: *belum dapat dinyatakan aman*.
-
-Ia menyerahkan satu salinan kepada Lysa, bukan menunggu laporan lengkap.
+Ia menandatangani rekomendasi sementara dengan kata-kata yang jelas: *belum dapat dinyatakan aman*. Ia menyerahkan satu salinan kepada Lysa, bukan menunggu laporan lengkap.
 
 Lysa membacanya. “Kalau aku tunjukkan ini ke dewan, mereka akan bilang kalian belum memberi jawaban.”
 
@@ -190,7 +270,7 @@ Tavian menatapnya. “Tunjukkan tanda tangan ini. Aku tidak akan mengubahnya han
 
 Lysa melipat kertas itu. “Baik. Setidaknya sekarang aku punya sesuatu yang bisa kutunjukkan.”
 
-Tavian tidak menyukai tanda tangan itu. Bukan karena ia meragukan keputusan, melainkan karena ia tahu orang lain akan menganggapnya sebagai kegagalan. Namun kali ini ia melihat bahwa penundaan jawaban juga memiliki biaya yang harus ditanggung orang lain.
+Tavian tidak menyukai tanda tangan itu. Namun kali ini ia melihat bahwa menunda jawaban juga memiliki biaya yang harus ditanggung orang lain.
 
 ## Scene 7 — Prosedur yang Harus Berubah
 
@@ -220,7 +300,7 @@ Ia mengukur jarak sekali lagi. “Kalau kita pindahkan penyangga ke sana, kita d
 
 Daren melihat posisi itu. “Dan orang yang memindahkannya berdiri tepat di tempat yang baru ambles.”
 
-Seraphine menatap alatnya. Ia sudah membayangkan urutan dokumentasi, nomor gambar, dan cara membandingkan retakan. Mengubah rencana berarti kehilangan satu sudut yang mungkin penting.
+Seraphine menatap alatnya. Ia sudah membayangkan urutan dokumentasi dan cara membandingkan retakan. Mengubah rencana berarti kehilangan satu sudut yang mungkin penting.
 
 “Kalau kita tidak punya gambar bagian bawah, laporan kita akan punya celah,” katanya.
 
@@ -230,13 +310,13 @@ Seraphine diam. Lalu ia melepaskan tali pengikat alat dari bahunya.
 
 “Dokumentasi dari luar,” katanya. “Aku akan menandai bagian yang tidak terlihat sebagai area tanpa observasi langsung.”
 
-Ia tidak mencoba menyamarkan kekurangan itu. Di lembar catatan, ia menulis bahwa sudut pengambilan yang direncanakan dibatalkan karena kondisi tanah berubah. Ia juga mencatat bahwa keputusan awalnya hampir menempatkan pekerja pada posisi yang tidak aman.
+Ia tidak mencoba menyamarkan kekurangan itu. Di lembar catatan, ia menulis bahwa sudut pengambilan yang direncanakan dibatalkan karena kondisi tanah berubah. Ia juga mencatat bahwa ia sendiri sempat mengusulkan posisi yang tidak aman.
 
 Daren memeriksa jalur mundur dan membagi orang menjadi kelompok kecil. “Kita bisa memeriksa bagian timur,” katanya. “Tapi hanya sampai penanda batu. Setelah itu tanahnya tidak stabil.”
 
 Bram menunjuk satu garis kecil di permukaan. “Kalau kalian berdiri di sisi sini, kalian bisa melihat air yang merembes dari sambungan. Tidak perlu turun.”
 
-Daren memeriksa garis tersebut. Ia tidak langsung menyetujuinya. Ia meminta Bram menjelaskan dari mana ia mengetahui titik itu, lalu membandingkan penjelasannya dengan keadaan permukaan.
+Daren memeriksa garis tersebut. Ia meminta Bram menjelaskan dari mana ia mengetahui titik itu, lalu membandingkan penjelasannya dengan keadaan permukaan.
 
 “Baik,” katanya akhirnya. “Kau tunjukkan dari sini. Tidak ada yang melewati penanda.”
 
@@ -248,13 +328,107 @@ Tavian hendak menengahi, tetapi Daren mengangkat tangan.
 
 “Aku tidak bilang pekerjaan ini harus berhenti. Aku bilang rencana awal sudah tidak berlaku.”
 
-Seraphine menutup buku catatan. “Kalau begitu prosedur kita juga harus berubah.”
-
 Mereka menyusun cara baru: pengukuran dari permukaan, pemeriksaan penyangga dari jarak aman, dan penundaan akses ke bagian dalam sampai struktur dapat dinilai oleh pekerja yang memiliki alat penopang sesuai.
 
 Saat pekerjaan dihentikan, Seraphine masih memandangi sudut yang tidak berhasil ia dokumentasikan. Ia tahu laporan itu akan terlihat kurang lengkap. Ia juga tahu untuk pertama kalinya ia telah menulis bukan hanya keterbatasan sumber, tetapi keterbatasan penilaiannya sendiri.
 
 Tidak ada yang mendapatkan semua informasi hari itu. Namun tidak ada seorang pun yang dipaksa menukar keselamatannya dengan kelengkapan catatan.
+
+## Scene 8 — Sumber yang Tidak Setara
+
+Ilyra menyusun tiga peta di atas meja panjang.
+
+Peta pertama dibuat oleh petugas wilayah beberapa dekade sebelumnya. Peta kedua berasal dari catatan keluarga yang tinggal di sekitar tanggul. Peta ketiga merupakan salinan kasar dari seorang pekerja saluran.
+
+Ketiganya menunjukkan jalur yang berbeda.
+
+“Kalau kita menganggap peta pertama paling benar karena paling rapi, kita akan melewatkan cabang ini,” katanya sambil menunjuk peta kedua. “Kalau kita menganggap peta kedua paling benar karena paling tua, kita tidak tahu apakah jalurnya masih ada. Peta ketiga paling baru, tapi pembuatnya hanya melihat satu bagian.”
+
+Kael melihat garis yang bertemu di bawah jalan. “Tiga peta, satu tempat yang sama.”
+
+“Belum tentu tempat yang sama,” kata Ilyra. “Mereka memakai penanda yang berbeda. Kata ‘bawah jalan’ bisa berarti sisi bawah lereng, terowongan, atau saluran yang melintas di bawah permukaan.”
+
+Kael terdiam sesaat.
+
+Mira menyadarinya. “Pesanmu?”
+
+“Tidak. Atau mungkin. Aku tidak punya dasar untuk menyatukannya.”
+
+Ilyra menulis tiga kolom: *terlihat langsung*, *diceritakan*, dan *ditafsirkan*. Ia menempatkan setiap garis pada kolom yang sesuai.
+
+Tavian memperhatikan caranya bekerja. “Apa kesimpulanmu?”
+
+“Bahwa ketiga sumber tidak bisa dipakai sebagai pengganti satu sama lain. Kita bisa memakai semuanya untuk menentukan tempat yang perlu diperiksa. Kita tidak bisa menyatakan bahwa ketiganya menggambarkan satu jalur yang utuh.”
+
+“Dan bagian yang paling penting?”
+
+“Belum diketahui.”
+
+Kael tersenyum tipis. “Kau semakin sering mengatakan itu.”
+
+“Karena aku semakin sering melihat akibat ketika orang tidak mau mengatakannya.”
+
+Ilyra tidak tampak bangga. Ia hanya melanjutkan pekerjaan.
+
+---
+
+# BAGIAN III — SEJARAH TIDAK MENJADI SATU CERITA
+
+## Scene 9 — Catatan Great War
+
+Malam itu, setelah pengukuran lapangan selesai, Seraphine membuka kembali salinan catatan Great War yang mereka bawa sebagai bahan pembanding metode.
+
+Tidak ada alasan langsung untuk menghubungkan tanggul dengan perang. Namun kelompok telah membawa arsip karena permintaan awal juga mencakup pemeriksaan dokumen lama yang ditemukan di ruang penyimpanan permukiman.
+
+Dokumen itu tidak menceritakan pertempuran. Isinya daftar pengiriman bahan dan catatan perubahan jalur. Beberapa lembar memakai istilah yang pernah muncul dalam sumber sejarah lain, tetapi konteksnya berbeda.
+
+“Ini tidak membuktikan bahwa tempat ini terlibat dalam Great War,” kata Seraphine. “Kita hanya bisa mengatakan bahwa dokumen ini menggunakan istilah yang juga ditemukan pada arsip periode perang.”
+
+“Apakah itu berarti salinannya berasal dari masa yang sama?” tanya Tavian.
+
+“Belum. Istilah dapat dipakai lebih lama daripada peristiwa yang pertama kali membuatnya dikenal.”
+
+Ilyra membandingkan bentuk tulisan dan susunan tanggal. “Ada beberapa ciri yang cocok dengan periode yang diduga. Tapi lembar ini bisa saja disalin kemudian.”
+
+Daren memandang tumpukan kertas. “Kita datang untuk memeriksa saluran air. Sekarang kita punya sejarah yang tidak bisa kita pastikan.”
+
+“Dua pekerjaan berbeda,” kata Mira. “Keduanya tetap harus ditangani dengan benar.”
+
+Kael menutup kotak arsip. “Kalau dokumen ini punya nilai, seseorang akan ingin membawanya.”
+
+“Tidak ada yang membawanya,” kata Seraphine. “Kita mencatat kondisi, meminta izin untuk membuat salinan, dan menyerahkan keputusan penyimpanan kepada pemiliknya.”
+
+Tavian menyadari bahwa ia tidak lagi memandang arsip sebagai jalan menuju jawaban yang lebih besar. Arsip itu juga benda milik seseorang, dengan sejarah penggunaan dan risiko sendiri.
+
+Mereka tidak menemukan penjelasan baru tentang Great War. Mereka menemukan alasan lain untuk berhati-hati saat menyebut sesuatu sebagai bukti.
+
+## Scene 10 — Nama dan Bunyi
+
+Di ruang penyimpanan, seorang penjaga menyebut nama NVR AGAIN ketika melihat tanda pada salah satu lembar katalog.
+
+“Jadi ini berkaitan dengan musik itu?” tanyanya.
+
+Seraphine mengoreksi dengan hati-hati. “Kita tahu nama NVR AGAIN terungkap melalui Prasasti I. Kita juga tahu musik terdengar selama Great War. Itu tidak memberi kita asal, pencipta, atau mekanisme penyebarannya.”
+
+“Kalau begitu, apa gunanya nama itu?”
+
+“Nama membantu kita merujuk pada sesuatu,” kata Ilyra. “Bukan otomatis menjelaskan sesuatu.”
+
+Penjaga itu tampak tidak puas. “Orang-orang ingin tahu siapa yang memainkan musik itu.”
+
+“Kita juga,” jawab Tavian. “Tapi keinginan bukan bukti.”
+
+Kael memandang katalog yang terbuka. “Ada orang yang akan menjual jawaban meskipun mereka hanya punya nama.”
+
+“Dan ada orang yang akan membeli karena mereka ingin percaya,” kata Mira.
+
+Tavian teringat salinan ringkasan yang beredar. Satu potongan informasi dapat berubah menjadi klaim ketika orang mengulanginya tanpa konteks. Nama yang diketahui dapat membuat orang merasa telah memahami sumbernya.
+
+“Masukkan ke laporan,” katanya. “Nama NVR AGAIN dikenali. Hubungannya dengan musik Great War dicatat sesuai sumber. Hal lain tetap terbuka.”
+
+Seraphine menulis kalimat itu.
+
+Tidak ada musik yang terdengar. Tidak ada petunjuk baru yang muncul. Nama tersebut tetap berada di antara mereka sebagai sesuatu yang diketahui, tetapi belum dapat dijelaskan.
 
 ## Scene 11 — Tiga Belas, Bukan Satu Jawaban
 
@@ -280,7 +454,7 @@ Ilyra menarik satu lembar catatan yang sebelumnya ia sisihkan. Di sana ia telah 
 
 Tavian melihat garis itu. “Apa maksud tanda ini?”
 
-Ilyra mengikuti arah jarinya. “Aku membuatnya ketika menyusun indeks awal. Aku mengira tiga bagian itu mungkin memakai gambaran yang sama.”
+“Aku membuatnya ketika menyusun indeks awal. Aku mengira tiga bagian itu mungkin memakai gambaran yang sama.”
 
 “Sekarang?”
 
@@ -309,6 +483,44 @@ Seraphine mengangguk. “Dan ketika cerita itu diterbitkan, orang lain mungkin m
 Ilyra menutup indeks. Ia tidak tampak lega. Mengoreksi diri sendiri tidak terasa seperti menemukan jawaban; rasanya lebih seperti kehilangan sesuatu yang sempat ia inginkan.
 
 “Dulu aku ingin menemukan satu pola yang menjelaskan semuanya,” katanya. “Sekarang aku ingin tahu kapan pola berhenti menjadi alat dan mulai menjadi perangkap.”
+
+## Scene 12 — Pengamatan yang Tidak Sepenuhnya Cocok
+
+Perubahan pertama terjadi pada pengukuran suara.
+
+Seorang pekerja melaporkan bunyi berulang dari bagian bawah jalan, tetapi ketika Daren dan Tavian mendekat, mereka tidak mendengar apa pun. Seraphine menempatkan alat pencatat pada jarak aman. Catatan pertama menunjukkan getaran singkat. Catatan kedua tidak menunjukkan pola yang sama.
+
+Dua orang lain mengatakan mereka mendengar bunyi seperti langkah. Orang ketiga bersikeras bahwa bunyinya berasal dari air.
+
+“Apakah ada sesuatu di bawah sana?” tanya pengawas.
+
+“Kami belum tahu,” jawab Tavian.
+
+“Bisa jadi struktur itu bergerak.”
+
+“Bisa jadi,” kata Daren. “Tapi kita tidak akan mengirim orang masuk hanya berdasarkan dugaan.”
+
+Mira berbicara dengan para pekerja secara terpisah. Cerita mereka tidak sepenuhnya cocok. Sebagian mendengar bunyi pada waktu yang sama, sebagian mengingatnya pada malam berbeda. Tidak ada kesepakatan tentang arah asal suara.
+
+Seraphine menulis setiap kesaksian tanpa menyatukannya. Ia menambahkan catatan bahwa pengukuran alat tidak mengonfirmasi seluruh laporan.
+
+Ilyra memeriksa catatan waktu. “Ada kemiripan, tapi tidak cukup untuk menyebutnya satu kejadian.”
+
+Tavian menatap jalan. Ia merasakan dorongan untuk memberi nama pada apa yang mereka hadapi. Nama akan membuat laporan terasa lebih selesai. Nama juga akan membuat orang merasa ada sesuatu yang dapat mereka tunjuk.
+
+“Kita tulis apa yang diamati,” katanya. “Bunyi dilaporkan. Getaran tercatat sekali. Sumbernya belum diketahui.”
+
+“Dan Abstract Existence?” tanya Kael pelan.
+
+Tavian menoleh. “Kita tidak punya bukti untuk menyebutnya penyebab.”
+
+Tidak ada yang membantah.
+
+Mereka menutup pemeriksaan untuk hari itu. Bunyi tersebut tidak muncul lagi. Jalan tetap retak. Air tetap tertahan. Masalah yang harus mereka selesaikan tidak berubah menjadi lebih mudah hanya karena mereka menemukan sesuatu yang tidak dapat dijelaskan.
+
+---
+
+# BAGIAN IV — PILIHAN YANG TIDAK BISA DIWAKILKAN
 
 ## Scene 13 — Apa yang Harus Diselamatkan
 
@@ -342,7 +554,7 @@ Pengawas memandang air yang semakin tinggi. “Kalian meminta persetujuan ketika
 
 Tavian melihat pilihan yang tersedia: menyelamatkan akses ke saluran lama dan mengambil risiko pada struktur yang belum diperiksa, atau menghentikan pemeriksaan dan mengalihkan tenaga untuk membuat aliran sementara. Tidak ada pilihan yang menghilangkan semua risiko.
 
-“Kalau kita membuka jalur lama sekarang, kita tidak tahu apakah jalan di atasnya akan bertahan,” katanya. “Kalau kita memilih jalur timur, kita akan kehilangan waktu dan harus meminta izin pemilik tanah. Aku memilih jalur timur.”
+“Kalau kita membuka jalur lama sekarang, kita tidak tahu apakah jalan di atasnya akan bertahan. Kalau kita memilih jalur timur, kita akan kehilangan waktu dan harus meminta izin pemilik tanah. Aku memilih jalur timur.”
 
 “Kalau pilihan itu gagal?” tanya pengawas.
 
@@ -436,6 +648,38 @@ Ia kehilangan kesempatan untuk bertemu seseorang yang mungkin mengetahui lebih b
 
 Kali ini, ia memilih untuk tidak membayar ketidakpastian dengan kepercayaan orang lain.
 
+## Scene 15 — Jalur yang Dibagikan
+
+Mira duduk bersama para pemilik tanah di sisi timur.
+
+Mereka tidak menolak membantu. Mereka menolak gagasan bahwa persetujuan hari ini berarti persetujuan untuk semua penggunaan di masa depan.
+
+Mira memahami perbedaan itu. Ia meminta Tavian menggambar jalur sementara tanpa memasukkan sumur, batas kebun, dan jalan kecil yang tidak diperlukan untuk pekerjaan darurat.
+
+“Kalau jalur ini berhasil, orang akan ingin memakainya lagi,” kata salah seorang pemilik tanah.
+
+“Bisa jadi,” jawab Mira. “Karena itu kita tulis bahwa izin ini hanya untuk pengalihan air sementara.”
+
+“Siapa yang memastikan?”
+
+“Kita buat catatan bersama. Kalian menyimpan salinan. Kelompok kami juga menyimpan salinan.”
+
+Tavian menunjukkan rancangan peta. Ia tidak menandai lokasi yang diminta untuk dirahasiakan. Sebagai gantinya, ia menulis bahwa ada sumber air dan akses lokal yang tidak dicantumkan atas permintaan pemilik.
+
+Ilyra menambahkan tanggal dan nama orang yang menyetujui salinan. Seraphine mencatat bahwa peta itu tidak dimaksudkan sebagai peta umum.
+
+“Ini membuat peta kita tidak lengkap,” kata Tavian.
+
+“Tidak lengkap untuk orang yang tidak punya hak atas semua detailnya,” jawab Mira. “Tapi cukup untuk pekerjaan yang disepakati.”
+
+Mereka mencapai persetujuan. Jalur sementara dibuka dengan batas waktu dan tanggung jawab pemulihan tanah. Warga membantu mengarahkan aliran, sementara kelompok mengukur perubahan permukaan.
+
+Mira menandatangani dokumen itu bersama para pemilik tanah.
+
+Ia tidak merasa telah memenangkan sesuatu. Mereka masih harus bekerja, dan kepercayaan tidak lahir dari satu tanda tangan. Namun ia tidak lagi melihat keterbukaan sebagai ancaman yang selalu harus ditolak.
+
+Pengetahuan dapat dibagikan tanpa diserahkan seluruhnya.
+
 ## Scene 16 — Risiko yang Dipilih
 
 Aliran sementara mulai bekerja, tetapi satu bagian tanah menahan air lebih banyak daripada perkiraan.
@@ -525,6 +769,44 @@ Tavian tidak mencoba menghiburnya. “Itu sebabnya kita bekerja sebagai kelompok
 Daren menatap pintu, tempat suara para pekerja masih terdengar. “Besok Bram yang memimpin bagian itu.”
 
 Itu bukan pengakuan yang mudah baginya. Namun kali ini ia tidak menganggap menyerahkan kendali sebagai kegagalan.
+
+## Scene 17 — Satu Pola, Banyak Wajah
+
+Setelah aliran terkendali, kelompok kembali ke ruang penyimpanan.
+
+Mereka menyusun laporan akhir pekerjaan lapangan. Di satu sisi meja terdapat peta jalur sementara. Di sisi lain terdapat catatan sejarah dan indeks 13 Prasasti. Dua tumpukan itu tidak memiliki hubungan sebab-akibat, tetapi keduanya memperlihatkan masalah yang sama: orang dapat membuat kesimpulan lebih besar daripada bukti yang mereka miliki.
+
+Ilyra membuka halaman perbandingan Prasasti.
+
+“Empat kemunculan kata ‘demons’,” katanya. “Empat konteks. Prasasti I tidak memastikan apakah itu makhluk, kelompok, julukan, atau seruan. Prasasti VIII menyebut perlawanan terhadap para iblis, tetapi tidak memastikan bentuknya. Prasasti XI lebih dekat pada tafsir penderitaan, namun tetap bukan kepastian. Prasasti XIII menghubungkannya dengan keterjebakan dan pelarian.”
+
+Seraphine membuka catatan Prasasti III. “Dan judul *Dancing with Your Eyes Closed*. Ada tafsir tentang hal-hal yang tidak terlihat, perasaan yang bertentangan, janji, dan rasa bersalah. Tapi tidak ada bukti bahwa judul itu menggambarkan makhluk yang benar-benar menari.”
+
+Kael melihat halaman-halaman tersebut. “Kata yang sama. Gambar yang berbeda.”
+
+“Bahkan mungkin bukan gambar,” kata Ilyra. “Kita tidak tahu apakah pembicara menggunakannya secara literal atau kiasan.”
+
+Tavian memandang indeks. “Kalau semua ini dibaca bersama, orang akan melihat pola.”
+
+“Ya,” jawab Ilyra. “Pola bahwa manusia berkali-kali menggunakan kata yang sama untuk sesuatu yang mereka hadapi atau rasakan. Bukan bukti bahwa mereka menghadapi satu hal yang sama.”
+
+“Dan kalau pola itu memang berulang?” tanya Daren.
+
+“Kita bisa menyebutnya pola penggunaan kata. Kita tidak boleh melompat menjadi satu identitas.”
+
+Seraphine menutup catatannya. “Kesalahan kita bukan melihat kemiripan. Kesalahannya terjadi ketika kita lupa bahwa kemiripan masih membutuhkan penjelasan.”
+
+Tavian terdiam lama.
+
+Ia teringat peta-peta yang tidak cocok, bunyi yang tidak dapat mereka pastikan, dan ringkasan yang menghapus batas sumber. Selama ini ia mencari cara untuk menghubungkan semua garis. Ia mulai mengerti bahwa beberapa garis hanya tampak bertemu karena ia melihatnya dari tempat yang sama.
+
+“Jadi kita tidak sedang mencari satu iblis?” tanya Kael.
+
+“Kita sedang mencari tahu apa yang sebenarnya dikatakan setiap sumber,” jawab Ilyra. “Dan apa yang tidak dikatakannya.”
+
+Tavian memandang halaman Prasasti III, lalu halaman-halaman yang memuat kata “demons”.
+
+“Kalau begitu, kita harus berhenti memperlakukan nama sebagai jawaban.”
 
 ## Scene 18 — The Dancing Demon
 
@@ -703,7 +985,6 @@ Tavian membuka peta, memeriksa arah, lalu menutupnya kembali.
 Untuk pertama kalinya, ia tidak menganggap ruang kosong sebagai kegagalan.
 
 Mereka berjalan menuju jalan yang belum dipetakan.
-
 
 ---
 
