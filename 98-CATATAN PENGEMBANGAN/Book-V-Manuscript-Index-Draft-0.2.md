@@ -325,3 +325,6 @@
 - Tes belum menguji anatomi, mekanika sendi, perspektif, atau detail kostum. Semua placeholder dan hasil tetap NON-CANON.
 - Tidak ada perubahan Character Bible atau fakta CANON.
 - [Tavian Hand & Prop Interaction Study — Draft 0.1](Tavian-Hand-Prop-Interaction-Study-Draft-0.1.md) — NON-CANON schematic study of Tavian's interactions with maps, documents, and writing tools.
+## Eksplorasi visual karakter Tavian (NON-CANON)
+
+- [Tavian Hand Anatomy & Grip Refinement — Draft 0.1](Tavian-Hand-Grip-Refinement-Draft-0.1.md) — studi kontak tangan dengan map, dokumen, dan alat tulis; tidak menetapkan anatomi atau penampilan karakter.
