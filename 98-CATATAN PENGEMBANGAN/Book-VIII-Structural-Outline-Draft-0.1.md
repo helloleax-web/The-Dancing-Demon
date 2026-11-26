@@ -5,7 +5,7 @@
 **Basis CANON:** Series Spine & Narrative Framework, Series Conflict Architecture, Series Mystery & Revelation Architecture, Tavian Character Arc, Ensemble Character Arcs, Thirteen Prasasti, Open Questions.  
 **Continuity dependency:** Buku VII — Ketiga Belas, pass pertama 0.1. Seluruh detail Buku VII yang belum disahkan tetap NON-CANON. Outline ini harus disesuaikan jika manuskrip Buku VII direvisi.
 
-**Peringatan kreatif:** outline ini sengaja tidak menetapkan arti *The Dancing Demon*, identitas yang dirujuk judul, bentuk/asal Abstract Existence, atau jawaban objektif baru bagi 13 Prasasti. Adegan pengungkapan judul adalah slot yang menunggu keputusan kreator.
+**Arah makna judul untuk draft:** *The Dancing Demon* dibaca sebagai metafora pola interpretasi yang terus berubah ketika manusia memberi wajah pada rasa takut, penderitaan, dan hal yang belum dipahami. Ini bukan nama satu monster atau identitas Abstract Existence. Rujukan dan batasnya dijelaskan dalam dokumen Title Meaning Proposal; status tetap NON-CANON sampai disahkan pengguna.
 
 ---
 
