@@ -1,4 +1,4 @@
-# The Dancing Demon — Eight-Book Cross-Continuity Audit — Draft 0.3
+# The Dancing Demon — Eight-Book Cross-Continuity Audit — Draft 0.4
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Tanggal pemeriksaan:** 2026-11-26.  
@@ -126,8 +126,8 @@ Urutan pengenalan konsisten dengan Character Bible dan materi pengembangan yang 
 | I | Pass pertama, 19 scene | Audit 0.2; belum final. |
 | II | Pass pertama, 20 scene | Audit 0.2; belum final. |
 | III | Pass pertama, 20 scene | Audit 0.2; belum final. |
-| IV | Pass pertama, 20 scene | Audit 0.2; medium fisik Prasasti tetap OPEN QUESTION. |
-| V | Pass pertama, 22 scene | Audit 0.2; scope LEAX belum diputuskan. |
+| IV | Revision pass 0.2 pada empat bab, 20 scene | Audit 0.4; model medium Northglass tetap NON-CANON; storyboard Bab 1–2 disinkronkan, Bab 3–4 perlu pemeriksaan lanjutan. |
+| V | Revision pass 0.2 pada lima bab, 22 scene | Audit 0.4; scope LEAX dibatasi pada dua fakta CANON minimum; manuskrip belum final. |
 | VI | Pass pertama, 22 scene | Audit 0.1; belum final. |
 | VII | Pass pertama, 22 scene | Audit 0.1; belum final. |
 | VIII | Revision Draft 0.2, 20 scene | Lebih matang dari first-pass; tetap NON-CANON dan belum final. |
@@ -138,8 +138,9 @@ Manuskrip Buku I–VIII adalah materi pengembangan. Statusnya tidak berubah menj
 
 ### Tahap A — Keputusan pengembangan yang telah diterapkan
 1. Pembedaan objek Northglass dan naskah interpretasi diterapkan sebagai model NON-CANON; hubungan sumber yang lebih spesifik tetap UNKNOWN.
-2. Buku V menggunakan fakta minimum LEAX yang sudah CANON tanpa menjelaskan sebab atau keadaan.
+2. Buku V menggunakan fakta minimum LEAX yang sudah CANON tanpa menjelaskan sebab atau keadaan; seluruh lima bab telah memiliki pass revisi 0.2.
 3. Pedoman metode diselaraskan sebagai CANON dokumentasi sesuai header dan fungsi yang tertulis.
+4. Buku IV Bab 1–2 direvisi dan storyboard Bab 1–2 disinkronkan; Bab 3–4 tetap memiliki revisi prosa 0.2.
 
 ### Tahap B — Perbaikan editorial yang tidak mengubah lore
 1. Selaraskan istilah Buku III menjadi sistem rujukan lintas situs ketika bukti belum membuktikan jaringan fisik.
@@ -150,12 +151,12 @@ Manuskrip Buku I–VIII adalah materi pengembangan. Statusnya tidak berubah menj
 
 ### Tahap C — Revisi manuskrip dan sinkronisasi
 1. Revisi Buku I–III berdasarkan audit masing-masing.
-2. Revisi Buku IV setelah keputusan medium Prasasti atau gunakan redaksi netral sementara.
-3. Revisi Buku V setelah keputusan scope LEAX.
+2. Lanjutkan line edit Buku IV; model medium Northglass tetap netral dan NON-CANON.
+3. Lanjutkan line edit Buku V dan verifikasi dampak revisi terhadap karakter serta alur publikasi.
 4. Revisi Buku VI–VII untuk variasi adegan, kehidupan sosial, dan konsekuensi publikasi.
 5. Line edit Buku VIII Revision 0.2 dan periksa kesinambungan cedera Daren, kerugian warga, serta suara dialog.
 6. Audit ulang seluruh Character Knowledge Matrix.
-7. Sinkronkan storyboard manga dengan manuskrip revisi.
+7. Lanjutkan sinkronisasi storyboard manga untuk bab yang belum diperbarui; Buku IV Bab 1–2 sudah disinkronkan.
 8. Lakukan line edit akhir, proofread, dan pemeriksaan tautan dokumen.
 
 ## 9. Batas audit dan kesimpulan akhir
@@ -163,6 +164,8 @@ Manuskrip Buku I–VIII adalah materi pengembangan. Statusnya tidak berubah menj
 Audit ini telah menyelesaikan pemeriksaan makro transisi, jendela misteri, urutan karakter, status manuskrip, dan isu kontinuitas yang paling berdampak. Audit juga memeriksa ulang sumber CANON yang menjadi dasar isu Prasasti, Great War, LEAX, dan metode interpretasi.
 
 Audit ini **bukan** pemeriksaan baris demi baris atas seluruh delapan manuskrip, bukan pengesahan draft menjadi CANON, dan bukan keputusan atas pertanyaan yang hanya kreator dapat putuskan.
+
+**Pembaruan 2026-11-26:** Buku IV Bab 1–2 dan Buku V Bab 2 serta Bab 4 menerima revision pass 0.2; seluruh Bab 1–5 Buku V kini memiliki revisi 0.2. Indeks dan audit terkait diperbarui. Storyboard Buku IV Bab 1–2 diselaraskan dengan revisi prosa; jumlah storyboard tetap 74 halaman/370 panel.
 
 **Hasil:** struktur makro delapan buku dapat diikuti. Tiga blocker yang sebelumnya menahan revisi Buku IV/V sudah ditangani pada tingkat pengembangan. Yang tetap terbuka adalah hubungan objektif objek Northglass dengan naskah interpretasi, seluruh keadaan LEAX selain fakta hilangnya, serta pertanyaan sejarah lain yang memang belum ditetapkan. Manuskrip masih memerlukan line edit, pengembangan adegan, dan sinkronisasi storyboard.
 
