@@ -285,3 +285,8 @@ Dokumen ini menggabungkan storyboard dasar dan koreksi sinkronisasi. Bagian stor
 - Narasi penutup tidak lagi menyatakan batu bertulis sebagai objek yang sudah dipastikan; yang ditemukan baru rujukan parsial yang mungkin menyebutnya.
 - Kael hanya menunjukkan ringkasan permintaan dan menahan salinan karena sumber serta tujuan belum dapat diverifikasi.
 - Dialog Tavian dan Kael diarahkan pada pemeriksaan sumber pembanding, bukan asumsi bahwa kelompok telah menemukan atau mengidentifikasi batu.
+
+
+## Catatan kontinuitas mengikat — akses Hollow Vale
+
+Keputusan kreator B berlaku untuk rangkaian cerita: kelompok memasuki bagian situs tanpa izin terkonfirmasi dan sadar tindakan itu dapat dipersoalkan. Jangan visualkan ketiadaan penghalang sebagai izin, jangan tampilkan otoritas atau dokumen izin yang belum ditetapkan, dan jangan membuat adegan berikutnya seolah akses telah disahkan. Keselamatan fisik dan status legal adalah dua hal berbeda. Pemilik/otoritas dan konsekuensi spesifik tetap UNKNOWN/OPEN QUESTION. Semua instruksi adaptasi tetap NON-CANON.
