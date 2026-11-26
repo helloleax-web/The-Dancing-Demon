@@ -14,7 +14,7 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 | Buku | Status | Catatan |
 |---|---|---|
 | I — Jalur yang Terlupakan | DALAM REVISI | Keenam bab telah melalui line edit awal (Bab 1 Draft 0.2; Bab 2–6 Draft 0.3). Audit line edit enam bab Draft 0.2 dan indeks manuskrip Draft 1.3 tersedia. Sinkronisasi panel-per-panel, line edit terpadu, proofreading, roster pendukung, dan audit kontinuitas final masih tertunda. |
-| II — Dunia di Luar Peta | DALAM REVISI | Seluruh Bab 1–6 memiliki pass line-edit awal Draft 0.3. Audit transisi Book I–II, Bellwether, Rookbridge, kontinuitas 20 scene, persiapan line edit, dan audit terpadu pasca-line-edit Draft 0.2 tersedia. Dua temuan editorial utama (status laporan Rookbridge dan identitas lintasan sempit pada peta) masih harus diselesaikan; sinkronisasi storyboard, proofreading, dan audit transisi Book II–III dengan manuskrip Book III aktif belum selesai. |
+| II — Dunia di Luar Peta | DALAM REVISI | Bab 1–4 memiliki pass line-edit Draft 0.3; Bab 5–6 memiliki revisi klarifikasi Draft 0.4. Unified Line-Edit Audit Draft 0.3 menyelesaikan status laporan Rookbridge dengan membedakan salinan lapangan, laporan kontrak Meridian, dan laporan akhir Tavian. Posisi lintasan sempit pada cabang alternatif tetap OPEN QUESTION karena outline dan storyboard tidak menentukannya. Storyboard Chapter 6 Draft 0.2 telah disinkronkan; Chapters 1–5, proofreading, dan audit final masih tertunda. |
 | III — Sisa-Sisa yang Tertinggal | DALAM REVISI | Enam chapter Draft 0.1 tersedia; Chapter 1 diselaraskan menjadi Revision Draft 0.2; Continuity Audit Draft 0.3 dan Character Knowledge Matrix Draft 0.3 tersedia. Pengembangan prosa, isu akses Hollow Vale, jalur informasi, arc karakter, line edit Chapters 2–6, storyboard, dan proofreading masih tertunda. |
 | IV — Prasasti Pertama | BELUM DIKERJAKAN | Perlu memilih versi chapter aktif berdasarkan riwayat dan mengaudit interpretasi prasasti. |
 | V — Perang yang Tertinggal | BELUM DIKERJAKAN | Perlu membandingkan draft dan revisi yang tersedia serta audit sejarah/konsekuensi. |
@@ -98,6 +98,11 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 72. Menerbitkan Book III Manuscript Index Draft 0.3.
 73. Membuat Book II–III Transition Audit Draft 0.2.
 74. Menerbitkan Book II Manuscript Index Draft 1.2.
+75. Merevisi Book II Chapter 5 menjadi Draft 0.4 untuk membedakan salinan lapangan Rookbridge dari laporan akhir kontrak Tavian.
+76. Merevisi Book II Chapter 6 menjadi Draft 0.4 untuk memisahkan laporan kontrak Meridian dan laporan akhir Tavian.
+77. Menyinkronkan Book II Chapter 6 storyboard menjadi Draft 0.2.
+78. Membuat Unified Line-Edit Audit Book II Draft 0.3; temuan laporan selesai, geografi lintasan sempit tetap OPEN QUESTION.
+79. Menerbitkan Book II Storyboard Index Draft 0.2 dan Manuscript Index Draft 1.3.
 
 ## Temuan yang harus dibawa ke tahap berikutnya
 
@@ -135,12 +140,14 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 - [x] Lakukan pass line-edit awal Bab 1–3.
 - [x] Lakukan pass line-edit awal Bab 4–6 menjadi Draft 0.3.
 - [x] Baca enam bab Draft 0.3 secara terpadu dan buat audit line-edit terpadu Draft 0.2.
-- [ ] Selesaikan status laporan Rookbridge dan identitas lintasan sempit berdasarkan outline/kontrak.
+- [x] Selesaikan status laporan Rookbridge berdasarkan Scene Outline dan kontrak survei.
+- [ ] Dapatkan keputusan geografi untuk posisi lintasan sempit; sumber saat ini tidak menentukan cabangnya.
 - [ ] Audit geografi, kronologi, kontrak, dan arc karakter Book II.
 - [x] Audit transisi Book II–III dan selaraskan Book III Chapter 1 dengan kontinuitas Draft 0.2.
 - [ ] Audit dan revisi Chapters 2–6.
 - [ ] Perbarui indeks dan dokumen pendukung.
-- [ ] Sinkronkan storyboard yang tersedia.
+- [x] Sinkronkan storyboard Chapter 6 dengan prosa Draft 0.4.
+- [ ] Sinkronkan storyboard Chapters 1–5 setelah keputusan geografi jalur.
 - [ ] Lakukan line edit dan proofreading.
 - [ ] Lakukan audit transisi antarbuku.
 
@@ -174,4 +181,5 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 - 2026-11-27: Chapters 2–3 menerima pass line-edit awal Draft 0.3; indeks Book II Draft 0.9 diterbitkan.
 - 2026-11-27: Chapters 4–6 menerima pass line-edit awal Draft 0.3; indeks Book II Draft 1.0 diterbitkan.
 - 2026-11-27: Keenam bab Draft 0.3 dibaca berurutan; Unified Line-Edit Audit Draft 0.2 mencatat dua temuan kontinuitas (status laporan Rookbridge dan hubungan lintasan sempit dengan dua jalur alternatif); indeks Book II Draft 1.1 diterbitkan.
-- 2026-11-27: Book III Chapter 1 direvisi menjadi Draft 0.2; Continuity Audit Draft 0.3, Character Knowledge Matrix Draft 0.3, dan Manuscript Index Draft 0.3 diterbitkan. Book II–III Transition Audit Draft 0.2 dan Book II Index Draft 1.2 diterbitkan. Book II dan III tetap DALAM REVISI.
+- 2026-11-27: Book III Chapter 1 direvisi menjadi Draft 0.2; Continuity Audit Draft 0.3, Character Knowledge Matrix Draft 0.3, dan Manuscript Index Draft 0.3 diterbitkan. Book II–III Transition Audit Draft 0.2 dan Book II Index Draft 1.2 diterbitkan.
+- 2026-11-27: Book II Chapters 5–6 direvisi menjadi Draft 0.4 untuk membedakan salinan lapangan, laporan kontrak Meridian, dan laporan akhir Tavian. Storyboard Chapter 6 Draft 0.2 disinkronkan. Unified Line-Edit Audit Draft 0.3 menyelesaikan temuan laporan dan mempertahankan geografi lintasan sempit sebagai OPEN QUESTION. Book II Storyboard Index Draft 0.2 dan Manuscript Index Draft 1.3 diterbitkan. Book II dan III tetap DALAM REVISI.
