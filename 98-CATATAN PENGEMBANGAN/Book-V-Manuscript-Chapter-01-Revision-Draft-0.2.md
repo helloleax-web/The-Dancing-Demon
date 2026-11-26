@@ -1,6 +1,6 @@
 # Book V — Perang yang Tertinggal
 ## Bab 1: Arsip yang Tidak Sepakat
-### Revision Draft 0.3 — Scenes 1–4
+### Revision Draft 0.4 — Scenes 1–4
 
 **Status: CATATAN PENGEMBANGAN / NON-CANON.**  
 **Basis:** Book V Scene Outline Draft 0.2, Character Knowledge Matrix Draft 0.3, fakta CANON tentang Great War, NVR AGAIN, jubah mana hitam, dan Resonansi Hitam, serta penutup Buku IV.  
@@ -14,7 +14,7 @@ Perjalanan meninggalkan Northglass berlangsung tanpa upacara.
 
 Punggung batu itu semakin jauh di belakang mereka sampai akhirnya tertutup lekuk perbukitan. Tidak ada yang menoleh lama-lama. Mereka sudah menyelesaikan pekerjaan yang bisa dilakukan di sana: dokumentasi diserahkan, batas akses disepakati, dan salinan pembacaan disimpan dalam beberapa koleksi.
 
-Tavian berjalan sambil menjaga map peta agar tidak tertekuk oleh tali tas. Di dalamnya ada salinan lokasi batu, catatan kondisi permukaan, serta satu lembar yang memuat rangkaian karakter yang beberapa hari terakhir terus muncul dalam percakapan mereka.
+Tavian berjalan sambil menjaga map peta agar tidak tertekuk oleh tali tas. Di dalamnya ada salinan peta lokasi batu, catatan kondisi permukaan, serta satu lembar yang memuat rangkaian karakter yang beberapa hari terakhir terus muncul dalam percakapan mereka.
 
 NVR AGAIN.
 
@@ -68,7 +68,7 @@ Kael menggeser tali tasnya. “Dan kalau tidak ada?”
 
 “Lebih baik daripada membuat jawaban sendiri.”
 
-Daren memeriksa ikatan pada salah satu tas perlengkapan. “Kalau kita mau ke Orlenn, sebaiknya berangkat sebelum jalur sore ramai. Kita bisa membahas teori sambil berjalan, tapi jangan sampai lupa jarak.”
+Daren memeriksa ikatan pada salah satu tas perlengkapan. “Kalau kita mau ke Orlenn, sebaiknya berangkat sebelum jalur ramai menjelang sore. Kita bisa membahas teori sambil berjalan, tapi jangan sampai lupa jarak.”
 
 Mira sudah membuka peta rute lokal. “Ada dua jalur menuju kota. Yang satu lebih pendek, tapi melewati tanjakan berbatu. Yang lain lebih panjang dan punya tempat singgah. Dengan barang sebanyak ini, jalur kedua lebih masuk akal.”
 
@@ -100,7 +100,7 @@ Mira beberapa kali mengubah arah mereka ketika jalur utama menyempit. Ia tidak s
 
 Tavian mencatat perubahan jalur itu.
 
-“Lu hafal semua jalan di sini?” tanyanya.
+“Kau hafal semua jalan di sini?” tanyanya.
 
 “Tidak. Aku hafal jalan yang pernah kupakai dan catatan yang pernah kubaca.”
 
@@ -264,7 +264,7 @@ Neral memeriksa tabel itu. “Karena kalian sedang membandingkan angka tanggal t
 
 Seraphine meletakkan satu lembar catatan di samping tabel Tavian.
 
-“Kita perlu tahu apakah tanggal ini adalah tanggal kejadian, tanggal laporan dibuat, atau tanggal salinan.”
+“Kita perlu tahu apakah tanggal ini adalah tanggal kejadian, tanggal penyusunan laporan, atau tanggal salinan.”
 
 Tavian melihat kembali bagian atas dokumen. Ada keterangan kecil yang sebelumnya ia anggap sebagai penanda administratif.
 
@@ -296,9 +296,9 @@ Mereka melanjutkan pemeriksaan selama beberapa jam. Tavian mencatat asal dokumen
 
 “Kalau tidak, itu bukan alasan untuk membuatnya lebih sederhana dari sumbernya.”
 
-Kael tidak membalas. Ia mengambil lembar katalog berikutnya dan mulai memeriksa siapa yang menyerahkan salinan, bukan hanya apa isi ringkasannya.
+Kael tidak membalas. Ia mengambil lembar katalog berikutnya dan mulai memeriksa siapa yang menyerahkan salinan, bukan hanya isi ringkasannya.
 
-Di antara katalog ringkas, Neral menunjukkan satu entri yang menyebut LEAX menghilang setelah Great War. Entri itu hanya mencatat fakta hilangnya; tidak ada keterangan tentang lokasi, waktu rinci, penyebab, atau keadaan setelahnya.
+Di antara entri-entri katalog, Neral menunjukkan satu catatan yang menyebut LEAX menghilang setelah Great War. Entri itu hanya mencatat fakta hilangnya; tidak ada keterangan tentang lokasi, waktu rinci, penyebab, atau keadaan setelahnya.
 
 Tavian menyalin keterangan itu ke daftar fakta sejarah, bukan ke tabel kronologi. “Jadi kita tahu ia menghilang setelah perang. Tapi ini tidak membantu menyusun kapan atau bagaimana.”
 
