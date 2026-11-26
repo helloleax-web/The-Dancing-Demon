@@ -169,3 +169,11 @@
 - Semua materi tetap NON-CANON; pemeriksaan ini tidak mengesahkan isi cerita.
 
 **Status:** proofreading dan pemeriksaan konsistensi lintas bab selesai. Book V siap dipertimbangkan untuk pembekuan kandidat-final editorial, bukan pengesahan CANON.
+
+
+## Pembekuan kandidat-final editorial — 2026-11-27
+
+- [Book V Candidate-Final Editorial Lock](Book-V-Candidate-Final-Lock-2026-11-27.md) — snapshot hash lima bab setelah proofreading dan pemeriksaan konsistensi lintas bab.
+- Status: **kandidat-final editorial dibekukan**. Perubahan berikutnya harus menjadi revisi baru dan dicatat.
+- Pembekuan bukan pengesahan CANON. Seluruh manuskrip tetap NON-CANON.
+- Produksi storyboard, thumbnail, ilustrasi, tata letak, dan aset visual belum dinyatakan selesai.
