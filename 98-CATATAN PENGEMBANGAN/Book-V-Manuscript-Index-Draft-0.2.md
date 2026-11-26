@@ -1,16 +1,16 @@
-# Book V — Manuscript Index — Draft 0.3
+# Book V — Manuscript Index — Draft 0.4
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
-**Progress:** 22 scene; seluruh lima bab telah memiliki pass revisi 0.2 atau lebih baru. Audit kontinuitas diperbarui ke pass 0.4.  
+**Progress:** 22 scene; seluruh lima bab telah memiliki pass revisi 0.3 atau lebih baru. Audit kontinuitas diperbarui setelah revision pass 0.3.  
 **Jumlah kata:** sekitar 9.151 kata termasuk judul, metadata, dan catatan tambahan.
 
 ## Struktur bab
 
-1. [Bab 1 — Arsip yang Tidak Sepakat](Book-V-Manuscript-Chapter-01-Revision-Draft-0.2.md) — Scenes 1–4 (revision 0.2)
-2. [Bab 2 — Musik Tanpa Nama](Book-V-Manuscript-Chapter-02-Draft-0.1.md) — Scenes 5–8 (revision 0.2; jumlah kata menunggu hitung ulang)
-3. [Bab 3 — Resonansi Hitam](Book-V-Manuscript-Chapter-03-Revision-Draft-0.2.md) — Scenes 9–13 (revision 0.2)
-4. [Bab 4 — Sejarah yang Diperebutkan](Book-V-Manuscript-Chapter-04-Draft-0.1.md) — Scenes 14–18 (revision 0.2; jumlah kata menunggu hitung ulang)
-5. [Bab 5 — Perang yang Tertinggal](Book-V-Manuscript-Chapter-05-Revision-Draft-0.2.md) — Scenes 19–22 (revision 0.2)
+1. [Bab 1 — Arsip yang Tidak Sepakat](Book-V-Manuscript-Chapter-01-Revision-Draft-0.2.md) — Scenes 1–4 (revision 0.3)
+2. [Bab 2 — Musik Tanpa Nama](Book-V-Manuscript-Chapter-02-Draft-0.1.md) — Scenes 5–8 (revision 0.3)
+3. [Bab 3 — Resonansi Hitam](Book-V-Manuscript-Chapter-03-Revision-Draft-0.2.md) — Scenes 9–13 (revision 0.3)
+4. [Bab 4 — Sejarah yang Diperebutkan](Book-V-Manuscript-Chapter-04-Draft-0.1.md) — Scenes 14–18 (revision 0.3)
+5. [Bab 5 — Perang yang Tertinggal](Book-V-Manuscript-Chapter-05-Revision-Draft-0.2.md) — Scenes 19–22 (revision 0.3)
 
 ## Audit dan kontrol kontinuitas
 
