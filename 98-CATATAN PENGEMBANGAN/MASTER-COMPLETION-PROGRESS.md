@@ -13,7 +13,7 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 
 | Buku | Status | Catatan |
 |---|---|---|
-| I — Jalur yang Terlupakan | DALAM REVISI | Bab 4–6 memiliki revisi editorial 0.2. Audit parsial Bab 4–5 (0.3) dan Bab 6 (0.4) tersedia. Bab 1–3 telah diaudit; tiga klarifikasi editorial ringan, roster anggota dokumentasi yang cedera, sinkronisasi storyboard, line edit, dan audit penuh masih tertunda. |
+| I — Jalur yang Terlupakan | DALAM REVISI | Bab 4–6 memiliki revisi editorial 0.2. Audit parsial Bab 4–5 (0.3) dan Bab 6 (0.4) tersedia. Bab 1–3 telah diaudit; klarifikasi Bab 2–3 diterapkan pada revisi 0.2, Bab 1 tetap Draft 0.1. Roster anggota dokumentasi yang cedera, sinkronisasi storyboard, line edit, dan audit penuh masih tertunda. |
 | II — Dunia di Luar Peta | DALAM REVISI | Bab 6 direvisi 0.2 untuk memperjelas kebutuhan praktis kembali ke Bellwether; Bab 1–5 dan storyboard belum direvisi penuh. |
 | III — Sisa-Sisa yang Tertinggal | BELUM DIKERJAKAN | Perlu audit seluruh enam chapter dan pengenalan Ilyra. |
 | IV — Prasasti Pertama | BELUM DIKERJAKAN | Perlu memilih versi chapter aktif berdasarkan riwayat dan mengaudit interpretasi prasasti. |
@@ -38,6 +38,9 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 12. Membuat audit pembuka Book I untuk Bab 1–3 Draft 0.1.
 13. Memperbarui Character Knowledge Matrix menjadi Draft 0.2 untuk menghapus asumsi identitas perusahaan dan status proposal pihak pembayar Kael.
 14. Menerbitkan indeks manuskrip Book I Draft 0.4 sebagai file versi baru.
+15. Merevisi Book I Chapter 2 dan Chapter 3 menjadi Draft 0.2 untuk mengatasi tiga klarifikasi audit pembuka.
+16. Membuat audit revisi pembuka Book I Draft 0.2.
+17. Menerbitkan indeks manuskrip Book I Draft 0.5 dengan daftar file aktif yang dikoreksi.
 
 ## Temuan yang harus dibawa ke tahap berikutnya
 
@@ -55,7 +58,7 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 ## Daftar kerja selanjutnya
 
 ### Book I
-- [ ] Terapkan tiga klarifikasi editorial Bab 1–3 dari audit pembuka: penanda waktu Scene 3–4, batas pembersihan struktur, dan transisi pemeriksaan sebelum masuk fasilitas.
+- [x] Terapkan klarifikasi penanda waktu Bab 2 Scene 4, batas pembersihan struktur Bab 3 Scene 7, dan transisi pemeriksaan sebelum masuk fasilitas Bab 3 Scene 9.
 - [ ] Verifikasi identitas/roster anggota dokumentasi yang cedera atau pertahankan UNKNOWN bila belum ditetapkan.
 - [ ] Sinkronkan storyboard Bab 4–6 dengan revisi prosa 0.2.
 - [ ] Periksa seluruh enam storyboard.
@@ -82,4 +85,5 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 ## Riwayat perubahan
 
 - 2026-11-26: branch kerja dibuat; revisi Bab 4 dan Bab 5 Buku I, sketsa kontinuitas fasilitas, indeks 0.3, audit parsial 0.3, dan tracker master ditambahkan. Bab 6 Buku II direvisi 0.2 untuk memperjelas transisi praktis ke Buku III; indeks dan audit revisi Buku II diperbarui.
-- 2026-11-26: Book I Chapter 6 direvisi menjadi Draft 0.2; indeks Draft 0.4 diterbitkan; audit revisi Bab 6 Draft 0.4 dan audit pembuka Bab 1–3 Draft 0.1 ditambahkan; Character Knowledge Matrix diperbarui menjadi Draft 0.2. Status Book I tetap DALAM REVISI.
+- 2026-11-26: Book I Chapter 6 direvisi menjadi Draft 0.2; indeks Draft 0.4 diterbitkan; audit revisi Bab 6 Draft 0.4 dan audit pembuka Bab 1–3 Draft 0.1 ditambahkan; Character Knowledge Matrix diperbarui menjadi Draft 0.2.
+- 2026-11-26: Book I Chapter 2 dan 3 direvisi menjadi Draft 0.2; audit revisi pembuka Draft 0.2 dan indeks Draft 0.5 diterbitkan. Status Book I tetap DALAM REVISI.
