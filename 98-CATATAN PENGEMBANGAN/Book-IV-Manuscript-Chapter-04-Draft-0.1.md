@@ -2,8 +2,8 @@
 ## Bab 4: Setelah Nama Ditemukan
 ### Draft Prosa 0.1 — Scenes 16–20
 
-**Status: CATATAN PENGEMBANGAN / NON-CANON.**  
-**Fungsi:** manuskrip kerja Buku IV berdasarkan Book IV Scene Outline Draft 0.1. Semua detail baru tetap keputusan cerita draft.
+**Status: CANON — disahkan kreator.**  
+**Fungsi:** teks naratif resmi Book IV Chapter 4, Scenes 16–20. Ketidakpastian yang dinyatakan di dalam teks tetap UNKNOWN/MYSTERY dan tidak boleh diisi tanpa keputusan kreator.
 
 ### Scene 16 — Hak atas Penemuan
 
@@ -165,4 +165,17 @@ Namun, maknanya masih tertinggal.
 - Makna nama, referen, pembuat, hubungan dengan musik Great War, dan konteks sejarah tetap belum dijelaskan. Hasil yang tersedia hanya transliterasi satu rangkaian tanda, bukan terjemahan seluruh naskah.
 - Kelompok berencana menelusuri catatan sejarah lebih lanjut untuk Buku V.
 - Tidak ada pengungkapan tentang LEAX.
-- Semua detail prosedur, organisasi, dan dialog tetap NON-CANON; fakta pengungkapan nama mengikuti CANON.
+- Kejadian, dialog, kesepakatan dokumentasi, dan keputusan kelompok dalam Scenes 16–20 berstatus CANON.
+- Penyebutan batu sebagai “Prasasti pertama yang berhasil mereka identifikasi dalam penyelidikan ini” adalah klasifikasi laporan kelompok; ini tidak menetapkan bahwa batu tersebut identik dengan naskah interpretasi in-world Prasasti I yang ditulis keturunan LEAX. Hubungan pasti objek Northglass dengan naskah Prasasti I tetap UNKNOWN.
+- Individu yang hadir atau mengajukan permintaan atas nama Arsip Lentera, Konsorsium Survei Meridian, dan Vellum & Iron Recovery hanya ditetapkan sebagai peserta dan pemohon dalam peristiwa ini. Adegan tidak menetapkan mandat, struktur, fungsi umum, kepemimpinan, atau kewenangan organisasi.
+- Kesepakatan dokumentasi tidak memberi hak pemindahan, pemisahan, atau perubahan terhadap batu. Batu tetap di lokasi; akses tetap berada dalam batas yang disepakati bersama penjaga jalur.
+- NVR AGAIN tetap transliterasi satu rangkaian tanda, bukan terjemahan seluruh prasasti. Referen, makna, pembuat, hubungan dengan musik Great War, dan konteks sejarah tetap UNKNOWN/MYSTERY.
+- Tidak ada pengungkapan baru tentang LEAX.
+
+## Pengesahan CANON
+- Scenes 16–20 ditetapkan sebagai teks naratif resmi Book IV Chapter 4 dan penutup Book IV.
+- Laporan menyebut temuan Northglass sebagai Prasasti pertama yang berhasil diidentifikasi kelompok dalam penyelidikan mereka; klasifikasi ini tidak mengubah status atau isi naskah interpretasi Prasasti I.
+- Dokumentasi dapat dibagikan sesuai kesepakatan, tetapi tidak ada pihak yang memperoleh hak untuk mengambil atau mengubah sumber asli.
+- Nama NVR AGAIN mulai beredar di kalangan peneliti sebagai hasil transliterasi; makna dan referennya belum diketahui.
+- Pencarian sumber sejarah Great War menjadi arah kerja berikutnya, bukan jawaban yang sudah ditemukan.
+- Storyboard, panel, komposisi, dan lettering tetap materi adaptasi NON-CANON.
