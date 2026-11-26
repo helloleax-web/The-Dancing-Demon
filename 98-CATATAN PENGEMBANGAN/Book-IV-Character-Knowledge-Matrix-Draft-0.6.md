@@ -1,8 +1,8 @@
 # Book IV — Character Knowledge and Continuity Matrix
-## Draft 0.7 — Mekanisme B dan Akses Terbatas
+## Draft 0.8 — Mekanisme B, Akses A, dan Batas Catatan
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
-**Basis:** Book IV Scene Outline Draft 0.5; Chapter 3–4 Revision Draft 0.3; Book III–IV Transition Audit; CANON *Thirteen Prasasti* dan *Prasasti I — NVR AGAIN*.
+**Basis:** Book IV Scene Outline Draft 0.7; Chapter 3–4 Revision Draft 0.3; Book III–IV Transition Audit; CANON *Thirteen Prasasti* dan *Prasasti I — NVR AGAIN*.
 
 ## 1. Aturan pengetahuan
 
@@ -22,7 +22,7 @@
 | 1–5: pencarian | Mengetahui petunjuk Hollow Vale terbatas; memakai catatan rute Mira sebagai sumber terpisah | Menjaga asal dan batas sumber | Mengetahui potensi nilai informasi | Mengetahui catatan rute lokal yang boleh dibagikan; bukan bukti identitas batu | Menilai keselamatan rute | Memisahkan indeks Hollow Vale dari petunjuk lokal | Mengenal batu sebagai penanda jalur, tidak mengetahui asal atau isi | Mengetahui pencarian batu bertulis, belum tahu isinya |
 | 6–10: Northglass | Mengetahui posisi dan kondisi batu | Mendokumentasikan permukaan dan kerusakan | Mengetahui penemuan dapat menarik kepentingan | Mengetahui konteks penggunaan lokal | Menjaga keselamatan akses | Mengetahui susunan tanda, belum dapat membaca nama | Mengetahui pemeriksaan mengikuti batas akses setempat | Melihat objek batu bertulis; nama belum diketahui |
 | 11: petunjuk belum cukup | Mengetahui dokumentasi Northglass belum menjawab isi; meminta Jorren menyampaikan rujukan | Menilai batas bukti dan sumber | Mengetahui ada rujukan lanjutan, belum isi materi | Mengetahui jalur akses melalui Jorren | Menjaga batas akses dan keselamatan | Menolak memaksakan pembacaan dari batu | Hanya mengetahui kabar tentang penjaga kumpulan dokumen; tidak mengetahui isi/provenance | Mengetahui Northglass bukan jawaban langsung; jalur rujukan mulai dijelaskan |
-| 12: naskah dan bunyi | Mengetahui konsultasi terbatas di tempat | Mencatat pihak hadir, kondisi, dan batas izin; provenance belum terverifikasi | Mengetahui materi diakses secara terbatas | Mengetahui akses diatur melalui rujukan Jorren | Mengetahui konsultasi dilakukan dengan pengawasan | Mengetahui naskah adalah dokumen interpretasi; judul belum dibuka | Mengetahui permintaan diterima; tidak mengetahui isi materi | Melihat naskah dan salinan bunyi; nama belum muncul |
+| 12: naskah dan bunyi | Mengetahui konsultasi terbatas di tempat dan lingkup catatan | Mencatat pihak hadir, kondisi, izin catatan non-reproduktif, dan batas publikasi; provenance belum terverifikasi | Mengetahui materi diakses secara terbatas | Mengetahui akses diatur melalui rujukan Jorren | Mengetahui konsultasi dilakukan dengan pengawasan | Mengetahui naskah adalah dokumen interpretasi; judul belum dibuka | Mengetahui permintaan diterima; tidak mengetahui isi materi | Melihat naskah dan salinan bunyi; nama belum muncul |
 | 13: pembacaan dan pendengaran | Mengetahui proses pemeriksaan sumber | Memisahkan fakta, tafsir, dugaan, UNKNOWN | Mengetahui ada isi yang belum dipahami | Tidak ada pengetahuan tambahan yang wajib | Tidak ada pengetahuan tambahan yang wajib | Membaca baris demi baris dan mendengarkan salinan; judul belum diungkap | Tidak ada pengetahuan tambahan yang wajib | Mengetahui metode pemeriksaan, belum tahu judul |
 | 14: pengungkapan | Mengetahui judul NVR AGAIN dari naskah | Mengetahui sumber judul dan batas klaim | Mengetahui nama dan nilai informasinya | Mengetahui nama setelah pengungkapan | Mengetahui nama setelah pengungkapan | Membaca judul NVR AGAIN pada naskah | Hanya mengetahui jika diberi tahu kemudian | Pertama kali melihat/mendengar NVR AGAIN |
 | 15: dampak | Mengetahui nama dan bahwa sumbernya naskah | Menjaga dokumentasi dua sumber terpisah | Mengetahui kepentingan pihak-pihak meningkat | Mengetahui nama dan kekhawatiran akses lokal | Mengetahui penemuan memerlukan prosedur aman | Mengetahui judul, belum identitas pemilik suara atau konteks | Pengetahuan bergantung pada laporan yang diterima | Mengetahui nama, belum makna atau referen |
@@ -57,7 +57,7 @@
 
 ## 5. Catatan akses dan provenance
 
-Jalur akses pengembangan telah dipilih sebagai Opsi A: Jorren menyampaikan rujukan terbatas kepada penjaga kumpulan dokumen anonim; penjaga memberi izin konsultasi terawasi di tempat. Izin tidak mencakup membawa, memisahkan, menyalin, atau menyebarluaskan materi. Ini NON-CANON dan tidak memberi Jorren pengetahuan tentang isi atau asal-usul dokumen.
+Jalur akses pengembangan telah dipilih sebagai Opsi A: Jorren menyampaikan rujukan terbatas kepada penjaga kumpulan dokumen anonim; penjaga memberi izin konsultasi terawasi di tempat, catatan non-reproduktif, dan ringkasan untuk pihak yang terlibat langsung; publikasi lebih luas memerlukan persetujuan terpisah. Izin tidak mencakup membawa, memisahkan, menyalin, atau menyebarluaskan materi sumber. Ini NON-CANON dan tidak memberi Jorren pengetahuan tentang isi atau asal-usul dokumen.
 
 Tetap OPEN QUESTION: identitas penjaga, lokasi geografis, kepemilikan sah, provenance, autentikasi, riwayat perpindahan, dan hubungan material/historis dengan Northglass. Karakter hanya mengetahui apa yang mereka lihat dan batas izin yang diberikan.
 
