@@ -48,11 +48,11 @@ Penghubung itu tersenyum. “Kami memang ingin membuatnya mudah dibaca.”
 
 Kael menunjuk salah satu bagian. Rancangan tersebut menghilangkan keterangan bahwa sumber-sumber yang dipakai memiliki asal dan tingkat kepastian berbeda.
 
-“Kalau semua sumber dibuat seolah-olah sepakat, kalian tidak sedang menyederhanakan sejarah. Kalian sedang menjual satu versi.”
+“Kalau semua sumber dibuat seolah-olah sepakat, pembaca tidak akan tahu bahwa sumber-sumber itu sebenarnya berbeda.”
 
-“Kami tidak bermaksud menyesatkan.”
+Penghubung itu merapatkan kedua lembar rancangan. “Kami tidak bermaksud menyesatkan.”
 
-“Mungkin tidak. Tapi hasilnya tetap bisa menyesatkan.”
+“Dampaknya tetap sama,” kata Kael.
 
 Penghubung itu mengambil kembali lembar rancangan.
 
@@ -60,9 +60,9 @@ Penghubung itu mengambil kembali lembar rancangan.
 
 Ia lalu menjelaskan syarat yang sebenarnya mereka inginkan: kronologi utama harus tampil tanpa jeda ketidakpastian, catatan asal sumber dipindahkan ke lampiran, dan kesaksian yang tidak mendukung alur utama tidak perlu dimasukkan. Nama pemberi kesaksian boleh dicantumkan jika dianggap menambah bobot cerita.
 
-Seraphine menutup rancangan itu. “Itu bukan penyuntingan bentuk. Itu mengubah cara pembaca menilai bukti. Nama pemberi kesaksian juga tidak bisa dipakai tanpa mempertimbangkan izin mereka.”
+Seraphine menutup rancangan itu. “Perubahan itu akan mengubah bobot bukti di mata pembaca. Dan nama pemberi kesaksian tidak bisa dicantumkan tanpa izin.”
 
-“Kami sedang menyusun laporan,” lanjutnya. “Bukan cerita yang harus terlihat lengkap.”
+Ia mengembalikan rancangan itu ke meja. “Kami sedang menyusun laporan, bukan cerita yang harus terlihat lengkap.”
 
 Pertemuan berakhir tanpa kesepakatan.
 
@@ -90,17 +90,13 @@ Ilyra menemukan masalah paling jelas pada kutipan yang digunakan penerbit.
 
 Kalimat itu berasal dari satu catatan perjalanan yang sebelumnya mereka periksa. Dalam dokumen asli, kalimat tersebut berada di antara dua keterangan tentang kondisi jalur dan waktu pencatatan. Pada rancangan penerbit, bagian tengahnya dipotong sehingga seolah-olah menjadi pernyataan tentang musik yang terdengar selama perang.
 
-“Ini tidak bisa dipakai seperti ini,” kata Ilyra.
+“Kutipan ini tidak lagi mengatakan hal yang sama,” kata Ilyra.
 
-Tavian mengambil salinan sumber asli dan membandingkannya dengan kutipan.
+Ia meletakkan sumber asli di samping rancangan penerbit, lalu menandai batas paragraf yang hilang. Tavian mencocokkan nomor koleksi dan halaman.
 
-“Bagian awalnya diambil. Bagian yang menjelaskan konteksnya dihilangkan.”
+“Bagian yang dipotong menjelaskan situasinya,” kata Ilyra. “Catatan itu merekam sesuatu yang didengar penulis selama perjalanan. Di rancangan ini, kalimatnya berdiri sendiri dan terdengar seperti keterangan tentang kejadian yang lebih luas.”
 
-Seraphine membaca keduanya.
-
-“Apakah pemotongan itu mengubah arti?”
-
-“Ya. Dalam sumber asli, penulis sedang mencatat sesuatu yang didengar saat perjalanan. Rancangan ini membuatnya seolah-olah sedang menjelaskan kejadian yang lebih luas.”
+Seraphine membandingkan kedua versi. “Jadi koreksinya harus mengembalikan konteks, bukan menebak maksud penulis.”
 
 Ilyra menambahkan nomor koleksi dan bagian halaman yang relevan.
 
@@ -108,9 +104,9 @@ Mereka menyusun koreksi. Setiap kutipan diberi konteks yang cukup untuk memperli
 
 Tavian memeriksa ulang rujukan dokumen. Ia memastikan setiap nomor koleksi sesuai dengan katalog Balai.
 
-“Kalau mereka tetap menggunakan kutipan yang dipotong?” tanyanya.
+“Kalau mereka tetap memakai versi itu?”
 
-“Kita kirimkan koreksi tertulis dan simpan salinannya,” jawab Seraphine. “Kita tidak bisa mengendalikan apa yang mereka terbitkan. Tapi kita bisa memastikan catatan kita tidak ikut mengulang kesalahan itu.”
+“Koreksi kita tetap dikirim dan diarsipkan,” jawab Seraphine. “Cantumkan tanggal pengiriman dan versi rancangan yang kita tanggapi. Kalau kutipan itu muncul lagi, kita punya jejak yang bisa diperiksa.”
 
 Kael membaca draf koreksi.
 
@@ -134,11 +130,11 @@ Sava datang kembali setelah menerima kabar tentang rancangan penerbit.
 
 Ia membaca koreksi yang disusun kelompok, lalu berhenti pada bagian yang membahas kesaksian keluarga.
 
-“Bagian ini terlalu banyak menekankan kekurangan kesaksian,” katanya.
+“Paragraf ini menyusun keterbatasan kesaksian lebih panjang daripada keterangannya sendiri,” katanya.
 
-Seraphine duduk di seberangnya. “Kami tidak bermaksud membuangnya.”
+Seraphine duduk di seberangnya. “Kami sedang berusaha menjelaskan cara mengujinya.”
 
-“Aku tahu. Tapi pembaca bisa menangkap kesan bahwa cerita keluarga hanya berguna kalau cocok dengan dokumen tertulis.”
+“Kalau begitu jelaskan juga apa yang bisa diberikannya. Cerita keluarga bukan dokumen yang gagal menjadi dokumen. Ia punya jalur pewarisan dan konteksnya sendiri.”
 
 Tavian melihat catatan yang dimaksud.
 
@@ -262,11 +258,11 @@ Kael berdiri dan mengangkat tasnya.
 
 “Jadi, kita punya laporan yang belum tentu dibaca banyak orang.”
 
-“Kita punya laporan yang tidak berbohong tentang isinya,” kata Seraphine.
+“Laporan ini masih bisa diperiksa,” kata Seraphine.
 
-Kael tersenyum kecil. “Itu mungkin tidak laku.”
+Kael tersenyum kecil. “Belum tentu banyak yang mau membacanya.”
 
-“Bukan urusan kita untuk membuat bukti menjadi lebih menarik daripada kenyataannya.”
+“Kalau begitu, kita pastikan setidaknya orang yang membutuhkannya bisa menelusuri sumbernya.”
 
 Mereka mulai membereskan meja.
 
