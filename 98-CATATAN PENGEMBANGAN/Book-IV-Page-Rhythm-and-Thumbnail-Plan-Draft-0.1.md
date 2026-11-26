@@ -107,7 +107,7 @@
 | 13 (49) | Halaman Pembuka | 6 | L6-A: wide atas / tiga insert / dua panel bawah | Membangun page turn; judul belum terbaca utuh. |
 | 14 (50) | Sebelum Nama | 4 | L4-B: dua panel atas / satu vertikal / wide bawah | Empat panel menahan informasi, panel akhir senyap menghadap halaman. |
 | 15 (51) | NVR AGAIN | 1 | SPLASH — satu panel full-page | FULL-PAGE SPLASH: judul NVR AGAIN dari halaman pembuka naskah. Tanpa teks tambahan atau kilas balik. |
-| 16 (52) | Judul, Bukan Jawaban | 6 | L6-A: wide atas / tiga insert / dua panel bawah | Reaksi setelah reveal; judul disebut sebagai judul, bukan jawaban. |
+| 16 (52) | Judul, Bukan Jawaban | 5 | L5-D: tiga panel ritmis / dua panel penutup | Reaksi setelah reveal; judul disebut sebagai judul, bukan jawaban. |
 | 17 (53) | Tidak Menyimpulkan Lebih Jauh | 5 | L5-A: wide atas / dua tengah / dua bawah | Kembali ke panel tenang dan detail catatan batas pengetahuan. |
 | 18 (54) | Permintaan Dokumentasi | 6 | L6-C: satu vertikal dominan / tiga insert / dua reaksi | Permintaan Arsip Lentera adalah ringkasan non-reproduktif, bukan salinan sumber. |
 | 19 (55) | Dua Sumber, Dua Batas | 5 | L5-C: satu panel vertikal / dua insert / dua bawah | Pisahkan Northglass dan Prasasti I; batas akses dan sirkulasi jelas. |
