@@ -1,5 +1,8 @@
 # Alkitab Organisasi
 
+**Status: CANON untuk nama dan fakta organisasi yang secara eksplisit didukung sumber; rincian UNKNOWN dan CATATAN PENGEMBANGAN tidak disahkan.**  
+**Disahkan: 2026-11-26**
+
 ## Tujuan dan aturan dokumentasi
 
 Dokumen ini merangkum informasi organisasi yang secara eksplisit tersedia dalam repository. Nama yang tercantum dalam indeks dibukukan sebagai fakta CANON; rincian lain hanya dicantumkan jika didukung sumber.
