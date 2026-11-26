@@ -7,7 +7,7 @@
 
 ### Scene 1 — Dua Tempat, Dua Catatan
 
-Mereka kembali membuka catatan itu di Bellwether.
+Beberapa hari setelah meninggalkan Rookbridge, mereka kembali ke Bellwether. Itu jalan memutar, tetapi mereka membutuhkan ruang penyalinan dan akses ke catatan perjalanan yang lebih tua. Rookbridge memberi mereka penanda untuk dibandingkan; Bellwether memberi mereka orang dan dokumen yang dapat membantu memeriksanya.
 
 Tavian meletakkan salinan fragmen dari fasilitas pertama di sebelah dokumentasi penanda Rookbridge. Daren menambahkan satu lembar laporan survei lama tentang permukaan buatan di wilayah lain. Laporan itu hanya berisi ringkasan pengukuran dan sketsa; tidak ada bukti bahwa tempat tersebut merupakan fasilitas.
 
@@ -199,7 +199,7 @@ Seraphine membaca keterangan yang tersisa.
 
 Ilyra meletakkan salinan fragmen Buku I di sebelahnya. Ada satu susunan yang mirip, tetapi tidak cukup lengkap untuk disebut identik.
 
-“Ini sumber ketiga,” katanya. “Tapi aku belum bisa memastikan apa yang dirujuk.”
+“Ini catatan ketiga yang memuat susunan tanda untuk dibandingkan,” katanya. “Laporan Daren tetap menjadi petunjuk terpisah tentang permukaan buatan, bukan sumber pola yang sama.”
 
 Mira memeriksa nama tersebut. “Aku pernah mendengar Hollow Vale disebut dalam catatan perjalanan, tapi tidak tahu letaknya.”
 
@@ -223,7 +223,7 @@ Ilyra tersenyum tipis. “Baik. Aku akan mencoba mencari sumber lain yang menyeb
 
 Tavian memandang nama Hollow Vale pada lembar itu.
 
-Mereka kini memiliki tiga sumber dari tempat yang berbeda. Dua di antaranya berasal dari benda yang pernah mereka lihat langsung. Yang ketiga hanya berupa catatan perjalanan lama.
+Mereka kini memiliki tiga sumber yang memuat tanda untuk dibandingkan: fragmen fasilitas Buku I, penanda Rookbridge, dan catatan perjalanan yang menyebut Hollow Vale. Laporan Daren tetap terpisah sebagai petunjuk tentang permukaan buatan di wilayah lain.
 
 Belum ada bukti bahwa semuanya berasal dari satu sistem.
 
@@ -236,6 +236,6 @@ Namun, untuk pertama kalinya, mereka memiliki arah yang dapat diperiksa.
 - Kelompok membandingkan dokumentasi fasilitas Buku I dan penanda Rookbridge tanpa menyamakan sumber.
 - Ilyra diperkenalkan sebagai penyalin naskah dan asisten arsip; ia meminta konteks sumber sebelum mengajukan interpretasi.
 - Ilyra terlalu cepat menganggap kemiripan sebagai satu sistem, lalu memperbaiki hipotesis setelah perbandingan yang lebih ketat.
-- Sumber ketiga menyebut Hollow Vale, tetapi jenis tempat, lokasi, dan hubungannya dengan dua sumber sebelumnya belum diketahui.
+- Catatan perjalanan tambahan menyebut Hollow Vale dan memuat tanda untuk dibandingkan; jenis tempat, lokasi, dan hubungannya dengan sumber lain belum diketahui.
 - Tidak ditetapkan bahwa kurator Ilyra sama dengan kurator kontrak Kael pada Buku I.
 - Semua detail adegan, dokumen, dan dialog tetap NON-CANON.
