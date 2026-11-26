@@ -425,3 +425,10 @@
 - Layout manual diterima sebagai studi komposisi NON-CANON; bukan ilustrasi final. Dampak CANON nihil.
 
 **Status Scene 1:** 5/5 panel memiliki studi komposisi manual per panel; ilustrasi final belum dibuat.
+
+
+## Scene 1 composite review — Draft 0.1
+
+- [Book V Scene 1 Composite Review — Draft 0.1](Book-V-Scene-01-Composite-Review-Draft-0.1.md) — pemeriksaan lima panel sebagai satu urutan visual, termasuk kontinuitas kelompok, properti, blocking, dan batas lore.
+- Composite blocking board diterima sebagai panduan komposisi abstrak; bukan ilustrasi final atau desain karakter/lokasi.
+- Scene 1: lima layout panel manual selesai dan lolos review komposisi. Semua materi tetap NON-CANON; dampak CANON nihil.
