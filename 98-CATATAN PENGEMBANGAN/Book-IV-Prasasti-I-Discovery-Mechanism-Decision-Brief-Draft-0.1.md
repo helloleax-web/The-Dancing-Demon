@@ -87,7 +87,7 @@ Alasannya:
 
 Namun, rekomendasi ini **bukan keputusan CANON** dan tidak boleh diterapkan sebagai fakta sebelum kreator memilih. Detail tempat penyimpanan, bentuk media, penjaga, pemilik, sejarah, dan cara kerja rekaman tetap belum ditentukan.
 
-## 6. Pertanyaan keputusan kreator
+## 6. Keputusan kreator — Opsi B dipilih
 
 Pilih satu:
 - **A** — Nama ditemukan langsung pada objek Northglass.
@@ -103,5 +103,26 @@ Jika tidak ada pilihan, mekanisme tetap OPEN QUESTION dan Bab 2–4 tidak masuk 
 - Nama tidak otomatis mengungkap arti, referen, pembuat, asal musik, mekanisme, LEAX, atau sejarah Great War.
 - Tidak ada medium universal yang ditetapkan untuk seluruh 13 Prasasti.
 - Tidak ada perubahan CANON sebelum persetujuan kreator.
+
+**Dampak CANON: tidak ada.**
+
+
+## 8. Hasil keputusan dan implementasi
+
+**Keputusan pengembangan:** Opsi B dipilih setelah kreator menyerahkan pilihan kepada editor dengan jawaban “BEBASSS”. Pilihan ini mengarahkan revisi naskah, tetapi tidak mengubah CANON.
+
+Konsekuensi yang kini diterapkan:
+1. Objek Northglass menjadi titik awal penyelidikan, bukan sumber langsung transliterasi NVR AGAIN.
+2. Penyelidikan lanjutan membawa kelompok kepada naskah interpretasi Prasasti I dan salinan bunyi yang disimpan bersamanya.
+3. Kelompok membaca naskah dan mendengarkan salinan bunyi, dengan pemisahan fakta, tafsir, dugaan, dan UNKNOWN.
+4. Nama NVR AGAIN pertama kali diketahui pada Scene 14 dari judul naskah interpretasi.
+5. Buku IV tidak mengungkap identitas pemilik suara, makna objektif, asal musik, atau hubungan dengan LEAX/Great War.
+
+**Dokumen implementasi:**
+- [Chapter 3 Revision Draft 0.3](Book-IV-Manuscript-Chapter-03-Revision-Draft-0.3.md)
+- [Chapter 4 Revision Draft 0.3](Book-IV-Manuscript-Chapter-04-Revision-Draft-0.3.md)
+- [Scene Outline Draft 0.5](Book-IV-Scene-Outline-Draft-0.5.md)
+
+**OPEN QUESTION yang sengaja belum diputuskan:** lokasi penyimpanan, penjaga, asal-usul, riwayat perpindahan, kondisi akses, dan mekanisme spesifik yang menghubungkan penyelidikan Northglass dengan naskah Prasasti I. Detail ini tidak boleh disajikan sebagai CANON atau dikarang seolah telah disahkan.
 
 **Dampak CANON: tidak ada.**
