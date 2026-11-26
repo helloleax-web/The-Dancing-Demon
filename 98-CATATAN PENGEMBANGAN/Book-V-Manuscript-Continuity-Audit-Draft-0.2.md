@@ -176,3 +176,17 @@ Commits:
 - Tidak ada perubahan status manuskrip: seluruh Bab 4 tetap NON-CANON.
 
 **Status line edit:** Bab 1–2 telah menerima pass dialog terarah; Bab 3 Scene 9–13 telah menerima pass ritme; Bab 4 Scenes 14–18 kini telah menerima pass dialog terarah. Bab 5 masih menunggu line edit menyeluruh.
+
+
+## 18. Line edit dialog dan penutup Bab 5 — Scenes 19–22
+
+- **Scene 19:** Kael mengarahkan penyajian laporan dari kebutuhan pembaca; Tavian mengusulkan urutan hasil sebelum batas metode. Seraphine tetap menjaga agar batas penelitian tidak dihilangkan.
+- **Scene 20:** pemeriksaan surat yang menghitung dua kutipan dari satu catatan keluarga kini berpusat pada rantai asal sumber. Seraphine memberi instruksi koreksi, bukan mengulang pernyataan umum tentang ketidakpastian.
+- **Scene 20:** respons Kael atas tawaran salinan terbatas dibuat lebih tegas sebagai persoalan hak akses, bukan sekadar untung-rugi.
+- **Scene 21:** dialog peninjauan akhir diarahkan pada status temuan baru dan jalur penelusuran berikutnya. Kalimat aforistik yang mengulang tema pertanyaan terbuka dihapus dan diganti catatan kerja yang dapat ditindaklanjuti.
+- **Scene 22:** penutup dikaitkan kembali dengan penanda rute yang dicatat Tavian dan Mira. Ini mengikat tema memori, konteks, dan sumber ke pengalaman konkret dalam perjalanan, tanpa menambahkan lore.
+- Tidak ada fakta CANON baru, hubungan sebab-akibat, atau penjelasan tentang fenomena yang diterima kelompok.
+- Laporan fenomena tetap belum diverifikasi; tidak ada identifikasi Abstract Existence.
+- Semua revisi Bab 5 tetap NON-CANON.
+
+**Status line edit dialog:** Bab 1–2, Bab 4 Scenes 14–18, dan Bab 5 Scenes 19–22 telah menerima pass terarah. Bab 3 Scenes 9–13 menerima revisi ritme terfokus. Tahap berikutnya adalah proofreading dan audit lintas bab, bukan menganggap manuskrip sudah final.
