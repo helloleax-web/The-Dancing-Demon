@@ -87,3 +87,11 @@ Proofread Draft 0.4 dibuat dari masing-masing Line Edit Draft 0.3. Versi ini men
 - [Chapter 6 — Proofread Draft 0.4](Book-III-Manuscript-Chapter-06-Proofread-Draft-0.4.md)
 
 **Status:** proofread pass awal selesai. Belum final karena status legal akses Hollow Vale tetap OPEN QUESTION dan perlu keputusan kreator sebelum finalisasi.
+
+## Hollow Vale access — active development decision
+
+- **Selected path:** B — the group knowingly inspects without confirmed permission.
+- **Applied to:** active Chapter 3 proofread manuscript, all six manuscript continuity notes, scene outline, all six integrated storyboard masters, decision brief, and continuity/proofreading audits.
+- **Not established:** landowner, authority, permit, permission source, legality, or specific consequence.
+- **Still OPEN QUESTION:** who has authority over Hollow Vale and whether any legal basis for entry exists.
+- **Next gate:** fresh consecutive read-through and final approval audit. Book III is not final.
