@@ -200,3 +200,10 @@
 - Detail desain karakter, arsitektur, geografi, dan properti visual belum dikunci.
 - Catatan evaluasi: [Book V Thumbnail Review — Bab 1](Book-V-Thumbnail-Review-Chapter-01-Draft-0.1.md).
 - Status: layout komposisi awal diterima; thumbnail ilustratif dan ilustrasi final belum dibuat. Seluruh materi NON-CANON.
+
+
+### Scene 2 — thumbnail layout
+
+- Layout thumbnail manual 7 panel: `BookV_Scene2_Manual_Thumbnail_Layout_Draft01.png`.
+- Status: layout komposisi selesai; menunggu review; NON-CANON.
+- Tidak ada desain karakter/lokasi atau fakta dunia baru yang dikunci.
