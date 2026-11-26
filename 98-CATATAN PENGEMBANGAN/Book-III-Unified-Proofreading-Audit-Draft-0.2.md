@@ -53,8 +53,8 @@ Kesimpulan yang dapat ditulis hanya bahwa dua catatan fasilitas memakai konvensi
 
 ## 5. Isu yang tetap OPEN QUESTION / MYSTERY
 
-### A. Akses legal Hollow Vale — OPEN QUESTION, penghalang finalisasi
-Naskah memperlihatkan kelompok masuk ke bagian struktur yang sudah terbuka dan dapat dicapai, tanpa membongkar atau memindahkan benda. Namun, belum ada dasar yang ditetapkan untuk status legal akses atau kewenangan atas situs. Manuskrip tidak mengarang izin, pemilik, penjaga, atau otoritas. Kreator perlu menentukan apakah pemeriksaan terbatas tersebut dapat diterima dalam konteks setempat, apakah izin ada tetapi belum ditampilkan, atau adegan perlu ditahan/diubah. Jangan menyelesaikan isu ini melalui asumsi editorial.
+### A. Akses Hollow Vale — jalur B dipilih; kewenangan situs tetap OPEN QUESTION
+Kreator memilih Option B: kelompok secara sadar masuk ke bagian yang telah terbuka tanpa izin atau kewenangan yang terkonfirmasi dan menerima bahwa tindakan itu dapat dipersoalkan. Batas fisik pemeriksaan tidak dianggap sebagai izin. Pemilik/otoritas, status legal situs, dan konsekuensi spesifik tetap UNKNOWN/OPEN QUESTION. Jangan menciptakan izin, penjaga, pemilik, atau otoritas untuk membenarkan akses.
 
 ### B. Jalur informasi Vellum & Iron Recovery — MYSTERY
 Perusahaan menyatakan menerima informasi dari pihak berkepentingan yang tidak disebutkan. Tidak ada bukti yang mengidentifikasi sumber atau menghubungkannya dengan perusahaan anonim Buku I.
