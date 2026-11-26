@@ -9,7 +9,7 @@
 
 Kesepakatan sementara itu bertahan selama dua hari.
 
-Selama waktu tersebut, pemeriksaan dilakukan dari batas yang telah ditentukan. Seraphine mencatat kondisi fasilitas, Tavian memperbarui peta area, dan perwakilan Vellum & Iron Recovery mengamati dokumentasi tanpa memasuki ruang dalam.
+Selama waktu tersebut, pemeriksaan dilakukan dari batas yang telah ditentukan. Seraphine mencatat kondisi fasilitas, Tavian memperbarui peta area, dan perwakilan perusahaan pemulihan peninggalan mengamati dokumentasi tanpa memasuki ruang dalam.
 
 Tidak ada benda yang dipindahkan.
 
@@ -133,7 +133,7 @@ Dan kali ini, mereka tidak sedang mengamati respons sistem dari jarak aman.
 
 ## Catatan tambahan Scene 14
 
-- Pengawas lapangan Vellum & Iron Recovery dan seorang pekerjanya mencoba mengambil kepingan yang sebelumnya telah didokumentasikan.
+- Pengawas lapangan perusahaan pemulihan peninggalan dan seorang pekerjanya mencoba mengambil kepingan yang sebelumnya telah didokumentasikan.
 - Tindakan tersebut melanggar pengaturan sementara yang melarang pemindahan benda.
 - Alasan mereka adalah memperoleh bukti fisik untuk menilai temuan dan mendukung kepentingan pemulihan perusahaan; tindakan ini tidak digambarkan sebagai rencana jahat yang sudah diketahui semua pihak.
 - Kepingan terangkat sedikit sebelum sistem merespons dengan cahaya, getaran, dan gerakan mekanis.
@@ -464,7 +464,7 @@ Untuk malam itu, itu sudah cukup.
 
 Pemeriksaan dihentikan setelah semua orang yang berada di dalam fasilitas berhasil dikeluarkan.
 
-Tidak ada yang mengusulkan untuk segera masuk kembali. Bahkan pihak Vellum & Iron Recovery, yang sebelumnya bersikeras membutuhkan akses, kini memilih menjaga jarak dari bukit. Pengawas lapangan yang memicu kejadian itu tidak lagi membicarakan pengambilan benda. Ia berdiri di dekat tempat singgah, memandang ke arah akses yang sebagian tertutup.
+Tidak ada yang mengusulkan untuk segera masuk kembali. Bahkan pihak perusahaan pemulihan peninggalan, yang sebelumnya bersikeras membutuhkan akses, kini memilih menjaga jarak dari bukit. Pengawas lapangan yang memicu kejadian itu tidak lagi membicarakan pengambilan benda. Ia berdiri di dekat tempat singgah, memandang ke arah akses yang sebagian tertutup.
 
 Orang yang terluka telah dibawa untuk mendapat perawatan. Kondisinya tidak mengancam nyawa, tetapi ia tidak dapat kembali bekerja dalam waktu dekat. Pengawas perusahaan mengakui bahwa tindakan timnya melanggar kesepakatan sementara.
 
@@ -482,7 +482,7 @@ Tavian berdiri di dekat penanda batas. Ia melihat bahwa beberapa bagian tanah di
 
 “Dan kita tidak akan mencoba membukanya sekarang,” jawab Seraphine.
 
-Wakil Vellum & Iron Recovery datang setelah menerima laporan. Ia memeriksa kondisi pekerjanya, mendengarkan penjelasan pengawas, lalu meminta agar kejadian itu dicatat dalam laporan bersama. Ia tidak menyangkal bahwa tindakan tersebut melanggar pengaturan yang telah disepakati.
+Wakil perusahaan pemulihan peninggalan datang setelah menerima laporan. Ia memeriksa kondisi pekerjanya, mendengarkan penjelasan pengawas, lalu meminta agar kejadian itu dicatat dalam laporan bersama. Ia tidak menyangkal bahwa tindakan tersebut melanggar pengaturan yang telah disepakati.
 
 “Kami tidak akan melakukan pemulihan lagi sampai ada pemeriksaan baru,” katanya.
 
@@ -559,7 +559,7 @@ Untuk saat ini, itu adalah satu-satunya keputusan yang dapat mereka pertanggungj
 ## Catatan tambahan Scene 17
 
 - Semua orang yang terjebak telah diselamatkan; satu orang mengalami cedera tetapi tidak dalam kondisi mengancam nyawa.
-- Vellum & Iron Recovery mengakui tindakan pengawas lapangannya melanggar kesepakatan sementara dan menghentikan upaya pemulihan.
+- Wakil perusahaan mengakui tindakan pengawas lapangannya melanggar kesepakatan sementara dan menghentikan upaya pemulihan.
 - Akses fasilitas ditutup dari kegiatan masuk sampai pemeriksaan keselamatan lebih lanjut.
 - Kesepakatan penjagaan baru mengatur pemantauan dari luar, dokumentasi perubahan, larangan pengambilan, dan penundaan akses.
 - Masa penjagaan berlangsung sampai pihak berwenang atas wilayah dapat meninjau kondisi situs dan dasar klaim.
