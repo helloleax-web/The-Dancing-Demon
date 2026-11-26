@@ -46,3 +46,22 @@ Concept sheet **diterima sebagai studi komposisi awal**, bukan sebagai thumbnail
 - File gambar belum masuk repository; review ini hanya mencatat hasil dan keputusan.
 
 **Dampak CANON: tidak ada.**
+
+
+## Audit percobaan thumbnail panel-per-panel — 2026-11-27
+
+Beberapa concept sheet otomatis yang mencoba memuat seluruh 25 panel telah ditinjau dan **DITOLAK** sebagai materi produksi. Kesalahan yang ditemukan:
+- memasukkan tanggal/periode sejarah yang tidak ada dalam naskah;
+- menampilkan atau mengisyaratkan adegan Great War;
+- menampilkan LEAX sebagai sosok/ilustrasi atau memberi entri katalog dengan detail tambahan;
+- menciptakan aturan akses, simbol, detail arsitektur, atau informasi institusi yang tidak didukung sumber;
+- mengubah blocking, jumlah panel, dan urutan beat dari storyboard teks.
+
+Gambar-gambar percobaan tersebut tidak menjadi referensi, tidak diunggah ke repository, dan tidak boleh dipakai untuk menetapkan CANON. Hanya concept sheet empat scene sebelumnya yang tetap tercatat sebagai studi komposisi kasar dengan catatan koreksi; itu pun bukan desain final.
+
+## Keputusan revisi metode
+
+Pembuatan thumbnail panel-per-panel tidak dilanjutkan dengan satu prompt yang meminta model menggambar seluruh 25 panel sekaligus. Metode itu terlalu sering mengarang detail. Tahap berikutnya harus mengunci satu scene/panel pada satu waktu berdasarkan deskripsi panel yang sudah ada, lalu melakukan pemeriksaan terhadap storyboard sebelum menerima hasil. Bila alat gambar tetap mengubah fakta, gunakan layout manual berbasis deskripsi panel dan biarkan ilustrasi final menunggu.
+
+**Status thumbnail panel-per-panel:** belum diterima.  
+**Dampak CANON:** tidak ada.
