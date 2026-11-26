@@ -1,15 +1,15 @@
 # Book IV — Manuscript Index
-## Draft 1.0 — Proofread Drafts Published
+## Draft 1.1 — Proofread Draft 0.2
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
-**Progress:** 20 scene prosa dalam empat bab. Line edit selesai; Proofread Draft 0.1 diterbitkan untuk keempat bab setelah pass pembacaan manual. Audit lintas bab dan persetujuan final masih tertunda.
+**Progress:** 20 scene prosa dalam empat bab. Line edit selesai; Proofread Draft 0.2 diterbitkan untuk keempat bab setelah pass pembacaan manual. Audit lintas bab dan persetujuan final masih tertunda.
 
 ## 1. Manuskrip aktif
 
-1. [Bab 1 — Jejak di Luar Fasilitas, Proofread Draft 0.1](Book-IV-Manuscript-Chapter-01-Proofread-Draft-0.1.md) — Scenes 1–5.
-2. [Bab 2 — Batu yang Tidak Terbaca, Proofread Draft 0.1](Book-IV-Manuscript-Chapter-02-Proofread-Draft-0.1.md) — Scenes 6–10.
-3. [Bab 3 — Nama yang Terlepas, Proofread Draft 0.1](Book-IV-Manuscript-Chapter-03-Proofread-Draft-0.1.md) — Scenes 11–15.
-4. [Bab 4 — Setelah Nama Ditemukan, Proofread Draft 0.1](Book-IV-Manuscript-Chapter-04-Proofread-Draft-0.1.md) — Scenes 16–20.
+1. [Bab 1 — Jejak di Luar Fasilitas, Proofread Draft 0.1](Book-IV-Manuscript-Chapter-01-Proofread-Draft-0.2.md) — Scenes 1–5.
+2. [Bab 2 — Batu yang Tidak Terbaca, Proofread Draft 0.1](Book-IV-Manuscript-Chapter-02-Proofread-Draft-0.2.md) — Scenes 6–10.
+3. [Bab 3 — Nama yang Terlepas, Proofread Draft 0.1](Book-IV-Manuscript-Chapter-03-Proofread-Draft-0.2.md) — Scenes 11–15.
+4. [Bab 4 — Setelah Nama Ditemukan, Proofread Draft 0.1](Book-IV-Manuscript-Chapter-04-Proofread-Draft-0.2.md) — Scenes 16–20.
 
 ## 2. Dokumen kontinuitas dan keputusan
 
@@ -31,7 +31,7 @@
 - Isi interpretasi adalah perspektif penafsir, bukan fakta objektif otomatis.
 - Hubungan asal-usul Northglass dengan naskah Prasasti I tetap UNKNOWN.
 
-## 4. OPEN QUESTION yang masih blocking
+## 4. OPEN QUESTION yang tetap terbuka
 
 - Jalur akses naratif telah ditetapkan sebagai keputusan pengembangan NON-CANON Opsi A: Jorren menyampaikan rujukan terbatas kepada penjaga kumpulan dokumen anonim, lalu kelompok memperoleh izin konsultasi terawasi di tempat. Lihat Access and Provenance Decision Brief Draft 0.2.
 - Identitas penjaga kumpulan dokumen, lokasi geografis, kepemilikan sah, dan kewenangannya.
@@ -45,9 +45,9 @@ Jangan menetapkan jawaban atas hal-hal tersebut sebagai CANON tanpa dasar atau k
 
 - [Storyboard Index Draft 0.4](Book-IV-Manga-Storyboard-Index-Draft-0.3.md).
 - [Storyboard Chapter 1 Revision Draft 0.3](Book-IV-Manga-Storyboard-Chapter-01-Revision-Draft-0.3.md).
-- [Storyboard Chapter 3 Revision Draft 0.3](Book-IV-Manga-Storyboard-Chapter-03-Revision-Draft-0.2.md).
-- [Storyboard Chapter 4 Revision Draft 0.3](Book-IV-Manga-Storyboard-Chapter-04-Revision-Draft-0.2.md).
-- [Storyboard Audit Report Draft 0.6](Book-IV-Manga-Storyboard-Audit-Report-Draft-0.3.md).
+- [Storyboard Chapter 3 Revision Draft 0.4](Book-IV-Manga-Storyboard-Chapter-03-Revision-Draft-0.2.md).
+- [Storyboard Chapter 4 Revision Draft 0.4](Book-IV-Manga-Storyboard-Chapter-04-Revision-Draft-0.2.md).
+- [Storyboard Audit Report Draft 0.7](Book-IV-Manga-Storyboard-Audit-Report-Draft-0.3.md).
 - Storyboard Bab 2 masih memakai Revision Draft 0.2 sebagai baseline.
 - Estimasi lama 74 halaman bersifat sementara; total panel 370 dari baseline lama tidak lagi dianggap terverifikasi.
 
