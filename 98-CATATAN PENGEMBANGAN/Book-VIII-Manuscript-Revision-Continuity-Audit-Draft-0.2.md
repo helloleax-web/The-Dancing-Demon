@@ -8,7 +8,7 @@
 
 **Status: LEBIH KUAT DARI FIRST-PASS; BELUM FINAL.**
 
-Revisi mempertahankan 20 scene dan lima bagian, dengan panjang sekitar 8.856 kata. Konflik lapangan kini memiliki konsekuensi yang lebih konkret. Keenam karakter mengambil tindakan yang memperlihatkan perkembangan, bukan hanya mengucapkan prinsip. Payoff judul lebih terhubung dengan pengalaman kelompok melihat informasi berubah ketika disalin dan ditafsirkan.
+Revisi mempertahankan 20 scene dan lima bagian, dengan panjang sekitar 9.072 kata. Konflik lapangan kini memiliki konsekuensi yang lebih konkret. Keenam karakter mengambil tindakan yang memperlihatkan perkembangan, bukan hanya mengucapkan prinsip. Payoff judul lebih terhubung dengan pengalaman kelompok melihat informasi berubah ketika disalin dan ditafsirkan.
 
 ## 2. Transisi Book VII ke Book VIII
 
@@ -87,8 +87,8 @@ Catatan kontinuitas: Lysa kini diperkenalkan sebagai utusan dan penghubung warga
 4. Lysa dan Bram masih berfungsi terutama sebagai penghubung konflik; jika dipertahankan, beri motivasi praktis yang konsisten dan jangan memperluas latar belakang mereka tanpa kebutuhan.
 5. Cedera Daren harus konsisten dengan adegan setelahnya; jangan membuatnya pulih seketika atau menghilang dari gerak tubuh.
 6. Sebagian persediaan rusak disebutkan di bagian akhir, tetapi pembaca belum melihat skala dan akibatnya. Revisi berikutnya dapat memberi satu adegan singkat tentang keputusan warga terhadap barang yang rusak.
-7. Penutup menyelesaikan konflik lokal dan payoff judul, tetapi status masa depan kelompok masih terbuka. Pastikan penutup terasa sebagai akhir seri, bukan sekadar akhir ekspedisi.
+7. Penutup kini memberi keputusan bersama yang konkret: keenam karakter menerima pekerjaan survei biasa dengan kebutuhan, syarat, dan upah yang jelas. Ini menutup seri dengan kembali ke premis petualangan dan pekerjaan, bukan cliffhanger misteri. Hubungan masa depan mereka tidak dikunci lebih jauh daripada pilihan untuk mengambil pekerjaan tersebut bersama.
 
 ## 9. Kesimpulan
 
-Draft 0.2 merupakan peningkatan substantif atas first-pass: keputusan Tavian lebih berbiaya, kesalahan Seraphine dan Ilyra terlihat, Kael kehilangan peluang, Mira melakukan negosiasi yang dapat diuji, dan Daren harus menerima bantuan. Naskah belum layak disebut final sebelum audit lintas delapan buku, revisi ritme adegan tengah, dan line edit.
+Draft 0.2 merupakan peningkatan substantif atas first-pass: keputusan Tavian lebih berbiaya, kesalahan Seraphine dan Ilyra terlihat, Kael kehilangan peluang, Mira melakukan negosiasi yang dapat diuji, Daren harus menerima bantuan, dan penutup mengembalikan kelompok pada pekerjaan nyata. Naskah belum layak disebut final sebelum audit lintas delapan buku, revisi ritme adegan tengah, dan line edit.
