@@ -135,3 +135,20 @@ Tujuh panel disusun sesuai storyboard teks:
 
 **Status Scene 2:** layout manual selesai; perlu review komposisi sebelum diterima.  
 **Dampak CANON:** tidak ada.
+
+
+## Layout manual Scene 3 — 2026-11-27
+
+Layout thumbnail manual Scene 3 dibuat sebagai delapan panel komposisi, mengikuti storyboard teks 3.1–3.8. Layout ini menggunakan blok abstrak untuk ruang, meja, dokumen, dan figur; tidak menetapkan desain arsitektur atau karakter.
+
+Pemeriksaan batas isi:
+- Balai digambarkan sebagai bangunan luas tetapi sederhana; tidak diarahkan menjadi istana, benteng, atau kuil.
+- Hierarki akses ditunjukkan melalui meja penerimaan, rak salinan umum, dan pintu penyimpanan yang dijaga.
+- Neral tetap placeholder tanpa detail wajah atau atribut visual final.
+- Katalog tidak menampilkan nama, alamat, atau data penyumbang yang direka.
+- Aktivitas ruang baca mengikuti figur latar yang disebut dalam naskah.
+- Panel terakhir mengarah ke meja kerja Tavian untuk transisi Scene 4.
+
+**Status:** layout manual Scene 3 Draft 0.1 selesai; menunggu review komposisi.  
+**Aset PNG:** dibuat dalam sesi kerja; belum disimpan sebagai file biner di repository.  
+**Dampak CANON:** tidak ada.
