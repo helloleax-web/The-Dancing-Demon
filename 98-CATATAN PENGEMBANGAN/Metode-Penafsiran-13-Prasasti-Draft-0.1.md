@@ -1,4 +1,4 @@
-# Metode Penafsiran Tiga Belas Prasasti — Draft 0.1
+# Metode Penafsiran Tiga Belas Prasasti — Draft 0.2
 
 **Status: CANON — ketentuan penyajian dan dokumentasi**
 
@@ -76,7 +76,7 @@ Susunan ini merupakan kerangka, bukan alasan untuk memotong pembahasan. Jika sat
 
 ## 8. Status dan batas CANON
 
-Pedoman ini berstatus **NON-CANON** dan merupakan standar kerja untuk menyusun dokumen penafsiran 13 Prasasti. Pedoman ini tidak menetapkan:
+Pedoman ini berstatus **CANON sebagai standar metode penulisan dan dokumentasi in-world**. Status tersebut mengikat cara naskah interpretasi disusun dan batas pengetahuan penafsir; status ini tidak mengesahkan kebenaran objektif tafsir yang ditulis. Pedoman ini tidak menetapkan:
 
 - Makna objektif dari lagu mana pun.
 - Isi atau makna Prasasti II sampai XIII.
@@ -85,11 +85,11 @@ Pedoman ini berstatus **NON-CANON** dan merupakan standar kerja untuk menyusun d
 - Identitas lengkap dan riwayat penafsir.
 - Kebenaran teori atau kesimpulan yang ditulis oleh penafsir.
 
-Setiap dokumen penafsiran tetap merupakan catatan perspektif seorang keturunan LEAX di Avarra, bukan penjelasan final dari dunia cerita.
+Setiap dokumen penafsiran tetap merupakan catatan perspektif seorang keturunan LEAX di Avarra, bukan penjelasan final dari dunia cerita. Bagian 9 tentang rekaman bunyi merupakan bagian dari standar dokumentasi yang sama.
 
 ---
 
-**Penerapan:** Metode ini menjadi acuan untuk penafsiran Prasasti II hingga Prasasti XIII. Dokumen Prasasti I tetap menjadi contoh penerapan awal. Seluruh tafsir dan isi baru tetap NON-CANON sampai ada keputusan terpisah dari pemilik cerita.
+**Penerapan:** Metode ini menjadi acuan untuk penafsiran Prasasti II hingga Prasasti XIII. Dokumen Prasasti I tetap menjadi contoh penerapan awal. Metode penyajian dan batas pengetahuan dalam pedoman ini berstatus CANON. Isi tafsir baru, dugaan penafsir, identitas pribadi penafsir, dan fakta objektif yang tidak ditetapkan sumber tetap tunduk pada status masing-masing dan tidak otomatis menjadi CANON.
 
 
 ## 9. Rekaman bunyi sebagai bagian dari setiap Prasasti
