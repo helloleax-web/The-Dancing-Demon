@@ -14,7 +14,7 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 | Buku | Status | Catatan |
 |---|---|---|
 | I — Jalur yang Terlupakan | DALAM REVISI | Keenam bab telah melalui line edit awal (Bab 1 Draft 0.2; Bab 2–6 Draft 0.3). Audit line edit enam bab Draft 0.2 dan indeks manuskrip Draft 1.3 tersedia. Sinkronisasi panel-per-panel, line edit terpadu, proofreading, roster pendukung, dan audit kontinuitas final masih tertunda. |
-| II — Dunia di Luar Peta | DALAM REVISI | Bab 1–5 telah direvisi menjadi Draft 0.2; Bab 6 memiliki revisi 0.2. Audit transisi Book I–II, arc Bellwether, dan arc Rookbridge tersedia. Line edit terpadu, audit geografi/kronologi penuh, storyboard, dan proofreading belum selesai. |
+| II — Dunia di Luar Peta | DALAM REVISI | Bab 1–5 telah direvisi menjadi Draft 0.2; Bab 6 memiliki revisi 0.2. Audit transisi Book I–II, arc Bellwether, arc Rookbridge, dan audit kontinuitas terpadu 20 scene tersedia. Line edit terpadu, audit geografi/kronologi rinci, storyboard, proofreading, dan transisi Book II–III belum selesai. |
 | III — Sisa-Sisa yang Tertinggal | BELUM DIKERJAKAN | Perlu audit seluruh enam chapter dan pengenalan Ilyra. |
 | IV — Prasasti Pertama | BELUM DIKERJAKAN | Perlu memilih versi chapter aktif berdasarkan riwayat dan mengaudit interpretasi prasasti. |
 | V — Perang yang Tertinggal | BELUM DIKERJAKAN | Perlu membandingkan draft dan revisi yang tersedia serta audit sejarah/konsekuensi. |
@@ -76,6 +76,9 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 50. Merevisi Book II Chapter 4 menjadi Draft 0.2 dengan batas kewenangan dan keselamatan Rookbridge yang lebih jelas.
 51. Merevisi Book II Chapter 5 menjadi Draft 0.2 dengan urutan keadaan darurat, izin lahan, dan konsekuensi survei yang diperjelas.
 52. Membuat audit arc Rookbridge Draft 0.1 dan memperbarui indeks Book II menjadi Draft 0.6.
+53. Memperbarui Character Knowledge Matrix Book II menjadi Draft 0.2 sesuai prosa aktif.
+54. Membuat Unified Continuity Audit Book II Draft 0.1 untuk seluruh 20 scene.
+55. Menerbitkan indeks manuskrip Book II Draft 0.7.
 
 ## Temuan yang harus dibawa ke tahap berikutnya
 
@@ -109,6 +112,7 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 ### Book II–VIII
 - [x] Selaraskan pembukaan Book II dengan akhir Book I dan catat dalam audit transisi Draft 0.1.
 - [x] Revisi awal Bab 1–5 dan audit arc Bellwether serta Rookbridge.
+- [x] Lakukan audit kontinuitas awal seluruh 20 scene dan perbarui Character Knowledge Matrix.
 - [ ] Lakukan line edit terpadu enam bab.
 - [ ] Audit geografi, kronologi, kontrak, dan arc karakter Book II.
 - [ ] Audit dan revisi seluruh chapter.
@@ -141,4 +145,5 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 - 2026-11-26: indeks storyboard Book I diperbarui menjadi Draft 0.2 dan indeks manuskrip menjadi Draft 1.3. Status Book I tetap DALAM REVISI.
 - 2026-11-26: Book II Chapter 1 direvisi menjadi Draft 0.2; audit transisi Book I–II Draft 0.1 dan indeks Book II Draft 0.4 diterbitkan.
 - 2026-11-26: Book II Chapters 2–3 direvisi menjadi Draft 0.2; audit arc Bellwether Draft 0.1 dan indeks Book II Draft 0.5 diterbitkan.
-- 2026-11-26: Book II Chapters 4–5 direvisi menjadi Draft 0.2; audit arc Rookbridge Draft 0.1 dan indeks Book II Draft 0.6 diterbitkan. Status Book II tetap DALAM REVISI.
+- 2026-11-26: Book II Chapters 4–5 direvisi menjadi Draft 0.2; audit arc Rookbridge Draft 0.1 dan indeks Book II Draft 0.6 diterbitkan.
+- 2026-11-26: Character Knowledge Matrix Book II Draft 0.2, Unified Continuity Audit Draft 0.1, dan indeks Book II Draft 0.7 diterbitkan. Status Book II tetap DALAM REVISI.
