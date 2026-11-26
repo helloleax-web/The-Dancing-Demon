@@ -1,9 +1,9 @@
 # Book IV — Prasasti Pertama
 ## Bab 1: Jejak di Luar Fasilitas
-### Revision Draft 0.2 — Scenes 1–5
+### Canonical Text — Chapter 1, Scenes 1–5
 
-**Status: CATATAN PENGEMBANGAN / NON-CANON.**  
-**Fungsi:** manuskrip kerja Buku IV berdasarkan Book IV Scene Outline Draft 0.1. Semua detail baru tetap keputusan cerita draft.
+**Status: CANON — disahkan kreator.**  
+**Fungsi:** teks naratif resmi Book IV Chapter 1, Scenes 1–5. Ketidakpastian yang dinyatakan di dalam teks tetap menjadi UNKNOWN/MYSTERY dan tidak boleh diisi tanpa keputusan kreator.
 
 ### Scene 1 — Rujukan yang Terpotong
 
@@ -201,6 +201,13 @@ Mereka harus memastikan bahwa penemuan tersebut tidak dimulai dengan merusak ben
 - Kelompok tidak melakukan penggalian, pembersihan agresif, atau pemindahan.
 - Ilyra hanya memiliki deskripsi yang terpotong dan belum mengetahui isi batu.
 - Tidak ada nama NVR AGAIN yang muncul pada bagian ini.
-- Semua detail Jorren, akses situs, dan Jalan Northglass tetap NON-CANON.
-- Revision 0.2 memperjelas bahwa izin penjaga jalur memiliki cakupan terbatas dan tidak otomatis mewakili seluruh kepentingan lokal.
+- Jorren Hale, akses terbatas melalui jalur yang ia jaga, konteks lokal batu, dan wilayah Jalan Northglass ditetapkan sebagai fakta cerita CANON dalam cakupan adegan ini.
+- Izin Jorren hanya berlaku pada jalur yang ia jaga dan tidak otomatis mewakili seluruh kepentingan lokal.
 - Catatan pencarian membedakan indeks Hollow Vale, objek fisik yang dicari, dan naskah interpretasi Prasasti I; hubungan di antaranya tidak ditetapkan.
+ 
+
+## Pengesahan CANON
+- Scenes 1–5 dalam dokumen ini ditetapkan sebagai teks naratif resmi Book IV Chapter 1.
+- Fakta kejadian, dialog, dan batas tindakan yang dinyatakan eksplisit menjadi CANON.
+- Hal yang tetap tidak diketahui—termasuk identitas pasti batu, pembuatnya, isi guratan, lokasi rinci, dan hubungan indeks Hollow Vale dengan Prasasti I—tetap UNKNOWN/MYSTERY.
+- Arahan panel, komposisi, lettering, dan visual storyboard bukan bagian dari pengesahan ini; semuanya tetap materi adaptasi.
