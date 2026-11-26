@@ -1,7 +1,7 @@
 # Book IV — Manga Storyboard Index — Draft 0.8
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.
-**Pembaruan:** Bab 1–2 disinkronkan dengan manuskrip revision 0.2; estimasi 74 halaman masih provisional; total 370 panel tidak terverifikasi.  
+**Pembaruan:** storyboard Bab 1–4 diperbarui untuk page rhythm dan batas sumber; target 74 halaman dengan 370 beat panel tertulis. Jumlah panel visual final belum dikunci.  
 **Format target:** manga hitam-putih, pembacaan kanan-ke-kiri.  
 **Cakupan:** 20 scene dalam empat bab.
 
@@ -70,13 +70,13 @@
 - [Chapter 4 — Revision Draft 0.4](Book-IV-Manga-Storyboard-Chapter-04-Revision-Draft-0.2.md) — Scenes 16–20; dokumentasi Northglass dipisahkan dari catatan konsultasi Prasasti I; tidak ada salinan materi sumber yang dibuat atau dibawa.
 - Storyboard lama Draft 0.1 diarsipkan sebagai baseline yang tidak lagi sinkron.
 - Storyboard Bab 1 telah dikoreksi pada Revision Draft 0.3; Bab 2 Revision Draft 0.2 tetap menjadi baseline aktif.
-- Estimasi 74 halaman / 370 panel adalah baseline lama. Jumlah akhir harus dihitung ulang setelah thumbnail dan page-rhythm review.
+- Target 74 halaman / 370 beat panel dipertahankan pada peta ritme; panel visual final belum terkunci.
 
 
 ## Audit silang empat bab
 - [Book IV Manga Storyboard Audit Report — Draft 1.1](Book-IV-Manga-Storyboard-Audit-Report-Draft-0.3.md)
 - Keempat storyboard telah diperiksa terhadap manuskrip aktif.
-- Estimasi 74 halaman masih bersifat kerja; total panel 370 dari baseline lama tidak lagi dianggap terverifikasi.
+- Estimasi 74 halaman masih bersifat kerja; 370 adalah jumlah beat panel tertulis dan target distribusi page-rhythm, bukan panel visual final.
 
 
 ## Status page rhythm — Draft 0.1
