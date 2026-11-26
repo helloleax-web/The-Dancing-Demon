@@ -277,7 +277,7 @@ Dokumen ini menggabungkan storyboard dasar dan koreksi sinkronisasi. Bagian stor
 
 ### Halaman 1–6 — Ruang kecil
 - Tavian membandingkan sketsa awal dengan foto hari pertama; celah baru terlihat karena rak miring sebelumnya menutup pandangan.
-- Daren memeriksa kestabilan dari jarak aman. Tidak ada yang menggeser rak atau membersihkan material berat.
+- Daren memeriksa kestabilan dari jarak aman. Tidak ada yang menggeser rak, membersihkan debu, menyentuh wadah, atau memindahkan material.
 - Dokumentasi dimulai dari luar; Tavian dan Seraphine masuk bergantian hanya melalui celah yang sudah terbuka dan setelah pemeriksaan risiko.
 - Ruang kecil berisi wadah pipih dan bidang penyimpanan berdebu. Tidak ada pintu aktif, cahaya, atau suara.
 - Ilyra menyalin posisi dan bentuk tanda, bukan menerjemahkan atau memastikan fungsi ruang.
@@ -291,7 +291,14 @@ Dokumen ini menggabungkan storyboard dasar dan koreksi sinkronisasi. Bagian stor
 - Ilyra membiarkan bagian kosong tanpa rekonstruksi spekulatif.
 
 ### Halaman 11–16 — Kesepakatan dokumentasi
-- Pertemuan berlangsung dengan pihak yang masih berada di Hollow Vale.
+- Pertemuan berlangsung di luar bagian struktur yang sedang diperiksa, dengan pihak-pihak yang masih berada di Hollow Vale. Jangan menggambar batas legal situs, gerbang, atau tanda bahwa semua pihak memiliki otoritas atas lokasi.
+- Seraphine menyatakan kesepakatan bukan perjanjian kepemilikan; hanya mengatur dokumentasi dan salinan.
+- Peta kondisi membedakan area diamati, tertutup, dan belum dinilai.
+- Salinan mencantumkan sumber, metode, tanggal, kondisi, dan tingkat kepastian.
+- Catatan rute lokal Mira tidak masuk paket salinan fasilitas.
+- Vellum & Iron menerima daftar kondisi yang disepakati, bukan hak mengambil; pemeriksaan lanjutan memerlukan pembahasan terpisah.
+- **Halaman 14, Panel 3–4:** ganti dialog tentang bayaran/hak akses dengan dialog yang sesuai prosa: Kael bertanya bagaimana jika pihak lain meminta salinan di luar daftar; Seraphine menjawab bahwa permintaan dicatat, lalu diperiksa siapa yang berhak menyetujui, dan tidak ada salinan dikirim hanya karena peminta menawarkan sesuatu.
+- Jangan menggambar penandatanganan, pengalihan hak, atau izin akses permanen.
 - Seraphine menyatakan kesepakatan bukan perjanjian kepemilikan; hanya mengatur dokumentasi dan salinan.
 - Peta kondisi membedakan area diamati, tertutup, dan belum dinilai.
 - Salinan mencantumkan sumber, metode, tanggal, kondisi, dan tingkat kepastian.
