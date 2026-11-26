@@ -101,7 +101,7 @@ Identitas, isi, lokasi, dan hubungan dengan sumber lain belum diketahui. Jangan 
 - [ ] Uji thumbnail, ritme, lettering, dan layout manga.
 - [ ] Persetujuan kreator atas versi Buku III.
 
-**Kesimpulan:** keenam bab memiliki Proofread Draft 0.4 dan telah dibaca berurutan setelah keputusan kreator B. Jalur cerita akses tanpa izin terkonfirmasi telah dipilih dan diterapkan; status legal situs serta kewenangan tetap UNKNOWN/OPEN QUESTION. Buku III belum final karena final micro-proofread, audit sumber CANON/transisi Buku IV, panel-by-panel storyboard cross-check, dan persetujuan kreator masih diperlukan.
+**Kesimpulan:** keenam bab memiliki Proofread Draft 0.4 dan telah dibaca berurutan setelah keputusan kreator B. Jalur cerita akses tanpa izin terkonfirmasi telah dipilih dan diterapkan; status legal situs serta kewenangan tetap UNKNOWN/OPEN QUESTION. Buku III belum final karena final micro-proofread, audit akhir sumber CANON/transisi Buku IV, thumbnail, lettering/layout, dan persetujuan kreator masih diperlukan.
 
 **Dampak CANON: tidak ada.**
 
@@ -122,7 +122,7 @@ Jalur cerita dipilih: kelompok secara sadar melakukan pemeriksaan tanpa izin ter
 - Rujukan ke batu bertulis tetap tidak diidentifikasi sebagai Prasasti tertentu. NVR AGAIN tetap tidak muncul di Buku III dan baru muncul pada transliterasi Buku IV Scene 14.
 - Kehadiran organisasi lain di Hollow Vale tidak dianggap bukti kewenangan atau izin mereka; status masing-masing pihak tidak ditetapkan.
 
-**Status:** pass proofreading awal dan read-through berurutan selesai. Final micro-proofread, audit canon-source dan Book IV transition, storyboard panel-by-panel cross-check, thumbnail, lettering/layout, serta persetujuan kreator masih terbuka.
+**Status:** pass proofreading awal dan read-through berurutan selesai. Final micro-proofread, audit akhir canon-source/transisi Buku IV, thumbnail, uji ritme, lettering/layout, serta persetujuan kreator masih terbuka.
 
 
 ## 10. Addendum — audit storyboard teks/panel
