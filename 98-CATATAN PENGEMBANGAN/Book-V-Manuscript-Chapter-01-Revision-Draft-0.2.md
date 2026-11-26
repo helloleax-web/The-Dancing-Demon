@@ -186,6 +186,8 @@ Pria itu memperkenalkan diri sebagai Neral Voss.
 
 “Saya mengatur akses koleksi dan pencatatan salinan,” katanya. “Saya bukan penafsir semua dokumen di sini, jadi kalau kalian mencari jawaban sejarah, saya hanya bisa menunjukkan sumber yang tersedia.”
 
+“Itu cukup,” jawab Seraphine. “Kami tidak datang untuk meminta satu kesimpulan.”
+
 Sebelum membawa mereka ke meja, Neral menghentikan seorang pengunjung yang hendak memotret halaman katalog. Ia menjelaskan bahwa beberapa entri memuat nama penyumbang dan alamat penyimpanan pribadi. Pengunjung itu keberatan karena menganggap katalog sebagai daftar umum, tetapi Neral tidak mengubah aturan.
 
 “Kalau nama penyumbang tersebar, orang bisa mendatangi rumah mereka untuk meminta dokumen,” katanya setelah pengunjung itu pergi. “Ada yang menyerahkan salinan karena percaya informasi asalnya tidak akan dipakai untuk mencari sumber pribadi.”
@@ -195,8 +197,6 @@ Kael memperhatikan cara Neral menutup buku katalog. “Jadi, akses informasi jug
 “Batasnya tertulis,” jawab Neral. “Hanya saja tidak semua orang mau membacanya.”
 
 Ia tidak menjelaskan lebih jauh siapa penyumbang yang dimaksud. Seraphine pun tidak bertanya. Mereka belum memiliki alasan atau izin untuk mengetahui identitas tersebut.
-
-“Itu cukup,” jawab Seraphine. “Kami tidak datang untuk meminta satu kesimpulan.”
 
 Neral mengarahkan mereka ke meja panjang. Ia menjelaskan bahwa koleksi Balai dibagi berdasarkan asal, jenis dokumen, dan jalur penyimpanan. Ada salinan catatan administratif, ringkasan laporan wilayah, daftar nama, serta dokumen yang diserahkan oleh keluarga atau kelompok penelitian.
 
