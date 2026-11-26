@@ -1,4 +1,4 @@
-# Book IV — Character Knowledge and Continuity Matrix — Draft 0.2
+# Book IV — Character Knowledge and Continuity Matrix — Draft 0.3
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Basis:** Book IV Scene Outline Draft 0.2, four-chapter manuscript, CANON Thirteen Prasasti, and Great War & Resonansi Hitam.
@@ -11,7 +11,7 @@
 - Bedakan pengamatan fisik, salinan tanda, transliterasi, interpretasi, dan spekulasi.
 - Pengetahuan masyarakat tentang batu bertulis tidak otomatis sama dengan pengetahuan peneliti.
 - Tidak ada karakter yang mengetahui isi Prasasti lain hanya karena penemuan pertama.
-- Bentuk fisik Prasasti dan hubungan batu Northglass dengan naskah interpretasi keturunan LEAX tetap OPEN QUESTION.
+- Model kerja draft: batu Northglass adalah artefak fisik bertulis yang berkaitan dengan penemuan Prasasti I, bukan naskah interpretasi keturunan LEAX itu sendiri. Hubungan sumber/indeks/rekaman antara keduanya tetap tidak diketahui.
 
 ## 2. Matriks pengetahuan per tahap
 
@@ -30,7 +30,7 @@
 - Apakah NVR AGAIN merupakan judul, nama, atau bentuk penamaan lain pada sumber asli.
 - Siapa pembuat Prasasti pertama.
 - Apa isi bagian prasasti yang rusak.
-- Hubungan antara batu fisik Northglass dan bentuk naskah interpretasi keturunan LEAX.
+- Hubungan asal-usul atau mekanisme informasi antara objek Northglass dan naskah interpretasi Prasasti I.
 - Hubungan NVR AGAIN dengan musik yang terdengar selama Great War.
 - Hubungan Prasasti pertama dengan Prasasti lainnya.
 - Hubungan Prasasti dengan LEAX.
@@ -45,7 +45,7 @@
 - [x] Tidak ada karakter yang menghubungkan NVR AGAIN dengan LEAX.
 - [x] Batu bertulis tidak disamakan dengan fasilitas Hollow Vale.
 - [x] Penemuan pertama tidak otomatis mengungkap isi Prasasti lain.
-- [x] Hubungan medium fisik dengan naskah interpretasi CANON tetap ditandai OPEN QUESTION.
+- [x] Objek Northglass tidak disamakan dengan naskah interpretasi Prasasti I; hubungan tepatnya tetap tidak diketahui.
 
 ## 5. Jendela pengetahuan setelah Scene 20
 
@@ -54,4 +54,4 @@
 - Referen dan makna nama tetap UNKNOWN bagi karakter.
 - Tidak ada pengetahuan baru tentang LEAX.
 
-**Dampak CANON: tidak ada.**
+**Model medium Northglass: keputusan pengembangan NON-CANON. Dampak CANON: tidak ada.**
