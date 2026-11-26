@@ -25,6 +25,7 @@ Buku V mengubah penemuan nama NVR AGAIN menjadi penyelidikan sejarah. Kelompok t
 - Jubah tersebut memberikan pertahanan luar biasa serta regenerasi HP dan MP secara berkelanjutan.
 - Peristiwa tersebut dikenal dalam catatan sejarah dengan nama lain, yaitu **Resonansi Hitam**.
 - LEAX menghilang setelah Great War; penyebab dan keadaan hilangnya tetap UNKNOWN.
+- LEAX menghilang setelah Great War; penyebab dan keadaan hilangnya tetap UNKNOWN.
 
 ## 3. Batas UNKNOWN yang harus dijaga
 
@@ -134,6 +135,7 @@ Kelompok menerbitkan rekonstruksi terbatas. NVR AGAIN kini dapat ditempatkan dal
 **Scene 9 — Catatan Jubah**
 - Dalam koleksi berbeda, kelompok menemukan catatan tentang jubah mana hitam.
 - Sebuah catatan katalog mengaitkan jubah tersebut dengan sekutu LEAX, sesuai fakta CANON; sumber tidak memberi nama, jumlah, atau rincian perolehan.
+- Sebuah catatan katalog mengaitkan jubah tersebut dengan sekutu LEAX, sesuai fakta CANON; sumber tidak memberi nama, jumlah, atau rincian perolehan.
 - Deskripsi menyebut pertahanan luar biasa dan regenerasi HP serta MP secara berkelanjutan.
 - Tidak ada penjelasan tentang cara kerja atau asal jubah.
 - **Fungsi:** memperkenalkan fakta CANON melalui sumber sejarah.
@@ -199,6 +201,7 @@ Kelompok menerbitkan rekonstruksi terbatas. NVR AGAIN kini dapat ditempatkan dal
 **Scene 19 — Laporan Terbatas**
 - Kelompok menerbitkan rekonstruksi dengan sumber, perbedaan, dan tingkat kepastian.
 - Laporan mencatat secara terbatas bahwa LEAX menghilang setelah Great War; sumber yang tersedia tidak menjelaskan sebab atau keadaannya.
+- Laporan mencatat secara terbatas bahwa LEAX menghilang setelah Great War; sumber yang tersedia tidak menjelaskan sebab atau keadaannya.
 - Laporan menyatakan bahwa NVR AGAIN adalah nama musik yang terdengar selama Great War, sesuai hasil pencocokan Prasasti dan sumber sejarah.
 - Catatan jubah mana hitam dan istilah Resonansi Hitam disertakan tanpa penjelasan mekanisme atau cakupan yang belum terbukti.
 - **Fungsi:** memberi hasil konkret dari penelitian.
@@ -212,12 +215,14 @@ Kelompok menerbitkan rekonstruksi terbatas. NVR AGAIN kini dapat ditempatkan dal
 **Scene 21 — Hal yang Tidak Terjawab**
 - Kelompok meninjau kembali daftar UNKNOWN.
 - Mereka mencatat bahwa LEAX menghilang setelah Great War, tetapi tidak menemukan dasar untuk menjelaskan kapan secara rinci, di mana, bagaimana, atau mengapa.
+- Mereka mencatat bahwa LEAX menghilang setelah Great War, tetapi tidak menemukan dasar untuk menjelaskan kapan secara rinci, di mana, bagaimana, atau mengapa.
 - Penyebab perang, pihak-pihak, kronologi rinci, asal musik, mekanisme jubah, dan cakupan Resonansi Hitam tetap terbuka.
 - Fakta hilangnya LEAX setelah Great War dicatat tanpa menambahkan sebab, lokasi, tindakan, motif, atau keadaan.
 - **Fungsi:** menutup buku dengan batas pengetahuan yang jujur.
 
 **Scene 22 — Dunia Setelah Perang**
 - Kelompok meninggalkan Orlenn dengan laporan yang dapat diperiksa.
+- Pertanyaan tentang keadaan LEAX tetap terbuka dan tidak menjadi petunjuk sebab baru.
 - Pertanyaan tentang keadaan LEAX tetap terbuka dan tidak menjadi cliffhanger atau petunjuk sebab baru.
 - Mereka melihat bahwa tradisi, institusi, dan keputusan masyarakat masa kini masih membawa akibat sejarah.
 - Sebuah laporan tentang fenomena yang tidak biasa di wilayah lain menjadi petunjuk umum menuju penyelidikan Buku VI, tanpa menjelaskan entitas kosmik.
