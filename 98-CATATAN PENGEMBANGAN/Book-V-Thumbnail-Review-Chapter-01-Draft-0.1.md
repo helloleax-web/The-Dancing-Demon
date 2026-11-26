@@ -204,3 +204,11 @@ Draft 0.1 tidak dipakai sebagai acuan staging yang diterima. Revisi manual Draft
 **Status Scene 1:** layout staging manual 5/5 panel telah direview; thumbnail ilustratif dan ilustrasi final belum dibuat. Semua materi NON-CANON.
 
 **Dampak CANON: tidak ada.**
+
+
+## Scene 1 — Panel 1.3 thumbnail — 2026-11-27
+
+- [Panel 1.3 Thumbnail Draft 0.1](Book-V-Scene-01-Panel-1-3-Thumbnail-Draft-0.1.md) — studi komposisi manual medium group, diskusi sambil berjalan.
+- Enam anggota rombongan dipertahankan; Tavian memeriksa lembar, Kael berkomentar, Ilyra menjelaskan batas pembacaan, dan Seraphine sedikit di depan memeriksa daftar dokumen.
+- Mira dan Daren tetap hadir sebagai anggota rombongan tanpa diberi aksi baru.
+- Layout diterima untuk staging; figur dan latar tetap abstrak. Bukan ilustrasi final. NON-CANON; dampak CANON nihil.
