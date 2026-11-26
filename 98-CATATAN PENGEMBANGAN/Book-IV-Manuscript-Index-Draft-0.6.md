@@ -44,7 +44,7 @@ Hal-hal tersebut tidak boleh disajikan sebagai CANON tanpa keputusan kreator.
 
 ## 5. Produksi manga
 
-- [Storyboard Index Draft 0.3](Book-IV-Manga-Storyboard-Index-Draft-0.3.md).
+- [Storyboard Index Draft 0.3](Book-IV-Manga-Storyboard-Index-Draft-0.3.md).\n- [Storyboard Audit Report Draft 0.3](Book-IV-Manga-Storyboard-Audit-Report-Draft-0.3.md) — cross-check empat bab terhadap manuskrip aktif.
 - [Storyboard Chapter 3 Revision Draft 0.2](Book-IV-Manga-Storyboard-Chapter-03-Revision-Draft-0.2.md).
 - [Storyboard Chapter 4 Revision Draft 0.2](Book-IV-Manga-Storyboard-Chapter-04-Revision-Draft-0.2.md).
 - Storyboard Bab 1–2 belum disinkronkan dalam pass mekanisme B.
