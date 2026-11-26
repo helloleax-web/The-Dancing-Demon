@@ -1,7 +1,7 @@
 # Book V — Manuscript Index — Draft 0.4
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
-**Progress:** 22 scene; seluruh lima bab telah memiliki pass revisi 0.3 atau lebih baru. Line edit dialog Bab 1–2 dan Bab 4 Scenes 14–18 telah dilakukan; Bab 3 Scenes 9–13 menerima revisi ritme terarah. Bab 5 Scenes 19–22 telah menerima line edit terarah; seluruh lima bab kini siap untuk proofreading dan audit lintas bab.  
+**Progress:** 22 scene; seluruh lima bab telah memiliki pass revisi 0.3 atau lebih baru. Line edit dialog Bab 1–2 dan Bab 4 Scenes 14–18 telah dilakukan; Bab 3 Scenes 9–13 menerima revisi ritme terarah. Bab 5 Scenes 19–22 telah menerima line edit terarah; audit editorial lintas lima bab selesai dan manuskrip siap masuk proofreading akhir.  
 **Jumlah kata:** 11.487 kata termasuk judul, metadata, dan catatan tambahan; dihitung ulang setelah revision pass 0.3.
 
 ## Struktur bab
@@ -54,7 +54,8 @@
 20. Line edit Bab 1–2 memperjelas perbedaan fungsi Tavian, Seraphine, Ilyra, Mira, dan Sava.
 21. Line edit Bab 4 Scenes 14–18 memperjelas peran Kael dalam membaca risiko distribusi informasi, Seraphine dalam keputusan prosedural, Tavian dalam penelusuran katalog, Ilyra dalam pembacaan konteks kutipan, dan Sava dalam sejarah lisan.
 22. Line edit Bab 5 Scenes 19–22 mengurangi repetisi aforisme, memperjelas rantai asal kutipan, dan mengikat penutup pada penanda rute yang ditemukan selama perjalanan.
-23. Tahap berikutnya adalah proofreading serta audit lintas bab untuk kontinuitas, repetisi, dan transisi menuju Book VI.
+23. Audit editorial lintas lima bab selesai: tidak ditemukan benturan besar dengan CANON; struktur 22 scene dan diferensiasi karakter dinilai konsisten. Jembatan Scene 22 menuju permintaan pemeriksaan Harrowfen di Book VI dapat diperjelas dengan satu kalimat opsional.
+24. Tahap berikutnya adalah proofreading akhir, termasuk konsistensi istilah, tanda baca, repetisi mikro, dan ritme dialog.
 
 ## Status utama
 
@@ -92,3 +93,12 @@
 - Scene 22: penutup mengikat kembali penanda rute dan tema konteks catatan ke perjalanan kelompok.
 - Tidak ada perubahan CANON; laporan fenomena tetap petunjuk belum diverifikasi.
 - Jumlah kata terbaru: **11.487 kata** termasuk judul, metadata, dan catatan tambahan.
+
+
+## Final editorial audit — 2026-11-27
+
+- [Book V Final Editorial Audit](Book-V-Final-Editorial-Audit-2026-11-27.md) — audit kontinuitas lima bab, 22 scene, batas CANON/UNKNOWN, fungsi karakter, struktur, ritme, dan transisi menuju Book VI.
+- Hasil: tidak ditemukan benturan besar dengan CANON atau struktur outline. Manuskrip belum final; siap masuk proofreading akhir.
+- Rekomendasi minor: pertimbangkan satu kalimat di Scene 22 untuk memberi isyarat bahwa laporan Harrowfen disertai permintaan pemeriksaan dari pengelola jalur. Detail kontrak tetap dapat dibuka di Book VI.
+- Jumlah kata saat audit: **11.487 kata** termasuk judul, metadata, dan catatan tambahan.
+- Semua materi Book V tetap NON-CANON; tidak ada perubahan CANON.
