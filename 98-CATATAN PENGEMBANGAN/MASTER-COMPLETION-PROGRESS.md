@@ -13,7 +13,7 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 
 | Buku | Status | Catatan |
 |---|---|---|
-| I — Jalur yang Terlupakan | DALAM REVISI | Bab 4 dan 5 sudah memiliki revisi 0.2; sketsa kontinuitas fasilitas dan audit parsial dibuat. Bab 1–3 dan 6 serta storyboard masih perlu pemeriksaan. |
+| I — Jalur yang Terlupakan | DALAM REVISI | Bab 4–6 memiliki revisi editorial 0.2. Audit parsial Bab 4–5 (0.3) dan Bab 6 (0.4) tersedia. Bab 1–3, roster anggota dokumentasi yang cedera, sinkronisasi storyboard, line edit, dan audit penuh masih tertunda. |
 | II — Dunia di Luar Peta | DALAM REVISI | Bab 6 direvisi 0.2 untuk memperjelas kebutuhan praktis kembali ke Bellwether; Bab 1–5 dan storyboard belum direvisi penuh. |
 | III — Sisa-Sisa yang Tertinggal | BELUM DIKERJAKAN | Perlu audit seluruh enam chapter dan pengenalan Ilyra. |
 | IV — Prasasti Pertama | BELUM DIKERJAKAN | Perlu memilih versi chapter aktif berdasarkan riwayat dan mengaudit interpretasi prasasti. |
@@ -25,32 +25,39 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 ## Pekerjaan yang sudah dilakukan di branch ini
 
 1. Membuat branch `editorial/full-series-completion` dari `main`.
-2. Membuat [Book I Chapter 4 Revision Draft 0.2](Book-I-Manuscript-Chapter-04-Revision-Draft-0.2.md).
-3. Membuat [Book I Chapter 5 Revision Draft 0.2](Book-I-Manuscript-Chapter-05-Revision-Draft-0.2.md).
-4. Membuat [Book I Facility Spatial Continuity Sketch Draft 0.1](Book-I-Facility-Spatial-Continuity-Sketch-Draft-0.1.md).
-5. Membuat [Book I Manuscript Index Draft 0.3](Book-I-Manuscript-Index-Draft-0.3.md).
-6. Membuat [Book I Manuscript Revision Audit Draft 0.3](Book-I-Manuscript-Revision-Audit-Draft-0.3.md).\n7. Membuat [Book II Chapter 6 Revision Draft 0.2](Book-II-Manuscript-Chapter-06-Revision-Draft-0.2.md).\n8. Membuat [Book II Manuscript Index Draft 0.3](Book-II-Manuscript-Index-Draft-0.3.md) dan [Book II Revision Audit Draft 0.3](Book-II-Manuscript-Revision-Audit-Draft-0.3.md).
+2. Membuat revisi Book I Chapter 4 Draft 0.2.
+3. Membuat revisi Book I Chapter 5 Draft 0.2.
+4. Membuat sketsa kontinuitas spasial fasilitas Book I Draft 0.1.
+5. Memperbarui indeks manuskrip Book I menjadi Draft 0.3.
+6. Membuat audit revisi Book I Chapter 4–5 Draft 0.3.
+7. Membuat revisi Book II Chapter 6 Draft 0.2.
+8. Memperbarui indeks dan audit revisi Book II menjadi Draft 0.3.
+9. Membuat revisi Book I Chapter 6 Draft 0.2.
+10. Memperbarui indeks manuskrip Book I menjadi Draft 0.4.
+11. Membuat audit revisi Book I Chapter 6 Draft 0.4.
 
 ## Temuan yang harus dibawa ke tahap berikutnya
 
-- Bab 4 kini memisahkan pengenalan perusahaan, pemeriksaan klaim, kesepakatan sementara, dan pengungkapan kontrak Kael.
-- Bab 5 kini memiliki posisi karakter dan urutan penyelamatan yang lebih jelas.
+- Bab 4 memisahkan pengenalan perusahaan, pemeriksaan klaim, kesepakatan sementara, dan pengungkapan kontrak Kael.
+- Bab 5 memperjelas posisi karakter dan urutan penyelamatan.
+- Bab 6 memastikan salinan fragmen berasal dari dokumentasi sebelum insiden; diagram belum dapat ditafsirkan atau ditempatkan pada koordinat.
+- Penutup Book I berlangsung pada malam sebelum laporan terakhir diserahkan; pembukaan Book II dapat melanjutkan proses laporan tersebut.
 - Identitas perusahaan Buku I tetap anonim.
 - Iven Rusk dan kurator tetap NON-CANON.
 - Mekanisme fasilitas tetap UNKNOWN.
-- Cedera anggota dokumentasi perlu dicocokkan dengan roster karakter pendukung.
-- Book II harus memberikan alasan praktis yang jelas untuk menindaklanjuti petunjuk fragmen tanpa mengubahnya menjadi lokasi yang sudah diketahui.
+- Identitas anggota dokumentasi yang cedera masih perlu diverifikasi terhadap roster; jangan menebaknya.
+- Identitas kontak yang mengirim pesan kepada Kael tetap MYSTERY.
+- Tidak ada perubahan CANON yang dibuat oleh revisi di branch ini.
 
 ## Daftar kerja selanjutnya
 
 ### Book I
-- [ ] Revisi Bab 6 Scene 18–19.
-- [ ] Audit Bab 1–3 terhadap setup dan payoff baru.
-- [ ] Periksa identitas/roster anggota dokumentasi yang cedera.
-- [ ] Sinkronkan storyboard Bab 4–5.
+- [ ] Audit Bab 1–3 terhadap setup, payoff, suara karakter, dan pengetahuan yang dibutuhkan Bab 4–6.
+- [ ] Verifikasi identitas/roster anggota dokumentasi yang cedera atau pertahankan UNKNOWN bila belum ditetapkan.
+- [ ] Sinkronkan storyboard Bab 4–6 dengan revisi prosa 0.2.
 - [ ] Periksa seluruh enam storyboard.
-- [ ] Lakukan line edit terpadu.
-- [ ] Periksa hubungan akhir Book I dengan pembukaan Book II.
+- [ ] Lakukan line edit terpadu enam bab.
+- [ ] Perbarui Character Knowledge Matrix dan Scene Outline bila ditemukan ketidaksesuaian aktual.
 - [ ] Terbitkan audit final Book I setelah semua poin di atas selesai.
 
 ### Book II–VIII
@@ -72,3 +79,4 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 ## Riwayat perubahan
 
 - 2026-11-26: branch kerja dibuat; revisi Bab 4 dan Bab 5 Buku I, sketsa kontinuitas fasilitas, indeks 0.3, audit parsial 0.3, dan tracker master ditambahkan. Bab 6 Buku II direvisi 0.2 untuk memperjelas transisi praktis ke Buku III; indeks dan audit revisi Buku II diperbarui.
+- 2026-11-26: Book I Chapter 6 direvisi menjadi Draft 0.2; indeks diperbarui menjadi Draft 0.4; audit revisi Bab 6 Draft 0.4 ditambahkan. Status Book I tetap DALAM REVISI.
