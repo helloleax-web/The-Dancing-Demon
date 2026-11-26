@@ -96,3 +96,12 @@ Periksa sisa pemadatan Halaman 1–2, lalu lakukan review final layout tekstual 
 - [x] Batas pengetahuan organisasi dijaga: permintaan individu dalam adegan tidak menetapkan mandat atau struktur organisasi.
 - [ ] Storyboard dan layout Bab 3 tetap CATATAN PENGEMBANGAN / NON-CANON.
 - [ ] Artwork thumbnail Bab 3 belum dibuat.
+
+
+## Pengesahan cerita — Book IV Chapter 4
+- [x] Scenes 16–20 (*Setelah Nama Ditemukan*) disahkan sebagai teks naratif CANON dan penutup Book IV.
+- [x] Salinan resmi ditempatkan di `01-CANON/Book-IV-Chapter-04-Setelah-Nama-Ditemukan.md`.
+- [x] Indeks kontinuitas diperbarui dengan batas objek Northglass vs naskah interpretasi Prasasti I, status organisasi, serta hak dokumentasi.
+- [ ] Storyboard dan layout Bab 4 tetap CATATAN PENGEMBANGAN / NON-CANON.
+- [ ] Artwork thumbnail Bab 4 belum dibuat.
+- [ ] Audit keseluruhan Book IV dan konsistensi lintas buku masih perlu dilakukan.
