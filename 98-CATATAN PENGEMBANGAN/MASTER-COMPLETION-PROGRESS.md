@@ -65,6 +65,8 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 39. Melakukan line edit Bab 6 menjadi Draft 0.3.
 40. Membuat audit line edit awal enam bab Book I Draft 0.2.
 41. Menerbitkan indeks manuskrip Book I Draft 1.2.
+42. Memperbarui Manga Storyboard Index menjadi Draft 0.2 dengan file aktif Bab 1–6.
+43. Menerbitkan indeks manuskrip Book I Draft 1.3.
 
 ## Temuan yang harus dibawa ke tahap berikutnya
 
@@ -118,4 +120,5 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 - 2026-11-26: Bab 1 menjalani line edit awal dan diterbitkan sebagai Draft 0.2; audit pembuka Draft 0.3 dan indeks manuskrip Draft 0.9 diterbitkan.
 - 2026-11-26: Bab 2 menjalani line edit menjadi Draft 0.3; indeks manuskrip Draft 1.0 diterbitkan.
 - 2026-11-26: Bab 3 menjalani line edit menjadi Draft 0.3; audit line edit awal Bab 1–3 dan indeks manuskrip Draft 1.1 diterbitkan.
-- 2026-11-26: Bab 4, Bab 5, dan Bab 6 menjalani line edit menjadi Draft 0.3; audit line edit enam bab Draft 0.2 dan indeks manuskrip Draft 1.2 diterbitkan. Status Book I tetap DALAM REVISI.
+- 2026-11-26: Bab 4, Bab 5, dan Bab 6 menjalani line edit menjadi Draft 0.3; audit line edit enam bab Draft 0.2 dan indeks manuskrip Draft 1.2 diterbitkan.
+- 2026-11-26: indeks storyboard Book I diperbarui menjadi Draft 0.2 dan indeks manuskrip menjadi Draft 1.3. Status Book I tetap DALAM REVISI.
