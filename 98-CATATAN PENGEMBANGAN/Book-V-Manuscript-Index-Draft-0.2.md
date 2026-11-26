@@ -350,3 +350,10 @@
 - [Tavian Rell — Perspective & Pose Consistency — Draft 0.1](Tavian-Perspective-Pose-Consistency-Draft-0.1.md) — membandingkan P1/P2/P3 pada tampak depan, samping, dan tiga-perempat serta pose berdiri, berjalan, duduk, dan membungkuk.
 - Ketiga sistem masih dapat dibedakan secara umum pada skema massa; board belum menguji anatomi tiga dimensi, konstruksi sendi, foreshortening, atau mekanika gerak.
 - Tidak ada kandidat yang dipilih dan tidak ada proporsi tubuh Tavian yang ditetapkan. Seluruh materi NON-CANON; tidak ada perubahan Character Bible atau CANON.
+
+
+## Tavian volume construction test — Draft 0.1
+
+- [Tavian Rell — Volume Construction Test Draft 0.1](Tavian-Volume-Construction-Test-Draft-0.1.md) — membandingkan P1/P2/P3 sebagai massa tiga dimensi sederhana pada tampak depan, samping, dan tiga-perempat.
+- Studi hanya menggunakan bentuk primitif untuk membedakan massa kepala, torso, pelvis, dan anggota badan; belum memvalidasi anatomi, sendi, perspektif akurat, foreshortening, atau mekanika gerak.
+- Tidak ada kandidat yang dipilih dan tidak ada ciri fisik Tavian yang ditetapkan. Seluruh materi NON-CANON; tidak ada perubahan Character Bible atau CANON.
