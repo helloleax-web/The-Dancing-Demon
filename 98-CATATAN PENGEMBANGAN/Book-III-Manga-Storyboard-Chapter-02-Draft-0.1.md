@@ -25,7 +25,7 @@
 
 **Panel 3.** Ilyra membaca surat, lalu menyerahkannya kepada Seraphine.
 
-**Panel 4.** “Kurator meminta agar salinan ketiga tidak disebarkan sebelum sumbernya diperiksa.”
+**Panel 4.** “Kurator meminta agar salinan catatan yang menyebut Hollow Vale tidak disebarkan sebelum sumbernya diperiksa.”
 
 **Panel 5.** Seraphine bertanya apakah alasan permintaan dijelaskan.
 
@@ -59,7 +59,7 @@
 
 **Panel 2.** Seraphine mengangguk.
 
-**Panel 3.** Tavian meminta agar salinan ketiga ditahan sampai sumber diperiksa.
+**Panel 3.** Tavian meminta agar salinan catatan yang menyebut Hollow Vale ditahan sampai sumber diperiksa.
 
 **Panel 4.** Ilyra setuju meminta izin untuk memeriksa sumber asli atau keterangan asal.
 
@@ -75,9 +75,11 @@
 
 **Panel 3.** Dua rute ditandai.
 
-**Panel 4.** Mira memilih jalur lebih panjang.
+**Panel 4.** Ilyra menunjukkan catatan perjalanan yang menyebut lintasan tua dan arah lembah; Mira mencocokkan urutan penanda dengan catatan lokal.
 
-**Panel 5.** Ia menjelaskan bahwa jalur pendek berubah setelah hujan.
+**Panel 5.** Mira memilih jalur lebih panjang karena jalur pendek berubah setelah hujan.
+
+**Panel 6.** Ia menjelaskan bahwa catatan mempersempit wilayah, tetapi tidak memberi koordinat pasti.
 
 ## Halaman 6 — Beban dan Persediaan
 
