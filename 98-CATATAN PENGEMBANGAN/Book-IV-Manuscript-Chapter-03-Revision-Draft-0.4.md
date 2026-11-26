@@ -1,10 +1,10 @@
 # Book IV — Prasasti Pertama
 ## Bab 3: Nama yang Terlepas
-### Revision Draft 0.4 — Scenes 11–15
+### Revision Draft 0.5 — Scenes 11–15
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
-**Basis:** Book IV Scene Outline Draft 0.5 dan keputusan kreator memilih mekanisme B.  
-**Batas:** Northglass mengantar penyelidikan kepada naskah interpretasi Prasasti I beserta salinan bunyinya. Cara perolehan, lokasi penyimpanan, penjaga, dan asal-usul materi belum ditetapkan. Tidak ada perubahan CANON.
+**Basis:** Book IV Scene Outline Draft 0.6, keputusan mekanisme B, dan keputusan pengembangan akses Opsi A.  
+**Batas:** Northglass mengantar penyelidikan kepada naskah interpretasi Prasasti I beserta salinan bunyinya. Jalur akses dalam draft memakai rujukan terbatas Jorren kepada seorang penjaga kumpulan dokumen anonim, lalu konsultasi terawasi atas izin penjaga tersebut. Identitas, lokasi, kepemilikan sah, provenance, dan hubungan asal-usul dengan Northglass tetap UNKNOWN. Seluruh detail akses ini NON-CANON; tidak ada perubahan CANON.
 
 ### Catatan model sumber — NON-CANON
 
@@ -29,21 +29,25 @@ Seraphine memeriksa ulang daftar sumber. Dokumentasi mereka cukup untuk menunjuk
 
 “Kalau begitu, kita perlakukan batu ini sebagai awal penyelidikan, bukan jawaban,” katanya.
 
-Mira menyampaikan bahwa tindak lanjut atas temuan Northglass telah membuka jalur pemeriksaan terhadap catatan lain yang berkaitan dengan penemuan tersebut. Informasi yang tersedia belum menjelaskan siapa pembuat catatan itu atau dari mana asalnya.
+Mira memandang Jorren. “Kau pernah menyebut ada orang yang menyimpan kumpulan dokumen lama di sekitar jalur ini. Apa kau tahu apakah kami bisa meminta untuk memeriksanya?”
 
-Kael mengangkat kepala. “Catatan lain?”
+Jorren tidak langsung menjawab. “Aku hanya pernah mendengar bahwa seseorang menjaga kumpulan dokumen. Aku tidak tahu apa isinya, dari mana asalnya, atau apakah ada hubungannya dengan batu ini.”
 
-“Materi yang perlu diperiksa langsung,” jawab Mira. “Aku belum bisa menjamin apa yang akan kita temukan di dalamnya.”
+“Bisakah kau memperkenalkan kami?” tanya Tavian.
 
-Seraphine tidak langsung menyetujuinya. Ia meminta agar sumber, kondisi, dan batas akses diperiksa sebelum kelompok menganggap materi itu dapat dipercaya.
+“Aku bisa menyampaikan permintaan. Aku tidak bisa menjanjikan orang itu akan menerima kalian, apalagi menjamin isi kumpulannya.”
 
-Mereka sepakat melanjutkan pemeriksaan. Batu Northglass tetap menjadi titik awal, tetapi tidak akan dipakai untuk mengisi hal-hal yang tidak terbaca.
+Mira meminta Jorren menyampaikan bahwa kelompok hanya ingin berkonsultasi dan akan mengikuti batas yang ditetapkan penjaga materi. Seraphine menegaskan bahwa mereka tidak akan menganggap rujukan tersebut sebagai bukti hubungan antara Northglass dan dokumen yang mungkin diperlihatkan.
+
+Jorren bersedia menyampaikan permintaan itu. Kelompok menunggu jawaban sebelum melanjutkan. Batu Northglass tetap menjadi titik awal penyelidikan, bukan kunci yang telah terbukti mengarah ke Prasasti I.
 
 ### Scene 12 — Naskah dan Salinan Bunyi
 
-Pemeriksaan lanjutan membawa kelompok kepada sepasang materi: sebuah naskah interpretasi dan salinan bunyi yang disimpan bersamanya.
+Jorren kembali dengan jawaban: penjaga kumpulan dokumen bersedia menerima kelompok untuk konsultasi terbatas. Ia memperkenalkan mereka, tetapi tidak menyatakan bahwa dirinya mengetahui asal-usul atau keaslian materi.
 
-Mereka belum dapat memastikan tempat penyimpanan, pihak yang menjaga, ataupun riwayat perpindahan materi tersebut. Seraphine mencatat kondisi dan susunan materi sebelum siapa pun membukanya lebih jauh.
+Di tempat pemeriksaan yang tidak mereka dokumentasikan sebagai lokasi publik, penjaga itu mengizinkan kelompok melihat satu naskah interpretasi dan salinan bunyi yang disimpan bersamanya. Izin tersebut hanya berlaku untuk konsultasi di tempat dan di bawah pengawasannya. Kelompok tidak diizinkan membawa, memisahkan, menyalin, atau menyebarluaskan materi.
+
+Seraphine mencatat siapa yang hadir, kondisi materi ketika diperlihatkan, serta batas izin yang diberikan. Ia juga menulis bahwa keterangan penjaga dan keberadaan pasangan materi belum membuktikan provenance atau keaslian historisnya.
 
 Ilyra segera melihat bahwa dokumen itu bukan sekadar salinan tanda dari sebuah batu. Dokumen itu tersusun sebagai catatan penafsiran: memuat baris-baris lantunan, komentar, pengamatan, serta bagian yang membedakan hal yang diketahui dari hal yang masih berupa dugaan.
 
@@ -61,7 +65,7 @@ Tavian melihat salinan bunyi yang disimpan bersama naskah.
 
 Kael bertanya apakah mereka sudah tahu siapa yang menulis naskah itu.
 
-“Belum,” kata Ilyra. “Yang bisa kita pastikan sekarang hanya bentuk dokumennya dan hubungan salinan bunyi dengan naskah yang menyertainya.”
+“Belum,” kata Ilyra. “Yang bisa kita pastikan sekarang hanya bentuk dokumennya dan bahwa salinan bunyi ini disimpan bersama naskah. Kita belum memverifikasi riwayat atau asal-usulnya.”
 
 Mereka tidak mengumumkan isi materi tersebut. Pemeriksaan harus dilakukan dengan urutan yang dapat dicatat dan diulang.
 
@@ -141,7 +145,7 @@ Kael memperhatikan bagaimana satu temuan mulai menarik kepentingan yang berbeda.
 
 “Dan itu sebabnya kita tidak boleh terburu-buru,” kata Tavian.
 
-Seraphine menyimpan catatan pembacaan, hasil pemeriksaan naskah, dan dokumentasi salinan bunyi dalam satu berkas kerja, tanpa mencampurkannya dengan dokumentasi fisik Northglass. Tidak ada satu pun dari mereka yang menyatakan bahwa identitas pemilik suara atau hubungan dengan Great War telah terpecahkan.
+Seraphine menyimpan catatan pembacaan dan hasil konsultasi yang diizinkan dalam satu berkas kerja. Mereka tidak membawa atau membuat salinan materi sumber, dan catatan Prasasti I tetap dipisahkan dari dokumentasi fisik Northglass. Tidak ada satu pun dari mereka yang menyatakan bahwa identitas pemilik suara atau hubungan dengan Great War telah terpecahkan.
 
 Mereka telah menemukan nama yang sebelumnya tidak diketahui.
 
@@ -153,7 +157,8 @@ Tetapi nama itu belum menjadi jawaban.
 
 - Northglass tetap menjadi titik awal penyelidikan, bukan sumber langsung transliterasi NVR AGAIN.
 - Tindak lanjut penemuan Northglass membawa kelompok kepada naskah interpretasi Prasasti I dan salinan bunyi yang disimpan bersamanya.
-- Lokasi penyimpanan, penjaga, asal-usul, riwayat perpindahan, dan mekanisme penghubung materi dengan Northglass belum ditetapkan; semuanya tetap OPEN QUESTION dalam pengembangan.
+- Jalur akses NON-CANON: Jorren memberi rujukan terbatas kepada penjaga kumpulan dokumen anonim; penjaga mengizinkan konsultasi terawasi di tempat. Tidak ada izin membawa, memisahkan, menyalin, atau menyebarluaskan materi.
+- Identitas penjaga, lokasi geografis, kepemilikan sah, asal-usul, riwayat perpindahan, autentikasi, dan hubungan material/historis Northglass dengan materi Prasasti I tetap OPEN QUESTION.
 - Kelompok memeriksa naskah baris demi baris dan mendengarkan salinan bunyi, dengan pemisahan fakta, tafsir, dugaan, dan UNKNOWN.
 - NVR AGAIN pertama kali diketahui pada Scene 14 dari judul naskah interpretasi Prasasti I.
 - Penemuan nama tidak membuktikan identitas pemilik suara, makna objektif, asal musik, hubungan dengan LEAX, atau hubungan dengan Great War.
@@ -163,4 +168,4 @@ Tetapi nama itu belum menjadi jawaban.
 
 ## Catatan editorial setelah line edit — OPEN QUESTION
 
-Adegan 11–12 sengaja belum merinci jalur konkret yang membawa kelompok dari dokumentasi Northglass kepada naskah interpretasi Prasasti I dan salinan bunyinya. Draft ini tidak menetapkan perantara, pemilik, penjaga, lokasi, atau dasar akses baru. Kekosongan tersebut masih perlu diselesaikan pada tahap pengembangan sebelum proofread final; jangan menganggapnya sebagai misteri CANON yang sudah disahkan.
+Addendum Draft 0.5: jalur sebab-akibat dan dasar akses kini ditampilkan pada Scene 11–12 melalui rujukan terbatas Jorren dan konsultasi terawasi atas izin penjaga materi anonim. Ini keputusan pengembangan NON-CANON, bukan fakta CANON. Identitas penjaga, lokasi geografis, kepemilikan sah, provenance, autentikasi, dan hubungan historis/material dengan Northglass tetap OPEN QUESTION. Proofread final masih perlu dilakukan setelah sinkronisasi seluruh dokumen.
