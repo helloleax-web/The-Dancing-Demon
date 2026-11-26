@@ -47,7 +47,7 @@ Jangan menetapkan jawaban atas hal-hal tersebut sebagai CANON tanpa dasar atau k
 - [Storyboard Chapter 1 Revision Draft 0.3](Book-IV-Manga-Storyboard-Chapter-01-Revision-Draft-0.3.md).
 - [Storyboard Chapter 3 Revision Draft 0.3](Book-IV-Manga-Storyboard-Chapter-03-Revision-Draft-0.2.md).
 - [Storyboard Chapter 4 Revision Draft 0.3](Book-IV-Manga-Storyboard-Chapter-04-Revision-Draft-0.2.md).
-- [Storyboard Audit Report Draft 0.4](Book-IV-Manga-Storyboard-Audit-Report-Draft-0.3.md).
+- [Storyboard Audit Report Draft 0.5](Book-IV-Manga-Storyboard-Audit-Report-Draft-0.3.md).
 - Storyboard Bab 2 masih memakai Revision Draft 0.2 sebagai baseline.
 - Estimasi lama 74 halaman bersifat sementara; total panel 370 dari baseline lama tidak lagi dianggap terverifikasi.
 
