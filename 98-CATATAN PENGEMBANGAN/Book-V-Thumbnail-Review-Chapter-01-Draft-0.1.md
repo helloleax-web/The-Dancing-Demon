@@ -212,3 +212,11 @@ Draft 0.1 tidak dipakai sebagai acuan staging yang diterima. Revisi manual Draft
 - Enam anggota rombongan dipertahankan; Tavian memeriksa lembar, Kael berkomentar, Ilyra menjelaskan batas pembacaan, dan Seraphine sedikit di depan memeriksa daftar dokumen.
 - Mira dan Daren tetap hadir sebagai anggota rombongan tanpa diberi aksi baru.
 - Layout diterima untuk staging; figur dan latar tetap abstrak. Bukan ilustrasi final. NON-CANON; dampak CANON nihil.
+
+
+## Scene 1 — Panel 1.4 thumbnail — 2026-11-27
+
+- [Panel 1.4 Thumbnail Draft 0.1](Book-V-Scene-01-Panel-1-4-Thumbnail-Draft-0.1.md) — wide-group staging di persimpangan.
+- Seraphine membuka catatan, Mira membandingkan dua jalur pada peta lokal, dan Daren memeriksa ikatan tas; Tavian, Kael, dan Ilyra tetap hadir dalam kelompok.
+- Dua jalur hanya berupa percabangan abstrak tanpa detail peta/geografi baru.
+- Layout manual diterima sebagai studi komposisi NON-CANON; bukan ilustrasi final. Dampak CANON nihil.
