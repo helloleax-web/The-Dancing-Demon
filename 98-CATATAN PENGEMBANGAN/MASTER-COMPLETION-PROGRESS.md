@@ -41,6 +41,9 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 15. Merevisi Book I Chapter 2 dan Chapter 3 menjadi Draft 0.2 untuk mengatasi tiga klarifikasi audit pembuka.
 16. Membuat audit revisi pembuka Book I Draft 0.2.
 17. Menerbitkan indeks manuskrip Book I Draft 0.5 dengan daftar file aktif yang dikoreksi.
+18. Membuat revisi storyboard Book I Bab 4–6 Draft 0.2 agar sesuai dengan manuskrip terbaru.
+19. Membuat audit sinkronisasi storyboard Bab 4–6 Draft 0.2.
+20. Menerbitkan indeks manuskrip Book I Draft 0.6 dengan status storyboard terbaru.
 
 ## Temuan yang harus dibawa ke tahap berikutnya
 
@@ -60,8 +63,9 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 ### Book I
 - [x] Terapkan klarifikasi penanda waktu Bab 2 Scene 4, batas pembersihan struktur Bab 3 Scene 7, dan transisi pemeriksaan sebelum masuk fasilitas Bab 3 Scene 9.
 - [ ] Verifikasi identitas/roster anggota dokumentasi yang cedera atau pertahankan UNKNOWN bila belum ditetapkan.
-- [ ] Sinkronkan storyboard Bab 4–6 dengan revisi prosa 0.2.
-- [ ] Periksa seluruh enam storyboard.
+- [x] Buat revisi storyboard Bab 4–6 Draft 0.2 untuk sinkronisasi awal.
+- [ ] Lakukan pemeriksaan panel-per-panel Bab 4–6 dan audit seluruh storyboard.
+- [ ] Sinkronkan storyboard Bab 1–3 dan periksa seluruh enam storyboard.
 - [ ] Lakukan line edit terpadu enam bab.
 - [ ] Perbarui Character Knowledge Matrix dan Scene Outline bila ditemukan ketidaksesuaian aktual.
 - [ ] Terbitkan audit final Book I setelah semua poin di atas selesai.
@@ -86,4 +90,5 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 
 - 2026-11-26: branch kerja dibuat; revisi Bab 4 dan Bab 5 Buku I, sketsa kontinuitas fasilitas, indeks 0.3, audit parsial 0.3, dan tracker master ditambahkan. Bab 6 Buku II direvisi 0.2 untuk memperjelas transisi praktis ke Buku III; indeks dan audit revisi Buku II diperbarui.
 - 2026-11-26: Book I Chapter 6 direvisi menjadi Draft 0.2; indeks Draft 0.4 diterbitkan; audit revisi Bab 6 Draft 0.4 dan audit pembuka Bab 1–3 Draft 0.1 ditambahkan; Character Knowledge Matrix diperbarui menjadi Draft 0.2.
-- 2026-11-26: Book I Chapter 2 dan 3 direvisi menjadi Draft 0.2; audit revisi pembuka Draft 0.2 dan indeks Draft 0.5 diterbitkan. Status Book I tetap DALAM REVISI.
+- 2026-11-26: Book I Chapter 2 dan 3 direvisi menjadi Draft 0.2; audit revisi pembuka Draft 0.2 dan indeks Draft 0.5 diterbitkan.
+- 2026-11-26: storyboard Book I Bab 4–6 direvisi menjadi Draft 0.2; audit sinkronisasi storyboard Draft 0.2 dan indeks Draft 0.6 diterbitkan. Status Book I tetap DALAM REVISI.
