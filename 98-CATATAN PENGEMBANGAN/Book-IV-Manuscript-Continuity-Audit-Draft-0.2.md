@@ -1,7 +1,7 @@
-# Book IV — Manuscript Continuity Audit — Draft 0.3
+# Book IV — Manuscript Continuity Audit — Draft 0.4
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
-**Cakupan:** empat bab manuskrip, 20 scene; dibandingkan dengan Book IV Scene Outline, Character Knowledge Matrix, Thirteen Prasasti, Great War and Resonansi Hitam, Series Mystery & Revelation Architecture, serta transisi Buku III.
+**Cakupan:** empat bab manuskrip, 20 scene; dibandingkan dengan Book IV Scene Outline, Character Knowledge Matrix, Thirteen Prasasti, Great War and Resonansi Hitam, Series Mystery & Revelation Architecture, serta transisi Buku III. Bab 1–2 telah menerima revision pass 0.2; Bab 3–4 mempertahankan revision pass 0.2.
 
 ## 1. Hasil ringkas
 
@@ -65,14 +65,14 @@ Hubungan asal-usul atau mekanisme informasi antara objek Northglass dan naskah i
 
 ## 7. Isu editorial yang masih terbuka
 
-1. **Metode transliterasi perlu diperkuat.** Jelaskan sumber pembanding dan bagaimana Ilyra dapat menyalin satu nama tanpa memahami bahasa atau seluruh teks.
+1. **Ditangani sebagian pada revision 0.2 Bab 2:** dokumentasi per bidang, klasifikasi guratan, dan jejak versi salinan diperjelas. Bab 3 tetap perlu menunjukkan secara spesifik bagaimana pembanding mendukung transliterasi satu rangkaian tanda.
 2. **Hubungan sumber masih UNKNOWN.** Prosa sekarang membedakan objek Northglass dari naskah interpretasi, tetapi belum menjelaskan apakah objek itu sumber, indeks, salinan, atau artefak yang menyertai rekaman.
 3. **Identitas penafsir in-world belum muncul.** Canon menyatakan naskah interpretasi berasal dari seorang keturunan LEAX; hubungan antara penafsir tersebut, teks, dan medium batu perlu dipertimbangkan.
-4. **Hak akses lokal.** Jorren memberi izin terbatas, tetapi kewenangan dan hubungan izin itu dengan masyarakat setempat perlu dibuat lebih konkret.
+4. **Ditangani sebagian pada revision 0.2 Bab 1:** izin Jorren dibatasi pada akses jalur yang ia jaga dan tidak dianggap mewakili seluruh kepentingan lokal. Tata kelola masyarakat setempat yang lebih luas tetap belum ditetapkan.
 5. **Kedatangan Vellum & Iron Recovery.** Jalur informasi yang membawa perusahaan ke Northglass belum cukup jelas.
 6. **Konflik berulang.** Scenes 16–17 kembali berfokus pada hak salinan dan dokumentasi seperti Buku III. Perlu konsekuensi baru yang muncul khusus karena nama telah dibaca.
 7. **Penyebaran nama.** Jelaskan bagaimana laporan beredar dan siapa yang boleh menerima salinan, tanpa mengungkap hubungan dengan Great War.
-8. **Panjang prosa.** Sekitar 4.550 kata untuk 20 scene masih terasa seperti treatment yang diperluas. Perlu memperdalam proses penemuan, tekanan sosial, dan dampak pembacaan nama.
+8. **Panjang prosa.** Sekitar 4.550 kata adalah baseline pass pertama dan perlu dihitung ulang. Naskah masih terasa seperti treatment yang diperluas; perlu memperdalam proses penemuan, tekanan sosial, dan dampak pembacaan nama.
 9. **Dialog berulang.** Kurangi pengulangan “belum tahu” ketika tindakan atau klasifikasi sudah menunjukkan batas pengetahuan.
 10. **Storyboard.** Bab 3 dan 4 sudah diperbarui agar hasil ditampilkan sebagai transliterasi, bukan terjemahan. NVR AGAIN tetap pertama muncul pada Bab 3, Halaman 15. Pemeriksaan final panel tetap diperlukan setelah revisi prosa berikutnya.
 
@@ -82,6 +82,6 @@ Buku IV menjaga fakta CANON bahwa penemuan Prasasti pertama mengungkap nama NVR 
 
 Koreksi transliterasi memperjelas batas pembacaan. Namun, hubungan antara batu fisik Northglass dan status Prasasti sebagai naskah interpretasi in-world masih harus diselesaikan. Itu adalah pertanyaan kontinuitas yang lebih penting daripada line edit biasa.
 
-**Buku IV belum final.** Prioritas berikutnya: putuskan atau klarifikasi medium Prasasti, kuatkan metode transliterasi, bedakan konflik Buku IV dari Buku III, lalu perluas prosa.
+**Buku IV belum final.** Model kerja medium sudah dibatasi tanpa menetapkan medium universal. Prioritas berikutnya: uji metode transliterasi Bab 3 terhadap standar dokumentasi Bab 2, bedakan konflik Buku IV dari Buku III, perluas prosa, dan lakukan line edit lintas bab.
 
 **Dampak CANON: tidak ada.** Model pembedaan objek Northglass dan naskah interpretasi adalah keputusan pengembangan NON-CANON.
