@@ -8,12 +8,12 @@
 
 | Bab | Scene | Fokus | Jumlah kata |
 |---|---:|---|---:|
-| 1 — Kumpulan yang Belum Dibandingkan | 1–4 | Surat Buku VI, pemeriksaan permintaan, kumpulan dokumen, identitas penafsir, nomor arsip bukan kronologi | 1.847 |
+| 1 — Kumpulan yang Belum Dibandingkan | 1–4 | Surat Buku VI, pemeriksaan permintaan, kumpulan dokumen, identitas penafsir, nomor arsip bukan kronologi | 1.849 |
 | 2 — Tiga Belas Suara | 5–8 | Prasasti I–VII: NVR AGAIN, hubungan, identitas, batas tafsir, catatan pendengaran | 1.457 |
 | 3 — Pola yang Tidak Cukup | 9–13 | Prasasti VIII–XIII dan matriks motif berulang | 1.542 |
 | 4 — Hak atas Kesimpulan | 14–17 | Perbedaan kualitas catatan bunyi, metode tiga kolom, teori terpadu, tenggat | 1.425 |
 | 5 — Ketiga Belas | 18–22 | Ringkasan beredar, perdebatan akses, pilihan publikasi, keputusan Tavian, hasil katalog | 1.776 |
-| **Total** | **1–22** | **Pass pertama manuskrip** | **8.047** |
+| **Total** | **1–22** | **Pass pertama manuskrip** | **8.049** |
 
 Jumlah kata dihitung dari isi file bab, termasuk metadata, judul, dan catatan tambahan.
 
