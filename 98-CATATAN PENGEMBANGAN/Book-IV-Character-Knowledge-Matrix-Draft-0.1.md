@@ -3,6 +3,8 @@
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Basis:** Book IV Scene Outline Draft 0.1 dan fakta CANON tentang Prasasti pertama serta NVR AGAIN.
 
+> **Catatan status:** dokumen ini adalah versi awal dan telah disupersesi oleh versi 0.2. Gunakan Manuscript Continuity Audit, Manuscript Index, Scene Outline, dan Character Knowledge Matrix Draft 0.2 untuk status terbaru.
+
 ## 1. Aturan
 
 - Nama NVR AGAIN hanya boleh diketahui setelah pembacaan Prasasti pertama.
