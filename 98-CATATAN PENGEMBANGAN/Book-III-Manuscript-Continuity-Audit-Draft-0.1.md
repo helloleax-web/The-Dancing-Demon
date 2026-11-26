@@ -3,6 +3,8 @@
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Cakupan:** enam bab manuskrip Buku III, 20 scene; dibandingkan dengan outline, knowledge matrix, arsitektur seri, dan dokumen CANON terkait.
 
+> **Catatan status:** dokumen ini adalah versi awal dan telah disupersesi oleh versi 0.2. Gunakan Book III Manuscript Continuity Audit, Manuscript Index, Scene Outline, dan Character Knowledge Matrix Draft 0.2 untuk status terbaru.
+
 ## 1. Hasil ringkas
 
 - Seluruh 20 scene outline telah memiliki prosa awal.
