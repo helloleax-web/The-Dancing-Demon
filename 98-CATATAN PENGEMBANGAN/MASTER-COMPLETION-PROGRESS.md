@@ -287,3 +287,11 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 - [ ] Creator decision: legal basis for limited access to Hollow Vale.
 - [ ] Final read-through after access decision.
 - [ ] Final author approval of Book III.
+
+
+## Book III — Creator decision required
+
+- [x] Prepare decision brief for Hollow Vale access.
+- [ ] Creator chooses whether limited access is formally permitted, knowingly undertaken without confirmed permission, or postponed until permission is established.
+- [ ] Apply the chosen path consistently to manuscript and storyboard.
+- [ ] Only then perform final read-through and approval audit.
