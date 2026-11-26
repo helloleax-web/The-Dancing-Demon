@@ -7,7 +7,7 @@
 
 **Status: JENDELA PENGUNGKAPAN TERJAGA; PEMBEDAAN MEDIUM KINI MEMILIKI MODEL KERJA NON-CANON.**
 
-Manuskrip memiliki 20 scene dalam empat bab dan sekitar **4.550 kata** termasuk metadata serta catatan tambahan. Nama NVR AGAIN pertama kali muncul dalam narasi pada Scene 14. Revisi 0.2 memperjelas bahwa Ilyra melakukan **transliterasi satu rangkaian tanda**, bukan menerjemahkan seluruh prasasti.
+Manuskrip memiliki 20 scene dalam empat bab. Angka sekitar **4.550 kata** termasuk metadata dan catatan tambahan adalah baseline pass pertama, bukan jumlah kata terkini setelah revision 0.2 Bab 1–2; hitung ulang dilakukan pada final pass. Nama NVR AGAIN pertama kali muncul dalam narasi pada Scene 14. Revisi 0.2 memperjelas bahwa Ilyra melakukan **transliterasi satu rangkaian tanda**, bukan menerjemahkan seluruh prasasti.
 
 ## 2. Pemeriksaan jendela pengungkapan
 
