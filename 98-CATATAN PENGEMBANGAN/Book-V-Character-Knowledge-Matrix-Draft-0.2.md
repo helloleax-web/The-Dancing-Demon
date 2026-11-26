@@ -1,4 +1,4 @@
-# Book V — Character Knowledge and Continuity Matrix — Draft 0.2
+# Book V — Character Knowledge and Continuity Matrix — Draft 0.3
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Basis:** Book V Scene Outline Draft 0.1, manuskrip 22 scene, CANON Great War, NVR AGAIN, jubah mana hitam, dan Resonansi Hitam.
@@ -11,8 +11,8 @@
 - Jubah mana hitam memberi pertahanan luar biasa dan regenerasi HP/MP secara berkelanjutan; mekanismenya tetap UNKNOWN.
 - Cakupan istilah Resonansi Hitam belum ditafsirkan lebih jauh.
 - Penyebab perang, pihak, lokasi, durasi, korban, dan dampak politik tetap UNKNOWN.
-- Outline menahan informasi tentang LEAX untuk arahan kreator; jangan menambahkan detail baru.
-- Fakta CANON bahwa sekutu LEAX memperoleh jubah belum digunakan dalam manuskrip dan menunggu keputusan scope.
+- Fakta CANON: LEAX menghilang setelah Great War; penyebab dan keadaannya tetap UNKNOWN.
+- Fakta CANON: sekutu LEAX memperoleh jubah mana hitam. Draft boleh mencatat fakta ini tanpa menambahkan identitas sekutu, jumlah jubah, cara perolehan, atau hubungan kausal lain.
 
 ## 2. Matriks pengetahuan per tahap
 
@@ -20,9 +20,9 @@
 |---|---|---|---|---|---|---|---|
 | 1–4: akses arsip | Mengetahui sumber tersebar dan kronologi berbeda | Mengetahui asal, izin, dan metode dokumentasi | Menilai kepentingan distribusi informasi | Membantu konteks jalur dan perjalanan | Menilai keselamatan | Menyiapkan pembacaan nama dari Prasasti pertama | Mengetahui kelompok mencari konteks Great War |
 | 5–8: musik | Mengetahui beberapa sumber menyebut musik selama perang | Memisahkan kesaksian, dokumen, dan interpretasi | Menilai nilai informasi nama | Mengetahui konteks tradisi lokal jika relevan | Menilai sumber dan perjalanan | Membandingkan nama NVR AGAIN dengan sumber musik tanpa nama | Mengetahui NVR AGAIN adalah nama musik Great War |
-| 9–13: jubah dan istilah | Mengetahui deskripsi efek jubah dari catatan | Mengetahui perbedaan efek dan mekanisme | Mengetahui nilai informasi istilah sejarah | Mengetahui konteks tradisi tanpa menyimpulkan mekanisme | Menilai bukti dan sumber | Memisahkan istilah, deskripsi, dan teori | Mengetahui efek jubah, tetapi bukan mekanisme atau cakupan Resonansi Hitam |
+| 9–13: jubah dan istilah | Mengetahui deskripsi efek jubah dan catatan bahwa sekutu LEAX memperolehnya | Mengetahui perbedaan efek dan mekanisme serta batas catatan LEAX | Mengetahui nilai informasi istilah sejarah | Mengetahui konteks tradisi tanpa menyimpulkan mekanisme | Menilai bukti dan sumber | Memisahkan istilah, deskripsi, dan teori | Mengetahui efek jubah dan kaitan historis minimum dengan sekutu LEAX, tetapi bukan mekanisme atau cakupan Resonansi Hitam |
 | 14–18: perebutan narasi | Mengetahui versi ringkas dapat menghapus konteks | Menyusun koreksi dengan sumber | Menilai insentif penerbit dan kolektor | Menjaga konteks kesaksian lokal | Menjaga keselamatan perjalanan | Menguji kutipan dan sumber | Melihat pertentangan kepentingan sejarah |
-| 19–22: laporan | Mengetahui batas kesimpulan yang dapat diterbitkan | Menyimpan metode dan sumber | Memilih distribusi yang bertanggung jawab | Membawa konteks lokal | Mengantar kelompok dengan aman | Menyimpan catatan pembacaan dan pertanyaan terbuka | Mengetahui hubungan NVR AGAIN dengan musik Great War; pertanyaan lain tetap terbuka |
+| 19–22: laporan | Mengetahui bahwa LEAX menghilang setelah Great War; tidak mengetahui sebab atau keadaan | Menyimpan metode dan sumber serta mencatat batas informasi tentang LEAX | Memilih distribusi yang bertanggung jawab | Membawa konteks lokal | Mengantar kelompok dengan aman | Menyimpan catatan pembacaan dan pertanyaan terbuka | Mengetahui fakta hilangnya LEAX setelah Great War, tetapi tidak mengetahui sebab, lokasi, atau keadaan |
 
 ## 3. Informasi yang tetap UNKNOWN
 
@@ -34,7 +34,7 @@
 - Identitas pemakai, pembuat, jumlah, dan metode perolehan jubah.
 - Cakupan pasti istilah Resonansi Hitam.
 - Hubungan Resonansi Hitam dengan 13 Prasasti.
-- Keadaan LEAX setelah Great War; tidak ada rincian baru yang ditetapkan dalam matrix ini.
+- Penyebab, lokasi, kronologi rinci, keadaan, dan nasib LEAX setelah menghilang; tidak ada rincian baru yang ditetapkan dalam matrix ini.
 
 ## 4. Pemeriksaan kontinuitas
 
@@ -51,9 +51,9 @@
 
 ## 5. Keputusan yang ditahan
 
-- LEAX: apakah Buku V hanya boleh menyebut fakta CANON bahwa LEAX menghilang setelah Great War, tanpa rincian, atau tidak menyebut LEAX sama sekali?
-- Sekutu LEAX: fakta CANON bahwa sekutu LEAX memperoleh jubah mana hitam belum digunakan dalam manuskrip; penggunaannya perlu keputusan scope.
+- LEAX: fakta bahwa ia menghilang setelah Great War boleh disebut; penyebab, keadaan, dan nasib tetap UNKNOWN.
+- Sekutu LEAX: fakta bahwa sekutu LEAX memperoleh jubah mana hitam boleh dicatat; identitas dan rincian tetap UNKNOWN.
 - Resonansi Hitam: cakupan istilah belum ditentukan.
 - Jubah mana hitam: identitas pengguna, pembuat, jumlah, dan cara perolehan tidak ditentukan.
 
-**Dampak CANON: tidak ada.**
+**Dampak CANON: tidak ada.** Penggunaan fakta minimum LEAX mengikuti CANON; semua sumber dan adegan yang mengantarkannya tetap NON-CANON.
