@@ -1,7 +1,7 @@
 # Book V — Character Knowledge and Continuity Matrix — Draft 0.3
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
-**Basis:** Book V Scene Outline Draft 0.1, manuskrip 22 scene, CANON Great War, NVR AGAIN, jubah mana hitam, dan Resonansi Hitam.
+**Basis:** Book V Scene Outline Draft 0.2, manuskrip 22 scene, CANON Great War, NVR AGAIN, jubah mana hitam, dan Resonansi Hitam.
 
 ## 1. Aturan
 
