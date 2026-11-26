@@ -284,14 +284,18 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 - [x] Continuity audit Draft 0.6.
 - [x] Scene outline correction: travel notes are route evidence only, not facility-pattern evidence.
 - [x] Storyboard Chapter 2 and Chapter 6 synchronization corrections.
-- [ ] Creator decision: legal basis for limited access to Hollow Vale.
-- [ ] Final read-through after access decision.
-- [ ] Final author approval of Book III.
+- [x] Creator decision: select knowingly undertaken entry without confirmed permission (Option B).
+- [x] Apply Option B to Chapter 3 prose, scene outline, all six manuscript continuity notes, all six integrated storyboard masters, decision brief, and audits/index.
+- [ ] Fresh consecutive read-through after access decision.
+- [ ] Final approval audit and author approval of Book III.
 
 
 ## Book III — Creator decision required
 
 - [x] Prepare decision brief for Hollow Vale access.
-- [ ] Creator chooses whether limited access is formally permitted, knowingly undertaken without confirmed permission, or postponed until permission is established.
-- [ ] Apply the chosen path consistently to manuscript and storyboard.
+- [x] Creator chose Option B: knowingly undertaken entry without confirmed permission.
+- [x] Apply the chosen path consistently to manuscript and storyboard.
 - [ ] Only then perform final read-through and approval audit.
+
+
+- 2026-11-27: Creator selected Option B for Hollow Vale access. Chapter 3 now frames entry as knowingly undertaken without confirmed permission; physical limits are not treated as legal authorization. The decision was propagated to the scene outline, all six manuscript continuity notes, all six integrated storyboard masters, continuity/proofreading audits, manuscript index, and decision brief. Site authority/legal status and any specific consequences remain UNKNOWN/OPEN QUESTION. Book III is not final; a fresh consecutive read-through and final approval audit remain.
