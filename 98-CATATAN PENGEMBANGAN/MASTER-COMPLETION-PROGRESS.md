@@ -103,6 +103,9 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 77. Menyinkronkan Book II Chapter 6 storyboard menjadi Draft 0.2.
 78. Membuat Unified Line-Edit Audit Book II Draft 0.3; temuan laporan selesai, geografi lintasan sempit tetap OPEN QUESTION.
 79. Menerbitkan Book II Storyboard Index Draft 0.2 dan Manuscript Index Draft 1.3.
+80. Merevisi Book III Chapter 2 menjadi Revision Draft 0.2 agar memakai catatan perjalanan Hollow Vale yang sudah diperkenalkan pada Chapter 1.
+81. Memperbarui Book III Continuity Audit menjadi Draft 0.4.
+82. Menerbitkan Book III Manuscript Index Draft 0.4.
 
 ## Temuan yang harus dibawa ke tahap berikutnya
 
@@ -144,7 +147,8 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 - [ ] Dapatkan keputusan geografi untuk posisi lintasan sempit; sumber saat ini tidak menentukan cabangnya.
 - [ ] Audit geografi, kronologi, kontrak, dan arc karakter Book II.
 - [x] Audit transisi Book II–III dan selaraskan Book III Chapter 1 dengan kontinuitas Draft 0.2.
-- [ ] Audit dan revisi Chapters 2–6.
+- [x] Selaraskan Chapter 2 dengan Chapter 1 dan Scene Outline Draft 0.2.
+- [ ] Audit dan revisi Chapters 3–6.
 - [ ] Perbarui indeks dan dokumen pendukung.
 - [x] Sinkronkan storyboard Chapter 6 dengan prosa Draft 0.4.
 - [ ] Sinkronkan storyboard Chapters 1–5 setelah keputusan geografi jalur.
@@ -182,4 +186,5 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 - 2026-11-27: Chapters 4–6 menerima pass line-edit awal Draft 0.3; indeks Book II Draft 1.0 diterbitkan.
 - 2026-11-27: Keenam bab Draft 0.3 dibaca berurutan; Unified Line-Edit Audit Draft 0.2 mencatat dua temuan kontinuitas (status laporan Rookbridge dan hubungan lintasan sempit dengan dua jalur alternatif); indeks Book II Draft 1.1 diterbitkan.
 - 2026-11-27: Book III Chapter 1 direvisi menjadi Draft 0.2; Continuity Audit Draft 0.3, Character Knowledge Matrix Draft 0.3, dan Manuscript Index Draft 0.3 diterbitkan. Book II–III Transition Audit Draft 0.2 dan Book II Index Draft 1.2 diterbitkan.
-- 2026-11-27: Book II Chapters 5–6 direvisi menjadi Draft 0.4 untuk membedakan salinan lapangan, laporan kontrak Meridian, dan laporan akhir Tavian. Storyboard Chapter 6 Draft 0.2 disinkronkan. Unified Line-Edit Audit Draft 0.3 menyelesaikan temuan laporan dan mempertahankan geografi lintasan sempit sebagai OPEN QUESTION. Book II Storyboard Index Draft 0.2 dan Manuscript Index Draft 1.3 diterbitkan. Book II dan III tetap DALAM REVISI.
+- 2026-11-27: Book II Chapters 5–6 direvisi menjadi Draft 0.4 untuk membedakan salinan lapangan, laporan kontrak Meridian, dan laporan akhir Tavian. Storyboard Chapter 6 Draft 0.2 disinkronkan. Unified Line-Edit Audit Draft 0.3 menyelesaikan temuan laporan dan mempertahankan geografi lintasan sempit sebagai OPEN QUESTION. Book II Storyboard Index Draft 0.2 dan Manuscript Index Draft 1.3 diterbitkan.
+- 2026-11-27: Book III Chapter 2 direvisi menjadi Draft 0.2 untuk memakai catatan perjalanan Hollow Vale yang telah diperkenalkan pada Chapter 1 dan menghapus asumsi pendanaan kurator yang tidak didukung outline. Continuity Audit Draft 0.4 dan Manuscript Index Draft 0.4 diterbitkan. Book II dan III tetap DALAM REVISI.
