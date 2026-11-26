@@ -77,7 +77,7 @@ Seraphine menyusun bagian kondisi fisik dan dokumentasi. Tavian menambahkan peta
 
 Ilyra menulis bagian pembacaan tanda.
 
-Ia menyatakan bahwa satu rangkaian karakter dapat dibaca sebagai nama NVR AGAIN. Bagian lain masih belum dapat diterjemahkan karena kerusakan, variasi bentuk, dan kurangnya sumber pembanding.
+Ia menyatakan bahwa satu rangkaian karakter dapat ditransliterasikan sebagai NVR AGAIN. Ini bukan terjemahan seluruh prasasti. Bagian lain masih belum dapat diterjemahkan karena kerusakan, variasi bentuk, dan kurangnya sumber pembanding.
 
 Dalam laporan, mereka menyebut batu tersebut sebagai Prasasti pertama yang berhasil mereka identifikasi dalam penyelidikan ini.
 
@@ -103,7 +103,7 @@ Sebagian orang menganggapnya nama tempat. Ada yang menduga nama seseorang. Yang 
 
 Tidak ada satu pun dugaan yang dapat dibuktikan.
 
-Ilyra menerima beberapa pertanyaan tentang arti nama tersebut. Ia menjawab dengan keterangan yang sama: pembacaan karakter dapat dipertanggungjawabkan, tetapi referennya belum diketahui.
+Ilyra menerima beberapa pertanyaan tentang arti nama tersebut. Ia menjawab dengan keterangan yang sama: transliterasi rangkaian tanda dapat dipertanggungjawabkan, tetapi referen dan maknanya belum diketahui.
 
 Seraphine memastikan salinan yang mereka kirim tidak menghilangkan catatan tentang bagian yang rusak.
 
@@ -161,8 +161,8 @@ Namun, maknanya masih tertinggal.
 - Arsip Lentera, tim Meridian, dan Vellum & Iron Recovery memiliki kepentingan berbeda; tidak ada pihak yang memperoleh hak penuh atas batu.
 - Dokumentasi bersama mencakup sumber, metode, kondisi, dan tingkat kepastian.
 - Batu disebut sebagai Prasasti pertama yang berhasil diidentifikasi kelompok; tidak ada klaim bahwa Prasasti lain telah ditemukan atau dipahami.
-- Nama NVR AGAIN diketahui melalui pembacaan Prasasti pertama dan mulai beredar di kalangan peneliti.
-- Makna nama, referen, pembuat, hubungan dengan musik Great War, dan konteks sejarah tetap belum dijelaskan.
+- Nama NVR AGAIN diketahui melalui transliterasi pada Prasasti pertama dan mulai beredar di kalangan peneliti.
+- Makna nama, referen, pembuat, hubungan dengan musik Great War, dan konteks sejarah tetap belum dijelaskan. Hasil yang tersedia hanya transliterasi satu rangkaian tanda, bukan terjemahan seluruh naskah.
 - Kelompok berencana menelusuri catatan sejarah lebih lanjut untuk Buku V.
 - Tidak ada pengungkapan tentang LEAX.
 - Semua detail prosedur, organisasi, dan dialog tetap NON-CANON; fakta pengungkapan nama mengikuti CANON.
