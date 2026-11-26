@@ -185,7 +185,7 @@
 
 **Panel 5.** Seraphine membandingkan satu susunan tanda dengan fragmen Buku I.
 
-## Halaman 15 — Sumber Ketiga
+## Halaman 15 — Catatan Tambahan
 
 **Panel 1.** Ada satu susunan yang mirip, tetapi tidak lengkap.
 
