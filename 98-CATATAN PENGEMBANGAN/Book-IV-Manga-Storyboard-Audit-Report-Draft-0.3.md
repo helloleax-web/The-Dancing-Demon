@@ -1,5 +1,5 @@
 # Book IV — Manga Storyboard Cross-Check Audit
-## Draft 0.4 — Setelah Mekanisme B dan Akses A
+## Draft 0.5 — Setelah Batas Konsultasi Diperjelas
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Ruang lingkup:** storyboard Chapters 1–4 dibandingkan dengan manuskrip aktif dan Scene Outline Draft 0.6.
@@ -11,7 +11,7 @@
 | 1 | Chapter 1 Revision Draft 0.3 | Chapter 1 Revision Draft 0.3 | LULUS setelah koreksi sumber rute |
 | 2 | Chapter 2 Revision Draft 0.2 | Chapter 2 Revision Draft 0.2 | LULUS untuk jendela pengetahuan dan dokumentasi |
 | 3 | Chapter 3 Revision Draft 0.5 | Chapter 3 Storyboard Revision Draft 0.3 | LULUS BERSYARAT untuk akses A, mekanisme B, dan reveal Scene 14 |
-| 4 | Chapter 4 Revision Draft 0.3 | Chapter 4 Revision Draft 0.2 | LULUS untuk pemisahan sumber dan pelaporan |
+| 4 | Chapter 4 Revision Draft 0.5 | Chapter 4 Storyboard Revision Draft 0.3 | LULUS BERSYARAT untuk pemisahan sumber dan batas non-reproduksi |
 
 ## 2. Koreksi Bab 1
 
@@ -38,13 +38,13 @@ Koreksi:
 - Halaman 5–8: naskah interpretasi dan salinan bunyi diperlihatkan sebagai pasangan.
 - Halaman 9–14: pembacaan baris demi baris dan pendengaran salinan bunyi; judul belum terlihat.
 - Halaman 15: NVR AGAIN pertama kali muncul sebagai judul naskah.
-- Halaman 16–20: karakter membatasi kesimpulan dan menghadapi kepentingan pihak lain.
+- Halaman 16–20: karakter membatasi kesimpulan dan menghadapi kepentingan pihak lain. Catatan kerja bersifat non-reproduktif; tidak ada materi sumber yang dibawa atau disalin.
 - Tidak ada visual LEAX, Great War, atau identitas pemilik suara.
 
 ## 5. Bab 4
 
-- Storyboard Revision Draft 0.2 memisahkan map dokumentasi Northglass dari dokumentasi naskah Prasasti I.
-- Naskah dan salinan bunyi tetap berpasangan.
+- Storyboard Revision Draft 0.3 memisahkan map dokumentasi Northglass dari catatan konsultasi naskah Prasasti I.
+- Naskah dan salinan bunyi tetap berpasangan dan berada bersama penjaganya; kelompok tidak membuat atau membawa salinan sumber.
 - NVR AGAIN disebut sebagai judul naskah, bukan tulisan yang ditemukan pada batu.
 - Isi interpretasi divisualkan sebagai perspektif penafsir, dengan dugaan dan UNKNOWN tetap terlihat.
 - Hubungan asal-usul Northglass dan naskah tidak dikunci.
@@ -57,6 +57,6 @@ Koreksi:
 
 ## 7. Kesimpulan
 
-Keempat storyboard memiliki baseline yang konsisten dengan mekanisme B dan transisi Book III–IV pada tingkat teks/panel yang diperiksa. Chapter 3 kini juga menampilkan jalur akses A sebagai keputusan pengembangan NON-CANON. Audit ini bukan persetujuan visual final. Provenance materi tetap UNKNOWN. Produksi thumbnail, pengujian ritme halaman, sinkronisasi final setelah proofread, dan persetujuan kreator masih diperlukan.
+Keempat storyboard memiliki baseline yang konsisten dengan mekanisme B dan transisi Book III–IV pada tingkat teks/panel yang diperiksa. Chapter 3 menampilkan jalur akses A; Chapters 3–4 juga menegaskan konsultasi terawasi dan larangan membawa/menyalin materi sumber. Audit ini bukan persetujuan visual final. Provenance materi tetap UNKNOWN. Produksi thumbnail, pengujian ritme halaman, sinkronisasi final setelah proofread, dan persetujuan kreator masih diperlukan.
 
 **Dampak CANON: tidak ada.**
