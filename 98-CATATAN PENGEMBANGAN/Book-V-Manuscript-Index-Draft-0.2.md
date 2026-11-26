@@ -328,3 +328,8 @@
 ## Eksplorasi visual karakter Tavian (NON-CANON)
 
 - [Tavian Hand Anatomy & Grip Refinement — Draft 0.1](Tavian-Hand-Grip-Refinement-Draft-0.1.md) — studi kontak tangan dengan map, dokumen, dan alat tulis; tidak menetapkan anatomi atau penampilan karakter.
+
+
+## Tavian visual development — proportion study
+
+- [Tavian Character Proportion Study — Draft 0.1](Tavian-Character-Proportion-Study-Draft-0.1.md) — membandingkan tiga rentang proporsi abstrak dalam pose berdiri, berjalan, dan duduk. Semua opsi NON-CANON; tidak menetapkan penampilan fisik Tavian.
