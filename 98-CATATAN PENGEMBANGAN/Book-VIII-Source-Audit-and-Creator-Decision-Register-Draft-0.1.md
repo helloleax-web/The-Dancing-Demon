@@ -83,7 +83,7 @@ Semua detail publikasi dan reaksi masyarakat dalam manuskrip Buku VII masih NON-
 
 ## 6. Arah makna judul yang dipilih untuk draft
 
-Pengguna menyerahkan pengembangan makna judul kepada co-writer. Berdasarkan pembacaan CANON dan ketiga belas naskah Prasasti, arah kerja yang dipilih adalah:
+Kreator telah mengesahkan makna judul ini sebagai CANON pada 2026-11-26. Rumusan resminya tercatat di `01-CANON/The-Dancing-Demon-Title-Meaning.md`:
 
 **The Dancing Demon bukan nama satu monster atau identitas Abstract Existence. Judul ini adalah metafora bagi pola ketika rasa takut, penderitaan, dan hal yang belum dipahami terus diberi wajah berbeda oleh orang yang mencoba menjelaskannya.**
 
@@ -93,7 +93,7 @@ Pengguna menyerahkan pengembangan makna judul kepada co-writer. Berdasarkan pemb
 
 Rujukan lengkap, dasar sumber, dan batas pemaknaan ada di [The Dancing Demon — Title Meaning Proposal — Draft 0.1](The-Dancing-Demon-Title-Meaning-Proposal-Draft-0.1.md).
 
-Arah ini dipakai sebagai working meaning untuk mengembangkan Buku VIII. Statusnya NON-CANON sampai pengguna mengesahkan. Pemberian mandat kepada co-writer untuk mengembangkan makna tidak otomatis mengubah fakta CANON yang telah ada.
+Makna ini telah menjadi CANON. Ia mengesahkan makna tematik judul saja dan tidak mengubah fakta objektif Prasasti atau kosmologi.
 
 ## 7. Keputusan plot akhir yang masih terbuka
 
@@ -121,4 +121,4 @@ Arah ini dipakai sebagai working meaning untuk mengembangkan Buku VIII. Statusny
 
 ## 8. Status
 
-Dokumen ini adalah register pengembangan NON-CANON. Tidak ada makna judul, ending, nasib karakter, identitas antagonis, atau jawaban misteri baru yang ditetapkan.
+Dokumen ini adalah register pengembangan NON-CANON. Makna judul sudah CANON melalui dokumen khusus; ending, nasib karakter, identitas antagonis, dan jawaban misteri lain tetap terbuka.
