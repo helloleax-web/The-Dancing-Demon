@@ -1,5 +1,5 @@
 # Book IV — Manuscript Continuity Audit
-## Draft 1.5 — Cross-Chapter Proofread Audit
+## Draft 1.6 — Active Proofread and Audit Versions
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Ruang lingkup:** manuskrip Chapters 1–4 Revision Draft 0.4/0.3, transisi Book III–IV, CANON *Thirteen Prasasti*, dan metode penafsiran CANON.
@@ -8,7 +8,7 @@
 
 - Chapter 1 — Proofread Draft 0.2 (basis Revision Draft 0.4).
 - Chapter 2 — Proofread Draft 0.2 (basis Revision Draft 0.3).
-- Chapter 3 — Proofread Draft 0.1 (basis Revision Draft 0.5).
+- Chapter 3 — Proofread Draft 0.2 (basis Revision Draft 0.5).
 - Chapter 4 — Proofread Draft 0.1 (basis Revision Draft 0.5).
 - Scene Outline — Draft 0.7.
 - Character Knowledge Matrix — Draft 0.8.
@@ -52,11 +52,11 @@ Chapter 3 Scene 11–12 kini menjelaskan jalur akses pada level pengembangan: Jo
 
 - Line edit empat bab: selesai.
 - Pemeriksaan mekanis awal: selesai.
-- Proofread pass manual per bab: selesai pada Draft 0.2/0.3.; audit final lintas bab dan persetujuan kreator belum selesai.
+- Proofread pass manual per bab: selesai pada Draft 0.2/0.3; sequential cross-chapter audit Draft 0.1 selesai.
 - Storyboard cross-check empat bab: diperbarui untuk akses terbatas pada Chapter 3 Revision 0.3 dan Chapter 4 Revision 0.4; belum ada thumbnail/page-rhythm/lettering/layout.
 - Sinkronisasi storyboard Bab 2 ke revisi prosa terbaru: perlu verifikasi versi.
 - Persetujuan kreator: belum ada.
 
-**Kesimpulan:** Buku IV telah lulus sequential text-level continuity/proofread audit Draft 0.1, tetapi belum final. Jalur akses naratif kini diterapkan dan disinkronkan pada prosa, outline, matriks pengetahuan, dan storyboard Bab 3. Provenance tetap terbuka; proofread pass manual per bab telah dilakukan dan diterbitkan sebagai Draft 0.1. Final audit lintas bab, sinkronisasi storyboard terakhir, dan persetujuan kreator masih tertunda.
+**Kesimpulan:** Buku IV telah lulus sequential text-level continuity/proofread audit Draft 0.1, tetapi belum final. Jalur akses naratif kini diterapkan dan disinkronkan pada prosa, outline, matriks pengetahuan, dan storyboard Bab 3–4. Provenance tetap terbuka; proofread pass manual per bab dan sequential cross-chapter audit Scenes 1–20 selesai. Persetujuan kreator dan produksi visual masih tertunda.
 
 **Dampak CANON: tidak ada.**
