@@ -1,13 +1,13 @@
 # Book IV — Manuscript Index — Draft 0.3
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
-**Progress:** 20 scene prosa; Bab 3–4 memiliki revision 0.2 dengan pembedaan objek Northglass dan naskah interpretasi.  
+**Progress:** 20 scene prosa; seluruh empat bab memiliki revision pass 0.2. Pembedaan objek Northglass dan naskah interpretasi dipertahankan sebagai model kerja NON-CANON.  
 **Jumlah kata:** sekitar 4.550 kata adalah baseline pass pertama; hitungan ulang dilakukan setelah line edit dan revisi seluruh bab.
 
 ## Struktur bab
 
-1. [Bab 1 — Jejak di Luar Fasilitas](Book-IV-Manuscript-Chapter-01-Draft-0.1.md) — Scenes 1–5 (**1.218 kata**)
-2. [Bab 2 — Batu yang Tidak Terbaca](Book-IV-Manuscript-Chapter-02-Draft-0.1.md) — Scenes 6–10 (**1.059 kata**)
+1. [Bab 1 — Jejak di Luar Fasilitas](Book-IV-Manuscript-Chapter-01-Draft-0.1.md) — Scenes 1–5 (revision 0.2)
+2. [Bab 2 — Batu yang Tidak Terbaca](Book-IV-Manuscript-Chapter-02-Draft-0.1.md) — Scenes 6–10 (revision 0.2)
 3. [Bab 3 — Nama yang Terlepas](Book-IV-Manuscript-Chapter-03-Revision-Draft-0.2.md) — Scenes 11–15 (revision 0.2)
 4. [Bab 4 — Setelah Nama Ditemukan](Book-IV-Manuscript-Chapter-04-Revision-Draft-0.2.md) — Scenes 16–20 (revision 0.2)
 
@@ -27,12 +27,14 @@
 4. Arah riset Great War pada penutup tetap kemungkinan pencarian sumber, bukan pengetahuan karakter.
 5. Revision 0.2 membedakan objek bertulis Northglass sebagai artefak fisik terkait penemuan Prasasti I dari naskah interpretasi keturunan LEAX yang merupakan dokumen CANON tersendiri. Hubungan asal-usul/informasi di antara keduanya tetap UNKNOWN.
 6. Semua detail situs, izin, organisasi dalam peran operasional, dan metode transliterasi tetap NON-CANON.
+7. Bab 1 revision 0.2 membatasi kewenangan penjaga jalur dan memisahkan indeks, objek fisik, serta naskah interpretasi.
+8. Bab 2 revision 0.2 memperjelas dokumentasi per bidang, klasifikasi guratan, dan jejak versi salinan tanpa mengklaim terjemahan.
 
 ## Status utama
 
 - Buku IV memenuhi fungsi pengungkapan nama NVR AGAIN melalui penemuan Prasasti pertama.
 - Jendela pengungkapan dijaga: tidak ada NVR AGAIN dalam narasi sebelum Scene 14.
-- Buku IV belum final; metode transliterasi, izin situs, konflik hak dokumentasi, dan pengembangan prosa masih perlu diperjelas. Model medium Northglass sudah dipakai sebagai keputusan pengembangan NON-CANON.
+- Buku IV belum final; metode transliterasi di Bab 3 perlu diuji terhadap standar dokumentasi Bab 2, konflik hak dokumentasi, pengembangan prosa, dan line edit lintas bab masih perlu dikerjakan. Model medium Northglass sudah dipakai sebagai keputusan pengembangan NON-CANON.
 - Prosa masih pendek dan membutuhkan pengembangan adegan, bukan sekadar penambahan penjelasan.
 
 ## Produksi manga
