@@ -70,3 +70,10 @@
 - Bab 2–4 belum boleh dinyatakan lulus audit CANON atau masuk proofreading final sebelum mekanisme hubungan Northglass–Prasasti I diputuskan dan prosa diselaraskan.
 - [Book IV Manuscript Continuity Audit — Draft 0.6](Book-IV-Manuscript-Continuity-Audit-Draft-0.4.md)
 - Tidak ada perubahan CANON.
+
+
+## Keputusan mekanisme penemuan Prasasti I
+
+- [Book IV — Prasasti I Discovery Mechanism — Creator Decision Brief Draft 0.1](Book-IV-Prasasti-I-Discovery-Mechanism-Decision-Brief-Draft-0.1.md)
+- Status: OPEN QUESTION. Rekomendasi editorial sementara Opsi B, belum disahkan kreator.
+- Bab 2–4 dan storyboard Bab 2–4 ditahan dari sinkronisasi final sampai keputusan mekanisme dibuat.
