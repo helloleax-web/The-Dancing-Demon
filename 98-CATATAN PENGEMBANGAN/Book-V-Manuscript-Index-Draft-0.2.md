@@ -1,13 +1,13 @@
 # Book V — Manuscript Index — Draft 0.4
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
-**Progress:** 22 scene; seluruh lima bab telah memiliki pass revisi 0.3 atau lebih baru. Line edit dialog Bab 1–2 dan Bab 4 Scenes 14–18 telah dilakukan; Bab 3 Scenes 9–13 menerima revisi ritme terarah. Bab 5 Scenes 19–22 telah menerima line edit terarah; audit editorial lintas lima bab selesai. Proofreading akhir Bab 1 Scenes 1–4 telah dilakukan; Bab 2–5 menunggu giliran.  
+**Progress:** 22 scene; seluruh lima bab telah memiliki pass revisi 0.3 atau lebih baru. Line edit dialog Bab 1–2 dan Bab 4 Scenes 14–18 telah dilakukan; Bab 3 Scenes 9–13 menerima revisi ritme terarah. Bab 5 Scenes 19–22 telah menerima line edit terarah; audit editorial lintas lima bab selesai. Proofreading akhir Bab 1 Scenes 1–4 dan Bab 2 Scenes 5–8 telah dilakukan; Bab 3–5 menunggu giliran.  
 **Jumlah kata:** 11.488 kata termasuk judul, metadata, dan catatan tambahan; dihitung ulang setelah revision pass 0.3.
 
 ## Struktur bab
 
 1. [Bab 1 — Arsip yang Tidak Sepakat](Book-V-Manuscript-Chapter-01-Revision-Draft-0.2.md) — Scenes 1–4 (revision 0.4)
-2. [Bab 2 — Musik Tanpa Nama](Book-V-Manuscript-Chapter-02-Draft-0.1.md) — Scenes 5–8 (revision 0.3)
+2. [Bab 2 — Musik Tanpa Nama](Book-V-Manuscript-Chapter-02-Draft-0.1.md) — Scenes 5–8 (revision 0.4)
 3. [Bab 3 — Resonansi Hitam](Book-V-Manuscript-Chapter-03-Revision-Draft-0.2.md) — Scenes 9–13 (revision 0.3)
 4. [Bab 4 — Sejarah yang Diperebutkan](Book-V-Manuscript-Chapter-04-Draft-0.1.md) — Scenes 14–18 (revision 0.3)
 5. [Bab 5 — Perang yang Tertinggal](Book-V-Manuscript-Chapter-05-Revision-Draft-0.2.md) — Scenes 19–22 (revision 0.3)
@@ -111,3 +111,13 @@
 - Tidak ada perubahan alur, fakta, dialog bermakna, atau CANON.
 - Jumlah kata terbaru: **11.488 kata** termasuk judul, metadata, dan catatan tambahan.
 - Status: Bab 1 proofreading selesai; Bab 2–5 belum diproofread.
+
+
+## Proofreading akhir — Bab 2
+
+- Bab 2 Scenes 5–8 menerima proofreading mikro.
+- Koreksi utama: merapikan konstruksi waktu dalam kutipan, menghapus pengulangan subjek Seraphine, memperhalus beberapa dialog, dan menyederhanakan repetisi frasa tanpa mengubah bobot kesimpulan.
+- Hubungan NVR AGAIN dengan musik Great War tetap berupa identifikasi yang didukung perbandingan sumber; asal, pencipta, penyebar, tujuan, dan mekanisme tetap UNKNOWN.
+- Tidak ada perubahan CANON.
+- Jumlah kata manuskrip setelah penghitungan ulang lima bab: **11.488 kata** termasuk judul, metadata, dan catatan tambahan.
+- Status: Bab 1–2 proofreading selesai; Bab 3–5 belum diproofread.
