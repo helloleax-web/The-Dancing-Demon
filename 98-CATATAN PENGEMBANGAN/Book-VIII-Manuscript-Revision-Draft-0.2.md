@@ -378,29 +378,61 @@ Ilyra tidak tampak bangga. Ia hanya melanjutkan pekerjaan.
 
 Malam itu, setelah pengukuran lapangan selesai, Seraphine membuka kembali salinan catatan Great War yang mereka bawa sebagai bahan pembanding metode.
 
-Tidak ada alasan langsung untuk menghubungkan tanggul dengan perang. Namun kelompok telah membawa arsip karena permintaan awal juga mencakup pemeriksaan dokumen lama yang ditemukan di ruang penyimpanan permukiman.
+Dokumen tersebut disimpan di ruang penyimpanan bersama beberapa daftar pengiriman bahan dan catatan perubahan jalur. Tidak ada alasan langsung untuk menghubungkan tanggul dengan perang. Namun pihak permukiman meminta mereka memeriksa apakah catatan itu dapat membantu memahami perubahan jalur lama.
+
+Seorang penjaga bernama Olan membawa kotak kayu ke meja. Ia meletakkannya dengan hati-hati, lalu tetap berdiri di dekatnya.
+
+“Ini bukan milik dewan,” katanya. “Keluarga kami menyimpannya. Aku mengizinkan kalian membaca, bukan membawanya keluar.”
+
+Seraphine mengangguk. “Kami tidak akan membawa dokumen aslinya.”
+
+Olan membuka kotak itu sendiri. Di dalamnya ada lembar-lembar yang tepinya aus, beberapa dilipat dua, dan satu daftar yang tintanya telah memudar. Seraphine meminta izin sebelum menyentuh setiap lembar. Olan mengawasi tangannya, bukan dengan sikap bermusuhan, tetapi seperti seseorang yang sudah terlalu sering melihat benda rapuh diperlakukan seolah tidak akan rusak.
 
 Dokumen itu tidak menceritakan pertempuran. Isinya daftar pengiriman bahan dan catatan perubahan jalur. Beberapa lembar memakai istilah yang pernah muncul dalam sumber sejarah lain, tetapi konteksnya berbeda.
 
 “Ini tidak membuktikan bahwa tempat ini terlibat dalam Great War,” kata Seraphine. “Kita hanya bisa mengatakan bahwa dokumen ini menggunakan istilah yang juga ditemukan pada arsip periode perang.”
 
-“Apakah itu berarti salinannya berasal dari masa yang sama?” tanya Tavian.
+Olan menunjuk satu baris. “Kakekku selalu bilang catatan itu dibuat ketika jalur lama masih dipakai.”
 
-“Belum. Istilah dapat dipakai lebih lama daripada peristiwa yang pertama kali membuatnya dikenal.”
+“Bisa jadi,” jawab Ilyra. “Tapi tulisan ini belum cukup untuk menentukan kapan lembar ini dibuat. Bisa saja catatan yang lebih tua disalin kemudian.”
 
-Ilyra membandingkan bentuk tulisan dan susunan tanggal. “Ada beberapa ciri yang cocok dengan periode yang diduga. Tapi lembar ini bisa saja disalin kemudian.”
+“Jadi cerita keluarga kami tidak bisa dipakai?”
 
-Daren memandang tumpukan kertas. “Kita datang untuk memeriksa saluran air. Sekarang kita punya sejarah yang tidak bisa kita pastikan.”
+“Bisa dipakai sebagai kesaksian tentang bagaimana dokumen itu diwariskan,” kata Seraphine. “Tapi itu berbeda dari bukti tanggal penulisannya.”
+
+Olan menarik tangannya dari meja. “Kalian selalu memisahkan semuanya sampai tidak ada yang tersisa.”
+
+Mira memandangnya. “Kalau kami menyatukan semuanya terlalu cepat, kami mungkin akan mengambil sesuatu dari cerita keluargamu yang sebenarnya tidak pernah mereka katakan.”
+
+Olan tidak langsung menjawab. Ia duduk dan mulai menceritakan bagaimana kotak itu disimpan, siapa yang terakhir membukanya, dan bagian mana yang tidak boleh disalin karena kertasnya mulai rapuh. Seraphine mencatat kesaksian itu secara terpisah dari isi dokumen.
+
+Tavian memperhatikan daftar pengiriman. “Apakah ada nama tempat yang masih dikenali?”
+
+Olan menunjuk dua nama. Salah satunya sudah tidak dipakai. Yang lain memiliki beberapa kemungkinan lokasi.
+
+Ilyra menyalinnya ke lembar kerja, lalu berhenti ketika melihat bentuk yang mirip dengan istilah pada catatan lain.
+
+“Jangan hubungkan dulu,” kata Seraphine.
+
+“Aku belum menghubungkan. Aku hanya menandai bentuknya.”
+
+“Pastikan tanda itu tidak terlihat seperti kesimpulan.”
+
+Ilyra mengubah tanda menjadi catatan kecil: *kemiripan bentuk; identifikasi belum dilakukan*.
+
+Daren menutup jendela ketika angin mulai mengangkat sudut kertas. “Kita datang untuk memeriksa saluran air. Sekarang kita punya sejarah yang tidak bisa kita pastikan.”
 
 “Dua pekerjaan berbeda,” kata Mira. “Keduanya tetap harus ditangani dengan benar.”
 
-Kael menutup kotak arsip. “Kalau dokumen ini punya nilai, seseorang akan ingin membawanya.”
+Kael menutup kotak setelah Olan memberi izin. “Kalau dokumen ini punya nilai, seseorang akan ingin membawanya.”
 
 “Tidak ada yang membawanya,” kata Seraphine. “Kita mencatat kondisi, meminta izin untuk membuat salinan, dan menyerahkan keputusan penyimpanan kepada pemiliknya.”
 
-Tavian menyadari bahwa ia tidak lagi memandang arsip sebagai jalan menuju jawaban yang lebih besar. Arsip itu juga benda milik seseorang, dengan sejarah penggunaan dan risiko sendiri.
+Olan menutup pengait kotak sendiri. “Kalau kalian membuat salinan, aku ingin satu salinan kembali ke sini.”
 
-Mereka tidak menemukan penjelasan baru tentang Great War. Mereka menemukan alasan lain untuk berhati-hati saat menyebut sesuatu sebagai bukti.
+“Kau akan mendapatkannya,” kata Tavian.
+
+Mereka tidak menemukan penjelasan baru tentang Great War. Mereka menemukan batas yang harus dihormati sebelum sebuah dokumen dapat disebut sebagai bukti.
 
 ## Scene 10 — Nama dan Bunyi
 
@@ -410,23 +442,35 @@ Di ruang penyimpanan, seorang penjaga menyebut nama NVR AGAIN ketika melihat tan
 
 Seraphine mengoreksi dengan hati-hati. “Kita tahu nama NVR AGAIN terungkap melalui Prasasti I. Kita juga tahu musik terdengar selama Great War. Itu tidak memberi kita asal, pencipta, atau mekanisme penyebarannya.”
 
-“Kalau begitu, apa gunanya nama itu?”
+Penjaga itu memandang daftar yang sedang disalin. “Kalau aku menulis NVR AGAIN di katalog, apakah orang akan mengira itu nama pemainnya?”
 
-“Nama membantu kita merujuk pada sesuatu,” kata Ilyra. “Bukan otomatis menjelaskan sesuatu.”
+“Bisa saja,” kata Kael. “Orang sering membaca nama sebagai jawaban sebelum membaca keterangan.”
 
-Penjaga itu tampak tidak puas. “Orang-orang ingin tahu siapa yang memainkan musik itu.”
+“Lalu bagaimana harus ditulis?”
+
+Ilyra menggeser lembar kerja ke arahnya. “Sebagai nama yang tercatat pada Prasasti I. Hubungan dengan musik Great War dicatat sesuai sumber yang tersedia. Jangan tambahkan keterangan pencipta atau pelaku.”
+
+Penjaga itu mengerutkan dahi. “Orang-orang ingin tahu siapa yang memainkan musik itu.”
 
 “Kita juga,” jawab Tavian. “Tapi keinginan bukan bukti.”
+
+Penjaga itu mengambil pena. Ia menulis satu keterangan, lalu berhenti. “Kalau musik itu terdengar di seluruh dunia, pasti ada yang tahu dari mana asalnya.”
+
+“Pasti ada yang pernah mendengar,” kata Mira. “Itu tidak sama dengan mengetahui asalnya.”
 
 Kael memandang katalog yang terbuka. “Ada orang yang akan menjual jawaban meskipun mereka hanya punya nama.”
 
 “Dan ada orang yang akan membeli karena mereka ingin percaya,” kata Mira.
 
+Penjaga itu menghapus satu kata yang baru saja ia tulis. “Aku hampir menulis ‘pemain NVR AGAIN’.”
+
+“Bagus kau berhenti,” kata Seraphine. “Tulislah apa yang bisa diperiksa orang lain.”
+
 Tavian teringat salinan ringkasan yang beredar. Satu potongan informasi dapat berubah menjadi klaim ketika orang mengulanginya tanpa konteks. Nama yang diketahui dapat membuat orang merasa telah memahami sumbernya.
 
-“Masukkan ke laporan,” katanya. “Nama NVR AGAIN dikenali. Hubungannya dengan musik Great War dicatat sesuai sumber. Hal lain tetap terbuka.”
+“Masukkan ke laporan,” katanya. “Nama NVR AGAIN dikenali melalui Prasasti I. Hubungannya dengan musik Great War dicatat sesuai sumber. Hal lain tetap terbuka.”
 
-Seraphine menulis kalimat itu.
+Seraphine menulis kalimat itu. Penjaga menyalinnya ke katalog dan membubuhkan tanda bahwa keterangan tersebut tidak mengidentifikasi pencipta atau pelaku.
 
 Tidak ada musik yang terdengar. Tidak ada petunjuk baru yang muncul. Nama tersebut tetap berada di antara mereka sebagai sesuatu yang diketahui, tetapi belum dapat dijelaskan.
 
@@ -488,9 +532,9 @@ Ilyra menutup indeks. Ia tidak tampak lega. Mengoreksi diri sendiri tidak terasa
 
 Perubahan pertama terjadi pada pengukuran suara.
 
-Seorang pekerja melaporkan bunyi berulang dari bagian bawah jalan, tetapi ketika Daren dan Tavian mendekat, mereka tidak mendengar apa pun. Seraphine menempatkan alat pencatat pada jarak aman. Catatan pertama menunjukkan getaran singkat. Catatan kedua tidak menunjukkan pola yang sama.
+Seorang pekerja melaporkan bunyi berulang dari bagian bawah jalan. Ketika Daren dan Tavian mendekat, mereka tidak mendengar apa pun. Seraphine menempatkan alat pencatat pada jarak aman. Catatan pertama menunjukkan getaran singkat. Catatan kedua tidak menunjukkan pola yang sama.
 
-Dua orang lain mengatakan mereka mendengar bunyi seperti langkah. Orang ketiga bersikeras bahwa bunyinya berasal dari air.
+Dua orang lain mengatakan mereka mendengar bunyi seperti langkah. Orang ketiga bersikeras bahwa bunyinya berasal dari air. Lysa mengatakan satu pekerja mendengarnya sebelum fajar, tetapi orang itu sudah pulang untuk menjaga keluarganya.
 
 “Apakah ada sesuatu di bawah sana?” tanya pengawas.
 
@@ -500,27 +544,45 @@ Dua orang lain mengatakan mereka mendengar bunyi seperti langkah. Orang ketiga b
 
 “Bisa jadi,” kata Daren. “Tapi kita tidak akan mengirim orang masuk hanya berdasarkan dugaan.”
 
+Seorang pekerja muda mengajukan diri untuk turun membawa alat pencatat. Ia mengatakan dirinya pernah masuk ke bagian itu ketika masih kering.
+
+Daren menolak. “Keadaan sekarang berbeda.”
+
+“Aku tahu jalannya.”
+
+“Kau tahu jalannya ketika tanahnya tidak bergerak.”
+
+Pekerja itu tampak hendak membantah, tetapi Lysa menahannya. “Kau sudah membawa keluargamu ke tempat yang lebih tinggi. Jangan membuatku harus mengirim orang mencarimu juga.”
+
+Ia akhirnya mundur, meski jelas tidak puas.
+
 Mira berbicara dengan para pekerja secara terpisah. Cerita mereka tidak sepenuhnya cocok. Sebagian mendengar bunyi pada waktu yang sama, sebagian mengingatnya pada malam berbeda. Tidak ada kesepakatan tentang arah asal suara.
 
 Seraphine menulis setiap kesaksian tanpa menyatukannya. Ia menambahkan catatan bahwa pengukuran alat tidak mengonfirmasi seluruh laporan.
 
 Ilyra memeriksa catatan waktu. “Ada kemiripan, tapi tidak cukup untuk menyebutnya satu kejadian.”
 
-Tavian menatap jalan. Ia merasakan dorongan untuk memberi nama pada apa yang mereka hadapi. Nama akan membuat laporan terasa lebih selesai. Nama juga akan membuat orang merasa ada sesuatu yang dapat mereka tunjuk.
+“Kalau kita menganggap semua laporan berbeda, kita bisa melewatkan sesuatu,” kata Tavian.
 
-“Kita tulis apa yang diamati,” katanya. “Bunyi dilaporkan. Getaran tercatat sekali. Sumbernya belum diketahui.”
+“Kalau kita menganggap semua laporan sama, kita bisa menciptakan sesuatu yang tidak pernah terjadi,” jawab Ilyra.
 
-“Dan Abstract Existence?” tanya Kael pelan.
+Tavian menatapnya. Ia tidak suka kedua pilihan itu sama-sama memiliki risiko.
+
+Seraphine memutar alat pencatat agar mereka dapat melihat hasilnya. “Kita tidak perlu memilih salah satu sekarang. Kita bisa mencatat bahwa ada beberapa kesaksian, satu getaran singkat yang terekam, dan tidak ada pola yang terulang pada pemeriksaan berikutnya.”
+
+Kael melihat ke arah celah di bawah jalan. “Dan Abstract Existence?”
 
 Tavian menoleh. “Kita tidak punya bukti untuk menyebutnya penyebab.”
 
-Tidak ada yang membantah.
+“Bukan berarti tidak mungkin.”
+
+“Benar. Tapi kemungkinan bukan dasar untuk menulis penyebab.”
+
+Daren memeriksa penanda batas. “Kita juga tidak punya alasan untuk mendekat lagi malam ini.”
 
 Mereka menutup pemeriksaan untuk hari itu. Bunyi tersebut tidak muncul lagi. Jalan tetap retak. Air tetap tertahan. Masalah yang harus mereka selesaikan tidak berubah menjadi lebih mudah hanya karena mereka menemukan sesuatu yang tidak dapat dijelaskan.
 
----
-
-# BAGIAN IV — PILIHAN YANG TIDAK BISA DIWAKILKAN
+Saat kembali ke tempat kerja, Ilyra meminta salinan catatan waktu. Ia tidak menulis satu judul untuk semua laporan. Ia memberi setiap kesaksian nomor terpisah, lalu menambahkan satu catatan: *belum diketahui apakah laporan-laporan ini merujuk pada kejadian yang sama*.
 
 ## Scene 13 — Apa yang Harus Diselamatkan
 
