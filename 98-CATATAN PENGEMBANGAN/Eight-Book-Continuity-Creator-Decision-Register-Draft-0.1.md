@@ -1,4 +1,4 @@
-# Eight-Book Continuity — Creator Decision Register — Draft 0.1
+# Eight-Book Continuity — Creator Decision Register — Draft 0.2
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Tujuan:** memisahkan keputusan yang hanya dapat ditetapkan kreator dari perbaikan editorial yang dapat dilakukan tanpa mengubah lore. Tidak ada pilihan dalam dokumen ini yang otomatis menjadi CANON.
@@ -7,16 +7,16 @@
 
 | ID | Prioritas | Isu | Status |
 |---|---|---|---|
-| CD-01 | P1 | Hubungan objek Northglass dengan naskah interpretasi Prasasti I | Menunggu kreator |
-| CD-02 | P1 | Cakupan pembahasan hilangnya LEAX di Buku V | Menunggu kreator |
-| CD-03 | P1 | Status pedoman Metode Penafsiran 13 Prasasti | Menunggu kreator |
+| CD-01 | P1 | Hubungan objek Northglass dengan naskah interpretasi Prasasti I | Ditangani pada level pengembangan; hubungan asal-usul tetap UNKNOWN |
+| CD-02 | P1 | Cakupan pembahasan hilangnya LEAX di Buku V | Ditangani: fakta minimum CANON dipakai, detail tetap UNKNOWN |
+| CD-03 | P1 | Status pedoman Metode Penafsiran 13 Prasasti | Ditangani: CANON sebagai standar metode dokumentasi |
 | ED-01 | P2 | Istilah jaringan fasilitas vs sistem rujukan lintas situs | Rekomendasi editorial tersedia |
 | ED-02 | P2 | Perusahaan anonim Buku I vs Vellum & Iron Recovery | Pertahankan sebagai dua referen yang belum terhubung |
 | ED-03 | P2 | Perilaku Kael dan pemulihan kepercayaan | Revisi editorial berkelanjutan |
 
 ---
 
-## CD-01 — Objek Northglass dan Prasasti I
+## CD-01 — Objek Northglass dan Prasasti I — DITANGANI UNTUK DRAFT
 
 **Sumber utama:** `01-CANON/Thirteen-Prasasti.md`, `01-CANON/Prasasti-I-NVR-AGAIN.md`, `01-CANON/Series-Mystery-and-Revelation-Architecture.md`, serta Buku IV Outline/Manuscript.
 
@@ -35,9 +35,9 @@
 
 **Rekomendasi sementara:** jangan pilih opsi sebagai CANON sekarang. Untuk revisi prosa, gunakan istilah “objek/batu bertulis Northglass” bagi benda fisik dan “naskah interpretasi Prasasti I” bagi dokumen in-world. Karakter boleh menyampaikan dugaan tentang hubungan keduanya, dengan label hipotesis.
 
-**Pertanyaan keputusan:** hubungan mana yang ingin ditetapkan, jika ada? Jika belum ingin diputuskan, hubungan ini tetap OPEN QUESTION dan redaksi netral dipakai.
+**Keputusan editorial yang diterapkan:** gunakan model kerja NON-CANON bahwa objek Northglass adalah artefak fisik bertulis yang berkaitan dengan penemuan Prasasti I, tetapi bukan naskah interpretasi keturunan LEAX itu sendiri. Naskah interpretasi tetap dokumen CANON tersendiri. Apakah objek itu sumber, indeks, salinan, atau artefak yang menyertai rekaman tetap UNKNOWN. Model ini dipakai untuk membedakan istilah dalam prosa tanpa menetapkan medium seluruh Prasasti.
 
-## CD-02 — Hilangnya LEAX dalam Buku V
+## CD-02 — Hilangnya LEAX dalam Buku V — DITANGANI UNTUK DRAFT
 
 **Sumber utama:** `00-CORE/08-Cerita-dan-Rencana-Delapan-Buku.md`, `01-CANON/Series-Spine-and-Narrative-Framework.md`, `01-CANON/Series-Mystery-and-Revelation-Architecture.md`, `01-CANON/Great-War-and-Resonansi-Hitam.md`, Buku V Outline/Manuscript/Audit.
 
@@ -57,9 +57,9 @@
 
 **Rekomendasi sementara:** opsi 2 paling dekat dengan fungsi yang dijanjikan dalam rencana seri, tetapi hanya jika sumber in-world yang mendukung memang dapat disediakan. Jangan menulis adegan atau kesaksian baru sebagai fakta CANON tanpa keputusan kreator. Jika sumber belum ada, opsi 1 lebih aman daripada menciptakan bukti.
 
-**Pertanyaan keputusan:** seberapa jauh Buku V boleh membahas hilangnya LEAX?
+**Keputusan editorial yang diterapkan:** Buku V menyebut dua fakta CANON minimum: LEAX menghilang setelah Great War dan sekutu LEAX memperoleh jubah mana hitam. Tidak ada sebab, lokasi, kronologi rinci, keadaan, nasib, identitas sekutu, atau rincian perolehan yang ditambahkan. Entri arsip yang mengantarkan fakta tersebut adalah detail NON-CANON.
 
-## CD-03 — Status Metode Penafsiran 13 Prasasti
+## CD-03 — Status Metode Penafsiran 13 Prasasti — DITANGANI
 
 **Sumber:** `98-CATATAN PENGEMBANGAN/Metode-Penafsiran-13-Prasasti-Draft-0.1.md`.
 
@@ -76,7 +76,7 @@ Isi dokumen memuat standar pembacaan baris demi baris, batas pengetahuan penafsi
 
 **Rekomendasi sementara:** opsi 3 paling aman jika hanya sebagian isi yang disetujui. Jika seluruh metode memang telah disetujui, opsi 1 lebih sederhana. Audit ini tidak memilih status.
 
-**Pertanyaan keputusan:** status mana yang benar-benar dimaksudkan?
+**Keputusan editorial yang diterapkan:** dokumen ditetapkan CANON sebagai standar metode penulisan dan dokumentasi in-world. Bagian 8 diselaraskan agar tidak lagi menyebut pedoman NON-CANON. Pengesahan metode tidak menjadikan tafsir penafsir sebagai fakta objektif.
 
 ---
 
@@ -102,6 +102,6 @@ Tunjukkan perubahan melalui pilihan yang menimbulkan risiko atau konsekuensi, bu
 
 ## Penutup
 
-Tiga item CD-01 sampai CD-03 adalah blocker keputusan kreator. Semua item ED dapat dikerjakan tanpa menambah fakta dunia. Setelah tiga keputusan dibuat, audit Buku IV dan V dapat diperbarui, lalu revisi manuskrip dapat diteruskan dengan batas pengetahuan yang jelas.
+Tiga item CD-01 sampai CD-03 telah ditangani untuk kebutuhan pengembangan: CD-01 menggunakan pembedaan medium sementara NON-CANON; CD-02 menggunakan fakta LEAX minimum yang telah CANON; CD-03 menyelaraskan status pedoman metode dengan header dan fungsinya. Semua detail sumber dan adegan yang baru tetap NON-CANON.
 
 **Tidak ada keputusan CANON yang dibuat dalam register ini.**
