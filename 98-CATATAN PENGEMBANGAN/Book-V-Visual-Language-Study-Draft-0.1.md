@@ -71,3 +71,33 @@ Panel landscape 16:9 dapat diuji khusus untuk establishing shot, bukan otomatis 
 - Rasio halaman: belum dipilih.
 - Tipografi: belum dipilih.
 - Dampak CANON: tidak ada.
+
+
+## Uji panel tunggal — Scene 1, Panel 1.2 — Draft 0.1
+
+**Tanggal:** 2026-11-27  
+**Status:** CATATAN PENGEMBANGAN / NON-CANON  
+**File kerja:** `LEAX_BookV_Scene1_Panel1-2_Visual_Test_Draft01.png` (dibuat dalam sesi kerja; belum disimpan sebagai aset biner repository).
+
+### Dasar panel
+
+Storyboard menetapkan insert close-up: tangan Tavian menjaga map agar tidak tertekuk; isi yang terlihat adalah salinan peta lokasi batu, catatan kondisi permukaan, dan lembar bertuliskan **NVR AGAIN**. Tidak ada tulisan lain yang perlu dibaca.
+
+### Tiga rendering yang dibandingkan
+
+- **A — Ink & Wash:** garis organik, wash, dan tekstur. Memberi atmosfer, tetapi tekstur berisiko mengganggu keterbacaan dokumen.
+- **B — Semi-Flat Editorial:** bidang bersih, siluet jelas, dan bayangan terbatas. Paling stabil untuk keterbacaan panel kecil dan hierarki properti.
+- **C — Archival Etching:** garis presisi dan arsiran terarah. Mendukung nuansa dokumenter, tetapi berisiko terasa terlalu dekoratif atau padat.
+
+### Batas dan hasil sementara
+
+- Peta dan catatan divisualisasikan sebagai bidang abstrak; tidak menetapkan geografi, isi catatan, simbol, atau tulisan baru.
+- Bentuk tangan adalah placeholder komposisi, bukan desain anatomi atau karakter.
+- Tidak ada desain wajah, pakaian, map final, atau identitas visual karakter yang ditetapkan.
+- **Hasil produksi sementara:** B layak menjadi kandidat tes lanjutan karena paling mudah dibaca. Ini bukan keputusan kreator dan belum mengunci gaya final.
+
+### Evaluasi yang masih diperlukan
+
+Perlu evaluasi kreator terhadap tiga pendekatan, kemudian uji rasio halaman dan ukuran teks. Belum ada ilustrasi final.
+
+**Dampak CANON: tidak ada.**
