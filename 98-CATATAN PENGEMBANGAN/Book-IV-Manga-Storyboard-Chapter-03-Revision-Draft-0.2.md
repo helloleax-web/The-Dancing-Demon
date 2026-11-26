@@ -37,8 +37,8 @@
 
 ## Halaman 4 — Izin Konsultasi Terbatas
 **Panel 1 — Wide.** Penjaga kumpulan dokumen anonim menerima kelompok; tempat tidak diberi ciri geografis atau desain arsitektur spesifik.
-**Panel 2.** Penjaga menyatakan izin hanya untuk konsultasi di tempat dan di bawah pengawasannya.
-**Panel 3.** Tidak ada izin membawa, memisahkan, menyalin, atau menyebarluaskan materi.
+**Panel 2.** Penjaga mengizinkan konsultasi terawasi dan catatan non-reproduktif tentang kondisi/struktur materi.
+**Panel 3.** Ringkasan boleh dibagikan kepada pihak yang terlibat langsung; tidak ada izin membawa, memisahkan, menyalin, atau menyebarluaskan materi sumber. Publikasi lebih luas memerlukan persetujuan terpisah.
 **Panel 4.** Seraphine mencatat pihak yang hadir, kondisi materi, dan batas izin.
 **Panel 5.** Naskah tertutup dan sarana penyimpan salinan bunyi terlihat berdampingan; judul belum terbaca.
 
