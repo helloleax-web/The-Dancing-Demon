@@ -3,6 +3,8 @@
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Cakupan:** empat bab manuskrip Buku IV, 20 scene; dibandingkan dengan outline, Character Knowledge Matrix, Thirteen Prasasti, Great War and Resonansi Hitam, dan Mystery Ledger.
 
+> **Catatan status:** dokumen ini adalah versi awal dan telah disupersesi oleh versi 0.2. Gunakan Manuscript Continuity Audit, Manuscript Index, Scene Outline, dan Character Knowledge Matrix Draft 0.2 untuk status terbaru.
+
 ## 1. Hasil ringkas
 
 - Seluruh 20 scene outline telah memiliki prosa awal.
