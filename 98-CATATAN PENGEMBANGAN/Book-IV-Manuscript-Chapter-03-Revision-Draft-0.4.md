@@ -73,7 +73,7 @@ Mereka tidak mengumumkan isi materi tersebut. Pemeriksaan harus dilakukan dengan
 
 Seraphine menyusun urutan pemeriksaan.
 
-Mereka membaca naskah baris demi baris. Pengamatan dipisahkan dari tafsir penulis, dugaan, dan hal-hal yang secara eksplisit belum diketahui. Bagian yang berulang tetap dicatat pada setiap kemunculannya, bukan dihapus demi meringkas teks.
+Mereka membaca naskah baris demi baris. Pengamatan dipisahkan dari tafsir penulis, dugaan, dan hal-hal yang secara eksplisit belum diketahui. Keberadaan dan posisi setiap pengulangan dicatat tanpa menyalin ulang seluruh teks sumber; tidak ada pengulangan yang dihapus dari naskah yang sedang diperiksa.
 
 Ilyra mengikuti susunan itu sambil menandai bagian yang membutuhkan pemeriksaan terhadap salinan bunyi.
 
