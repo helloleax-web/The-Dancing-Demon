@@ -14,7 +14,7 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 | Buku | Status | Catatan |
 |---|---|---|
 | I — Jalur yang Terlupakan | DALAM REVISI | Bab 4 dan 5 sudah memiliki revisi 0.2; sketsa kontinuitas fasilitas dan audit parsial dibuat. Bab 1–3 dan 6 serta storyboard masih perlu pemeriksaan. |
-| II — Dunia di Luar Peta | BELUM DIKERJAKAN | Perlu audit transisi Book I, perkembangan karakter, dan seluruh enam chapter. |
+| II — Dunia di Luar Peta | DALAM REVISI | Bab 6 direvisi 0.2 untuk memperjelas kebutuhan praktis kembali ke Bellwether; Bab 1–5 dan storyboard belum direvisi penuh. |
 | III — Sisa-Sisa yang Tertinggal | BELUM DIKERJAKAN | Perlu audit seluruh enam chapter dan pengenalan Ilyra. |
 | IV — Prasasti Pertama | BELUM DIKERJAKAN | Perlu memilih versi chapter aktif berdasarkan riwayat dan mengaudit interpretasi prasasti. |
 | V — Perang yang Tertinggal | BELUM DIKERJAKAN | Perlu membandingkan draft dan revisi yang tersedia serta audit sejarah/konsekuensi. |
@@ -29,7 +29,7 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 3. Membuat [Book I Chapter 5 Revision Draft 0.2](Book-I-Manuscript-Chapter-05-Revision-Draft-0.2.md).
 4. Membuat [Book I Facility Spatial Continuity Sketch Draft 0.1](Book-I-Facility-Spatial-Continuity-Sketch-Draft-0.1.md).
 5. Membuat [Book I Manuscript Index Draft 0.3](Book-I-Manuscript-Index-Draft-0.3.md).
-6. Membuat [Book I Manuscript Revision Audit Draft 0.3](Book-I-Manuscript-Revision-Audit-Draft-0.3.md).
+6. Membuat [Book I Manuscript Revision Audit Draft 0.3](Book-I-Manuscript-Revision-Audit-Draft-0.3.md).\n7. Membuat [Book II Chapter 6 Revision Draft 0.2](Book-II-Manuscript-Chapter-06-Revision-Draft-0.2.md).\n8. Membuat [Book II Manuscript Index Draft 0.3](Book-II-Manuscript-Index-Draft-0.3.md) dan [Book II Revision Audit Draft 0.3](Book-II-Manuscript-Revision-Audit-Draft-0.3.md).
 
 ## Temuan yang harus dibawa ke tahap berikutnya
 
@@ -71,4 +71,4 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 
 ## Riwayat perubahan
 
-- 2026-11-26: branch kerja dibuat; revisi Bab 4 dan Bab 5, sketsa kontinuitas fasilitas, indeks 0.3, audit parsial 0.3, dan tracker master ditambahkan.
+- 2026-11-26: branch kerja dibuat; revisi Bab 4 dan Bab 5 Buku I, sketsa kontinuitas fasilitas, indeks 0.3, audit parsial 0.3, dan tracker master ditambahkan. Bab 6 Buku II direvisi 0.2 untuk memperjelas transisi praktis ke Buku III; indeks dan audit revisi Buku II diperbarui.
