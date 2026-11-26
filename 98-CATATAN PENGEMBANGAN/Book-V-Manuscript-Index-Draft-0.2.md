@@ -207,3 +207,10 @@
 - Layout thumbnail manual 7 panel: `BookV_Scene2_Manual_Thumbnail_Layout_Draft01.png`.
 - Status: layout komposisi selesai; menunggu review; NON-CANON.
 - Tidak ada desain karakter/lokasi atau fakta dunia baru yang dikunci.
+
+
+### Thumbnail manual Bab 1 — pembaruan Scene 3
+
+- Scene 3 — Balai Catatan Perang: layout thumbnail manual Draft 0.1, delapan panel, tercatat dalam [Thumbnail Review Bab 1](Book-V-Thumbnail-Review-Chapter-01-Draft-0.1.md).
+- PNG dibuat dalam sesi kerja dan belum disimpan sebagai aset biner di repository.
+- Status: menunggu review; semua materi visual tetap NON-CANON.
