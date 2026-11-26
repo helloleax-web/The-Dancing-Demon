@@ -156,17 +156,19 @@ Fenomena yang menantang persepsi atau metode pengamatan dapat muncul sebagai tek
 
 **Fungsi:** menyelesaikan konflik utama, mengungkap makna judul sesuai keputusan kreator, dan memberi payoff emosional pada ensemble.
 
-**Scene 17 — Bukti Terakhir Sebelum Kesimpulan**
+**Scene 17 — Satu Pola, Banyak Wajah**
 - Kelompok mengumpulkan apa yang benar-benar dapat diverifikasi dari perjalanan dan keputusan mereka.
-- Ilyra menolak menyatukan pola yang belum cukup kuat; Seraphine menguji asal dan batas setiap sumber.
-- Adegan ini menyiapkan pengungkapan tanpa menyebut jawaban judul.
-- *Fokus:* jangan membocorkan identitas atau makna judul melalui narasi yang belum disahkan.
+- Ilyra membandingkan kemunculan kata “demons” pada Prasasti I, VIII, XI, dan XIII, lalu menunjukkan bahwa setiap konteks dan tafsirnya berbeda.
+- Seraphine mengingatkan bahwa Prasasti III berjudul *Dancing with Your Eyes Closed*, tetapi judul arsip itu tidak membuktikan adanya satu makhluk yang menari.
+- Tavian melihat kemiripan pola yang menggoda mereka untuk menyatukan semua bukti, tetapi tidak memiliki dasar untuk menyimpulkan satu sosok atau penyebab.
+- *Fokus:* membangun ketegangan antara kebutuhan manusia akan satu jawaban dan tanggung jawab untuk tidak mengarang kepastian.
 
-**Scene 18 — The Dancing Demon [SLOT PENGUNGKAPAN KREATOR]**
-- Makna objektif judul diungkap sesuai keputusan kreator.
-- Bentuk, referen, arti “Dancing”, arti “Demon”, dan cara pengungkapan belum ditetapkan.
-- Jangan menulis prosa adegan ini sebelum keputusan kreator tersedia.
-- Pengungkapan tidak boleh otomatis menjelaskan Abstract Existence, semua Prasasti, Great War, dan LEAX sekaligus.
+**Scene 18 — The Dancing Demon**
+- Kelompok menyadari bahwa “The Dancing Demon” bukan nama monster atau identitas Abstract Existence.
+- “Demon” adalah metafora bagi wajah yang diberikan manusia kepada rasa takut, penderitaan, dan hal yang belum dipahami; “dancing” menggambarkan bagaimana wajah dan tafsir itu terus berubah saat berpindah dari satu orang, sumber, dan sudut pandang ke sudut lain.
+- Judul menunjuk pada pola interpretasi, bukan satu entitas: kemunculan kata yang sama tidak membuat semua pembicara menghadapi hal yang sama.
+- Pengungkapan terwujud melalui keputusan kelompok untuk menolak teori tunggal yang tidak didukung dan mempertanggungjawabkan apa yang mereka publikasikan.
+- *Fokus:* payoff tematik dan karakter, bukan pertarungan dengan makhluk bernama The Dancing Demon.
 
 **Scene 19 — Setelah Mengetahui**
 - Karakter menghadapi konsekuensi emosional, sosial, dan praktis dari pengungkapan.
@@ -197,7 +199,7 @@ Fenomena yang menantang persepsi atau metode pengamatan dapat muncul sebagai tek
 
 | Misteri | Perlakuan dalam outline ini |
 |---|---|
-| Makna judul The Dancing Demon | Wajib diungkap pada Scene 18 setelah keputusan kreator |
+| Makna judul The Dancing Demon | Wajib diungkap pada Scene 18 sebagai pola interpretasi yang berubah-ubah, bukan identitas satu monster |
 | 13 Prasasti | Payoff pada cara kelompok memahami batas dan kegunaan rangkaian; isi objektif dan fungsi penuh tidak dipaksakan |
 | NVR AGAIN | Payoff tematik; asal, pencipta, dan mekanisme tetap tidak otomatis terjawab |
 | Great War | Konsekuensi sejarah memperoleh resolusi naratif; penyebab dan kronologi lengkap tidak otomatis dibuka |
@@ -213,21 +215,19 @@ Fenomena yang menantang persepsi atau metode pengamatan dapat muncul sebagai tek
 3. **Risiko semua terhubung:** jangan membuat fasilitas, Prasasti, NVR AGAIN, Great War, dan anomali berasal dari satu sebab hanya demi kerapian.
 4. **Risiko Tavian mengambil alih:** keputusan finalnya harus memerlukan kontribusi nyata lima karakter lain.
 5. **Risiko ending abstrak:** Scene 20 harus menunjukkan perubahan konkret dalam kehidupan atau tanggung jawab kelompok.
-6. **Risiko pengungkapan judul tidak disiapkan:** Scene 18 tidak boleh ditulis sebelum makna judul disahkan kreator.
+6. **Risiko pengungkapan judul terlalu abstrak:** Scene 18 harus dibangun dari bukti Prasasti dan keputusan karakter; jangan mengubah metafora menjadi entitas literal.
 7. **Risiko menganggap draft sebagai canon:** seluruh detail Buku VII yang menjadi jembatan harus diperiksa ulang ketika revisi final selesai.
 
 ## 8. Keputusan kreator yang masih menjadi gerbang
 
-Sebelum outline ini dapat berubah menjadi outline final dan manuskrip penuh, diperlukan keputusan mengenai:
-1. Makna objektif *The Dancing Demon* dan referen kata “Demon”.
-2. Arti “Dancing” dalam judul.
-3. Misteri mana yang wajib mendapat jawaban eksplisit selain makna judul.
+Sebelum outline ini dapat berubah menjadi outline final dan manuskrip penuh, masih diperlukan keputusan mengenai:
+1. Misteri mana yang wajib mendapat jawaban eksplisit selain makna judul.
 4. Keadaan akhir LEAX: tetap UNKNOWN atau memperoleh jawaban tertentu.
 5. Apakah identitas kontak tak dikenal Kael perlu diungkap.
 6. Keadaan akhir enam karakter utama.
 7. Bentuk konflik lapangan final dan siapa saja pihak yang terlibat.
 
-Tidak perlu menjawab seluruh pertanyaan dunia. Prioritas pertama adalah makna judul karena itu menentukan adegan konvergensi.
+Arah makna judul kini dipilih sebagai proposal kerja NON-CANON dan dijabarkan dalam dokumen Title Meaning Proposal. Misteri lain dan keputusan akhir karakter tetap terbuka.
 
 ## 9. Status
 
