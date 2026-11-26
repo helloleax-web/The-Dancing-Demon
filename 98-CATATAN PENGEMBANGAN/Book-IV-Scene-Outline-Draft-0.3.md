@@ -268,3 +268,8 @@ Model ini adalah keputusan pengembangan NON-CANON agar draft tidak mencampuraduk
 - Pembedaan ini menjaga Book III Chapter 6 dan Book IV Chapter 1–2 tetap konsisten. Semua detail Northglass dan akses setempat tetap NON-CANON.
 
 **Dampak CANON: tidak ada.**
+
+
+## 12. Batas nama lokasi — CANON dan NON-CANON
+
+Nama **Jalan Northglass** merupakan nama lokasi CANON menurut Location Bible. Namun, letak, jalur, titik awal/akhir, jarak, arah, dan hubungan geografisnya tetap UNKNOWN. Rute dan penggunaan catatan lokal untuk mempersempit pencarian dalam outline ini adalah keputusan pengembangan NON-CANON, bukan geografi yang telah disahkan.
