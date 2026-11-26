@@ -1,8 +1,8 @@
 # Book V — Manuscript Index — Draft 0.4
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
-**Progress:** 22 scene; seluruh lima bab telah memiliki pass revisi 0.3 atau lebih baru. Line edit dialog Bab 1–2 dan Bab 4 Scenes 14–18 telah dilakukan; Bab 3 Scenes 9–13 menerima revisi ritme terarah. Bab 5 Scenes 19–22 telah menerima line edit terarah; audit editorial lintas lima bab selesai. Proofreading akhir Bab 1 Scenes 1–4, Bab 2 Scenes 5–8, dan Bab 3 Scenes 9–13 telah dilakukan; Bab 4–5 menunggu giliran.  
-**Jumlah kata:** 11.479 kata termasuk judul, metadata, dan catatan tambahan; dihitung ulang setelah revision pass 0.3.
+**Progress:** 22 scene; seluruh lima bab telah memiliki pass revisi 0.3 atau lebih baru. Line edit dialog Bab 1–2 dan Bab 4 Scenes 14–18 telah dilakukan; Bab 3 Scenes 9–13 menerima revisi ritme terarah. Bab 5 Scenes 19–22 telah menerima line edit terarah; audit editorial lintas lima bab selesai. Proofreading akhir Bab 1 Scenes 1–4, Bab 2 Scenes 5–8, Bab 3 Scenes 9–13, dan Bab 4 Scenes 14–18 telah dilakukan; Bab 5 menunggu giliran.  
+**Jumlah kata:** 11.482 kata termasuk judul, metadata, dan catatan tambahan; dihitung ulang setelah proofreading Bab 4.
 
 ## Struktur bab
 
@@ -131,4 +131,14 @@
 - Batas fakta tetap dijaga: efek jubah dan perolehan oleh sekutu LEAX sesuai CANON; mekanisme, pemakai, pembuat, jumlah, dan cakupan Resonansi Hitam tidak ditambahkan.
 - Tidak ada perubahan CANON.
 - Jumlah kata manuskrip setelah penghitungan ulang lima bab: **11.479 kata** termasuk judul, metadata, dan catatan tambahan.
-- Status: Bab 1–3 proofreading selesai; Bab 4–5 belum diproofread.
+- Status: Bab 1–4 proofreading selesai; Bab 5 belum diproofread.
+
+
+## Proofreading akhir — Bab 4
+
+- Bab 4 Scenes 14–18 menerima proofreading mikro.
+- Koreksi meliputi pilihan kata pada uraian tanggal penyalinan, perapian transisi setelah pertemuan dengan penghubung penerbit, penghalusan beberapa konstruksi kalimat, dan penegasan frasa mengenai pembatasan akses dokumen.
+- Konflik publikasi, perlindungan identitas pemberi kesaksian, empat kategori hasil penelitian, serta pemisahan arsip lengkap dan ringkasan publik tetap dipertahankan.
+- Tidak ada perubahan CANON dan tidak ada penambahan fakta sejarah.
+- Jumlah kata manuskrip setelah penghitungan ulang lima bab: **11.482 kata** termasuk judul, metadata, dan catatan tambahan.
+- Status: Bab 1–4 proofreading selesai; Bab 5 belum diproofread.
