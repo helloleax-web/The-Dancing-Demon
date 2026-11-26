@@ -1,10 +1,10 @@
 # Book V — Perang yang Tertinggal
-## Scene Outline Draft 0.1
+## Scene Outline Draft 0.2
 
 **Status: CATATAN PENGEMBANGAN / NON-CANON.**  
 **Basis:** fungsi Buku V dalam Eight-Book Series Architecture, fakta CANON Great War, NVR AGAIN, jubah mana hitam, dan Resonansi Hitam, serta penutup Buku IV.
 
-**Batas penting:** outline ini mengembangkan rekonstruksi sejarah Great War melalui arsip, kesaksian, dan sumber yang bertentangan. Tidak ada adegan, tindakan, motif, hubungan, atau rincian tentang LEAX yang ditetapkan. Bagian tersebut ditahan untuk keputusan pengguna.
+**Batas penting:** outline ini mengembangkan rekonstruksi sejarah Great War melalui arsip, kesaksian, dan sumber yang bertentangan. Buku V boleh menyebut dua fakta CANON secara terbatas: LEAX menghilang setelah Great War, dan sekutu LEAX memperoleh jubah mana hitam. Tidak ada tindakan, motif, identitas sekutu, hubungan, kronologi rinci, keadaan, atau penyebab hilangnya LEAX yang ditetapkan.
 
 ## 1. Fungsi Buku V
 
@@ -24,6 +24,7 @@ Buku V mengubah penemuan nama NVR AGAIN menjadi penyelidikan sejarah. Kelompok t
 - Sekutu LEAX memperoleh jubah mana hitam.
 - Jubah tersebut memberikan pertahanan luar biasa serta regenerasi HP dan MP secara berkelanjutan.
 - Peristiwa tersebut dikenal dalam catatan sejarah dengan nama lain, yaitu **Resonansi Hitam**.
+- LEAX menghilang setelah Great War; penyebab dan keadaan hilangnya tetap UNKNOWN.
 
 ## 3. Batas UNKNOWN yang harus dijaga
 
@@ -34,7 +35,7 @@ Buku V mengubah penemuan nama NVR AGAIN menjadi penyelidikan sejarah. Kelompok t
 - Asal-usul musik NVR AGAIN.
 - Mekanisme jubah mana hitam.
 - Hubungan pasti Resonansi Hitam dengan 13 Prasasti.
-- Keadaan LEAX setelah menghilang.
+- Penyebab, waktu rinci, lokasi, keadaan, dan nasib LEAX setelah menghilang.
 - Hubungan LEAX dengan penemuan Prasasti selain fakta yang sudah ditetapkan.
 
 **Catatan istilah:** cakupan frasa “peristiwa tersebut” pada catatan CANON Resonansi Hitam belum ditafsirkan lebih jauh dalam outline ini. Jangan memutuskan apakah istilah itu merujuk pada perolehan jubah, efek jubah, atau rangkaian fenomena yang lebih luas sebelum klarifikasi.
@@ -132,6 +133,7 @@ Kelompok menerbitkan rekonstruksi terbatas. NVR AGAIN kini dapat ditempatkan dal
 
 **Scene 9 — Catatan Jubah**
 - Dalam koleksi berbeda, kelompok menemukan catatan tentang jubah mana hitam.
+- Sebuah catatan katalog mengaitkan jubah tersebut dengan sekutu LEAX, sesuai fakta CANON; sumber tidak memberi nama, jumlah, atau rincian perolehan.
 - Deskripsi menyebut pertahanan luar biasa dan regenerasi HP serta MP secara berkelanjutan.
 - Tidak ada penjelasan tentang cara kerja atau asal jubah.
 - **Fungsi:** memperkenalkan fakta CANON melalui sumber sejarah.
@@ -196,6 +198,7 @@ Kelompok menerbitkan rekonstruksi terbatas. NVR AGAIN kini dapat ditempatkan dal
 
 **Scene 19 — Laporan Terbatas**
 - Kelompok menerbitkan rekonstruksi dengan sumber, perbedaan, dan tingkat kepastian.
+- Laporan mencatat secara terbatas bahwa LEAX menghilang setelah Great War; sumber yang tersedia tidak menjelaskan sebab atau keadaannya.
 - Laporan menyatakan bahwa NVR AGAIN adalah nama musik yang terdengar selama Great War, sesuai hasil pencocokan Prasasti dan sumber sejarah.
 - Catatan jubah mana hitam dan istilah Resonansi Hitam disertakan tanpa penjelasan mekanisme atau cakupan yang belum terbukti.
 - **Fungsi:** memberi hasil konkret dari penelitian.
@@ -208,12 +211,14 @@ Kelompok menerbitkan rekonstruksi terbatas. NVR AGAIN kini dapat ditempatkan dal
 
 **Scene 21 — Hal yang Tidak Terjawab**
 - Kelompok meninjau kembali daftar UNKNOWN.
+- Mereka mencatat bahwa LEAX menghilang setelah Great War, tetapi tidak menemukan dasar untuk menjelaskan kapan secara rinci, di mana, bagaimana, atau mengapa.
 - Penyebab perang, pihak-pihak, kronologi rinci, asal musik, mekanisme jubah, dan cakupan Resonansi Hitam tetap terbuka.
-- Tidak ada keputusan tentang LEAX dalam outline ini; bagian tersebut menunggu arahan pengguna.
+- Fakta hilangnya LEAX setelah Great War dicatat tanpa menambahkan sebab, lokasi, tindakan, motif, atau keadaan.
 - **Fungsi:** menutup buku dengan batas pengetahuan yang jujur.
 
 **Scene 22 — Dunia Setelah Perang**
 - Kelompok meninggalkan Orlenn dengan laporan yang dapat diperiksa.
+- Pertanyaan tentang keadaan LEAX tetap terbuka dan tidak menjadi cliffhanger atau petunjuk sebab baru.
 - Mereka melihat bahwa tradisi, institusi, dan keputusan masyarakat masa kini masih membawa akibat sejarah.
 - Sebuah laporan tentang fenomena yang tidak biasa di wilayah lain menjadi petunjuk umum menuju penyelidikan Buku VI, tanpa menjelaskan entitas kosmik.
 - **Akhir buku:** sejarah Great War menjadi lebih kaya, tetapi bukan satu jawaban final.
@@ -221,15 +226,16 @@ Kelompok menerbitkan rekonstruksi terbatas. NVR AGAIN kini dapat ditempatkan dal
 
 ## 7. Batas khusus LEAX
 
-- Tidak ada tindakan, dialog, keputusan, motif, kemampuan, hubungan, atau detail keberadaan LEAX yang ditulis dalam outline ini.
-- Fakta CANON bahwa LEAX menghilang setelah Great War tidak diperluas atau ditafsirkan.
-- Tidak ada dugaan tentang penyebab, lokasi, keadaan, atau kemungkinan kembalinya LEAX.
-- Adegan apa pun yang membutuhkan LEAX harus menunggu arahan pengguna terlebih dahulu.
+- Fakta CANON yang boleh disebut: LEAX menghilang setelah Great War.
+- Fakta CANON yang boleh dicatat: sekutu LEAX memperoleh jubah mana hitam.
+- Jangan menambahkan tindakan, dialog, keputusan, motif, kemampuan, hubungan personal, identitas sekutu, lokasi terakhir, kronologi rinci, keadaan, atau penyebab hilangnya LEAX.
+- Jangan menghubungkan hilangnya LEAX dengan musik NVR AGAIN, jubah, Resonansi Hitam, Prasasti, atau Abstract Existence tanpa bukti/keputusan terpisah.
+- Tidak ada dugaan tentang kemungkinan kembalinya LEAX.
 
-## 8. Isu yang memerlukan keputusan pengguna sebelum manuskrip
+## 8. Batas yang masih terbuka
 
-1. **LEAX:** apakah Buku V hanya boleh menyebut fakta CANON bahwa LEAX menghilang setelah Great War, tanpa menggambarkan tindakan atau penyebabnya, atau ada fakta tambahan yang harus dipakai?
-2. **Resonansi Hitam:** catatan CANON menyebut “peristiwa tersebut” sebagai Resonansi Hitam setelah menjelaskan jubah mana hitam. Cakupan istilah ini belum ditafsirkan dalam outline. Jangan menetapkan cakupannya sebelum dikonfirmasi.
+1. **LEAX:** penyebab, keadaan, dan nasib setelah menghilang tetap UNKNOWN. Buku V hanya menyebut fakta minimum yang telah CANON.
+2. **Resonansi Hitam:** catatan CANON menyebut “peristiwa tersebut” sebagai Resonansi Hitam setelah menjelaskan jubah mana hitam. Cakupan istilah ini belum ditafsirkan dalam outline. Jangan menetapkan cakupannya.
 
 ## 9. Uji kualitas
 
@@ -239,10 +245,10 @@ Kelompok menerbitkan rekonstruksi terbatas. NVR AGAIN kini dapat ditempatkan dal
 - Apakah istilah Resonansi Hitam dibiarkan sesuai batas pengetahuan?
 - Apakah penyebab, pihak, lokasi, dan durasi Great War tetap UNKNOWN?
 - Apakah dampak sejarah terlihat melalui masyarakat masa kini?
-- Apakah semua bagian tentang LEAX ditahan sampai ada arahan pengguna?
+- Apakah hanya fakta CANON minimum tentang hilangnya LEAX yang digunakan, tanpa mengarang detail?
 
 ## 10. Status
 
-Outline 22 scene ini adalah rancangan kerja NON-CANON. Alur Great War, arsip, musik, dan jubah dikembangkan dari fakta yang tersedia. Bagian LEAX dan cakupan istilah Resonansi Hitam tetap ditahan untuk klarifikasi pengguna.
+Outline 22 scene ini adalah rancangan kerja NON-CANON. Alur Great War, arsip, musik, dan jubah dikembangkan dari fakta yang tersedia. Detail hilangnya LEAX tetap UNKNOWN; cakupan istilah Resonansi Hitam tetap UNKNOWN.
 
 **Dampak CANON: tidak ada.**
