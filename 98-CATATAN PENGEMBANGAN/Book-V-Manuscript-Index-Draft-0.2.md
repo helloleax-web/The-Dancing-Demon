@@ -387,3 +387,11 @@
 - Draft 0.1 diperiksa dan direvisi setelah ditemukan kekurangan jumlah figur, pemisahan properti map, kontinuitas rombongan, dan teks catatan.
 - [Book V Scene 1 Thumbnail Production — Draft 0.1](Book-V-Scene-01-Thumbnail-Production-Draft-0.1.md) diperbarui dengan hasil audit dan penerimaan layout manual Draft 0.2.
 - Layout staging 5/5 panel diterima sebagai komposisi abstrak; thumbnail ilustratif dan ilustrasi final belum dibuat. Semua materi NON-CANON; dampak CANON nihil.
+
+
+## Scene 1 — Panel 1.1 thumbnail study
+
+- [Book V Scene 1, Panel 1.1 — Thumbnail Draft 0.1](Book-V-Scene-01-Panel-1-1-Thumbnail-Draft-0.1.md) — studi komposisi manual wide rear view, enam placeholder dalam satu rombongan, punggung batu sebagai latar jauh abstrak.
+- Satu percobaan ilustratif otomatis lima panel ditolak karena menambah benteng/kota Northglass, desain karakter, detail peta, dan isi adegan yang tidak didukung sumber.
+- Panel 1.1 diterima hanya sebagai blocking thumbnail abstrak. Ilustrasi final dan desain karakter/lokasi belum dibuat atau dikunci.
+- Seluruh materi NON-CANON; dampak CANON nihil.
