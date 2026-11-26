@@ -1,5 +1,5 @@
 # Book IV — Discovery Mechanism Implementation Audit
-## Draft 0.1
+## Draft 0.2 — Akses A Terintegrasi
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Keputusan pengembangan:** Opsi B dipilih.  
@@ -44,9 +44,10 @@ Hal-hal ini tidak diselesaikan oleh keputusan B dan tidak boleh dikarang sebagai
 
 ## 4. Risiko editorial tersisa
 
-1. Jalur dari Northglass ke materi Prasasti I masih berupa ringkasan naratif. Sebelum final proofreading, perlu keputusan apakah rincian perolehan akan dikembangkan atau sengaja dibiarkan tidak dijelaskan.
-2. Chapter 3 Scene 12 menyebut kelompok memperoleh akses pemeriksaan, tetapi tidak menyebut pihak pemberi akses. Ini sengaja menghindari penciptaan penjaga atau pemilik tanpa dasar.
-3. Storyboard Bab 3–4 versi sebelumnya belum sinkron. Nama tidak boleh ditampilkan pada panel sebelum Scene 14 dan harus muncul dari halaman pembuka naskah.
+1. Jalur akses naratif kini dijelaskan melalui keputusan pengembangan NON-CANON Opsi A: Jorren menyampaikan rujukan terbatas kepada penjaga kumpulan dokumen anonim; penjaga mengizinkan konsultasi terawasi di tempat.
+2. Izin tidak mencakup membawa, memisahkan, menyalin, atau menyebarluaskan materi sumber. Catatan kelompok bersifat non-reproduktif, bukan transkrip atau salinan.
+3. Identitas penjaga, lokasi geografis, kewenangan/legitimasi, kepemilikan sah, provenance, riwayat perpindahan, dan autentikasi tetap OPEN QUESTION.
+4. Storyboard Chapter 3 Revision Draft 0.3 dan Chapter 4 Revision Draft 0.3 telah diselaraskan dengan batas konsultasi. Nama tidak boleh ditampilkan sebelum Scene 14 dan harus muncul dari judul naskah.
 4. Character Knowledge Matrix lama memiliki istilah transliterasi pada Scene 11–13. Addendum Draft 0.6 mengoreksi jendela pengetahuan; matriks versi baru harus dipakai.
 5. Outline dan manuskrip belum menjalani line edit lintas bab, audit dialog, dan proofread final.
 
@@ -54,6 +55,6 @@ Hal-hal ini tidak diselesaikan oleh keputusan B dan tidak boleh dikarang sebagai
 
 **Mekanisme B telah diterapkan pada prosa Chapter 3–4 dan Scene Outline.** Implementasi menjaga fakta CANON yang tersedia dan tidak mengesahkan detail baru sebagai CANON.
 
-**Status Buku IV:** masih DALAM REVISI. Storyboard Bab 3–4, audit kontinuitas lintas bab, dan proofreading tetap diperlukan.
+**Status Buku IV:** masih DALAM REVISI. Mekanisme pengungkapan B dan jalur akses A telah diterapkan pada prosa serta storyboard. Provenance tetap OPEN QUESTION. Proofread final manual, audit kontinuitas lintas bab, dan persetujuan kreator tetap diperlukan.
 
 **Dampak CANON: tidak ada.**
