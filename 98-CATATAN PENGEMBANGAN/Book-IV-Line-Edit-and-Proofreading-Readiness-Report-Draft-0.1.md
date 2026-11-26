@@ -1,5 +1,5 @@
 # Book IV — Line Edit and Proofreading Readiness Report
-## Draft 0.5 — Access Note Sharing and Proofread 0.2
+## Draft 0.6 — Chapter 4 Proofread 0.3
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Ruang lingkup:** manuskrip aktif Book IV Chapters 1–4, CANON *Thirteen Prasasti*, dan *Metode Penafsiran Tiga Belas Prasasti — Draft 0.2*.  
