@@ -1,5 +1,5 @@
 # Book IV — Prasasti I Access and Provenance Decision Brief
-## Draft 0.3 — Opsi A dan Lingkup Catatan Dipilih
+## Draft 0.4 — Opsi A dan Lingkup Catatan Diperjelas
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Tujuan:** menyelesaikan celah dramatik antara temuan Northglass dan pemeriksaan naskah interpretasi Prasasti I beserta salinan bunyinya, tanpa mengubah CANON secara diam-diam.
@@ -108,7 +108,7 @@ Kreator menyerahkan pilihan kepada editor dengan jawaban **“BEBAS”**. Opsi A
 2. Jorren hanya mengetahui kabar tentang keberadaan penjaga kumpulan dokumen. Ia tidak mengetahui isi, asal-usul, keaslian, atau hubungan materi dengan Northglass.
 3. Jorren menyampaikan permintaan; ia tidak menjamin akses.
 4. Penjaga anonim menerima kelompok untuk konsultasi terbatas di tempat dan di bawah pengawasannya.
-5. Izin tidak mencakup membawa, memisahkan, menyalin, atau menyebarluaskan materi. Catatan lapangan non-reproduktif hanya boleh mencatat pengamatan, struktur sumber, dan status ketidakpastian; bukan transkrip atau reproduksi materi.
+5. Izin tidak mencakup membawa, memisahkan, menyalin, atau menyebarluaskan materi sumber. Catatan lapangan non-reproduktif hanya boleh mencatat pengamatan, struktur sumber, dan status ketidakpastian; bukan transkrip atau reproduksi materi. Penjaga mengizinkan ringkasan non-reproduktif dibagikan kepada pihak yang terlibat langsung dalam penyelidikan; publikasi lebih luas memerlukan persetujuan terpisah.
 6. Seraphine mencatat pihak yang hadir, kondisi materi, lingkup izin, dan bahwa provenance belum diverifikasi.
 
 ### OPEN QUESTION yang tetap berlaku
