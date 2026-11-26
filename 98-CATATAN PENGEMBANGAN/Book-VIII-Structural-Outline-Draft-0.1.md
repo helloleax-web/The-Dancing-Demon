@@ -5,7 +5,7 @@
 **Basis CANON:** Series Spine & Narrative Framework, Series Conflict Architecture, Series Mystery & Revelation Architecture, Tavian Character Arc, Ensemble Character Arcs, Thirteen Prasasti, Open Questions.  
 **Continuity dependency:** Buku VII — Ketiga Belas, pass pertama 0.1. Seluruh detail Buku VII yang belum disahkan tetap NON-CANON. Outline ini harus disesuaikan jika manuskrip Buku VII direvisi.
 
-**Arah makna judul untuk draft:** *The Dancing Demon* dibaca sebagai metafora pola interpretasi yang terus berubah ketika manusia memberi wajah pada rasa takut, penderitaan, dan hal yang belum dipahami. Ini bukan nama satu monster atau identitas Abstract Existence. Rujukan dan batasnya dijelaskan dalam dokumen Title Meaning Proposal; status tetap NON-CANON sampai disahkan pengguna.
+**Makna judul CANON:** *The Dancing Demon* adalah metafora pola ketika manusia memberi wajah yang berubah-ubah kepada rasa takut, penderitaan, dan hal yang belum dipahami. Ini bukan nama monster atau identitas Abstract Existence. Rujukan: `01-CANON/The-Dancing-Demon-Title-Meaning.md`.
 
 ---
 
@@ -227,14 +227,14 @@ Sebelum outline ini dapat berubah menjadi outline final dan manuskrip penuh, mas
 6. Keadaan akhir enam karakter utama.
 7. Bentuk konflik lapangan final dan siapa saja pihak yang terlibat.
 
-Arah makna judul kini dipilih sebagai proposal kerja NON-CANON dan dijabarkan dalam dokumen Title Meaning Proposal. Misteri lain dan keputusan akhir karakter tetap terbuka.
+Makna judul telah disahkan sebagai CANON dan dipakai dalam Scene 18 manuskrip. Misteri lain dan keadaan akhir karakter tetap mengikuti batas yang dicatat dalam dokumen terkait.
 
 ## 9. Status
 
-- Struktur lima bagian dan 20 scene adalah proposal NON-CANON.
+- Struktur lima bagian dan 20 scene adalah kerangka pengembangan NON-CANON; prosa first-pass tersedia dalam Book-VIII-Manuscript-Draft-0.1.md.
 - Tidak ada identitas, motif, bentuk, atau mekanisme baru untuk Abstract Existence.
 - Tidak ada isi, fungsi, lokasi, pembuat, asal, atau hubungan objektif baru untuk 13 Prasasti.
-- Tidak ada makna judul The Dancing Demon yang ditetapkan.
+- Makna judul The Dancing Demon mengikuti dokumen CANON khusus; tidak mengidentifikasi Abstract Existence atau menyatukan semua Prasasti.
 - Tidak ada nasib akhir karakter yang ditetapkan.
 - Semua lokasi, institusi, pihak konflik, dan kejadian baru tetap NON-CANON sampai disetujui kreator.
 
