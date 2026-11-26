@@ -1,4 +1,4 @@
-# Book IV — Manga Storyboard — Chapter 2 — Draft 0.1
+# Book IV — Manga Storyboard — Chapter 2 — Revision Draft 0.2
 
 **Judul bab:** Batu yang Tidak Terbaca  
 **Basis:** Manuscript Chapter 02, Scenes 6–10.  
@@ -11,6 +11,8 @@
 - Guratan memiliki bagian yang jelas, terkikis, dan tertutup endapan.
 - Ilyra belum dapat membaca atau menerjemahkan tulisan.
 - Dokumentasi dilakukan tanpa pembersihan agresif atau pemindahan batu.
+- Setiap bidang permukaan didokumentasikan terpisah dengan orientasi dan skala konsisten.
+- Salinan mentah, sketsa, dan salinan kerja memiliki jejak versi yang dapat dilacak.
 - Masyarakat mengenal batu sebagai penanda jalur, bukan sebagai sumber jawaban.
 
 ## Halaman 1 — Punggung Batu
@@ -44,8 +46,8 @@
 ## Halaman 5 — Permukaan Bertulis
 **Panel 1 — Close-up.** Kelompok guratan sejajar pada batu.
 **Panel 2.** Ada bagian dengan jarak lebih dalam.
-**Panel 3.** Ilyra menunjuk susunan yang berulang.
-**Panel 4.** Seraphine mengambil gambar dengan skala pembanding.
+**Panel 3.** Ilyra membagi permukaan menjadi bidang dokumentasi agar guratan yang berlanjut tidak disatukan secara keliru.
+**Panel 4.** Seraphine mengambil gambar dengan orientasi dan skala pembanding yang konsisten.
 **Panel 5.** “Jangan simpulkan dulu. Kita belum tahu apakah semua guratan dibuat bersamaan.”
 
 ## Halaman 6 — Sisi yang Dilihat Orang
@@ -64,9 +66,9 @@
 
 ## Halaman 8 — Tanda Berulang
 **Panel 1.** Ilyra duduk dengan sketsa.
-**Panel 2.** Ia menyalin garis pendek dan sudut tajam.
-**Panel 3.** Beberapa bentuk terdiri dari kelompok tanda.
-**Panel 4.** Ia mencoba menyusun urutan berdasarkan jarak antarbaris.
+**Panel 2.** Ia menyalin garis pendek dan sudut tajam ke tabel perbandingan.
+**Panel 3.** Ia memisahkan bentuk berulang, bentuk tunggal, bagian terpotong, dan guratan yang mungkin merupakan kerusakan.
+**Panel 4.** Ia membandingkan jarak antarbaris tanpa menetapkan arah baca.
 **Panel 5.** “Kalau ini tulisan, polanya tidak seperti catatan perjalanan biasa.”
 
 ## Halaman 9 — Kerusakan atau Tanda
@@ -85,9 +87,9 @@
 
 ## Halaman 11 — Beberapa Kemungkinan
 **Panel 1.** Ilyra memeriksa kelompok tanda yang berbeda.
-**Panel 2.** Ia menyebut kemungkinan penanda, gelar, atau sistem tulisan yang belum dikenal.
-**Panel 3.** Seraphine meminta semuanya ditulis sebagai hipotesis.
-**Panel 4.** Ilyra mencatat tiga kemungkinan.
+**Panel 2.** Ilyra menolak memberi kategori fungsi sebelum bukti cukup.
+**Panel 3.** Seraphine meminta pola visual dipisahkan dari hipotesis tentang fungsi tanda.
+**Panel 4.** Ilyra mencatat bahwa fungsi seluruh tanda masih UNKNOWN.
 **Panel 5.** Wide: tidak ada terjemahan; batu tetap diam.
 
 ## Halaman 12 — Sisi Bawah
@@ -119,11 +121,11 @@
 **Panel 5.** Mira mencatat keterangan Jorren tentang penggunaan batu.
 
 ## Halaman 16 — Dua Kolom
-**Panel 1.** Ilyra membuat dua kolom: bentuk pasti dan bentuk meragukan.
+**Panel 1.** Ilyra membuat kolom bentuk pasti, bentuk meragukan, posisi pada permukaan, dan alasan klasifikasi.
 **Panel 2.** Kael bertanya apakah salinan itu bisa menjadi terjemahan.
 **Panel 3.** Ilyra menjawab itu hanya catatan bentuk.
-**Panel 4.** Seraphine menyimpan dokumentasi dalam wadah terpisah.
-**Panel 5.** Semua salinan diberi keterangan sumber.
+**Panel 4.** Seraphine menyimpan foto mentah, sketsa, dan salinan kerja dalam wadah terpisah.
+**Panel 5.** Setiap versi diberi tanggal pemeriksaan dan nama pencatat.
 
 ## Halaman 17 — Bukan Pengganti Batu
 **Panel 1.** Jorren melihat sketsa.
@@ -144,4 +146,5 @@
 - Tidak ada terjemahan atau arah pembacaan yang pasti.
 - Jangan menggambarkan batu sebagai fasilitas atau perangkat aktif.
 - Jangan membersihkan atau memindahkan endapan dan batu.
+- Revision 0.2 menyelaraskan panel dengan metode dokumentasi yang diperjelas pada manuskrip Bab 2.
 - Semua panel dan komposisi tetap NON-CANON.
