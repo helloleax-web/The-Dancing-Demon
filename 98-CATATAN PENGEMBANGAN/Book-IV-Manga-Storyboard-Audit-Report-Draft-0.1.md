@@ -1,6 +1,8 @@
 # Book IV — Manga Storyboard Audit — Draft 0.1
 
-**Status:** CATATAN PENGEMBANGAN / NON-CANON.  
+**Status:** CATATAN PENGEMBANGAN / NON-CANON.
+
+> **Catatan status:** versi ini telah disupersesi oleh storyboard audit/index Draft 0.2. Gunakan versi 0.2 untuk status panel dan transliterasi terbaru.  
 **Cakupan:** empat storyboard Buku IV, empat bab manuskrip, 20 scene, Character Knowledge Matrix, dan fakta CANON tentang Prasasti serta NVR AGAIN.
 
 ## 1. Cakupan produksi
