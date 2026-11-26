@@ -1,5 +1,9 @@
 # Alkitab Karakter
 
+**Status: CANON**  
+**Disahkan: 2026-11-26**  
+**Cakupan:** identitas, fungsi inti, motivasi, kekuatan, kelemahan, dan arah perkembangan enam karakter utama sebagaimana tercantum dalam dokumen ini. Detail yang ditandai UNKNOWN tidak disahkan.
+
 ## Tujuan dan aturan dokumentasi
 
 Dokumen ini menjadi rujukan utama fakta CANON mengenai enam karakter inti: Tavian Rell, Seraphine Veyra, Kael Veyron, Mira Solenne, Daren Holt, dan Ilyra Nym. Profil mencakup fungsi naratif, motivasi inti, kekuatan, kelemahan, dan arah perkembangan yang telah disahkan.
@@ -24,6 +28,7 @@ Dokumen ini menjadi rujukan utama fakta CANON mengenai enam karakter inti: Tavia
 | Ilyra Nym | Penyalin naskah dan asisten arsip; diperkenalkan dalam Buku III. | Dokumen ini; [Ensemble Character Arcs](Ensemble-Character-Arcs.md). |
 
 Nama, fungsi inti, motivasi, kekuatan, kelemahan, dan arah arc keenam karakter di atas merupakan CANON. Detail biografi yang secara khusus ditandai UNKNOWN tetap belum ditentukan.
+
 ## Tavian Rell
 
 ### Fakta CANON
