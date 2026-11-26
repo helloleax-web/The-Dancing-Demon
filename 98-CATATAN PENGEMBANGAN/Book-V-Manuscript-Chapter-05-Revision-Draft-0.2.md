@@ -106,43 +106,31 @@ Namun, satu hal menjadi lebih jelas bagi kelompok: menerbitkan bukti tidak berar
 
 ### Scene 21 — Hal yang Tidak Terjawab
 
-Pada malam terakhir mereka di Orlenn, kelompok berkumpul untuk memeriksa daftar pertanyaan yang belum terjawab.
+Pada malam terakhir mereka di Orlenn, kelompok berkumpul untuk meninjau kembali daftar pertanyaan yang belum terjawab.
 
-Tavian membentangkan tabel di atas meja.
+Tavian membentangkan tabel. Kali ini ia tidak membacakan seluruh isinya. Daftar itu sudah muncul dalam laporan dan telah diperiksa berkali-kali. Ia hanya menandai beberapa kelompok persoalan: sejarah perang, asal musik, mekanisme jubah, cakupan Resonansi Hitam, dan hilangnya LEAX setelah Great War.
 
-“Penyebab Great War,” katanya. “Pihak yang terlibat. Lokasi. Durasi. Korban. Dampak politik.”
+“Tidak ada tambahan yang bisa kita pertanggungjawabkan?” tanyanya.
 
-Ilyra menambahkan, “Asal musik, pencipta, penyebar, dan mekanismenya.”
+Ilyra memeriksa catatan pembanding. “Tidak. Beberapa istilah masih bisa ditelusuri, tapi sumber yang kita punya belum mengubah kesimpulannya.”
 
-Seraphine menunjuk bagian lain. “Mekanisme jubah dan cakupan istilah Resonansi Hitam.”
+Seraphine menutup buku catatan. “Berarti laporan tetap pada batas yang sudah kita tetapkan. Jangan menambah kepastian hanya karena kita ingin mengakhiri pekerjaan.”
 
-Ilyra melihat satu baris di bagian bawah tabel. “Dan LEAX. Catatan yang kita temukan hanya menyebut bahwa ia menghilang setelah Great War.”
-
-“Tidak ada keterangan tentang bagaimana atau mengapa?” tanya Mira.
-
-“Tidak ada yang dapat kita verifikasi dari sumber yang tersedia,” jawab Seraphine. “Kita catat hilangnya. Kita tidak menulis cerita tentang penyebabnya.”
-
-Tavian menambahkan pada daftar: **LEAX — menghilang setelah Great War; sebab dan keadaan tidak diketahui.**
-
-Daren menyilangkan tangan. “Kalau suatu hari kita harus memeriksa salah satu lokasi itu, daftar ini belum memberi kita jalur, kondisi medan, atau bahkan kepastian bahwa tempatnya masih bisa dicapai.”
+Daren menyilangkan tangan. “Kalau suatu hari kita harus memeriksa salah satu lokasi yang disebut sumber, daftar ini belum memberi kita jalur, kondisi medan, atau kepastian tempatnya masih bisa dicapai.”
 
 “Memang,” jawab Tavian.
 
-Kael duduk sambil memutar salah satu lembar catatan.
+Kael duduk sambil memutar salah satu lembar catatan. “Setidaknya kita tahu nama di batu itu punya hubungan yang bisa diuji dengan catatan musik selama perang. Itu bukan jawaban untuk semuanya, tapi bukan hasil kosong.”
 
-“Setidaknya kita tahu bahwa nama yang ditemukan di batu itu bukan sekadar rangkaian tanda tanpa konteks. Ada sumber sejarah yang dapat dibandingkan dengannya.”
+Ilyra mengangguk. “Dan kita tahu bagian mana yang masih belum bisa dijelaskan.”
 
-Ilyra mengangguk. “Itu hasil yang nyata.”
+Mira menatap tumpukan dokumen. “Orang-orang yang menyimpan cerita itu juga tidak semuanya mengingatnya dengan cara yang sama. Mungkin itu tidak akan berubah hanya karena laporan kita selesai.”
 
-Mira menatap tabel. “Dan kita tahu bahwa orang-orang masih membawa versi sejarah yang berbeda. Bahkan ketika perangnya sudah lama berlalu.”
-
-Seraphine menutup buku catatan.
+Seraphine merapikan halaman terakhir.
 
 “Kita tidak perlu menyelesaikan semua pertanyaan dalam satu perjalanan. Yang penting, kita tidak mengubah pertanyaan menjadi jawaban hanya karena ingin menutup laporan.”
 
-Tavian melihat daftar itu sekali lagi.
-
-Ada beberapa hal yang mungkin dapat mereka telusuri melalui arsip lain. Ada yang membutuhkan sumber dari wilayah yang belum mereka kunjungi. Ada pula yang belum tentu dapat dijawab oleh dokumen yang masih tersisa.
+Tavian melihat tabel itu sekali lagi. Ada beberapa hal yang mungkin dapat mereka telusuri melalui arsip lain. Ada yang membutuhkan sumber dari wilayah yang belum mereka kunjungi. Ada pula yang belum tentu dapat dijawab oleh dokumen yang masih tersisa.
 
 Ia menambahkan satu kalimat di bawah daftar:
 
