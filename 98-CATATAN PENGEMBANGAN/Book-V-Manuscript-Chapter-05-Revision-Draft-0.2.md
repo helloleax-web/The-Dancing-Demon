@@ -124,7 +124,7 @@ Ilyra melihat satu baris di bagian bawah tabel. “Dan LEAX. Catatan yang kita t
 
 Tavian menambahkan pada daftar: **LEAX — menghilang setelah Great War; sebab dan keadaan tidak diketahui.**
 
-Daren menyilangkan tangan. “Jadi, setelah semua ini, masih banyak yang belum kita ketahui.”
+Daren menyilangkan tangan. “Kalau suatu hari kita harus memeriksa salah satu lokasi itu, daftar ini belum memberi kita jalur, kondisi medan, atau bahkan kepastian bahwa tempatnya masih bisa dicapai.”
 
 “Memang,” jawab Tavian.
 
