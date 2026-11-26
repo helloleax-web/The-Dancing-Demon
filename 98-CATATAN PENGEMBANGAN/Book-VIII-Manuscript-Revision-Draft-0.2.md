@@ -1046,7 +1046,27 @@ Tavian membuka peta, memeriksa arah, lalu menutupnya kembali.
 
 Untuk pertama kalinya, ia tidak menganggap ruang kosong sebagai kegagalan.
 
-Mereka berjalan menuju jalan yang belum dipetakan.
+Di pos jalan pada persimpangan berikutnya, sebuah pengumuman menawarkan pekerjaan survei sederhana: memeriksa rute dagang yang rusak setelah musim hujan. Tidak ada peninggalan kuno, tidak ada arsip tersembunyi, tidak ada janji bahwa pekerjaan itu akan mengubah pemahaman mereka tentang dunia. Hanya jalur yang perlu diukur, warga yang membutuhkan peta yang dapat dipakai, dan upah yang tercantum dengan jelas.
+
+Tavian membaca syaratnya sampai selesai. “Bayarannya tidak besar.”
+
+“Cukup untuk perjalanan dan persediaan,” kata Kael setelah menghitungnya.
+
+Mira memeriksa nama permukiman yang membutuhkan peta. “Kita harus bicara dengan orang yang tinggal di sepanjang rute sebelum menggambar ulang jalurnya.”
+
+Seraphine melihat daftar dokumen. “Dan kita simpan catatan sumbernya sejak awal.”
+
+Daren menggerakkan pergelangan tangannya yang masih dibalut. “Kalau medannya aman untuk diperiksa.”
+
+Ilyra menutup indeks Prasasti. “Aku bisa membantu membandingkan peta lama. Tapi kali ini kita tidak perlu mencari hubungan yang tidak ada.”
+
+Tavian melipat pengumuman itu. Ia tidak menerima pekerjaan tersebut karena berharap menemukan petunjuk baru. Ia menerimanya karena pekerjaan itu nyata, kebutuhannya jelas, dan mereka tahu bagaimana melakukannya bersama.
+
+Mereka menandatangani kontrak itu.
+
+Perjalanan mereka tidak berakhir dengan jawaban untuk setiap misteri. Ia berakhir dengan sesuatu yang lebih sederhana dan lebih sulit dijaga: mereka tahu tanggung jawab apa yang mereka ambil ketika memilih untuk terus berjalan.
+
+Ada jalan yang perlu dipetakan. Ada orang yang akan memakai peta itu. Dan kali ini, itu sudah cukup.
 
 ---
 
