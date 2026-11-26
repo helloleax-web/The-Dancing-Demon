@@ -110,6 +110,7 @@ Gunakan enam file ini sebagai prosa kerja terbaru untuk pembacaan dan audit. Rev
 
 ## Updated audits and production references
 
+- [Unified Proofreading Audit — Draft 0.2](Book-III-Unified-Proofreading-Audit-Draft-0.2.md)
 - [Manuscript Continuity Audit — Draft 0.7](Book-III-Manuscript-Continuity-Audit-Draft-0.7.md)
 - [Character Knowledge Matrix — Draft 0.5](Book-III-Character-Knowledge-Matrix-Draft-0.5.md)
 - [Manga Storyboard Index — Draft 0.5](Book-III-Manga-Storyboard-Index-Draft-0.5.md)
