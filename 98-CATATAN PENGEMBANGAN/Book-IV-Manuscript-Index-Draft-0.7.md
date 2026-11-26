@@ -17,10 +17,10 @@
 - [Character Knowledge Matrix Draft 0.7](Book-IV-Character-Knowledge-Matrix-Draft-0.6.md).
 - [Discovery Mechanism Decision Brief Draft 0.2](Book-IV-Prasasti-I-Discovery-Mechanism-Decision-Brief-Draft-0.2.md).
 - [Prasasti I Access and Provenance Decision Brief Draft 0.2](Book-IV-Prasasti-I-Access-and-Provenance-Decision-Brief-Draft-0.1.md).
-- [Discovery Mechanism Implementation Audit Draft 0.1](Book-IV-Discovery-Mechanism-Implementation-Audit-Draft-0.1.md).
-- [Manuscript Continuity Audit Draft 1.0](Book-IV-Manuscript-Continuity-Audit-Draft-0.8.md).
+- [Discovery Mechanism Implementation Audit Draft 0.2](Book-IV-Discovery-Mechanism-Implementation-Audit-Draft-0.1.md).
+- [Manuscript Continuity Audit Draft 1.1](Book-IV-Manuscript-Continuity-Audit-Draft-0.8.md).
 - [Book III–IV Transition Audit Draft 0.1](Book-III-IV-Transition-Audit-Draft-0.1.md).
-- [Line Edit and Proofreading Readiness Report Draft 0.2](Book-IV-Line-Edit-and-Proofreading-Readiness-Report-Draft-0.1.md).
+- [Line Edit and Proofreading Readiness Report Draft 0.3](Book-IV-Line-Edit-and-Proofreading-Readiness-Report-Draft-0.1.md).
 
 ## 3. Keputusan mekanisme penemuan B
 
@@ -47,7 +47,7 @@ Jangan menetapkan jawaban atas hal-hal tersebut sebagai CANON tanpa dasar atau k
 - [Storyboard Chapter 1 Revision Draft 0.3](Book-IV-Manga-Storyboard-Chapter-01-Revision-Draft-0.3.md).
 - [Storyboard Chapter 3 Revision Draft 0.3](Book-IV-Manga-Storyboard-Chapter-03-Revision-Draft-0.2.md).
 - [Storyboard Chapter 4 Revision Draft 0.3](Book-IV-Manga-Storyboard-Chapter-04-Revision-Draft-0.2.md).
-- [Storyboard Audit Report Draft 0.5](Book-IV-Manga-Storyboard-Audit-Report-Draft-0.3.md).
+- [Storyboard Audit Report Draft 0.6](Book-IV-Manga-Storyboard-Audit-Report-Draft-0.3.md).
 - Storyboard Bab 2 masih memakai Revision Draft 0.2 sebagai baseline.
 - Estimasi lama 74 halaman bersifat sementara; total panel 370 dari baseline lama tidak lagi dianggap terverifikasi.
 
