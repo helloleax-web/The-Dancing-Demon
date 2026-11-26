@@ -20,9 +20,9 @@
 
 ## Dokumen pengembangan
 
-- [Book IV Scene Outline — Draft 0.4](Book-IV-Scene-Outline-Draft-0.3.md) — revisi batas medium dan transliterasi.
-- [Book IV Character Knowledge Matrix — Draft 0.5](Book-IV-Character-Knowledge-Matrix-Draft-0.3.md) — jendela pengetahuan terbaru.
-- [Book IV Manuscript Continuity Audit — Draft 0.6](Book-IV-Manuscript-Continuity-Audit-Draft-0.3.md) — audit terbaru setelah pembedaan objek Northglass dan naskah interpretasi.
+- [Book IV Scene Outline — Draft 0.4](Book-IV-Scene-Outline-Draft-0.4.md) — revisi batas medium dan transliterasi.
+- [Book IV Character Knowledge Matrix — Draft 0.5](Book-IV-Character-Knowledge-Matrix-Draft-0.4.md) — jendela pengetahuan terbaru.
+- [Book IV Manuscript Continuity Audit — Draft 0.6](Book-IV-Manuscript-Continuity-Audit-Draft-0.4.md) — audit terbaru setelah pembedaan objek Northglass dan naskah interpretasi.
 - [Book IV Manuscript Continuity Audit — Draft 0.1](Book-IV-Manuscript-Continuity-Audit-Draft-0.1.md) — audit awal yang diarsipkan.
 - [Book IV Outline Audit — Draft 0.1](Book-IV-Outline-Audit-Report-Draft-0.1.md) — audit struktur awal.
 
@@ -58,7 +58,7 @@
 - [Book III–IV Transition Audit — Draft 0.1](Book-III-IV-Transition-Audit-Draft-0.1.md)
 - Book III Chapter 6 memberi rujukan parsial tanpa lokasi atau arah.
 - Catatan rute lokal Mira adalah sumber terpisah untuk mempersempit pencarian Northglass.
-- Book IV Chapter 1 Revision Draft 0.3 dan Scene Outline Draft 0.3 telah diselaraskan.
+- Book IV Chapter 1 Revision Draft 0.3 dan Scene Outline Draft 0.3 telah diselaraskan untuk sumber rute; Scene Outline Draft 0.4 menahan mekanisme pengungkapan nama sampai hubungan sumber diputuskan.
 - Identitas objek Northglass terhadap naskah interpretasi Prasasti I tetap UNKNOWN; model medium tetap NON-CANON.
 
 
