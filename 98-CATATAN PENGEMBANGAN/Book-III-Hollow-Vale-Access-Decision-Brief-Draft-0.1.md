@@ -41,3 +41,18 @@ Option B is the least disruptive to the existing draft, but it preserves the unc
 Choose A, B, or C. If A, the creator must also establish who or what grants the limited permission and its scope. Until this is decided, Book III remains **NOT FINAL**.
 
 **CANON impact:** none until creator approval.
+
+
+---
+
+## Superseding decision record — 27 November 2026
+
+**CREATOR DECISION RECORDED: OPTION B SELECTED.** The creator has authorized the development team to use the path in which the group knowingly inspects Hollow Vale without confirmed permission.
+
+This section supersedes the earlier "Current recommendation" and "Decision required" sections above. The creator decision is no longer pending.
+
+The group proceeds while knowing that no permission or authority has been confirmed. The narrative must not present the entry as lawful, approved, or justified by the absence of a visible barrier. No owner, authority, guard, permit, or permission source is to be invented. The specific legal status and any future consequence remain UNKNOWN/OPEN QUESTION.
+
+**Implementation:** the active Chapter 3 proofread manuscript, scene outline, all six manuscript continuity notes, all six integrated storyboard masters, continuity/proofreading audits, manuscript index, and progress tracker have been updated to carry this decision.
+
+**Book III remains NOT FINAL.** A fresh consecutive read-through and final approval audit are still required. This decision has no CANON effect.
