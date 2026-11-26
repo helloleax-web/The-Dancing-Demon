@@ -16,7 +16,7 @@
 
 - [Scene Outline Draft 0.5](Book-IV-Scene-Outline-Draft-0.5.md) — struktur 20 scene setelah keputusan B.
 - [Character Knowledge Matrix Draft 0.6](Book-IV-Character-Knowledge-Matrix-Draft-0.6.md) — jendela pengetahuan karakter yang telah dikoreksi.
-- [Discovery Mechanism Decision Brief Draft 0.1](Book-IV-Prasasti-I-Discovery-Mechanism-Decision-Brief-Draft-0.1.md) — opsi dan keputusan kreator.
+- [Discovery Mechanism Decision Brief Draft 0.2](Book-IV-Prasasti-I-Discovery-Mechanism-Decision-Brief-Draft-0.2.md) — opsi dan keputusan kreator.
 - [Discovery Mechanism Implementation Audit Draft 0.1](Book-IV-Discovery-Mechanism-Implementation-Audit-Draft-0.1.md) — audit implementasi mekanisme B.
 - [Manuscript Continuity Audit Draft 0.7](Book-IV-Manuscript-Continuity-Audit-Draft-0.7.md) — pemeriksaan kontinuitas setelah revisi.
 - [Book III–IV Transition Audit Draft 0.1](Book-III-IV-Transition-Audit-Draft-0.1.md) — sumber rute Northglass tetap terpisah dari indeks Hollow Vale.
