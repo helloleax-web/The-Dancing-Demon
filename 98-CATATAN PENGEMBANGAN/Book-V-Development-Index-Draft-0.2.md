@@ -39,6 +39,6 @@
 4. Perkuat dampak konflik penerbit pada distribusi laporan.
 5. Padatkan dialog metodologis yang berulang.
 6. Perluas interaksi kelompok di luar Balai Catatan Perang.
-7. Periksa transisi praktis ke Buku VI setelah outline Buku VI ditinjau.
+7. Transisi praktis ke Buku VI kini didukung kontrak pemeriksaan independen untuk laporan Harrowfen; audit lintas buku tetap perlu memeriksa konsistensi syarat kerja dan lokasi.
 
 **Dampak CANON: tidak ada.** Semua lokasi, karakter pendukung, dokumen, dan kejadian tetap NON-CANON.
