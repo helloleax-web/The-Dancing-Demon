@@ -1,6 +1,6 @@
 # The Dancing Demon — Title Meaning Proposal — Draft 0.1
 
-**Status:** CATATAN PENGEMBANGAN / NON-CANON.  
+**Status:** DISETUJUI KREATOR; makna judul telah dipindahkan ke CANON pada 2026-11-26. Dokumen ini dipertahankan sebagai riwayat pengembangan.  
 **Mandat:** pengguna menyerahkan pengembangan makna judul kepada co-writer. Dokumen ini menetapkan arah kerja yang dipilih untuk pengembangan Buku VIII, bukan perubahan fakta CANON.  
 **Keputusan kerja:** *The Dancing Demon* bukan nama satu monster atau identitas rahasia Abstract Existence. Judul ini adalah metafora bagi pola ketika rasa takut, penderitaan, dan hal yang belum dipahami terus diberi wajah berbeda oleh orang yang mencoba menjelaskannya.
 
@@ -112,4 +112,4 @@ Dialog final harus ditulis ulang sesuai suara karakter dan konteks adegan. Janga
 
 ## 9. Batas status
 
-Makna ini adalah **arah kreatif terpilih untuk draft Buku VIII** berdasarkan mandat pengguna agar co-writer menentukan makna judul. Statusnya tetap NON-CANON sampai pengguna mengesahkan. Ia tidak mengubah isi 13 Prasasti, identitas LEAX, kosmologi, atau fakta sejarah.
+Makna ini adalah **arah kreatif terpilih untuk draft Buku VIII** berdasarkan mandat pengguna agar co-writer menentukan makna judul. Status usulan ini: DISETUJUI KREATOR dan telah dicatat sebagai CANON di `01-CANON/The-Dancing-Demon-Title-Meaning.md`. Ia tidak mengubah isi 13 Prasasti, identitas LEAX, kosmologi, atau fakta sejarah.
