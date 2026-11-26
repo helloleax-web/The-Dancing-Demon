@@ -51,3 +51,12 @@
 - Detail tempat penyimpanan, penjaga, dan provenance tetap tidak ditetapkan; hindari panel yang mengunci rincian tersebut.
 
 **Status:** revisi storyboard Bab 3–4 diperlukan. Jumlah halaman/panel 74/370 adalah baseline lama, bukan hitungan final untuk versi baru.
+
+
+## Revisi storyboard setelah keputusan mekanisme B
+
+- [Chapter 3 — Revision Draft 0.2](Book-IV-Manga-Storyboard-Chapter-03-Revision-Draft-0.2.md) — Scenes 11–15; judul NVR AGAIN muncul dari naskah interpretasi pada halaman 15.
+- [Chapter 4 — Revision Draft 0.2](Book-IV-Manga-Storyboard-Chapter-04-Revision-Draft-0.2.md) — Scenes 16–20; dokumentasi Northglass dipisahkan dari naskah dan salinan bunyi.
+- Storyboard lama Draft 0.1 diarsipkan sebagai baseline yang tidak lagi sinkron.
+- Storyboard Bab 1–2 belum direvisi dalam pass ini.
+- Estimasi 74 halaman / 370 panel adalah baseline lama. Jumlah akhir harus dihitung ulang setelah thumbnail dan page-rhythm review.
