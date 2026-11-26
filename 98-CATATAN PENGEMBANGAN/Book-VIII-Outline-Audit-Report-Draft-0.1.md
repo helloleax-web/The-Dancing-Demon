@@ -58,11 +58,11 @@
 | II — Peta yang Tidak Menjamin Keselamatan | 5–8 | Petualangan lapangan dan kontribusi keahlian kelompok | Sesuai pilar adventure; butuh lokasi dan kondisi lapangan NON-CANON yang jelas |
 | III — Sejarah Tidak Menjadi Satu Cerita | 9–12 | Payoff sejarah dan tekanan kosmik tanpa menyatukan penyebab | Sesuai batas misteri; perlu menghindari adegan eksposisi beruntun |
 | IV — Pilihan yang Tidak Bisa Diwakilkan | 13–16 | Keputusan personal keenam karakter | Struktur kuat; setiap keputusan harus memengaruhi konflik eksternal |
-| V — The Dancing Demon | 17–20 | Pengungkapan judul, konsekuensi, dan penutup | Belum bisa difinalkan sebelum keputusan kreator tentang judul dan ending |
+| V — The Dancing Demon | 17–20 | Pengungkapan judul, konsekuensi, dan penutup | Payoff judul sudah tertulis; ending masih memerlukan revisi dan line edit |
 
 ## 6. Isu yang belum bisa diselesaikan tanpa keputusan kreator
 
-1. Makna objektif *The Dancing Demon*, termasuk arti “Dancing” dan “Demon”.
+1. Penguatan dramatik payoff judul dalam revisi prosa; makna tematiknya sendiri telah CANON.
 2. Misteri mana selain judul yang wajib dijawab secara eksplisit.
 3. Apakah identitas kontak tak dikenal Kael perlu diungkap.
 4. Apakah keadaan LEAX tetap UNKNOWN atau memperoleh jawaban.
@@ -75,7 +75,7 @@ Outline ini dapat menjadi kerangka kerja, tetapi tidak boleh disebut outline fin
 
 1. Pertahankan outline sebagai kerangka NON-CANON.
 2. Revisi manuskrip Buku VII untuk mengurangi pengulangan dialog metodologi dan memperkuat konsekuensi personal.
-3. Setelah keputusan kreator tentang makna judul tersedia, revisi bagian V Buku VIII dan tentukan bukti/petunjuk yang harus ditanam sebelumnya.
+3. Revisi bagian V berdasarkan manuskrip first-pass, dengan payoff judul tetap mengikuti dokumen CANON.
 4. Buat character knowledge matrix Buku VIII dan audit mystery timing.
 5. Baru setelah itu tulis prosa Buku VIII.
 
