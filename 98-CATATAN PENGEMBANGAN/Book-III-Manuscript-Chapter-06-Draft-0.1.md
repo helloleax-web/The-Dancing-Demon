@@ -147,5 +147,5 @@ Petunjuk itu berasal dari sebuah batu bertulis di luar fasilitas.
 - Sumber asli tetap berada di Hollow Vale; salinan disimpan dan dibagikan sesuai kesepakatan.
 - Ilyra memilih bergabung untuk menelusuri rujukan batu bertulis.
 - Kael belum memutus hubungan dengan jaringan informasi lamanya, tetapi tidak lagi mengirim salinan tanpa sumber dan persetujuan kelompok.
-- Penutup mengarahkan penyelidikan ke sumber di luar fasilitas, menjadi jembatan ke Buku IV tanpa mengungkap isi atau identitas Prasasti.
+- Penutup mengarahkan penyelidikan ke sumber di luar fasilitas, menjadi jembatan ke Buku IV tanpa mengungkap isi atau identitas batu bertulis tersebut.
 - Semua detail tetap NON-CANON.
