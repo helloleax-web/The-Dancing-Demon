@@ -40,23 +40,20 @@
 **Batas:** storyboard masih berupa arahan panel dan belum menjadi gambar, layout, atau manga final. Semua keputusan tetap NON-CANON.
 
 
-## Status sinkronisasi setelah keputusan mekanisme B
+## Status sinkronisasi setelah keputusan mekanisme B dan akses A
 
-- Storyboard Bab 1–2 tetap menjadi baseline produksi; belum diaudit ulang terhadap revisi terbaru.
-- Storyboard Bab 3 Revision Draft 0.3 kini disinkronkan dengan Chapter 3 Revision Draft 0.5; Chapter 4 Revision Draft 0.2 tetap baseline yang telah diperiksa terhadap Chapter 4 Revision Draft 0.4.
-- Pengungkapan NVR AGAIN harus berasal dari judul naskah interpretasi Prasasti I pada Scene 14, bukan dari guratan Northglass.
-- Panel Scene 12–13 harus memperlihatkan pemeriksaan naskah dan salinan bunyi tanpa menampilkan nama sebelum Scene 14.
-- Panel Scene 14 menampilkan judul naskah sebagai sumber pertama nama.
-- Jangan menggambarkan naskah sebagai batu atau menyamakan salinan bunyi dengan objek Northglass.
-- Detail tempat penyimpanan, penjaga, dan provenance tetap tidak ditetapkan; hindari panel yang mengunci rincian tersebut.
-
-**Status:** revisi storyboard Bab 3–4 diperlukan. Jumlah halaman/panel 74/370 adalah baseline lama, bukan hitungan final untuk versi baru.
-
+- Storyboard Chapter 1 Revision Draft 0.3 dan Chapter 2 Revision Draft 0.2 tetap menjadi baseline yang telah diperiksa.
+- Storyboard Chapter 3 Revision Draft 0.3 kini disinkronkan dengan manuskrip Chapter 3 Revision Draft 0.5, termasuk rujukan Jorren dan konsultasi terawasi.
+- Storyboard Chapter 4 Revision Draft 0.3 kini disinkronkan dengan manuskrip Chapter 4 Revision Draft 0.5, termasuk larangan membawa, memisahkan, menyalin, atau menyebarluaskan materi sumber.
+- Nama NVR AGAIN pertama kali muncul pada halaman 15 dari judul naskah interpretasi.
+- Catatan kerja kelompok bersifat non-reproduktif; jangan menggambarkannya sebagai transkrip atau salinan naskah/suara.
+- Identitas penjaga, lokasi geografis, provenance, kepemilikan sah, dan hubungan Northglass–Prasasti I tetap UNKNOWN.
+- Jumlah 74 halaman dan 370 panel adalah baseline lama; jumlah panel akhir tidak terverifikasi dan perlu dihitung ulang setelah thumbnail/page-rhythm review.
 
 ## Revisi storyboard setelah keputusan mekanisme B
 
 - [Chapter 1 — Revision Draft 0.3](Book-IV-Manga-Storyboard-Chapter-01-Revision-Draft-0.3.md) — koreksi sumber rute Hollow Vale vs catatan lokal Mira.\n- [Chapter 3 — Revision Draft 0.3](Book-IV-Manga-Storyboard-Chapter-03-Revision-Draft-0.2.md) — Scenes 11–15; judul NVR AGAIN muncul dari naskah interpretasi pada halaman 15.
-- [Chapter 4 — Revision Draft 0.3](Book-IV-Manga-Storyboard-Chapter-04-Revision-Draft-0.2.md) — Scenes 16–20; dokumentasi Northglass dipisahkan dari naskah dan salinan bunyi.
+- [Chapter 4 — Revision Draft 0.3](Book-IV-Manga-Storyboard-Chapter-04-Revision-Draft-0.2.md) — Scenes 16–20; dokumentasi Northglass dipisahkan dari catatan konsultasi Prasasti I; tidak ada salinan materi sumber yang dibuat atau dibawa.
 - Storyboard lama Draft 0.1 diarsipkan sebagai baseline yang tidak lagi sinkron.
 - Storyboard Bab 1 telah dikoreksi pada Revision Draft 0.3; Bab 2 Revision Draft 0.2 tetap menjadi baseline aktif.
 - Estimasi 74 halaman / 370 panel adalah baseline lama. Jumlah akhir harus dihitung ulang setelah thumbnail dan page-rhythm review.
