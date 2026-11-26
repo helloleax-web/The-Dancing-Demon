@@ -11,6 +11,8 @@
 - [Manuscript Continuity Audit — Draft 0.2](Book-III-Manuscript-Continuity-Audit-Draft-0.2.md) — audit terbaru.
 - [Manuscript Continuity Audit — Draft 0.1](Book-III-Manuscript-Continuity-Audit-Draft-0.1.md) — audit awal, dipertahankan sebagai arsip.
 - [Outline Audit — Draft 0.1](Book-III-Outline-Audit-Report-Draft-0.1.md) — audit outline awal.
+- [Manga Storyboard Index — Draft 0.2](Book-III-Manga-Storyboard-Index-Draft-0.2.md) — 108 halaman, 521 panel.
+- [Manga Storyboard Audit — Draft 0.2](Book-III-Manga-Storyboard-Audit-Report-Draft-0.2.md) — penyelarasan storyboard dengan prosa revisi.
 
 ## Keputusan cerita draft
 
