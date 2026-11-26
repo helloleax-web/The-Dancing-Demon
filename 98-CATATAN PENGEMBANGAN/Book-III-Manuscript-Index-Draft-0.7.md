@@ -1,7 +1,7 @@
 # Book III — Manuscript Index — Draft 0.7
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
-**Progress:** enam bab prosa tersedia. Chapters 1–6 kini memiliki versi revisi Draft 0.2; Draft 0.1 untuk Chapters 3–6 dipertahankan sebagai arsip. Continuity Audit Draft 0.7 dan Character Knowledge Matrix Draft 0.5 tersedia. Manuskrip belum final.
+**Progress:** enam bab prosa tersedia. Revision Draft 0.2 dan Line Edit Draft 0.3 dipertahankan sebagai riwayat; Proofread Draft 0.4 menjadi prosa kerja aktif untuk Chapters 1–6. Continuity Audit Draft 0.7 dan Character Knowledge Matrix Draft 0.5 tersedia. Manuskrip belum final.
 
 ## Struktur bab
 
@@ -42,7 +42,7 @@
 - Chapters 1–6: Revision Draft 0.2 tersedia; Chapters 3–6 telah direvisi berdasarkan audit kontinuitas dan Character Bible.
 - Draft 0.1 Chapters 3–6 tetap disimpan sebagai arsip, bukan versi aktif untuk penyuntingan berikutnya.
 - Manuskrip 20 scene: semua scene tersedia, tetapi masih memerlukan pengembangan prosa lebih lanjut, pemeriksaan ritme, dan line edit.
-- Status izin legal Hollow Vale tetap OPEN QUESTION. Revisi membatasi adegan pada bagian yang sudah terbuka dan tidak mengklaim izin formal.
+- Keputusan kreator B telah diterapkan: kelompok secara sadar masuk tanpa izin atau kewenangan yang terkonfirmasi; status legal dan otoritas tetap UNKNOWN/OPEN QUESTION.
 - Jalur informasi Vellum & Iron Recovery dan jalur kebocoran salinan tetap MYSTERY/UNKNOWN.
 - Kesepakatan dokumentasi dibatasi pada prosedur dan salinan; tidak menetapkan kepemilikan, hak tanah, akses permanen, atau izin pemindahan.
 - Motivasi Ilyra kini ditautkan ke motivasi CANON membangun reputasi melalui hasil penelitiannya sendiri.
