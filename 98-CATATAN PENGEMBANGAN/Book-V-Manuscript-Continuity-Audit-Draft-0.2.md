@@ -1,4 +1,4 @@
-# Book V — Manuscript Continuity Audit — Draft 0.5
+# Book V — Manuscript Continuity Audit — Draft 0.6
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Cakupan:** lima bab manuskrip, 22 scene; dibandingkan dengan Book V Scene Outline, Character Knowledge Matrix, Eight-Book Series Architecture, CANON Great War, Prasasti I, jubah mana hitam, Resonansi Hitam, dan penutup Buku IV. Bab 1–5 telah menerima revision pass 0.3.
@@ -123,3 +123,22 @@ Buku V memenuhi fungsi rekonstruksi sejarah Great War dan memberi payoff pada na
 **Buku V belum final. Scope LEAX tetap dibatasi pada dua fakta CANON minimum. Pass revisi seluruh lima bab kini mencapai 0.3. Line edit awal baru memperbaiki dua masalah dialog yang teridentifikasi; pemeriksaan menyeluruh atas repetisi, diferensiasi suara karakter, transisi, ritme, dan dampak publikasi di luar adegan masih terbuka.
 
 **Dampak CANON: tidak ada.** Semua karakter pendukung, lokasi, dokumen, dan peristiwa spesifik tetap NON-CANON.
+
+
+## 14. Audit suara karakter — 22 scene
+
+Pemeriksaan dialog lintas lima bab menunjukkan bahwa enam anggota kelompok utama memiliki pusat perhatian yang berbeda: Tavian pada pencatatan dan penyusunan data; Seraphine pada prosedur dan keputusan; Kael pada nilai serta risiko distribusi informasi; Mira pada konteks lokal; Daren pada kelayakan lapangan; Ilyra pada istilah dan pembacaan sumber. Neral dan Sava juga memiliki fungsi berbeda: Neral mengatur akses serta asal koleksi, sedangkan Sava menjaga konteks kesaksian lisan dan hubungan dengan keluarga pemberi cerita.
+
+Risiko utama adalah tumpang tindih bentuk kalimat metodologis antara Tavian, Seraphine, dan Ilyra, serta kecenderungan karakter pendukung menjadi penyampai penjelasan. Audit terpisah memuat profil suara dan contoh scene: `Book-V-Character-Voice-Audit-2026-11-27.md`.
+
+**Line edit diterapkan:** Chapter 4 Scene 17 membedakan arahan prosedural Seraphine dari perubahan sikap Tavian. Tavian tidak lagi sekadar menyatakan bahwa sumber tidak lengkap; ia mengakui bahwa ia semula ingin merapikan semua informasi dan kini menerima bahwa bagian yang belum dapat disatukan harus terlihat. Tidak ada fakta sejarah baru yang ditambahkan.
+
+## 15. Status line edit
+
+- Repetisi metodologis Bab 3 Scene 9–13 telah dipangkas dan fungsi tiap scene dibedakan.
+- Dialog Chapter 4 Scene 17 diperbaiki untuk memperjelas suara dan perkembangan Tavian.
+- Audit suara telah mencakup dialog 22 scene; audit bukan berarti seluruh dialog sudah selesai dipoles.
+- Tahap berikutnya: line edit terarah pada tumpang tindih Tavian–Seraphine–Ilyra, penguatan kontribusi Neral dan Sava tanpa menambah lore, serta pemeriksaan dialog yang terlalu berbentuk aforisme.
+- Semua perubahan tetap NON-CANON.
+
+**Dampak CANON: tidak ada.**
