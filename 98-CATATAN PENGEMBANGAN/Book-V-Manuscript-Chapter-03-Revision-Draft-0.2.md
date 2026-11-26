@@ -1,6 +1,6 @@
 # Book V — Perang yang Tertinggal
 ## Bab 3: Resonansi Hitam
-### Revision Draft 0.3 — Scenes 9–13
+### Revision Draft 0.4 — Scenes 9–13
 
 **Status: CATATAN PENGEMBANGAN / NON-CANON.**  
 **Basis:** Book V Scene Outline Draft 0.1, Book V Character Knowledge Matrix Draft 0.1, serta fakta CANON mengenai jubah mana hitam dan istilah Resonansi Hitam.  
@@ -24,11 +24,11 @@ Neral mengangguk dan membawa mereka ke meja pemeriksaan.
 
 Dokumen pertama memuat deskripsi tentang sebuah jubah berwarna hitam. Kalimatnya pendek, tetapi menyebut dua efek yang menarik perhatian Ilyra.
 
-“Pertahanan luar biasa,” katanya. “Dan pemulihan HP serta MP yang terus berlangsung.”
+“Pertahanan luar biasa,” katanya. “Juga pemulihan HP serta MP yang berlangsung terus-menerus.”
 
 Tavian menyalin kalimat tersebut.
 
-Neral kemudian membuka satu entri katalog yang dirujuk oleh dokumen itu. Entri tersebut menyatakan bahwa jubah mana hitam diperoleh oleh sekutu LEAX. Tidak ada nama, jumlah, cara perolehan, atau keterangan tentang siapa saja yang termasuk dalam kelompok sekutu itu.
+Neral membuka satu entri katalog yang dirujuk oleh dokumen itu. Entri tersebut menyatakan bahwa jubah mana hitam diperoleh oleh sekutu LEAX. Tidak ada nama, jumlah, cara perolehan, atau keterangan tentang siapa saja yang termasuk dalam kelompok sekutu itu.
 
 “Jadi catatan ini menghubungkan jubah dengan sekutu LEAX,” kata Tavian.
 
@@ -52,7 +52,7 @@ Ilyra menandai nomor dokumen yang memiliki rujukan serupa.
 
 Kael membaca bagian yang tersedia dari balik bahu mereka. “Benda seperti ini pasti membuat orang ingin tahu siapa yang memilikinya.”
 
-Seorang pengunjung di meja sebelah mendengar percakapan itu dan menyela bahwa ia pernah membaca teori tentang jubah serupa. Ia menyebut beberapa kemungkinan, tetapi ketika Ilyra menanyakan nomor sumbernya, ia hanya bisa menyebut judul sebuah ringkasan yang tidak tercantum dalam katalog Balai. Seraphine berterima kasih atas informasinya, lalu mencatatnya sebagai petunjuk bibliografis yang belum diverifikasi, bukan sebagai sumber pendukung.
+Seorang pengunjung di meja sebelah mendengar percakapan itu dan menyela bahwa ia pernah membaca teori tentang jubah serupa. Ia menyebut beberapa kemungkinan, tetapi ketika Ilyra menanyakan nomor sumbernya, ia hanya bisa menyebut judul ringkasan yang tidak tercantum dalam katalog Balai. Seraphine berterima kasih atas informasinya, lalu mencatatnya sebagai petunjuk bibliografis yang belum diverifikasi, bukan sebagai sumber pendukung.
 
 “Rasa ingin tahu bukan bukti,” kata Seraphine.
 
@@ -198,7 +198,7 @@ Seraphine mendengarkan sampai ia selesai.
 
 “Kami punya beberapa kemungkinan yang belum dapat diuji,” jawab Seraphine. “Itu bukan hal yang sama dengan kesimpulan.”
 
-Peneliti itu akhirnya mengangguk dan kembali ke mejanya. Sebelum pergi, ia meminta agar namanya tidak dicantumkan dalam catatan kelompok karena ia belum menerbitkan teorinya. Seraphine menyetujui permintaan itu dan hanya mencatat bahwa sebuah hipotesis lisan pernah diajukan oleh pengunjung tanpa identitas publik. Kael mengamati bahwa bahkan orang yang ingin teorinya didengar kadang belum siap mempertanggungjawabkannya di depan umum.
+Sebelum pergi, peneliti itu meminta agar namanya tidak dicantumkan dalam catatan kelompok karena ia belum menerbitkan teorinya. Seraphine menyetujui permintaan itu dan hanya mencatat bahwa sebuah hipotesis lisan pernah diajukan oleh pengunjung tanpa identitas publik. Kael mengamati bahwa bahkan orang yang ingin teorinya didengar kadang belum siap mempertanggungjawabkannya di depan umum.
 
 Kael memperhatikan punggungnya. “Dia terlihat yakin.”
 
