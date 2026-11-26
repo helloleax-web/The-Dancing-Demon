@@ -368,7 +368,7 @@ Tavian melepaskan tekanan.
 
 Mereka memeriksa celah yang terbuka. Tidak ada bagian yang runtuh, tetapi permukaan di atasnya masih bergetar. Mereka menunggu satu siklus lagi sebelum mencoba.
 
-Pada percobaan berikutnya, Tavian dan salah seorang anggota tim menggunakan alat pengungkit dari dua sisi. Seraphine mengikat tali pada bagian yang bergerak, sementara Kael terus berkomunikasi dengan orang di balik dinding.
+Pada percobaan berikutnya, Tavian menempatkan alat pengungkit di sisi bawah sambungan. Seraphine mengatur tali penahan dari posisi yang lebih aman, sementara Kael terus berkomunikasi dengan orang di balik dinding.
 
 “Begitu ada ruang, jangan langsung keluar,” kata Seraphine. “Tunggu instruksi.”
 
@@ -394,7 +394,7 @@ Bunyi mekanis kembali terdengar dari lorong. Penyangga mulai bergetar. Tavian me
 
 Mereka tidak mencoba membuka seluruh dinding. Mereka hanya menggunakan celah yang telah dibuat untuk melewati ruang sempit di sisi lain, lalu mengikuti jalur yang masih dapat dilalui. Beberapa bagian koridor telah tertutup. Bagian lain menunjukkan perubahan bentuk yang belum pernah mereka lihat.
 
-Kael berjalan di belakang, memastikan tidak ada yang tertinggal. Seraphine membawa orang yang terluka bersama anggota tim lain. Tavian memeriksa setiap persimpangan berdasarkan catatan posisi yang masih ia ingat.
+Kael berjalan di belakang, memastikan tidak ada yang tertinggal. Seraphine membantu orang yang terluka bergerak tanpa membebani lengannya. Tavian memeriksa setiap persimpangan berdasarkan catatan posisi yang masih ia ingat.
 
 Mereka tidak menemukan jalan keluar yang langsung.
 
@@ -414,7 +414,7 @@ Beberapa saat kemudian, cahaya di sepanjang dinding meredup. Getaran berhenti. T
 
 Mereka menggunakan kesempatan itu untuk bergerak kembali ke arah ruang pertama.
 
-Ketika akhirnya menemukan bagian struktur yang dapat dibuka dari sisi dalam, mereka tidak mencoba mengaktifkan panel. Mereka menunggu sampai orang-orang di luar berhasil menemukan celah dan membantu menarik bagian yang bergeser.
+Ketika akhirnya menemukan bagian struktur yang dapat dibuka dari sisi dalam, mereka tidak mencoba mengaktifkan panel. Dua anggota yang tetap di luar berhasil menjangkau bagian yang bergeser dari sisi seberang. Tavian menahan mekanisme dari dalam sementara mereka membantu menarik bidang itu hingga cukup terbuka untuk dilewati.
 
 Satu demi satu, mereka keluar.
 
