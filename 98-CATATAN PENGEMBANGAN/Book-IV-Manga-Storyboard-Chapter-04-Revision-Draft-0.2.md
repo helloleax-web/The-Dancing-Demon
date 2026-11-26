@@ -112,8 +112,8 @@
 **Panel 5.** Dua map sumber tetap terpisah.
 
 ## Halaman 15 — Nama Menyebar
-**Panel 1.** Salinan laporan dikirim.
-**Panel 2.** Nama NVR AGAIN muncul pada catatan peneliti.
+**Panel 1.** Salinan laporan non-reproduktif dikirim hanya kepada pihak yang terlibat langsung dalam penyelidikan.
+**Panel 2.** Nama NVR AGAIN muncul pada catatan hasil pemeriksaan.
 **Panel 3.** Seseorang menebak nama itu sebagai tempat.
 **Panel 4.** Catatan lain menduga nama orang.
 **Panel 5.** Semua dugaan diberi status belum terbukti.
