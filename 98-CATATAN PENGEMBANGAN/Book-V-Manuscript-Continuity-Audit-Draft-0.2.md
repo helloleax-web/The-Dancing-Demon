@@ -106,14 +106,14 @@ Manuskrip harus mempertahankan ketidakpastian tersebut. Jangan mengubah istilah 
 - Bab 5 Scene 21: dialog Daren diubah dari komentar umum tentang banyaknya hal yang belum diketahui menjadi pertanyaan praktis tentang jalur, kondisi medan, dan keterjangkauan lokasi. Ini menegaskan perspektifnya sebagai pekerja lapangan tanpa menetapkan lokasi atau fakta baru.
 - Bab 3 Scene 9: transisi dari temuan NVR AGAIN ke koleksi jubah diperjelas. Naskah menyatakan bahwa hubungan musik dengan Great War tidak otomatis menghubungkan seluruh catatan perang; pemeriksaan jubah dimulai sebagai pertanyaan terpisah.
 - Bab 5 Scene 21: daftar UNKNOWN yang sebelumnya dibacakan satu per satu dipadatkan karena daftar serupa sudah muncul dalam laporan Scene 17 dan 19. Scene ini kini berfungsi sebagai peninjauan akhir dan respons karakter, bukan pengulangan inventaris.
-- Pemeriksaan suara karakter, transisi, dan ritme lintas bab masih berlangsung.
+- Pemeriksaan suara karakter, transisi, dan ritme lintas bab masih berlangsung. Bab 3 Scene 9–13 telah menerima revisi ritme terfokus untuk membedakan fungsi informasi setiap scene.
 
 ## 12. Temuan ritme dan transisi
 
 1. **Scene 17 → 19:** keduanya membahas laporan, tetapi fungsinya berbeda. Scene 17 menyusun kategori dan batas kesimpulan; Scene 18 memperlihatkan penolakan penerbit; Scene 19 menyajikan laporan yang sudah diselesaikan. Pertahankan perbedaan ini, jangan menghapus salah satunya.
 2. **Scene 21:** pengulangan daftar UNKNOWN telah dipadatkan karena informasi yang sama sudah dipaparkan dalam laporan. Scene 21 kini menekankan respons kelompok dan batas tindak lanjut.
 3. **Scene 8 → 9:** transisi diperjelas agar pergantian dari musik ke jubah tidak terbaca sebagai hubungan sebab-akibat.
-4. **Scene 9–13:** rangkaian arsip jubah masih berisiko terasa seperti beberapa variasi percakapan metodologis. Fungsi tiap scene berbeda dalam outline, tetapi line edit berikutnya perlu memangkas dialog yang hanya mengulang “belum ada bukti” tanpa informasi atau keputusan baru.
+4. **Scene 9–13 — revisi ritme diterapkan:** Scene 9 kini berakhir pada persoalan independensi sumber; Scene 10 berfokus pada istilah asli dan terjemahan kerja; Scene 11 memperkenalkan istilah Resonansi Hitam; Scene 12 mengoreksi kesan kontradiksi dengan membedakan kelengkapan dan fokus dokumen; Scene 13 mengubah hipotesis lisan menjadi keputusan pencatatan yang jelas. Tiap scene kini menghasilkan langkah kerja atau keputusan berbeda, bukan sekadar mengulang bahwa bukti belum cukup.
 5. **Scene 1–4:** perjalanan, pengenalan Balai, dan metode kronologi berfungsi sebagai pembukaan bertahap. Scene 3 cukup padat dengan aturan akses; pemadatan perlu dilakukan hati-hati agar aturan yang memengaruhi plot tidak hilang.
 
 ## 13. Kesimpulan
