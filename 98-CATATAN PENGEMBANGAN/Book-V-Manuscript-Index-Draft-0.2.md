@@ -291,3 +291,12 @@
 - Semi-Flat Editorial remains the rendering candidate; 4:5 remains the preferred page-ratio candidate after four scene tests. Neither is approved or locked.
 - Palette, typography, output medium, final character designs, and final location designs remain open.
 - All visual development remains NON-CANON; no manuscript or CANON facts were changed.
+
+
+## Tavian visual design exploration — Draft 0.1
+
+- [Tavian Rell — Visual Design Exploration Draft 0.1](Tavian-Visual-Design-Exploration-Draft-0.1.md) — CANON basis, UNKNOWN appearance boundaries, three silhouette directions, rejected automated concept-sheet audit, and next production checks.
+- A (Field Jacket), B (Layered Overshirt), and C (Travel Workwear) remain NON-CANON silhouette hypotheses; no option has been selected.
+- Automated concept sheets were not accepted as design references because they introduced unsupported appearance details and one sheet misrepresented non-CANON personality claims as CANON.
+- A neutral abstract silhouette board is retained as a comparison aid only.
+- No Character Bible or CANON facts were changed.
