@@ -16,15 +16,13 @@ Seraphine memastikan setiap kutipan memiliki rujukan. Ilyra memeriksa ulang pemb
 
 Kael membaca bagian pembuka.
 
-“Kalimat pertama terlalu berat.”
+“Pembuka ini langsung membawa pembaca ke batas penelitian,” kata Kael. “Mereka belum tahu hasil apa yang sedang dibatasi.”
 
-“Bagian ini menjelaskan batas penelitian,” kata Seraphine.
+Seraphine melihat halaman itu lagi. “Batasnya tetap harus terlihat.”
 
-“Pembaca harus tahu apa yang kalian temukan sebelum diberi tahu apa yang belum kalian temukan.”
+“Bisa. Tapi letakkan ringkasan temuan lebih dulu,” kata Tavian. “Setelah itu baru jelaskan cara kita sampai ke sana.”
 
-Tavian melihat halaman tersebut. “Kita bisa memindahkan ringkasan hasil ke depan.”
-
-Seraphine mempertimbangkannya, lalu mengangguk.
+Seraphine membaca susunan baru yang diusulkan Tavian, lalu mengangguk.
 
 Mereka menyusun ulang laporan. Bagian awal kini menyatakan bahwa beberapa sumber sejarah dari wilayah berbeda mencatat musik yang terdengar selama Great War. Nama NVR AGAIN, yang ditemukan melalui pembacaan Prasasti pertama, dapat dihubungkan dengan musik tersebut berdasarkan perbandingan sumber.
 
@@ -40,13 +38,13 @@ Di halaman terakhir, Seraphine mempertahankan daftar pertanyaan terbuka.
 
 Tavian membaca laporan dari awal sampai akhir.
 
-“Tidak ada kronologi yang benar-benar lengkap.”
+“Bagian kronologi ini masih terpecah,” kata Tavian.
 
-“Tidak ada sumber yang cukup untuk membuatnya,” jawab Seraphine.
+“Karena tanggal-tanggalnya memang belum bisa disejajarkan,” jawab Seraphine.
 
-“Setidaknya sekarang orang bisa memeriksa apa yang kita gunakan.”
+Tavian memeriksa daftar rujukan sekali lagi. “Tapi setiap urutan yang kita pakai sekarang punya sumber yang bisa dilacak.”
 
-Ilyra menutup map pembacaan. “Dan mereka bisa melihat bagian mana yang belum kita pahami.”
+Ilyra menutup map pembacaan. “Termasuk istilah yang belum bisa kita padankan.”
 
 Mereka menyimpan salinan akhir pada koleksi yang telah disepakati. Salinan lain diberikan kepada pihak penelitian yang bersedia mengikuti aturan pencatatan sumber.
 
@@ -72,13 +70,11 @@ Kelompok tidak memiliki jawaban untuk pertanyaan itu.
 
 Tavian membaca salah satu surat yang meminta mereka mengubah kesimpulan menjadi pernyataan lebih pasti.
 
-“Dia ingin kita menulis bahwa semua sumber membuktikan hal yang sama.”
+“Surat ini menghitung dua kutipan sebagai dua konfirmasi,” kata Tavian.
 
-“Padahal tidak,” kata Seraphine.
+Ilyra memeriksa lampirannya. “Keduanya berasal dari catatan keluarga yang sama. Kutipan kedua menyalin versi pertama.”
 
-Ilyra memeriksa lampiran surat. “Dia mengutip dua kesaksian yang sebenarnya berasal dari satu catatan keluarga.”
-
-“Berarti bukan dua sumber independen,” ujar Tavian.
+Seraphine menggeser surat itu ke sisi meja. “Jawab dengan rantai asalnya. Jangan perdebatkan kesimpulan yang mereka inginkan; tunjukkan bagaimana kutipan itu saling bergantung.”
 
 Mereka menyusun jawaban singkat yang menjelaskan asal kutipan tersebut. Seraphine menolak mengubah tingkat kepastian hanya karena pembaca menginginkan kesimpulan yang lebih tegas.
 
@@ -86,15 +82,13 @@ Kael menerima pesan lain dari seseorang yang menawarkan imbalan untuk salinan le
 
 Ia membaca tawaran itu, lalu menyimpannya.
 
-“Tidak tertarik?” tanya Mira.
+“Kau tidak akan membalas?” tanya Mira.
 
-“Belum.”
+Kael mengunci layar. “Tidak dengan salinan itu.”
 
-“Karena tidak menguntungkan?”
+“Karena mereka tidak mau mengikuti aturan akses?”
 
-Kael menatap pesan tersebut beberapa saat.
-
-“Karena mereka meminta sesuatu yang tidak berhak kuberikan.”
+“Karena dokumen itu bukan milikku untuk kubagikan.”
 
 Mira tidak menanggapi. Ia kembali memeriksa catatan jalur.
 
@@ -110,11 +104,11 @@ Pada malam terakhir mereka di Orlenn, kelompok berkumpul untuk meninjau kembali 
 
 Tavian membentangkan tabel. Kali ini ia tidak membacakan seluruh isinya. Daftar itu sudah muncul dalam laporan dan telah diperiksa berkali-kali. Ia hanya menandai beberapa kelompok persoalan: sejarah perang, asal musik, mekanisme jubah, cakupan Resonansi Hitam, dan hilangnya LEAX setelah Great War.
 
-“Tidak ada tambahan yang bisa kita pertanggungjawabkan?” tanyanya.
+“Ada temuan baru sejak laporan disusun?” tanya Tavian.
 
-Ilyra memeriksa catatan pembanding. “Tidak. Beberapa istilah masih bisa ditelusuri, tapi sumber yang kita punya belum mengubah kesimpulannya.”
+Ilyra memeriksa catatan pembanding. “Belum. Ada istilah yang masih bisa ditelusuri, tetapi belum ada sumber tambahan yang mengubah pembacaan kita.”
 
-Seraphine menutup buku catatan. “Berarti laporan tetap pada batas yang sudah kita tetapkan. Jangan menambah kepastian hanya karena kita ingin mengakhiri pekerjaan.”
+Seraphine menutup buku catatan. “Kalau begitu, versi laporan ini tetap. Catat saja jalur penelusuran yang masih terbuka untuk pemeriksaan berikutnya.”
 
 Daren menyilangkan tangan. “Kalau suatu hari kita harus memeriksa salah satu lokasi yang disebut sumber, daftar ini belum memberi kita jalur, kondisi medan, atau kepastian tempatnya masih bisa dicapai.”
 
@@ -132,11 +126,9 @@ Seraphine merapikan halaman terakhir.
 
 Tavian melihat tabel itu sekali lagi. Ada beberapa hal yang mungkin dapat mereka telusuri melalui arsip lain. Ada yang membutuhkan sumber dari wilayah yang belum mereka kunjungi. Ada pula yang belum tentu dapat dijawab oleh dokumen yang masih tersisa.
 
-Ia menambahkan satu kalimat di bawah daftar:
+Ia menambahkan satu catatan kerja di bawah daftar: beberapa pertanyaan membutuhkan sumber dari wilayah lain; sebagian memerlukan dokumen yang belum ditemukan; sisanya belum memiliki jalur pemeriksaan yang jelas.
 
-**Pertanyaan terbuka bukan bukti bahwa penelitian gagal. Pertanyaan terbuka menunjukkan batas sumber yang tersedia.**
-
-Tidak ada yang membantah.
+Tavian memberi tanda pada tiga kelompok itu agar dapat ditinjau lagi jika mereka memperoleh akses arsip baru.
 
 Mereka membereskan dokumen dan mempersiapkan keberangkatan. Orlenn telah memberi mereka bahan yang cukup untuk memperbaiki pemahaman tentang Great War, tetapi bukan jawaban final tentang perang itu sendiri.
 
@@ -190,11 +182,9 @@ Di dalam tas Tavian, laporan Great War tersimpan bersama catatan tentang NVR AGA
 
 Tavian menutup tasnya dan menyusul yang lain.
 
-Perang itu telah lama berlalu.
+Penanda rute yang tadi dicatat Mira tertinggal di belakang, masih digunakan meski asalnya tidak lagi diketahui orang-orang yang melewatinya. Ia teringat laporan di dalam tas: catatan bisa bertahan, berubah, atau kehilangan konteks saat berpindah tangan.
 
-Tetapi cara orang mengingatnya masih ikut menentukan dunia yang mereka tinggali.
-
-Dan di luar semua catatan yang telah mereka periksa, masih ada hal-hal yang belum mereka pahami.
+Mereka belum mendapat jawaban untuk seluruh Great War. Namun, pekerjaan berikutnya sudah memiliki arah: memeriksa sumber yang belum mereka jangkau, tanpa menganggap ringkasan singkat sebagai kesimpulan.
 
 ---
 
