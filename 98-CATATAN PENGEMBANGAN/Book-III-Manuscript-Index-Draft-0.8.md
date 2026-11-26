@@ -86,7 +86,7 @@ Proofread Draft 0.4 dibuat dari masing-masing Line Edit Draft 0.3. Versi ini men
 - [Chapter 5 — Proofread Draft 0.4](Book-III-Manuscript-Chapter-05-Proofread-Draft-0.4.md)
 - [Chapter 6 — Proofread Draft 0.4](Book-III-Manuscript-Chapter-06-Proofread-Draft-0.4.md)
 
-**Status:** proofread pass awal dan read-through berurutan selesai. Keputusan akses B sudah diterapkan; kewenangan dan status legal Hollow Vale tetap UNKNOWN/OPEN QUESTION. Final micro-proofread, audit CANON/transisi Buku IV, storyboard panel-by-panel, dan persetujuan kreator masih tertunda.
+**Status:** proofread pass awal dan read-through berurutan selesai. Keputusan akses B sudah diterapkan; kewenangan dan status legal Hollow Vale tetap UNKNOWN/OPEN QUESTION. Audit teks/panel-per-panel storyboard telah selesai. Final micro-proofread, audit akhir seluruh sumber CANON/transisi Buku IV, thumbnail, layout, dan persetujuan kreator masih tertunda.
 
 ## Hollow Vale access — active development decision
 
@@ -94,7 +94,7 @@ Proofread Draft 0.4 dibuat dari masing-masing Line Edit Draft 0.3. Versi ini men
 - **Applied to:** active Chapter 3 proofread manuscript, all six manuscript continuity notes, scene outline, all six integrated storyboard masters, decision brief, continuity/proofreading audits, and the updated character knowledge matrix.
 - **Not established:** landowner, authority, permit, permission source, legality, or specific consequence.
 - **Still OPEN QUESTION:** who has authority over Hollow Vale and whether any legal basis for entry exists.
-- **Next gate:** final micro-proofread, canon-source and Book IV transition audit, thumbnail, uji ritme, lettering/layout, dan creator approval. Book III is not final.
+- **Next gate:** final micro-proofread, final CANON/source and Book IV transition audit, thumbnail, uji ritme, lettering/layout, dan creator approval. Book III is not final.
 
 
 ## Active manuscript — Proofread Draft 0.4
