@@ -78,7 +78,7 @@ batas informasi yang belum boleh diisi.
 -   Jangan mengarang isi objektif atau fungsi Prasasti. Ketiga belas naskah
     interpretasi yang telah disahkan tetap harus dibaca sebagai perspektif
     penulisnya, bukan kebenaran sejarah yang otomatis terkonfirmasi.
--   Untuk Book IV Chapter 1–2, Jorren Hale hanya memberi izin terbatas pada jalur yang ia jaga; ia tidak mewakili seluruh masyarakat atau semua pihak berkepentingan. Izin dokumentasi tidak berarti izin menyentuh, mengikis, membersihkan, atau memindahkan batu.
+-   Untuk Book IV Chapter 1–4, Jorren Hale hanya memberi izin dan menjaga akses melalui jalur yang berada dalam tanggung jawabnya; ia tidak mewakili seluruh masyarakat atau semua pihak berkepentingan. Izin dokumentasi tidak berarti izin menyentuh, mengikis, membersihkan, atau memindahkan batu.
 -   Dalam Book IV Chapter 2–3, pemeriksaan guratan bersifat visual dan non-invasif; jangan menyentuh, mengikis, membersihkan, atau memindahkan batu maupun endapan.
 -   Dalam Book IV Chapter 3, NVR AGAIN hanya boleh muncul sebagai pengungkapan dalam Scene 14. Yang terbaca adalah transliterasi satu rangkaian tanda, bukan terjemahan keseluruhan prasasti. Referen, makna, pembuat, dan konteks sejarah tetap UNKNOWN/MYSTERY.
 -   Kehadiran dan permintaan individu yang mengatasnamakan Arsip Lentera, Konsorsium Survei Meridian, atau Vellum & Iron Recovery dalam Book IV Chapter 3–4 hanya menetapkan peran mereka dalam peristiwa adegan; hal itu tidak menetapkan mandat, fungsi umum, struktur, kepemimpinan, atau kewenangan organisasi tersebut.
