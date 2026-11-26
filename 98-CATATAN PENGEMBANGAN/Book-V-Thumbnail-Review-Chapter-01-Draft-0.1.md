@@ -82,3 +82,32 @@ Karena itu gambar tidak diterima, tidak menjadi acuan desain, dan tidak disimpan
 
 **Status Scene 1:** thumbnail visual belum diterima.  
 **Dampak CANON:** tidak ada.
+
+
+## Scene 1 — Manual thumbnail layout Draft 0.2 — 2026-11-27
+
+Layout thumbnail manual dibuat sebagai lembar kerja lima panel berdasarkan langsung pada storyboard teks Scene 1. Layout menggunakan kotak komposisi dan blok visual abstrak, bukan desain karakter/lokasi final.
+
+**File kerja:** `BookV_Scene1_Manual_Thumbnail_Layout_Draft02.png` (dibuat di sesi kerja; belum disimpan sebagai aset biner repository).
+
+### Pemeriksaan terhadap storyboard
+
+- Panel 1: kelompok berjalan menjauhi Northglass; punggung batu menjauh dan tertutup lekuk perbukitan.
+- Panel 2: tangan Tavian menjaga map; peta lokasi batu, catatan kondisi permukaan, dan lembar NVR AGAIN.
+- Panel 3: Tavian memeriksa lembar; Kael berkomentar; Ilyra menjelaskan batas pembacaan; Seraphine berjalan sedikit di depan sambil memeriksa dokumen.
+- Panel 4: kelompok berhenti di persimpangan; Seraphine membuka catatan; Mira membandingkan dua jalur; Daren memeriksa ikatan tas.
+- Panel 5: catatan tujuan pemeriksaan tampil sebagai insert; Tavian membaca dan kelompok kembali bergerak.
+
+### Batas yang dijaga
+
+- Tidak menggambar wajah, rambut, pakaian, tinggi, atau aksesori karakter.
+- Tidak menetapkan arsitektur Northglass, bentuk rinci batu, atau geografi baru.
+- Tidak menambahkan simbol, lambang, tulisan, atau penanda jalan.
+- Tidak menambahkan fakta sejarah selain istilah Great War dan NVR AGAIN yang memang ada di naskah.
+- Peta hanya berfungsi sebagai properti komposisi; detail jalur tidak ditetapkan.
+
+### Status evaluasi
+
+**Diterima sebagai layout thumbnail manual Draft 0.2 untuk evaluasi komposisi**, bukan ilustrasi final. Karena bentuk gambar masih berupa blok komposisi abstrak, tahap berikutnya adalah memperjelas staging dan ukuran shot per panel tanpa mengunci desain visual karakter/lokasi.
+
+**Dampak CANON: tidak ada.**
