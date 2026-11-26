@@ -1,5 +1,5 @@
 # Book IV — Manga Storyboard Cross-Check Audit
-## Draft 0.7 — Cross-Check terhadap Proofread Draft 0.2
+## Draft 0.8 — Cross-Check terhadap Proofread Draft 0.2 dan Akses A
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Ruang lingkup:** storyboard Chapters 1–4 dibandingkan dengan manuskrip aktif dan Scene Outline Draft 0.6.
@@ -9,7 +9,7 @@
 | Bab | Manuskrip acuan | Storyboard aktif | Hasil |
 |---|---|---|---|
 | 1 | Chapter 1 Proofread Draft 0.2 | Chapter 1 Storyboard Revision Draft 0.3 | LULUS setelah koreksi sumber rute |
-| 2 | Chapter 2 Proofread Draft 0.1 | Chapter 2 Storyboard Revision Draft 0.2 | LULUS untuk jendela pengetahuan dan dokumentasi |
+| 2 | Chapter 2 Proofread Draft 0.2 | Chapter 2 Storyboard Revision Draft 0.2 | LULUS untuk jendela pengetahuan dan dokumentasi |
 | 3 | Chapter 3 Proofread Draft 0.1 | Chapter 3 Storyboard Revision Draft 0.4 | LULUS BERSYARAT untuk akses A, mekanisme B, dan reveal Scene 14 |
 | 4 | Chapter 4 Proofread Draft 0.1 | Chapter 4 Storyboard Revision Draft 0.4 | LULUS BERSYARAT untuk pemisahan sumber dan batas non-reproduksi |
 
