@@ -86,7 +86,7 @@ Seraphine membuka buku catatan.
 
 “Tidak semuanya. Aku mencatat sejauh yang diketahui pemberi keterangan. Kalau seseorang tidak tahu siapa yang pertama kali menceritakan, aku tulis begitu.”
 
-“Bagus,” kata Seraphine. “Kami perlu membedakan jarak antara peristiwa dan orang yang memberi kesaksian.”
+“Kalau asalnya tidak diketahui, jangan kita rapikan seolah-olah diketahui,” kata Seraphine. “Catat batasnya, lalu kita lihat apakah masih ada cara untuk memeriksa jalur ceritanya.”
 
 Sava mengeluarkan beberapa ringkasan.
 
@@ -108,9 +108,13 @@ Tavian menyusun tabel baru. Ia membuat kolom untuk asal kesaksian, generasi pemb
 
 “Kalau beberapa keluarga dari wilayah berbeda mengingat bunyi yang mirip, apakah itu cukup untuk menyimpulkan mereka mendengar hal yang sama?” tanyanya.
 
-“Belum,” jawab Sava. “Kita harus memeriksa apakah cerita mereka berasal dari jalur ingatan yang benar-benar terpisah. Dua keluarga bisa saja mengulang cerita yang sama dari satu sumber. Kemiripan baru bernilai jika asal keterangannya dapat dibedakan. Jangan buang kesaksian hanya karena tidak sama dengan dokumen resmi. Namun, jangan pula menganggap semuanya benar hanya karena terdengar mirip.”
+“Belum,” jawab Sava. “Dua keluarga bisa mengulang cerita dari orang yang sama tanpa menyadarinya. Aku pernah menerima dua kisah yang terdengar berbeda, lalu menemukan bahwa keduanya bermula dari satu cerita yang dibawa seorang kerabat.”
 
-Seraphine menulis kalimat itu di pinggir catatan.
+Ia merapikan tepi map sebelum melanjutkan.
+
+“Jadi, jangan buang kesaksian hanya karena tidak sama dengan dokumen resmi. Tapi jangan hitung dua cerita sebagai dua pengalaman hanya karena disampaikan oleh dua keluarga.”
+
+Seraphine tidak langsung menyalinnya sebagai kesimpulan. Ia memberi tanda pada kolom asal keterangan, lalu meminta Tavian memastikan setiap ringkasan memiliki catatan jalur penyampaiannya.
 
 Kael mengamati lembar-lembar yang terbentang. “Ada orang yang mungkin bersedia membayar untuk cerita seperti ini.”
 
@@ -142,13 +146,13 @@ Tavian berdiri di sisi meja. Ia melihat beberapa kolom yang telah dibuat Ilyra: 
 
 “Tidak ada yang menyebut NVR AGAIN,” kata Tavian.
 
-“Benar. Nama itu hanya ada pada Prasasti yang kita temukan.”
+“Benar. Dalam kumpulan sumber yang kita periksa, nama itu hanya tercatat pada Prasasti. Jangan masukkan ke kutipan sejarah seolah-olah para penulis dokumen juga memakai nama tersebut.”
 
 Ilyra kemudian menunjukkan catatan lain. Isinya tidak lengkap, tetapi menyebut bahwa bunyi tersebut terdengar di wilayah yang berbeda pada masa Great War. Keterangan itu tidak cukup untuk menentukan asalnya. Namun, ketika dibandingkan dengan beberapa kesaksian keluarga, pola waktunya tidak bertentangan.
 
 Seraphine memeriksa ulang sumber-sumber itu.
 
-“Kita harus hati-hati. Sebagian kesaksian tidak punya tanggal pasti. Dan dokumen ini mungkin menyalin keterangan yang sama.”
+Seraphine menggeser dua lembar yang memiliki susunan kalimat serupa. “Sebelum kita membandingkan isinya, pastikan dulu apakah keduanya benar-benar berasal dari jalur yang berbeda.”
 
 “Sudah kutandai,” kata Ilyra. “Sumber yang saling mengutip tidak akan kuhitung sebagai kesaksian independen. Untuk yang jalur asalnya belum jelas, aku pisahkan sebagai kelompok sumber yang belum teruji independensinya.”
 
@@ -210,7 +214,11 @@ Ilyra menutup katalog. “Untuk saat ini, kita tahu bahwa musik terdengar selama
 
 “Kalau begitu, kita tulis persis begitu,” kata Tavian.
 
-Seraphine memeriksa catatan terakhir mereka. Ia menghapus satu frasa yang terlalu pasti, lalu menggantinya dengan kalimat yang menjelaskan tingkat dukungan sumber.
+Seraphine memeriksa catatan terakhir mereka. Ia mencoret satu frasa yang menyatakan hubungan itu sebagai kepastian mutlak.
+
+“Ini harus menjelaskan dasar identifikasinya, bukan membuatnya terdengar lebih kuat,” katanya.
+
+Ilyra menyesuaikan kalimat tersebut dengan kategori sumber yang sudah mereka periksa.
 
 Neral mengumpulkan katalog yang telah dipinjamkan.
 
