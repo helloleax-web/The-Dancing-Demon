@@ -1,6 +1,6 @@
 # Book V — Perang yang Tertinggal
 ## Bab 5: Perang yang Tertinggal
-### Revision Draft 0.3 — Scenes 19–22
+### Revision Draft 0.4 — Scenes 19–22
 
 **Status: CATATAN PENGEMBANGAN / NON-CANON.**  
 **Basis:** Book V Scene Outline Draft 0.1, Book V Character Knowledge Matrix Draft 0.1, dan fakta CANON tentang Great War, NVR AGAIN, jubah mana hitam, serta Resonansi Hitam.  
@@ -10,9 +10,9 @@
 
 ### Scene 19 — Laporan Terbatas
 
-Laporan itu akhirnya selesai setelah beberapa kali pemeriksaan.
+Laporan itu akhirnya selesai setelah melalui beberapa putaran pemeriksaan.
 
-Seraphine memastikan setiap kutipan memiliki rujukan. Ilyra memeriksa ulang pembacaan nama dan perbandingan istilah. Tavian menyusun bagian lokasi sumber dan tabel kronologi yang belum dapat disatukan. Mira memeriksa keterangan asal kesaksian, sementara Daren memastikan catatan perjalanan dan urutan pemeriksaan tidak saling bertentangan.
+Seraphine memastikan setiap kutipan disertai rujukan. Ilyra memeriksa ulang pembacaan nama dan perbandingan istilah. Tavian menyusun bagian lokasi sumber dan tabel kronologi yang belum dapat disatukan. Mira memeriksa keterangan asal kesaksian, sementara Daren memastikan catatan perjalanan dan urutan pemeriksaan tidak saling bertentangan.
 
 Kael membaca bagian pembuka.
 
@@ -24,9 +24,9 @@ Seraphine melihat halaman itu lagi. “Batasnya tetap harus terlihat.”
 
 Seraphine membaca susunan baru yang diusulkan Tavian, lalu mengangguk.
 
-Mereka menyusun ulang laporan. Bagian awal kini menyatakan bahwa beberapa sumber sejarah dari wilayah berbeda mencatat musik yang terdengar selama Great War. Nama NVR AGAIN, yang ditemukan melalui pembacaan Prasasti pertama, dapat dihubungkan dengan musik tersebut berdasarkan perbandingan sumber.
+Mereka menyusun ulang laporan. Bagian awal kini menyatakan bahwa sejumlah sumber sejarah dari wilayah berbeda mencatat musik yang terdengar selama Great War. Nama NVR AGAIN, yang ditemukan melalui pembacaan Prasasti pertama, dapat dihubungkan dengan musik tersebut berdasarkan perbandingan sumber.
 
-Laporan itu kemudian menjelaskan metode dan keterbatasan pencocokan.
+Laporan itu kemudian menjelaskan metode pencocokan beserta keterbatasannya.
 
 Bagian berikutnya mencatat jubah mana hitam. Deskripsi yang tersedia menyebut pertahanan luar biasa serta regenerasi HP dan MP secara berkelanjutan. Istilah Resonansi Hitam turut dicatat sebagai istilah sejarah yang berkaitan dengan konteks tersebut, tanpa memastikan cakupan maknanya.
 
@@ -46,7 +46,7 @@ Tavian memeriksa daftar rujukan sekali lagi. “Tapi setiap urutan yang kita pak
 
 Ilyra menutup map pembacaan. “Termasuk istilah yang belum bisa kita padankan.”
 
-Mereka menyimpan salinan akhir pada koleksi yang telah disepakati. Salinan lain diberikan kepada pihak penelitian yang bersedia mengikuti aturan pencatatan sumber.
+Mereka menyimpan salinan akhir dalam koleksi yang telah disepakati. Salinan lain diberikan kepada pihak penelitian yang bersedia mengikuti aturan pencatatan sumber.
 
 Laporan itu tidak menawarkan satu cerita tentang seluruh Great War.
 
@@ -54,11 +54,11 @@ Ia menawarkan sesuatu yang lebih terbatas: kumpulan bukti yang dapat diperiksa d
 
 ### Scene 20 — Sejarah yang Berbeda
 
-Tanggapan mulai datang setelah laporan dibagikan.
+Tanggapan mulai berdatangan setelah laporan dibagikan.
 
-Salah satu salinan ringkasan publik dibaca oleh seorang penyalin peta yang bekerja di ruang umum Balai. Ia tidak mengajukan teori tentang perang; ia hanya bertanya apakah tabel sumber dapat digunakan untuk memeriksa catatan perjalanan milik keluarganya. Seraphine menjelaskan bagian mana yang terbuka untuk dibaca dan bagian mana yang masih dibatasi. Penyalin itu menerima batas tersebut, lalu meminta petunjuk tentang cara mencatat asal salinan agar catatan keluarganya tidak kelak dianggap sebagai dokumen sezaman.
+Salah satu salinan ringkasan publik dibaca oleh seorang penyalin peta yang bekerja di ruang umum Balai. Ia tidak mengajukan teori tentang perang. Ia hanya bertanya apakah tabel sumber dapat digunakan untuk memeriksa catatan perjalanan milik keluarganya. Seraphine menjelaskan bagian mana yang terbuka untuk dibaca dan bagian mana yang masih dibatasi. Penyalin itu menerima batas tersebut, lalu meminta petunjuk tentang cara mencatat asal salinan agar catatan keluarganya tidak kelak dianggap sebagai dokumen sezaman.
 
-Tavian membantu menunjukkan format pencatatan sederhana. Ia menyadari bahwa laporan mereka mungkin tidak memberi jawaban besar, tetapi cara menyusun sumber dapat berguna bagi orang yang sedang menjaga catatan kecil milik keluarganya sendiri.
+Tavian menunjukkan format pencatatan sederhana kepadanya. Ia menyadari bahwa laporan mereka mungkin tidak memberi jawaban besar, tetapi cara menyusun sumber dapat berguna bagi orang yang sedang menjaga catatan kecil milik keluarganya sendiri.
 
 Sebagian peneliti menerima hubungan antara NVR AGAIN dan musik Great War sebagai hasil perbandingan yang kuat. Mereka meminta salinan metode pembacaan Prasasti dan daftar sumber yang digunakan.
 
@@ -184,7 +184,7 @@ Tavian menutup tasnya dan menyusul yang lain.
 
 Penanda rute yang tadi dicatat Mira tertinggal di belakang, masih digunakan meski asalnya tidak lagi diketahui orang-orang yang melewatinya. Ia teringat laporan di dalam tas: catatan bisa bertahan, berubah, atau kehilangan konteks saat berpindah tangan.
 
-Mereka belum mendapat jawaban untuk seluruh Great War. Namun, pekerjaan berikutnya sudah memiliki arah: memeriksa sumber yang belum mereka jangkau, tanpa menganggap ringkasan singkat sebagai kesimpulan.
+Mereka belum memperoleh jawaban atas seluruh pertanyaan tentang Great War. Namun, pekerjaan berikutnya sudah memiliki arah: memeriksa sumber yang belum mereka jangkau, tanpa menganggap ringkasan singkat sebagai kesimpulan.
 
 ---
 
