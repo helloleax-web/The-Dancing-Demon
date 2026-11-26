@@ -111,3 +111,27 @@ Layout thumbnail manual dibuat sebagai lembar kerja lima panel berdasarkan langs
 **Diterima sebagai layout thumbnail manual Draft 0.2 untuk evaluasi komposisi**, bukan ilustrasi final. Karena bentuk gambar masih berupa blok komposisi abstrak, tahap berikutnya adalah memperjelas staging dan ukuran shot per panel tanpa mengunci desain visual karakter/lokasi.
 
 **Dampak CANON: tidak ada.**
+
+
+## Scene 2 — layout thumbnail manual — 2026-11-27
+
+**Output:** BookV_Scene2_Manual_Thumbnail_Layout_Draft01.png  
+**Status:** layout komposisi manual selesai; NON-CANON.
+
+Tujuh panel disusun sesuai storyboard teks:
+1. Jalan ramai dengan gerobak sayur, pembawa air, pekerja, pedagang, dan pengangkut barang.
+2. Kereta kecil tersangkut di celah batu dekat gerbang; pedagang menawarkan roti; Daren mengarahkan kelompok ke sisi jalan.
+3. Mira memandu melewati bagian jalan menyempit dengan memperhatikan bekas roda, susunan batu, dan penanda kecil; Tavian mencatat.
+4. Tempat singgah: Daren memeriksa air, Seraphine melindungi dokumen, Ilyra membandingkan salinan NVR AGAIN, Kael menanggapi jumlah salinan.
+5. Orlenn mulai terlihat menjelang akhir hari; bangunan makin rapat dan jalan lebih teratur.
+6. Penginapan: pembayaran malam pertama, pemilik menunjukkan kamar, Kael memeriksa pengeluaran, Tavian menghitung biaya, Seraphine menyimpan kuitansi.
+7. Malam: Tavian membuka map; lembar NVR AGAIN berada di antara catatan perjalanan dan daftar sumber.
+
+### Batas dan pemeriksaan
+- Gambar menggunakan blok komposisi abstrak, bukan desain karakter atau ilustrasi final.
+- Tidak mengunci wajah, rambut, kostum, arsitektur, skyline, peta, atau geografi Orlenn.
+- Tidak menambahkan simbol, tanggal, kejadian, atau hubungan lore baru.
+- Layout hanya menyatakan posisi dan fokus panel; bukan penetapan detail visual CANON.
+
+**Status Scene 2:** layout manual selesai; perlu review komposisi sebelum diterima.  
+**Dampak CANON:** tidak ada.
