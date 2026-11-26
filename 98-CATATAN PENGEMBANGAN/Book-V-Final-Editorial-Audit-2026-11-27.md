@@ -106,3 +106,27 @@ Book V Scene 22 sudah memuat:
 Tidak diperlukan revisi struktural besar berdasarkan audit ini. Fokus berikutnya adalah koreksi mikro dan satu keputusan opsional mengenai jembatan Scene 22 menuju Book VI.
 
 **Dampak CANON: tidak ada.** Seluruh lima bab, tokoh pendukung, lokasi, arsip, dialog, dan kejadian spesifik tetap NON-CANON sampai ada keputusan kreator yang terpisah.
+
+
+## 9. Pemeriksaan akhir setelah proofreading — 2026-11-27
+
+Kelima file bab diambil ulang dari branch utama dan diperiksa kembali setelah proofreading. Header masing-masing file menunjukkan Revision Draft 0.4, dengan urutan 22 scene lengkap dan berkesinambungan.
+
+### Hasil pemeriksaan lintas bab
+
+- **Scene 1–8:** hubungan nama NVR AGAIN dengan musik Great War dibangun melalui perbandingan sumber. Naskah tidak menyatakan siapa pencipta, pemberi nama, penyebar, atau bagaimana musik terdengar di wilayah berbeda.
+- **Scene 9–13:** penyelidikan jubah dimulai sebagai jalur pertanyaan terpisah dari musik. Efek jubah dan perolehannya oleh sekutu LEAX tidak diperluas; istilah Resonansi Hitam tidak diberi cakupan yang belum ditetapkan.
+- **Scene 14–18:** konflik publikasi berkembang melalui permintaan penyederhanaan, pemotongan konteks, perlindungan identitas, dan keputusan publikasi. Tidak ada fakta sejarah baru yang dipakai untuk menyelesaikan konflik.
+- **Scene 19–22:** laporan mempertahankan perbedaan antara hasil yang didukung sumber, interpretasi, kesaksian, dan UNKNOWN. Petunjuk fenomena tetap belum diverifikasi.
+- Fakta LEAX tetap dibatasi pada penghilangan setelah Great War. Tidak ada penambahan sebab, lokasi, kronologi rinci, tindakan, motif, atau nasib.
+- Tidak ditemukan kontradiksi besar antara kelima bab atau dengan batas CANON yang diperiksa.
+- Tidak ada alasan editorial kuat untuk menambahkan kalimat kontrak/permintaan kerja Harrowfen ke Scene 22. Pembukaan Book VI dapat memperkenalkan rincian penugasan secara mandiri tanpa membuat transisi Book V terasa terputus.
+- Indeks manuskrip telah disinkronkan: kelima bab tercatat Revision Draft 0.4. Jumlah kata terbaru pada indeks adalah 11.485 kata termasuk judul, metadata, dan catatan tambahan.
+
+### Keputusan editorial terbaru
+
+**Hasil: LULUS pemeriksaan kontinuitas utama dan proofreading akhir.** Tidak ada revisi struktural atau koreksi lintas bab yang wajib dilakukan berdasarkan pemeriksaan ini.
+
+Book V dapat masuk tahap **pembekuan kandidat-final editorial**. Pembekuan tersebut hanya mengunci versi kerja untuk mencegah perubahan tanpa catatan; statusnya tetap NON-CANON dan tidak menggantikan persetujuan kreator.
+
+**Dampak CANON: tidak ada.**
