@@ -34,7 +34,7 @@ Sekarang, pekerjaan lain sudah menunggu.
 
 “Apakah kita tahu siapa yang mengirim?” tanya Daren.
 
-“Nama lembaganya tercantum,” kata Kael. “Tapi kita belum tahu siapa yang bertanggung jawab atas koleksi itu, siapa yang mengumpulkan salinan, atau siapa yang akan memakai hasil penelitian.”
+“Pengirimnya disebut sebagai lembaga penelitian,” kata Kael. “Tapi kita belum tahu siapa yang bertanggung jawab atas koleksi itu, siapa yang mengumpulkan salinan, atau siapa yang akan memakai hasil penelitian.”
 
 “Berarti kita belum menerima,” kata Seraphine.
 
