@@ -1,7 +1,7 @@
 # Book III — Manuscript Continuity Audit — Draft 0.7
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
-**Cakupan:** Chapters 1–6 Proofread Draft 0.4 (dibaca berurutan); Book III Scene Outline Draft 0.2; Character Knowledge Matrix Draft 0.4; Book II–III Transition Audit Draft 0.2; CANON Character Bible dan Ensemble Character Arcs.  
+**Cakupan:** Chapters 1–6 Proofread Draft 0.4 (dibaca berurutan); Book III Scene Outline Draft 0.2; Character Knowledge Matrix Draft 0.4; Book II–III Transition Audit Draft 0.2; Book III–IV Transition Audit Draft 0.1; CANON Character Bible dan Ensemble Character Arcs.  
 **Tujuan:** audit setelah revisi Chapters 3–6. Tidak ada perubahan CANON.
 
 ## 1. Hasil ringkas
@@ -185,7 +185,8 @@ Kelompok memilih masuk ke bagian situs yang telah terbuka tanpa izin atau kewena
 - [x] Perjelas penutup Chapter 6 agar tidak menyiratkan akses disahkan.
 - [x] Catat bahwa kesepakatan dokumentasi tidak mengatur izin masuk situs.
 - [ ] Final proofread mikro setelah seluruh audit dokumen selesai.
-- [ ] Audit akhir terhadap Character Bible, canon source ledger, dan transisi Buku IV.
+- [x] Audit awal transisi Buku III–IV; perbedaan sumber rute dikoreksi melalui catatan lokal Mira sebagai sumber terpisah.
+- [ ] Audit akhir terhadap seluruh sumber CANON dan transisi Buku IV setelah revisi naskah Buku IV.
 - [ ] Persetujuan akhir kreator.
 
 **Status Book III: DALAM REVISI — belum final.**
