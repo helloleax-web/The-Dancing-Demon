@@ -14,7 +14,7 @@ Objek Northglass adalah artefak fisik yang menjadi titik awal penyelidikan. Nask
 
 Pertemuan itu berlangsung setelah kelompok menyelesaikan pemeriksaan awal atas naskah dan salinan bunyi.
 
-Perwakilan Arsip Lentera meminta salinan lengkap dokumentasi. Mereka ingin menyimpan catatan pemeriksaan, urutan pembacaan, hasil pendengaran, dan keterangan tentang bagian-bagian yang belum dipahami.
+Perwakilan Arsip Lentera meminta salinan lengkap dokumentasi kerja yang boleh dibagikan. Mereka ingin menyimpan catatan pemeriksaan, urutan pembacaan, hasil pendengaran, dan keterangan tentang bagian-bagian yang belum dipahami.
 
 Tim Meridian membutuhkan laporan yang membedakan penemuan Northglass dari materi Prasasti I. Vellum & Iron Recovery masih mengajukan kepentingan komersial terhadap objek fisik di Northglass dan kemungkinan material yang dapat dipulihkan.
 
@@ -128,9 +128,9 @@ Ilyra menatap salinan tersebut.
 
 ### Scene 20 — Pertanyaan Setelah Nama
 
-Kelompok meninggalkan lokasi setelah salinan-salinan yang telah disepakati diserahkan.
+Kelompok meninggalkan lokasi setelah salinan laporan dan catatan non-reproduktif yang telah disepakati diserahkan.
 
-Jorren dan masyarakat setempat tetap menjaga akses ke Northglass. Tim Meridian membawa laporan pemetaan. Arsip Lentera menyimpan dokumentasi materi Prasasti I sesuai ketentuan yang disepakati. Vellum & Iron Recovery tidak memperoleh hak untuk memindahkan batu atau mengambil materi lain.
+Jorren dan masyarakat setempat tetap menjaga akses ke Northglass. Tim Meridian membawa laporan pemetaan. Arsip Lentera menyimpan catatan hasil konsultasi materi Prasasti I sesuai ketentuan yang disepakati. Vellum & Iron Recovery tidak memperoleh hak untuk memindahkan batu atau mengambil materi lain.
 
 Mira memastikan bahwa salinan yang dibawa kelompok tidak memuat informasi yang dilarang untuk dibagikan.
 
