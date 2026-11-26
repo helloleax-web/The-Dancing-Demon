@@ -123,7 +123,7 @@ Ilyra menatap salinan tersebut.
 
 Kelompok meninggalkan lokasi setelah semua salinan yang disepakati diserahkan.
 
-Jorren dan masyarakat setempat tetap menjaga akses ke batu. Tim Meridian membawa laporan pemetaan. Arsip Lentera menyimpan dokumentasi yang dapat diverifikasi. Vellum & Iron Recovery tidak memperoleh hak untuk memindahkan batu.
+Jorren tetap menjaga akses melalui jalur yang berada dalam tanggung jawabnya. Tim Meridian membawa laporan pemetaan. Arsip Lentera menyimpan dokumentasi yang dapat diverifikasi. Vellum & Iron Recovery tidak memperoleh hak untuk memindahkan batu.
 
 Mira memastikan bahwa salinan yang dibawa kelompok tidak memuat informasi yang dilarang untuk dibagikan.
 
