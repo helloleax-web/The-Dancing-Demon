@@ -1,91 +1,62 @@
-# Book IV — Character Knowledge and Continuity Matrix — Draft 0.6
+# Book IV — Character Knowledge and Continuity Matrix
+## Draft 0.6 — Mekanisme Penemuan B
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
-**Basis:** Book IV Scene Outline Draft 0.4; Book IV Chapter 1 Revision Draft 0.3; Book III–IV Transition Audit Draft 0.1, four-chapter manuscript, CANON Thirteen Prasasti, and Great War & Resonansi Hitam.
+**Basis:** Book IV Scene Outline Draft 0.5; Chapter 3–4 Revision Draft 0.3; Book III–IV Transition Audit; CANON *Thirteen Prasasti* dan *Prasasti I — NVR AGAIN*.
 
-## 1. Aturan
+## 1. Aturan pengetahuan
 
-- Nama NVR AGAIN hanya boleh diketahui setelah transliterasi pada Prasasti pertama di Scene 14.
-- Pembacaan rangkaian tanda adalah transliterasi, bukan terjemahan seluruh naskah.
-- Karakter tidak boleh menghubungkan nama dengan musik Great War atau LEAX tanpa bukti tambahan.
-- Bedakan pengamatan fisik, salinan tanda, transliterasi, interpretasi, dan spekulasi.
-- Pengetahuan masyarakat tentang batu bertulis tidak otomatis sama dengan pengetahuan peneliti.
-- Tidak ada karakter yang mengetahui isi Prasasti lain hanya karena penemuan pertama.
-- Model kerja draft: batu Northglass adalah artefak fisik bertulis yang berkaitan dengan penemuan Prasasti I, bukan naskah interpretasi keturunan LEAX itu sendiri. Hubungan sumber/indeks/rekaman antara keduanya tetap tidak diketahui.
+- Nama NVR AGAIN pertama kali diketahui kelompok dan pembaca pada Scene 14.
+- Sumber nama adalah judul naskah interpretasi Prasasti I, bukan transliterasi langsung guratan Northglass.
+- Naskah interpretasi dan salinan bunyi yang sama disimpan bersama; keduanya diperiksa sebagai satu kesatuan.
+- Pembacaan dilakukan baris demi baris. Pengamatan, isi naskah, tafsir penulis, dugaan, dan UNKNOWN harus dibedakan.
+- Isi naskah merupakan perspektif penafsir keturunan LEAX dari Avarra, bukan kebenaran objektif otomatis.
+- Tidak ada karakter yang boleh menyimpulkan identitas pemilik suara, hubungan dengan LEAX, atau konteks musik Great War hanya dari judul atau isi interpretasi.
+- Objek Northglass dan naskah interpretasi Prasasti I adalah dua sumber berbeda. Hubungan asal-usul dan mekanisme penghubungnya tetap UNKNOWN.
+- Lokasi penyimpanan, penjaga, asal-usul, riwayat perpindahan, dan dasar akses materi Prasasti I belum ditetapkan.
 
 ## 2. Matriks pengetahuan per tahap
 
 | Tahap / Scene | Tavian | Seraphine | Kael | Mira | Daren | Ilyra | Jorren | Pembaca |
 |---|---|---|---|---|---|---|---|---|
-| 1–5: pencarian situs | Mengetahui rujukan Hollow Vale hanya menyebut kemungkinan batu bertulis; memakai catatan lokal Mira sebagai sumber rute terpisah untuk mempersempit pencarian | Mengetahui sumber dan batas dokumen | Mengetahui risiko informasi dan kepentingan pihak luar | Mengetahui catatan rute lokal terpisah yang boleh dibagikan; tidak menganggapnya bukti bahwa penanda tertentu adalah batu yang dirujuk Hollow Vale | Menilai keselamatan rute | Memisahkan rujukan parsial Hollow Vale dari petunjuk rute lokal; belum mengetahui isi batu | Mengenal batu sebagai penanda jalur; tidak mengetahui pembuat atau isi | Mengetahui kelompok mencari batu bertulis, belum tahu isi |
-| 6–10: penemuan fisik | Mengetahui posisi dan kondisi batu | Mendokumentasikan kondisi dan kerusakan | Mengetahui nilai informasi penemuan | Mengetahui konteks penggunaan lokal | Menjaga keselamatan akses | Mengetahui susunan tanda, belum dapat mentransliterasikan nama | Mengetahui pemeriksaan dilakukan sesuai batas akses yang ia tetapkan | Melihat batu bertulis dan bagian yang rusak |
-| 11–13: interpretasi | Mengetahui bagian yang dapat dibandingkan | Memastikan proses pembacaan dicatat | Mengetahui interpretasi akan menarik kepentingan | Mengetahui konteks lokal yang relevan | Mengetahui batas keselamatan situs | Menguji dua kemungkinan transliterasi; belum mengetahui referen | Mengetahui proses interpretasi dan kemungkinan nama | Mengetahui ada bagian yang mungkin berupa nama atau judul |
-| 14–15: pengungkapan | Mengetahui nama NVR AGAIN setelah penemuan Prasasti pertama; mekanisme sumber belum ditetapkan | Mengetahui pengungkapan nama dan batas kesimpulan; tidak boleh mengklaim metode CANON yang belum ditetapkan | Mengetahui nama dan nilai informasinya; referen tetap UNKNOWN | Mengetahui nama melalui kelompok; asal mekanisme pengungkapan belum diketahui | Mengetahui nama setelah diumumkan kepada kelompok | Mengetahui nama yang diungkap penemuan; transliterasi langsung dari batu Northglass masih mekanisme NON-CANON yang belum disahkan | Mengetahui nama NVR AGAIN untuk pertama kalinya melalui penemuan Prasasti pertama | Mengetahui nama NVR AGAIN, tetapi tidak tahu apa yang dirujuk |
-| 16–20: dampak dan keberangkatan | Mengetahui laporan penemuan dan batas interpretasi | Menyimpan dokumentasi dan klasifikasi | Menilai cara mengelola penyebaran informasi | Menjaga kesepakatan dengan masyarakat setempat | Menjamin kelompok meninggalkan situs dengan aman | Menyimpan transliterasi dan daftar bagian yang belum diketahui | Mengetahui nama telah ditemukan; makna dan konteks tetap misteri | Mengetahui nama telah menyebar, tetapi maknanya belum dipahami |
+| 1–5: pencarian | Mengetahui petunjuk Hollow Vale terbatas; memakai catatan rute Mira sebagai sumber terpisah | Menjaga asal dan batas sumber | Mengetahui potensi nilai informasi | Mengetahui catatan rute lokal yang boleh dibagikan; bukan bukti identitas batu | Menilai keselamatan rute | Memisahkan indeks Hollow Vale dari petunjuk lokal | Mengenal batu sebagai penanda jalur, tidak mengetahui asal atau isi | Mengetahui pencarian batu bertulis, belum tahu isinya |
+| 6–10: Northglass | Mengetahui posisi dan kondisi batu | Mendokumentasikan permukaan dan kerusakan | Mengetahui penemuan dapat menarik kepentingan | Mengetahui konteks penggunaan lokal | Menjaga keselamatan akses | Mengetahui susunan tanda, belum dapat membaca nama | Mengetahui pemeriksaan mengikuti batas akses setempat | Melihat objek batu bertulis; nama belum diketahui |
+| 11: petunjuk belum cukup | Mengetahui dokumentasi Northglass belum menjawab isi | Menilai batas bukti dan sumber | Mengetahui penyelidikan berlanjut | Mengetahui ada jalur pemeriksaan materi lain | Menjaga batas akses dan keselamatan | Menolak memaksakan pembacaan dari batu | Tidak harus mengetahui detail materi lain | Mengetahui Northglass bukan jawaban langsung |
+| 12: naskah dan bunyi | Mengetahui kelompok memeriksa naskah dan salinan bunyi | Mengetahui struktur sumber dan menjaga dokumentasi | Mengetahui ada materi bernilai informasi | Tidak otomatis mengetahui isi naskah sebelum diperlihatkan | Mengetahui kelompok memeriksa materi lain | Mengetahui naskah adalah dokumen interpretasi; judul belum dibuka | Tidak ada pengetahuan baru yang wajib | Melihat naskah dan salinan bunyi; nama belum muncul |
+| 13: pembacaan dan pendengaran | Mengetahui proses pemeriksaan sumber | Memisahkan fakta, tafsir, dugaan, UNKNOWN | Mengetahui ada isi yang belum dipahami | Tidak ada pengetahuan tambahan yang wajib | Tidak ada pengetahuan tambahan yang wajib | Membaca baris demi baris dan mendengarkan salinan; judul belum diungkap | Tidak ada pengetahuan tambahan yang wajib | Mengetahui metode pemeriksaan, belum tahu judul |
+| 14: pengungkapan | Mengetahui judul NVR AGAIN dari naskah | Mengetahui sumber judul dan batas klaim | Mengetahui nama dan nilai informasinya | Mengetahui nama setelah pengungkapan | Mengetahui nama setelah pengungkapan | Membaca judul NVR AGAIN pada naskah | Hanya mengetahui jika diberi tahu kemudian | Pertama kali melihat/mendengar NVR AGAIN |
+| 15: dampak | Mengetahui nama dan bahwa sumbernya naskah | Menjaga dokumentasi dua sumber terpisah | Mengetahui kepentingan pihak-pihak meningkat | Mengetahui nama dan kekhawatiran akses lokal | Mengetahui penemuan memerlukan prosedur aman | Mengetahui judul, belum identitas pemilik suara atau konteks | Pengetahuan bergantung pada laporan yang diterima | Mengetahui nama, belum makna atau referen |
+| 16–20: pelaporan | Mengetahui laporan memisahkan Northglass dan Prasasti I | Menjaga metode, sumber, dan batas interpretasi | Mengelola distribusi informasi | Menjaga kesepakatan dengan masyarakat | Memastikan keberangkatan aman | Menyimpan catatan naskah dan bunyi bersama | Mengetahui perkembangan sesuai informasi yang dibagikan | Mengetahui nama menyebar, makna tetap misteri |
 
-## 3. Informasi yang harus tetap terbuka
+## 3. Hal yang tetap UNKNOWN
 
-- Apa atau siapa yang dirujuk oleh nama NVR AGAIN.
-- Mengapa nama itu tercantum pada Prasasti.
-- Apakah NVR AGAIN merupakan judul, nama, atau bentuk penamaan lain pada sumber asli.
-- Siapa pembuat Prasasti pertama.
-- Apa isi bagian prasasti yang rusak.
-- Hubungan asal-usul atau mekanisme informasi antara objek Northglass dan naskah interpretasi Prasasti I.
-- Hubungan NVR AGAIN dengan musik yang terdengar selama Great War.
-- Hubungan Prasasti pertama dengan Prasasti lainnya.
-- Hubungan Prasasti dengan LEAX.
-- Identitas dan lokasi Prasasti lainnya.
+- Identitas pemilik suara dalam salinan bunyi.
+- Makna objektif judul NVR AGAIN.
+- Alasan naskah diberi judul tersebut.
+- Identitas, keluarga, dan masa hidup penafsir keturunan LEAX.
+- Lokasi penyimpanan, penjaga, asal-usul, dan riwayat perpindahan naskah.
+- Dasar akses kelompok terhadap materi.
+- Hubungan asal-usul dan mekanisme penghubung Northglass dengan naskah Prasasti I.
+- Isi objektif bagian-bagian naskah di luar yang secara eksplisit dapat dibaca atau didengar.
+- Hubungan NVR AGAIN dengan musik selama Great War.
+- Hubungan Prasasti I dengan LEAX dan Prasasti lainnya.
+- Lokasi dan isi Prasasti II–XIII.
 
 ## 4. Pemeriksaan kontinuitas
 
-- [x] Nama NVR AGAIN tidak muncul dalam narasi sebelum Scene 14.
-- [x] Tidak ada dialog yang menyebut nama tersebut sebagai nama yang diketahui selama Great War.
-- [x] Ilyra hanya mentransliterasikan rangkaian yang didukung tanda yang masih utuh.
-- [x] Seraphine membedakan transliterasi dari terjemahan.
-- [x] Tidak ada karakter yang menghubungkan NVR AGAIN dengan LEAX.
-- [x] Batu bertulis tidak disamakan dengan fasilitas Hollow Vale.
-- [x] Penemuan pertama tidak otomatis mengungkap isi Prasasti lain.
-- [x] Objek Northglass tidak disamakan dengan naskah interpretasi Prasasti I; hubungan tepatnya tetap tidak diketahui.
+- [x] Nama NVR AGAIN tidak muncul sebelum Scene 14.
+- [x] Nama diketahui dari judul naskah interpretasi Prasasti I.
+- [x] Tidak ada transliterasi NVR AGAIN dari guratan Northglass.
+- [x] Naskah dan salinan bunyi yang sama diperiksa sebagai pasangan.
+- [x] Pemeriksaan baris demi baris ditampilkan.
+- [x] Fakta, tafsir, dugaan, dan UNKNOWN dibedakan.
+- [x] Isi interpretasi tidak diperlakukan sebagai fakta objektif otomatis.
+- [x] Tidak ada hubungan dengan LEAX atau Great War yang dipastikan.
+- [x] Objek Northglass tidak disamakan dengan naskah.
+- [x] Tidak ada pengetahuan tentang Prasasti lain yang diberikan secara otomatis.
 
-## 5. Jendela pengetahuan setelah Scene 20
+## 5. Catatan akses dan provenance
 
-- Kelompok dapat mempertimbangkan arsip sejarah, termasuk periode Great War, sebagai jalur riset berikutnya.
-- Ini bukan bukti bahwa mereka telah mengetahui NVR AGAIN sebagai nama musik yang terdengar selama perang.
-- Referen dan makna nama tetap UNKNOWN bagi karakter.
-- Tidak ada pengetahuan baru tentang LEAX.
-
-**Model medium Northglass: keputusan pengembangan NON-CANON. Dampak CANON: tidak ada.**
-
-
-## 6. Addendum — transisi sumber rute dari Buku III
-
-- Indeks Hollow Vale tidak memberi nama wilayah, arah, jarak, atau koordinat batu bertulis.
-- Mira menggunakan catatan rute lokal yang terpisah untuk mempersempit pencarian ke sekitar Jalan Northglass.
-- Catatan lokal tidak membuktikan identitas batu; kecocokan tetap diuji di lapangan.
-- Matriks mengikuti Book III–IV Transition Audit Draft 0.1.
-
-
-## 7. Addendum — batas pengetahuan menurut CANON metode 13 Prasasti
-
-- CANON menetapkan bahwa Prasasti I adalah naskah interpretasi in-world seorang keturunan LEAX dari Avarra, bukan otomatis guratan batu yang dibaca oleh kelompok Tavian.
-- CANON metode mengatur pembacaan baris demi baris, batas pengetahuan penafsir, pemisahan fakta/tafsir/dugaan/UNKNOWN, serta catatan pendengaran dari salinan bunyi.
-- Kelompok Buku IV boleh mengetahui nama NVR AGAIN setelah penemuan pertama, tetapi mekanisme yang membuat nama itu diketahui belum dapat dipastikan dari CANON yang tersedia.
-- Jangan menulis bahwa Ilyra telah menjalankan metode penafsir keturunan LEAX atau memahami konteks dunia asal lagu.
-- Hubungan objek Northglass, naskah interpretasi Prasasti I, dan rekaman bunyi tetap OPEN QUESTION. Tidak ada perubahan CANON.
-
-
-## 8. Addendum — keputusan mekanisme B dan jendela pengetahuan (Draft 0.6)
-
-- Keputusan pengembangan yang dipakai: Northglass mengantar penyelidikan kepada naskah interpretasi Prasasti I dan salinan bunyi yang disimpan bersamanya.
-- Scene 11: kelompok mengetahui dokumentasi Northglass belum cukup; tindak lanjut membuka jalur pemeriksaan materi lain. Nama NVR AGAIN belum diketahui.
-- Scene 12: kelompok memeriksa naskah interpretasi dan salinan bunyi sebagai pasangan. Judul belum dibaca.
-- Scene 13: kelompok membaca naskah dan mendengarkan salinan bunyi; fakta, tafsir, dugaan, dan UNKNOWN dipisahkan. Judul belum diungkap.
-- Scene 14: nama NVR AGAIN diketahui dari judul naskah interpretasi Prasasti I.
-- Scene 15: karakter mengetahui nama dan materi sumbernya, tetapi tidak mengetahui identitas pemilik suara, makna objektif, atau konteks sejarah.
-- Northglass bukan sumber transliterasi nama. Jangan menulis bahwa Ilyra membaca NVR AGAIN dari guratan batu.
-- Lokasi penyimpanan, penjaga, asal-usul, riwayat perpindahan, dan mekanisme penghubung Northglass dengan materi Prasasti I tetap OPEN QUESTION.
-- Naskah interpretasi merupakan perspektif penafsir. Tidak semua isi dan dugaan di dalamnya otomatis menjadi fakta objektif.
-- Salinan bunyi yang sama disimpan bersama naskah dan diperlakukan sebagai satu kesatuan dokumenter.
-- Storyboard Scene 11–15 perlu diperbarui mengikuti jendela pengetahuan ini.
+Jalur penemuan materi Prasasti I sengaja belum dirinci. Lokasi, penjaga, kepemilikan, asal-usul, riwayat perpindahan, dan dasar akses tetap OPEN QUESTION. Draft tidak boleh menambahkan nama pemilik, lembaga, penjaga, atau tempat penyimpanan tanpa keputusan pengembangan terpisah.
 
 **Dampak CANON: tidak ada.**
