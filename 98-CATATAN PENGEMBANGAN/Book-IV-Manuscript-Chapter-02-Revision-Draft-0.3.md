@@ -185,3 +185,8 @@ Dan semua pertanyaan masih tertinggal pada permukaannya.
 - Tidak ada nama NVR AGAIN yang muncul pada bagian ini.
 - Semua detail fisik, prosedur, dan dialog tetap NON-CANON.
 - Revision 0.2 memperkuat metode dokumentasi berulang dan jejak perubahan salinan tanpa mengklaim bahwa Ilyra memahami sistem tulisan atau menerjemahkan keseluruhan prasasti.
+
+
+## Catatan line edit — Revision Draft 0.3
+
+Revisi ini merapikan kalimat dan memperjelas batas antara pengamatan fisik dengan dugaan Ilyra. Tidak ada perubahan pada fakta adegan, sumber informasi, atau pengetahuan karakter. Semua pembacaan guratan tetap belum menghasilkan transliterasi maupun terjemahan.
