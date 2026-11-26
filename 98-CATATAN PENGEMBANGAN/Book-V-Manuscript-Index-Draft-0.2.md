@@ -359,3 +359,8 @@
 - Tidak ada kandidat yang dipilih dan tidak ada ciri fisik Tavian yang ditetapkan. Seluruh materi NON-CANON; tidak ada perubahan Character Bible atau CANON.
 
 - [Tavian Joint & Foreshortening Study — Draft 0.1](Tavian-Joint-Foreshortening-Study-Draft-0.1.md) — NON-CANON; articulation landmarks, limb overlap, and depth readability.
+
+## Pengembangan visual Tavian — NON-CANON
+
+- [Tavian Visual Design Exploration — Draft 0.1](Tavian-Visual-Design-Exploration-Draft-0.1.md) — dasar eksplorasi siluet dan batas UNKNOWN.
+- [Tavian Pose Mechanics Review — Draft 0.1](Tavian-Pose-Mechanics-Review-Draft-0.1.md) — tinjauan skematis empat aksi kerja, keseimbangan, arah sendi, dan interaksi properti. Seluruh hasil NON-CANON.
