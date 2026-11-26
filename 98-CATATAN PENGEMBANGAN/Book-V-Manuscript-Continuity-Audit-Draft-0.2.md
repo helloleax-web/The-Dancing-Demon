@@ -79,7 +79,7 @@ Manuskrip harus mempertahankan ketidakpastian tersebut. Jangan mengubah istilah 
 - Buku IV berakhir dengan keputusan memeriksa arsip sejarah; Buku V melanjutkan secara langsung ke Orlenn.
 - Buku V tidak menghubungkan musik dengan jubah atau Resonansi Hitam secara kausal.
 - Petunjuk fenomena di akhir Buku V tetap berupa laporan belum diverifikasi, tanpa identifikasi Abstract Existence.
-- Jembatan menuju Buku VI tersedia, tetapi wilayah dan kebutuhan praktis berikutnya masih perlu ditentukan dalam draft Buku VI.
+- Buku VI kini mengidentifikasi laporan Harrowfen sebagai salah satu petunjuk yang dibawa dari Orlenn dan memberi kelompok kontrak pemeriksaan independen dengan biaya perjalanan serta honor. Detail lokasi dan pihak pengelola tetap NON-CANON.
 
 ## 9. Isu editorial yang masih terbuka
 
