@@ -395,3 +395,10 @@
 - Satu percobaan ilustratif otomatis lima panel ditolak karena menambah benteng/kota Northglass, desain karakter, detail peta, dan isi adegan yang tidak didukung sumber.
 - Panel 1.1 diterima hanya sebagai blocking thumbnail abstrak. Ilustrasi final dan desain karakter/lokasi belum dibuat atau dikunci.
 - Seluruh materi NON-CANON; dampak CANON nihil.
+
+
+### Scene 1 — Panel 1.2 thumbnail
+
+- Layout komposisi manual Panel 1.2 dibuat sebagai insert map Tavian dengan tiga objek terpisah: salinan peta lokasi batu, catatan kondisi permukaan, dan lembar NVR AGAIN.
+- Hanya teks NVR AGAIN yang terbaca; isi peta dan catatan tidak ditetapkan.
+- Status: layout komposisi diterima untuk uji keterbacaan properti; bukan ilustrasi final. NON-CANON.
