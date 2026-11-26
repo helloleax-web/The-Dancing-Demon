@@ -45,9 +45,9 @@ Menjelang sore, rombongan melihat beberapa orang datang dari arah jalur utama. M
 
 Mereka tidak bergerak seperti rombongan penjelajah yang kebetulan lewat. Mereka mengikuti jalur dengan tujuan yang jelas.
 
-Salah seorang dari mereka memperkenalkan diri sebagai wakil perusahaan pemulihan peninggalan. Ia menyebut nama perusahaannya: perusahaan pemulihan peninggalan.
+Salah seorang dari mereka memperkenalkan diri sebagai wakil perusahaan pemulihan peninggalan. Ia tidak menyebut nama perusahaannya.
 
-Tavian belum pernah berurusan dengan perusahaan itu. Seraphine juga tidak menunjukkan tanda mengenalnya secara pribadi. Namun, nama tersebut telah tercatat dalam daftar organisasi yang pernah mereka dengar selama persiapan ekspedisi.
+Tavian belum pernah berurusan dengan perusahaan itu. Seraphine juga tidak mengenal wakil tersebut secara pribadi. Mereka hanya mencatat bahwa rombongan itu datang mewakili perusahaan pemulihan peninggalan.
 
 “Kami menerima kabar bahwa tim Anda menemukan struktur peninggalan di area ini,” kata wakil perusahaan itu.
 
