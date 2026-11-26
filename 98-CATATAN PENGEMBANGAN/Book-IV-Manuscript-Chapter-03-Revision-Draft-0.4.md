@@ -45,7 +45,7 @@ Jorren bersedia menyampaikan permintaan itu. Kelompok menunggu jawaban sebelum m
 
 Jorren kembali dengan jawaban: penjaga kumpulan dokumen bersedia menerima kelompok untuk konsultasi terbatas. Ia memperkenalkan mereka, tetapi tidak menyatakan bahwa dirinya mengetahui asal-usul atau keaslian materi.
 
-Di tempat pemeriksaan itu, yang lokasinya tidak dicantumkan dalam dokumentasi publik, penjaga mengizinkan kelompok melihat satu naskah interpretasi dan salinan bunyi yang disimpan bersamanya. Izin tersebut hanya berlaku untuk konsultasi di tempat dan di bawah pengawasannya. Kelompok tidak diizinkan membawa, memisahkan, menyalin, atau menyebarluaskan materi.
+Di tempat pemeriksaan itu, yang lokasinya tidak dicantumkan dalam dokumentasi publik, penjaga mengizinkan kelompok melihat satu naskah interpretasi dan salinan bunyi yang disimpan bersamanya. Izin tersebut hanya berlaku untuk konsultasi di tempat dan di bawah pengawasannya. Penjaga juga mengizinkan kelompok membuat catatan non-reproduktif tentang kondisi dan struktur materi, serta membagikan ringkasan pemeriksaan kepada pihak yang terlibat langsung dalam penyelidikan. Izin itu tidak mencakup membawa, memisahkan, menyalin, atau menyebarluaskan materi sumber; publikasi yang lebih luas memerlukan persetujuan terpisah.
 
 Seraphine mencatat siapa yang hadir, kondisi materi ketika diperlihatkan, serta batas izin yang diberikan. Ia juga menulis bahwa keterangan penjaga dan keberadaan pasangan materi belum membuktikan provenance atau keaslian historisnya.
 
