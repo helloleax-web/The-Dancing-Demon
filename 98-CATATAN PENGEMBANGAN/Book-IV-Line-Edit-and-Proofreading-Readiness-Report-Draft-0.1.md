@@ -51,9 +51,9 @@
 - Tidak ditemukan pola elipsis empat titik atau lebih.
 - Pemeriksaan otomatis bukan pengganti pembacaan proofread manual.
 
-## 5. Blocking issue — akses dan provenance Prasasti I
+## 5. Jalur akses yang diterapkan dan provenance yang tetap terbuka
 
-Chapter 3 Scenes 11–12 belum menjelaskan secara konkret bagaimana tindak lanjut Northglass memberi kelompok akses kepada naskah interpretasi dan salinan bunyi.
+Jalur sebab-akibat dan dasar konsultasi kini dijelaskan melalui keputusan pengembangan NON-CANON Opsi A: Jorren menyampaikan rujukan terbatas, lalu penjaga anonim memberi izin konsultasi terawasi di tempat. Materi sumber tidak dibawa, dipisahkan, disalin, atau disebarluaskan. Catatan kelompok bersifat non-reproduktif.
 
 Hal-hal yang belum ditetapkan:
 1. Identitas penjaga kumpulan dokumen dan kewenangan/legitimasinya.
@@ -62,7 +62,7 @@ Hal-hal yang belum ditetapkan:
 4. Apakah penjaga mengetahui asal-usul materi.
 5. Apakah Northglass memiliki hubungan material/historis dengan Prasasti I atau hanya memicu jalur penyelidikan.
 
-Jalur sebab-akibat dan dasar konsultasi kini dijelaskan melalui keputusan pengembangan NON-CANON Opsi A: Jorren menyampaikan rujukan terbatas, lalu penjaga anonim memberi izin konsultasi terawasi di tempat. Detail yang tidak perlu untuk adegan—identitas, lokasi, kepemilikan sah, provenance, dan autentikasi—tetap OPEN QUESTION dan tidak boleh diisi sebagai fakta. Chapter 3 Scene 13 dan Chapter 4 Scenes 17–20 juga telah diselaraskan: kelompok hanya menyimpan catatan non-reproduktif, bukan transkrip atau salinan materi sumber. Proofread manual tetap harus menguji kejelasan, batas izin, dan kewajaran transisinya.
+Detail yang tidak perlu untuk adegan—identitas penjaga, lokasi geografis, kepemilikan sah, provenance, dan autentikasi—tetap OPEN QUESTION dan tidak boleh diisi sebagai fakta. Chapter 3 Scene 13 dan Chapter 4 Scenes 17–20 telah diselaraskan: kelompok hanya menyimpan catatan non-reproduktif, bukan transkrip atau salinan materi sumber. Proofread manual tetap harus menguji kejelasan, batas izin, dan kewajaran transisinya.
 
 ## 6. Risiko kontinuitas yang perlu ditangani saat proofread
 
