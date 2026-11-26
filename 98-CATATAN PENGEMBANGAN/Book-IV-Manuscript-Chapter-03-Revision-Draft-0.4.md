@@ -29,7 +29,7 @@ Seraphine memeriksa ulang daftar sumber. Dokumentasi mereka cukup untuk menunjuk
 
 “Kalau begitu, kita perlakukan batu ini sebagai awal penyelidikan, bukan jawaban,” katanya.
 
-Mira memandang Jorren. “Kau pernah menyebut ada orang yang menyimpan kumpulan dokumen lama di sekitar jalur ini. Apa kau tahu apakah kami bisa meminta untuk memeriksanya?”
+Mira memandang Jorren. “Apa kau pernah mendengar tentang seseorang yang menjaga kumpulan dokumen lama di sekitar jalur ini? Apa kau tahu apakah kami bisa meminta untuk memeriksanya?”
 
 Jorren tidak langsung menjawab. “Aku hanya pernah mendengar bahwa seseorang menjaga kumpulan dokumen. Aku tidak tahu apa isinya, dari mana asalnya, atau apakah ada hubungannya dengan batu ini.”
 
