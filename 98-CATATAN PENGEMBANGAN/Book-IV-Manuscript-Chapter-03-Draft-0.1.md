@@ -2,12 +2,12 @@
 ## Bab 3: Nama yang Terlepas
 ### Draft Prosa 0.1 — Scenes 11–15
 
-**Status: CATATAN PENGEMBANGAN / NON-CANON.**  
-**Fungsi:** manuskrip kerja Buku IV berdasarkan Book IV Scene Outline Draft 0.1. Semua detail baru tetap keputusan cerita draft.
+**Status: CANON — disahkan kreator.**  
+**Fungsi:** teks naratif resmi Book IV Chapter 3, Scenes 11–15. Ketidakpastian yang dinyatakan di dalam teks tetap UNKNOWN/MYSTERY dan tidak boleh diisi tanpa keputusan kreator.
 
 ### Scene 11 — Pola Berulang
 
-Ilyra kembali ke batu pada pagi berikutnya.
+Ilyra kembali ke batu pada pagi berikutnya. Ia melanjutkan pemeriksaan dari posisi aman dan tidak menyentuh permukaan.
 
 Kali ini ia membawa salinan dari beberapa bagian prasasti, termasuk sketsa yang dibuat pada hari pertama. Ia tidak langsung menyalin seluruh permukaan. Ia memilih kelompok tanda yang muncul lebih dari sekali dan membandingkan posisi masing-masing.
 
@@ -153,9 +153,9 @@ Ilyra menatap kembali hasil salinan.
 
 ### Scene 15 — Nama Bukan Jawaban
 
-Berita tentang pembacaan itu segera mengubah suasana di sekitar situs.
+Berita tentang pembacaan itu segera menarik perhatian beberapa pihak yang telah mengetahui kegiatan dokumentasi mereka.
 
-Wakil Arsip Lentera meminta salinan yang telah diverifikasi. Tim Meridian ingin memastikan nama tersebut masuk ke laporan dokumentasi. Vellum & Iron Recovery menanyakan apakah bagian yang memuat nama itu memiliki nilai material atau dapat dipisahkan dari batu.
+Seseorang yang menyampaikan permintaan atas nama Arsip Lentera meminta salinan yang telah diverifikasi. Orang-orang dari Konsorsium Survei Meridian ingin memastikan nama tersebut tercatat dalam laporan dokumentasi. Seseorang yang memperkenalkan diri sebagai bagian dari Vellum & Iron Recovery menanyakan apakah bagian yang memuat nama itu memiliki nilai material atau dapat dipisahkan dari batu. Kehadiran dan permintaan mereka tidak menjelaskan struktur, mandat, atau kewenangan organisasi masing-masing.
 
 Seraphine menolak permintaan untuk memisahkan bagian tersebut.
 
@@ -194,4 +194,15 @@ Tetapi nama itu belum menjadi jawaban.
 - Pembacaan nama tidak menjelaskan referen, makna, pembuat, atau konteks sejarah.
 - Seraphine mencatat metode dan tingkat kepastian; tidak ada pemindahan bagian batu.
 - Tidak ada pengaitan dengan musik Great War atau LEAX pada adegan ini.
-- Semua detail proses pembacaan, dialog, dan konflik tetap NON-CANON; fakta pengungkapan nama mengikuti CANON.
+- Proses pembacaan, dialog, kehadiran pihak-pihak yang disebut, dan respons mereka dalam Scenes 11–15 berstatus CANON sebagai kejadian cerita.
+- Kehadiran atau permintaan individu yang mengatasnamakan Arsip Lentera, Konsorsium Survei Meridian, dan Vellum & Iron Recovery tidak menetapkan fungsi umum, struktur, mandat, afiliasi, kepemimpinan, atau kewenangan organisasi tersebut.
+- NVR AGAIN adalah transliterasi satu rangkaian tanda yang masih utuh; bukan terjemahan seluruh prasasti. Referen, makna, pembuat, dan konteks sejarah tetap UNKNOWN/MYSTERY.
+- Tidak ada pengaitan nama tersebut dengan musik Great War, LEAX, atau peristiwa tertentu dalam adegan ini.
+- Pemeriksaan tetap non-invasif; tidak ada tindakan menyentuh, mengikis, membersihkan, atau memindahkan batu maupun endapan.
+
+## Pengesahan CANON
+- Scenes 11–15 ditetapkan sebagai teks naratif resmi Book IV Chapter 3.
+- Rangkaian tanda yang dapat dibaca ditransliterasikan sebagai NVR AGAIN pada Scene 14. Pengungkapan ini tidak menjelaskan referen, makna, pembuat, atau keseluruhan isi prasasti.
+- Nama NVR AGAIN tidak boleh muncul dalam adegan cerita sebelum Scene 14.
+- Kehadiran pihak yang mengatasnamakan organisasi hanya menetapkan kejadian adegan, bukan mandat atau struktur organisasi secara umum.
+- Arahan panel, komposisi, lettering, dan visual storyboard tetap materi adaptasi NON-CANON.
