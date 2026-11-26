@@ -1,5 +1,5 @@
 # Book IV — Prasasti Pertama
-## Scene Outline — Draft 0.1
+## Scene Outline — Draft 0.3
 
 **Status: CATATAN PENGEMBANGAN / NON-CANON.**  
 **Basis:** Eight-Book Series Architecture, penutup Buku III, dan fakta CANON tentang 13 Prasasti serta nama NVR AGAIN.  
@@ -29,9 +29,19 @@ Semua keputusan berikut NON-CANON kecuali fakta yang secara eksplisit telah dite
 8. Satu rangkaian tanda yang masih utuh dapat ditransliterasikan sebagai **NVR AGAIN**. Ini bukan terjemahan seluruh prasasti; nama terungkap melalui penemuan Prasasti pertama, sesuai fakta CANON.
 9. Makna nama, pembuat, konteks lengkap, hubungan dengan Great War, dan mekanisme apa pun tetap tidak dijelaskan dalam Buku IV.
 10. Tidak ada keputusan baru tentang LEAX.
-11. Hubungan antara batu fisik Northglass dan bentuk naskah interpretasi in-world yang ditetapkan CANON belum diputuskan. Medium batu dalam draft tetap NON-CANON sampai kreator menetapkan hubungannya.
+11. **Model kerja NON-CANON:** objek bertulis Northglass adalah artefak fisik yang berkaitan dengan penemuan Prasasti I dan menyediakan satu rangkaian tanda yang dapat ditransliterasikan sebagai NVR AGAIN. Objek itu tidak dinyatakan sebagai naskah interpretasi keturunan LEAX. Naskah interpretasi Prasasti I tetap dokumen in-world tersendiri sebagaimana ditetapkan CANON. Hubungan asal-usul, pemindahan, atau penyimpanan informasi antara objek Northglass dan naskah tersebut tidak ditetapkan.
 
-## 3. Struktur dramatis
+## 3. Model medium kerja dan batas kontinuitas
+
+Agar adegan Buku IV tidak mencampuradukkan kategori sumber, gunakan pembedaan berikut selama pengembangan:
+
+- **Objek Northglass:** benda fisik bertulis yang ditemukan kelompok; satu rangkaian tanda di permukaannya dapat ditransliterasikan sebagai NVR AGAIN.
+- **Prasasti I (CANON):** naskah interpretasi in-world yang ditulis oleh seorang keturunan LEAX dari Avarra.
+- **Hubungan keduanya:** objek Northglass berkaitan dengan penemuan Prasasti I, tetapi tidak dinyatakan sebagai naskah interpretasi itu sendiri. Apakah objek tersebut sumber, indeks, salinan, atau artefak yang menyertai rekaman tetap tidak ditetapkan.
+
+Pembedaan ini adalah keputusan pengembangan NON-CANON untuk menjaga konsistensi prosa. Ia tidak menetapkan medium yang sama bagi seluruh 13 Prasasti dan tidak mengubah CANON.
+
+## 4. Struktur dramatis
 
 ### Bagian I — Jejak di Luar Fasilitas
 Kelompok menelusuri rujukan dari Hollow Vale. Mereka harus membedakan catatan historis, pengetahuan lokal, dan perkiraan geografis. Akses ke situs bergantung pada kerja sama, bukan penemuan paksa.
@@ -45,7 +55,7 @@ Ilyra membandingkan pola tanda dan menemukan bagian yang dapat dibaca sebagai na
 ### Bagian IV — Prasasti Pertama
 Penemuan didokumentasikan dan diumumkan dengan batas interpretasi yang jelas. Nama tersebut diketahui, tetapi maknanya belum dipahami. Buku IV berakhir dengan pertanyaan sejarah yang mengarah ke Buku V.
 
-## 4. Scene outline
+## 5. Scene outline
 
 ### Bagian I — Jejak di Luar Fasilitas
 
