@@ -8,7 +8,7 @@
 
 ## Prinsip visual bab
 
-- Vellum & Iron Recovery harus terlihat sebagai pihak profesional dengan kepentingan komersial, bukan penjahat karikatural.
+- perusahaan pemulihan peninggalan harus terlihat sebagai pihak profesional dengan kepentingan komersial, bukan penjahat karikatural.
 - Dokumen klaim perlu tampak penting, tetapi jangan menggambar lambang, pasal, atau sistem hukum yang belum ditetapkan.
 - Negosiasi adalah konflik kepentingan. Perlihatkan gestur, jeda, dan siapa yang menguasai ruang.
 - Kael tidak boleh mengungkap kontrak sebelum Scene 13.
@@ -61,7 +61,7 @@
 
 **Panel 3.** Tavian mengamati perlengkapan yang tampak disiapkan untuk pekerjaan lapangan.
 
-**Panel 4.** Wakil rombongan memperkenalkan diri sebagai pihak dari Vellum & Iron Recovery.
+**Panel 4.** Wakil rombongan memperkenalkan diri sebagai pihak dari perusahaan pemulihan peninggalan.
 
 **Panel 5.** Seraphine menunggu penjelasan.
 
