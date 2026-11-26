@@ -757,3 +757,11 @@ Matriks rotasi R0.2 diperiksa ulang dan diperbaiki agar ortogonal (deviasi maksi
 - **Dokumen CANON baru:** `01-CANON/Series-Mystery-and-Revelation-Architecture.md`.
 - **Dokumen diselaraskan:** `00-CORE/08-Cerita-dan-Rencana-Delapan-Buku.md` dan `00-CORE/09-Kanon-dan-Kontinuitas.md`.
 - **Retcon:** tidak. Ini menetapkan disiplin pengungkapan dan kontinuitas; tidak mengubah fakta sejarah, kosmologi, atau isi naskah Prasasti.
+
+
+## 2026-11-26 — Klarifikasi status metode penafsiran 13 Prasasti
+
+- Dokumen `98-CATATAN PENGEMBANGAN/Metode-Penafsiran-13-Prasasti-Draft-0.1.md` memiliki header CANON tetapi Bagian 8 menyebut NON-CANON.
+- Bagian 8 diselaraskan menjadi CANON untuk standar metode penulisan dan dokumentasi in-world, konsisten dengan header dan fungsi dokumen.
+- Penegasan batas: metode dokumentasi CANON tidak mengesahkan tafsir, dugaan, atau kesimpulan penafsir sebagai fakta objektif.
+- Tidak ada makna lagu, isi objektif Prasasti, identitas penafsir, atau fakta sejarah baru yang ditetapkan.
