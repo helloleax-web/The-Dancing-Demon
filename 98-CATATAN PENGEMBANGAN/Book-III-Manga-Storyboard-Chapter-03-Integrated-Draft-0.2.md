@@ -323,3 +323,20 @@ Dokumen ini menggabungkan storyboard dasar dan koreksi sinkronisasi. Bagian stor
 - [ ] Audit final setelah prosa Buku III final.
 
 **Batas CANON:** tidak ada perubahan CANON. Dokumen ini adalah alat pengembangan adaptasi manga.
+
+
+## Keputusan kreator — akses Hollow Vale (B)
+
+**Status:** CATATAN PENGEMBANGAN / NON-CANON; keputusan jalur cerita telah dipilih untuk draft aktif.
+
+Kelompok memasuki bagian Hollow Vale yang telah terbuka tanpa izin atau kewenangan yang terkonfirmasi. Mereka mengetahui bahwa tidak ada dasar izin yang telah mereka peroleh, lalu tetap memilih melakukan pemeriksaan terbatas. Batas fisik pemeriksaan—tidak membongkar struktur, tidak melewati penghalang yang diketahui, tidak memindahkan atau mengambil benda—adalah pembatas tindakan mereka, **bukan** bukti bahwa akses tersebut sah.
+
+Jangan menciptakan pemilik, penjaga, otoritas, izin lisan, atau dokumen izin. Jangan menggambarkan tindakan mereka sebagai legal, disetujui, atau otomatis dibenarkan karena tidak ada tanda larangan. Risiko keberatan atau konsekuensi tetap terbuka untuk perkembangan cerita; jangan mengarang konsekuensi spesifik sebelum ditetapkan.
+
+**Keputusan ini menyelesaikan pilihan kreator untuk jalur draft, bukan OPEN QUESTION tentang siapa yang berwenang atas situs.**
+
+### Instruksi visual khusus
+- Sebelum masuk, tampilkan bahwa kelompok memahami belum ada izin yang terkonfirmasi.
+- Dialog atau narasi harus membedakan keputusan mengambil risiko dari klaim bahwa akses diperbolehkan.
+- Jangan menggambar ketiadaan gerbang, rantai, atau papan larangan sebagai tanda persetujuan.
+- Daren hanya menilai keselamatan fisik; ia tidak memberi otorisasi legal.
