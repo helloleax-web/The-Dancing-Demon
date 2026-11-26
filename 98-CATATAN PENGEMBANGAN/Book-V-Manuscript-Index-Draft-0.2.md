@@ -283,3 +283,11 @@
 - Keempat scene Bab 1 kini telah diuji pada format 4:5 dan 2:3. Rasio seluruh buku belum dikunci; target media, ukuran cetak, gutter, bleed, dan tipografi masih terbuka.
 - Board PNG dibuat di sesi kerja dan belum disimpan sebagai aset biner di repository.
 - Semua materi NON-CANON; tidak ada perubahan CANON.
+
+
+## Visual production specification — Chapter 1
+
+- [Book V Production Design Specification — Chapter 01 Draft 0.1](Book-V-Production-Design-Specification-Chapter-01-Draft-0.1.md) — consolidates candidate rendering, page-ratio findings, panel hierarchy, character/location constraints, document rules, and production acceptance checks.
+- Semi-Flat Editorial remains the rendering candidate; 4:5 remains the preferred page-ratio candidate after four scene tests. Neither is approved or locked.
+- Palette, typography, output medium, final character designs, and final location designs remain open.
+- All visual development remains NON-CANON; no manuscript or CANON facts were changed.
