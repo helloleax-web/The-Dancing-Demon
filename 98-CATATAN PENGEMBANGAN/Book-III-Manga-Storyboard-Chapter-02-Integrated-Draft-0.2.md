@@ -27,7 +27,7 @@ Dokumen ini menggabungkan storyboard dasar dan koreksi sinkronisasi. Bagian stor
 ## Prinsip visual bab
 
 - Permintaan kurator disampaikan melalui surat; jangan memberi identitas visual kepada kurator.
-- Nama pada surat boleh terbaca sebentar, tetapi jangan membuatnya sama dengan pemberi tugas Kael di Buku I.
+- Identitas kurator tidak disebutkan atau divisualkan; yang diketahui hanya keterkaitannya dengan Arsip Lentera.
 - Perjalanan ke Hollow Vale berlangsung melalui jalur yang dipilih karena kondisi medan, bukan karena petunjuk ajaib.
 - Hollow Vale harus tampak berbeda dari fasilitas Buku I: struktur terfragmentasi, sebagian runtuh, sisi bangunan terbuka.
 - Tidak ada antarmuka aktif, cahaya, suara mekanis, atau akses yang terbuka sendiri.
@@ -53,9 +53,9 @@ Dokumen ini menggabungkan storyboard dasar dan koreksi sinkronisasi. Bagian stor
 
 **Panel 2.** Kael melihat bagian luar amplop.
 
-**Panel 3.** Ia bertanya nama kurator.
+**Panel 3.** Kael bertanya siapa kurator yang mengirim surat.
 
-**Panel 4 — Insert.** Nama pada surat terlihat sesaat, tanpa lambang atau potret.
+**Panel 4 — Insert.** Surat hanya menyebut kurator yang berhubungan dengan Arsip Lentera; tidak ada nama atau identitas yang ditampilkan.
 
 **Panel 5.** Kael berhenti sejenak.
 
@@ -133,9 +133,9 @@ Dokumen ini menggabungkan storyboard dasar dan koreksi sinkronisasi. Bagian stor
 
 **Panel 5.** Mira memastikan mereka tidak memasuki wilayah dengan batas penggunaan.
 
-## Halaman 9 — Hari Ketiga
+## Halaman 9 — Tiba di Hollow Vale
 
-**Panel 1 — Wide establishing.** Kelompok mencapai wilayah yang disebut Hollow Vale.
+**Panel 1 — Wide establishing.** Kelompok mencapai wilayah yang disebut Hollow Vale; durasi perjalanan tidak ditentukan.
 
 **Panel 2.** Lembah rendah dengan lereng tidak rata.
 
@@ -286,7 +286,7 @@ Dokumen ini menggabungkan storyboard dasar dan koreksi sinkronisasi. Bagian stor
 ## Catatan adaptasi
 
 - Jangan memberi wajah atau lambang kepada kurator; surat hanya menyampaikan permintaan.
-- Jangan menyamakan kurator Ilyra dengan kurator kontrak Kael.
+- Identitas kurator tidak ditampilkan atau disebutkan; jangan menyamakan kurator tersebut dengan kurator kontrak Kael.
 - Jalur panjang dipilih karena kondisi jalur pendek belum dapat dipastikan.
 - Hollow Vale tidak memiliki antarmuka aktif atau pembukaan otomatis.
 - Struktur Hollow Vale harus tampak berbeda dari fasilitas Buku I.
@@ -353,3 +353,9 @@ Dokumen ini menggabungkan storyboard dasar dan koreksi sinkronisasi. Bagian stor
 - [ ] Audit final setelah prosa Buku III final.
 
 **Batas CANON:** tidak ada perubahan CANON. Dokumen ini adalah alat pengembangan adaptasi manga.
+
+
+## Koreksi editorial lintas dokumen
+
+- Identitas kurator tetap tidak disebutkan atau divisualkan; hanya hubungannya dengan Arsip Lentera yang diketahui.
+- Judul halaman 9 diubah dari "Hari Ketiga" menjadi "Tiba di Hollow Vale" karena durasi perjalanan tidak ditetapkan.
