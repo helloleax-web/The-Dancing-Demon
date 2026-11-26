@@ -41,13 +41,13 @@
 
 **Panel 5.** Kael bertanya apakah itu nama benda.
 
-## Halaman 3 — Bukan Prasasti
+## Halaman 3 — Istilah yang Belum Pasti
 
 **Panel 1.** Ilyra menjawab bahwa bisa jadi hanya deskripsi.
 
 **Panel 2.** Seraphine membaca ulang baris.
 
-**Panel 3.** “Kita tidak bisa menyebutnya Prasasti hanya dari kata ini.”
+**Panel 3.** “Kita belum bisa memastikan apakah catatan itu merujuk pada satu batu bertulis tertentu atau hanya memakai istilah umum.”
 
 **Panel 4.** Ilyra mengangguk.
 
@@ -83,13 +83,13 @@
 
 **Panel 1.** Seraphine membacakan kesimpulan.
 
-**Panel 2.** Dua sumber pertama memiliki beberapa bentuk rujukan yang mirip.
+**Panel 2.** Fragmen fasilitas Buku I dan indeks Hollow Vale memuat satu susunan rujukan yang sama.
 
-**Panel 3.** Laporan Daren adalah petunjuk terpisah.
+**Panel 3.** Ini bukti awal konvensi rujukan lintas dua fasilitas, bukan bukti hubungan fisik.
 
-**Panel 4.** Indeks Hollow Vale memberi konteks lain.
+**Panel 4.** Penanda Rookbridge hanya memiliki motif umum yang mirip; laporan Daren tetap petunjuk terpisah.
 
-**Panel 5.** Tidak ada bukti semua sumber dibuat pihak sama atau saling terhubung.
+**Panel 5.** Cakupan, pembuat, dan tujuan sistem tetap UNKNOWN.
 
 ## Halaman 7 — Hipotesis yang Ditahan
 
@@ -181,7 +181,7 @@
 
 **Panel 1 — Final wide panel.** Kelompok berjalan menjauhi Hollow Vale. Di foreground ada salinan indeks dengan baris “batu bertulis di luar fasilitas” yang belum lengkap. Di kejauhan, jalur bercabang. Narasi: “Petunjuk berikutnya tidak berasal dari sebuah bangunan. Petunjuk itu berasal dari sebuah batu bertulis di luar fasilitas.”
 
-**Akhir Buku III:** penyelidikan beralih dari fasilitas ke sumber historis di luar fasilitas. Identitas batu dan hubungannya dengan Prasasti tetap belum diketahui.
+**Akhir Buku III:** penyelidikan beralih dari fasilitas ke sumber historis di luar fasilitas. Identitas batu, isi, lokasi, dan hubungannya dengan sumber lain tetap belum diketahui.
 
 ---
 
