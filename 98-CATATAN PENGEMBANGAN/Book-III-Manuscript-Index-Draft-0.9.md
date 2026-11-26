@@ -1,0 +1,141 @@
+# Book III — Manuscript Index — Draft 0.9
+
+**Status:** CATATAN PENGEMBANGAN / NON-CANON.  
+**Progress:** enam bab prosa tersedia. Revision Draft 0.2 dan Line Edit Draft 0.3 dipertahankan sebagai riwayat; Proofread Draft 0.4 menjadi prosa kerja aktif untuk Chapters 1–6. Continuity Audit Draft 0.7 dan Character Knowledge Matrix Draft 0.5 tersedia. Manuskrip belum final.
+
+## Struktur bab
+
+1. [Bab 1 — Pola yang Belum Terbukti, Revisi Draft 0.2](Book-III-Manuscript-Chapter-01-Revision-Draft-0.2.md) — Scenes 1–4.
+2. [Bab 2 — Akses dan Asal, Revisi Draft 0.2](Book-III-Manuscript-Chapter-02-Revision-Draft-0.2.md) — Scenes 5–7.
+3. [Bab 3 — Ruang Penyimpanan, Revisi Draft 0.2](Book-III-Manuscript-Chapter-03-Revision-Draft-0.2.md) — Scenes 8–10. [Arsip Draft 0.1](Book-III-Manuscript-Chapter-03-Draft-0.1.md).
+4. [Bab 4 — Hak atas Informasi, Revisi Draft 0.2](Book-III-Manuscript-Chapter-04-Revision-Draft-0.2.md) — Scenes 11–14. [Arsip Draft 0.1](Book-III-Manuscript-Chapter-04-Draft-0.1.md).
+5. [Bab 5 — Bagian yang Hilang, Revisi Draft 0.2](Book-III-Manuscript-Chapter-05-Revision-Draft-0.2.md) — Scenes 15–17. [Arsip Draft 0.1](Book-III-Manuscript-Chapter-05-Draft-0.1.md).
+6. [Bab 6 — Catatan di Luar Fasilitas, Revisi Draft 0.2](Book-III-Manuscript-Chapter-06-Revision-Draft-0.2.md) — Scenes 18–20. [Arsip Draft 0.1](Book-III-Manuscript-Chapter-06-Draft-0.1.md).
+
+## Dokumen pengembangan
+
+- [Book III Scene Outline — Draft 0.2](Book-III-Scene-Outline-Draft-0.2.md)
+- [Book III Character Knowledge Matrix — Draft 0.4](Book-III-Character-Knowledge-Matrix-Draft-0.4.md)
+- [Book III Manuscript Continuity Audit — Draft 0.5](Book-III-Manuscript-Continuity-Audit-Draft-0.5.md)
+- [Book III Character Knowledge Matrix — Draft 0.3](Book-III-Character-Knowledge-Matrix-Draft-0.3.md) — versi sebelumnya.
+- [Book III Manuscript Continuity Audit — Draft 0.4](Book-III-Manuscript-Continuity-Audit-Draft-0.4.md) — versi sebelumnya.
+- [Book II–III Transition Audit — Draft 0.2](Book-II-III-Transition-Audit-Draft-0.2.md)
+- [Book III Manga Storyboard Index — Draft 0.3](Book-III-Manga-Storyboard-Index-Draft-0.3.md)
+- [Book III Manga Storyboard Synchronization Audit — Draft 0.3](Book-III-Manga-Storyboard-Audit-Report-Draft-0.3.md)
+- [Book III Manga Storyboard Index — Draft 0.2](Book-III-Manga-Storyboard-Index-Draft-0.2.md) — versi sebelumnya.
+- [Book III Manga Storyboard Audit — Draft 0.2](Book-III-Manga-Storyboard-Audit-Report-Draft-0.2.md) — versi sebelumnya.
+- [Book III Manuscript Continuity Audit — Draft 0.3](Book-III-Manuscript-Continuity-Audit-Draft-0.3.md) — versi sebelumnya.
+- [Book III Manuscript Index — Draft 0.3](Book-III-Manuscript-Index-Draft-0.3.md) — versi sebelumnya.
+
+## Koreksi Chapter 1–2 Draft 0.2
+
+1. Fragmen fasilitas Buku I dan penanda Rookbridge hanya memiliki motif visual umum yang mirip pada pembukaan; belum ada urutan rujukan khusus yang terbukti sama.
+2. Laporan Daren tetap petunjuk terpisah tentang permukaan buatan di wilayah lain.
+3. Catatan perjalanan Hollow Vale berisi nama tempat dan urutan lintasan yang membantu pencarian rute; bukan bukti pola rujukan fasilitas.
+4. Chapter 2 menggunakan catatan perjalanan yang telah diperkenalkan pada Chapter 1, bukan memperkenalkan sumber tambahan yang tidak disiapkan.
+5. Mira mencocokkan urutan lintasan dengan catatan lokal yang boleh dibagikan; lokasi tetap belum pasti sampai mereka tiba.
+6. Kurator yang meminta pembatasan salinan berhubungan dengan Arsip Lentera; tidak ditetapkan sebagai kurator kontrak Kael atau sumber pendanaan Ilyra.
+7. Susunan rujukan khusus yang sama antara fragmen Buku I dan indeks Hollow Vale baru boleh ditetapkan setelah indeks ditemukan di lokasi Hollow Vale.
+
+## Status editorial
+
+- Chapters 1–6: Revision Draft 0.2 tersedia; Chapters 3–6 telah direvisi berdasarkan audit kontinuitas dan Character Bible.
+- Draft 0.1 Chapters 3–6 tetap disimpan sebagai arsip, bukan versi aktif untuk penyuntingan berikutnya.
+- Manuskrip 20 scene: semua scene tersedia, tetapi masih memerlukan pengembangan prosa lebih lanjut, pemeriksaan ritme, dan line edit.
+- Keputusan kreator B telah diterapkan: kelompok secara sadar masuk tanpa izin atau kewenangan yang terkonfirmasi; status legal dan otoritas tetap UNKNOWN/OPEN QUESTION.
+- Jalur informasi Vellum & Iron Recovery dan jalur kebocoran salinan tetap MYSTERY/UNKNOWN.
+- Kesepakatan dokumentasi dibatasi pada prosedur dan salinan; tidak menetapkan kepemilikan, hak tanah, akses permanen, atau izin pemindahan.
+- Motivasi Ilyra kini ditautkan ke motivasi CANON membangun reputasi melalui hasil penelitiannya sendiri.
+- Kael kini membuat pilihan konkret untuk tidak mengirim salinan tanpa sumber dan persetujuan; identitas kontak dan jaringan tetap misteri.
+- Storyboard: enam paket revisi sinkronisasi panel Draft 0.2 tersedia. Paket patch masih harus diintegrasikan ke storyboard master standalone dan diuji melalui thumbnail.
+- Proofreading final: belum dilakukan.
+
+**Status Book III:** DALAM REVISI — belum final.  
+**Dampak CANON: tidak ada.**
+
+
+## Line edit manuscript — Chapter 1
+
+- [Book III Manuscript Chapter 1 — Line Edit Draft 0.3](Book-III-Manuscript-Chapter-01-Line-Edit-Draft-0.3.md)
+
+Draft 0.3 is an editorial pass on Revision Draft 0.2. It is not yet final proofread and introduces no CANON changes.
+
+
+## Line edit manuscript — Chapters 1–6
+
+Semua enam bab kini memiliki line edit Draft 0.3 berbasis Revision Draft 0.2. File Revision Draft 0.2 tetap dipertahankan sebagai sumber historis; Draft 0.3 adalah versi kerja editorial untuk pemeriksaan berikutnya.
+
+- [Chapter 1 — Line Edit Draft 0.3](Book-III-Manuscript-Chapter-01-Line-Edit-Draft-0.3.md)
+- [Chapter 2 — Line Edit Draft 0.3](Book-III-Manuscript-Chapter-02-Line-Edit-Draft-0.3.md)
+- [Chapter 3 — Line Edit Draft 0.3](Book-III-Manuscript-Chapter-03-Line-Edit-Draft-0.3.md)
+- [Chapter 4 — Line Edit Draft 0.3](Book-III-Manuscript-Chapter-04-Line-Edit-Draft-0.3.md)
+- [Chapter 5 — Line Edit Draft 0.3](Book-III-Manuscript-Chapter-05-Line-Edit-Draft-0.3.md)
+- [Chapter 6 — Line Edit Draft 0.3](Book-III-Manuscript-Chapter-06-Line-Edit-Draft-0.3.md)
+
+**Status:** line edit awal keenam bab selesai. Belum final proofread, belum audit gabungan terakhir, dan belum dinyatakan final.
+
+
+## Proofread manuscripts — Draft 0.4
+
+Proofread Draft 0.4 dibuat dari masing-masing Line Edit Draft 0.3. Versi ini menjadi naskah kerja terbaru untuk audit gabungan; versi line edit tetap dipertahankan sebagai riwayat.
+
+- [Chapter 1 — Proofread Draft 0.4](Book-III-Manuscript-Chapter-01-Proofread-Draft-0.4.md)
+- [Chapter 2 — Proofread Draft 0.4](Book-III-Manuscript-Chapter-02-Proofread-Draft-0.4.md)
+- [Chapter 3 — Proofread Draft 0.4](Book-III-Manuscript-Chapter-03-Proofread-Draft-0.4.md)
+- [Chapter 4 — Proofread Draft 0.4](Book-III-Manuscript-Chapter-04-Proofread-Draft-0.4.md)
+- [Chapter 5 — Proofread Draft 0.4](Book-III-Manuscript-Chapter-05-Proofread-Draft-0.4.md)
+- [Chapter 6 — Proofread Draft 0.4](Book-III-Manuscript-Chapter-06-Proofread-Draft-0.4.md)
+
+**Status:** proofread pass awal dan read-through berurutan selesai. Keputusan akses B sudah diterapkan; kewenangan dan status legal Hollow Vale tetap UNKNOWN/OPEN QUESTION. Audit teks/panel-per-panel storyboard telah selesai. Final micro-proofread pass selesai. Audit akhir seluruh sumber CANON/transisi Buku IV, thumbnail, layout, dan persetujuan kreator masih tertunda.
+
+## Hollow Vale access — active development decision
+
+- **Selected path:** B — the group knowingly inspects without confirmed permission.
+- **Applied to:** active Chapter 3 proofread manuscript, all six manuscript continuity notes, scene outline, all six integrated storyboard masters, decision brief, continuity/proofreading audits, and the updated character knowledge matrix.
+- **Not established:** landowner, authority, permit, permission source, legality, or specific consequence.
+- **Still OPEN QUESTION:** who has authority over Hollow Vale and whether any legal basis for entry exists.
+- **Next gate:** final CANON/source and Book IV transition audit, thumbnail, uji ritme, lettering/layout, dan creator approval. Book III is not final.
+
+
+## Active manuscript — Proofread Draft 0.4
+
+Gunakan enam file ini sebagai prosa kerja terbaru untuk pembacaan dan audit. Revision Draft 0.2 dan Line Edit Draft 0.3 tetap disimpan sebagai riwayat editorial.
+
+1. [Chapter 1 — Proofread Draft 0.4](Book-III-Manuscript-Chapter-01-Proofread-Draft-0.4.md)
+2. [Chapter 2 — Proofread Draft 0.4](Book-III-Manuscript-Chapter-02-Proofread-Draft-0.4.md)
+3. [Chapter 3 — Proofread Draft 0.4](Book-III-Manuscript-Chapter-03-Proofread-Draft-0.4.md)
+4. [Chapter 4 — Proofread Draft 0.4](Book-III-Manuscript-Chapter-04-Proofread-Draft-0.4.md)
+5. [Chapter 5 — Proofread Draft 0.4](Book-III-Manuscript-Chapter-05-Proofread-Draft-0.4.md)
+6. [Chapter 6 — Proofread Draft 0.4](Book-III-Manuscript-Chapter-06-Proofread-Draft-0.4.md)
+
+## Updated audits and production references
+
+- [Unified Proofreading Audit — Draft 0.4](Book-III-Unified-Proofreading-Audit-Draft-0.4.md)
+- [Manuscript Continuity Audit — Draft 0.7](Book-III-Manuscript-Continuity-Audit-Draft-0.7.md)
+- [Character Knowledge Matrix — Draft 0.5](Book-III-Character-Knowledge-Matrix-Draft-0.5.md)
+- [Manga Storyboard Index — Draft 0.6](Book-III-Manga-Storyboard-Index-Draft-0.6.md)
+- [Manga Storyboard Integration & Continuity Audit — Draft 0.6](Book-III-Manga-Storyboard-Audit-Report-Draft-0.6.md)
+- [Manga Page Rhythm Audit — Draft 0.2](Book-III-Manga-Page-Rhythm-Audit-Draft-0.2.md)
+
+**Status after read-through:** enam bab sudah dibaca berurutan; keputusan akses B diterapkan; status kewenangan situs tetap UNKNOWN/OPEN QUESTION. Book III masih DALAM REVISI.
+
+
+## Cross-book transition
+- [Book III–IV Transition Audit — Draft 0.1](Book-III-IV-Transition-Audit-Draft-0.1.md) — memisahkan rujukan Hollow Vale dari catatan rute lokal Mira yang dipakai untuk mencari Northglass.
+
+
+## Status storyboard setelah cross-check
+
+- [x] Enam master storyboard terintegrasi.
+- [x] Catatan keputusan akses B diterapkan pada keenam master.
+- [x] Audit teks/panel-per-panel terhadap Proofread Draft 0.4 selesai.
+- [ ] Thumbnail visual.
+- [ ] Uji ritme halaman berdasarkan thumbnail.
+- [ ] Lettering, balon dialog, efek suara, dan layout final.
+
+
+## Proofreading status — Draft 0.4 audit
+- [x] Read-through berurutan Scenes 1–20 setelah keputusan kreator B.
+- [x] Final micro-proofread pass keenam bab.
+- [x] Audit teks/panel-per-panel enam storyboard terhadap prosa Proofread Draft 0.4.
+- [ ] Final approval kreator.
