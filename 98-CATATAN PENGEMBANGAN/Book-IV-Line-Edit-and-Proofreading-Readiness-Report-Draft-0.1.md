@@ -1,9 +1,9 @@
 # Book IV — Line Edit and Proofreading Readiness Report
-## Draft 0.3 — Proofread Pass 0.1
+## Draft 0.4 — Proofread Pass 0.2
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Ruang lingkup:** manuskrip aktif Book IV Chapters 1–4, CANON *Thirteen Prasasti*, dan *Metode Penafsiran Tiga Belas Prasasti — Draft 0.2*.  
-**Hasil:** line edit selesai; proofread manual per bab selesai dan diterbitkan sebagai Proofread Draft 0.1. Final cross-chapter audit dan persetujuan kreator masih pending.
+**Hasil:** line edit selesai; proofread manual per bab selesai dan diterbitkan sebagai Proofread Draft 0.2. Final cross-chapter audit dan persetujuan kreator masih pending.
 
 ## 1. Versi yang diperiksa
 
