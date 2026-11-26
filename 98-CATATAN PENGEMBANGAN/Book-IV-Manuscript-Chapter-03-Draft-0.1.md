@@ -43,7 +43,7 @@ Kelompok tanda itu memiliki kondisi lebih baik daripada bagian lain.
 
 Sebagian permukaannya masih utuh. Guratan tidak tertutup endapan dan jarak antarbaris terlihat jelas. Ilyra membuat beberapa salinan dari sudut berbeda untuk memastikan bentuknya tidak berubah akibat bayangan.
 
-“Bagian ini mungkin sebuah nama,” katanya.
+“Bagian ini mungkin sebuah nama atau judul,” katanya. “Aku bisa membandingkan bentuk tanda, tetapi belum bisa menerjemahkan teks di sekitarnya.”
 
 Seraphine memeriksa susunannya. “Apa yang membuatmu berpikir begitu?”
 
@@ -117,7 +117,7 @@ Ia meletakkannya di atas meja dokumentasi, lalu menunjukkan bagian yang dapat di
 
 Seraphine membandingkan salinan itu dengan foto asli.
 
-“Urutannya konsisten.”
+“Urutan bentuknya konsisten. Yang bisa kita lakukan hanya mentransliterasikan bunyi rangkaian ini, bukan menerjemahkan seluruh prasasti.”
 
 Tavian memeriksa kembali posisi tulisan pada batu.
 
@@ -125,7 +125,7 @@ Tavian memeriksa kembali posisi tulisan pada batu.
 
 “Tidak.”
 
-Ilyra menarik napas dan membaca rangkaian tanda tersebut.
+Ilyra menarik napas dan membaca hasil transliterasi yang telah ia periksa ulang.
 
 “NVR AGAIN.”
 
@@ -135,7 +135,7 @@ Kael melihat salinan itu, lalu kembali memandang batu.
 
 “Itu nama?”
 
-“Bentuknya menunjukkan sebuah judul atau nama,” jawab Ilyra. “Tapi aku belum tahu apa yang dirujuk.”
+“Ini transliterasi dari rangkaian tanda yang masih utuh,” jawab Ilyra. “Bukan terjemahan teks di sekitarnya. Aku belum tahu apa yang dirujuk.”
 
 Seraphine menulis hasil pembacaan pada laporan dengan keterangan bahwa nama tersebut berasal dari bagian yang masih utuh dan dapat dibandingkan.
 
@@ -188,7 +188,7 @@ Tetapi nama itu belum menjadi jawaban.
 ## Catatan tambahan Scenes 11–15
 
 - Ilyra membandingkan bentuk tanda yang berulang dan memisahkan kemiripan visual dari asal-usul.
-- Satu bagian prasasti memiliki kondisi cukup baik untuk dibaca sebagai nama atau judul.
+- Satu bagian prasasti memiliki kondisi cukup baik untuk ditransliterasikan sebagai nama atau judul; teks di sekitarnya belum diterjemahkan.
 - Ilyra menguji dua kemungkinan pembacaan; satu lebih konsisten dengan tanda yang masih utuh tanpa menambahkan karakter yang hilang.
 - Pada Scene 14, rangkaian tanda dibaca sebagai **NVR AGAIN**. Nama ini pertama kali diketahui melalui penemuan Prasasti pertama.
 - Pembacaan nama tidak menjelaskan referen, makna, pembuat, atau konteks sejarah.
