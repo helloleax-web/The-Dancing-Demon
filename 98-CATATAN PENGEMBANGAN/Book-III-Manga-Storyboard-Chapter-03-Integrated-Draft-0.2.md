@@ -304,6 +304,7 @@ Dokumen ini menggabungkan storyboard dasar dan koreksi sinkronisasi. Bagian stor
 - Tavian dan Seraphine menolak pemindahan sementara dokumentasi dan klaim belum diperiksa.
 - Kael menilai cara negosiasi sebagai perilaku profesional, bukan bukti hubungan dengan perusahaan anonim Buku I.
 - Catatan akhir mencatat waktu kedatangan, klaim sumber informasi yang tidak disebutkan, status klaim belum diverifikasi, dan tidak ada benda dipindahkan.
+- Jika halaman 17–18 menampilkan perusahaan atau tim lain berada “di luar batas”, batas itu hanya ambang ruang/struktur yang sedang didokumentasikan, bukan batas legal situs, hak tanah, atau garis kepemilikan. Jangan menggambar pagar, garis batas properti, atau penanda yang menyiratkan otoritas.
 
 ## Batas visual
 - Status akses legal situs tetap OPEN QUESTION; jangan menggambar izin resmi.
