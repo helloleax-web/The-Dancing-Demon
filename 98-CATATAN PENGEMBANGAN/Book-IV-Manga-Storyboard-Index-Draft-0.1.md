@@ -1,6 +1,8 @@
 # Book IV — Manga Storyboard Index — Draft 0.1
 
-**Status:** CATATAN PENGEMBANGAN / NON-CANON.  
+**Status:** CATATAN PENGEMBANGAN / NON-CANON.
+
+> **Catatan status:** versi ini telah disupersesi oleh storyboard audit/index Draft 0.2. Gunakan versi 0.2 untuk status panel dan transliterasi terbaru.  
 **Basis:** manuskrip Buku IV, empat bab kerja, 20 scene.  
 **Format:** manga hitam-putih, pembacaan kanan-ke-kiri.  
 **Progress:** storyboard awal seluruh Bab 1–4 selesai.
