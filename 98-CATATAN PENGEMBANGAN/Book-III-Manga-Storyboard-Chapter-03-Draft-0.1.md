@@ -103,7 +103,7 @@
 
 **Panel 4.** Wadah penyimpanan Hollow Vale.
 
-**Panel 5.** Beberapa susunan tampak serupa, tetapi tidak identik.
+**Panel 5.** Fragmen fasilitas Buku I dan indeks Hollow Vale memperlihatkan satu susunan rujukan yang sama; penanda Rookbridge hanya memiliki motif umum yang mirip.
 
 ## Halaman 8 — Format Berulang
 
@@ -115,7 +115,7 @@
 
 **Panel 4.** Ilyra bertanya mengapa susunannya mirip.
 
-**Panel 5.** Seraphine menjelaskan metode sama tidak selalu berarti tujuan sama.
+**Panel 5.** Seraphine menjelaskan bahwa dua fasilitas dapat memakai konvensi rujukan sama tanpa membuktikan pembuat, tujuan, atau hubungan fisik yang sama.
 
 ## Halaman 9 — Tiga Kolom
 
@@ -139,7 +139,7 @@
 
 **Panel 4.** Seraphine menjawab bahwa informasi tanpa konteks dapat menyesatkan.
 
-**Panel 5.** Tavian menyimpan hasil perbandingan sebagai hipotesis.
+**Panel 5.** Tavian mencatat bukti awal konvensi rujukan lintas dua fasilitas; cakupan dan hubungan fisiknya tetap UNKNOWN.
 
 ---
 
