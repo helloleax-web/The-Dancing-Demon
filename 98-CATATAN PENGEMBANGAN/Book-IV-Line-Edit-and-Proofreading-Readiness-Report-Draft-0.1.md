@@ -10,7 +10,7 @@
 | Bab | Scene | Versi line edit | Hasil |
 |---|---:|---|---|
 | 1 — Jejak di Luar Fasilitas | 1–5 | Proofread Draft 0.2 (basis Revision 0.4) | Pass manual selesai; sequential cross-chapter audit Draft 0.1 selesai |
-| 2 — Batu yang Tidak Terbaca | 6–10 | Proofread Draft 0.2 (basis Revision 0.3) | Pass manual selesai; final cross-chapter audit pending |
+| 2 — Batu yang Tidak Terbaca | 6–10 | Proofread Draft 0.2 (basis Revision 0.3) | Pass manual selesai; sequential cross-chapter audit Draft 0.1 selesai |
 | 3 — Nama yang Terlepas | 11–15 | Proofread Draft 0.2 (basis Revision 0.5) | Pass manual selesai; akses A dan batas non-reproduksi diperiksa |
 | 4 — Setelah Nama Ditemukan | 16–20 | Proofread Draft 0.3 (basis Revision 0.5) | Pass manual selesai; batas konsultasi dan dokumentasi non-reproduktif diperiksa |
 
