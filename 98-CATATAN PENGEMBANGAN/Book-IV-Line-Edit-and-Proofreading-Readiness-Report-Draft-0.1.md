@@ -11,8 +11,8 @@
 |---|---:|---|---|
 | 1 — Jejak di Luar Fasilitas | 1–5 | Revision Draft 0.4 | LULUS line edit |
 | 2 — Batu yang Tidak Terbaca | 6–10 | Revision Draft 0.3 | LULUS line edit |
-| 3 — Nama yang Terlepas | 11–15 | Revision Draft 0.4 | LULUS line edit dengan blocking |
-| 4 — Setelah Nama Ditemukan | 16–20 | Revision Draft 0.4 | LULUS line edit |
+| 3 — Nama yang Terlepas | 11–15 | Revision Draft 0.5 | Jalur akses A dan batas non-reproduksi diterapkan; proofread manual pending |
+| 4 — Setelah Nama Ditemukan | 16–20 | Revision Draft 0.5 | Batas konsultasi dan dokumentasi non-reproduktif diterapkan; proofread manual pending |
 
 ## 2. Fokus line edit
 
@@ -62,7 +62,7 @@ Hal-hal yang belum ditetapkan:
 4. Apakah penjaga mengetahui asal-usul materi.
 5. Apakah Northglass memiliki hubungan material/historis dengan Prasasti I atau hanya memicu jalur penyelidikan.
 
-Jalur sebab-akibat dan dasar konsultasi kini dijelaskan melalui keputusan pengembangan NON-CANON Opsi A: Jorren menyampaikan rujukan terbatas, lalu penjaga anonim memberi izin konsultasi terawasi di tempat. Detail yang tidak perlu untuk adegan—identitas, lokasi, kepemilikan sah, provenance, dan autentikasi—tetap OPEN QUESTION dan tidak boleh diisi sebagai fakta. Celah akses naratif tidak lagi menjadi lompatan adegan, tetapi proofread manual tetap harus menguji kejelasan dan kewajaran transisinya.
+Jalur sebab-akibat dan dasar konsultasi kini dijelaskan melalui keputusan pengembangan NON-CANON Opsi A: Jorren menyampaikan rujukan terbatas, lalu penjaga anonim memberi izin konsultasi terawasi di tempat. Detail yang tidak perlu untuk adegan—identitas, lokasi, kepemilikan sah, provenance, dan autentikasi—tetap OPEN QUESTION dan tidak boleh diisi sebagai fakta. Chapter 3 Scene 13 dan Chapter 4 Scenes 17–20 juga telah diselaraskan: kelompok hanya menyimpan catatan non-reproduktif, bukan transkrip atau salinan materi sumber. Proofread manual tetap harus menguji kejelasan, batas izin, dan kewajaran transisinya.
 
 ## 6. Risiko kontinuitas yang perlu ditangani saat proofread
 
@@ -79,7 +79,7 @@ Jalur sebab-akibat dan dasar konsultasi kini dijelaskan melalui keputusan pengem
 2. Lakukan proofread manual empat bab secara berurutan setelah sinkronisasi akses selesai.
 3. Lakukan pembacaan keras untuk ritme dialog dan repetisi narasi.
 4. Sinkronkan storyboard Bab 2 dan lakukan panel-by-panel cross-check final.
-5. Revisi indeks, matriks karakter, dan audit setelah proofread final.
+5. Revisi indeks, matriks karakter, dan audit setelah proofread final. Storyboard Chapters 3–4 perlu pemeriksaan final terhadap versi prosa terbaru.
 
 **Kesimpulan:** line edit empat bab telah dilakukan dan konsistensi dasar terhadap CANON terjaga. Buku IV belum siap dinyatakan final.
 
