@@ -2,6 +2,10 @@
 
 **Status:** CANON bahwa terdapat 13 Prasasti dan bahwa naskah-naskah interpretasi berikut merupakan dokumen CANON in-world. Isi interpretasi adalah perspektif penafsir, bukan konfirmasi otomatis atas kebenaran objektif setiap dugaan di dalamnya.
 
+## Metode penafsiran
+
+Cara penyusunan, batas pengetahuan penafsir, pemisahan fakta/tafsir/dugaan/UNKNOWN, dan dokumentasi bunyi mengikuti [Metode Penafsiran Tiga Belas Prasasti](../98-CATATAN%20PENGEMBANGAN/Metode-Penafsiran-13-Prasasti-Draft-0.1.md). Pedoman tersebut berstatus CANON sebagai standar metode dokumentasi; isi tafsir tetap merupakan perspektif penafsir dan bukan fakta objektif otomatis.
+
 ## Daftar naskah
 
 | No. | Nama Prasasti / judul arsip | Naskah |
