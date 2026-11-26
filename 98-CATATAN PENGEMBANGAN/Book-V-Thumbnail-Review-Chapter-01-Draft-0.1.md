@@ -220,3 +220,13 @@ Draft 0.1 tidak dipakai sebagai acuan staging yang diterima. Revisi manual Draft
 - Seraphine membuka catatan, Mira membandingkan dua jalur pada peta lokal, dan Daren memeriksa ikatan tas; Tavian, Kael, dan Ilyra tetap hadir dalam kelompok.
 - Dua jalur hanya berupa percabangan abstrak tanpa detail peta/geografi baru.
 - Layout manual diterima sebagai studi komposisi NON-CANON; bukan ilustrasi final. Dampak CANON nihil.
+
+
+## Scene 1 — Panel 1.5 thumbnail — 2026-11-27
+
+- [Panel 1.5 Thumbnail Draft 0.1](Book-V-Scene-01-Panel-1-5-Thumbnail-Draft-0.1.md) — insert catatan tujuan pemeriksaan dan transisi ke kelompok yang kembali bergerak.
+- Kutipan catatan dipertahankan persis sesuai storyboard: “Tujuan pemeriksaan: sumber sejarah Great War. Hubungan dengan nama NVR AGAIN belum diketahui.”
+- Enam anggota kelompok ditampilkan kembali sebagai satu rombongan; tidak ada tanggal, lokasi, atau fakta sejarah tambahan.
+- Layout manual diterima untuk staging, bukan ilustrasi final. NON-CANON; dampak CANON nihil.
+
+**Status Scene 1:** kelima panel telah memiliki studi komposisi manual per panel. Ilustrasi final belum dibuat; desain karakter dan lokasi tetap belum dikunci.
