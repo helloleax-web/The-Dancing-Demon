@@ -83,7 +83,7 @@ Ilyra menulis bagian pembacaan tanda.
 
 Ia menyatakan bahwa satu rangkaian karakter dapat ditransliterasikan sebagai NVR AGAIN. Ini bukan terjemahan seluruh prasasti. Bagian lain masih belum dapat diterjemahkan karena kerusakan, variasi bentuk, dan kurangnya sumber pembanding.
 
- Dalam laporan, mereka menyebut temuan Northglass sebagai penemuan yang mengungkap Prasasti pertama. Batu bertulis itu dicatat sebagai objek fisik yang terkait dengan penemuan tersebut; laporan tidak menyatakan bahwa batu itu adalah naskah interpretasi keturunan LEAX.
+Dalam laporan, mereka menyebut temuan Northglass sebagai penemuan yang mengungkap Prasasti pertama. Batu bertulis itu dicatat sebagai objek fisik yang terkait dengan penemuan tersebut; laporan tidak menyatakan bahwa batu itu adalah naskah interpretasi keturunan LEAX.
 
 Tidak ada klaim bahwa mereka telah menemukan atau memahami seluruh Prasasti lain.
 
