@@ -270,3 +270,20 @@ Menyelesaikan penyuntingan, revisi, pemeriksaan kontinuitas, dan sinkronisasi do
 - [x] Record Chapter 4–5 procedure/meeting distinction as a proofreading checkpoint.
 - [x] Verify six line-edit files and six integrated storyboard masters exist on working branch.
 - [ ] Complete full sentence-level proofread and read-through.
+
+
+## Book III — Proofreading pass Draft 0.4
+
+- [x] Proofread Draft 0.4 for Chapter 1.
+- [x] Proofread Draft 0.4 for Chapter 2.
+- [x] Proofread Draft 0.4 for Chapter 3.
+- [x] Proofread Draft 0.4 for Chapter 4.
+- [x] Proofread Draft 0.4 for Chapter 5.
+- [x] Proofread Draft 0.4 for Chapter 6.
+- [x] Unified proofreading audit Draft 0.1.
+- [x] Continuity audit Draft 0.6.
+- [x] Scene outline correction: travel notes are route evidence only, not facility-pattern evidence.
+- [x] Storyboard Chapter 2 and Chapter 6 synchronization corrections.
+- [ ] Creator decision: legal basis for limited access to Hollow Vale.
+- [ ] Final read-through after access decision.
+- [ ] Final author approval of Book III.
