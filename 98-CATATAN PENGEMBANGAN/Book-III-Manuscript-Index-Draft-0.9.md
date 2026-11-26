@@ -37,7 +37,9 @@
 6. Kurator yang meminta pembatasan salinan berhubungan dengan Arsip Lentera; tidak ditetapkan sebagai kurator kontrak Kael atau sumber pendanaan Ilyra.
 7. Susunan rujukan khusus yang sama antara fragmen Buku I dan indeks Hollow Vale baru boleh ditetapkan setelah indeks ditemukan di lokasi Hollow Vale.
 
-## Status editorial
+## Status editorial — snapshot historis sebelum proofread
+
+Catatan pada bagian ini merekam tahap pengembangan sebelum Proofread Draft 0.4. Untuk status aktif, gunakan bagian **Proofread manuscripts — Draft 0.4** dan **Active manuscript — Proofread Draft 0.4** di bawah.
 
 - Chapters 1–6: Revision Draft 0.2 tersedia; Chapters 3–6 telah direvisi berdasarkan audit kontinuitas dan Character Bible.
 - Draft 0.1 Chapters 3–6 tetap disimpan sebagai arsip, bukan versi aktif untuk penyuntingan berikutnya.
@@ -48,7 +50,7 @@
 - Motivasi Ilyra kini ditautkan ke motivasi CANON membangun reputasi melalui hasil penelitiannya sendiri.
 - Kael kini membuat pilihan konkret untuk tidak mengirim salinan tanpa sumber dan persetujuan; identitas kontak dan jaringan tetap misteri.
 - Storyboard: enam paket revisi sinkronisasi panel Draft 0.2 tersedia. Paket patch masih harus diintegrasikan ke storyboard master standalone dan diuji melalui thumbnail.
-- Proofreading final: belum dilakukan.
+- Pada saat snapshot historis ini dibuat, proofreading belum dilakukan. Status tersebut telah disupersesi oleh Proofread Draft 0.4 dan audit terbaru.
 
 **Status Book III:** DALAM REVISI — belum final.  
 **Dampak CANON: tidak ada.**
@@ -72,7 +74,7 @@ Semua enam bab kini memiliki line edit Draft 0.3 berbasis Revision Draft 0.2. Fi
 - [Chapter 5 — Line Edit Draft 0.3](Book-III-Manuscript-Chapter-05-Line-Edit-Draft-0.3.md)
 - [Chapter 6 — Line Edit Draft 0.3](Book-III-Manuscript-Chapter-06-Line-Edit-Draft-0.3.md)
 
-**Status:** line edit awal keenam bab selesai. Belum final proofread, belum audit gabungan terakhir, dan belum dinyatakan final.
+**Status pada tahap Line Edit Draft 0.3 (historis):** line edit awal keenam bab selesai; proofreading dan audit gabungan belum dilakukan pada tahap tersebut. Status aktif tercantum di bagian Proofread Draft 0.4.
 
 
 ## Proofread manuscripts — Draft 0.4
@@ -94,7 +96,7 @@ Proofread Draft 0.4 dibuat dari masing-masing Line Edit Draft 0.3. Versi ini men
 - **Applied to:** active Chapter 3 proofread manuscript, all six manuscript continuity notes, scene outline, all six integrated storyboard masters, decision brief, continuity/proofreading audits, and the updated character knowledge matrix.
 - **Not established:** landowner, authority, permit, permission source, legality, or specific consequence.
 - **Still OPEN QUESTION:** who has authority over Hollow Vale and whether any legal basis for entry exists.
-- **Next gate:** final CANON/source and Book IV transition audit, thumbnail, uji ritme, lettering/layout, dan creator approval. Book III is not final.
+- **Next gate:** final review of CANON/source and Book IV transition, thumbnail, uji ritme, lettering/layout, dan creator approval. Audit transisi awal sudah dibuat, tetapi final approval masih tertunda. Book III is not final.
 
 
 ## Active manuscript — Proofread Draft 0.4
