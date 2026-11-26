@@ -102,7 +102,7 @@ Namun, mereka belum memahami keseluruhan lantunan atau sejarah yang mungkin mela
 
 ### Scene 19 — Nama Menyebar
 
-Salinan laporan yang hanya memuat catatan non-reproduktif mulai beredar di antara peneliti dan pihak yang terlibat dalam penyelidikan. Tidak ada bagian teks atau bunyi sumber yang direproduksi.
+Salinan laporan yang hanya memuat catatan non-reproduktif mulai beredar di antara pihak-pihak yang terlibat langsung dalam penyelidikan. Tidak ada bagian teks atau bunyi sumber yang direproduksi.
 
 Nama NVR AGAIN muncul dalam catatan, permintaan salinan, dan pembicaraan orang-orang yang sebelumnya hanya mengetahui adanya penyelidikan di Northglass.
 
