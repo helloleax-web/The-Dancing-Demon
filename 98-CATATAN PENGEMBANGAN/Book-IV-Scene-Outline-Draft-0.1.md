@@ -5,6 +5,8 @@
 **Basis:** Eight-Book Series Architecture, penutup Buku III, dan fakta CANON tentang 13 Prasasti serta nama NVR AGAIN.  
 **Fungsi:** mengalihkan penyelidikan dari fasilitas kuno menuju sumber historis yang berdiri di luar sistem bangunan, lalu mengungkap nama NVR AGAIN tanpa menjelaskan seluruh maknanya.
 
+> **Catatan status:** dokumen ini adalah versi awal dan telah disupersesi oleh versi 0.2. Gunakan Manuscript Continuity Audit, Manuscript Index, Scene Outline, dan Character Knowledge Matrix Draft 0.2 untuk status terbaru.
+
 ## 1. Fungsi Buku IV
 
 Buku IV berpusat pada pencarian dan penemuan batu bertulis yang dirujuk oleh indeks Hollow Vale. Penemuan tersebut menjadi titik perubahan karena untuk pertama kalinya kelompok menemukan sebuah nama yang sebelumnya tidak tercatat dalam sumber yang mereka miliki: **NVR AGAIN**.
