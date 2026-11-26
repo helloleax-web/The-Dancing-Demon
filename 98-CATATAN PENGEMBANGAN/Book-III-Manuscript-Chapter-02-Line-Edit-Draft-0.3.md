@@ -9,7 +9,7 @@
 
 Permintaan itu datang melalui seorang kurir pada sore hari.
 
-Ilyra menerima amplop kecil dari seorang kurir yang membawa pesan dari kurator yang berhubungan dengan Arsip Lentera. Ia membaca isinya, lalu menyerahkannya kepada Seraphine.
+Ilyra menerima amplop kecil dari seorang kurir yang membawa pesan dari kurator yang berhubungan dengan Arsip Lentera. Surat itu tidak memberi kelompok dasar untuk memastikan identitas kurator tersebut. Ia membaca isinya, lalu menyerahkannya kepada Seraphine.
 
 “Kurator meminta agar salinan catatan yang menyebut Hollow Vale tidak disebarkan sebelum sumbernya diperiksa.”
 
@@ -19,7 +19,7 @@ Ilyra menerima amplop kecil dari seorang kurir yang membawa pesan dari kurator y
 
 Kael membaca bagian luar amplop. “Siapa nama kuratornya?”
 
-Ilyra menyebut nama yang tercantum pada surat.
+Ilyra menjelaskan bahwa surat itu berasal dari kurator yang berhubungan dengan Arsip Lentera, tetapi identitasnya tidak dapat mereka pastikan.
 
 Kael tidak menunjukkan reaksi berarti. Ia berhenti sejenak sebelum mengembalikan kertas itu.
 
@@ -91,7 +91,7 @@ Ilyra mengangguk dan menambahkan keterangan.
 
 Daren menjaga agar kelompok tidak bergerak terlalu jauh dari jalur yang dapat mereka ikuti kembali. Mira memeriksa persimpangan dan memastikan mereka tidak memasuki wilayah yang memiliki batas penggunaan.
 
-Pada hari ketiga, mereka tiba di daerah yang disebut dalam catatan perjalanan sebagai Hollow Vale.
+Setelah perjalanan berlanjut, mereka tiba di daerah yang disebut dalam catatan perjalanan sebagai Hollow Vale.
 
 Tidak ada papan besar atau gerbang yang menandai tempat itu. Hanya sebuah lembah rendah dengan lereng yang tidak rata dan beberapa bagian struktur yang terlihat di antara batu serta tumbuhan.
 
@@ -182,6 +182,12 @@ Di hadapan mereka, Hollow Vale tidak memberikan jawaban. Namun, ia memberi kelom
 - Struktur adegan, urutan kejadian, informasi, serta tingkat kepastian dipertahankan dari Revision Draft 0.2.
 - Tidak ada fakta CANON, karakter, lokasi, izin, hubungan, atau pengetahuan baru yang ditambahkan.
 
-**Jumlah penyesuaian redaksional terarah:** 11.  
+**Jumlah penyesuaian redaksional terarah:** 11, ditambah koreksi kontinuitas pada identitas kurator dan durasi perjalanan.  
 **Status editorial:** line edit awal; belum final proofread.  
 **Dampak CANON: tidak ada.**
+
+
+## Koreksi kontinuitas setelah line edit awal
+
+- Identitas kurator Arsip Lentera tidak disebutkan dan tidak divisualkan; hubungan yang diketahui hanya keterkaitannya dengan Arsip Lentera.
+- Waktu perjalanan tidak dikunci menjadi tiga hari; durasi tepat tetap tidak ditetapkan.
