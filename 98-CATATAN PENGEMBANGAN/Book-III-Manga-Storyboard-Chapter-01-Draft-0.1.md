@@ -19,7 +19,7 @@
 
 ## Halaman 1 — Empat Sumber
 
-**Panel 1 — Overhead wide.** Meja kerja di Bellwether; beberapa lembar dokumentasi disusun terpisah.
+**Panel 1 — Overhead wide.** Meja kerja di Bellwether; caption: “Beberapa hari setelah meninggalkan Rookbridge, mereka kembali ke Bellwether.” Beberapa lembar dokumentasi disusun terpisah.
 
 **Panel 2.** Tavian meletakkan salinan fragmen fasilitas Buku I.
 
@@ -189,7 +189,7 @@
 
 **Panel 1.** Ada satu susunan yang mirip, tetapi tidak lengkap.
 
-**Panel 2.** Ilyra: “Ini sumber ketiga.”
+**Panel 2.** Ilyra: “Ini catatan ketiga yang memuat tanda untuk dibandingkan.”
 
 **Panel 3.** Seraphine mengingatkan bahwa hubungan belum dipastikan.
 
@@ -213,7 +213,7 @@
 
 **Panel 1.** Tavian melihat empat sumber di meja.
 
-**Panel 2.** Dua sumber memiliki kemiripan titik-garis; laporan Daren tetap terpisah; catatan ketiga menyebut Hollow Vale.
+**Panel 2.** Fragmen Buku I dan penanda Rookbridge diletakkan terpisah; laporan Daren berada di map lain; catatan perjalanan yang menyebut Hollow Vale menjadi sumber bertanda tambahan.
 
 **Panel 3.** Seraphine menyimpan masing-masing dalam wadah berbeda.
 
