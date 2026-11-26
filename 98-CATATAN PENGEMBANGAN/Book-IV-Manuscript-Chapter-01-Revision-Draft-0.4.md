@@ -3,7 +3,7 @@
 ### Revision Draft 0.4 — Scenes 1–5
 
 **Status: CATATAN PENGEMBANGAN / NON-CANON.**  
-**Fungsi:** manuskrip kerja Buku IV berdasarkan Book IV Scene Outline Draft 0.3 dan Book III–IV Transition Audit Draft 0.1. Semua detail baru tetap keputusan cerita draft.
+**Fungsi:** manuskrip kerja Buku IV berdasarkan Book IV Scene Outline Draft 0.5 dan Book III–IV Transition Audit Draft 0.1. Semua detail baru tetap keputusan cerita draft.
 
 ### Scene 1 — Rujukan yang Terpotong
 
