@@ -22,6 +22,8 @@ All six chapters have an editorial working copy. Revision Draft 0.2 files remain
 
 - **Source distinction:** Book I facility fragment, Rookbridge marker, Daren's old survey report, and Hollow Vale travel notes remain distinct. Only Book I fragment and Hollow Vale index share the specific reference sequence.
 - **Ilyra:** makes an early hypothesis, corrects it when evidence does not fit, and later retains competing readings rather than forcing a conclusion.
+- **Curator:** only the connection to Arsip Lentera is retained; no name, identity, or visual identification is supplied.
+- **Travel duration:** the exact duration to Hollow Vale remains unspecified; the earlier 'third day' phrasing is removed.
 - **Hollow Vale access:** no owner, authority, guard, or formal permit is invented. Legal access remains OPEN QUESTION. Inspection stays within already-open, reachable areas.
 - **Vellum & Iron Recovery:** arrives after documentation began; its information source remains unknown; no link to Book I's anonymous company is asserted.
 - **Copy agreement:** only governs documentation, metadata, storage, and distribution of copies. It does not establish ownership, land rights, permanent access, or permission to move objects.
@@ -44,6 +46,7 @@ All six chapters have an editorial working copy. Revision Draft 0.2 files remain
 
 - [x] Initial line edit of all six chapters.
 - [x] Index and progress tracker updated.
+- [x] Corrected Chapter 2 curator identity and unsupported exact travel duration.
 - [ ] Full sentence-level proofread for grammar, punctuation, dialogue voice, and repeated phrasing.
 - [ ] Read all six chapters consecutively for pacing and chapter handoffs.
 - [ ] Cross-check every scene against storyboard integrated Draft 0.2.
