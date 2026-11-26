@@ -23,7 +23,7 @@
 | Series Spine | Adventure, kehidupan sehari-hari, dan kebutuhan praktis tetap hadir | Perjalanan dan konflik lapangan hadir; perlu diperkuat dalam pass scene |
 | Series Conflict Architecture | Empat mesin konflik dapat saling memengaruhi tanpa harus satu penyebab | Konflik perjalanan, informasi, sejarah, dan kosmik dipisahkan dan disilangkan secukupnya |
 | Series Conflict Architecture | Tidak wajib ada antagonis permanen | Tidak ada antagonis tunggal ditetapkan |
-| Mystery & Revelation Architecture | Makna judul diungkap pada Buku VIII | Scene 18 disiapkan sebagai slot pengungkapan |
+| Mystery & Revelation Architecture | Makna judul diungkap pada Buku VIII | Scenes 17–18 mengembangkan dan mengungkap working meaning metaforis berdasarkan motif Prasasti |
 | Mystery & Revelation Architecture | Pengungkapan satu misteri tidak otomatis menyelesaikan misteri lain | Batas ini dicantumkan untuk Prasasti, NVR AGAIN, Great War, LEAX, dan Abstract Existence |
 | Tavian Character Arc | Tavian membuat keputusan penting saat data tidak lengkap dan menanggung konsekuensi | Scene 6, 13, dan 20 menyiapkan keputusan tersebut |
 | Ensemble Character Arcs | Perubahan diwujudkan melalui tindakan dan konsekuensi | Setiap karakter diberi ujian dan tindakan pembuktian arc |
