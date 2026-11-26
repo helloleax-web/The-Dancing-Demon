@@ -12,7 +12,7 @@
 
 ## Scene 1 — Dampak yang Tidak Bisa Ditarik Kembali
 
-Salinan ringkasan itu ditempel di tiga tempat berbeda.
+Salinan ringkasan awal dari pekerjaan mereka sebelumnya ditempel di tiga tempat berbeda. Mereka sudah mengeluarkan pernyataan koreksi ketika versi itu pertama kali beredar, tetapi koreksi tidak menarik kembali semua salinan yang telanjur dibuat.
 
 Yang pertama berada di ruang baca, di samping daftar peminjaman. Yang kedua di papan pengumuman dekat pasar. Yang ketiga sudah dibawa seseorang ke meja penjual peta, diberi garis merah dan catatan tangan yang menyebutnya sebagai bukti bahwa seluruh Prasasti berasal dari satu sumber.
 
