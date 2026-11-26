@@ -137,7 +137,6 @@ Penemuan mereka tidak lagi hanya menjadi urusan ekspedisi.
 - Perusahaan belum melakukan pemeriksaan langsung dan belum mengambil benda dalam adegan ini.
 - Kehadiran perusahaan menggeser konflik dari eksplorasi menuju sengketa hak, tanpa menetapkan bahwa perusahaan otomatis memiliki fasilitas.
 - Kael menunjukkan bahwa kedatangan pihak luar tidak mengejutkannya, tetapi alasan lengkapnya tetap ditahan untuk Scene 13.
-- Identitas perusahaan sengaja tidak disebutkan; fungsi dan keterlibatan spesifiknya dalam kejadian Buku I tetap merupakan keputusan cerita draft NON-CANON.
 
 
 ---
@@ -296,7 +295,7 @@ Untuk pertama kalinya, ia mengerti bahwa menemukan sesuatu tidak selalu berarti 
 
 - perusahaan pemulihan peninggalan menyampaikan salinan dokumen yang menurut perusahaan menjadi dasar hak pemulihan di wilayah tersebut.
 - Dokumen yang diperlihatkan belum lengkap; lampiran dan cakupan spesifik terhadap fasilitas bawah tanah belum diverifikasi.
-- Perusahaan membedakan klaim hak kontraktual untuk kegiatan tertentu dari kepemilikan seluruh tanah.
+- Perusahaan membedakan klaim kepemilikan komersial atas peninggalan dalam cakupan kontrak dari kepemilikan seluruh tanah; cakupan kontrak terhadap fasilitas belum diverifikasi.
 - Seraphine menegaskan bahwa hak pemulihan tidak otomatis berarti hak membongkar struktur atau mengambil benda tanpa batas.
 - Tim ekspedisi tidak memiliki kewenangan untuk mengakui atau menolak hak perusahaan atas nama otoritas wilayah.
 - Tidak ada keputusan kepemilikan, izin pemulihan, atau kesepakatan final yang dibuat.
