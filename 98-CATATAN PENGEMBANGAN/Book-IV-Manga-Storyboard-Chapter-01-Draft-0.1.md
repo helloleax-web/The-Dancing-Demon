@@ -1,4 +1,4 @@
-# Book IV — Manga Storyboard — Chapter 1 — Draft 0.1
+# Book IV — Manga Storyboard — Chapter 1 — Revision Draft 0.2
 
 **Judul bab:** Jejak di Luar Fasilitas  
 **Basis:** Manuscript Chapter 01, Scenes 1–5.  
@@ -10,7 +10,7 @@
 - Batu belum diperlihatkan jelas sebelum izin dan persiapan akses selesai.
 - Rujukan Hollow Vale tetap berupa teks rusak; tidak ada koordinat pasti.
 - Jalan Northglass harus terasa sebagai jalur yang dipakai warga dengan banyak cabang, bukan jalan raya kosong.
-- Jorren Hale menjadi penghubung akses, bukan pemilik tunggal atau antagonis.
+- Jorren Hale menjadi penghubung akses, bukan pemilik tunggal atau antagonis; izinnya hanya mencakup jalur yang ia jaga.
 - Nama NVR AGAIN tidak muncul dalam bab ini.
 
 ## Halaman 1 — Salinan Hollow Vale
@@ -94,8 +94,8 @@
 **Panel 1.** Mira menjelaskan bahwa kelompok mau mendengar batas.
 **Panel 2.** Jorren bertanya apa yang dilakukan jika menemukan sesuatu yang bisa dibaca.
 **Panel 3.** Seraphine: sumber dan kondisi dicatat; kesimpulan tidak diumumkan sebelum diperiksa.
-**Panel 4.** Jorren setuju mengantar mereka.
-**Panel 5.** Tavian menerima ketentuan.
+**Panel 4.** Jorren setuju mengantar mereka, sambil menegaskan bahwa izinnya terbatas pada akses jalur yang ia jaga.
+**Panel 5.** Tavian menerima ketentuan; tidak ada klaim bahwa Jorren mewakili semua pihak yang berkepentingan.
 
 ## Halaman 13 — Persimpangan Ketiga
 **Panel 1 — Wide.** Jorren membawa mereka ke jalur yang tidak lagi dipakai gerobak.
@@ -123,7 +123,7 @@
 **Panel 2.** Tavian menyiapkan sketsa posisi.
 **Panel 3.** Ilyra meminta izin menyalin tanda yang terlihat.
 **Panel 4.** Jorren mengizinkan selama tidak disentuh atau digores.
-**Panel 5.** Mira meminta konteks masyarakat setempat dicantumkan.
+**Panel 5.** Mira meminta konteks masyarakat setempat dicantumkan dan petunjuk lokasi rinci tidak disebarkan sebelum dampaknya dibicarakan dengan pengguna jalur.
 
 ## Halaman 17 — Izin Terbatas
 **Panel 1.** Seraphine menyanggupi pencatatan sumber dan batas penggunaan.
@@ -141,7 +141,8 @@
 
 ## Catatan adaptasi
 - Batu belum ditampilkan secara detail sampai Bab 2.
-- Jorren memberi izin terbatas, bukan menyerahkan hak atas situs.
+- Jorren memberi izin terbatas, bukan menyerahkan hak atas situs atau mewakili seluruh masyarakat.
+- Lokasi rinci tidak otomatis menjadi informasi publik; konteks dan dampaknya bagi pengguna jalur perlu dibahas.
 - Tidak ada penggalian, pembersihan agresif, atau pemindahan.
 - Nama NVR AGAIN tidak boleh muncul sebelum Scene 14 Buku IV.
 - Semua panel dan komposisi tetap NON-CANON.
