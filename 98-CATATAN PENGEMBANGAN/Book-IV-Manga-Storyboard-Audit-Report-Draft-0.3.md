@@ -1,5 +1,5 @@
 # Book IV — Manga Storyboard Cross-Check Audit
-## Draft 1.0 — Cross-Check terhadap Active Proofread Drafts
+## Draft 1.1 — Final Text-Level Storyboard Cross-Check
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Ruang lingkup:** storyboard Chapters 1–4 dibandingkan dengan manuskrip aktif dan Scene Outline Draft 0.7.
@@ -32,7 +32,7 @@ Koreksi:
 
 ## 4. Bab 3
 
-- Storyboard Revision Draft 0.3 menggantikan Draft 0.2 dan disinkronkan dengan Chapter 3 Revision Draft 0.5.
+- Storyboard Revision Draft 0.4 menggantikan Draft 0.3 dan disinkronkan dengan Chapter 3 Proofread Draft 0.2.
 - Halaman 1–3: dokumentasi Northglass dinyatakan belum cukup; Jorren menyampaikan rujukan terbatas kepada penjaga kumpulan dokumen anonim.
 - Halaman 4: penjaga anonim memberi izin konsultasi terawasi di tempat; tidak ada izin membawa, memisahkan, menyalin, atau menyebarluaskan materi.
 - Halaman 5–8: naskah interpretasi dan salinan bunyi diperlihatkan sebagai pasangan.
@@ -43,7 +43,7 @@ Koreksi:
 
 ## 5. Bab 4
 
-- Storyboard Revision Draft 0.3 memisahkan map dokumentasi Northglass dari catatan konsultasi naskah Prasasti I.
+- Storyboard Revision Draft 0.4 memisahkan map dokumentasi Northglass dari catatan konsultasi naskah Prasasti I dan membatasi sirkulasi ringkasan kepada pihak yang terlibat langsung.
 - Naskah dan salinan bunyi tetap berpasangan dan berada bersama penjaganya; kelompok tidak membuat atau membawa salinan sumber.
 - NVR AGAIN disebut sebagai judul naskah, bukan tulisan yang ditemukan pada batu.
 - Isi interpretasi divisualkan sebagai perspektif penafsir, dengan dugaan dan UNKNOWN tetap terlihat.
