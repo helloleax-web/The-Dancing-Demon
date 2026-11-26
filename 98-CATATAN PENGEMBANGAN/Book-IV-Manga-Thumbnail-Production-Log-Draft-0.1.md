@@ -67,9 +67,15 @@ Periksa sisa pemadatan Halaman 1–2, lalu lakukan review final layout tekstual 
 - Layout tekstual 18/18 tersedia, tetapi belum seluruhnya dinyatakan lolos review; artwork thumbnail nyata belum tersimpan sebagai aset repository.
 
 
+## Pengesahan cerita — Book IV Chapter 1
+- [x] Scenes 1–5 disahkan sebagai teks naratif CANON.
+- [x] Salinan resmi ditempatkan di `01-CANON/Book-IV-Chapter-01-Jejak-di-Luar-Fasilitas.md`.
+- [x] Indeks kontinuitas `00-CORE/09-Kanon-dan-Kontinuitas.md` diperbarui.
+- [ ] Storyboard dan layout visual tetap CATATAN PENGEMBANGAN / NON-CANON sampai produksi manga disetujui; pengesahan cerita tidak otomatis mengesahkan komposisi panel.
+
 ## Pembaruan setelah Storyboard Revision Draft 0.3
 - Storyboard Bab 1 kini Revision Draft 0.3.
 - Layout yang diselaraskan: Halaman 8, 11, 12, 14, dan 16.
 - Source Discrepancy Register diperbarui: lima perbedaan tersebut ditandai telah diperbaiki.
 - Sisa pemadatan yang masih perlu dievaluasi: Halaman 1–2 (dua salinan kerja Ilyra dan peringatan Seraphine).
-- Seluruh perubahan tetap NON-CANON; belum ada artwork thumbnail nyata di repository.
+- Teks naratif Scenes 1–5 kini CANON; storyboard dan layout manga tetap NON-CANON. Belum ada artwork thumbnail nyata di repository.
