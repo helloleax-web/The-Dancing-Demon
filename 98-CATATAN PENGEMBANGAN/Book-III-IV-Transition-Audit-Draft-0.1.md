@@ -72,3 +72,10 @@ Namun, Book IV Chapter 1 Revision Draft 0.2 menyatakan bahwa indeks Hollow Vale 
 - [ ] Final approval kreator.
 
 **Kesimpulan:** konflik sumber rute antara Buku III dan IV telah diperbaiki pada draft aktif. Semua detail Northglass tetap NON-CANON; tidak ada perubahan CANON.
+
+
+## 8. Batas nama lokasi CANON — Jalan Northglass
+
+Location Bible menetapkan **Jalan Northglass** sebagai nama lokasi CANON. Namun, letak, jalur, titik awal/akhir, jarak, arah, kepemilikan, dan hubungannya dengan jalur lain tetap UNKNOWN. Karena itu, penggunaan Jalan Northglass sebagai area pencarian dalam Buku IV adalah keputusan pengembangan NON-CANON; ia tidak boleh diperlakukan sebagai geografi yang sudah terpetakan atau sebagai bukti bahwa catatan lokal Mira benar-benar menunjuk pada objek tertentu.
+
+**Dampak CANON: tidak ada.**
