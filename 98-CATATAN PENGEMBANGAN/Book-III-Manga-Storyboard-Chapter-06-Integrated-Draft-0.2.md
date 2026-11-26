@@ -79,9 +79,9 @@ Dokumen ini menggabungkan storyboard dasar dan koreksi sinkronisasi. Bagian stor
 
 **Panel 3 — Insert.** “Rujukan kepada batu bertulis di luar fasilitas. Identitas, isi, lokasi, dan hubungan belum diketahui.”
 
-**Panel 4.** Kael menyebut bahwa mereka masih harus mencari batu.
+**Panel 4.** Kael menyebut bahwa mereka perlu mencari sumber pembanding untuk memeriksa rujukan itu.
 
-**Panel 5.** Tavian: “Setidaknya sekarang kita tahu ada sesuatu yang tidak bisa dijelaskan hanya dari fasilitas.”
+**Panel 5.** Tavian: “Setidaknya sekarang kita punya rujukan yang perlu diperiksa di luar fasilitas.”
 
 ---
 
@@ -163,9 +163,9 @@ Dokumen ini menggabungkan storyboard dasar dan koreksi sinkronisasi. Bagian stor
 
 **Panel 1.** Tavian memeriksa peta.
 
-**Panel 2.** Kael menerima permintaan informasi, tetapi tidak mengirim salinan.
+**Panel 2.** Kael menunjukkan ringkasan permintaan informasi tanpa mengungkap identitas kontak.
 
-**Panel 3.** Ia mencatat sumber dan meminta persetujuan kelompok.
+**Panel 3.** Ia menegaskan bahwa belum mengirim salinan karena sumber dan tujuan permintaan belum dapat diverifikasi.
 
 **Panel 4.** Mira menunjukkan beberapa jalur untuk mencari catatan perjalanan lain.
 
@@ -197,7 +197,7 @@ Dokumen ini menggabungkan storyboard dasar dan koreksi sinkronisasi. Bagian stor
 
 ## Halaman 14 — Di Luar Fasilitas
 
-**Panel 1 — Final wide panel.** Kelompok berjalan menjauhi Hollow Vale. Di foreground ada salinan indeks dengan baris “batu bertulis di luar fasilitas” yang belum lengkap. Di kejauhan, jalur bercabang. Narasi: “Petunjuk berikutnya tidak berasal dari sebuah bangunan. Petunjuk itu berasal dari sebuah batu bertulis di luar fasilitas.”
+**Panel 1 — Final wide panel.** Kelompok berjalan menjauhi Hollow Vale. Di foreground ada salinan indeks dengan baris “batu bertulis di luar fasilitas” yang belum lengkap. Di kejauhan, jalur bercabang. Narasi: “Petunjuk berikutnya tidak berasal dari sebuah bangunan. Untuk sekarang, petunjuk itu hanya berupa rujukan yang mungkin menyebut batu bertulis di luar fasilitas.”
 
 **Akhir Buku III:** penyelidikan beralih dari fasilitas ke sumber historis di luar fasilitas. Identitas batu, isi, lokasi, dan hubungannya dengan sumber lain tetap belum diketahui.
 
@@ -278,3 +278,10 @@ Dokumen ini menggabungkan storyboard dasar dan koreksi sinkronisasi. Bagian stor
 - [ ] Audit final setelah prosa Buku III final.
 
 **Batas CANON:** tidak ada perubahan CANON. Dokumen ini adalah alat pengembangan adaptasi manga.
+
+
+## Koreksi proofreading sinkronisasi
+
+- Narasi penutup tidak lagi menyatakan batu bertulis sebagai objek yang sudah dipastikan; yang ditemukan baru rujukan parsial yang mungkin menyebutnya.
+- Kael hanya menunjukkan ringkasan permintaan dan menahan salinan karena sumber serta tujuan belum dapat diverifikasi.
+- Dialog Tavian dan Kael diarahkan pada pemeriksaan sumber pembanding, bukan asumsi bahwa kelompok telah menemukan atau mengidentifikasi batu.
