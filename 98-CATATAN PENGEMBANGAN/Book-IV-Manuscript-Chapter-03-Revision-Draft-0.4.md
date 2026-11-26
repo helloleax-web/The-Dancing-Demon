@@ -45,7 +45,7 @@ Jorren bersedia menyampaikan permintaan itu. Kelompok menunggu jawaban sebelum m
 
 Jorren kembali dengan jawaban: penjaga kumpulan dokumen bersedia menerima kelompok untuk konsultasi terbatas. Ia memperkenalkan mereka, tetapi tidak menyatakan bahwa dirinya mengetahui asal-usul atau keaslian materi.
 
-Di tempat pemeriksaan yang tidak mereka dokumentasikan sebagai lokasi publik, penjaga itu mengizinkan kelompok melihat satu naskah interpretasi dan salinan bunyi yang disimpan bersamanya. Izin tersebut hanya berlaku untuk konsultasi di tempat dan di bawah pengawasannya. Kelompok tidak diizinkan membawa, memisahkan, menyalin, atau menyebarluaskan materi.
+Di tempat pemeriksaan itu, yang lokasinya tidak dicantumkan dalam dokumentasi publik, penjaga mengizinkan kelompok melihat satu naskah interpretasi dan salinan bunyi yang disimpan bersamanya. Izin tersebut hanya berlaku untuk konsultasi di tempat dan di bawah pengawasannya. Kelompok tidak diizinkan membawa, memisahkan, menyalin, atau menyebarluaskan materi.
 
 Seraphine mencatat siapa yang hadir, kondisi materi ketika diperlihatkan, serta batas izin yang diberikan. Ia juga menulis bahwa keterangan penjaga dan keberadaan pasangan materi belum membuktikan provenance atau keaslian historisnya.
 
@@ -73,7 +73,7 @@ Mereka tidak mengumumkan isi materi tersebut. Pemeriksaan harus dilakukan dengan
 
 Seraphine menyusun urutan pemeriksaan.
 
-Mereka membaca naskah baris demi baris. Pengamatan dipisahkan dari tafsir penulis, dugaan, dan hal-hal yang secara eksplisit belum diketahui. Keberadaan dan posisi setiap pengulangan dicatat tanpa menyalin ulang seluruh teks sumber; tidak ada pengulangan yang dihapus dari naskah yang sedang diperiksa.
+Mereka membaca naskah baris demi baris. Pengamatan dipisahkan dari tafsir penulis, dugaan, dan hal-hal yang secara eksplisit belum diketahui. Mereka menandai posisi setiap pengulangan dalam catatan analisis, tanpa menyalin ulang baris sumber atau mengabaikan pengulangan dalam naskah yang diperiksa.
 
 Ilyra mengikuti susunan itu sambil menandai bagian yang membutuhkan pemeriksaan terhadap salinan bunyi.
 
@@ -117,7 +117,7 @@ Kael menatap halaman itu cukup lama.
 
 “Nama yang sekarang berhasil kita temukan,” kata Seraphine. “Bukan penjelasan atas seluruh isinya.”
 
-Ilyra kembali memeriksa salinan bunyi. Judul pada naskah dan salinan yang disimpan bersamanya kini tercatat sebagai satu temuan dokumenter. Namun, tidak ada bagian dari pemeriksaan itu yang memberi mereka hak untuk memastikan identitas suara atau sejarah di baliknya.
+Ilyra kembali memeriksa salinan bunyi. Naskah beserta salinan bunyi yang disimpan bersamanya kini tercatat sebagai satu temuan dokumenter. Namun, tidak ada bagian dari pemeriksaan itu yang memberi mereka hak untuk memastikan identitas suara atau sejarah di baliknya.
 
 Mereka telah menemukan nama NVR AGAIN.
 
