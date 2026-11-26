@@ -188,9 +188,10 @@ Namun, mereka dapat menjaga agar laporan resmi tidak mengulang klaim yang tidak 
 - Naskah dibaca ulang sebagai rangkaian bab untuk memeriksa tata bahasa, kejelasan rujukan, repetisi, konsistensi istilah, dan kesinambungan adegan.
 - Koreksi yang diterapkan mempertahankan urutan peristiwa, batas pengetahuan karakter, dan semua misteri yang belum terjawab.
 - Bab ini tetap CATATAN PENGEMBANGAN / NON-CANON; tidak ada perubahan CANON.
-- Isu akses legal Hollow Vale tetap OPEN QUESTION dan belum dianggap terselesaikan.
+- Keputusan kreator B telah diterapkan: kelompok melakukan pemeriksaan tanpa izin atau kewenangan yang terkonfirmasi dan sadar tindakan itu dapat dipersoalkan.
+- Identitas pemilik/otoritas serta status legal situs tetap UNKNOWN/OPEN QUESTION; keputusan jalur cerita tidak mengesahkan akses.
 
-**Status:** proofread pass awal selesai; masih menunggu audit gabungan dan keputusan kreator atas isu terbuka.
+**Status:** proofread pass awal selesai; read-through dan audit akhir setelah keputusan kreator masih diperlukan.
 
 
 ## Catatan kontinuitas — keputusan akses Hollow Vale
