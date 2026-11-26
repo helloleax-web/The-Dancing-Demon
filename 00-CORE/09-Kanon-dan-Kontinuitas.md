@@ -40,6 +40,7 @@ batas informasi yang belum boleh diisi.
 -   LEAX menghilang setelah Great War.
 -   Terdapat 13 Prasasti.
 -   Naskah interpretasi in-world untuk Prasasti I–XIII telah dikonsolidasikan sebagai dokumen CANON di `01-CANON/`. Pengesahan berlaku atas keberadaan dan isi naskah sebagai catatan penafsir, bukan atas kebenaran objektif semua dugaan penulisnya.
+-   Book IV Chapter 1, Scenes 1–5 (*Jejak di Luar Fasilitas*) telah disahkan sebagai teks naratif CANON di `01-CANON/Book-IV-Chapter-01-Jejak-di-Luar-Fasilitas.md`. Pengesahan mencakup kejadian, dialog, dan batas tindakan yang dinyatakan dalam teks; identitas batu, pembuat, isi guratan, lokasi rinci, serta hubungan pasti indeks Hollow Vale dengan Prasasti I tetap UNKNOWN/MYSTERY.
 -   Sistem mana memiliki parameter dan cabang sebagaimana dijelaskan
     dalam dokumen Sistem Mana.
 -   Prolog asal-usul LEAX merupakan proyek terpisah dari cerita utama.
@@ -54,6 +55,7 @@ batas informasi yang belum boleh diisi.
     fakta yang telah dinyatakan.
 -   Asal-usul dan mekanisme NVR AGAIN serta jubah mana hitam.
 -   Isi objektif, lokasi, pembuat, asal, periode, dan fungsi 13 Prasasti di luar hal yang secara khusus telah ditetapkan. Isi naskah interpretasi I–XIII tercatat sebagai perspektif penafsir in-world, tetapi kebenaran objektif dugaan mereka tetap UNKNOWN.
+-   Identitas batu yang ditunjuk di wilayah Northglass, pembuatnya, isi guratan, lokasi rinci, dan hubungan pasti antara indeks Hollow Vale dengan Prasasti I tetap UNKNOWN/MYSTERY.
 -   Motif, kesadaran, bentuk, dan batas kemampuan entitas kosmik.
 -   Keadaan LEAX setelah menghilang.
 
@@ -73,6 +75,9 @@ batas informasi yang belum boleh diisi.
 -   Jangan mengarang isi objektif atau fungsi Prasasti. Ketiga belas naskah
     interpretasi yang telah disahkan tetap harus dibaca sebagai perspektif
     penulisnya, bukan kebenaran sejarah yang otomatis terkonfirmasi.
+-   Untuk Book IV Chapter 1, Jorren Hale hanya memberi izin terbatas pada jalur yang ia jaga; ia tidak mewakili seluruh masyarakat atau semua pihak berkepentingan.
+-   Batu tidak boleh digali, dipindahkan, dibersihkan agresif, disentuh, atau digores dalam peristiwa Chapter 1. Endapan yang menutupi bagian tertentu dicatat tanpa diangkat.
+-   Jangan menganggap batu yang ditunjuk Jorren telah teridentifikasi sebagai objek dari indeks Hollow Vale; identifikasi tetap belum pasti.
 
 ## Catatan sumber
 
