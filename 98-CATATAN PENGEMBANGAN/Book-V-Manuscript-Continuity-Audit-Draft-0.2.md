@@ -1,7 +1,7 @@
-# Book V — Manuscript Continuity Audit — Draft 0.3
+# Book V — Manuscript Continuity Audit — Draft 0.4
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
-**Cakupan:** lima bab manuskrip, 22 scene; dibandingkan dengan Book V Scene Outline, Character Knowledge Matrix, Eight-Book Series Architecture, CANON Great War, Prasasti I, jubah mana hitam, Resonansi Hitam, dan penutup Buku IV.
+**Cakupan:** lima bab manuskrip, 22 scene; dibandingkan dengan Book V Scene Outline, Character Knowledge Matrix, Eight-Book Series Architecture, CANON Great War, Prasasti I, jubah mana hitam, Resonansi Hitam, dan penutup Buku IV. Bab 2 dan Bab 4 telah menerima revision pass 0.2.
 
 ## 1. Hasil ringkas
 
@@ -9,9 +9,9 @@
 
 Manuskrip membangun hubungan NVR AGAIN dengan musik Great War melalui perbandingan arsip dan kesaksian. Efek jubah mana hitam dipertahankan sesuai CANON. Istilah Resonansi Hitam dicatat tanpa menentukan cakupan yang belum jelas.
 
-**Jumlah kata:** angka 9.151 adalah baseline pass pertama; revision 0.2 mengubah Bab 1, 3, dan 5 sehingga jumlah kata harus dihitung ulang pada final pass. Lima bab tetap memuat 22 scene.
+**Jumlah kata:** angka 9.151 adalah baseline pass pertama dan tidak lagi dianggap aktual setelah revisi Bab 1–5. Jumlah kata harus dihitung ulang pada final pass. Lima bab tetap memuat 22 scene.
 
-## 2. Koreksi yang diterapkan pada pass 0.2
+## 2. Koreksi yang diterapkan pada pass 0.2–0.3
 
 Scene 17 sebelumnya menyatakan bahwa sumber yang diperiksa membuktikan musik terdengar di seluruh dunia. Sumber yang diperiksa dalam manuskrip berasal dari wilayah yang berjauhan, tetapi tidak mencakup setiap wilayah. Kalimat kini dibatasi: dokumen yang mereka periksa menunjukkan penyebaran luas, dan laporan tidak mengklaim telah memverifikasi setiap bagian dunia.
 
@@ -83,16 +83,16 @@ Manuskrip harus mempertahankan ketidakpastian tersebut. Jangan mengubah istilah 
 
 1. Neral dan Sava masih sering berfungsi sebagai penyampai metodologi; beri mereka konflik personal dan kepentingan yang lebih khas.
 2. Kota Orlenn masih terasa sebagai ruang arsip, bukan kota yang hidup.
-3. Konflik penerbit perlu berdampak pada akses dan penyebaran laporan, bukan hanya penolakan.
+3. **Ditangani pada revision 0.2 Bab 4:** konflik penerbit kini mencakup permintaan menghapus konteks sumber dan risiko publikasi identitas pemberi kesaksian. Dampak penyebaran di luar lingkup adegan tetap belum ditetapkan.
 4. Beberapa dialog tentang batas sumber berulang dan dapat dipadatkan.
 5. Interaksi kelompok di luar Balai Catatan Perang perlu diperluas.
 6. Laporan akhir perlu membedakan dengan jelas fakta CANON, hasil yang dapat disimpulkan dari arsip, dan batas cakupan sumber yang diperiksa.
-7. Revision Draft 0.2 kini mencatat fakta hilangnya LEAX setelah Great War tanpa menjelaskan sebab, keadaan, atau nasib.
+7. **Ditangani pada revision 0.2 Bab 2:** penilaian independensi sumber diperjelas; kemiripan kesaksian tidak otomatis dihitung sebagai konfirmasi terpisah.
 
 ## 10. Kesimpulan
 
 Buku V memenuhi fungsi rekonstruksi sejarah Great War dan memberi payoff pada nama NVR AGAIN tanpa menjelaskan asal musik. Efek jubah mana hitam dan istilah Resonansi Hitam dijaga sesuai batas CANON. Koreksi 0.2 mencegah klaim global yang lebih luas daripada koleksi sumber yang diperiksa.
 
-**Buku V belum final. Scope LEAX kini dibatasi secara konsisten pada dua fakta CANON minimum. Isu yang tersisa adalah pengembangan sumber pendukung, variasi karakter arsip, kehidupan kota Orlenn, konflik publikasi, dan pemeriksaan manuskrip lengkap.
+**Buku V belum final. Scope LEAX tetap dibatasi pada dua fakta CANON minimum. Pass revisi seluruh lima bab sudah berjalan, tetapi audit ini bukan line edit final. Isu yang tersisa adalah pengembangan karakter pendukung, kehidupan kota Orlenn, pemadatan dialog, dampak publikasi di luar adegan, dan pemeriksaan manuskrip lengkap.
 
 **Dampak CANON: tidak ada.** Semua karakter pendukung, lokasi, dokumen, dan peristiwa spesifik tetap NON-CANON.
