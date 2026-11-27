@@ -30,6 +30,7 @@
 - [Page Ratio & Panel Layout Test — Draft 0.1](Book-V-Page-Ratio-and-Panel-Layout-Test-Draft-0.1.md) — tes 4:5 dan 2:3; belum ada keputusan final.
 - [Visual Storyboard — Bab 1](Book-V-Visual-Storyboard-Chapter-01-Draft-0.1.md) — Scenes 1–4, 27 panel.
 - [Visual Storyboard — Bab 2](Book-V-Visual-Storyboard-Chapter-02-Draft-0.1.md) — Scenes 5–8, 26 panel.
+- [Visual Storyboard — Bab 3](Book-V-Visual-Storyboard-Chapter-03-Draft-0.1.md) — Scenes 9–13, 26 panel.
 - [Thumbnail Review — Bab 1](Book-V-Thumbnail-Review-Chapter-01-Draft-0.1.md) — review layout manual dan catatan batas visual.
 - [Chapter 1 Scene-by-Scene Blocking Audit](Book-V-Chapter-01-Scene-by-Scene-Blocking-Audit-Draft-0.1.md) — audit blocking tekstual 27 panel.
 - [Chapter 1 Visual Continuity Review](Book-V-Chapter-01-Visual-Continuity-Review-Draft-0.1.md) — kontinuitas properti, ruang, waktu, dan kamera.
@@ -39,16 +40,16 @@
 
 - Bab 1: storyboard teks dan 27 panel blocking/layout manual tersedia; audit blocking dan kontinuitas telah dibuat.
 - Bab 2: storyboard teks 26 panel selesai; thumbnail panel-per-panel dan ilustrasi final belum dibuat.
+- Bab 3: storyboard teks 26 panel selesai; hipotesis mekanisme dan cakupan Resonansi Hitam tetap tidak dipastikan.
 - Bab 3–5: panel thumbnail/blocking awal telah dicatat untuk Scenes 9–22; storyboard visual bab lengkap dan audit blocking terpadu belum dibuat.
 - Desain final karakter/lokasi, palet, rendering, rasio halaman, tipografi, ukuran output, dan format publikasi belum dikunci.
 - Tidak ada aset visual yang mengesahkan detail NON-CANON menjadi CANON.
 
 ## Tahap produksi berikutnya
 
-1. Lanjutkan storyboard teks Bab 3 (Scenes 9–13) berdasarkan manuskrip Revision 0.4.
-2. Susun storyboard teks Bab 4 (Scenes 14–18) dan Bab 5 (Scenes 19–22).
-3. Audit blocking dan kontinuitas visual lintas 22 scene setelah storyboard lima bab tersedia.
-4. Uji format halaman dan rendering pada panel yang representatif sebelum produksi thumbnail ilustratif.
-5. Jangan membuat desain final karakter/lokasi atau menetapkan gaya/format publikasi tanpa keputusan kreator.
+1. Susun storyboard teks Bab 4 (Scenes 14–18) dan Bab 5 (Scenes 19–22).
+2. Audit blocking dan kontinuitas visual lintas 22 scene setelah storyboard lima bab tersedia.
+3. Uji format halaman dan rendering pada panel yang representatif sebelum produksi thumbnail ilustratif.
+4. Jangan membuat desain final karakter/lokasi atau menetapkan gaya/format publikasi tanpa keputusan kreator.
 
 **Dampak CANON: tidak ada.** Semua storyboard, blocking, dan keputusan produksi yang belum disahkan tetap NON-CANON.
