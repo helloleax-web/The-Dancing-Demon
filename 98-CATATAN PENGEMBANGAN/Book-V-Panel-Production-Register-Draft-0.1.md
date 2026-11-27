@@ -191,3 +191,11 @@ Paket visual lokal: `LEAX_BookV_Chapter05_MissingBlocking_Panels.zip` dan contac
 - File PNG tersedia sebagai aset lokal sesi: `LEAX_BookV_Scene01_Page01_IllustrativeThumbnail_Draft01.png`; file biner belum disimpan ke repository.
 - Arah Semi-Flat Editorial dan rasio 4:5 hanya konfigurasi uji sementara, belum disetujui sebagai keputusan final.
 - Status: thumbnail dibuat, menunggu review kreator; belum diterima.
+
+
+## 17. Thumbnail ilustratif — Scene 1, Page 2 — 2026-11-28
+
+- [Scene 1 Page 2 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-01-Page-02-Illustrative-Thumbnail-Draft-0.1.md) mendokumentasikan halaman uji untuk Panels 1.4–1.5.
+- File PNG tersedia sebagai aset lokal sesi: `LEAX_BookV_Scene01_Page02_IllustrativeThumbnail_Draft01.png`; file biner belum disimpan ke repository.
+- Arah Semi-Flat Editorial dan rasio 4:5 hanya konfigurasi uji sementara, belum disetujui sebagai keputusan final.
+- Status: thumbnail dibuat, menunggu review kreator; belum diterima.
