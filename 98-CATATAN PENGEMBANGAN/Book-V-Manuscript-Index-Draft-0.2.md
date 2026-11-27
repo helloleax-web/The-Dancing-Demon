@@ -731,3 +731,12 @@
 - No names, organizations, locations, dates, quotations, mechanisms, or origin theories are invented.
 - Manual study image was created in the work session and is not stored as a binary asset in the repository.
 - All materials remain NON-CANON; CANON impact: none.
+
+
+### Scene 8 — Panel 8.2 thumbnail
+
+- [Book V Scene 8, Panel 8.2 — Thumbnail Draft 0.1](Book-V-Scene-08-Panel-8-2-Thumbnail-Draft-0.1.md) — manual top-down blocking study of source records and a research note.
+- Records that available sources are insufficient to identify the creator, distributor, or mechanism of NVR AGAIN.
+- No names, organizations, locations, dates, quotations, origin theories, mechanisms, or music details are invented; lack of evidence is not treated as proof of nonexistence.
+- Manual study image was created in the work session and is not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
