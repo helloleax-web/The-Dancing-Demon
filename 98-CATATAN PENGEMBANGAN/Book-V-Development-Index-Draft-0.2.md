@@ -53,7 +53,7 @@
 - Bab 5: storyboard teks 22 panel selesai; laporan fenomena penutup tetap belum diverifikasi.
 - Bab 3–5: panel thumbnail/blocking awal telah dicatat untuk Scenes 9–22; storyboard visual bab lengkap dan audit blocking terpadu belum dibuat.
 - Desain final karakter/lokasi, palet, rendering, rasio halaman, tipografi, ukuran output, dan format publikasi belum dikunci.
-- Audit kontinuitas visual lintas lima bab selesai pada tingkat dokumen. Register menunjukkan 128 panel memiliki blocking awal; Seluruh 128 panel telah lolos review blocking komposisi kasar lintas lima bab setelah 35 koreksi alignment (7 + 6 + 9 + 6 + 7?); thumbnail ilustratif dan ilustrasi final yang diterima masih 0. Thumbnail ilustratif dan ilustrasi final yang diterima masih 0.
+- Audit kontinuitas visual lintas lima bab selesai pada tingkat dokumen. Register menunjukkan 128 panel memiliki blocking awal; Seluruh 128 panel telah lolos review blocking komposisi kasar lintas lima bab setelah 28 koreksi alignment (7 + 6 + 9 + 6); thumbnail ilustratif dan ilustrasi final yang diterima masih 0. Thumbnail ilustratif dan ilustrasi final yang diterima masih 0.
 - Tidak ada aset visual yang mengesahkan detail NON-CANON menjadi CANON.
 
 ## Tahap produksi berikutnya
