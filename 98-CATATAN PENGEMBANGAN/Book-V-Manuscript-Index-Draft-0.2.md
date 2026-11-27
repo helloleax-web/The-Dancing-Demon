@@ -1085,3 +1085,9 @@ Seluruh blocking tetap NON-CANON; manuskrip dan CANON tidak berubah.
 - [Book V Chapter 5 Blocking Review — Draft 0.1](Book-V-Chapter-05-Blocking-Review-Draft-0.1.md) — 22/22 panel lolos sebagai blocking komposisi kasar setelah enam alignment corrections.
 
 Kedua review tidak menyetujui thumbnail ilustratif atau ilustrasi final. Seluruh detail visual tetap NON-CANON.
+
+
+## Penerimaan blocking seluruh Book V
+
+- [Book V Blocking Acceptance Report — Draft 0.1](Book-V-Blocking-Acceptance-Report-Draft-0.1.md) — seluruh 128/128 panel diterima sebagai blocking komposisi kasar.
+- Thumbnail ilustratif dan ilustrasi final belum dibuat/diterima; keputusan visual final tetap terbuka.
