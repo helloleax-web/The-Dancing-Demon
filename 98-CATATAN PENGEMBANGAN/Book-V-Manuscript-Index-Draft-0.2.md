@@ -494,3 +494,12 @@
 - No added writing, symbols, dates, map geography, source entries, or final prop/environment/character designs are established.
 - Manual study image was created in the work session and is not stored as a binary asset in the repository.
 - All materials remain NON-CANON; CANON impact: none.
+
+
+### Scene 3 — Panel 3.1 thumbnail
+
+- [Book V Scene 3, Panel 3.1 — Thumbnail Draft 0.1](Book-V-Scene-03-Panel-3-1-Thumbnail-Draft-0.1.md) — manual wide-establishing exterior blocking for the Balai Catatan Perang.
+- The building reads as spacious but externally simple; the nameboard sits near the entrance.
+- No palace/fortress/temple styling, architectural identity, landmark, emblem, wider geography, or final environment design is established.
+- Manual study image was created in the work session and is not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
