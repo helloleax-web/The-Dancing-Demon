@@ -588,3 +588,15 @@ Rincian: [Illustrative Thumbnail Asset Log — Draft 0.1](Book-V-Illustrative-Th
 - Produksi gabungan halaman dihentikan sementara; langkah berikutnya adalah blocking panel tunggal atau manual sebelum generasi ulang.
 
 **Status:** Scene 10 0 PNG valid; 2 percobaan ditolak. NON-CANON.
+
+
+## Pembaruan produksi visual — Scene 10 Panel 10.1 — 2026-11-28
+
+- Panel 10.1: satu eksperimen visual panel tunggal lokal telah dibuat; status **Thumbnail ilustratif — menunggu review kreator**.
+- Panel 10.1 belum diterima sebagai thumbnail dan belum menjadi binary repository asset.
+- Panel 10.2–10.5 belum memiliki eksperimen visual yang valid.
+- Dua output halaman gabungan sebelumnya tetap berstatus ditolak; eksperimen panel 10.1 ini tidak mengubah status penolakan tersebut.
+- Total eksperimen PNG lokal yang tercatat: enam eksperimen halaman Scene 7–9 ditambah satu eksperimen panel Scene 10.1. Angka ini tidak berarti tujuh halaman selesai.
+- Binary PNG di repository: 0. Thumbnail diterima: 0. Ilustrasi final: 0.
+
+**Dampak CANON: tidak ada.**
