@@ -1,27 +1,23 @@
-# Book V — Scene 07, Panel 7.2
-## Thumbnail / Manual Blocking Draft 0.1
+# Book V — Scene 7, Panel 7.2
+## Thumbnail / Manual Blocking Draft 0.1 — Alignment Revision
 
 **Status:** NON-CANON  
-**Jenis:** Top-down insert; two source records with parallel comparison categories  
-**Fungsi:** Memvisualisasikan langkah Ilyra membandingkan pola waktu dan deskripsi umum pada catatan musik tanpa nama dengan bahan pembacaan Prasasti, tanpa menciptakan isi sumber.
+**Jenis:** Manual blocking / storyboard alignment  
+**Fungsi:** Perbandingan istilah.
 
 ### Komposisi
-- Dua dokumen tetap berdampingan dan dapat dibedakan: catatan musik tanpa nama dan bahan pembacaan Prasasti.
-- Pada masing-masing dokumen, dua area kerja diberi penanda netral: **pola waktu** dan **deskripsi umum**.
-- Tata letak memperlihatkan bahwa Ilyra sedang membandingkan dua aspek tersebut, bukan bahwa hasilnya sudah cocok secara pasti.
-- Nama NVR AGAIN hanya boleh muncul pada bahan pembacaan Prasasti, tidak pada catatan musik.
-- Isi rinci setiap area tidak perlu terbaca; jangan mengarang kalimat, tanggal, urutan, durasi, atau deskripsi.
+Close-up dua sumber terpisah. Ilyra membandingkan istilah bunyi, lantunan, dan suara berulang selama masa perang. Nama NVR AGAIN hanya tampak pada pembacaan Prasasti, tidak pada catatan sejarah awal.
 
 ### Batas visual dan informasi
-- Jangan menambahkan nilai, skor, tanda centang, tanda persamaan, atau indikator kecocokan yang tidak didukung sumber.
-- Jangan menciptakan pola waktu tertentu, deskripsi musik, lirik, notasi, melodi, instrumen, bentuk gelombang, lokasi, tanggal, identitas penulis, maupun asal-usul musik.
-- Jangan menyamakan kedua dokumen sebagai satu sumber atau salinan satu sama lain.
-- Jangan menampilkan kesimpulan final hubungan NVR AGAIN dengan musik yang disebut catatan.
-- Jangan mengubah atau menulis ulang pembacaan Prasasti yang telah ada.
-- Karakter tetap placeholder; panel tidak menetapkan desain final Ilyra.
+- Tidak menambahkan kutipan, istilah baru, detail musik, atau kesimpulan final.
+- Karakter tetap placeholder; tidak ada wajah, rambut, kostum, proporsi, atau aksesori final.
+- Dokumen yang tidak memiliki isi eksplisit dalam manuskrip tetap berupa placeholder tak terbaca.
+- Tidak menambahkan dialog, fakta sejarah, tanggal, lokasi, identitas, atau hubungan lore.
 
 ### Relasi kontinuitas
-Panel meneruskan dua dokumen yang diperkenalkan pada Panel 7.1. Perbandingan dibatasi pada dua aspek yang disebut outline—pola waktu dan deskripsi umum—yang secara bersama mendukung kemungkinan hubungan, bukan kepastian atau penjelasan asal-usul.
+Panel ini diselaraskan dengan Visual Storyboard Bab 2 Revision 0.1. Revisi ini mengganti fungsi blocking lama agar nomor panel mengikuti urutan storyboard terbaru.
 
 ### Status kanon
-Seluruh blocking dan detail visual merupakan bahan produksi NON-CANON. Tidak mengubah atau menambah CANON.
+Blocking dan tata letak adalah bahan produksi NON-CANON. Tidak ada perubahan pada manuskrip atau fakta CANON.
+
+**Dampak CANON: tidak ada.**
