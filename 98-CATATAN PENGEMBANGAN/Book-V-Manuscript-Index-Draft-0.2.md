@@ -441,3 +441,11 @@
 - Accepted as an initial composition study only. No Orlenn architecture, city geography, signage, character design, or canon fact is established.
 - Manual study image was created in the work session and is not stored as a binary asset in the repository.
 - All materials remain NON-CANON; CANON impact: none.
+
+
+### Scene 2 — Panel 2.2 thumbnail
+
+- [Book V Scene 2, Panel 2.2 — Thumbnail Draft 0.1](Book-V-Scene-02-Panel-2-2-Thumbnail-Draft-0.1.md) — manual medium-wide eye-level blocking for the small cart caught in a rocky gap, held pedestrian flow, bread offer, and Daren guiding the group aside.
+- Accepted as a manual blocking study only. No accident, major damage, character design, gate design, or location geography is established.
+- The study image was created in the work session and is not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
