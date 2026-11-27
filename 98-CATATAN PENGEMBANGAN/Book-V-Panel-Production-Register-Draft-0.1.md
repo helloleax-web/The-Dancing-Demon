@@ -600,3 +600,15 @@ Rincian: [Illustrative Thumbnail Asset Log — Draft 0.1](Book-V-Illustrative-Th
 - Binary PNG di repository: 0. Thumbnail diterima: 0. Ilustrasi final: 0.
 
 **Dampak CANON: tidak ada.**
+
+
+## Pembaruan produksi visual — Scene 10 Panel 10.2 — 2026-11-28
+
+- Panel 10.2: satu eksperimen panel tunggal lokal dibuat dengan dua kelompok dokumen tetap terpisah; status **Thumbnail ilustratif — menunggu review kreator**.
+- Percobaan pertama yang menggabungkan kedua kelompok dalam satu tabel dan menetapkan penampilan karakter ditolak; tidak dihitung sebagai aset.
+- Panel 10.1 dan 10.2 kini masing-masing memiliki satu eksperimen lokal; keduanya belum diterima dan belum menjadi binary repository assets.
+- Panel 10.3–10.5 belum memiliki eksperimen visual valid.
+- Total eksperimen panel/halaman lokal yang tercatat: enam eksperimen halaman Scene 7–9 ditambah dua eksperimen panel Scene 10.1–10.2 = delapan. Ini bukan delapan halaman selesai.
+- Binary PNG repository: 0. Thumbnail diterima: 0. Ilustrasi final: 0.
+
+**Dampak CANON: tidak ada.**
