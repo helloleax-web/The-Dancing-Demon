@@ -338,3 +338,12 @@ Dua output medium-group lokal dibuat:
 - `a_detailed_cinematic_anime_style_illustration_of.png` (1024 × 1280): tiga figur dan dokumen, tetapi crop lebih dekat dan detail karakter tetap terlalu spesifik.
 
 Keduanya NON-CANON, bukan thumbnail diterima. Tidak ada visual jubah, pemakai, luka, perisai, atau efek. Peran Daren/Tavian/Seraphine tidak dapat dipastikan dari desain generatif. Total eksperimen lokal menjadi 15 (6 halaman Scene 7–9 + 9 panel Scene 10). Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
+
+
+
+## Eksperimen Panel 10.4 — 2026-11-28
+
+- Output lokal: `a_detailed_illustration_scene_a_warm_sepia_toned.png` (1536 × 1024).
+- Komposisi medium two-shot memperlihatkan dua figur berdiskusi, tabel kosong sebagai konteks, dan gestur percakapan. Tidak ada angka, ikon HP/MP, visual regenerasi, atau diagram kemampuan.
+- Wajah, rambut, kostum, dan ruang hasil generasi terlalu spesifik dan belum disahkan; output hanya studi komposisi NON-CANON, bukan thumbnail final.
+- Total eksperimen lokal menjadi 16 (6 halaman Scene 7–9 + 10 panel Scene 10). Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
