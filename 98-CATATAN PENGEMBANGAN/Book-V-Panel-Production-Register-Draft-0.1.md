@@ -9,8 +9,8 @@
 
 - Total scene: **22**.
 - Total panel pada storyboard teks: **128**.
-- Panel dengan referensi blocking/layout awal yang sudah tercatat: **114**.
-- Panel yang belum memiliki blocking awal tercatat: **14**.
+- Panel dengan referensi blocking/layout awal yang sudah tercatat: **128**.
+- Panel yang belum memiliki blocking awal tercatat: **0**.
 - Thumbnail ilustratif yang diterima: **0**.
 - Ilustrasi final: **0**.
 
@@ -38,10 +38,10 @@
 | 16 | Kesaksian Bukan Dokumen | 5 | 5 | 0 | Blocking awal 16.1–16.5 terdokumentasi; menunggu review dan sinkronisasi. |
 | 17 | Apa yang Bisa Dikatakan | 5 | 5 | 0 | Blocking awal 17.1–17.5 terdokumentasi; menunggu review dan sinkronisasi. |
 | 18 | Penolakan | 6 | 6 | 0 | Blocking awal 18.1–18.6 terdokumentasi; menunggu review dan sinkronisasi. |
-| 19 | Laporan Terbatas | 5 | 2 | 3 | Panel 19.1–19.2 memiliki blocking awal; 19.3–19.5 belum dibuat. |
-| 20 | Sejarah yang Berbeda | 6 | 2 | 4 | Panel 20.1–20.2 memiliki blocking awal; 20.3–20.6 belum dibuat. |
-| 21 | Hal yang Tidak Terjawab | 4 | 2 | 2 | Panel 21.1–21.2 memiliki blocking awal; 21.3–21.4 belum dibuat. |
-| 22 | Dunia Setelah Perang | 7 | 2 | 5 | Panel 22.1–22.2 memiliki blocking awal; 22.3–22.7 belum dibuat. |
+| 19 | Laporan Terbatas | 5 | 5 | 0 | Blocking awal 19.1–19.5 terdokumentasi; menunggu review dan sinkronisasi. |
+| 20 | Sejarah yang Berbeda | 6 | 6 | 0 | Blocking awal 20.1–20.6 terdokumentasi; menunggu review dan sinkronisasi. |
+| 21 | Hal yang Tidak Terjawab | 4 | 4 | 0 | Blocking awal 21.1–21.4 terdokumentasi; menunggu review dan sinkronisasi. |
+| 22 | Dunia Setelah Perang | 7 | 7 | 0 | Blocking awal 22.1–22.7 terdokumentasi; menunggu review dan sinkronisasi. |
 
 ## 3. Status per bab
 
@@ -51,8 +51,8 @@
 | Bab 2 — Musik Tanpa Nama | 5–8 | 26 | 26 | Blocking awal seluruh panel terdokumentasi; menunggu review. |
 | Bab 3 — Resonansi Hitam | 9–13 | 26 | 26 | Blocking awal seluruh panel terdokumentasi; menunggu review. |
 | Bab 4 — Sejarah yang Diperebutkan | 14–18 | 27 | 27 | Blocking awal seluruh panel terdokumentasi; menunggu review. |
-| Bab 5 — Perang yang Tertinggal | 19–22 | 22 | 8 | Studi awal parsial; perlu dilengkapi dan diselaraskan dengan storyboard terbaru. |
-| **Total** | **1–22** | **128** | **114** | **Belum ada thumbnail ilustratif atau ilustrasi final yang diterima.** |
+| Bab 5 — Perang yang Tertinggal | 19–22 | 22 | 22 | Blocking awal seluruh panel terdokumentasi; menunggu review. |
+| **Total** | **1–22** | **128** | **128** | **Belum ada thumbnail ilustratif atau ilustrasi final yang diterima.** |
 
 ## 4. Status kerja yang digunakan
 
@@ -134,3 +134,18 @@ Jumlah tambahan: 17 panel. Bab 4 kini memiliki referensi blocking awal untuk sel
 Paket visual lokal: `LEAX_BookV_Chapter04_MissingBlocking_Panels.zip` dan contact sheet `LEAX_BookV_Chapter04_MissingBlocking_ContactSheet.png`.
 
 **Status:** blocking awal Bab 4 lengkap secara cakupan; review penerimaan belum dilakukan. NON-CANON.
+
+
+## 10. Pembaruan blocking Bab 5 — 2026-11-28
+
+Panel yang sebelumnya belum memiliki blocking awal kini dibuat dan didokumentasikan:
+- Scene 19: Panels 19.3–19.5.
+- Scene 20: Panels 20.3–20.6.
+- Scene 21: Panels 21.3–21.4.
+- Scene 22: Panels 22.3–22.7.
+
+Jumlah tambahan: 14 panel. Bab 5 kini memiliki referensi blocking awal untuk seluruh 22 panel. Dengan ini, seluruh 128 panel storyboard Book V memiliki referensi blocking/layout awal. Ini belum berarti panel diterima; seluruhnya tetap harus diperiksa terhadap storyboard dan Visual Continuity Audit.
+
+Paket visual lokal: `LEAX_BookV_Chapter05_MissingBlocking_Panels.zip` dan contact sheet `LEAX_BookV_Chapter05_MissingBlocking_ContactSheet.png`.
+
+**Status:** cakupan blocking awal seluruh Book V lengkap; review penerimaan belum dilakukan. NON-CANON.
