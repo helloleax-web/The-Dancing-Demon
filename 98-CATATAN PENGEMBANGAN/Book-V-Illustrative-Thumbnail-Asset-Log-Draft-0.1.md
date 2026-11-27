@@ -250,3 +250,21 @@ Dua output PNG eksperimental untuk Page 1 (Panels 10.1–10.3) diperiksa dan dit
 - File biner belum di-commit ke repository. Status: **Thumbnail ilustratif — menunggu review kreator**, bukan diterima.
 
 **Status Scene 10:** Panel 10.1–10.3 masing-masing memiliki satu eksperimen panel tunggal lokal yang menunggu review; Panel 10.4–10.5 belum memiliki eksperimen valid. Page 1–2 belum memiliki PNG halaman lengkap. NON-CANON.
+
+
+## Scene 10 — Panel 10.4: eksperimen dan penolakan — 2026-11-28
+
+**Percobaan pertama — ditolak**
+- Output memakai dua frame bertumpuk dalam satu gambar, bukan satu komposisi medium group/insert yang jelas.
+- Tabel kerja tidak tampak sebagai konteks yang dapat diperiksa; karakter dan kostum terlalu spesifik untuk desain yang belum disahkan.
+- Tidak dihitung sebagai aset valid.
+
+**Percobaan kedua — eksperimen lokal menunggu review**
+- File lokal: `a_detailed_manga_style_illustration_a_single_pane.png`.
+- Satu komposisi medium two-shot memperlihatkan Kael dan Ilyra dalam percakapan di meja kerja.
+- Tabel kerja tampak di meja dengan satu bagian kosong; gestur Ilyra mengarah ke area tersebut, bukan ke diagram efek.
+- Tidak ada angka, durasi, ukuran, batas, simulasi, visual regenerasi, jubah, pemakai, luka, perisai, aura, atau energi.
+- Tulisan berupa placeholder tak terbaca. Penampilan karakter, kostum, dan ruang tetap eksperimen NON-CANON, bukan desain yang disahkan.
+- File biner belum di-commit ke repository. Status: **Thumbnail ilustratif — menunggu review kreator**, bukan diterima.
+
+**Status Scene 10:** Panel 10.1–10.4 masing-masing memiliki satu eksperimen panel tunggal lokal yang menunggu review; Panel 10.5 belum memiliki eksperimen valid. Page 1–2 belum memiliki PNG halaman lengkap. NON-CANON.
