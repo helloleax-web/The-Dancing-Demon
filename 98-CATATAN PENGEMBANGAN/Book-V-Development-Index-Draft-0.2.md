@@ -186,3 +186,13 @@
 - Laporan review: `Book-V-Scene-10-Thumbnail-Review-Draft-0.1.md`.
 - Eksperimen lokal tetap 11 total; binary PNG repository 0; thumbnail diterima 0; ilustrasi final 0.
 - Tidak ada perubahan CANON.
+
+
+
+### Koreksi alignment Scene 10 — 2026-11-28
+
+- Manuskrip Chapter 3 Revision Draft 0.4 menjadi acuan utama untuk Panel 10.1–10.2.
+- Panel 10.1: tiga kolom tabel (istilah asli, terjemahan kerja, konteks kalimat); dua efek CANON dari Scene 9 bukan pengganti struktur tabel.
+- Panel 10.2: Tavian menunjukkan pilihan istilah, Seraphine memeriksa setiap baris, Ilyra memeriksa kalimat lengkap. Tidak ada konflik karakter.
+- Brief Page 1, blocking Panel 10.1–10.2, execution sheet, dan laporan review telah diselaraskan.
+- Tidak ada panel yang diterima otomatis; eksperimen tetap menunggu revisi/review kreator. Tidak ada perubahan CANON.
