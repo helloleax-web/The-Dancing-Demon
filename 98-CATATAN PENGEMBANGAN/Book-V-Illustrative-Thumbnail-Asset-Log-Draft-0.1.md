@@ -318,3 +318,13 @@ Dua output PNG eksperimental untuk Page 1 (Panels 10.1–10.3) diperiksa dan dit
 - Panel 10.4 two-shot dengan tabel dapat dipertahankan sebagai draft struktur; desain karakter belum disahkan.
 - Panel 10.5 flat lay dua area dokumen belum memperlihatkan aksi pemindahan kutipan asli ke lampiran dengan jelas; revisi.
 - Tidak ada thumbnail final yang diterima. Jumlah eksperimen lokal tetap 11; binary PNG repository 0.
+
+
+
+## Eksperimen tambahan Panel 10.2 — 2026-11-28
+
+- Satu percobaan awal close-up meja dibuat dan tidak dipilih sebagai kandidat utama karena komposisinya lebih padat.
+- Satu output revisi dibuat: `/mnt/data/wide_close_up_cinematic_illustration_style_scene.png` (1536 × 1024). Komposisi close-up memperlihatkan tabel tiga kolom, tangan menunjuk istilah, tangan menelusuri baris, dan tangan memeriksa dokumen lengkap.
+- Output revisi dinilai **kandidat blocking**, bukan thumbnail diterima. Identitas tangan tidak dapat dipastikan; pseudo-handwriting hanya placeholder visual.
+- Tidak ada jubah, pemakai, efek, mekanisme, atau hubungan NVR AGAIN/Resonansi Hitam yang divisualisasikan.
+- Total eksperimen lokal: 13 (6 halaman Scene 7–9 + 7 panel Scene 10). Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
