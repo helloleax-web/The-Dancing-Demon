@@ -11,7 +11,7 @@
 - Total panel pada storyboard teks: **128**.
 - Panel dengan referensi blocking/layout awal yang sudah tercatat: **128**.
 - Panel yang belum memiliki blocking awal tercatat: **0**.
-- Catatan/brief halaman thumbnail terdokumentasi untuk seluruh Scene 5–22; aset PNG halaman untuk pembaruan Scene 7–22 belum dibuat atau di-commit dalam sesi ini.
+- Catatan/brief halaman thumbnail terdokumentasi untuk seluruh Scene 5–22. Satu PNG uji Scene 7 Page 1 telah dibuat secara lokal; PNG halaman belum masuk repository sebagai binary assets.
 - Thumbnail ilustratif Scene 1 yang tercatat pada riwayat lama tetap menunggu review kreator.
 - Ilustrasi final: **0**.
 
@@ -431,3 +431,16 @@ Paket visual lokal: `LEAX_BookV_Chapter05_MissingBlocking_Panels.zip` dan contac
 - Ketiga dokumen merupakan brief NON-CANON; PNG belum dibuat atau di-commit. Fenomena tidak diidentifikasi, tidak dihubungkan dengan Abstract Existence, dan tidak diberi sebab.
 
 **Status:** brief tiga halaman Scene 22 terdokumentasi; PNG belum dibuat; belum diterima kreator.
+
+
+## 40. Ilustrasi PNG uji — Scene 7, Page 1 — 2026-11-28
+
+- Aset lokal: `LEAX_BookV_Scene07_Page01_IllustrativeThumbnail_Draft01.png`.
+- Ukuran file: 1122 × 1402 px; rasio mendekati portrait 4:5.
+- Cakupan: Panels 7.1–7.2, perbandingan sumber sejarah dan salinan pembacaan Prasasti.
+- NVR AGAIN hanya terlihat pada salinan pembacaan Prasasti; tidak dipindahkan ke sumber sejarah awal.
+- Gaya gambar merupakan uji semi-flat editorial bernuansa arsip; belum menjadi persetujuan rendering final.
+- Aset dibuat lokal pada sesi ini, tetapi belum di-commit sebagai binary GitHub asset. Dokumen page brief telah diperbarui untuk mencatat statusnya.
+- Status review kreator: belum diterima. NON-CANON.
+
+**Status:** satu PNG uji tersedia lokal; binary belum masuk repository; belum diterima kreator.
