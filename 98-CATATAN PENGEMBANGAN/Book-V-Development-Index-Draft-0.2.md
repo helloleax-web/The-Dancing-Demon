@@ -38,6 +38,7 @@
 - [Chapter 1 Visual Continuity Review](Book-V-Chapter-01-Visual-Continuity-Review-Draft-0.1.md) — kontinuitas properti, ruang, waktu, dan kamera.
 - [Production Design Specification — Bab 1](Book-V-Production-Design-Specification-Chapter-01-Draft-0.1.md) — spesifikasi produksi awal Bab 1.
 - [Global Production Design Specification — Draft 0.1](Book-V-Global-Production-Design-Specification-Draft-0.1.md) — pedoman produksi lintas lima bab, semua keputusan final tetap terbuka.
+- [Illustrative Thumbnail Asset Log — Draft 0.1](Book-V-Illustrative-Thumbnail-Asset-Log-Draft-0.1.md) — pencatatan PNG eksperimen, status review, dan percobaan visual yang ditolak.
 - [Visual Continuity Audit — Draft 0.1](Book-V-Visual-Continuity-Audit-Draft-0.1.md) — audit lintas 22 scene / 128 panel.
 - [Panel Production Register — Draft 0.1](Book-V-Panel-Production-Register-Draft-0.1.md) — register status 128 panel; pembaruan thumbnail Scene 5–6 perlu disinkronkan.
 - [Chapter 2 Blocking Review — Draft 0.1](Book-V-Chapter-02-Blocking-Review-Draft-0.1.md) — review dan alignment 26 panel Bab 2.
@@ -117,7 +118,7 @@
 - Audit kontinuitas visual lintas lima bab selesai pada tingkat dokumen. Register menunjukkan 128 panel memiliki blocking awal dan seluruhnya telah lolos review blocking komposisi kasar setelah 28 koreksi alignment.
 - Brief halaman thumbnail Scene 5–8 masing-masing mencakup seluruh panel scene dalam tiga halaman per scene. Semua masih draft NON-CANON dan menunggu review.
 - Repository memiliki 59 dokumen halaman thumbnail untuk seluruh 22 scene. Dokumen tersebut adalah brief/catatan produksi, bukan bukti bahwa seluruh PNG sudah dibuat atau diterima.
-- PNG halaman belum tersimpan sebagai binary repository assets. Satu ilustrasi uji Scene 7 Page 1 dibuat di sesi ini, tetapi belum masuk repository.
+- PNG halaman belum tersimpan sebagai binary repository assets. Eksperimen lokal Scene 7 Page 1 dan Page 2 telah dibuat; Page 3 masih memerlukan generasi ulang karena percobaan sebelumnya menyimpang dari brief. Rincian ada di Illustrative Thumbnail Asset Log.
 - Tidak ada aset visual yang mengesahkan detail NON-CANON menjadi CANON.
 
 ## Tahap produksi berikutnya
