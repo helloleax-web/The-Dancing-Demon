@@ -1,28 +1,23 @@
-# Book V — Scene 09, Panel 9.1
-## Thumbnail / Manual Blocking Draft 0.1
+# Book V — Scene 9, Panel 9.1
+## Thumbnail / Manual Blocking Draft 0.1 — Alignment Revision
 
 **Status:** NON-CANON  
-**Jenis:** Archival insert / collection discovery  
-**Fungsi:** Memperkenalkan penemuan catatan tentang jubah mana hitam dalam koleksi yang berbeda dari bahan penyelidikan musik.
+**Jenis:** Manual blocking / storyboard alignment  
+**Fungsi:** Ruang pemeriksaan koleksi.
 
 ### Komposisi
-- Bidang utama memperlihatkan map atau wadah arsip dari koleksi berbeda.
-- Satu lembar katalog atau catatan diletakkan terbuka di atas map.
-- Judul yang terbaca hanya **Catatan tentang Jubah Mana Hitam**.
-- Lembar lain boleh tampak sebagai bahan koleksi, tetapi isinya tidak terbaca dan tidak diberi identitas tambahan.
-- Fokus panel adalah perpindahan penyelidikan ke koleksi berbeda, bukan penjelasan tentang jubah.
+Wide interior. Ruang pemeriksaan sibuk oleh suara kertas dan langkah petugas. Beberapa meja perlu dikosongkan untuk pemindahan dokumen rapuh; Neral memberi waktu terbatas untuk memeriksa tiga nomor koleksi.
 
 ### Batas visual dan informasi
-- Jangan menampilkan nama, jumlah, identitas, atau ciri sekutu LEAX.
-- Jangan menambahkan tanggal, lokasi, pembuat, pemilik, perolehan, distribusi, atau asal jubah.
-- Jangan menggambarkan jubah, pemakainya, atau efek visual jubah pada panel penemuan ini.
-- Jangan menjelaskan mekanisme pertahanan atau regenerasi HP/MP.
-- Jangan menghubungkan jubah dengan NVR AGAIN atau menyimpulkan hubungan sebab-akibat dengan Resonansi Hitam.
-- Jangan menetapkan bahwa seluruh dokumen dalam map berasal dari satu sumber atau satu periode.
-- Tidak ada dialog atau desain final karakter/lokasi yang ditetapkan.
+- Jangan memperkenalkan isi dokumen atau menjadikan panel ini langsung menampilkan jubah.
+- Karakter tetap placeholder; tidak ada wajah, rambut, kostum, proporsi, atau aksesori final.
+- Dokumen yang tidak memiliki isi eksplisit dalam manuskrip tetap berupa placeholder tak terbaca.
+- Tidak menambahkan dialog, fakta sejarah, tanggal, lokasi, identitas, atau hubungan lore.
 
 ### Relasi kontinuitas
-Scene 9 beralih dari penyelidikan musik pada Scene 5–8 ke koleksi berbeda yang memuat catatan jubah mana hitam. Hubungan jubah dengan sekutu LEAX dan deskripsi efeknya akan dicatat hanya sejauh didukung outline dan CANON, tanpa menambah rincian perolehan atau mekanisme.
+Panel ini diselaraskan dengan Visual Storyboard Bab 3 Revision 0.1. Revisi mengganti fungsi blocking lama agar nomor panel mengikuti urutan storyboard terbaru.
 
 ### Status kanon
-Seluruh blocking dan detail visual merupakan bahan produksi NON-CANON. Tidak mengubah atau menambah CANON.
+Blocking dan tata letak adalah bahan produksi NON-CANON. Tidak ada perubahan pada manuskrip atau fakta CANON.
+
+**Dampak CANON: tidak ada.**
