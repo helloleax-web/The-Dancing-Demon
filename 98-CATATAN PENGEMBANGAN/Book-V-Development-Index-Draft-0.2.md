@@ -168,3 +168,4 @@
 - Enam eksperimen halaman Scene 7–9 ditambah empat eksperimen panel Scene 10.1–10.4 = sepuluh eksperimen lokal; bukan sepuluh halaman.
 - Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
 - Tidak ada perubahan CANON.
+\n\n### Pembaruan produksi visual — 2026-11-28\n\n- Scene 10 Panel 10.5: dua output generasi ditolak; tidak dihitung sebagai aset. Panel 10.5 belum memiliki eksperimen valid.\n- Panel 10.1–10.4 masing-masing memiliki satu eksperimen PNG panel tunggal lokal yang menunggu review kreator.\n- Enam eksperimen halaman Scene 7–9 ditambah empat eksperimen panel Scene 10.1–10.4 = sepuluh eksperimen lokal; bukan sepuluh halaman.\n- Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.\n- Tidak ada perubahan CANON.\n
