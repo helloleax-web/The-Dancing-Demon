@@ -232,3 +232,11 @@
 - Satu studi medium two-shot dibuat: dua figur berdiskusi dengan tabel kosong di meja. Tidak ada simbol/game UI atau visual regenerasi.
 - Output belum thumbnail final karena desain karakter/lokasi generatif belum disahkan; hanya komposisi dan gestur yang bisa dipelajari.
 - Total eksperimen lokal: 16 (6 halaman Scene 7–9 + 10 panel Scene 10). Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
+
+
+
+### Eksperimen Panel 10.5 — 2026-11-28
+
+- Satu eksperimen flat lay top-down tanpa karakter tersedia. Dokumen/lampiran dan terjemahan kerja dipisahkan secara visual, dengan dua potongan konteks di ruang tengah tanpa simbol status.
+- Status: kandidat blocking, belum thumbnail final; pseudo-handwriting hanya placeholder dan tidak boleh dianggap teks sumber.
+- Total eksperimen lokal: 17 (6 halaman Scene 7–9 + 11 panel Scene 10). Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
