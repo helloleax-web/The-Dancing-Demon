@@ -695,3 +695,12 @@
 - The categories are kept distinct without inventing quotations, testimony details, dates, locations, source counts, or a hierarchy of truth.
 - Manual study image was created in the work session and is not stored as a binary asset in the repository.
 - All materials remain NON-CANON; CANON impact: none.
+
+
+### Scene 7 — Panel 7.1 thumbnail
+
+- [Book V Scene 7, Panel 7.1 — Thumbnail Draft 0.1](Book-V-Scene-07-Panel-7-1-Thumbnail-Draft-0.1.md) — manual medium top-down blocking study.
+- Begins a comparison between the unnamed music/sound note and the existing Prasasti reading; NVR AGAIN appears only on the Prasasti material.
+- The records remain distinct; no invented quotations, music details, dates, locations, author identity, or conclusion of identity is added.
+- Manual study image was created in the work session and is not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
