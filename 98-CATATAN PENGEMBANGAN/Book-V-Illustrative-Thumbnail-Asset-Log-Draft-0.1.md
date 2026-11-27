@@ -66,3 +66,14 @@ Keputusan produksi: hentikan generasi Page 3 otomatis untuk sementara. Lanjutkan
 - Status: **Thumbnail ilustratif — menunggu review kreator**, bukan diterima.
 
 **Dampak CANON: tidak ada.**
+
+
+## Scene 8 — percobaan Page 2 ditolak — 2026-11-28
+
+- Page 2 mencakup Panels 8.3–8.4: percakapan tenang tentang perbedaan hubungan yang direkonstruksi dan asal-usul yang belum diketahui, lalu lembar ringkasan yang memisahkan hal yang didukung sumber dari UNKNOWN.
+- Beberapa percobaan visual yang dihasilkan tidak sesuai brief: mengulang nomor/panel Scene 7, menambahkan reruntuhan, simbol, peta, atau hubungan visual yang tidak didukung.
+- Seluruh percobaan tersebut ditolak dan tidak dihitung sebagai thumbnail Scene 8.
+- Tidak ada PNG Page 2 yang valid dibuat. Jangan gunakan gambar-gambar yang salah arah sebagai acuan atau CANON.
+- Keputusan: hentikan generasi otomatis untuk halaman ini sampai alur visual dapat diarahkan dengan akurat. Brief tertulis tetap menjadi acuan produksi.
+
+**Status Scene 8:** Page 1 memiliki satu PNG lokal menunggu review; Page 2 dan Page 3 belum memiliki PNG yang valid. Tidak ada aset yang diterima.
