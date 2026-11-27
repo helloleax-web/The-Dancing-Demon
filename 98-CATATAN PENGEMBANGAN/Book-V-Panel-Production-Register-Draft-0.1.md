@@ -457,3 +457,16 @@ Paket visual lokal: `LEAX_BookV_Chapter05_MissingBlocking_Panels.zip` dan contac
 Rincian: [Illustrative Thumbnail Asset Log — Draft 0.1](Book-V-Illustrative-Thumbnail-Asset-Log-Draft-0.1.md).
 
 **Status:** Page 1 dan Page 2 memiliki PNG eksperimen lokal; Page 3 perlu dibuat ulang. Seluruhnya NON-CANON dan menunggu review.
+
+
+## 42. Eksperimen thumbnail ilustratif — Scene 8 Page 1 — 2026-11-28
+
+- PNG lokal: `LEAX_BookV_Scene08_Page01_IllustrativeThumbnail_Draft01.png`, 1122 × 1402 px.
+- Cakupan: Panels 8.1–8.2; pencarian katalog tanpa label rekaan dan pemeriksaan salinan pembacaan Prasasti.
+- NVR AGAIN hanya terlihat pada salinan pembacaan Prasasti; asal penggunaan nama tetap tidak diketahui.
+- Tidak ada pembuat, tanggal, lokasi, atau bentuk Prasasti yang ditambahkan.
+- File biner belum masuk repository; thumbnail belum diterima kreator.
+
+Rincian: [Illustrative Thumbnail Asset Log — Draft 0.1](Book-V-Illustrative-Thumbnail-Asset-Log-Draft-0.1.md).
+
+**Status:** satu PNG eksperimen lokal untuk Scene 8 Page 1; NON-CANON; menunggu review.
