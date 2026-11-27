@@ -530,3 +530,12 @@
 - No close-up or visual identity is established for Neral: gender, age appearance, face, hair, clothing, and physical traits remain open.
 - Manual study image was created in the work session and is not stored as a binary asset in the repository.
 - All materials remain NON-CANON; CANON impact: none.
+
+
+### Scene 3 — Panel 3.5 thumbnail
+
+- [Book V Scene 3, Panel 3.5 — Thumbnail Draft 0.1](Book-V-Scene-03-Panel-3-5-Thumbnail-Draft-0.1.md) — manual insert/over-shoulder blocking for the catalogue privacy moment.
+- Neral interrupts a visitor's attempt to photograph a catalogue page; the intervention is calm and does not frame Neral as an antagonist.
+- Catalogue structure may imply contributor and private-address fields, but no names, addresses, identifying details, or invented catalogue content are legible.
+- Manual study image was created in the work session and is not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
