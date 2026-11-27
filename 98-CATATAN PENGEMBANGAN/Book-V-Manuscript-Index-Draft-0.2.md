@@ -476,3 +476,12 @@
 - No iconic skyline, landmark, architectural style, signage, or city geography is established. All location details remain NON-CANON.
 - Manual study image was created in the work session and is not stored as a binary asset in the repository.
 - All materials remain NON-CANON; CANON impact: none.
+
+
+### Scene 2 — Panel 2.6 thumbnail
+
+- [Book V Scene 2, Panel 2.6 — Thumbnail Draft 0.1](Book-V-Scene-02-Panel-2-6-Thumbnail-Draft-0.1.md) — manual medium-wide blocking for the inn arrival.
+- The innkeeper indicates the room; Kael checks expenses; Tavian calculates investigation costs; Seraphine stores the receipt. Four actions remain visually distinct.
+- No amount, currency, receipt content, room design, or final character/location design is established.
+- Manual study image was created in the work session and is not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
