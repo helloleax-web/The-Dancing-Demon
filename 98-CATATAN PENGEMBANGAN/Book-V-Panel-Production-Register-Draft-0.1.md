@@ -470,3 +470,13 @@ Rincian: [Illustrative Thumbnail Asset Log — Draft 0.1](Book-V-Illustrative-Th
 Rincian: [Illustrative Thumbnail Asset Log — Draft 0.1](Book-V-Illustrative-Thumbnail-Asset-Log-Draft-0.1.md).
 
 **Status:** satu PNG eksperimen lokal untuk Scene 8 Page 1; NON-CANON; menunggu review.
+
+
+## 43. Pemeriksaan percobaan thumbnail — Scene 8 Page 2 — 2026-11-28
+
+- Brief Panels 8.3–8.4 tetap valid sebagai instruksi produksi.
+- Percobaan visual yang mengulang materi Scene 7 atau menambahkan peta, reruntuhan, simbol, dan koneksi visual yang tidak didukung ditolak.
+- Tidak ada PNG Scene 8 Page 2 yang dihitung sebagai aset.
+- Jangan menggunakan percobaan yang ditolak sebagai referensi atau CANON.
+
+**Status:** Page 1 memiliki PNG lokal menunggu review; Page 2 dan Page 3 belum memiliki PNG valid. NON-CANON.
