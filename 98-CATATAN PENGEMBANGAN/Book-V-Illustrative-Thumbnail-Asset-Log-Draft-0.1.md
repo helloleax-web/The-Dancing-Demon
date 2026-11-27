@@ -169,3 +169,14 @@ Output yang dihasilkan setelah brief Scene 10 Page 1 dibuka ternyata masih mengu
 - Scene 10 Page 1 dan Page 2 tetap belum memiliki PNG valid.
 
 **Keputusan:** jangan memindahkan gambar Scene 9 ke Scene 10 hanya untuk menambah jumlah aset.
+
+
+## Scene 10 — percobaan salah target kedua — 2026-11-28
+
+Output berikutnya masih menampilkan label panel 9.5–9.6 dan materi perbandingan sumber dari Scene 9, bukan urutan Scene 10 Page 1 (10.1–10.3). Walaupun memuat tabel istilah pertahanan/regenerasi, penomoran dan struktur halaman tidak cocok dengan brief. Output ditolak dan tidak dihitung sebagai aset Scene 10.
+
+- Tidak ada file PNG Scene 10 yang valid.
+- Jangan mengganti label panel secara manual untuk menyamarkan salah target.
+- Scene 10 Page 1–2 tetap menunggu generasi yang benar-benar sesuai brief.
+
+**Status Scene 10:** 0 PNG valid.
