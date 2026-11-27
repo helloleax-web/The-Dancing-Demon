@@ -722,3 +722,12 @@
 - No creator, distributor, mechanism, purpose, origin, specific chronology, music details, or source identity is invented.
 - Manual study image was created in the work session and is not stored as a binary asset in the repository.
 - All materials remain NON-CANON; CANON impact: none.
+
+
+### Scene 8 — Panel 8.1 thumbnail
+
+- [Book V Scene 8, Panel 8.1 — Thumbnail Draft 0.1](Book-V-Scene-08-Panel-8-1-Thumbnail-Draft-0.1.md) — manual top-down research-worksheet blocking study.
+- Begins the inquiry into who first used the name NVR AGAIN, while keeping first use, creator, distributor, and mechanism as separate unanswered questions.
+- No names, organizations, locations, dates, quotations, mechanisms, or origin theories are invented.
+- Manual study image was created in the work session and is not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
