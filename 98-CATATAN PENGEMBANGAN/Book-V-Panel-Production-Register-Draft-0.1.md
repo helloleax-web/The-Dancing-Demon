@@ -149,3 +149,10 @@ Jumlah tambahan: 14 panel. Bab 5 kini memiliki referensi blocking awal untuk sel
 Paket visual lokal: `LEAX_BookV_Chapter05_MissingBlocking_Panels.zip` dan contact sheet `LEAX_BookV_Chapter05_MissingBlocking_ContactSheet.png`.
 
 **Status:** cakupan blocking awal seluruh Book V lengkap; review penerimaan belum dilakukan. NON-CANON.
+
+
+## 11. Blocking review Bab 2 — 2026-11-28
+
+- [Chapter 2 Blocking Review — Draft 0.1](Book-V-Chapter-02-Blocking-Review-Draft-0.1.md) — seluruh 26 panel diperiksa terhadap storyboard.
+- Hasil: 26/26 diterima sebagai blocking komposisi kasar setelah tujuh alignment corrections (5.4, 6.2, 7.2, 7.3, 8.1–8.3).
+- Penerimaan ini bukan penerimaan thumbnail ilustratif atau ilustrasi final.
