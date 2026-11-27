@@ -93,3 +93,16 @@
 **Aturan keputusan:** jika salah satu butir kritis gagal, output ditolak dan tidak dihitung sebagai aset Scene 10.
 
 **Dampak CANON: tidak ada.**
+
+
+## Catatan eksekusi — 2026-11-28
+
+Dua percobaan generasi halaman gabungan untuk Page 1 ditolak karena fungsi panel tertukar, simbol visual tidak didukung, dan satu panel hilang. Untuk menghindari pengulangan kesalahan:
+
+1. Jangan menghasilkan seluruh halaman 10.1–10.3 dalam satu prompt.
+2. Siapkan blocking panel tunggal terlebih dahulu, dimulai dari Panel 10.1 sebagai top-down table murni.
+3. Periksa blocking terhadap storyboard sebelum membuat render.
+4. Lanjutkan Panel 10.2 dan 10.3 secara terpisah hanya setelah struktur panel sebelumnya sesuai.
+5. Jangan gunakan simbol perisai, lingkaran panah, atau ikon efek sebagai pengganti teks sumber.
+
+**Status:** execution sheet tetap berlaku; dua percobaan Page 1 ditolak; belum ada PNG Scene 10 yang valid.
