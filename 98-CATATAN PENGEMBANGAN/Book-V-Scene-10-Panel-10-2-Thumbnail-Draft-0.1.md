@@ -7,7 +7,10 @@
 
 ### Komposisi
 - Dua kelompok catatan diletakkan terpisah dalam satu bidang agar perbandingan terlihat, tetapi masing-masing tetap memiliki batas sumber.
-- Seraphine memeriksa istilah pada kedua kelompok catatan; gestur atau penempatan tangan menunjukkan proses pemeriksaan, bukan keputusan final.
+- Tavian menunjukkan pilihan istilah yang lebih dekat dengan ketahanan dan pilihan kata penyalin untuk pemulihan.
+- Seraphine memeriksa setiap baris tabel.
+- Ilyra memeriksa kalimat lengkap dan konteks istilah; ia tidak menyimpulkan mekanisme.
+- Ketiga aksi dapat disusun dalam satu panel selama tetap terbaca sebagai satu proses pemeriksaan, bukan kesimpulan final.
 - Isi spesifik catatan tidak perlu terbaca. Tidak ada label kesimpulan seperti "sama" atau "berbeda".
 - Panel mempertahankan dua kategori pembahasan dari Panel 10.1 tanpa menetapkan pemetaan efek ke sumber tertentu.
 
@@ -21,7 +24,10 @@
 - Tidak ada dialog atau desain final karakter/lokasi yang ditetapkan.
 
 ### Relasi kontinuitas
-Panel 10.1 memulai perbandingan beberapa catatan oleh Tavian. Panel 10.2 memusatkan pemeriksaan kesepadanan istilah oleh Seraphine. Hasilnya belum diputuskan; deskripsi efek tetap dibedakan dari penjelasan mekanisme yang akan dicatat Ilyra.
+Panel 10.1 memulai perbandingan beberapa catatan oleh Tavian. Panel 10.2 memperlihatkan rangkaian pemeriksaan istilah sesuai manuskrip: Tavian menunjukkan pilihan kata, Seraphine memeriksa baris, dan Ilyra membaca kalimat lengkap. Hasilnya belum diputuskan; deskripsi efek tetap dibedakan dari mekanisme.
+
+### Alignment note — 2026-11-28
+Urutan aksi ini mengikuti manuskrip Chapter 3 Revision Draft 0.4. Penempatan karakter dalam frame tetap blocking NON-CANON dan tidak menetapkan desain final.
 
 ### Status kanon
 Seluruh blocking, tata letak, dan detail visual merupakan bahan produksi NON-CANON. Tidak mengubah atau menambah CANON.
