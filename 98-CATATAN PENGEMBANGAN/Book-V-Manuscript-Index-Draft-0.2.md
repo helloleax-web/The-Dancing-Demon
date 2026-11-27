@@ -1105,3 +1105,9 @@ Kedua review tidak menyetujui thumbnail ilustratif atau ilustrasi final. Seluruh
 - [Book V Global Production Design Specification — Draft 0.1](Book-V-Global-Production-Design-Specification-Draft-0.1.md) — panduan lintas lima bab untuk rendering kandidat, kamera/layout, kontinuitas karakter/lokasi, dokumen, batas lore, dan penerimaan thumbnail.
 - [Page Ratio & Panel Layout Test — Draft 0.1](Book-V-Page-Ratio-and-Panel-Layout-Test-Draft-0.1.md) diperbarui dengan tes empat panel Scene 5 pada 4:5 dan 2:3. Kedua rasio tetap terbuka.
 - Semi-Flat Editorial dan 4:5 tetap kandidat, bukan keputusan final.
+
+
+## Thumbnail ilustratif pertama — Scene 1 Page 1
+
+- [Scene 1 Page 1 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-01-Page-01-Illustrative-Thumbnail-Draft-0.1.md) — halaman uji untuk Panels 1.1–1.3; Semi-Flat Editorial dan 4:5 masih konfigurasi sementara.
+- File PNG tersedia secara lokal pada sesi kerja; belum menjadi binary repository asset. Thumbnail menunggu review kreator dan tidak mengunci desain karakter/lokasi.
