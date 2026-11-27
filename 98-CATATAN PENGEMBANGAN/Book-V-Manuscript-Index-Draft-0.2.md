@@ -704,3 +704,12 @@
 - The records remain distinct; no invented quotations, music details, dates, locations, author identity, or conclusion of identity is added.
 - Manual study image was created in the work session and is not stored as a binary asset in the repository.
 - All materials remain NON-CANON; CANON impact: none.
+
+
+### Scene 7 — Panel 7.2 thumbnail
+
+- [Book V Scene 7, Panel 7.2 — Thumbnail Draft 0.1](Book-V-Scene-07-Panel-7-2-Thumbnail-Draft-0.1.md) — manual top-down comparison blocking study.
+- Shows Ilyra comparing the two source records only through the outline's stated categories: time patterns and general descriptions.
+- No invented values, dates, duration, matching marks, music details, source identity, or final conclusion is added; NVR AGAIN remains only on the Prasasti reading.
+- Manual study image was created in the work session and is not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
