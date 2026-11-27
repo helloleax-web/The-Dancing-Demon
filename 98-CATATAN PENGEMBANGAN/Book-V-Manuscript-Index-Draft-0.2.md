@@ -784,3 +784,12 @@
 - No terminology, source identities, quotations, dates, locations, source relationships, effect details, or mechanisms are invented.
 - Manual study image was created in the work session and is not stored as a binary asset in the repository.
 - All materials remain NON-CANON; CANON impact: none.
+
+
+### Scene 10 — Panel 10.3 thumbnail
+
+- [Book V Scene 10, Panel 10.3 — Thumbnail Draft 0.1](Book-V-Scene-10-Panel-10-3-Thumbnail-Draft-0.1.md) — manual research-note insert separating descriptions of effects from explanations of mechanism.
+- Records that the sources describe effects but do not explain how the cloak works; absence of an explanation is not treated as proof that no mechanism exists.
+- No technical theory, activation process, energy source, numerical detail, source identity, or link to NVR AGAIN / an interpreted scope for Resonansi Hitam is introduced.
+- Manual study image was created in the work session and is not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
