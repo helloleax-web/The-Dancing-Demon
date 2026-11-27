@@ -40,3 +40,31 @@ Belum ada pemenang final. Untuk Scene 1, format 4:5 tampak lebih mudah menampung
 
 **Dampak CANON: tidak ada.**  
 **Status desain:** rasio halaman, ukuran cetak, format publikasi, gutter, bleed, dan tipografi final belum dikunci.
+
+
+## Uji susunan halaman — Scene 5, Panels 5.1–5.4 — Draft 0.2
+
+**Tanggal:** 2026-11-28  
+**Status:** NON-CANON / belum dikunci.  
+**Aset kerja lokal:** `LEAX_BookV_Scene05_PageRatio_LayoutTest_4x5_vs_2x3.png`.
+
+### Materi uji
+
+Kedua halaman memakai empat beat yang sama dan urutan yang sama:
+1. 5.1 — wide ruang baca yang ramai.
+2. 5.2 — medium group saat Neral menata tiga katalog.
+3. 5.3 — over-shoulder saat Neral, Seraphine, dan Ilyra membahas cara pencarian.
+4. 5.4 — top-down Tavian menyalin asal/tanggal dan menata tipe sumber terpisah.
+
+### Observasi
+
+- **4:5:** lebih kompak; halaman terasa padat namun urutan empat beat tetap mudah dibaca. Cocok sebagai kandidat untuk tampilan digital.
+- **2:3:** memberi ruang vertikal lebih besar untuk panel 5.1 dan 5.4 serta napas antaradegan. Cocok bila format ingin terasa seperti halaman komik vertikal.
+- Pada kedua rasio, dua panel medium di tengah tetap dapat dibaca berdampingan. Tidak perlu menambah panel atau mengubah urutan.
+- Uji ini memakai blok komposisi, bukan ilustrasi. Belum menguji gutter final, bleed, trim, lettering, atau ukuran cetak aktual.
+
+### Kesimpulan sementara
+
+Belum ada pemenang final. 4:5 tetap kandidat praktis untuk digital; 2:3 tetap kandidat kuat untuk ritme vertikal dan ruang baca lebih lega. Pemilihan akhir harus mempertimbangkan media publikasi dan ukuran teks.
+
+**Dampak CANON: tidak ada.**
