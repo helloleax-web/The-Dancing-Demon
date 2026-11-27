@@ -687,3 +687,11 @@
 - No region names, dates, family names, quotations, distances, asserted source count, music details, or NVR AGAIN label are invented.
 - Manual study image was created in the work session and is not stored as a binary asset in the repository.
 - All materials remain NON-CANON; CANON impact: none.
+
+
+### Scene 6 — Panel 6.3 thumbnail
+
+- [Book V Scene 6, Panel 6.3 — Thumbnail Draft 0.1](Book-V-Scene-06-Panel-6-3-Thumbnail-Draft-0.1.md) — manual top-down blocking study showing Seraphine separating direct testimony, inherited stories, and written copies.
+- The categories are kept distinct without inventing quotations, testimony details, dates, locations, source counts, or a hierarchy of truth.
+- Manual study image was created in the work session and is not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
