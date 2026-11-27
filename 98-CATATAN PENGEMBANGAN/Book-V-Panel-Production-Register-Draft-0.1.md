@@ -11,7 +11,7 @@
 - Total panel pada storyboard teks: **128**.
 - Panel dengan referensi blocking/layout awal yang sudah tercatat: **128**.
 - Panel yang belum memiliki blocking awal tercatat: **0**.
-- Catatan/brief halaman thumbnail terdokumentasi untuk Scene 5–18; aset PNG halaman untuk pembaruan Scene 7–18 belum dibuat atau di-commit dalam sesi ini.
+- Catatan/brief halaman thumbnail terdokumentasi untuk seluruh Scene 5–22; aset PNG halaman untuk pembaruan Scene 7–22 belum dibuat atau di-commit dalam sesi ini.
 - Thumbnail ilustratif Scene 1 yang tercatat pada riwayat lama tetap menunggu review kreator.
 - Ilustrasi final: **0**.
 
@@ -395,3 +395,39 @@ Paket visual lokal: `LEAX_BookV_Chapter05_MissingBlocking_Panels.zip` dan contac
 - Ketiga dokumen merupakan brief NON-CANON; PNG belum dibuat atau di-commit. Akses arsip dan identitas pemberi kesaksian tetap dibatasi.
 
 **Status:** brief tiga halaman Scene 18 terdokumentasi; PNG belum dibuat; belum diterima kreator.
+
+
+## 36. Brief halaman thumbnail — Scene 19 — 2026-11-28
+
+- [Scene 19 Page 1](Book-V-Scene-19-Page-01-Illustrative-Thumbnail-Draft-0.1.md) mencakup Panels 19.1–19.2: pemeriksaan akhir dan urutan temuan lebih dulu.
+- [Scene 19 Page 2](Book-V-Scene-19-Page-02-Illustrative-Thumbnail-Draft-0.1.md) mencakup Panels 19.3–19.4: temuan NVR AGAIN, musik Great War, jubah, Resonansi Hitam, dan fakta minimum LEAX.
+- [Scene 19 Page 3](Book-V-Scene-19-Page-03-Illustrative-Thumbnail-Draft-0.1.md) mencakup Panel 19.5: laporan yang dapat ditelusuri dan daftar pertanyaan terbuka.
+- Semua dokumen merupakan brief NON-CANON; PNG belum dibuat atau di-commit. Tidak ada fakta sejarah yang diperluas.
+
+**Status:** brief tiga halaman Scene 19 terdokumentasi; PNG belum dibuat; belum diterima kreator.
+
+## 37. Brief halaman thumbnail — Scene 20 — 2026-11-28
+
+- [Scene 20 Page 1](Book-V-Scene-20-Page-01-Illustrative-Thumbnail-Draft-0.1.md) mencakup Panels 20.1–20.2: penggunaan ringkasan publik dan pencatatan asal salinan.
+- [Scene 20 Page 2](Book-V-Scene-20-Page-02-Illustrative-Thumbnail-Draft-0.1.md) mencakup Panels 20.3–20.4: respons peneliti yang beragam dan dua kutipan dari satu rantai sumber.
+- [Scene 20 Page 3](Book-V-Scene-20-Page-03-Illustrative-Thumbnail-Draft-0.1.md) mencakup Panels 20.5–20.6: jawaban koreksi dan perlindungan dokumen terbatas.
+- Semua dokumen merupakan brief NON-CANON; PNG belum dibuat atau di-commit. Tidak ada konsensus publik yang diciptakan dan dokumen terbatas tidak dibagikan.
+
+**Status:** brief tiga halaman Scene 20 terdokumentasi; PNG belum dibuat; belum diterima kreator.
+
+## 38. Brief halaman thumbnail — Scene 21 — 2026-11-28
+
+- [Scene 21 Page 1](Book-V-Scene-21-Page-01-Illustrative-Thumbnail-Draft-0.1.md) mencakup Panels 21.1–21.2: tinjauan pertanyaan terbuka dan tidak adanya temuan baru.
+- [Scene 21 Page 2](Book-V-Scene-21-Page-02-Illustrative-Thumbnail-Draft-0.1.md) mencakup Panels 21.3–21.4: batas pemeriksaan lapangan dan klasifikasi tindak lanjut.
+- Kedua dokumen merupakan brief NON-CANON; PNG belum dibuat atau di-commit. Tidak ada lokasi, rute, atau teori baru yang ditetapkan.
+
+**Status:** brief dua halaman Scene 21 terdokumentasi; PNG belum dibuat; belum diterima kreator.
+
+## 39. Brief halaman thumbnail — Scene 22 — 2026-11-28
+
+- [Scene 22 Page 1](Book-V-Scene-22-Page-01-Illustrative-Thumbnail-Draft-0.1.md) mencakup Panels 22.1–22.2: keberangkatan dari Orlenn dan konteks masyarakat.
+- [Scene 22 Page 2](Book-V-Scene-22-Page-02-Illustrative-Thumbnail-Draft-0.1.md) mencakup Panels 22.3–22.4: penanda rute dan perjalanan.
+- [Scene 22 Page 3](Book-V-Scene-22-Page-03-Illustrative-Thumbnail-Draft-0.1.md) mencakup Panels 22.5–22.7: tempat singgah, laporan fenomena belum diverifikasi, dan penutup Book V.
+- Ketiga dokumen merupakan brief NON-CANON; PNG belum dibuat atau di-commit. Fenomena tidak diidentifikasi, tidak dihubungkan dengan Abstract Existence, dan tidak diberi sebab.
+
+**Status:** brief tiga halaman Scene 22 terdokumentasi; PNG belum dibuat; belum diterima kreator.
