@@ -8,7 +8,9 @@
 ### Komposisi
 - Beberapa lembar catatan diletakkan terpisah di atas meja sebagai bahan perbandingan.
 - Tavian membandingkan isi catatan tanpa menyatukannya menjadi satu uraian.
-- Dua kategori efek yang menjadi fokus kerja ditandai terpisah: **pertahanan** dan **regenerasi**.
+- Tabel menampilkan tiga kolom struktural: **istilah asli**, **terjemahan kerja**, dan **konteks kalimat**.
+- Beberapa catatan diletakkan terpisah untuk dibandingkan; jangan petakan efek tertentu ke sumber tertentu.
+- Pertahanan dan regenerasi adalah dua efek CANON yang telah disebut pada Scene 9, bukan judul pengganti tiga kolom tabel.
 - Isi spesifik masing-masing sumber tidak perlu ditampilkan; panel hanya memperlihatkan proses membandingkan catatan.
 
 ### Batas visual dan informasi
@@ -21,6 +23,9 @@
 
 ### Relasi kontinuitas
 Panel 9.2 memperlihatkan isi minimum katalog tentang hubungan jubah dengan sekutu LEAX serta dua efek CANON. Panel 10.1 memulai tahap perbandingan beberapa catatan sebagaimana outline Scene 10; pemeriksaan kesepadanan istilah oleh Seraphine dan pembedaan deskripsi dari mekanisme oleh Ilyra belum diselesaikan dalam panel ini.
+
+### Alignment note — 2026-11-28
+Manuskrip Chapter 3 Revision Draft 0.4 secara eksplisit menetapkan tiga kolom tabel. Isi tulisan tetap placeholder tak terbaca; jangan menciptakan istilah sumber.
 
 ### Status kanon
 Seluruh blocking, tata letak, dan detail visual merupakan bahan produksi NON-CANON. Tidak mengubah atau menambah CANON.
