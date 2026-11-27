@@ -556,3 +556,13 @@ Rincian: [Illustrative Thumbnail Asset Log — Draft 0.1](Book-V-Illustrative-Th
 - Seluruh tiga halaman Scene 9 kini memiliki PNG eksperimen lokal, tetap NON-CANON dan menunggu review.
 
 **Status:** thumbnail ilustratif lokal, menunggu review kreator.
+
+
+## 50. Penolakan percobaan visual — Scene 10 Page 1 — 2026-11-28
+
+- Dua output generasi berturut-turut mengulang nomor/struktur Scene 9 (9.5–9.6), bukan Page 1 Scene 10 (10.1–10.3).
+- Keduanya ditolak dan tidak dihitung sebagai aset Scene 10.
+- Output kedua memuat tabel istilah, tetapi tetap memakai penomoran dan struktur Scene 9; mengganti label secara manual tidak dibenarkan.
+- Scene 10 Page 1 dan Page 2 belum memiliki PNG valid.
+
+**Status:** Scene 10 menunggu generasi ulang; NON-CANON.
