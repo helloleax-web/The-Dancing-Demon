@@ -1035,3 +1035,17 @@ Dokumen baru:
 - [Panel 13.3](Book-V-Scene-13-Panel-13-3-Thumbnail-Draft-0.1.md), [13.4](Book-V-Scene-13-Panel-13-4-Thumbnail-Draft-0.1.md), [13.5](Book-V-Scene-13-Panel-13-5-Thumbnail-Draft-0.1.md), [13.6](Book-V-Scene-13-Panel-13-6-Thumbnail-Draft-0.1.md)
 
 Seluruh blocking tetap NON-CANON; manuskrip dan CANON tidak berubah.
+
+
+## Blocking awal Bab 4 — Scenes 14–18
+
+Panel 14.3–14.6, 15.3–15.5, 16.3–16.5, 17.3–17.5, dan 18.3–18.6 kini memiliki dokumen blocking awal. Seluruh 27 panel Bab 4 telah memiliki referensi blocking, tetapi belum seluruhnya direview atau diterima.
+
+Dokumen baru:
+- [Panel 14.3](Book-V-Scene-14-Panel-14-3-Thumbnail-Draft-0.1.md), [14.4](Book-V-Scene-14-Panel-14-4-Thumbnail-Draft-0.1.md), [14.5](Book-V-Scene-14-Panel-14-5-Thumbnail-Draft-0.1.md), [14.6](Book-V-Scene-14-Panel-14-6-Thumbnail-Draft-0.1.md)
+- [Panel 15.3](Book-V-Scene-15-Panel-15-3-Thumbnail-Draft-0.1.md), [15.4](Book-V-Scene-15-Panel-15-4-Thumbnail-Draft-0.1.md), [15.5](Book-V-Scene-15-Panel-15-5-Thumbnail-Draft-0.1.md)
+- [Panel 16.3](Book-V-Scene-16-Panel-16-3-Thumbnail-Draft-0.1.md), [16.4](Book-V-Scene-16-Panel-16-4-Thumbnail-Draft-0.1.md), [16.5](Book-V-Scene-16-Panel-16-5-Thumbnail-Draft-0.1.md)
+- [Panel 17.3](Book-V-Scene-17-Panel-17-3-Thumbnail-Draft-0.1.md), [17.4](Book-V-Scene-17-Panel-17-4-Thumbnail-Draft-0.1.md), [17.5](Book-V-Scene-17-Panel-17-5-Thumbnail-Draft-0.1.md)
+- [Panel 18.3](Book-V-Scene-18-Panel-18-3-Thumbnail-Draft-0.1.md), [18.4](Book-V-Scene-18-Panel-18-4-Thumbnail-Draft-0.1.md), [18.5](Book-V-Scene-18-Panel-18-5-Thumbnail-Draft-0.1.md), [18.6](Book-V-Scene-18-Panel-18-6-Thumbnail-Draft-0.1.md)
+
+Seluruh blocking tetap NON-CANON; manuskrip dan CANON tidak berubah.
