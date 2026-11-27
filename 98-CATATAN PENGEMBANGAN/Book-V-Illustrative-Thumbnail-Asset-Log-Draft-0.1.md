@@ -126,3 +126,15 @@ PNG eksperimen lokal untuk Page 1 telah dibuat; belum ada PNG valid untuk Page 2
 - File biner belum masuk repository; belum diterima kreator.
 
 **Status Scene 9:** Page 1 dan Page 2 memiliki PNG eksperimen lokal; Page 3 belum memiliki PNG valid. Seluruhnya NON-CANON dan menunggu review.
+
+
+### Scene 9 — Page 3 percobaan ditolak — 2026-11-28
+
+Percobaan visual Page 3 ditolak. Gambar menambahkan ilustrasi jubah, nomor katalog dan kategori rekaan, gambar reruntuhan, jumlah sumber, serta arahan pencarian wilayah yang tidak terdapat dalam brief. Panel juga tidak mengikuti struktur halaman dua panel yang diminta.
+
+- Tidak dihitung sebagai PNG Scene 9 Page 3.
+- Tidak boleh dipakai sebagai referensi, bukti, atau CANON.
+- Tidak ada file eksperimen yang dicatat sebagai aset valid.
+- Page 3 harus dibuat ulang dengan tiga dokumen tanpa isi rekaan, pengunjung generik tanpa identitas, dan catatan asal salinan yang hanya mencatat status belum diverifikasi.
+
+**Status Scene 9:** Page 1–2 memiliki PNG eksperimen lokal; Page 3 belum memiliki PNG valid.
