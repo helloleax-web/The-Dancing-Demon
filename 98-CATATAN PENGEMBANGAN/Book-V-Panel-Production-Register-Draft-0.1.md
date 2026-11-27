@@ -11,7 +11,7 @@
 - Total panel pada storyboard teks: **128**.
 - Panel dengan referensi blocking/layout awal yang sudah tercatat: **128**.
 - Panel yang belum memiliki blocking awal tercatat: **0**.
-- Catatan/brief halaman thumbnail terdokumentasi untuk Scene 5–13; aset PNG halaman untuk pembaruan Scene 7–13 belum dibuat atau di-commit dalam sesi ini.
+- Catatan/brief halaman thumbnail terdokumentasi untuk Scene 5–18; aset PNG halaman untuk pembaruan Scene 7–18 belum dibuat atau di-commit dalam sesi ini.
 - Thumbnail ilustratif Scene 1 yang tercatat pada riwayat lama tetap menunggu review kreator.
 - Ilustrasi final: **0**.
 
@@ -352,3 +352,46 @@ Paket visual lokal: `LEAX_BookV_Chapter05_MissingBlocking_Panels.zip` dan contac
 - Hipotesis lisan tidak digunakan sebagai dasar kesimpulan; identitas publik peneliti tetap tidak dicantumkan; mekanisme jubah tetap UNKNOWN.
 
 **Status:** brief tiga halaman Scene 13 terdokumentasi; thumbnail PNG belum dibuat; belum ada penerimaan kreator. NON-CANON.
+
+
+## 31. Brief halaman thumbnail — Scene 14 — 2026-11-28
+
+- [Scene 14 Page 1](Book-V-Scene-14-Page-01-Illustrative-Thumbnail-Draft-0.1.md) mencakup Panels 14.1–14.2: tawaran penerbit dan kronologi ringkas.
+- [Scene 14 Page 2](Book-V-Scene-14-Page-02-Illustrative-Thumbnail-Draft-0.1.md) mencakup Panels 14.3–14.4: perubahan bobot bukti dan hilangnya asal/tingkat kepastian.
+- [Scene 14 Page 3](Book-V-Scene-14-Page-03-Illustrative-Thumbnail-Draft-0.1.md) mencakup Panels 14.5–14.6: syarat penerbit dan perlindungan keluarga.
+- Ketiga dokumen merupakan brief NON-CANON; PNG belum dibuat atau di-commit. Identitas keluarga dan penerbit tidak direka.
+
+**Status:** brief tiga halaman Scene 14 terdokumentasi; PNG belum dibuat; belum diterima kreator.
+
+## 32. Brief halaman thumbnail — Scene 15 — 2026-11-28
+
+- [Scene 15 Page 1](Book-V-Scene-15-Page-01-Illustrative-Thumbnail-Draft-0.1.md) mencakup Panels 15.1–15.3: perbandingan kutipan dengan sumber asli dan penetapan prinsip koreksi konteks.
+- [Scene 15 Page 2](Book-V-Scene-15-Page-02-Illustrative-Thumbnail-Draft-0.1.md) mencakup Panels 15.4–15.5: lembar koreksi dan jejak pengiriman.
+- Kedua dokumen merupakan brief NON-CANON; PNG belum dibuat atau di-commit. Koreksi tidak dinyatakan pasti diterima penerbit.
+
+**Status:** brief dua halaman Scene 15 terdokumentasi; PNG belum dibuat; belum diterima kreator.
+
+## 33. Brief halaman thumbnail — Scene 16 — 2026-11-28
+
+- [Scene 16 Page 1](Book-V-Scene-16-Page-01-Illustrative-Thumbnail-Draft-0.1.md) mencakup Panels 16.1–16.3: nilai/batas kesaksian dan kategori sumber.
+- [Scene 16 Page 2](Book-V-Scene-16-Page-02-Illustrative-Thumbnail-Draft-0.1.md) mencakup Panels 16.4–16.5: lokasi asal versus tempat pencatatan serta prinsip pencatatan.
+- Kedua dokumen merupakan brief NON-CANON; PNG belum dibuat atau di-commit. Tidak ada silsilah atau data pribadi baru.
+
+**Status:** brief dua halaman Scene 16 terdokumentasi; PNG belum dibuat; belum diterima kreator.
+
+## 34. Brief halaman thumbnail — Scene 17 — 2026-11-28
+
+- [Scene 17 Page 1](Book-V-Scene-17-Page-01-Illustrative-Thumbnail-Draft-0.1.md) mencakup Panels 17.1–17.3: pemeriksaan laporan, empat kategori, dan temuan musik/NVR AGAIN.
+- [Scene 17 Page 2](Book-V-Scene-17-Page-02-Illustrative-Thumbnail-Draft-0.1.md) mencakup Panels 17.4–17.5: catatan jubah/Resonansi Hitam yang terpisah dan pemeriksaan batas bukti.
+- Kedua dokumen merupakan brief NON-CANON; PNG belum dibuat atau di-commit. Musik/NVR AGAIN tidak dihubungkan secara kausal dengan jubah atau Resonansi Hitam.
+
+**Status:** brief dua halaman Scene 17 terdokumentasi; PNG belum dibuat; belum diterima kreator.
+
+## 35. Brief halaman thumbnail — Scene 18 — 2026-11-28
+
+- [Scene 18 Page 1](Book-V-Scene-18-Page-01-Illustrative-Thumbnail-Draft-0.1.md) mencakup Panels 18.1–18.2: surat penolakan dan respons kelompok.
+- [Scene 18 Page 2](Book-V-Scene-18-Page-02-Illustrative-Thumbnail-Draft-0.1.md) mencakup Panels 18.3–18.4: jalur penelitian dan pemisahan arsip lengkap/ringkasan publik.
+- [Scene 18 Page 3](Book-V-Scene-18-Page-03-Illustrative-Thumbnail-Draft-0.1.md) mencakup Panels 18.5–18.6: pemeriksaan privasi dan penutup Orlenn.
+- Ketiga dokumen merupakan brief NON-CANON; PNG belum dibuat atau di-commit. Akses arsip dan identitas pemberi kesaksian tetap dibatasi.
+
+**Status:** brief tiga halaman Scene 18 terdokumentasi; PNG belum dibuat; belum diterima kreator.
