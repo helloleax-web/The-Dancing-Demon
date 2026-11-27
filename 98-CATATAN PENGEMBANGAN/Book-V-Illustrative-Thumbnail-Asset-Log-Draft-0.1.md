@@ -357,3 +357,14 @@ Keduanya NON-CANON, bukan thumbnail diterima. Tidak ada visual jubah, pemakai, l
 - Tidak ada panah, tanda centang/silang, simbol, jubah, efek, atau mekanisme. Pseudo-handwriting tidak terbaca dan hanya placeholder.
 - Status: kandidat blocking yang layak untuk evaluasi kreator; belum thumbnail final. Jangan perlakukan pseudo-handwriting sebagai kutipan atau istilah. Tabel kanan bukan tabel tiga kolom Panel 10.1.
 - Total eksperimen lokal menjadi 17 (6 halaman Scene 7–9 + 11 panel Scene 10). Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
+
+
+
+## Audit konsistensi lintas-panel Scene 10 — 2026-11-28
+
+- Hierarki acuan ditegaskan: manuskrip Chapter 3 Revision Draft 0.4 → storyboard → page briefs → execution sheet → eksperimen.
+- Storyboard Panel 10.2 diperbarui untuk mencantumkan fungsi Tavian, Seraphine, dan Ilyra sesuai manuskrip.
+- Brief Page 02 dan execution sheet Panel 10.5 diselaraskan: pemisahan kutipan asli/lampiran dan terjemahan kerja harus terlihat; frasa status literal **“belum dapat dibandingkan”** diizinkan karena didukung manuskrip. Simbol status lain tetap dilarang.
+- Audit panel: 10.1 struktur tiga kolom dapat dipertahankan; 10.2 perlu pemetaan gestur; 10.3–10.4 perlu figur netral/character sheets; 10.5 perlu revisi fungsi lampiran dan penanda status.
+- Scene 10 belum siap dirakit sebagai halaman final. Tidak ada thumbnail diterima atau binary PNG di repository.
+- Total eksperimen lokal tercatat: 17; thumbnail diterima: 0; ilustrasi final: 0; binary PNG repository: 0. Semua NON-CANON.
