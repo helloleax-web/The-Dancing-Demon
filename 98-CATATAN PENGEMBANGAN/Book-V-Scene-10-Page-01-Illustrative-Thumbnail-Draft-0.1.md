@@ -6,12 +6,12 @@
 **Format kerja:** Semi-Flat Editorial, portrait 4:5 (sementara; belum dikunci)
 
 ### Panel 10.1 — Top-down table
-Tavian membuka tabel kerja dan meletakkan beberapa catatan secara terpisah. Dua kategori efek menjadi fokus kerja: pertahanan dan regenerasi. Panel hanya memperlihatkan proses membandingkan; isi spesifik masing-masing sumber tidak perlu terbaca.
+Tavian membuka tabel kerja dengan tiga kolom: istilah asli, terjemahan kerja, dan konteks kalimat. Beberapa catatan diletakkan terpisah sebagai bahan perbandingan. Panel memperlihatkan proses menelusuri pilihan kata; isi spesifik sumber tidak perlu terbaca. Dua efek CANON (pertahanan luar biasa serta regenerasi HP dan MP berkelanjutan) tetap merupakan konteks temuan Scene 9, bukan pengganti tiga kolom tabel.
 
 **Batas:** Jangan menciptakan kutipan, nama sumber, tanggal, lokasi, angka, tingkat, durasi, atau pemetaan efek ke sumber tertentu. Jangan menggambarkan jubah atau mekanismenya.
 
 ### Panel 10.2 — Two-document comparison
-Seraphine memeriksa istilah pada dua kelompok catatan yang tetap memiliki batas sumber. Gestur dan penempatan tangan menunjukkan pemeriksaan kesepadanan istilah, bukan keputusan bahwa istilah pasti sama atau berbeda.
+Seraphine memeriksa setiap baris tabel. Dua kelompok catatan tetap terpisah; Tavian menunjukkan perbedaan pilihan istilah, sementara Ilyra memeriksa kalimat lengkap dan konteksnya. Gestur menunjukkan pemeriksaan, bukan keputusan bahwa istilah pasti sama atau berbeda.
 
 **Batas:** Jangan membuat label kesimpulan, menetapkan independensi sumber, atau menambah istilah/terjemahan teknis baru.
 
@@ -26,7 +26,12 @@ Daren bertanya apakah pemakai jubah masih bisa terluka. Tavian dan Seraphine men
 - Jubah tidak digambar dan tidak dihubungkan dengan NVR AGAIN atau Resonansi Hitam.
 
 ### Aset
-Tabel kerja, beberapa lembar catatan, dua kelompok sumber, meja pemeriksaan.
+Tabel tiga kolom (istilah asli / terjemahan kerja / konteks kalimat), beberapa lembar catatan terpisah, meja pemeriksaan.
 
 ### File visual
 PNG thumbnail belum dibuat dan belum menjadi binary repository asset.
+
+
+### Alignment note — 2026-11-28
+
+Manuskrip utama Book V Chapter 3 Revision Draft 0.4 menjadi acuan isi adegan. Panel 10.1 wajib mempertahankan tiga kolom tabel (istilah asli, terjemahan kerja, konteks kalimat). Dua kategori efek dari catatan Scene 9 bukan struktur pengganti tabel. Panel 10.2 mempertahankan urutan kerja: Tavian menunjukkan pilihan istilah, Seraphine memeriksa setiap baris, dan Ilyra memeriksa kalimat lengkap. Detail visual tetap NON-CANON.
