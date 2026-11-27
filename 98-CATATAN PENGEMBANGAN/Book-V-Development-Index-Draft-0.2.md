@@ -1,4 +1,4 @@
-# Book V — Development Index — Draft 0.3
+# Book V — Development Index — Draft 0.4
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Judul:** Perang yang Tertinggal.
@@ -39,95 +39,39 @@
 - [Production Design Specification — Bab 1](Book-V-Production-Design-Specification-Chapter-01-Draft-0.1.md) — spesifikasi produksi awal Bab 1.
 - [Global Production Design Specification — Draft 0.1](Book-V-Global-Production-Design-Specification-Draft-0.1.md) — pedoman produksi lintas lima bab, semua keputusan final tetap terbuka.
 - [Visual Continuity Audit — Draft 0.1](Book-V-Visual-Continuity-Audit-Draft-0.1.md) — audit lintas 22 scene / 128 panel.
-- [Panel Production Register — Draft 0.1](Book-V-Panel-Production-Register-Draft-0.1.md) — register status 128 panel.
+- [Panel Production Register — Draft 0.1](Book-V-Panel-Production-Register-Draft-0.1.md) — register status 128 panel; pembaruan thumbnail Scene 5–6 perlu disinkronkan.
 - [Chapter 2 Blocking Review — Draft 0.1](Book-V-Chapter-02-Blocking-Review-Draft-0.1.md) — review dan alignment 26 panel Bab 2.
 - [Chapter 3 Blocking Review — Draft 0.1](Book-V-Chapter-03-Blocking-Review-Draft-0.1.md) — review dan alignment 26 panel Bab 3.
 - [Chapter 4 Blocking Review — Draft 0.1](Book-V-Chapter-04-Blocking-Review-Draft-0.1.md) — review dan alignment 27 panel Bab 4.
 - [Chapter 5 Blocking Review — Draft 0.1](Book-V-Chapter-05-Blocking-Review-Draft-0.1.md) — review dan alignment 22 panel Bab 5.
 - [Blocking Acceptance Report — Draft 0.1](Book-V-Blocking-Acceptance-Report-Draft-0.1.md) — penerimaan blocking kasar 128/128 panel.
 - [Scene 1 Page 1 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-01-Page-01-Illustrative-Thumbnail-Draft-0.1.md) — thumbnail uji Panels 1.1–1.3.
+- [Scene 5 Page 1 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-05-Page-01-Illustrative-Thumbnail-Draft-0.1.md) — Panels 5.1–5.3.
+- [Scene 5 Page 2 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-05-Page-02-Illustrative-Thumbnail-Draft-0.1.md) — Panels 5.4–5.5.
+- [Scene 5 Page 3 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-05-Page-03-Illustrative-Thumbnail-Draft-0.1.md) — Panels 5.6–5.7.
+- [Scene 6 Page 1 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-06-Page-01-Illustrative-Thumbnail-Draft-0.1.md) — Panels 6.1–6.2.
+- [Scene 6 Page 2 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-06-Page-02-Illustrative-Thumbnail-Draft-0.1.md) — Panels 6.3–6.4.
+- [Scene 6 Page 3 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-06-Page-03-Illustrative-Thumbnail-Draft-0.1.md) — Panels 6.5–6.7.
 
 ### Status produksi per 2026-11-28
 
 - Bab 1: storyboard teks dan 27 panel blocking/layout manual tersedia; audit blocking dan kontinuitas telah dibuat.
-- Bab 2: storyboard teks 26 panel selesai; thumbnail panel-per-panel dan ilustrasi final belum dibuat.
+- Bab 2: storyboard teks 26 panel selesai; thumbnail ilustratif terdokumentasi untuk Scene 5 dan Scene 6 (masing-masing tiga halaman); ilustrasi final belum dibuat.
 - Bab 3: storyboard teks 26 panel selesai; hipotesis mekanisme dan cakupan Resonansi Hitam tetap tidak dipastikan.
 - Bab 4: storyboard teks 27 panel selesai; perlindungan pemberi kesaksian dan pemisahan arsip lengkap/ringkasan publik dijaga.
 - Bab 5: storyboard teks 22 panel selesai; laporan fenomena penutup tetap belum diverifikasi.
 - Bab 3–5: panel thumbnail/blocking awal telah dicatat untuk Scenes 9–22; storyboard visual bab lengkap dan audit blocking terpadu belum dibuat.
 - Desain final karakter/lokasi, palet, rendering, rasio halaman, tipografi, ukuran output, dan format publikasi belum dikunci.
-- Audit kontinuitas visual lintas lima bab selesai pada tingkat dokumen. Register menunjukkan 128 panel memiliki blocking awal; Seluruh 128 panel telah lolos review blocking komposisi kasar lintas lima bab setelah 28 koreksi alignment (7 + 6 + 9 + 6); thumbnail ilustratif dan ilustrasi final yang diterima masih 0. Thumbnail ilustratif dan ilustrasi final yang diterima masih 0.
+- Audit kontinuitas visual lintas lima bab selesai pada tingkat dokumen. Register menunjukkan 128 panel memiliki blocking awal dan seluruhnya telah lolos review blocking komposisi kasar setelah 28 koreksi alignment.
+- Thumbnail ilustratif Scene 5 mencakup Panels 5.1–5.7 dalam tiga halaman; Scene 6 mencakup Panels 6.1–6.7 dalam tiga halaman. Semua masih draft NON-CANON dan menunggu review.
+- Dokumen thumbnail adalah catatan produksi; PNG halaman belum di-commit sebagai binary repository asset.
 - Tidak ada aset visual yang mengesahkan detail NON-CANON menjadi CANON.
 
 ## Tahap produksi berikutnya
 
-1. Dapatkan keputusan kreator tentang kandidat rendering, rasio halaman, dan media output.
-2. Setelah keputusan, buat thumbnail ilustratif per halaman dengan blocking yang telah diterima.
+1. Lanjutkan thumbnail ilustratif per halaman dari Scene 7 dengan mengikuti storyboard dan blocking yang telah diperiksa.
+2. Perbarui Panel Production Register agar status thumbnail Scene 5–6 tercatat.
 3. Review thumbnail dan revisi sebelum ilustrasi final.
-4. Desain final karakter/lokasi dan tipografi tetap menunggu persetujuan terpisah.
+4. Desain final karakter/lokasi, format, dan tipografi tetap menunggu keputusan terpisah.
 
 **Dampak CANON: tidak ada.** Semua storyboard, blocking, dan keputusan produksi yang belum disahkan tetap NON-CANON.
-
-
-## Pembaruan thumbnail ilustratif — 2026-11-28
-
-- Scene 1 Page 1: Panels 1.1–1.3 memiliki thumbnail draft, menunggu review.
-- Scene 1 Page 2: Panels 1.4–1.5 memiliki thumbnail Draft 0.2 setelah koreksi jumlah placeholder kelompok dan penghapusan heading dokumen yang tidak didukung.
-- Scene 2 Page 1: Panels 2.1–2.3 memiliki thumbnail draft.
-- Total cakupan thumbnail ilustratif: 8/128 panel dalam 3 halaman; belum ada thumbnail yang diterima kreator. Angka ini menghitung panel yang sudah divisualisasikan, bukan panel final.
-- PNG ketiga halaman masih berupa aset lokal sesi; dokumentasi metadata tersimpan di repository, tetapi file biner belum di-commit.
-- Semi-Flat Editorial dan 4:5 tetap konfigurasi uji, bukan keputusan desain final. Seluruh materi tetap NON-CANON.
-
-
-## Pembaruan thumbnail ilustratif — Scene 2 Page 2 — 2026-11-28
-
-- Scene 2 Page 2: Panels 2.4–2.5 memiliki thumbnail draft.
-- Total cakupan thumbnail ilustratif: 10/128 panel dalam 4 halaman; belum ada thumbnail yang diterima kreator. Angka ini menghitung panel yang sudah divisualisasikan, bukan panel final.
-- PNG halaman ini masih berupa aset lokal sesi; dokumentasi metadata tersimpan di repository, tetapi file biner belum di-commit.
-- Semi-Flat Editorial dan 4:5 tetap konfigurasi uji, bukan keputusan desain final. Seluruh materi tetap NON-CANON.
-
-
-## Pembaruan thumbnail ilustratif — Scene 2 Page 3 — 2026-11-28
-
-- Scene 2 Page 3: Panels 2.6–2.7 memiliki thumbnail draft.
-- Total cakupan thumbnail ilustratif: 12/128 panel dalam 5 halaman; belum ada thumbnail yang diterima kreator. Angka ini menghitung panel yang sudah divisualisasikan, bukan panel final.
-- PNG halaman ini masih berupa aset lokal sesi; dokumentasi metadata tersimpan di repository, tetapi file biner belum di-commit.
-- Semi-Flat Editorial dan 4:5 tetap konfigurasi uji, bukan keputusan desain final. Seluruh materi tetap NON-CANON.
-
-
-## Thumbnail ilustratif — Scene 3, Page 1
-
-- [Scene 3 Page 1 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-03-Page-01-Illustrative-Thumbnail-Draft-0.1.md) mencatat Panels 3.1–3.2.
-- Aset PNG lokal sesi; belum di-commit sebagai file biner.
-- Status: dibuat untuk review, belum diterima; Semi-Flat Editorial dan 4:5 masih konfigurasi sementara. NON-CANON.
-
-
-## Thumbnail ilustratif — Scene 3, Page 2 — 2026-11-28
-
-- [Scene 3 Page 2 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-03-Page-02-Illustrative-Thumbnail-Draft-0.1.md) — Panels 3.3–3.4, proses administrasi dan perkenalan Neral.
-- PNG tersedia sebagai aset lokal sesi; file biner belum di-commit.
-- Total cakupan thumbnail ilustratif: 16/128 panel dalam 7 halaman (12,5%); belum ada thumbnail yang diterima kreator.
-- Semi-Flat Editorial dan 4:5 tetap konfigurasi uji sementara. Seluruh materi tetap NON-CANON.
-
-
-
-## Thumbnail ilustratif — Scene 3 Page 3
-
-- [Scene 3 Page 3 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-03-Page-03-Illustrative-Thumbnail-Draft-0.1.md) — thumbnail Panels 3.5–3.6.
-- Cakupan thumbnail ilustratif kini 18/128 panel dalam 8 halaman; belum ada thumbnail yang diterima kreator. PNG tersedia secara lokal dan belum di-commit sebagai binary.
-- Semi-Flat Editorial dan 4:5 tetap konfigurasi sementara. NON-CANON.
-
-
-## Pembaruan thumbnail ilustratif — Scene 3 Page 4 — 2026-11-28
-
-- Scene 3 Page 4: Panels 3.7–3.8.
-- Total cakupan thumbnail ilustratif: 24/128 panel dalam 9 halaman; belum ada thumbnail diterima kreator.
-- PNG tersedia sebagai aset lokal sesi; file biner belum di-commit. Semi-Flat Editorial dan 4:5 tetap konfigurasi sementara. NON-CANON.
-
-
-## Thumbnail ilustratif — Scene 4, Page 1 — 2026-11-28
-
-- [Scene 4 Page 1 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-04-Page-01-Illustrative-Thumbnail-Draft-0.1.md) — Panels 4.1–4.2.
-- Aset PNG lokal sesi; belum di-commit sebagai binary repository asset.
-- Cakupan thumbnail ilustratif menjadi 26/128 panel dalam 11 halaman; belum ada thumbnail yang diterima final.
-- Semi-Flat Editorial dan 4:5 tetap konfigurasi uji sementara. NON-CANON.
