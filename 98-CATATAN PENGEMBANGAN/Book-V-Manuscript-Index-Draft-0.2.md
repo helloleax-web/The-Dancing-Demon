@@ -521,3 +521,12 @@
 - The letter's contents and all identifying details remain blank/unshown. No invented names, dates, numbers, stamps, institutional rules, or access decision are established.
 - Manual study image was created in the work session and is not stored as a binary asset in the repository.
 - All materials remain NON-CANON; CANON impact: none.
+
+
+### Scene 3 — Panel 3.4 thumbnail
+
+- [Book V Scene 3, Panel 3.4 — Thumbnail Draft 0.1](Book-V-Scene-03-Panel-3-4-Thumbnail-Draft-0.1.md) — manual medium two-shot introduction blocking.
+- Neral faces the group and introduces their role in arranging collection access and recording copies.
+- No close-up or visual identity is established for Neral: gender, age appearance, face, hair, clothing, and physical traits remain open.
+- Manual study image was created in the work session and is not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
