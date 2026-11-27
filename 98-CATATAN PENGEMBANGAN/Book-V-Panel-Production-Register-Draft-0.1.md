@@ -576,3 +576,15 @@ Rincian: [Illustrative Thumbnail Asset Log — Draft 0.1](Book-V-Illustrative-Th
 - Total PNG eksperimen lokal tercatat: enam. Total binary PNG di repository: nol. Total thumbnail diterima: nol.
 
 **Status:** Scene 9 eksperimen lengkap; Scene 10 masih berupa brief tertulis. NON-CANON.
+
+
+## 52. Penolakan dua percobaan visual — Scene 10 Page 1 — 2026-11-28
+
+- Dua percobaan PNG Page 1 (10.1–10.3) ditolak.
+- Percobaan pertama menukar fungsi panel 10.1/10.2 dan memakai materi “Sumber Asli/Terjemahan Kerja” dari fungsi Panel 10.5; simbol perisai dan lingkaran panah tidak didukung.
+- Percobaan kedua tidak menampilkan top-down table Panel 10.1, kembali menggunakan simbol perisai/lingkaran panah, dan tidak menyertakan Panel 10.3.
+- Keduanya tidak dihitung sebagai aset dan tidak boleh digunakan sebagai referensi/CANON.
+- Scene 10 Page 1–2 tetap belum memiliki PNG valid.
+- Produksi gabungan halaman dihentikan sementara; langkah berikutnya adalah blocking panel tunggal atau manual sebelum generasi ulang.
+
+**Status:** Scene 10 0 PNG valid; 2 percobaan ditolak. NON-CANON.
