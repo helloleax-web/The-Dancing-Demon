@@ -713,3 +713,12 @@
 - No invented values, dates, duration, matching marks, music details, source identity, or final conclusion is added; NVR AGAIN remains only on the Prasasti reading.
 - Manual study image was created in the work session and is not stored as a binary asset in the repository.
 - All materials remain NON-CANON; CANON impact: none.
+
+
+### Scene 7 — Panel 7.3 thumbnail
+
+- [Book V Scene 7, Panel 7.3 — Thumbnail Draft 0.1](Book-V-Scene-07-Panel-7-3-Thumbnail-Draft-0.1.md) — manual medium-insert blocking study of the group's recorded conclusion.
+- Records the NVR AGAIN / unnamed Great War music relationship as a strong reconstruction, not an explanation of origin.
+- No creator, distributor, mechanism, purpose, origin, specific chronology, music details, or source identity is invented.
+- Manual study image was created in the work session and is not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
