@@ -269,3 +269,17 @@ Dua output PNG eksperimental untuk Page 1 (Panels 10.1–10.3) diperiksa dan dit
 
 **Status Scene 10:** Panel 10.1–10.4 masing-masing memiliki satu eksperimen panel tunggal lokal yang menunggu review; Panel 10.5 belum memiliki eksperimen valid. Page 1–2 belum memiliki PNG halaman lengkap. NON-CANON.
 \n\n## Scene 10 — percobaan Panel 10.5 ditolak — 2026-11-28\n\nDua output generasi Panel 10.5 ditolak.\n\n- Output pertama berupa dua frame bertumpuk dan menampilkan karakter, tulisan semu, serta tanda kotak/penyorotan yang berpotensi menyiratkan status yang tidak ditetapkan. Brief meminta satu top-down closing insert.\n- Output kedua kembali berupa close-up karakter yang memegang dua dokumen; bukan kamera top-down dan bukan staging tabel penutup.\n- Keduanya tidak dihitung sebagai eksperimen valid dan tidak boleh digunakan sebagai referensi visual atau CANON.\n- Tidak ada PNG Panel 10.5 yang valid.\n\n**Keputusan:** hentikan generasi karakter untuk Panel 10.5. Buat blocking top-down manual: area kutipan asli/lampiran dan area terjemahan kerja terpisah; dua bagian konteks tidak lengkap diberi penanda visual netral tanpa teks, tanda centang, panah, atau kesimpulan.\n\n**Status Scene 10:** Panel 10.1–10.4 memiliki eksperimen lokal menunggu review; Panel 10.5 belum memiliki eksperimen valid. NON-CANON.\n
+
+## Scene 10 — eksperimen panel tunggal 10.5 — 2026-11-28
+
+- Setelah dua output sebelumnya ditolak, blocking manual top-down dibuat dan satu render panel tunggal dihasilkan.
+- File lokal: `a_detailed_warm_sepia_ink_illustration_top_down_v.png`.
+- Kamera benar-benar top-down; tidak ada karakter atau tangan.
+- Area kiri berupa tumpukan dokumen/lampiran; area kanan berupa dokumen terpisah untuk terjemahan kerja.
+- Dua potongan kertas kecil berada di ruang di antara dua area. Tidak ada panah, tanda centang/silang, label, atau simbol status.
+- Tulisan berupa garis placeholder tak terbaca; tidak ada kutipan atau istilah rekaan yang terbaca.
+- Tidak ada kesimpulan tentang kecocokan/kesamaan/perbedaan materi, dan tidak ada visual jubah atau mekanismenya.
+- Properti, rendering, palet, dan desain meja masih placeholder; belum disahkan sebagai desain final.
+- File biner belum di-commit ke repository. Status: **Thumbnail ilustratif — menunggu review kreator**, bukan diterima.
+
+**Status Scene 10:** Panel 10.1–10.5 masing-masing memiliki satu eksperimen panel tunggal lokal yang menunggu review; Page 1–2 belum memiliki PNG halaman lengkap. NON-CANON.
