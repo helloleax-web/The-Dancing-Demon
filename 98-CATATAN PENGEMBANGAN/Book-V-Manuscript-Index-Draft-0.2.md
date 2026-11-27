@@ -678,3 +678,12 @@
 - No region names, distances, dates, family names, quotations, testimony details, music descriptions, or source counts are invented.
 - Manual study image was created in the work session and is not stored as a binary asset in the repository.
 - All materials remain NON-CANON; CANON impact: none.
+
+
+### Scene 6 — Panel 6.2 thumbnail
+
+- [Book V Scene 6, Panel 6.2 — Thumbnail Draft 0.1](Book-V-Scene-06-Panel-6-2-Thumbnail-Draft-0.1.md) — manual top-down insert blocking study.
+- Shows distinct summary-sheet layouts to convey that several sources mention music during the war but details and terminology vary; layout differences are visual placeholders, not invented testimony content.
+- No region names, dates, family names, quotations, distances, asserted source count, music details, or NVR AGAIN label are invented.
+- Manual study image was created in the work session and is not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
