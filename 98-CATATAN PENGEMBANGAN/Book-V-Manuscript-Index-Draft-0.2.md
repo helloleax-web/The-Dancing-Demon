@@ -512,3 +512,12 @@
 - Spatial depth communicates public versus restricted access. No additional rules, institutional functions, emblems, labels, or final environment/staff designs are established.
 - Manual study image was created in the work session and is not stored as a binary asset in the repository.
 - All materials remain NON-CANON; CANON impact: none.
+
+
+### Scene 3 — Panel 3.3 thumbnail
+
+- [Book V Scene 3, Panel 3.3 — Thumbnail Draft 0.1](Book-V-Scene-03-Panel-3-3-Thumbnail-Draft-0.1.md) — manual medium blocking for the access-request handoff.
+- Seraphine hands the request letter to the staff member; the staff member checks it; the group waits in the visitor area.
+- The letter's contents and all identifying details remain blank/unshown. No invented names, dates, numbers, stamps, institutional rules, or access decision are established.
+- Manual study image was created in the work session and is not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
