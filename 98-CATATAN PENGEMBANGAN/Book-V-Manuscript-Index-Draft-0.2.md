@@ -669,3 +669,12 @@
 - No claim that both records share a source; no invented matching chronology, description, lyrics, notation, melody, instrument, sound source, location, date, or author identity.
 - Manual study image was created in the work session and is not stored as a binary asset in the repository.
 - All materials remain NON-CANON; CANON impact: none.
+
+
+### Scene 6 — Panel 6.1 thumbnail
+
+- [Book V Scene 6, Panel 6.1 — Thumbnail Draft 0.1](Book-V-Scene-06-Panel-6-1-Thumbnail-Draft-0.1.md) — manual medium-insert blocking study.
+- Sava presents a set of family-testimony summaries from distant regions; the sheets are presented as summaries, not direct testimony.
+- No region names, distances, dates, family names, quotations, testimony details, music descriptions, or source counts are invented.
+- Manual study image was created in the work session and is not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
