@@ -81,7 +81,7 @@ Keputusan produksi: hentikan generasi Page 3 otomatis untuk sementara. Lanjutkan
 
 ## Scene 9 — persiapan produksi visual — 2026-11-28
 
-PNG eksperimen lokal untuk Page 1 telah dibuat; belum ada PNG valid untuk Page 2 atau Page 3. Sebelum eksperimen visual berikutnya, gunakan batas per halaman berikut:
+PNG eksperimen lokal tersedia untuk Page 1–3; seluruhnya belum diterima kreator. Sebelum eksperimen visual berikutnya, gunakan batas per halaman berikut:
 
 | Halaman | Panel | Komposisi yang diperbolehkan | Larangan utama |
 |---|---|---|---|
@@ -99,7 +99,7 @@ PNG eksperimen lokal untuk Page 1 telah dibuat; belum ada PNG valid untuk Page 2
 - Tiga jenis sumber tidak otomatis independen; ringkasan dari laporan yang tidak tersedia tetap terbatas.
 - Pengunjung dan semua staging tetap placeholder NON-CANON.
 
-**Status Scene 9:** tiga brief halaman tersedia; PNG valid belum dibuat; belum ada thumbnail yang diterima.
+**Status Scene 9:** tiga brief halaman tersedia dan ketiga halaman memiliki PNG eksperimen lokal; belum ada thumbnail yang diterima.
 
 
 ### Scene 9 — Page 1 eksperimen lokal
@@ -112,7 +112,7 @@ PNG eksperimen lokal untuk Page 1 telah dibuat; belum ada PNG valid untuk Page 2
 - Banner, figur, serta desain ruang adalah placeholder eksperimen. Tidak mengesahkan lambang, identitas karakter, atau desain lokasi.
 - Pemeriksaan lanjutan wajib memastikan properti dan jumlah figur sesuai storyboard.
 
-**Status Scene 9:** Page 1 PNG eksperimen lokal; Page 2 dan Page 3 belum memiliki PNG valid. Tidak ada aset diterima.
+**Status Scene 9:** Page 1–3 memiliki PNG eksperimen lokal. Tidak ada aset diterima.
 
 
 ### Scene 9 — Page 2 eksperimen lokal
@@ -125,7 +125,7 @@ PNG eksperimen lokal untuk Page 1 telah dibuat; belum ada PNG valid untuk Page 2
 - Tulisan berupa placeholder tak terbaca, bukan kutipan canon.
 - File biner belum masuk repository; belum diterima kreator.
 
-**Status Scene 9:** Page 1 dan Page 2 memiliki PNG eksperimen lokal; Page 3 belum memiliki PNG valid. Seluruhnya NON-CANON dan menunggu review.
+**Status Scene 9:** Page 1–3 memiliki PNG eksperimen lokal. Seluruhnya NON-CANON dan menunggu review.
 
 
 ### Scene 9 — Page 3 percobaan ditolak — 2026-11-28
@@ -137,7 +137,7 @@ Percobaan visual Page 3 ditolak. Gambar menambahkan ilustrasi jubah, nomor katal
 - Tidak ada file eksperimen yang dicatat sebagai aset valid.
 - Page 3 harus dibuat ulang dengan tiga dokumen tanpa isi rekaan, pengunjung generik tanpa identitas, dan catatan asal salinan yang hanya mencatat status belum diverifikasi.
 
-**Status Scene 9:** Page 1–2 memiliki PNG eksperimen lokal; Page 3 belum memiliki PNG valid.
+**Status Scene 9:** Page 1–3 memiliki PNG eksperimen lokal; Page 3 tetap perlu diperiksa terhadap storyboard dan Visual Continuity Audit.
 
 
 ### Percobaan visual salah target — tidak dihitung — 2026-11-28
