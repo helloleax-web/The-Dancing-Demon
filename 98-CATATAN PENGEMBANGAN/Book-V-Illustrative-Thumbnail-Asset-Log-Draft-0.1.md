@@ -307,3 +307,14 @@ Dua output PNG eksperimental untuk Page 1 (Panels 10.1–10.3) diperiksa dan dit
 - Kesimpulan review terdahulu tentang konflik sumber pada 10.1 dan 10.2 telah dikoreksi. Status eksperimen visual tidak otomatis berubah menjadi diterima.
 - Laporan koreksi ada di `Book-V-Scene-10-Thumbnail-Review-Draft-0.1.md`; brief dan execution sheet telah diselaraskan.
 - Jumlah eksperimen lokal tetap 11; binary PNG repository 0; thumbnail diterima 0; ilustrasi final 0.
+
+
+
+## Koreksi contact sheet Scene 10 — 2026-11-28
+
+- Pemeriksaan ulang contact sheet memperlihatkan Panel 10.1 memiliki struktur tabel tiga kolom secara visual; tulisan tetap placeholder dan tidak perlu terbaca. Struktur dapat dipertahankan, belum final.
+- Panel 10.2 hanya memperlihatkan dua kelompok dokumen dan satu tangan; proses pemeriksaan oleh Tavian, Seraphine, dan Ilyra belum tergambar. Revisi.
+- Output yang semula diasosiasikan dengan Panel 10.3 justru berlabel 10.5 dan berupa komposisi dua panel bertumpuk; ditolak sebagai 10.3. Panel 10.3 belum memiliki eksperimen valid.
+- Panel 10.4 two-shot dengan tabel dapat dipertahankan sebagai draft struktur; desain karakter belum disahkan.
+- Panel 10.5 flat lay dua area dokumen belum memperlihatkan aksi pemindahan kutipan asli ke lampiran dengan jelas; revisi.
+- Tidak ada thumbnail final yang diterima. Jumlah eksperimen lokal tetap 11; binary PNG repository 0.
