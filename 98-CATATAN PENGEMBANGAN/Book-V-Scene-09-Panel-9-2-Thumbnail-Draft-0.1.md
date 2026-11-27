@@ -1,29 +1,23 @@
-# Book V — Scene 09, Panel 9.2
-## Thumbnail / Manual Blocking Draft 0.1
+# Book V — Scene 9, Panel 9.2
+## Thumbnail / Manual Blocking Draft 0.1 — Alignment Revision
 
 **Status:** NON-CANON  
-**Jenis:** Catalogue insert / information reveal  
-**Fungsi:** Memperlihatkan isi minimum catatan katalog yang mengaitkan jubah mana hitam dengan sekutu LEAX serta menyebut efek yang telah ditetapkan CANON.
+**Jenis:** Manual blocking / storyboard alignment  
+**Fungsi:** Indeks ringkasan.
 
 ### Komposisi
-- Satu lembar catatan katalog menjadi fokus utama.
-- Judul atau entri utama menyebut **Jubah Mana Hitam**.
-- Baris hubungan menyatakan bahwa jubah tersebut dikaitkan dengan **sekutu LEAX**.
-- Dua keterangan efek ditampilkan terpisah: **pertahanan luar biasa** dan **regenerasi HP dan MP secara berkelanjutan**.
-- Tidak perlu menampilkan karakter; fokus berada pada isi catatan, bukan reaksi atau pemakaian jubah.
+Medium insert. Neral menunjukkan indeks yang memuat ringkasan dari sumber berbeda: salinan laporan, catatan administratif, dan kutipan yang disimpan bersama dokumen lain.
 
 ### Batas visual dan informasi
-- Jangan menambahkan nama, jumlah, identitas, ciri, atau status individu sekutu LEAX.
-- Jangan menambahkan tanggal, lokasi, pembuat, pemilik individual, proses perolehan, distribusi, atau asal jubah.
-- Jangan menggambarkan pemakai, bentuk fisik jubah, atau adegan penggunaan.
-- Jangan menjelaskan mekanisme pertahanan atau regenerasi HP/MP.
-- Jangan menghubungkan jubah dengan NVR AGAIN.
-- Jangan menetapkan cakupan istilah Resonansi Hitam atau hubungan sebab-akibat yang belum ditentukan.
-- Jangan menambahkan angka, ukuran, durasi selain frasa regenerasi berkelanjutan, atau tingkat efek yang tidak ada dalam CANON.
-- Tidak ada dialog atau desain final karakter/lokasi yang ditetapkan.
+- Nomor koleksi dan isi rinci tetap tak terbaca; jangan menambah sumber.
+- Karakter tetap placeholder; tidak ada wajah, rambut, kostum, proporsi, atau aksesori final.
+- Dokumen yang tidak memiliki isi eksplisit dalam manuskrip tetap berupa placeholder tak terbaca.
+- Tidak menambahkan dialog, fakta sejarah, tanggal, lokasi, identitas, atau hubungan lore.
 
 ### Relasi kontinuitas
-Panel 9.1 memperkenalkan penemuan catatan dari koleksi berbeda. Panel 9.2 membuka informasi minimum yang didukung outline dan CANON: jubah dikaitkan dengan sekutu LEAX dan memiliki efek pertahanan luar biasa serta regenerasi HP/MP berkelanjutan. Identitas sekutu, rincian perolehan, asal, dan mekanisme tetap UNKNOWN.
+Panel ini diselaraskan dengan Visual Storyboard Bab 3 Revision 0.1. Revisi mengganti fungsi blocking lama agar nomor panel mengikuti urutan storyboard terbaru.
 
 ### Status kanon
-Seluruh blocking, tata letak, dan representasi dokumen merupakan bahan produksi NON-CANON. Isi faktual yang dirujuk berasal dari batas CANON yang telah ada; panel tidak menambah atau mengubah CANON.
+Blocking dan tata letak adalah bahan produksi NON-CANON. Tidak ada perubahan pada manuskrip atau fakta CANON.
+
+**Dampak CANON: tidak ada.**
