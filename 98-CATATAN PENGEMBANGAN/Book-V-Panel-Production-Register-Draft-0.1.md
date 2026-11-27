@@ -163,3 +163,16 @@ Paket visual lokal: `LEAX_BookV_Chapter05_MissingBlocking_Panels.zip` dan contac
 - [Chapter 3 Blocking Review — Draft 0.1](Book-V-Chapter-03-Blocking-Review-Draft-0.1.md) — seluruh 26 panel diperiksa terhadap storyboard.
 - Hasil: 26/26 diterima sebagai blocking komposisi kasar setelah enam alignment corrections (9.1, 9.2, 10.3, 11.2, 12.2, 13.2).
 - Penerimaan ini bukan penerimaan thumbnail ilustratif atau ilustrasi final.
+
+
+## 13. Blocking review Bab 4 — 2026-11-28
+
+- [Chapter 4 Blocking Review — Draft 0.1](Book-V-Chapter-04-Blocking-Review-Draft-0.1.md) — seluruh 27 panel diperiksa terhadap storyboard.
+- Hasil: 27/27 diterima sebagai blocking komposisi kasar setelah sembilan alignment corrections.
+- Penerimaan ini bukan penerimaan thumbnail ilustratif atau ilustrasi final.
+
+## 14. Blocking review Bab 5 — 2026-11-28
+
+- [Chapter 5 Blocking Review — Draft 0.1](Book-V-Chapter-05-Blocking-Review-Draft-0.1.md) — seluruh 22 panel diperiksa terhadap storyboard.
+- Hasil: 22/22 diterima sebagai blocking komposisi kasar setelah enam alignment corrections.
+- Penerimaan ini bukan penerimaan thumbnail ilustratif atau ilustrasi final.
