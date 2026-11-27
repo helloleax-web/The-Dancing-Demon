@@ -219,3 +219,21 @@ Dua output PNG eksperimental untuk Page 1 (Panels 10.1–10.3) diperiksa dan dit
 - File biner belum di-commit ke repository. Status kreator: menunggu review; tidak diterima otomatis.
 
 **Status Scene 10:** satu eksperimen panel tunggal lokal untuk 10.1; Page 1 dan Page 2 belum memiliki PNG halaman lengkap; tidak ada aset diterima. NON-CANON.
+
+
+## Scene 10 — Panel 10.2: eksperimen dan penolakan — 2026-11-28
+
+**Percobaan pertama — ditolak**
+- Output menampilkan karakter close-up dengan satu lembar tabel dua kolom.
+- Brief meminta dua kelompok catatan tetap terpisah; satu tabel gabungan mengubah hubungan antar dokumen.
+- Penampilan karakter merupakan desain baru yang belum disahkan.
+- Tidak dihitung sebagai aset valid dan tidak boleh menjadi acuan desain karakter.
+
+**Percobaan kedua — eksperimen lokal menunggu review**
+- File lokal: `a_detailed_illustration_of_a_wooden_desk_scene_wa.png`.
+- Komposisi top-down memperlihatkan dua kelompok dokumen/lembar catatan yang tetap terpisah; satu tangan menunjuk bagian pada kelompok kiri.
+- Tulisan hanya berupa garis placeholder tak terbaca; tidak ada label kesimpulan, tanda centang/silang, panah penyatuan, simbol efek, atau visual jubah.
+- Tangan tidak mengidentifikasi karakter tertentu, sehingga tidak menetapkan desain karakter yang belum disahkan.
+- File biner belum di-commit ke repository. Status: **Thumbnail ilustratif — menunggu review kreator**, bukan diterima.
+
+**Status Scene 10:** Panel 10.1 dan 10.2 masing-masing memiliki satu eksperimen panel tunggal lokal yang menunggu review; Panel 10.3–10.5 belum memiliki eksperimen valid. Page 1–2 belum memiliki PNG halaman lengkap. NON-CANON.
