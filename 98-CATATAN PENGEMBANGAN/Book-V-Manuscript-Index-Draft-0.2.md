@@ -990,3 +990,12 @@
 - Kutipan yang dipotong dikoreksi dengan mengembalikan konteks sumber. Laporan tetap membedakan empat kategori hasil.
 - Keluaran penelitian lengkap dan ringkasan publik dipisahkan; izin dan perlindungan identitas tetap dijaga.
 - Thumbnail panel-per-panel dan ilustrasi final Bab 4 belum dibuat. Seluruh materi visual tetap NON-CANON.
+
+
+## Produksi visual — Bab 5
+
+- [Book V Visual Storyboard — Bab 5: Perang yang Tertinggal](Book-V-Visual-Storyboard-Chapter-05-Draft-0.1.md) — storyboard teks Scenes 19–22, 22 panel, daftar aset dan risiko kontinuitas.
+- Laporan menyajikan temuan sebelum batas metode; fakta LEAX, efek jubah, dan istilah Resonansi Hitam tidak diperluas.
+- Respons pembaca tetap beragam; dua kutipan dari satu catatan keluarga tidak dihitung sebagai sumber independen.
+- Petunjuk fenomena Scene 22 tetap laporan singkat yang belum diverifikasi dan tidak dihubungkan dengan Abstract Existence.
+- Thumbnail panel-per-panel dan ilustrasi final Bab 5 belum dibuat. Seluruh materi visual tetap NON-CANON.
