@@ -25,4 +25,6 @@ Neral menunjukkan indeks ringkasan dari sumber berbeda: salinan laporan, catatan
 Indeks koleksi, kategori dokumen, meja pemeriksaan, area penyimpanan.
 
 ### File visual
-PNG thumbnail belum dibuat dan belum menjadi binary repository asset.
+PNG eksperimen lokal dibuat: `LEAX_BookV_Scene09_Page01_IllustrativeThumbnail_Draft01.png` (1122 × 1402 px). File biner belum masuk repository. Status menunggu review kreator; belum diterima.
+
+**Catatan review awal:** komposisi dua panel mengikuti fungsi ruang pemeriksaan dan indeks kategori dokumen. Banner, figur, dan desain ruang hanyalah placeholder eksperimental; tidak menetapkan lambang, identitas, atau desain final. Periksa kembali jumlah figur dan properti terhadap storyboard sebelum penerimaan.
