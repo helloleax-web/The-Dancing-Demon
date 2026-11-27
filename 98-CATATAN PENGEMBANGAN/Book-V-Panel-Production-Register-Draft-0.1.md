@@ -638,3 +638,13 @@ Rincian: [Illustrative Thumbnail Asset Log — Draft 0.1](Book-V-Illustrative-Th
 
 **Dampak CANON: tidak ada.**
 \n\n## Pembaruan produksi visual — Scene 10 Panel 10.5 — 2026-11-28\n\n- Dua output generasi Panel 10.5 ditolak karena tidak mengikuti top-down closing insert dan menambahkan staging/penanda yang tidak didukung.\n- Panel 10.5 belum memiliki eksperimen visual valid.\n- Panel 10.1–10.4 masing-masing memiliki satu eksperimen panel tunggal lokal yang menunggu review.\n- Total eksperimen panel/halaman lokal tetap sepuluh: enam eksperimen halaman Scene 7–9 ditambah empat eksperimen panel Scene 10.1–10.4.\n- Binary PNG repository: 0. Thumbnail diterima: 0. Ilustrasi final: 0.\n\n**Dampak CANON: tidak ada.**\n
+
+## Pembaruan produksi visual — Scene 10 Panel 10.5 — 2026-11-28
+
+- Panel 10.5: satu eksperimen panel tunggal lokal tersedia setelah blocking top-down manual; dua area dokumen terpisah, tanpa karakter, panah, tanda status, atau teks terbaca. Status **Thumbnail ilustratif — menunggu review kreator**.
+- Dua percobaan sebelumnya tetap ditolak dan tidak dihitung.
+- Panel 10.1–10.5 masing-masing kini memiliki satu eksperimen panel tunggal lokal; semuanya belum diterima dan belum menjadi binary repository assets.
+- Total eksperimen panel/halaman lokal: enam eksperimen halaman Scene 7–9 ditambah lima eksperimen panel Scene 10.1–10.5 = sebelas. Ini bukan sebelas halaman selesai.
+- Binary PNG repository: 0. Thumbnail diterima: 0. Ilustrasi final: 0.
+
+**Dampak CANON: tidak ada.**
