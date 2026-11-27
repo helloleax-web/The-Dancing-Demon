@@ -11,7 +11,7 @@
 - Total panel pada storyboard teks: **128**.
 - Panel dengan referensi blocking/layout awal yang sudah tercatat: **128**.
 - Panel yang belum memiliki blocking awal tercatat: **0**.
-- Catatan/brief halaman thumbnail terdokumentasi untuk Scene 5–9; aset PNG halaman untuk pembaruan Scene 7–9 belum dibuat atau di-commit dalam sesi ini.
+- Catatan/brief halaman thumbnail terdokumentasi untuk Scene 5–10; aset PNG halaman untuk pembaruan Scene 7–10 belum dibuat atau di-commit dalam sesi ini.
 - Thumbnail ilustratif Scene 1 yang tercatat pada riwayat lama tetap menunggu review kreator.
 - Ilustrasi final: **0**.
 
@@ -307,3 +307,14 @@ Paket visual lokal: `LEAX_BookV_Chapter05_MissingBlocking_Panels.zip` dan contac
 - Scene 9 tetap terpisah dari jalur musik NVR AGAIN. Tidak ada desain jubah, efek visual, identitas sekutu, jumlah, pemakai, atau mekanisme yang ditambahkan.
 
 **Status:** brief tiga halaman Scene 9 terdokumentasi; thumbnail PNG belum dibuat; belum ada penerimaan kreator. NON-CANON.
+
+
+## 27. Brief halaman thumbnail — Scene 10 — 2026-11-28
+
+- [Scene 10 Page 1 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-10-Page-01-Illustrative-Thumbnail-Draft-0.1.md) mencakup Panels 10.1–10.3: perbandingan istilah dan pertanyaan praktis tentang batas pertahanan.
+- [Scene 10 Page 2 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-10-Page-02-Illustrative-Thumbnail-Draft-0.1.md) mencakup Panels 10.4–10.5: batas regenerasi yang belum diketahui dan pemisahan kutipan asli dari terjemahan kerja.
+- Kedua dokumen merupakan brief/catatan produksi NON-CANON, bukan bukti bahwa PNG ilustratif telah dibuat atau diterima.
+- Aset PNG Scene 10 belum dibuat dan belum di-commit sebagai binary repository asset.
+- Tidak ada mekanisme, batas, pemakai, atau visual efek jubah yang ditambahkan.
+
+**Status:** brief dua halaman Scene 10 terdokumentasi; thumbnail PNG belum dibuat; belum ada penerimaan kreator. NON-CANON.
