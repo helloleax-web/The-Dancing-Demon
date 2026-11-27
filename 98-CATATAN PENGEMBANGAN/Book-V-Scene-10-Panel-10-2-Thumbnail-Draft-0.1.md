@@ -1,33 +1,35 @@
 # Book V — Scene 10, Panel 10.2
-## Thumbnail / Manual Blocking Draft 0.1
+## Thumbnail / Manual Blocking Draft 0.2
 
 **Status:** NON-CANON  
-**Jenis:** Two-document comparison / review blocking  
-**Fungsi:** Memperlihatkan Seraphine memeriksa apakah istilah yang digunakan dalam catatan berbeda benar-benar merujuk pada efek yang sama.
+**Jenis:** Close-up text comparison  
+**Fungsi:** Memperlihatkan proses pemeriksaan pilihan istilah, tanpa menyimpulkan bahwa istilah pasti sama atau berbeda.
 
 ### Komposisi
-- Dua kelompok catatan diletakkan terpisah dalam satu bidang agar perbandingan terlihat, tetapi masing-masing tetap memiliki batas sumber.
-- Tavian menunjukkan pilihan istilah yang lebih dekat dengan ketahanan dan pilihan kata penyalin untuk pemulihan.
-- Seraphine memeriksa setiap baris tabel.
-- Ilyra memeriksa kalimat lengkap dan konteks istilah; ia tidak menyimpulkan mekanisme.
-- Ketiga aksi dapat disusun dalam satu panel selama tetap terbaca sebagai satu proses pemeriksaan, bukan kesimpulan final.
-- Isi spesifik catatan tidak perlu terbaca. Tidak ada label kesimpulan seperti "sama" atau "berbeda".
-- Panel mempertahankan dua kategori pembahasan dari Panel 10.1 tanpa menetapkan pemetaan efek ke sumber tertentu.
+- Close-up meja dan dokumen; wajah dan desain karakter tidak perlu terlihat.
+- Tabel tiga kolom dari Panel 10.1 menjadi pusat komposisi: istilah asli, terjemahan kerja, dan konteks kalimat.
+- Tangan Tavian menunjuk pilihan istilah yang lebih dekat dengan ketahanan dan pilihan kata penyalin untuk pemulihan.
+- Tangan Seraphine menelusuri baris tabel sebagai pemeriksaan setiap baris.
+- Ilyra memeriksa kalimat lengkap pada dokumen sumber yang terbuka; gestur tangannya atau alat tulisnya menunjukkan pembacaan konteks.
+- Dokumen sumber tetap terpisah secara fisik. Tidak ada garis, panah, atau tanda yang menghubungkan sumber seolah sudah dipastikan independen atau saling mengutip.
+- Tulisan hanya berupa garis placeholder tak terbaca. Jangan membuat kata, kutipan, atau istilah rekaan.
 
 ### Batas visual dan informasi
 - Jangan menciptakan istilah, kutipan, nama sumber, pembuat, tanggal, lokasi, atau jumlah catatan.
-- Jangan memutuskan bahwa istilah berbeda pasti menunjuk efek berbeda, atau bahwa istilah serupa membuktikan efek identik.
+- Jangan memutuskan bahwa istilah berbeda pasti menunjuk efek berbeda, atau istilah serupa membuktikan efek identik.
 - Jangan menetapkan independensi atau hubungan saling kutip antarcatatan.
 - Jangan menambahkan angka, tingkat, durasi, ukuran, atau rincian efek di luar CANON.
 - Jangan menggambarkan jubah, pemakai, atau mekanisme pertahanan/regenerasi.
 - Jangan menghubungkan jubah dengan NVR AGAIN atau menetapkan cakupan Resonansi Hitam.
-- Tidak ada dialog atau desain final karakter/lokasi yang ditetapkan.
+- Tangan adalah blocking fungsional, bukan identitas karakter atau desain final.
 
 ### Relasi kontinuitas
-Panel 10.1 memulai perbandingan beberapa catatan oleh Tavian. Panel 10.2 memperlihatkan rangkaian pemeriksaan istilah sesuai manuskrip: Tavian menunjukkan pilihan kata, Seraphine memeriksa baris, dan Ilyra membaca kalimat lengkap. Hasilnya belum diputuskan; deskripsi efek tetap dibedakan dari mekanisme.
+Panel 10.1 memperkenalkan tabel dengan tiga kolom. Panel 10.2 memperlihatkan Tavian menunjukkan pilihan istilah, Seraphine memeriksa baris, dan Ilyra membaca kalimat lengkap. Hasil perbandingan belum diputuskan.
 
-### Alignment note — 2026-11-28
-Urutan aksi ini mengikuti manuskrip Chapter 3 Revision Draft 0.4. Penempatan karakter dalam frame tetap blocking NON-CANON dan tidak menetapkan desain final.
+### Acuan sumber
+- Manuskrip Book V Chapter 3 Revision Draft 0.4.
+- Visual Storyboard Chapter 03, Panel 10.2: close-up text comparison.
+- Visual Execution Sheet Scene 10.
 
 ### Status kanon
 Seluruh blocking, tata letak, dan detail visual merupakan bahan produksi NON-CANON. Tidak mengubah atau menambah CANON.
