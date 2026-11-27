@@ -458,3 +458,12 @@
 - Accepted as an initial composition study only. The marker has no invented symbol; route expertise remains with Mira. Character and location designs remain open.
 - Manual study image was created in the work session and is not stored as a binary asset in the repository.
 - All materials remain NON-CANON; CANON impact: none.
+
+
+### Scene 2 — Panel 2.4 thumbnail
+
+- [Book V Scene 2, Panel 2.4 — Thumbnail Draft 0.1](Book-V-Scene-02-Panel-2-4-Thumbnail-Draft-0.1.md) — manual medium-group blocking at the rest stop.
+- Daren checks water/equipment; Seraphine protects the documents; Ilyra compares NVR AGAIN copies; Kael responds to the number of copies. Four action zones remain distinct.
+- Only NVR AGAIN is legible on the documents. No extra actions, dialogue, character design, or location design are established.
+- Manual study image was created in the work session and is not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
