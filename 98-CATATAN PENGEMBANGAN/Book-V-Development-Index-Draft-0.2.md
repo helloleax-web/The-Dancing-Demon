@@ -274,3 +274,11 @@
 - Satu two-shot netral memperlihatkan dua figur berdiskusi dan tabel kosong tiga kolom sebagai konteks. Tidak ada visual regenerasi atau simbol kemampuan.
 - Identitas karakter dan detail ruang belum disahkan; output hanya studi komposisi NON-CANON. Tabel kosong bukan bukti bahwa batas tidak ada.
 - Total eksperimen lokal: 20; thumbnail diterima: 0; ilustrasi final: 0; binary PNG repository: 0.
+
+
+
+### Eksperimen revisi Panel 10.5 — 2026-11-28
+
+- Flat lay top-down baru memisahkan tumpukan lampiran/kutipan asli di kiri dari lembar terjemahan kerja di kanan. Dua potongan konteks terpisah di tengah masing-masing diberi label “belum dapat dibandingkan”.
+- Tidak ada panah/simbol hubungan atau visual efek. Grid kanan dua kolom bukan pengganti tabel tiga kolom Panel 10.1. Status kandidat blocking, belum thumbnail final.
+- Total eksperimen lokal: 21; thumbnail diterima: 0; ilustrasi final: 0; binary PNG repository: 0.
