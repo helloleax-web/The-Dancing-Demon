@@ -525,3 +525,13 @@ Rincian: [Illustrative Thumbnail Asset Log — Draft 0.1](Book-V-Illustrative-Th
 - Scene 9 Page 3 belum memiliki PNG valid.
 
 **Status:** thumbnail ilustratif lokal, menunggu review kreator; NON-CANON.
+
+
+## 47. Penolakan percobaan visual — Scene 9 Page 3 — 2026-11-28
+
+- Percobaan ditolak karena menambahkan gambar jubah, nomor/kategori katalog rekaan, reruntuhan, jumlah sumber, dan arahan pencarian wilayah yang tidak didukung brief.
+- Komposisi juga tidak mengikuti struktur dua panel Page 3 (Panels 9.5–9.6).
+- Tidak dihitung sebagai aset; tidak boleh menjadi referensi atau CANON.
+- Page 3 tetap membutuhkan generasi ulang yang hanya menampilkan perbandingan kelengkapan tiga dokumen dan catatan petunjuk bibliografis belum diverifikasi.
+
+**Status:** Scene 9 Page 1–2 memiliki PNG eksperimen lokal; Page 3 belum memiliki PNG valid.
