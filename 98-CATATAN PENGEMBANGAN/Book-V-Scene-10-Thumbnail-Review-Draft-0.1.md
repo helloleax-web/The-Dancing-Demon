@@ -271,3 +271,25 @@ Audit dilakukan dengan hierarki sumber: manuskrip Chapter 3 Revision Draft 0.4 �
 **Hitungan eksperimen lokal:** 6 eksperimen halaman Scene 7–9 + 13 eksperimen panel Scene 10 = 19. Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
 
 **Dampak CANON: tidak ada.**
+
+
+
+## Eksperimen revisi Panel 10.4 — medium two-shot netral — 2026-11-28
+
+**Output lokal:** `/mnt/data/a_warm_sepia_toned_ink_manga_style_illustration_of.png` (1536 × 1024; output generasi terbaru Panel 10.4).
+
+| Kriteria | Hasil |
+|---|---|
+| Tepat dua figur utama | Terpenuhi |
+| Gestur tanya-jawab | Terbaca secara umum: figur kiri memegang lembar dan mengangkat tangan; figur kanan memberi gestur penjelasan ke arah tabel |
+| Tabel sebagai konteks | Terpenuhi; tabel kosong tiga kolom terlihat di foreground |
+| Tidak ada visual regenerasi/efek | Terpenuhi; tidak ada ikon HP/MP, bar, angka, meter, diagram, aura, energi, jubah, atau perisai |
+| Desain karakter tidak dikunci | Wajah tidak terperinci, tetapi pakaian/bentuk tubuh tetap hasil generatif dan tidak boleh menjadi acuan final |
+| Latar | Rak buku, jendela, dan lampu adalah detail generatif, bukan fakta lokasi CANON |
+| Teks dokumen | Pseudo-handwriting, bukan teks sumber |
+
+**Keputusan:** studi komposisi two-shot yang sesuai untuk evaluasi awal. Jumlah figur, gestur, dan tabel terbaca; identitas Kael/Ilyra tidak dapat dibuktikan dari gambar. Tabel kosong bukan bukti bahwa batas tidak ada. Status: kandidat komposisi, belum thumbnail final.
+
+**Hitungan eksperimen lokal:** 6 eksperimen halaman Scene 7–9 + 14 eksperimen panel Scene 10 = 20. Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
+
+**Dampak CANON: tidak ada.**
