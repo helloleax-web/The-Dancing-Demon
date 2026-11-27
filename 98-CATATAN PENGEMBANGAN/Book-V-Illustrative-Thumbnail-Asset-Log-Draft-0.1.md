@@ -296,3 +296,14 @@ Dua output PNG eksperimental untuk Page 1 (Panels 10.1–10.3) diperiksa dan dit
 - Kelima eksperimen tidak memperlihatkan jubah, pemakai, luka, perisai, aura, energi, regenerasi, atau diagram mekanisme. Tidak ada teks sumber baru yang terbaca.
 - Semua file tetap lokal, NON-CANON, belum diterima; binary PNG repository tetap 0.
 - Laporan: `Book-V-Scene-10-Thumbnail-Review-Draft-0.1.md`.
+
+
+
+## Koreksi alignment Scene 10 — 2026-11-28
+
+- Manuskrip Chapter 3 Revision Draft 0.4 diperiksa langsung dan menjadi acuan isi adegan.
+- Panel 10.1 memakai tiga kolom: istilah asli, terjemahan kerja, konteks kalimat. Dua efek CANON dari Scene 9 bukan pengganti kolom tersebut.
+- Panel 10.2 mengikuti rangkaian aksi manuskrip: Tavian menunjukkan pilihan istilah, Seraphine memeriksa baris, Ilyra memeriksa kalimat lengkap. Tidak ada konflik karakter.
+- Kesimpulan review terdahulu tentang konflik sumber pada 10.1 dan 10.2 telah dikoreksi. Status eksperimen visual tidak otomatis berubah menjadi diterima.
+- Laporan koreksi ada di `Book-V-Scene-10-Thumbnail-Review-Draft-0.1.md`; brief dan execution sheet telah diselaraskan.
+- Jumlah eksperimen lokal tetap 11; binary PNG repository 0; thumbnail diterima 0; ilustrasi final 0.
