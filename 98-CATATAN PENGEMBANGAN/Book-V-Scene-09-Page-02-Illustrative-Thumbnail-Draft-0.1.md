@@ -25,4 +25,6 @@ Entri katalog menyatakan bahwa jubah mana hitam diperoleh oleh sekutu LEAX. Tamp
 Dokumen efek, entri katalog, meja, alat tulis.
 
 ### File visual
-PNG thumbnail belum dibuat dan belum menjadi binary repository asset.
+PNG eksperimen lokal dibuat: `LEAX_BookV_Scene09_Page02_IllustrativeThumbnail_Draft01.png` (1122 × 1402 px). File biner belum masuk repository. Status menunggu review kreator; belum diterima.
+
+**Catatan review awal:** panel 9.3 hanya menampilkan proses pemeriksaan dokumen dan pencatatan; panel 9.4 berupa close-up entri arsip tanpa identitas. Tidak ada jubah, pemakai, perisai, atau visual regenerasi. Tulisan berupa placeholder tak terbaca, bukan kutipan canon.
