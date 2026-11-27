@@ -52,26 +52,29 @@
 - [Scene 6 Page 1 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-06-Page-01-Illustrative-Thumbnail-Draft-0.1.md) — Panels 6.1–6.2.
 - [Scene 6 Page 2 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-06-Page-02-Illustrative-Thumbnail-Draft-0.1.md) — Panels 6.3–6.4.
 - [Scene 6 Page 3 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-06-Page-03-Illustrative-Thumbnail-Draft-0.1.md) — Panels 6.5–6.7.
+- [Scene 7 Page 1 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-07-Page-01-Illustrative-Thumbnail-Draft-0.1.md) — Panels 7.1–7.2.
+- [Scene 7 Page 2 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-07-Page-02-Illustrative-Thumbnail-Draft-0.1.md) — Panels 7.3–7.4.
+- [Scene 7 Page 3 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-07-Page-03-Illustrative-Thumbnail-Draft-0.1.md) — Panels 7.5–7.6.
 
 ### Status produksi per 2026-11-28
 
 - Bab 1: storyboard teks dan 27 panel blocking/layout manual tersedia; audit blocking dan kontinuitas telah dibuat.
-- Bab 2: storyboard teks 26 panel selesai; thumbnail ilustratif terdokumentasi untuk Scene 5 dan Scene 6 (masing-masing tiga halaman); ilustrasi final belum dibuat.
+- Bab 2: storyboard teks 26 panel selesai; brief halaman thumbnail terdokumentasi untuk Scene 5, 6, dan 7 (masing-masing tiga halaman); ilustrasi final belum dibuat.
 - Bab 3: storyboard teks 26 panel selesai; hipotesis mekanisme dan cakupan Resonansi Hitam tetap tidak dipastikan.
 - Bab 4: storyboard teks 27 panel selesai; perlindungan pemberi kesaksian dan pemisahan arsip lengkap/ringkasan publik dijaga.
 - Bab 5: storyboard teks 22 panel selesai; laporan fenomena penutup tetap belum diverifikasi.
 - Bab 3–5: panel thumbnail/blocking awal telah dicatat untuk Scenes 9–22; storyboard visual bab lengkap dan audit blocking terpadu belum dibuat.
 - Desain final karakter/lokasi, palet, rendering, rasio halaman, tipografi, ukuran output, dan format publikasi belum dikunci.
 - Audit kontinuitas visual lintas lima bab selesai pada tingkat dokumen. Register menunjukkan 128 panel memiliki blocking awal dan seluruhnya telah lolos review blocking komposisi kasar setelah 28 koreksi alignment.
-- Thumbnail ilustratif Scene 5 mencakup Panels 5.1–5.7 dalam tiga halaman; Scene 6 mencakup Panels 6.1–6.7 dalam tiga halaman. Semua masih draft NON-CANON dan menunggu review.
+- Brief halaman thumbnail Scene 5 mencakup Panels 5.1–5.7; Scene 6 mencakup Panels 6.1–6.7; Scene 7 mencakup Panels 7.1–7.6. Ketiganya masing-masing dibagi ke tiga halaman. Semua masih draft NON-CANON dan menunggu review.
 - Dokumen thumbnail adalah catatan produksi; PNG halaman belum di-commit sebagai binary repository asset.
 - Tidak ada aset visual yang mengesahkan detail NON-CANON menjadi CANON.
 
 ## Tahap produksi berikutnya
 
-1. Lanjutkan thumbnail ilustratif per halaman dari Scene 7 dengan mengikuti storyboard dan blocking yang telah diperiksa.
-2. Perbarui Panel Production Register agar status thumbnail Scene 5–6 tercatat.
-3. Review thumbnail dan revisi sebelum ilustrasi final.
+1. Lanjutkan brief halaman thumbnail dari Scene 8 dengan mengikuti storyboard dan blocking yang telah diperiksa.
+2. Sinkronkan Panel Production Register dengan cakupan brief halaman Scene 5–7.
+3. Buat dan review aset PNG halaman setelah arah visual, format, dan kebutuhan aset disiapkan.
 4. Desain final karakter/lokasi, format, dan tipografi tetap menunggu keputusan terpisah.
 
 **Dampak CANON: tidak ada.** Semua storyboard, blocking, dan keputusan produksi yang belum disahkan tetap NON-CANON.
