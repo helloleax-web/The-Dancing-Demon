@@ -758,3 +758,13 @@ Berdasarkan contact sheet yang diperiksa ulang:
 - Identitas dan urutan peran Daren/Tavian/Seraphine belum dapat dipastikan; perlu blocking yang lebih tegas atau character sheets resmi.
 - Status: kandidat komposisi untuk evaluasi, belum thumbnail final.
 - Total eksperimen lokal: 19; thumbnail diterima: 0; ilustrasi final: 0; binary PNG repository: 0.
+
+
+
+## Eksperimen revisi Panel 10.4 — 2026-11-28
+
+- Satu eksperimen medium two-shot netral tersedia; dua figur berdiskusi dengan tabel kosong sebagai konteks.
+- Gestur tanya-jawab terbaca secara umum. Tidak ada visual regenerasi, angka, ikon HP/MP, meter, diagram, aura, energi, jubah, atau perisai.
+- Detail pakaian dan latar tetap generatif NON-CANON; identitas Kael/Ilyra belum terverifikasi. Tabel kosong tidak boleh diartikan sebagai bukti bahwa batas tidak ada.
+- Status: kandidat komposisi untuk evaluasi, belum thumbnail final.
+- Total eksperimen lokal: 20; thumbnail diterima: 0; ilustrasi final: 0; binary PNG repository: 0.
