@@ -539,3 +539,12 @@
 - Catalogue structure may imply contributor and private-address fields, but no names, addresses, identifying details, or invented catalogue content are legible.
 - Manual study image was created in the work session and is not stored as a binary asset in the repository.
 - All materials remain NON-CANON; CANON impact: none.
+
+
+### Scene 3 — Panel 3.6 thumbnail
+
+- [Book V Scene 3, Panel 3.6 — Thumbnail Draft 0.1](Book-V-Scene-03-Panel-3-6-Thumbnail-Draft-0.1.md) — manual medium-group dialogue blocking.
+- Kael comments on information-access limits; Neral replies that the rules are written but not everyone reads them. Other group members remain listeners.
+- The exchange stays conversational and calm. No physical conflict, additional rules, or antagonist framing is introduced.
+- Manual study image was created in the work session and is not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
