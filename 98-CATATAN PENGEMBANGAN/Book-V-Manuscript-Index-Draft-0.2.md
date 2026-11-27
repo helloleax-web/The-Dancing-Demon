@@ -449,3 +449,12 @@
 - Accepted as a manual blocking study only. No accident, major damage, character design, gate design, or location geography is established.
 - The study image was created in the work session and is not stored as a binary asset in the repository.
 - All materials remain NON-CANON; CANON impact: none.
+
+
+### Scene 2 — Panel 2.3 thumbnail
+
+- [Book V Scene 2, Panel 2.3 — Thumbnail Draft 0.1](Book-V-Scene-02-Panel-2-3-Thumbnail-Draft-0.1.md) — manual tracking/rear three-quarter composition study.
+- Mira leads the route-reading action by observing wheel tracks, stone arrangement, and a small unmarked marker; Tavian follows behind/to the side and takes notes.
+- Accepted as an initial composition study only. The marker has no invented symbol; route expertise remains with Mira. Character and location designs remain open.
+- Manual study image was created in the work session and is not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
