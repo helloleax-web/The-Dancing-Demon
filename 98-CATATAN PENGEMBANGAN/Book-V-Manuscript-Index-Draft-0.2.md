@@ -566,3 +566,13 @@
 - The table near the window is retained as the spatial continuity anchor for Scene 4. Paper contents and all final room/prop/character designs remain unspecified.
 - Manual study image was created in the work session and is not stored as a binary asset in the repository.
 - All materials remain NON-CANON; CANON impact: none.
+
+
+### Scene 4 — Panel 4.1 thumbnail
+
+- [Book V Scene 4, Panel 4.1 — Thumbnail Draft 0.1](Book-V-Scene-04-Panel-4-1-Thumbnail-Draft-0.1.md) — manual top-down close-up composition study.
+- Two documents using different date systems remain separate; Tavian copies date entries into a working table and draws a comparison line.
+- No calendar names, specific date values, regional emblems, conversions, or judgments about which calendar is correct are introduced.
+- The reading-room table near the window remains the continuity anchor from Scene 3, Panel 3.8.
+- Manual study image was created in the work session and is not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
