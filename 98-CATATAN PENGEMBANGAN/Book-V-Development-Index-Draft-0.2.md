@@ -240,3 +240,13 @@
 - Satu eksperimen flat lay top-down tanpa karakter tersedia. Dokumen/lampiran dan terjemahan kerja dipisahkan secara visual, dengan dua potongan konteks di ruang tengah tanpa simbol status.
 - Status: kandidat blocking, belum thumbnail final; pseudo-handwriting hanya placeholder dan tidak boleh dianggap teks sumber.
 - Total eksperimen lokal: 17 (6 halaman Scene 7–9 + 11 panel Scene 10). Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
+
+
+
+## Audit konsistensi lintas-panel Scene 10 — 2026-11-28
+
+- Manuskrip tetap menjadi sumber utama. Storyboard Panel 10.2 diperbarui untuk mencantumkan tiga aksi sesuai manuskrip: Tavian menunjukkan pilihan istilah, Seraphine memeriksa baris, Ilyra memeriksa kalimat lengkap.
+- Page 02 brief dan execution sheet Panel 10.5 diselaraskan: kutipan asli/lampiran dan terjemahan kerja harus terpisah; frasa **“belum dapat dibandingkan”** boleh terbaca karena berasal dari manuskrip.
+- Status audit: 10.1 struktur tabel dapat dipertahankan; 10.2 pemetaan gestur perlu revisi; 10.3–10.4 memerlukan figur netral atau character sheets; 10.5 memerlukan revisi staging.
+- Scene 10 belum siap dirakit menjadi halaman final. Total eksperimen lokal: 17; thumbnail diterima: 0; ilustrasi final: 0; binary PNG repository: 0.
+- Tidak ada perubahan manuskrip atau CANON.
