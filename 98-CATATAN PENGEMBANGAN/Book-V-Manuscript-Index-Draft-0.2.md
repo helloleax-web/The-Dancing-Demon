@@ -485,3 +485,12 @@
 - No amount, currency, receipt content, room design, or final character/location design is established.
 - Manual study image was created in the work session and is not stored as a binary asset in the repository.
 - All materials remain NON-CANON; CANON impact: none.
+
+
+### Scene 2 — Panel 2.7 thumbnail
+
+- [Book V Scene 2, Panel 2.7 — Thumbnail Draft 0.1](Book-V-Scene-02-Panel-2-7-Thumbnail-Draft-0.1.md) — manual insert/close-up blocking for the quiet night close of Scene 2.
+- Tavian's open map anchors the composition; travel notes, the NVR AGAIN sheet, and the source list remain three distinct paper groups, with NVR AGAIN between the other two.
+- No added writing, symbols, dates, map geography, source entries, or final prop/environment/character designs are established.
+- Manual study image was created in the work session and is not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
