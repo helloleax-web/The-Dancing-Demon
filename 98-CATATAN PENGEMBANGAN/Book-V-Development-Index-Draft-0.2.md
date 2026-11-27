@@ -100,3 +100,11 @@
 - [Scene 3 Page 1 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-03-Page-01-Illustrative-Thumbnail-Draft-0.1.md) mencatat Panels 3.1–3.2.
 - Aset PNG lokal sesi; belum di-commit sebagai file biner.
 - Status: dibuat untuk review, belum diterima; Semi-Flat Editorial dan 4:5 masih konfigurasi sementara. NON-CANON.
+
+
+## Thumbnail ilustratif — Scene 3, Page 2 — 2026-11-28
+
+- [Scene 3 Page 2 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-03-Page-02-Illustrative-Thumbnail-Draft-0.1.md) — Panels 3.3–3.4, proses administrasi dan perkenalan Neral.
+- PNG tersedia sebagai aset lokal sesi; file biner belum di-commit.
+- Total cakupan thumbnail ilustratif: 16/128 panel dalam 7 halaman (12,5%); belum ada thumbnail yang diterima kreator.
+- Semi-Flat Editorial dan 4:5 tetap konfigurasi uji sementara. Seluruh materi tetap NON-CANON.
