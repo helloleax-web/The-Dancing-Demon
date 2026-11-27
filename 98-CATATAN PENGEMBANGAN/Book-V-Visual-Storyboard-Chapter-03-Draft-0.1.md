@@ -56,10 +56,10 @@ Kode hanya label produksi.
 | Panel | Ukuran / sudut | Visual dan aksi | Fokus / batas |
 |---|---|---|---|
 | 10.1 | Top-down table | Tavian membuka tabel dengan kolom istilah asli, terjemahan kerja, dan konteks kalimat. Dua dokumen diletakkan terpisah. | Tampilkan struktur tabel; jangan menciptakan istilah sumber baru. |
-| 10.2 | Close-up text comparison | Tavian menunjuk satu istilah yang lebih dekat dengan ketahanan dan istilah lain yang dipilih penyalin untuk pemulihan. Ilyra memeriksa kalimat lengkap. | Jangan membuat kata asing atau terjemahan teknis tambahan. |
+| 10.2 | Close-up text comparison | Tavian menunjuk pilihan istilah; Seraphine memeriksa setiap baris; Ilyra memeriksa kalimat lengkap dan konteksnya. Dua kelompok dokumen tetap terpisah. | Ketiga aksi saling melengkapi. Jangan membuat kata asing atau terjemahan teknis tambahan, dan jangan menyiratkan kesimpulan final. |
 | 10.3 | Medium group | Daren bertanya apakah pemakai masih bisa terluka. Tavian dan Seraphine menjawab bahwa sumber yang diperiksa tidak menjelaskan batasnya. | Tidak ada visual simulasi pertahanan, luka, atau adegan pemakai jubah. |
 | 10.4 | Medium group / insert | Kael bertanya apakah regenerasi terus-menerus berarti tanpa batas penggunaan. Ilyra menegaskan ketiadaan keterangan bukan bukti bahwa batas tidak ada. | Jangan menetapkan batas atau ketiadaan batas. |
-| 10.5 | Top-down closing insert | Tavian memindahkan kutipan asli ke lampiran dan mempertahankan terjemahan kerja pada kolom terpisah; dua bagian dengan konteks halaman tidak lengkap diberi tanda belum dapat dibandingkan. | Hasilnya adalah tabel yang lebih jujur, bukan penjelasan cara kerja jubah. |
+| 10.5 | Top-down closing insert | Tavian memindahkan kutipan asli ke lampiran, mempertahankan terjemahan kerja pada kolom terpisah, lalu menandai dua bagian yang konteks halaman sumbernya tidak lengkap sebagai belum bisa dibandingkan. | Gunakan frasa status persis “belum dapat dibandingkan” bila ditampilkan terbaca. Jangan menyatukan kutipan dan terjemahan atau menyimpulkan hubungan dua bagian. Hasilnya adalah tabel yang lebih jujur, bukan penjelasan cara kerja jubah. |
 
 **Transisi masuk:** beberapa catatan telah menyebut efek, tetapi memakai pilihan kata berbeda.  
 **Transisi keluar:** pemisahan istilah dan mekanisme menjadi dasar untuk membaca istilah Resonansi Hitam pada Scene 11.  
