@@ -206,3 +206,16 @@ Dua output PNG eksperimental untuk Page 1 (Panels 10.1–10.3) diperiksa dan dit
 - Execution Sheet tetap menjadi acuan tertulis. Tidak ada perubahan CANON.
 
 **Status Scene 10:** 0 PNG valid; 2 percobaan ditolak.
+
+
+## Scene 10 — eksperimen panel tunggal 10.1 — 2026-11-28
+
+- Satu PNG eksperimen lokal dibuat khusus untuk Panel 10.1; bukan satu halaman penuh.
+- Komposisi: kamera top-down, tabel kerja tiga kolom tanpa teks terbaca, dua dokumen/catatan terpisah, dan tangan Tavian yang mengatur catatan.
+- Tidak ada jubah, pemakai, luka, perisai, aura, energi, regenerasi visual, simbol efek, kutipan, atau istilah rekaan.
+- Staging mengikuti fungsi storyboard Panel 10.1: tabel istilah asli / terjemahan kerja / konteks kalimat; dua dokumen tetap terpisah.
+- Properti dekoratif dan rendering masih eksperimen; belum ada persetujuan desain karakter, ruang, palet, atau rendering.
+- File lokal: `a_detailed_top_down_illustration_of_a_wooden_desk.png`.
+- File biner belum di-commit ke repository. Status kreator: menunggu review; tidak diterima otomatis.
+
+**Status Scene 10:** satu eksperimen panel tunggal lokal untuk 10.1; Page 1 dan Page 2 belum memiliki PNG halaman lengkap; tidak ada aset diterima. NON-CANON.
