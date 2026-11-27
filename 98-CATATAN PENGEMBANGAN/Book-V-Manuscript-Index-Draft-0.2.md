@@ -432,3 +432,12 @@
 - [Book V Scene 1 Composite Review — Draft 0.1](Book-V-Scene-01-Composite-Review-Draft-0.1.md) — pemeriksaan lima panel sebagai satu urutan visual, termasuk kontinuitas kelompok, properti, blocking, dan batas lore.
 - Composite blocking board diterima sebagai panduan komposisi abstrak; bukan ilustrasi final atau desain karakter/lokasi.
 - Scene 1: lima layout panel manual selesai dan lolos review komposisi. Semua materi tetap NON-CANON; dampak CANON nihil.
+
+
+### Scene 2 — Panel 2.1 thumbnail
+
+- [Book V Scene 2, Panel 2.1 — Thumbnail Draft 0.1](Book-V-Scene-02-Panel-2-1-Thumbnail-Draft-0.1.md) — manual wide-establishing composition study for the busy road toward Orlenn.
+- The board stages vegetable carts, water carriers, workers, merchants, and haulers as generic street activity; buildings remain abstract masses.
+- Accepted as an initial composition study only. No Orlenn architecture, city geography, signage, character design, or canon fact is established.
+- Manual study image was created in the work session and is not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
