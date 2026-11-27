@@ -37,6 +37,7 @@
 - [Chapter 1 Scene-by-Scene Blocking Audit](Book-V-Chapter-01-Scene-by-Scene-Blocking-Audit-Draft-0.1.md) — audit blocking tekstual 27 panel.
 - [Chapter 1 Visual Continuity Review](Book-V-Chapter-01-Visual-Continuity-Review-Draft-0.1.md) — kontinuitas properti, ruang, waktu, dan kamera.
 - [Production Design Specification — Bab 1](Book-V-Production-Design-Specification-Chapter-01-Draft-0.1.md) — spesifikasi produksi awal Bab 1.
+- [Global Production Design Specification — Draft 0.1](Book-V-Global-Production-Design-Specification-Draft-0.1.md) — pedoman produksi lintas lima bab, semua keputusan final tetap terbuka.
 - [Visual Continuity Audit — Draft 0.1](Book-V-Visual-Continuity-Audit-Draft-0.1.md) — audit lintas 22 scene / 128 panel.
 - [Panel Production Register — Draft 0.1](Book-V-Panel-Production-Register-Draft-0.1.md) — register status 128 panel.
 - [Chapter 2 Blocking Review — Draft 0.1](Book-V-Chapter-02-Blocking-Review-Draft-0.1.md) — review dan alignment 26 panel Bab 2.
@@ -59,9 +60,9 @@
 
 ## Tahap produksi berikutnya
 
-1. Uji format halaman dan rendering pada panel representatif setelah keputusan kreator.
-2. Buat thumbnail ilustratif setelah arah visual disetujui.
+1. Dapatkan keputusan kreator tentang kandidat rendering, rasio halaman, dan media output.
+2. Setelah keputusan, buat thumbnail ilustratif per halaman dengan blocking yang telah diterima.
 3. Review thumbnail dan revisi sebelum ilustrasi final.
-4. Jangan membuat desain final karakter/lokasi atau menetapkan gaya/format publikasi tanpa keputusan kreator.
+4. Desain final karakter/lokasi dan tipografi tetap menunggu persetujuan terpisah.
 
 **Dampak CANON: tidak ada.** Semua storyboard, blocking, dan keputusan produksi yang belum disahkan tetap NON-CANON.
