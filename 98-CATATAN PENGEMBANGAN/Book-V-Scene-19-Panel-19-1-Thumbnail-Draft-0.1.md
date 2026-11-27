@@ -1,20 +1,23 @@
 # Book V — Scene 19, Panel 19.1
-## Thumbnail / Manual Blocking Draft 0.1
+## Thumbnail / Manual Blocking Draft 0.1 — Alignment Revision
 
 **Status:** NON-CANON  
-**Jenis:** Report assembled for release  
-**Fungsi:** Meneruskan beat Scene 19 tanpa menambah fakta di luar outline.
+**Jenis:** Manual blocking / storyboard alignment  
+**Fungsi:** Pemeriksaan final.
 
 ### Komposisi
-The group prepares the limited reconstruction with source references, disagreements, and confidence levels visible. The layout emphasizes traceability rather than a single seamless narrative.
+Wide group. Seraphine memeriksa kutipan, Ilyra istilah, Tavian lokasi sumber dan kronologi, Mira asal kesaksian, Daren urutan pemeriksaan, Kael membaca pembuka.
 
 ### Batas visual dan informasi
-Do not invent publication platform, date, publisher, citations, or extra findings.
+- Tidak menambah platform, penerbit, tanggal, atau temuan.
+- Karakter tetap placeholder; tidak ada wajah, rambut, kostum, proporsi, atau aksesori final.
+- Dokumen yang tidak memiliki isi eksplisit dalam manuskrip tetap berupa placeholder tak terbaca.
+- Tidak menambahkan dialog, fakta sejarah, tanggal, lokasi, identitas, atau hubungan lore.
 
 ### Relasi kontinuitas
-This is the concrete output of the investigation described in Scene 19.
+Panel ini diselaraskan dengan Visual Storyboard Bab 5 Revision 0.1. Revisi mengganti fungsi blocking lama agar nomor panel mengikuti urutan storyboard terbaru.
 
 ### Status kanon
-Blocking, tata letak, dan detail visual merupakan bahan produksi NON-CANON. Panel ini tidak mengubah fakta CANON.
+Blocking dan tata letak adalah bahan produksi NON-CANON. Tidak ada perubahan pada manuskrip atau fakta CANON.
 
 **Dampak CANON: tidak ada.**
