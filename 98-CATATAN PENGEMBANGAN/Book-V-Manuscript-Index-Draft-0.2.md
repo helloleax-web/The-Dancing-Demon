@@ -965,3 +965,10 @@
 - A report about an unspecified unusual phenomenon serves only as a general lead; it is not verified or explained.
 - Manual study image is included in the local Scene 12–22 blocking bundle, not stored as a binary asset in the repository.
 - All materials remain NON-CANON; CANON impact: none.
+
+## Produksi visual — Bab 2
+
+- [Book V Visual Storyboard — Bab 2: Musik Tanpa Nama](Book-V-Visual-Storyboard-Chapter-02-Draft-0.1.md) — storyboard teks Scenes 5–8, 26 panel, daftar aset dan risiko kontinuitas.
+- Nama NVR AGAIN hanya muncul pada salinan pembacaan Prasasti dan rumusan hasil akhir; sumber sejarah awal dan kesaksian tidak diberi nama tersebut.
+- Independensi sumber dan jalur pewarisan kesaksian tetap diperiksa; sumber yang belum teruji tidak dihitung sebagai konfirmasi terpisah.
+- Thumbnail panel-per-panel dan ilustrasi final Bab 2 belum dibuat. Seluruh materi visual tetap NON-CANON.
