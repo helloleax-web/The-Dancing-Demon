@@ -109,7 +109,7 @@
 ### Status produksi per 2026-11-28
 
 - Bab 1: storyboard teks dan 27 panel blocking/layout manual tersedia; audit blocking dan kontinuitas telah dibuat.
-- Bab 2: storyboard teks 26 panel selesai; brief halaman thumbnail terdokumentasi untuk seluruh Scene 5–8 (masing-masing tiga halaman); PNG eksperimen lokal tersedia untuk Scene 7 Page 1–2, Scene 8 Page 1, dan Scene 9 Page 1; seluruhnya belum diterima.
+- Bab 2: storyboard teks 26 panel selesai; brief halaman thumbnail terdokumentasi untuk seluruh Scene 5–8 (masing-masing tiga halaman); PNG eksperimen lokal tersedia untuk Scene 7 Page 1–2, Scene 8 Page 1, dan Scene 9 Page 1–2; seluruhnya belum diterima.
 - Bab 3: storyboard teks 26 panel selesai; brief halaman thumbnail seluruh Scene 9–13 terdokumentasi; hipotesis mekanisme dan cakupan Resonansi Hitam tetap tidak dipastikan.
 - Bab 4: storyboard teks 27 panel selesai; brief halaman thumbnail Scene 14–18 terdokumentasi; perlindungan pemberi kesaksian dan pemisahan arsip lengkap/ringkasan publik dijaga.
 - Bab 5: storyboard teks 22 panel selesai; brief halaman thumbnail seluruh Scene 19–22 terdokumentasi; laporan fenomena penutup tetap belum diverifikasi.
@@ -118,7 +118,7 @@
 - Audit kontinuitas visual lintas lima bab selesai pada tingkat dokumen. Register menunjukkan 128 panel memiliki blocking awal dan seluruhnya telah lolos review blocking komposisi kasar setelah 28 koreksi alignment.
 - Brief halaman thumbnail Scene 5–8 masing-masing mencakup seluruh panel scene dalam tiga halaman per scene. Semua masih draft NON-CANON dan menunggu review.
 - Repository memiliki 59 dokumen halaman thumbnail untuk seluruh 22 scene. Dokumen tersebut adalah brief/catatan produksi, bukan bukti bahwa seluruh PNG sudah dibuat atau diterima.
-- PNG halaman belum tersimpan sebagai binary repository assets. Empat PNG eksperimen lokal tercatat: Scene 7 Page 1, Scene 7 Page 2, Scene 8 Page 1, dan Scene 9 Page 1. Scene 7 Page 3 dan Scene 8 Page 2 belum memiliki PNG valid; Scene 8 Page 3 belum dibuat; Scene 9 Page 2–3 belum memiliki PNG valid. Rincian ada di Illustrative Thumbnail Asset Log.
+- PNG halaman belum tersimpan sebagai binary repository assets. Lima PNG eksperimen lokal tercatat: Scene 7 Page 1–2, Scene 8 Page 1, dan Scene 9 Page 1–2. Scene 7 Page 3 dan Scene 8 Page 2 belum memiliki PNG valid; Scene 8 Page 3 belum dibuat; Scene 9 Page 3 belum memiliki PNG valid. Rincian ada di Illustrative Thumbnail Asset Log.
 - Tidak ada aset visual yang mengesahkan detail NON-CANON menjadi CANON.
 
 ## Tahap produksi berikutnya
