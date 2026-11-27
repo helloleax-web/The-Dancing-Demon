@@ -207,3 +207,12 @@
 - 10.4: two-shot dengan tabel dapat dipertahankan sebagai draft struktur.
 - 10.5: perlu revisi agar aksi pemindahan kutipan asli ke lampiran terbaca.
 - Tidak ada thumbnail final diterima; tidak ada perubahan CANON.
+
+
+
+### Eksperimen revisi Panel 10.2 — 2026-11-28
+
+- Panel 10.2 telah diarahkan ulang ke close-up text comparison sesuai storyboard; brief dan execution sheet diperbarui.
+- Satu output revisi memperlihatkan tabel tiga kolom dan gestur pemeriksaan oleh tiga pihak tanpa menampilkan wajah. Status kandidat blocking, belum diterima sebagai thumbnail final.
+- Total eksperimen lokal: 13 (6 halaman Scene 7–9 + 7 panel Scene 10). Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
+- Tidak ada perubahan CANON.
