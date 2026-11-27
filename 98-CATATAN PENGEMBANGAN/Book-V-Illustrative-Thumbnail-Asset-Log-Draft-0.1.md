@@ -400,3 +400,14 @@ Keduanya NON-CANON, bukan thumbnail diterima. Tidak ada visual jubah, pemakai, l
 - Pakaian, bentuk tubuh, rak, jendela, dan lampu merupakan detail generatif NON-CANON. Identitas Kael/Ilyra belum dapat dipastikan. Tabel kosong bukan bukti bahwa batas tidak ada.
 - Status: studi komposisi / kandidat evaluasi, belum thumbnail final.
 - Total eksperimen lokal menjadi 20 (6 halaman Scene 7–9 + 14 panel Scene 10). Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
+
+
+
+## Eksperimen revisi Panel 10.5 — 2026-11-28
+
+- File lokal: `a_detailed_overhead_flat_lay_illustration_on_a_woo.png` (1536 × 1024).
+- Top-down tanpa karakter/tangan. Tumpukan lembar lampiran/kutipan asli di kiri, lembar kerja terpisah di kanan, dua potongan konteks terpisah di tengah.
+- Masing-masing potongan konteks diberi label literal **“belum dapat dibandingkan”**. Tidak ada panah, garis, checklist, ikon, atau simbol hubungan.
+- Pseudo-handwriting lain tetap placeholder, bukan isi sumber. Grid dua kolom di kanan hanya representasi area terjemahan kerja; bukan pengganti tabel tiga kolom Panel 10.1.
+- Status: kandidat blocking flat-lay paling sesuai sejauh ini, belum thumbnail final. NON-CANON.
+- Total eksperimen lokal menjadi 21 (6 halaman Scene 7–9 + 15 panel Scene 10). Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
