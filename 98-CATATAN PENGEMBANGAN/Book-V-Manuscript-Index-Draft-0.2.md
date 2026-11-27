@@ -623,3 +623,12 @@
 - No depiction of LEAX, silhouette, location, cause, circumstances, or added catalogue details is introduced.
 - Manual study image was created in the work session and is not stored as a binary asset in the repository.
 - All materials remain NON-CANON; CANON impact: none.
+
+
+### Scene 4 — Panel 4.7 thumbnail
+
+- [Book V Scene 4, Panel 4.7 — Thumbnail Draft 0.1](Book-V-Scene-04-Panel-4-7-Thumbnail-Draft-0.1.md) — manual medium-close-up blocking study of hands and documents.
+- Tavian copies the minimum catalogue fact; Seraphine keeps it outside the event sequence; Ilyra groups terms without prematurely merging them.
+- No added LEAX details, chronology, dates, new terminology, or invented document content.
+- Manual study image was created in the work session and is not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
