@@ -1154,3 +1154,11 @@ Kedua review tidak menyetujui thumbnail ilustratif atau ilustrasi final. Seluruh
 - [Scene 3 Page 2 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-03-Page-02-Illustrative-Thumbnail-Draft-0.1.md) — thumbnail untuk Panels 3.3–3.4: penyerahan surat permohonan akses dan perkenalan Neral.
 - PNG tersedia sebagai aset lokal sesi; file biner belum disimpan ke repository.
 - Status: menunggu review kreator; belum diterima. Semua detail visual tetap NON-CANON.
+
+
+
+## Thumbnail ilustratif — Scene 3 Page 3
+
+- [Scene 3 Page 3 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-03-Page-03-Illustrative-Thumbnail-Draft-0.1.md) — thumbnail untuk Panels 3.5–3.6, dengan perlindungan privasi katalog dan percakapan batas akses.
+- PNG tersedia sebagai aset lokal sesi; file biner belum disimpan ke repository.
+- Status: menunggu review kreator; belum diterima. Seluruh detail visual NON-CANON.
