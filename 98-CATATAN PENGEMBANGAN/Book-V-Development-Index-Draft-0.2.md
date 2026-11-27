@@ -250,3 +250,11 @@
 - Status audit: 10.1 struktur tabel dapat dipertahankan; 10.2 pemetaan gestur perlu revisi; 10.3–10.4 memerlukan figur netral atau character sheets; 10.5 memerlukan revisi staging.
 - Scene 10 belum siap dirakit menjadi halaman final. Total eksperimen lokal: 17; thumbnail diterima: 0; ilustrasi final: 0; binary PNG repository: 0.
 - Tidak ada perubahan manuskrip atau CANON.
+
+
+
+### Eksperimen revisi Panel 10.2 — 2026-11-28
+
+- Satu close-up baru memperlihatkan tiga aksi yang dibedakan melalui blocking: menunjuk istilah, menelusuri baris tabel, dan memeriksa kalimat lengkap pada dokumen sumber terpisah.
+- Struktur tabel tiga kolom terlihat; identitas visual karakter tidak dikunci. Kandidat blocking, belum thumbnail final.
+- Total eksperimen lokal: 18; thumbnail diterima: 0; ilustrasi final: 0; binary PNG repository: 0.
