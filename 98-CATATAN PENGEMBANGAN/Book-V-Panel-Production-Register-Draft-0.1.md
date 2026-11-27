@@ -660,3 +660,14 @@ Rincian: [Illustrative Thumbnail Asset Log — Draft 0.1](Book-V-Illustrative-Th
 - Rincian tersedia pada `Book-V-Scene-10-Thumbnail-Review-Draft-0.1.md`.
 
 **Dampak CANON: tidak ada.**
+
+
+
+## Koreksi review Scene 10 — 2026-11-28
+
+Manuskrip Chapter 3 Revision Draft 0.4 diperiksa langsung. Kesimpulan review terdahulu yang menyebut konflik sumber pada Panel 10.1 dan 10.2 dikoreksi:
+
+- 10.1: struktur tabel manuskrip adalah tiga kolom (istilah asli, terjemahan kerja, konteks kalimat); brief dan execution sheet telah diselaraskan. Eksperimen tetap perlu revisi jika struktur tiga kolom belum terbaca.
+- 10.2: aksi Tavian (menunjukkan pilihan istilah), Seraphine (memeriksa baris), dan Ilyra (memeriksa kalimat lengkap) saling melengkapi. Tidak ada konflik karakter.
+- Status penerimaan lima eksperimen tidak berubah: belum ada thumbnail Scene 10 yang diterima.
+- Laporan review telah diperbarui. Tidak ada perubahan CANON.
