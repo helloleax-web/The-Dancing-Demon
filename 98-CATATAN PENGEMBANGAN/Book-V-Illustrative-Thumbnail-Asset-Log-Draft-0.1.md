@@ -113,3 +113,16 @@ PNG eksperimen lokal untuk Page 1 telah dibuat; belum ada PNG valid untuk Page 2
 - Pemeriksaan lanjutan wajib memastikan properti dan jumlah figur sesuai storyboard.
 
 **Status Scene 9:** Page 1 PNG eksperimen lokal; Page 2 dan Page 3 belum memiliki PNG valid. Tidak ada aset diterima.
+
+
+### Scene 9 — Page 2 eksperimen lokal
+
+- File: `LEAX_BookV_Scene09_Page02_IllustrativeThumbnail_Draft01.png`.
+- Resolusi: 1122 × 1402 px.
+- Panel: 9.3–9.4.
+- Panel 9.3 memperlihatkan pemeriksaan dokumen dan pencatatan; panel 9.4 close-up entri arsip.
+- Tidak ada visual jubah, pemakai, perisai, atau regenerasi.
+- Tulisan berupa placeholder tak terbaca, bukan kutipan canon.
+- File biner belum masuk repository; belum diterima kreator.
+
+**Status Scene 9:** Page 1 dan Page 2 memiliki PNG eksperimen lokal; Page 3 belum memiliki PNG valid. Seluruhnya NON-CANON dan menunggu review.
