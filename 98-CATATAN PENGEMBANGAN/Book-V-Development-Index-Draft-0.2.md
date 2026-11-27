@@ -82,6 +82,17 @@
 - [Scene 18 Page 1 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-18-Page-01-Illustrative-Thumbnail-Draft-0.1.md) — Panels 18.1–18.2.
 - [Scene 18 Page 2 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-18-Page-02-Illustrative-Thumbnail-Draft-0.1.md) — Panels 18.3–18.4.
 - [Scene 18 Page 3 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-18-Page-03-Illustrative-Thumbnail-Draft-0.1.md) — Panels 18.5–18.6.
+- [Scene 19 Page 1 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-19-Page-01-Illustrative-Thumbnail-Draft-0.1.md) — Panels 19.1–19.2.
+- [Scene 19 Page 2 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-19-Page-02-Illustrative-Thumbnail-Draft-0.1.md) — Panels 19.3–19.4.
+- [Scene 19 Page 3 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-19-Page-03-Illustrative-Thumbnail-Draft-0.1.md) — Panel 19.5.
+- [Scene 20 Page 1 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-20-Page-01-Illustrative-Thumbnail-Draft-0.1.md) — Panels 20.1–20.2.
+- [Scene 20 Page 2 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-20-Page-02-Illustrative-Thumbnail-Draft-0.1.md) — Panels 20.3–20.4.
+- [Scene 20 Page 3 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-20-Page-03-Illustrative-Thumbnail-Draft-0.1.md) — Panels 20.5–20.6.
+- [Scene 21 Page 1 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-21-Page-01-Illustrative-Thumbnail-Draft-0.1.md) — Panels 21.1–21.2.
+- [Scene 21 Page 2 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-21-Page-02-Illustrative-Thumbnail-Draft-0.1.md) — Panels 21.3–21.4.
+- [Scene 22 Page 1 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-22-Page-01-Illustrative-Thumbnail-Draft-0.1.md) — Panels 22.1–22.2.
+- [Scene 22 Page 2 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-22-Page-02-Illustrative-Thumbnail-Draft-0.1.md) — Panels 22.3–22.4.
+- [Scene 22 Page 3 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-22-Page-03-Illustrative-Thumbnail-Draft-0.1.md) — Panels 22.5–22.7.
 
 ### Status produksi per 2026-11-28
 
@@ -89,7 +100,7 @@
 - Bab 2: storyboard teks 26 panel selesai; brief halaman thumbnail terdokumentasi untuk seluruh Scene 5–8 (masing-masing tiga halaman); PNG ilustratif dan ilustrasi final belum dibuat dalam rangkaian commit ini.
 - Bab 3: storyboard teks 26 panel selesai; brief halaman thumbnail seluruh Scene 9–13 terdokumentasi; hipotesis mekanisme dan cakupan Resonansi Hitam tetap tidak dipastikan.
 - Bab 4: storyboard teks 27 panel selesai; brief halaman thumbnail Scene 14–18 terdokumentasi; perlindungan pemberi kesaksian dan pemisahan arsip lengkap/ringkasan publik dijaga.
-- Bab 5: storyboard teks 22 panel selesai; laporan fenomena penutup tetap belum diverifikasi.
+- Bab 5: storyboard teks 22 panel selesai; brief halaman thumbnail seluruh Scene 19–22 terdokumentasi; laporan fenomena penutup tetap belum diverifikasi.
 - Bab 3–5: panel thumbnail/blocking awal telah dicatat untuk Scenes 9–22; storyboard visual bab lengkap dan audit blocking terpadu belum dibuat.
 - Desain final karakter/lokasi, palet, rendering, rasio halaman, tipografi, ukuran output, dan format publikasi belum dikunci.
 - Audit kontinuitas visual lintas lima bab selesai pada tingkat dokumen. Register menunjukkan 128 panel memiliki blocking awal dan seluruhnya telah lolos review blocking komposisi kasar setelah 28 koreksi alignment.
@@ -99,9 +110,9 @@
 
 ## Tahap produksi berikutnya
 
-1. Lanjutkan brief halaman thumbnail Chapter 5 dari Scene 19 dengan mengikuti storyboard dan blocking yang telah diperiksa.
-2. Sinkronkan Panel Production Register dengan cakupan brief halaman Scene 5–18.
-3. Buat dan review aset PNG halaman setelah arah visual, format, dan kebutuhan aset disiapkan.
+1. Seluruh 22 scene kini memiliki brief halaman thumbnail; tahap berikutnya adalah membuat aset PNG berdasarkan brief dan blocking yang sudah diperiksa.
+2. Sinkronkan status produksi per halaman ketika PNG dibuat, direview, dan diterima.
+3. Audit ulang batas kontinuitas dan privasi sebelum ilustrasi final.
 4. Desain final karakter/lokasi, format, dan tipografi tetap menunggu keputusan terpisah.
 
 **Dampak CANON: tidak ada.** Semua storyboard, blocking, dan keputusan produksi yang belum disahkan tetap NON-CANON.
