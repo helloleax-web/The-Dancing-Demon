@@ -1091,3 +1091,10 @@ Kedua review tidak menyetujui thumbnail ilustratif atau ilustrasi final. Seluruh
 
 - [Book V Blocking Acceptance Report — Draft 0.1](Book-V-Blocking-Acceptance-Report-Draft-0.1.md) — seluruh 128/128 panel diterima sebagai blocking komposisi kasar.
 - Thumbnail ilustratif dan ilustrasi final belum dibuat/diterima; keputusan visual final tetap terbuka.
+
+
+## Uji rendering kelompok — 2026-11-28
+
+- [Visual Language Study — Draft 0.1](Book-V-Visual-Language-Study-Draft-0.1.md) diperbarui dengan perbandingan Ink & Wash, Semi-Flat Editorial, dan Archival Etching pada komposisi kelompok yang sama.
+- Semi-Flat Editorial tetap kandidat utama karena keterbacaan siluet dan properti; belum disetujui kreator.
+- Palet, desain karakter/lokasi, dan tipografi tetap belum dikunci.
