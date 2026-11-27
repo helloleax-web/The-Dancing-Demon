@@ -67,3 +67,13 @@
 4. Desain final karakter/lokasi dan tipografi tetap menunggu persetujuan terpisah.
 
 **Dampak CANON: tidak ada.** Semua storyboard, blocking, dan keputusan produksi yang belum disahkan tetap NON-CANON.
+
+
+## Pembaruan thumbnail ilustratif — 2026-11-28
+
+- Scene 1 Page 1: Panels 1.1–1.3 memiliki thumbnail draft, menunggu review.
+- Scene 1 Page 2: Panels 1.4–1.5 memiliki thumbnail Draft 0.2 setelah koreksi jumlah placeholder kelompok dan penghapusan heading dokumen yang tidak didukung.
+- Scene 2 Page 1: Panels 2.1–2.3 memiliki thumbnail draft.
+- Total cakupan thumbnail ilustratif: 8/128 panel dalam 3 halaman; belum ada thumbnail yang diterima kreator. Angka ini menghitung panel yang sudah divisualisasikan, bukan panel final.
+- PNG ketiga halaman masih berupa aset lokal sesi; dokumentasi metadata tersimpan di repository, tetapi file biner belum di-commit.
+- Semi-Flat Editorial dan 4:5 tetap konfigurasi uji, bukan keputusan desain final. Seluruh materi tetap NON-CANON.
