@@ -167,3 +167,28 @@ Manuskrip utama **Book V Manuscript Chapter 03 Revision Draft 0.4** mengatur isi
 - Peran penanya dan dua penjawab terbaca melalui blocking, tanpa desain karakter final.
 - Dokumen hadir sebagai konteks.
 - Tidak ada visual efek jubah atau informasi yang tidak didukung manuskrip.
+
+
+## Blocking manual — Panel 10.4 — 2026-11-28
+
+**Acuan isi:** manuskrip Chapter 3 Revision Draft 0.4. Kael bertanya apakah pemulihan HP dan MP yang berlangsung terus-menerus berarti tidak ada batas penggunaan. Ilyra menjawab bahwa sumber tidak memberi keterangan tentang batas, tetapi ketiadaan keterangan bukan bukti bahwa batas tidak ada.
+
+**Komposisi**
+- Satu panel medium two-shot dengan Kael dan Ilyra sebagai fokus percakapan.
+- Kael mengajukan pertanyaan dengan gestur kecil ke arah tabel, bukan gestur dramatis.
+- Ilyra menjawab sambil merujuk ke area catatan yang tidak memuat informasi batas.
+- Tabel tetap terlihat sebagai konteks di meja; gunakan ruang kosong/kolom catatan tanpa isi, bukan diagram.
+- Sudut kamera setinggi meja atau sedikit over-shoulder; kedua figur dan tabel terbaca dalam satu frame.
+- Gunakan wajah sederhana, siluet netral, atau tampilan samping; jangan menetapkan rambut, wajah, kostum, usia visual, aksesori, atau ciri tubuh karena character sheets belum disahkan.
+
+**Batas**
+- Jangan menampilkan angka, durasi, ukuran, batas, skala, meter, bar, ikon HP/MP, atau simulasi efek.
+- Jangan menggambarkan regenerasi, energi, aura, luka, jubah, pemakai, perisai, atau mekanisme.
+- Jangan membuat ketiadaan keterangan tampak seperti bukti bahwa batas tidak ada.
+- Jangan menambah dialog, karakter, kutipan, nama sumber, tanggal, atau lokasi.
+
+**Acceptance gate**
+- Tepat dua figur utama: Kael dan Ilyra.
+- Gestur Kael terbaca sebagai pertanyaan; Ilyra sebagai jawaban berhati-hati.
+- Tabel hadir sebagai konteks, bukan diagram kemampuan.
+- Tidak ada simbol/game UI atau visual efek.
