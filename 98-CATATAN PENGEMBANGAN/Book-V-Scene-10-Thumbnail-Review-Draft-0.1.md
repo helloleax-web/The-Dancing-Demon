@@ -116,3 +116,33 @@ Dua output tambahan dibuat setelah blocking diselaraskan dengan Visual Storyboar
 **Hitungan eksperimen:** 6 eksperimen halaman Scene 7–9 + 7 eksperimen panel Scene 10 = 13 eksperimen lokal. Panel 10.2 kini memiliki dua eksperimen tambahan pada tahap ini: satu percobaan kasar dan satu kandidat revisi. Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
 
 **Dampak CANON: tidak ada.**
+
+
+
+## Review eksperimen Panel 10.3 — 2026-11-28
+
+Dua eksperimen generasi medium group dibuat berdasarkan manuskrip Chapter 3 Revision Draft 0.4. Keduanya menampilkan tiga figur di sekitar meja dokumen dan percakapan tenang. Tidak ada jubah, pemakai, luka, perisai, atau efek yang digambarkan.
+
+**Eksperimen A:** `/mnt/data/a_detailed_illustrated_scene_in_warm_muted_sepia.png` (1536 × 1024).
+- Medium group tiga figur terbaca; satu figur gesturnya seperti bertanya, satu memegang/memeriksa dokumen, dan satu merespons dengan gestur terbuka.
+- Dokumen dan tabel hadir sebagai konteks.
+- Kekurangan: rambut, wajah, kacamata, pakaian, dan detail ruang sangat spesifik, padahal desain karakter/lokasi belum disahkan. Tidak dapat dipastikan secara sah bahwa figur tertentu adalah Daren, Tavian, atau Seraphine.
+
+**Eksperimen B:** `/mnt/data/a_detailed_cinematic_anime_style_illustration_of.png` (1024 × 1280).
+- Tiga figur dan meja dokumen terlihat, tetapi komposisinya lebih dekat/cropped dan memberi detail karakter yang sama-sama belum disahkan.
+- Gestur percakapan ada, tetapi pembagian peran tidak lebih jelas daripada Eksperimen A.
+
+| Kriteria | Hasil |
+|---|---|
+| Medium group tiga figur | Terpenuhi pada kedua output |
+| Dokumen sebagai konteks | Terpenuhi |
+| Percakapan tenang, bukan demonstrasi | Secara umum terpenuhi |
+| Peran Daren/Tavian/Seraphine terbaca pasti | Belum; tidak boleh disimpulkan dari desain generatif |
+| Tidak ada visual jubah/efek/luka/perisai | Terpenuhi |
+| Desain karakter/lokasi tidak terkunci | Gagal sebagai aset final; detail generatif terlalu spesifik |
+
+**Keputusan:** kedua output dicatat sebagai eksperimen komposisi NON-CANON, bukan kandidat thumbnail final. Eksperimen A lebih berguna untuk studi blocking medium group, tetapi tidak boleh dipakai sebagai acuan wajah, kostum, rambut, atau desain lokasi. Revisi selanjutnya sebaiknya memakai siluet/figur netral atau menunggu character sheets yang disahkan.
+
+**Hitungan eksperimen lokal:** 6 eksperimen halaman Scene 7–9 + 9 eksperimen panel Scene 10 = 15. Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
+
+**Dampak CANON: tidak ada.**
