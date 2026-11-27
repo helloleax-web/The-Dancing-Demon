@@ -119,7 +119,7 @@
 - Audit kontinuitas visual lintas lima bab selesai pada tingkat dokumen. Register menunjukkan 128 panel memiliki blocking awal dan seluruhnya telah lolos review blocking komposisi kasar setelah 28 koreksi alignment.
 - Brief halaman thumbnail Scene 5–8 masing-masing mencakup seluruh panel scene dalam tiga halaman per scene. Semua masih draft NON-CANON dan menunggu review.
 - Repository memiliki 59 dokumen halaman thumbnail untuk seluruh 22 scene. Dokumen tersebut adalah brief/catatan produksi, bukan bukti bahwa seluruh PNG sudah dibuat atau diterima.
-- PNG halaman belum tersimpan sebagai binary repository assets. Enam PNG eksperimen halaman tercatat: Scene 7 Page 1–2, Scene 8 Page 1, dan Scene 9 Page 1–3; satu eksperimen panel tunggal Scene 10.1 juga tersedia lokal. Scene 10 Panel 10.1 memiliki satu eksperimen panel tunggal lokal yang menunggu review; Page 1–2 belum memiliki PNG halaman lengkap; dua output halaman gabungan sebelumnya ditolak. Scene 7 Page 3 dan Scene 8 Page 2 belum memiliki PNG valid; Scene 8 Page 3 belum dibuat; Scene 9 Page 1–3 memiliki PNG eksperimen lokal, belum diterima. Rincian ada di Illustrative Thumbnail Asset Log.
+- PNG halaman belum tersimpan sebagai binary repository assets. Enam PNG eksperimen halaman tercatat: Scene 7 Page 1–2, Scene 8 Page 1, dan Scene 9 Page 1–3; dua eksperimen panel tunggal Scene 10.1–10.2 juga tersedia lokal. Scene 10 Panel 10.1–10.2 masing-masing memiliki satu eksperimen panel tunggal lokal yang menunggu review; Page 1–2 belum memiliki PNG halaman lengkap; dua output halaman gabungan sebelumnya ditolak. Scene 7 Page 3 dan Scene 8 Page 2 belum memiliki PNG valid; Scene 8 Page 3 belum dibuat; Scene 9 Page 1–3 memiliki PNG eksperimen lokal, belum diterima. Rincian ada di Illustrative Thumbnail Asset Log.
 - Tidak ada aset visual yang mengesahkan detail NON-CANON menjadi CANON.
 
 ## Tahap produksi berikutnya
@@ -135,7 +135,17 @@
 ### Pembaruan produksi visual — 2026-11-28
 
 - Scene 10 Panel 10.1: satu eksperimen PNG panel tunggal tersedia lokal dan menunggu review kreator.
-- Panel 10.2–10.5 belum memiliki eksperimen visual valid.
-- Enam eksperimen halaman Scene 7–9 tetap menunggu review; satu eksperimen panel Scene 10.1 menambah jumlah eksperimen lokal menjadi tujuh, tetapi bukan tujuh halaman.
+- Panel 10.3–10.5 belum memiliki eksperimen visual valid.
+- Enam eksperimen halaman Scene 7–9 tetap menunggu review; dua eksperimen panel Scene 10.1–10.2 menambah jumlah eksperimen lokal menjadi delapan, tetapi bukan delapan halaman.
+- Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
+- Tidak ada perubahan CANON.
+
+
+### Pembaruan produksi visual — 2026-11-28
+
+- Scene 10 Panel 10.1 dan 10.2: masing-masing satu eksperimen PNG panel tunggal tersedia lokal dan menunggu review kreator.
+- Percobaan pertama Panel 10.2 yang menggabungkan dua kelompok catatan dan menetapkan desain karakter ditolak.
+- Panel 10.3–10.5 belum memiliki eksperimen visual valid.
+- Enam eksperimen halaman Scene 7–9 ditambah dua eksperimen panel Scene 10.1–10.2 = delapan eksperimen lokal; bukan delapan halaman.
 - Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
 - Tidak ada perubahan CANON.
