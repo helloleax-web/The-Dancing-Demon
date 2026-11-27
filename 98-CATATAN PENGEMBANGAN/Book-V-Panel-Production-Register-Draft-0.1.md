@@ -739,3 +739,12 @@ Berdasarkan contact sheet yang diperiksa ulang:
 - Storyboard 10.2 dan dokumen produksi 10.5 diperbarui berdasarkan manuskrip.
 - Scene 10 belum siap dirakit sebagai halaman final; tidak ada thumbnail diterima.
 - Total eksperimen lokal: 17; thumbnail diterima: 0; ilustrasi final: 0; binary PNG repository: 0.
+
+
+
+## Eksperimen revisi Panel 10.2 — 2026-11-28
+
+- Output lokal baru memperlihatkan tiga aksi terpisah: menunjuk istilah, memeriksa baris dengan pena, dan membuka/memeriksa kalimat lengkap.
+- Struktur tabel tiga kolom dan dokumen sumber terpisah terbaca. Tidak ada wajah/desain karakter final.
+- Status: kandidat blocking terkuat sejauh ini; belum diterima sebagai thumbnail final dan belum di-commit sebagai binary.
+- Total eksperimen lokal: 18; thumbnail diterima: 0; ilustrasi final: 0; binary PNG repository: 0.
