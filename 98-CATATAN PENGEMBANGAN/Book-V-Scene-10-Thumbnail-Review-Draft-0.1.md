@@ -191,3 +191,39 @@ Satu eksperimen medium two-shot dibuat berdasarkan manuskrip Chapter 3 Revision 
 **Hitungan eksperimen lokal:** 6 eksperimen halaman Scene 7–9 + 11 eksperimen panel Scene 10 = 17. Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
 
 **Dampak CANON: tidak ada.**
+
+
+
+## Audit konsistensi lintas-panel Scene 10 — 2026-11-28
+
+Audit dilakukan dengan hierarki sumber: manuskrip Chapter 3 Revision Draft 0.4 → Visual Storyboard Chapter 03 → page briefs → Visual Execution Sheet → eksperimen PNG. Manuskrip tidak diubah.
+
+### Temuan dan tindakan koreksi dokumen
+
+1. **Panel 10.1:** manuskrip dan storyboard menetapkan tabel tiga kolom: istilah asli, terjemahan kerja, konteks kalimat. Page 01 brief dan execution sheet sudah diarahkan ke struktur ini. Eksperimen sebelumnya memperlihatkan struktur tiga kolom secara kasar; isi pseudo-handwriting tetap placeholder. Status: struktur dapat dipertahankan untuk blocking, belum final.
+2. **Panel 10.2:** manuskrip menetapkan tiga aksi saling melengkapi: Tavian menunjukkan pilihan istilah, Seraphine memeriksa setiap baris, Ilyra memeriksa kalimat lengkap. Storyboard lama hanya menuliskan Tavian dan Ilyra; ini merupakan ketertinggalan storyboard, bukan perubahan manuskrip. Storyboard telah diperbarui. Eksperimen revisi memperlihatkan tiga gestur tangan, tetapi belum dapat mengidentifikasi siapa melakukan aksi yang mana. Status: kandidat blocking, belum final.
+3. **Panel 10.3:** manuskrip: Daren bertanya; Tavian menyatakan dokumen tidak menjawab; Seraphine menyatakan “tidak dari sumber yang sedang kita periksa”. Storyboard, Page 01 brief, dan execution sheet kini searah pada fungsi ini. Dua eksperimen menunjukkan tiga figur dan dokumen, tetapi desain karakter terlalu spesifik dan peran belum bisa dipastikan. Status: studi komposisi, belum final.
+4. **Panel 10.4:** manuskrip: Kael bertanya tentang batas penggunaan; Ilyra menjawab bahwa ketiadaan keterangan bukan bukti bahwa batas tidak ada. Page 02 brief dan execution sheet searah. Eksperimen two-shot menunjukkan dua figur dan tabel kosong, tetapi identitas karakter belum dapat disahkan. Status: studi komposisi, belum final.
+5. **Panel 10.5:** manuskrip menyatakan kutipan asli dipindahkan ke lampiran, terjemahan kerja dipertahankan terpisah, dan dua bagian yang konteksnya tidak lengkap ditandai belum bisa dibandingkan. Brief menyebut penanda tersebut, tetapi execution sheet sebelumnya melarang seluruh label status; ini konflik internal dokumen produksi. Brief dan execution sheet telah diperbaiki: frasa literal **“belum dapat dibandingkan”** boleh tampil karena didukung manuskrip, sedangkan simbol dan teks lain tetap dilarang. Eksperimen flat lay memperlihatkan pemisahan kertas, tetapi belum cukup jelas menunjukkan kutipan asli sebagai lampiran dan terjemahan kerja terpisah; juga belum memuat penanda status yang diwajibkan. Status: revisi diperlukan, belum final.
+
+### Kontinuitas antar-panel
+
+- Objek kerja berulang yang sah: dokumen sumber, tabel istilah, kutipan asli/lampiran, terjemahan kerja, dan catatan konteks. Tidak boleh muncul jubah atau visual efek.
+- Panel 10.1 memperkenalkan tabel tiga kolom; 10.2 melanjutkan pemeriksaan istilah dan kalimat; 10.3–10.4 menguji batas pengetahuan melalui pertanyaan; 10.5 menutup dengan pemisahan kutipan/terjemahan dan penandaan keterbatasan konteks.
+- Tidak ada dasar untuk menganggap dua dokumen independen, saling mengutip, atau pasti menggambarkan kemampuan sama/berbeda.
+- Identitas visual, wajah, rambut, kostum, dan desain ruang belum disahkan. Eksperimen yang terlalu spesifik tidak dapat dijadikan acuan karakter.
+- Gaya sepia/arsip adalah kesamaan eksperimen, bukan keputusan gaya final.
+
+### Status setelah audit
+
+| Panel | Status audit | Tindakan berikutnya |
+|---|---|---|
+| 10.1 | Struktur tiga kolom tampak; placeholder tulisan | Pertahankan struktur; evaluasi setelah desain karakter/lokasi diputuskan |
+| 10.2 | Tiga gestur ada, peran tangan tidak terpetakan | Revisi blocking agar fungsi Tavian/Seraphine/Ilyra terbaca tanpa desain karakter final |
+| 10.3 | Tiga figur ada, desain generatif terlalu spesifik | Buat ulang dengan siluet/figur netral atau tunggu character sheets |
+| 10.4 | Two-shot dan tabel ada, desain generatif terlalu spesifik | Buat ulang/netralkan figur atau tunggu character sheets |
+| 10.5 | Flat lay sesuai sudut, fungsi lampiran/status belum jelas | Revisi flat lay dengan lampiran, terjemahan terpisah, dan frasa status yang diizinkan |
+
+**Kesimpulan:** tidak ada panel diterima sebagai thumbnail final. Scene 10 belum siap dirakit menjadi halaman final. Koreksi dokumen produksi dilakukan tanpa mengubah manuskrip atau CANON.
+
+**Hitungan aset:** 17 eksperimen lokal tercatat; 0 thumbnail diterima; 0 ilustrasi final; 0 binary PNG di repository. Seluruh eksperimen NON-CANON.
