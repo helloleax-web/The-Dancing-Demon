@@ -121,17 +121,18 @@ Dua percobaan generasi halaman gabungan untuk Page 1 ditolak karena fungsi panel
 - Meja memenuhi frame. Dua area dokumen terpisah dengan jarak kosong yang jelas; jangan disambungkan garis, panah, atau layout gabungan.
 - Area kiri: satu tumpukan kertas/lampiran yang mewakili kutipan asli. Tumpukan berlapis, satu lembar teratas, tulisan hanya garis placeholder tak terbaca.
 - Area kanan: satu lembar/kelompok catatan terpisah yang mewakili terjemahan kerja. Tulisan juga hanya garis placeholder tak terbaca.
-- Dua bagian dengan konteks halaman tidak lengkap ditunjukkan hanya dengan dua potongan kertas kecil yang diletakkan terpisah di ruang netral di antara area dokumen; tanpa tanda centang/silang, highlight, kurung, label, nomor, atau simbol status.
+- Dua bagian dengan konteks halaman tidak lengkap ditunjukkan sebagai dua potongan kertas kecil yang tetap terpisah. Di dekat masing-masing potongan, gunakan catatan status literal **“belum dapat dibandingkan”** yang berasal langsung dari manuskrip; jangan gunakan tanda centang/silang, highlight, kurung, nomor, atau simbol hubungan.
+- Kutipan asli harus terlihat sudah ditempatkan pada lembar lampiran tersendiri; terjemahan kerja tetap berada pada lembar/kolom terpisah. Komposisi harus memperlihatkan hasil pemindahan/pemisahan tersebut, bukan sekadar dua tumpukan dokumen tanpa fungsi yang terbaca.
 - Komposisi harus terasa seperti pengarsipan dan pemisahan materi, bukan perbandingan yang sudah menghasilkan kesimpulan.
 
 **Properti dan batas**
 - Boleh ada klip kertas dan alat tulis sederhana di tepi frame; jangan sampai membentuk simbol atau mengarahkan hubungan antar dokumen.
-- Tidak ada karakter, pakaian/jubah, logo, lambang, simbol, diagram, ikon, panah, tanda checklist, tulisan terbaca, kutipan, istilah, angka, tanggal, nama sumber, atau lokasi.
+- Tidak ada karakter, pakaian/jubah, logo, lambang, simbol, diagram, ikon, panah, tanda checklist, kutipan, istilah sumber rekaan, angka, tanggal, nama sumber, atau lokasi. Satu-satunya tulisan yang boleh terbaca adalah frasa status yang memang ada di manuskrip: **“belum dapat dibandingkan”**.
 - Jangan menggambarkan dua bagian konteks tidak lengkap sebagai setara, berbeda, cocok, atau tidak cocok. Jangan menyatukan kutipan dengan terjemahan.
 - Tidak ada visual mekanisme, efek, pemakai, luka, perisai, energi, aura, atau regenerasi.
 
 **Acceptance gate**
-- Jika kamera tidak benar-benar top-down, jika kedua area dokumen tersambung/tergabung, atau jika muncul simbol/teks/karakter yang tidak didukung, output langsung ditolak.
+- Jika kamera tidak benar-benar top-down, jika kutipan asli/lampiran dan terjemahan kerja tidak terbaca sebagai materi terpisah, jika dua bagian konteks tidak lengkap tidak memiliki status “belum dapat dibandingkan”, atau jika muncul simbol/teks/karakter yang tidak didukung, output langsung ditolak.
 - Staging ini tidak mengunci desain final meja, properti, palet, atau rendering.
 
 
