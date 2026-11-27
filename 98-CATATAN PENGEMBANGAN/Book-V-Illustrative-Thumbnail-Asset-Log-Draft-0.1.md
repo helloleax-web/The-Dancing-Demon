@@ -180,3 +180,29 @@ Output berikutnya masih menampilkan label panel 9.5–9.6 dan materi perbandinga
 - Scene 10 Page 1–2 tetap menunggu generasi yang benar-benar sesuai brief.
 
 **Status Scene 10:** 0 PNG valid.
+
+
+## Scene 10 — dua percobaan visual ditolak — 2026-11-28
+
+Dua output PNG eksperimental untuk Page 1 (Panels 10.1–10.3) diperiksa dan ditolak.
+
+**Percobaan 1**
+- Panel yang tampak: 10.1 dan 10.2, tetapi staging tidak mengikuti urutan brief.
+- Panel 10.1 menampilkan kelompok karakter dan diagram simbol, bukan top-down table Tavian.
+- Panel 10.2 menampilkan dokumen berlabel “Sumber Asli” dan “Terjemahan Kerja”, yaitu materi fungsi penutup Page 2/Panel 10.5, bukan pemeriksaan dua kelompok catatan oleh Seraphine.
+- Ada simbol perisai dan panah/lingkaran yang berpotensi menyiratkan efek/mekanisme jubah. Dilarang oleh brief.
+- Output ditolak; tidak dihitung sebagai aset.
+
+**Percobaan 2**
+- Panel 10.1 kembali menampilkan dua karakter berdiskusi, bukan top-down table dengan catatan terpisah.
+- Panel 10.2 menampilkan simbol perisai dan lingkaran panah pada dokumen. Simbol tersebut tidak didukung dan berisiko memvisualisasikan efek.
+- Panel 10.3 tidak ada; struktur halaman tidak lengkap.
+- Output ditolak; tidak dihitung sebagai aset.
+
+**Keputusan produksi**
+- Tidak ada PNG Scene 10 yang valid dari dua percobaan ini.
+- Jangan menyimpan atau merujuk dua output tersebut sebagai aset, acuan desain, atau CANON.
+- Hentikan generasi gambar Scene 10 Page 1 dengan pendekatan prompt halaman gabungan. Pecah produksi menjadi panel tunggal atau buat blocking manual terlebih dahulu agar fungsi panel tidak tertukar.
+- Execution Sheet tetap menjadi acuan tertulis. Tidak ada perubahan CANON.
+
+**Status Scene 10:** 0 PNG valid; 2 percobaan ditolak.
