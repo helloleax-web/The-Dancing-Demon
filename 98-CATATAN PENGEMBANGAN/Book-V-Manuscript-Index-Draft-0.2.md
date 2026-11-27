@@ -776,3 +776,11 @@
 - Does not assign specific effects to individual records or invent quotations, source identities, dates, locations, counts, numerical values, or mechanisms.
 - Manual study image was created in the work session and is not stored as a binary asset in the repository.
 - All materials remain NON-CANON; CANON impact: none.
+
+### Scene 10 — Panel 10.2 thumbnail
+
+- [Book V Scene 10, Panel 10.2 — Thumbnail Draft 0.1](Book-V-Scene-10-Panel-10-2-Thumbnail-Draft-0.1.md) — manual two-document comparison blocking study.
+- Seraphine examines whether terminology in separate records refers to the same effect; the panel shows review without a verdict.
+- No terminology, source identities, quotations, dates, locations, source relationships, effect details, or mechanisms are invented.
+- Manual study image was created in the work session and is not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
