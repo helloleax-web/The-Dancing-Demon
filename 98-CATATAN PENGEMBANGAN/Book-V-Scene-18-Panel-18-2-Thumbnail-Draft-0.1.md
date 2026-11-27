@@ -1,20 +1,23 @@
 # Book V — Scene 18, Panel 18.2
-## Thumbnail / Manual Blocking Draft 0.1
+## Thumbnail / Manual Blocking Draft 0.1 — Alignment Revision
 
 **Status:** NON-CANON  
-**Jenis:** Research route chosen  
-**Fungsi:** Meneruskan beat Scene 18 tanpa menambah fakta di luar outline.
+**Jenis:** Manual blocking / storyboard alignment  
+**Fungsi:** Pertimbangan jalur publikasi.
 
 ### Komposisi
-Kael proposes publication through a research channel rather than forcing the report into a popular simplified product. Seraphine agrees; the report's source distinctions remain intact.
+Medium group. Tavian bertanya bagaimana jika penerbit lain juga menolak; Ilyra mengusulkan berbagi bagian yang disepakati; Kael menyarankan jalur yang menjaga sumber dan catatan.
 
 ### Batas visual dan informasi
-Do not invent a named journal, institution, agreement, publication date, or guarantee of acceptance.
+- Tidak menyebut jurnal, lembaga, atau kesepakatan yang belum ditentukan.
+- Karakter tetap placeholder; tidak ada wajah, rambut, kostum, proporsi, atau aksesori final.
+- Dokumen yang tidak memiliki isi eksplisit dalam manuskrip tetap berupa placeholder tak terbaca.
+- Tidak menambahkan dialog, fakta sejarah, tanggal, lokasi, identitas, atau hubungan lore.
 
 ### Relasi kontinuitas
-The characters choose accuracy and qualified publication over simplification.
+Panel ini diselaraskan dengan Visual Storyboard Bab 4 Revision 0.1. Revisi mengganti fungsi blocking lama agar nomor panel mengikuti urutan storyboard terbaru.
 
 ### Status kanon
-Blocking, tata letak, dan detail visual merupakan bahan produksi NON-CANON. Panel ini tidak mengubah fakta CANON.
+Blocking dan tata letak adalah bahan produksi NON-CANON. Tidak ada perubahan pada manuskrip atau fakta CANON.
 
 **Dampak CANON: tidak ada.**
