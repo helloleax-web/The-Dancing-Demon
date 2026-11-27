@@ -48,3 +48,21 @@
 Satu percobaan tambahan kembali mengabaikan cakupan brief dan mengulang materi panel/halaman lain (termasuk nomor panel yang salah). Percobaan tersebut ditolak. Jumlah percobaan Page 3 yang ditolak: tiga. Tidak ada yang boleh dipakai sebagai referensi visual atau dianggap CANON.
 
 Keputusan produksi: hentikan generasi Page 3 otomatis untuk sementara. Lanjutkan pekerjaan yang bisa diverifikasi dari dokumen, dan jangan menurunkan standar kesesuaian hanya demi menambah jumlah PNG.
+
+
+## Scene 8 — status aset
+
+| Halaman | Panel | Status | File lokal / catatan |
+|---|---|---|---|
+| Page 1 | 8.1–8.2 | PNG eksperimen dibuat; menunggu review | `LEAX_BookV_Scene08_Page01_IllustrativeThumbnail_Draft01.png`; 1122 × 1402 px. Panel 8.1 menunjukkan pencarian katalog tanpa judul/nama/tanggal yang diciptakan; Panel 8.2 menampilkan NVR AGAIN hanya pada salinan pembacaan Prasasti. |
+
+### Catatan pemeriksaan Scene 8 Page 1
+
+- Katalog dan indeks ditampilkan sebagai placeholder tanpa label rekaan.
+- NVR AGAIN hanya terlihat pada salinan pembacaan Prasasti.
+- Tidak ada pembuat, tanggal, lokasi, bentuk Prasasti, atau asal penggunaan nama yang ditambahkan.
+- Karakter dan ruang tetap eksperimen placeholder, bukan desain yang disahkan.
+- PNG tersedia lokal, belum menjadi binary repository asset.
+- Status: **Thumbnail ilustratif — menunggu review kreator**, bukan diterima.
+
+**Dampak CANON: tidak ada.**
