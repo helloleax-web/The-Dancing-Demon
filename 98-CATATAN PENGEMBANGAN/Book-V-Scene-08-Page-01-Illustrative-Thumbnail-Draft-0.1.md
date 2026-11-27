@@ -24,4 +24,4 @@ Close-up salinan pembacaan Prasasti. Nama dan tanda yang memang tersedia dapat d
 Katalog, indeks generik, salinan pembacaan Prasasti, meja pemeriksaan.
 
 ### File visual
-PNG thumbnail belum dibuat dan belum menjadi binary repository asset.
+PNG thumbnail eksperimen dibuat secara lokal: `LEAX_BookV_Scene08_Page01_IllustrativeThumbnail_Draft01.png` (1122 × 1402 px). File biner belum menjadi repository asset. Status menunggu review kreator; belum diterima.
