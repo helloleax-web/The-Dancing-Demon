@@ -793,3 +793,12 @@
 - No technical theory, activation process, energy source, numerical detail, source identity, or link to NVR AGAIN / an interpreted scope for Resonansi Hitam is introduced.
 - Manual study image was created in the work session and is not stored as a binary asset in the repository.
 - All materials remain NON-CANON; CANON impact: none.
+
+
+### Scene 11 — Panel 11.1 thumbnail
+
+- [Book V Scene 11, Panel 11.1 — Thumbnail Draft 0.1](Book-V-Scene-11-Panel-11-1-Thumbnail-Draft-0.1.md) — manual archival-insert blocking study introducing the historical term Resonansi Hitam.
+- Shows the term only; does not define whether it refers to the cloak, its effects, or a wider chain of events.
+- No definition, causal link, chronology, location, parties, quotation, or connection to NVR AGAIN is invented.
+- Manual study image was created in the work session and is not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
