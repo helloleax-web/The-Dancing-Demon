@@ -378,3 +378,14 @@ Keduanya NON-CANON, bukan thumbnail diterima. Tidak ada visual jubah, pemakai, l
 - Struktur tabel tiga kolom terlihat; dokumen sumber berada terpisah. Tidak ada wajah atau desain karakter yang dikunci.
 - Status: kandidat blocking revisi paling jelas untuk Panel 10.2 sejauh ini, belum thumbnail final. Identitas tangan hanya pemetaan blocking; tulisan pseudo-handwriting tetap placeholder.
 - Total eksperimen lokal menjadi 18 (6 halaman Scene 7–9 + 12 eksperimen panel Scene 10). Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
+
+
+
+## Eksperimen revisi Panel 10.3 — 2026-11-28
+
+- File lokal: `a_warm_sepia_toned_ink_manga_style_illustration_of.png` (1536 × 1024).
+- Medium group tepat tiga figur; satu figur bertanya, satu memegang dokumen dan merespons, satu memberi gestur penegasan. Tabel/dokumen hadir sebagai konteks.
+- Tidak ada jubah, pemakai, luka, perisai, aura, atau efek.
+- Wajah tidak memiliki detail identitas, tetapi pakaian, bentuk tubuh, rak buku, jendela, dan lampu merupakan detail generatif yang tidak ditetapkan; jangan gunakan sebagai desain final. Identitas/urutan peran figur belum dapat dipastikan.
+- Status: studi komposisi NON-CANON, kandidat evaluasi, belum thumbnail final.
+- Total eksperimen lokal menjadi 19 (6 eksperimen halaman Scene 7–9 + 13 eksperimen panel Scene 10). Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
