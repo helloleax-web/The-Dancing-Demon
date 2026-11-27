@@ -749,3 +749,12 @@
 - Does not assert that all sources are independent or identical, and adds no creator, first user, distributor, mechanism, origin, music details, location, or chronology.
 - Manual study image was created in the work session and is not stored as a binary asset in the repository.
 - All materials remain NON-CANON; CANON impact: none.
+
+
+### Scene 9 — Panel 9.1 thumbnail
+
+- [Book V Scene 9, Panel 9.1 — Thumbnail Draft 0.1](Book-V-Scene-09-Panel-9-1-Thumbnail-Draft-0.1.md) — manual archival-insert blocking study introducing a record about black mana cloaks in a separate collection.
+- The visible heading is limited to “Catatan tentang Jubah Mana Hitam”; the panel does not identify LEAX's allies or add acquisition details, dates, locations, origins, or mechanisms.
+- No cloak depiction, wearer, HP/MP regeneration effect, NVR AGAIN connection, or interpretation of Resonansi Hitam is introduced.
+- Manual study image was created in the work session and is not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
