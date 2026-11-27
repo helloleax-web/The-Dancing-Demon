@@ -999,3 +999,12 @@
 - Respons pembaca tetap beragam; dua kutipan dari satu catatan keluarga tidak dihitung sebagai sumber independen.
 - Petunjuk fenomena Scene 22 tetap laporan singkat yang belum diverifikasi dan tidak dihubungkan dengan Abstract Existence.
 - Thumbnail panel-per-panel dan ilustrasi final Bab 5 belum dibuat. Seluruh materi visual tetap NON-CANON.
+
+
+## Audit kontinuitas visual lintas lima bab
+
+- [Book V Visual Continuity Audit — Draft 0.1](Book-V-Visual-Continuity-Audit-Draft-0.1.md) — pemeriksaan transisi, properti, jendela pengetahuan, batas CANON/UNKNOWN, dan risiko produksi untuk 22 scene / 128 panel.
+- Hasil: storyboard teks lengkap; thumbnail panel-per-panel dan ilustrasi final belum diterima. Desain visual dan format publikasi belum dikunci.
+- [Book V Panel Production Register — Draft 0.1](Book-V-Panel-Production-Register-Draft-0.1.md) — register 128 panel, status blocking awal, dan tahapan produksi.
+- Blocking awal terdahulu untuk sebagian panel Scenes 5–22 harus disinkronkan dengan storyboard bab terbaru; tidak otomatis diterima.
+- Seluruh materi visual tetap NON-CANON.
