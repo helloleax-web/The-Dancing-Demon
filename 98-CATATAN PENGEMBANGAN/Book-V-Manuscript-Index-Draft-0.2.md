@@ -1074,3 +1074,14 @@ Seluruh blocking tetap NON-CANON; manuskrip dan CANON tidak berubah.
 
 - [Book V Chapter 3 Blocking Review — Draft 0.1](Book-V-Chapter-03-Blocking-Review-Draft-0.1.md) — 26/26 panel lolos sebagai blocking komposisi kasar setelah enam alignment corrections.
 - Ini bukan penerimaan thumbnail ilustratif atau ilustrasi final. Seluruh detail visual tetap NON-CANON.
+
+
+## Review blocking Bab 4
+
+- [Book V Chapter 4 Blocking Review — Draft 0.1](Book-V-Chapter-04-Blocking-Review-Draft-0.1.md) — 27/27 panel lolos sebagai blocking komposisi kasar setelah sembilan alignment corrections.
+
+## Review blocking Bab 5
+
+- [Book V Chapter 5 Blocking Review — Draft 0.1](Book-V-Chapter-05-Blocking-Review-Draft-0.1.md) — 22/22 panel lolos sebagai blocking komposisi kasar setelah enam alignment corrections.
+
+Kedua review tidak menyetujui thumbnail ilustratif atau ilustrasi final. Seluruh detail visual tetap NON-CANON.
