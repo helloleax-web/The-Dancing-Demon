@@ -45,6 +45,7 @@
 - [Chapter 4 Blocking Review — Draft 0.1](Book-V-Chapter-04-Blocking-Review-Draft-0.1.md) — review dan alignment 27 panel Bab 4.
 - [Chapter 5 Blocking Review — Draft 0.1](Book-V-Chapter-05-Blocking-Review-Draft-0.1.md) — review dan alignment 22 panel Bab 5.
 - [Blocking Acceptance Report — Draft 0.1](Book-V-Blocking-Acceptance-Report-Draft-0.1.md) — penerimaan blocking kasar 128/128 panel.
+- [Scene 1 Page 1 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-01-Page-01-Illustrative-Thumbnail-Draft-0.1.md) — thumbnail uji Panels 1.1–1.3.
 
 ### Status produksi per 2026-11-28
 
