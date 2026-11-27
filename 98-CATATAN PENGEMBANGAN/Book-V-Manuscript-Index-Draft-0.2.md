@@ -650,3 +650,13 @@
 - No NVR AGAIN label, lyrics, notation, melody, instrument, sound source, location, date, author identity, dialogue, or character design is invented.
 - Manual study image was created in the work session and is not stored as a binary asset in the repository.
 - All materials remain NON-CANON; CANON impact: none.
+
+
+
+### Scene 5 — Panel 5.3 thumbnail
+
+- [Book V Scene 5, Panel 5.3 — Thumbnail Draft 0.1](Book-V-Scene-05-Panel-5-3-Thumbnail-Draft-0.1.md) — manual close-insert blocking study.
+- Ilyra marks the source note about music or sound during the Great War for later review; the marker is not a conclusion or evidence that it is NVR AGAIN.
+- No NVR AGAIN label, lyrics, notation, melody, instrument, sound source, location, date, author identity, dialogue, or final character design is invented.
+- Manual study image was created in the work session and is not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
