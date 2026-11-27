@@ -328,3 +328,13 @@ Dua output PNG eksperimental untuk Page 1 (Panels 10.1–10.3) diperiksa dan dit
 - Output revisi dinilai **kandidat blocking**, bukan thumbnail diterima. Identitas tangan tidak dapat dipastikan; pseudo-handwriting hanya placeholder visual.
 - Tidak ada jubah, pemakai, efek, mekanisme, atau hubungan NVR AGAIN/Resonansi Hitam yang divisualisasikan.
 - Total eksperimen lokal: 13 (6 halaman Scene 7–9 + 7 panel Scene 10). Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
+
+
+
+## Eksperimen Panel 10.3 — 2026-11-28
+
+Dua output medium-group lokal dibuat:
+- `a_detailed_illustrated_scene_in_warm_muted_sepia.png` (1536 × 1024): tiga figur, gestur tanya/jawab, dokumen dan tabel di meja. Berguna sebagai studi komposisi kasar; detail rambut, wajah, kacamata, kostum, dan ruang tidak sah sebagai desain.
+- `a_detailed_cinematic_anime_style_illustration_of.png` (1024 × 1280): tiga figur dan dokumen, tetapi crop lebih dekat dan detail karakter tetap terlalu spesifik.
+
+Keduanya NON-CANON, bukan thumbnail diterima. Tidak ada visual jubah, pemakai, luka, perisai, atau efek. Peran Daren/Tavian/Seraphine tidak dapat dipastikan dari desain generatif. Total eksperimen lokal menjadi 15 (6 halaman Scene 7–9 + 9 panel Scene 10). Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
