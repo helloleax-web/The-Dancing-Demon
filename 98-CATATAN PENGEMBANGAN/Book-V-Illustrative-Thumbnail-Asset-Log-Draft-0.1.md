@@ -81,7 +81,7 @@ Keputusan produksi: hentikan generasi Page 3 otomatis untuk sementara. Lanjutkan
 
 ## Scene 9 — persiapan produksi visual — 2026-11-28
 
-Belum ada PNG Scene 9 yang valid dibuat. Sebelum eksperimen visual berikutnya, gunakan batas per halaman berikut:
+PNG eksperimen lokal untuk Page 1 telah dibuat; belum ada PNG valid untuk Page 2 atau Page 3. Sebelum eksperimen visual berikutnya, gunakan batas per halaman berikut:
 
 | Halaman | Panel | Komposisi yang diperbolehkan | Larangan utama |
 |---|---|---|---|
@@ -100,3 +100,16 @@ Belum ada PNG Scene 9 yang valid dibuat. Sebelum eksperimen visual berikutnya, g
 - Pengunjung dan semua staging tetap placeholder NON-CANON.
 
 **Status Scene 9:** tiga brief halaman tersedia; PNG valid belum dibuat; belum ada thumbnail yang diterima.
+
+
+### Scene 9 — Page 1 eksperimen lokal
+
+- File: `LEAX_BookV_Scene09_Page01_IllustrativeThumbnail_Draft01.png`.
+- Resolusi: 1122 × 1402 px.
+- Panel: 9.1–9.2.
+- Komposisi: ruang pemeriksaan arsip dan indeks kategori dokumen pada meja kerja.
+- File biner belum masuk repository dan belum diterima kreator.
+- Banner, figur, serta desain ruang adalah placeholder eksperimen. Tidak mengesahkan lambang, identitas karakter, atau desain lokasi.
+- Pemeriksaan lanjutan wajib memastikan properti dan jumlah figur sesuai storyboard.
+
+**Status Scene 9:** Page 1 PNG eksperimen lokal; Page 2 dan Page 3 belum memiliki PNG valid. Tidak ada aset diterima.
