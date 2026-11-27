@@ -25,4 +25,6 @@ Seorang pengunjung menyebut pernah membaca teori tentang jubah serupa, tetapi ha
 Tiga dokumen terpisah, katalog, lembar catatan asal salinan.
 
 ### File visual
-PNG thumbnail belum dibuat dan belum menjadi binary repository asset.
+PNG eksperimen lokal dibuat: `LEAX_BookV_Scene09_Page03_IllustrativeThumbnail_Draft01.png` (1122 × 1402 px). File biner belum masuk repository. Status menunggu review kreator; belum diterima.
+
+**Catatan review awal:** Page 9.5 memperlihatkan tiga dokumen terpisah tanpa isi terbaca; Page 9.6 memperlihatkan percakapan dengan pengunjung generik dan pencatatan asal salinan. Tidak ada ilustrasi jubah, isi teori, judul rekaan, atau mekanisme. Identitas visual figur dan ruang tetap placeholder, bukan desain yang disahkan.
