@@ -1049,3 +1049,16 @@ Dokumen baru:
 - [Panel 18.3](Book-V-Scene-18-Panel-18-3-Thumbnail-Draft-0.1.md), [18.4](Book-V-Scene-18-Panel-18-4-Thumbnail-Draft-0.1.md), [18.5](Book-V-Scene-18-Panel-18-5-Thumbnail-Draft-0.1.md), [18.6](Book-V-Scene-18-Panel-18-6-Thumbnail-Draft-0.1.md)
 
 Seluruh blocking tetap NON-CANON; manuskrip dan CANON tidak berubah.
+
+
+## Blocking awal Bab 5 — Scenes 19–22
+
+Panel 19.3–19.5, 20.3–20.6, 21.3–21.4, dan 22.3–22.7 kini memiliki dokumen blocking awal. Seluruh 22 panel Bab 5 telah memiliki referensi blocking.
+
+Dokumen baru:
+- [Panel 19.3](Book-V-Scene-19-Panel-19-3-Thumbnail-Draft-0.1.md), [19.4](Book-V-Scene-19-Panel-19-4-Thumbnail-Draft-0.1.md), [19.5](Book-V-Scene-19-Panel-19-5-Thumbnail-Draft-0.1.md)
+- [Panel 20.3](Book-V-Scene-20-Panel-20-3-Thumbnail-Draft-0.1.md), [20.4](Book-V-Scene-20-Panel-20-4-Thumbnail-Draft-0.1.md), [20.5](Book-V-Scene-20-Panel-20-5-Thumbnail-Draft-0.1.md), [20.6](Book-V-Scene-20-Panel-20-6-Thumbnail-Draft-0.1.md)
+- [Panel 21.3](Book-V-Scene-21-Panel-21-3-Thumbnail-Draft-0.1.md), [21.4](Book-V-Scene-21-Panel-21-4-Thumbnail-Draft-0.1.md)
+- [Panel 22.3](Book-V-Scene-22-Panel-22-3-Thumbnail-Draft-0.1.md), [22.4](Book-V-Scene-22-Panel-22-4-Thumbnail-Draft-0.1.md), [22.5](Book-V-Scene-22-Panel-22-5-Thumbnail-Draft-0.1.md), [22.6](Book-V-Scene-22-Panel-22-6-Thumbnail-Draft-0.1.md), [22.7](Book-V-Scene-22-Panel-22-7-Thumbnail-Draft-0.1.md)
+
+Seluruh blocking tetap NON-CANON; manuskrip dan CANON tidak berubah.
