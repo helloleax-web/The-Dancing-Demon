@@ -768,3 +768,13 @@ Berdasarkan contact sheet yang diperiksa ulang:
 - Detail pakaian dan latar tetap generatif NON-CANON; identitas Kael/Ilyra belum terverifikasi. Tabel kosong tidak boleh diartikan sebagai bukti bahwa batas tidak ada.
 - Status: kandidat komposisi untuk evaluasi, belum thumbnail final.
 - Total eksperimen lokal: 20; thumbnail diterima: 0; ilustrasi final: 0; binary PNG repository: 0.
+
+
+
+## Eksperimen revisi Panel 10.5 — 2026-11-28
+
+- Satu flat lay top-down baru memperlihatkan lampiran/kutipan asli di kiri, lembar terjemahan kerja terpisah di kanan, dan dua potongan konteks di tengah.
+- Kedua potongan memiliki label literal “belum dapat dibandingkan”. Tidak ada panah atau simbol penghubung.
+- Grid dua kolom kanan bukan pengganti tabel tiga kolom Panel 10.1; tulisan lain placeholder. Tidak ada visual efek/jubah.
+- Status: kandidat blocking flat-lay paling sesuai sejauh ini; belum thumbnail final.
+- Total eksperimen lokal: 21; thumbnail diterima: 0; ilustrasi final: 0; binary PNG repository: 0.
