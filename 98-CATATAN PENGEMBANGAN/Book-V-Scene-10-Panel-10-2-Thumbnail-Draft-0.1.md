@@ -33,3 +33,19 @@ Panel 10.1 memperkenalkan tabel dengan tiga kolom. Panel 10.2 memperlihatkan Tav
 
 ### Status kanon
 Seluruh blocking, tata letak, dan detail visual merupakan bahan produksi NON-CANON. Tidak mengubah atau menambah CANON.
+
+
+## Eksperimen blocking revisi — 2026-11-28
+
+**File lokal:** `a_detailed_sepia_toned_ink_style_illustration_of_a.png` (1536 × 1024).
+
+**Yang terbaca pada gambar:**
+- Tangan di kiri menunjuk satu pilihan istilah pada tabel.
+- Tangan di bawah memegang pena dan menelusuri/menandai baris tabel.
+- Tangan di kanan membuka serta memeriksa naskah berisi kalimat lengkap.
+- Tabel pusat memiliki struktur tiga kolom; dokumen di kanan tetap terpisah secara fisik.
+- Tidak ada wajah atau desain karakter yang dikunci.
+
+**Penilaian:** pemetaan tiga fungsi pemeriksaan lebih jelas daripada eksperimen sebelumnya karena masing-masing aksi memiliki posisi dan properti berbeda. Namun, identitas tangan sebagai Tavian, Seraphine, dan Ilyra tetap merupakan pemetaan blocking berdasarkan urutan kerja manuskrip, bukan identitas visual yang dapat dibuktikan dari gambar. Tulisan pseudo-handwriting tetap placeholder dan bukan isi sumber.
+
+**Status:** kandidat blocking revisi yang lebih kuat; belum diterima sebagai thumbnail final. NON-CANON. Tidak ada binary yang diunggah ke GitHub.
