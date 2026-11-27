@@ -108,3 +108,11 @@
 - PNG tersedia sebagai aset lokal sesi; file biner belum di-commit.
 - Total cakupan thumbnail ilustratif: 16/128 panel dalam 7 halaman (12,5%); belum ada thumbnail yang diterima kreator.
 - Semi-Flat Editorial dan 4:5 tetap konfigurasi uji sementara. Seluruh materi tetap NON-CANON.
+
+
+
+## Thumbnail ilustratif — Scene 3 Page 3
+
+- [Scene 3 Page 3 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-03-Page-03-Illustrative-Thumbnail-Draft-0.1.md) — thumbnail Panels 3.5–3.6.
+- Cakupan thumbnail ilustratif kini 18/128 panel dalam 8 halaman; belum ada thumbnail yang diterima kreator. PNG tersedia secara lokal dan belum di-commit sebagai binary.
+- Semi-Flat Editorial dan 4:5 tetap konfigurasi sementara. NON-CANON.
