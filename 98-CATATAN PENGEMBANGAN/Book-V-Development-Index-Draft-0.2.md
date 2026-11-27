@@ -26,7 +26,7 @@
 
 ## Produksi visual
 
-- [Visual Language Study — Draft 0.1](Book-V-Visual-Language-Study-Draft-0.1.md) — opsi rendering, palet, format, rasio, dan tipografi; belum dikunci.
+- [Visual Language Study — Draft 0.1](Book-V-Visual-Language-Study-Draft-0.1.md) — opsi rendering, palet, format, rasio, dan tipografi; uji panel dokumen dan kelompok selesai; belum dikunci.
 - [Page Ratio & Panel Layout Test — Draft 0.1](Book-V-Page-Ratio-and-Panel-Layout-Test-Draft-0.1.md) — tes 4:5 dan 2:3; belum ada keputusan final.
 - [Visual Storyboard — Bab 1](Book-V-Visual-Storyboard-Chapter-01-Draft-0.1.md) — Scenes 1–4, 27 panel.
 - [Visual Storyboard — Bab 2](Book-V-Visual-Storyboard-Chapter-02-Draft-0.1.md) — Scenes 5–8, 26 panel.
