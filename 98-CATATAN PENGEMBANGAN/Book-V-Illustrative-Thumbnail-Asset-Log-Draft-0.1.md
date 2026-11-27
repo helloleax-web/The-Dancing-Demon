@@ -77,3 +77,26 @@ Keputusan produksi: hentikan generasi Page 3 otomatis untuk sementara. Lanjutkan
 - Keputusan: hentikan generasi otomatis untuk halaman ini sampai alur visual dapat diarahkan dengan akurat. Brief tertulis tetap menjadi acuan produksi.
 
 **Status Scene 8:** Page 1 memiliki satu PNG lokal menunggu review; Page 2 dan Page 3 belum memiliki PNG yang valid. Tidak ada aset yang diterima.
+
+
+## Scene 9 — persiapan produksi visual — 2026-11-28
+
+Belum ada PNG Scene 9 yang valid dibuat. Sebelum eksperimen visual berikutnya, gunakan batas per halaman berikut:
+
+| Halaman | Panel | Komposisi yang diperbolehkan | Larangan utama |
+|---|---|---|---|
+| Page 1 | 9.1–9.2 | Ruang pemeriksaan koleksi yang aktif; meja dikosongkan; indeks dengan kategori dokumen terpisah; Neral dan Seraphine bekerja pada indeks | Tidak menampilkan jubah, dokumen rapuh spesifik, nomor koleksi terbaca, atau jalur musik |
+| Page 2 | 9.3–9.4 | Over-shoulder pada dokumen efek dan close-up entri katalog | Tidak menggambar jubah, pemakai, perisai, cahaya regenerasi, lambang, identitas, atau mekanisme |
+| Page 3 | 9.5–9.6 | Tiga dokumen berbeda kelengkapan diletakkan terpisah; pengunjung generik memberi petunjuk bibliografis; catatan asal salinan | Tidak menampilkan isi teori, judul rekaan, identitas pengunjung, atau menganggap petunjuk sebagai bukti |
+
+### Pemeriksaan CANON wajib Scene 9
+
+- Scene 9 tidak memiliki hubungan visual atau kausal dengan NVR AGAIN/musik.
+- Efek yang boleh tertulis hanya pertahanan luar biasa serta regenerasi HP dan MP secara berkelanjutan.
+- Fakta minimum: sekutu LEAX memperoleh jubah mana hitam.
+- Tidak ada visualisasi jubah atau efeknya.
+- Tidak ada pembuat, pemakai, identitas sekutu, jumlah, cara perolehan, atau mekanisme.
+- Tiga jenis sumber tidak otomatis independen; ringkasan dari laporan yang tidak tersedia tetap terbatas.
+- Pengunjung dan semua staging tetap placeholder NON-CANON.
+
+**Status Scene 9:** tiga brief halaman tersedia; PNG valid belum dibuat; belum ada thumbnail yang diterima.
