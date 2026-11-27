@@ -1098,3 +1098,10 @@ Kedua review tidak menyetujui thumbnail ilustratif atau ilustrasi final. Seluruh
 - [Visual Language Study — Draft 0.1](Book-V-Visual-Language-Study-Draft-0.1.md) diperbarui dengan perbandingan Ink & Wash, Semi-Flat Editorial, dan Archival Etching pada komposisi kelompok yang sama.
 - Semi-Flat Editorial tetap kandidat utama karena keterbacaan siluet dan properti; belum disetujui kreator.
 - Palet, desain karakter/lokasi, dan tipografi tetap belum dikunci.
+
+
+## Spesifikasi produksi visual global
+
+- [Book V Global Production Design Specification — Draft 0.1](Book-V-Global-Production-Design-Specification-Draft-0.1.md) — panduan lintas lima bab untuk rendering kandidat, kamera/layout, kontinuitas karakter/lokasi, dokumen, batas lore, dan penerimaan thumbnail.
+- [Page Ratio & Panel Layout Test — Draft 0.1](Book-V-Page-Ratio-and-Panel-Layout-Test-Draft-0.1.md) diperbarui dengan tes empat panel Scene 5 pada 4:5 dan 2:3. Kedua rasio tetap terbuka.
+- Semi-Flat Editorial dan 4:5 tetap kandidat, bukan keputusan final.
