@@ -37,6 +37,8 @@
 - [Chapter 1 Scene-by-Scene Blocking Audit](Book-V-Chapter-01-Scene-by-Scene-Blocking-Audit-Draft-0.1.md) — audit blocking tekstual 27 panel.
 - [Chapter 1 Visual Continuity Review](Book-V-Chapter-01-Visual-Continuity-Review-Draft-0.1.md) — kontinuitas properti, ruang, waktu, dan kamera.
 - [Production Design Specification — Bab 1](Book-V-Production-Design-Specification-Chapter-01-Draft-0.1.md) — spesifikasi produksi awal Bab 1.
+- [Visual Continuity Audit — Draft 0.1](Book-V-Visual-Continuity-Audit-Draft-0.1.md) — audit lintas 22 scene / 128 panel.
+- [Panel Production Register — Draft 0.1](Book-V-Panel-Production-Register-Draft-0.1.md) — register status 128 panel.
 
 ### Status produksi per 2026-11-28
 
@@ -47,12 +49,14 @@
 - Bab 5: storyboard teks 22 panel selesai; laporan fenomena penutup tetap belum diverifikasi.
 - Bab 3–5: panel thumbnail/blocking awal telah dicatat untuk Scenes 9–22; storyboard visual bab lengkap dan audit blocking terpadu belum dibuat.
 - Desain final karakter/lokasi, palet, rendering, rasio halaman, tipografi, ukuran output, dan format publikasi belum dikunci.
+- Audit kontinuitas visual lintas lima bab selesai pada tingkat dokumen. Register produksi menunjukkan 69 panel/layout awal tercatat, tetapi semuanya masih perlu sinkronisasi/review; thumbnail ilustratif dan ilustrasi final yang diterima masih 0.
 - Tidak ada aset visual yang mengesahkan detail NON-CANON menjadi CANON.
 
 ## Tahap produksi berikutnya
 
-1. Audit blocking dan kontinuitas visual lintas 22 scene setelah storyboard lima bab tersedia.
-2. Uji format halaman dan rendering pada panel yang representatif sebelum produksi thumbnail ilustratif.
-3. Jangan membuat desain final karakter/lokasi atau menetapkan gaya/format publikasi tanpa keputusan kreator.
+1. Sinkronkan 69 blocking/layout awal dengan storyboard terbaru dan lengkapi 59 panel yang belum memiliki blocking awal.
+2. Review dan terima staging panel-per-panel sebelum membuat thumbnail ilustratif.
+3. Uji format halaman dan rendering pada panel representatif setelah keputusan kreator.
+4. Jangan membuat desain final karakter/lokasi atau menetapkan gaya/format publikasi tanpa keputusan kreator.
 
 **Dampak CANON: tidak ada.** Semua storyboard, blocking, dan keputusan produksi yang belum disahkan tetap NON-CANON.
