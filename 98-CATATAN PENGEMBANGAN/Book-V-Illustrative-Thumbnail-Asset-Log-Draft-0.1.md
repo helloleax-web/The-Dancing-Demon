@@ -347,3 +347,13 @@ Keduanya NON-CANON, bukan thumbnail diterima. Tidak ada visual jubah, pemakai, l
 - Komposisi medium two-shot memperlihatkan dua figur berdiskusi, tabel kosong sebagai konteks, dan gestur percakapan. Tidak ada angka, ikon HP/MP, visual regenerasi, atau diagram kemampuan.
 - Wajah, rambut, kostum, dan ruang hasil generasi terlalu spesifik dan belum disahkan; output hanya studi komposisi NON-CANON, bukan thumbnail final.
 - Total eksperimen lokal menjadi 16 (6 halaman Scene 7–9 + 10 panel Scene 10). Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
+
+
+
+## Eksperimen Panel 10.5 — 2026-11-28
+
+- Output lokal: `a_detailed_clean_overhead_illustration_of_a_works.png` (1536 × 1024).
+- Top-down flat lay tanpa karakter/tangan. Tumpukan dokumen/lampiran di kiri, lembar terjemahan kerja bertabel di kanan, dan dua potongan kertas terpisah di ruang kosong tengah.
+- Tidak ada panah, tanda centang/silang, simbol, jubah, efek, atau mekanisme. Pseudo-handwriting tidak terbaca dan hanya placeholder.
+- Status: kandidat blocking yang layak untuk evaluasi kreator; belum thumbnail final. Jangan perlakukan pseudo-handwriting sebagai kutipan atau istilah. Tabel kanan bukan tabel tiga kolom Panel 10.1.
+- Total eksperimen lokal menjadi 17 (6 halaman Scene 7–9 + 11 panel Scene 10). Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
