@@ -143,3 +143,27 @@ Manuskrip utama **Book V Manuscript Chapter 03 Revision Draft 0.4** mengatur isi
 - Panel 10.2 memperlihatkan Tavian menunjukkan pilihan istilah, Seraphine memeriksa setiap baris, dan Ilyra memeriksa kalimat lengkap. Blocking boleh mengatur ketiganya dalam satu komposisi tanpa mengubah urutan/fungsi kerja.
 - Penilaian review sebelumnya yang menyebut dua poin ini sebagai konflik sumber dinyatakan superseded dan dikoreksi.
 - Semua tulisan yang tidak disediakan manuskrip tetap placeholder tak terbaca. Tidak ada detail CANON baru.
+
+
+## Blocking manual — Panel 10.3 — 2026-11-28
+
+**Acuan isi:** manuskrip Chapter 3 Revision Draft 0.4. Daren bertanya apakah pemakai masih bisa terluka; Tavian menyatakan dokumen tidak menjawab; Seraphine menegaskan bahwa batas tidak diketahui dari sumber yang sedang diperiksa.
+
+**Komposisi**
+- Satu panel medium group, tiga figur dalam satu percakapan tenang di sekitar meja pemeriksaan.
+- Daren mengambil posisi sebagai penanya; Tavian merespons sambil merujuk dokumen; Seraphine memberi penegasan metodologis.
+- Dokumen/tabel terlihat sebagai konteks, tetapi bukan fokus close-up.
+- Gunakan wajah minimal, siluet netral, atau tampilan samping/belakang; jangan mengunci rambut, wajah, kostum, usia visual, aksesori, atau ciri tubuh karakter karena character sheets belum disahkan.
+- Ekspresi dan gestur cukup untuk membedakan pertanyaan, jawaban berbasis sumber, dan batas kesimpulan.
+
+**Batas**
+- Tidak ada jubah, pemakai, luka, perisai, armor demonstratif, aura, energi, regenerasi, atau simulasi efek.
+- Jangan menambah karakter lain, dialog baru, kutipan, angka, nama sumber, tanggal, atau lokasi.
+- Jangan menggambarkan ketidaktahuan sebagai bukti bahwa batas tidak ada.
+- Ruang arsip dan properti tetap placeholder produksi.
+
+**Acceptance gate**
+- Tepat tiga figur utama dalam percakapan.
+- Peran penanya dan dua penjawab terbaca melalui blocking, tanpa desain karakter final.
+- Dokumen hadir sebagai konteks.
+- Tidak ada visual efek jubah atau informasi yang tidak didukung manuskrip.
