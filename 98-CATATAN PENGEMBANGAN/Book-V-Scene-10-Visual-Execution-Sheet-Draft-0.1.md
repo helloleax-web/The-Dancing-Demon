@@ -106,3 +106,26 @@ Dua percobaan generasi halaman gabungan untuk Page 1 ditolak karena fungsi panel
 5. Jangan gunakan simbol perisai, lingkaran panah, atau ikon efek sebagai pengganti teks sumber.
 
 **Status:** execution sheet tetap berlaku; dua percobaan Page 1 ditolak; belum ada PNG Scene 10 yang valid.
+
+
+## Blocking manual — Panel 10.5 — 2026-11-28
+
+**Status:** staging guide / NON-CANON; dibuat setelah dua output generasi ditolak.
+
+**Kamera dan struktur**
+- Satu panel tunggal, kamera benar-benar tegak lurus dari atas (90-degree overhead / flat lay). Tidak ada karakter, wajah, tangan, atau sudut kamera perspektif.
+- Meja memenuhi frame. Dua area dokumen terpisah dengan jarak kosong yang jelas; jangan disambungkan garis, panah, atau layout gabungan.
+- Area kiri: satu tumpukan kertas/lampiran yang mewakili kutipan asli. Tumpukan berlapis, satu lembar teratas, tulisan hanya garis placeholder tak terbaca.
+- Area kanan: satu lembar/kelompok catatan terpisah yang mewakili terjemahan kerja. Tulisan juga hanya garis placeholder tak terbaca.
+- Dua bagian dengan konteks halaman tidak lengkap ditunjukkan hanya dengan dua potongan kertas kecil yang diletakkan terpisah di ruang netral di antara area dokumen; tanpa tanda centang/silang, highlight, kurung, label, nomor, atau simbol status.
+- Komposisi harus terasa seperti pengarsipan dan pemisahan materi, bukan perbandingan yang sudah menghasilkan kesimpulan.
+
+**Properti dan batas**
+- Boleh ada klip kertas dan alat tulis sederhana di tepi frame; jangan sampai membentuk simbol atau mengarahkan hubungan antar dokumen.
+- Tidak ada karakter, pakaian/jubah, logo, lambang, simbol, diagram, ikon, panah, tanda checklist, tulisan terbaca, kutipan, istilah, angka, tanggal, nama sumber, atau lokasi.
+- Jangan menggambarkan dua bagian konteks tidak lengkap sebagai setara, berbeda, cocok, atau tidak cocok. Jangan menyatukan kutipan dengan terjemahan.
+- Tidak ada visual mekanisme, efek, pemakai, luka, perisai, energi, aura, atau regenerasi.
+
+**Acceptance gate**
+- Jika kamera tidak benar-benar top-down, jika kedua area dokumen tersambung/tergabung, atau jika muncul simbol/teks/karakter yang tidak didukung, output langsung ditolak.
+- Staging ini tidak mengunci desain final meja, properti, palet, atau rendering.
