@@ -1062,3 +1062,9 @@ Dokumen baru:
 - [Panel 22.3](Book-V-Scene-22-Panel-22-3-Thumbnail-Draft-0.1.md), [22.4](Book-V-Scene-22-Panel-22-4-Thumbnail-Draft-0.1.md), [22.5](Book-V-Scene-22-Panel-22-5-Thumbnail-Draft-0.1.md), [22.6](Book-V-Scene-22-Panel-22-6-Thumbnail-Draft-0.1.md), [22.7](Book-V-Scene-22-Panel-22-7-Thumbnail-Draft-0.1.md)
 
 Seluruh blocking tetap NON-CANON; manuskrip dan CANON tidak berubah.
+
+
+## Review blocking Bab 2
+
+- [Book V Chapter 2 Blocking Review — Draft 0.1](Book-V-Chapter-02-Blocking-Review-Draft-0.1.md) — 26/26 panel lolos sebagai blocking komposisi kasar setelah tujuh alignment corrections.
+- Ini bukan penerimaan thumbnail ilustratif atau ilustrasi final. Seluruh detail visual tetap NON-CANON.
