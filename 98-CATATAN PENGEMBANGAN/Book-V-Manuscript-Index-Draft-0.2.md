@@ -605,3 +605,12 @@
 - No chronology content, date values, source names, reasons for omissions, conflict, or final character designs are invented.
 - Manual study image was created in the work session and is not stored as a binary asset in the repository.
 - All materials remain NON-CANON; CANON impact: none.
+
+
+### Scene 4 — Panel 4.5 thumbnail
+
+- [Book V Scene 4, Panel 4.5 — Thumbnail Draft 0.1](Book-V-Scene-04-Panel-4-5-Thumbnail-Draft-0.1.md) — manual top-down table-insert blocking study.
+- Tavian arranges four distinct date columns: event date, recording date, copying date, and collection receipt date; Kael checks the copy's handover origin.
+- No dates, source names, handover identities, or specific collection origins are invented. The four date categories remain separate.
+- Manual study image was created in the work session and is not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
