@@ -11,7 +11,7 @@
 - Total panel pada storyboard teks: **128**.
 - Panel dengan referensi blocking/layout awal yang sudah tercatat: **128**.
 - Panel yang belum memiliki blocking awal tercatat: **0**.
-- Catatan/brief halaman thumbnail terdokumentasi untuk seluruh Scene 5–22. Satu PNG uji Scene 7 Page 1 telah dibuat secara lokal; PNG halaman belum masuk repository sebagai binary assets.
+- Catatan/brief halaman thumbnail tersedia untuk seluruh 22 scene melalui 59 dokumen page-level. Satu PNG uji Scene 7 Page 1 telah dibuat secara lokal; PNG halaman belum masuk repository sebagai binary assets.
 - Thumbnail ilustratif Scene 1 yang tercatat pada riwayat lama tetap menunggu review kreator.
 - Ilustrasi final: **0**.
 
