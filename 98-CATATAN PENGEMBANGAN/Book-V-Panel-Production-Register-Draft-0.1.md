@@ -703,3 +703,13 @@ Berdasarkan contact sheet yang diperiksa ulang:
 - Eksperimen A lebih berguna untuk blocking kasar; jangan gunakan detail wajah, rambut, kostum, atau ruang sebagai acuan final.
 - Status 10.3: eksperimen komposisi tersedia; belum thumbnail final; revisi netral masih diperlukan.
 - Total eksperimen lokal: 15. Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
+
+
+
+## Pembaruan Panel 10.4 — 2026-11-28
+
+- Satu eksperimen medium two-shot tersedia; dua figur berdiskusi dengan tabel kosong sebagai konteks.
+- Gestur tanya-jawab terbaca secara umum, tetapi identitas Kael/Ilyra tidak dapat disahkan dari output.
+- Detail wajah, rambut, kostum, dan ruang terlalu spesifik; output hanya studi komposisi NON-CANON.
+- Status 10.4: studi komposisi tersedia; belum thumbnail final; desain karakter tidak boleh diadopsi.
+- Total eksperimen lokal: 16. Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
