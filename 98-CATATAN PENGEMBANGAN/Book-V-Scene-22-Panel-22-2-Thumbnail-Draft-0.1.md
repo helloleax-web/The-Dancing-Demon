@@ -1,22 +1,23 @@
 # Book V — Scene 22, Panel 22.2
-## Thumbnail / Manual Blocking Draft 0.1
+## Thumbnail / Manual Blocking Draft 0.1 — Alignment Revision
 
 **Status:** NON-CANON  
-**Jenis:** Book VI transition / archival lead insert  
-**Fungsi:** Memperkenalkan laporan tentang fenomena tidak biasa sebagai petunjuk umum menuju penyelidikan Buku VI tanpa menjelaskan fenomena tersebut.
+**Jenis:** Manual blocking / storyboard alignment  
+**Fungsi:** Jalur dan masyarakat.
 
 ### Komposisi
-Satu laporan singkat dari wilayah lain terlihat sebagai bahan yang diterima atau dibaca kelompok. Isi spesifik laporan tidak diperlihatkan; yang terbaca hanya bahwa laporan itu menyangkut fenomena yang tidak biasa.
+Wide observational. Jalur keluar melewati permukiman; papan pengumuman, tempat singgah, dan bangunan dengan catatan sejarah lokal terlihat sebagai konteks masyarakat.
 
 ### Batas visual dan informasi
-- Jangan mengidentifikasi fenomena, entitas, penyebab, lokasi, saksi, atau hubungan kosmik.
-- Jangan menambahkan rincian laporan, kutipan, tanggal, atau nama pihak.
-- Jangan memperlakukan laporan sebagai bukti terverifikasi.
+- Elemen latar generik; jangan memberi nama tempat atau sejarah baru.
+- Karakter tetap placeholder; tidak ada wajah, rambut, kostum, proporsi, atau aksesori final.
+- Dokumen yang tidak memiliki isi eksplisit dalam manuskrip tetap berupa placeholder tak terbaca.
+- Tidak menambahkan dialog, fakta sejarah, tanggal, lokasi, identitas, atau hubungan lore.
 
 ### Relasi kontinuitas
-Panel menjadi jembatan umum ke penyelidikan Buku VI. Ia bukan pengungkapan entitas kosmik dan tidak mengubah misteri LEAX.
+Panel ini diselaraskan dengan Visual Storyboard Bab 5 Revision 0.1. Revisi mengganti fungsi blocking lama agar nomor panel mengikuti urutan storyboard terbaru.
 
 ### Status kanon
-Blocking, tata letak, dan detail visual merupakan bahan produksi NON-CANON.
+Blocking dan tata letak adalah bahan produksi NON-CANON. Tidak ada perubahan pada manuskrip atau fakta CANON.
 
 **Dampak CANON: tidak ada.**
