@@ -740,3 +740,12 @@
 - No names, organizations, locations, dates, quotations, origin theories, mechanisms, or music details are invented; lack of evidence is not treated as proof of nonexistence.
 - Manual study image was created in the work session and is not stored as a binary asset in the repository.
 - All materials remain NON-CANON; CANON impact: none.
+
+
+### Scene 8 — Panel 8.3 thumbnail
+
+- [Book V Scene 8, Panel 8.3 — Thumbnail Draft 0.1](Book-V-Scene-08-Panel-8-3-Thumbnail-Draft-0.1.md) — manual top-down closing insert.
+- Records only the minimum supported conclusion: music was heard during the Great War; the origin of NVR AGAIN remains unknown.
+- Does not assert that all sources are independent or identical, and adds no creator, first user, distributor, mechanism, origin, music details, location, or chronology.
+- Manual study image was created in the work session and is not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
