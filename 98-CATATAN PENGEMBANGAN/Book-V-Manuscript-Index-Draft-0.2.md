@@ -586,3 +586,12 @@
 - The reading-room table near the window remains the continuity anchor from Scene 3, Panel 3.8.
 - Manual study image was created in the work session and is not stored as a binary asset in the repository.
 - All materials remain NON-CANON; CANON impact: none.
+
+
+### Scene 4 — Panel 4.3 thumbnail
+
+- [Book V Scene 4, Panel 4.3 — Thumbnail Draft 0.1](Book-V-Scene-04-Panel-4-3-Thumbnail-Draft-0.1.md) — manual insert-sequence blocking for the date distinctions.
+- Seraphine separates the labels for event date, report preparation date, and copy date; Ilyra examines sentence form to identify the recording date.
+- Only source-supported labels are used. No date values, calendar names, extra categories, or invented document text are established.
+- Manual study image was created in the work session and is not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
