@@ -116,3 +116,10 @@
 - [Scene 3 Page 3 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-03-Page-03-Illustrative-Thumbnail-Draft-0.1.md) — thumbnail Panels 3.5–3.6.
 - Cakupan thumbnail ilustratif kini 18/128 panel dalam 8 halaman; belum ada thumbnail yang diterima kreator. PNG tersedia secara lokal dan belum di-commit sebagai binary.
 - Semi-Flat Editorial dan 4:5 tetap konfigurasi sementara. NON-CANON.
+
+
+## Pembaruan thumbnail ilustratif — Scene 3 Page 4 — 2026-11-28
+
+- Scene 3 Page 4: Panels 3.7–3.8.
+- Total cakupan thumbnail ilustratif: 24/128 panel dalam 9 halaman; belum ada thumbnail diterima kreator.
+- PNG tersedia sebagai aset lokal sesi; file biner belum di-commit. Semi-Flat Editorial dan 4:5 tetap konfigurasi sementara. NON-CANON.
