@@ -11,7 +11,7 @@
 - Total panel pada storyboard teks: **128**.
 - Panel dengan referensi blocking/layout awal yang sudah tercatat: **128**.
 - Panel yang belum memiliki blocking awal tercatat: **0**.
-- Catatan/brief halaman thumbnail tersedia untuk seluruh 22 scene melalui 59 dokumen page-level. Empat PNG eksperimen lokal tercatat: Scene 7 Page 1, Scene 7 Page 2, Scene 8 Page 1, dan Scene 9 Page 1. Belum ada PNG halaman yang masuk repository sebagai binary assets.
+- Catatan/brief halaman thumbnail tersedia untuk seluruh 22 scene melalui 59 dokumen page-level. Lima PNG eksperimen lokal tercatat: Scene 7 Page 1–2, Scene 8 Page 1, dan Scene 9 Page 1–2. Belum ada PNG halaman yang masuk repository sebagai binary assets.
 - Thumbnail ilustratif Scene 1 yang tercatat pada riwayat lama tetap menunggu review kreator.
 - Ilustrasi final: **0**.
 
@@ -512,5 +512,16 @@ Rincian: [Illustrative Thumbnail Asset Log — Draft 0.1](Book-V-Illustrative-Th
 - Belum ada persetujuan desain karakter/lokasi atau lambang.
 - File biner belum di-commit ke repository.
 - Page 2 dan Page 3 belum memiliki PNG valid.
+
+**Status:** thumbnail ilustratif lokal, menunggu review kreator; NON-CANON.
+
+
+## 46. Eksperimen thumbnail — Scene 9 Page 2 — 2026-11-28
+
+- File lokal: `LEAX_BookV_Scene09_Page02_IllustrativeThumbnail_Draft01.png`, 1122 × 1402 px.
+- Panel 9.3–9.4: proses pemeriksaan dokumen dan close-up entri arsip.
+- Tidak ada visual jubah, pemakai, perisai, atau regenerasi; teks hanya placeholder.
+- File biner belum di-commit ke repository; belum diterima kreator.
+- Scene 9 Page 3 belum memiliki PNG valid.
 
 **Status:** thumbnail ilustratif lokal, menunggu review kreator; NON-CANON.
