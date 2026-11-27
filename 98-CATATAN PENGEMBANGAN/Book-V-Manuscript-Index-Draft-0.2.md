@@ -548,3 +548,12 @@
 - The exchange stays conversational and calm. No physical conflict, additional rules, or antagonist framing is introduced.
 - Manual study image was created in the work session and is not stored as a binary asset in the repository.
 - All materials remain NON-CANON; CANON impact: none.
+
+
+### Scene 3 — Panel 3.7 thumbnail
+
+- [Book V Scene 3, Panel 3.7 — Thumbnail Draft 0.1](Book-V-Scene-03-Panel-3-7-Thumbnail-Draft-0.1.md) — manual wide reading-room blocking.
+- Neral brings the group toward a long table; three background activities remain distinct: a copyist checks an ownership list, two students compare a map, and an older man waits for a file with an attendant.
+- Background figures remain generic. No additional identities, institutional functions, rules, signage, or activities are established.
+- Manual study image was created in the work session and is not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
