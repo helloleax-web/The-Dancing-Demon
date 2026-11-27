@@ -981,3 +981,12 @@
 - Efek jubah dibatasi pada pertahanan luar biasa serta regenerasi HP/MP berkelanjutan; mekanisme dan cakupan Resonansi Hitam tetap UNKNOWN.
 - Hipotesis mekanisme pada Scene 13 tetap lisan, belum diverifikasi, dan tidak digunakan sebagai dasar kesimpulan.
 - Thumbnail panel-per-panel dan ilustrasi final Bab 3 belum dibuat. Seluruh materi visual tetap NON-CANON.
+
+
+## Produksi visual — Bab 4
+
+- [Book V Visual Storyboard — Bab 4: Sejarah yang Diperebutkan](Book-V-Visual-Storyboard-Chapter-04-Draft-0.1.md) — storyboard teks Scenes 14–18, 27 panel, daftar aset dan risiko kontinuitas.
+- Konflik publikasi dibangun melalui penghilangan konteks, penyederhanaan sumber, dan risiko privasi pemberi kesaksian; bukan konflik fisik.
+- Kutipan yang dipotong dikoreksi dengan mengembalikan konteks sumber. Laporan tetap membedakan empat kategori hasil.
+- Keluaran penelitian lengkap dan ringkasan publik dipisahkan; izin dan perlindungan identitas tetap dijaga.
+- Thumbnail panel-per-panel dan ilustrasi final Bab 4 belum dibuat. Seluruh materi visual tetap NON-CANON.
