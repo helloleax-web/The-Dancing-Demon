@@ -1117,3 +1117,14 @@ Kedua review tidak menyetujui thumbnail ilustratif atau ilustrasi final. Seluruh
 
 - [Scene 1 Page 2 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-01-Page-02-Illustrative-Thumbnail-Draft-0.1.md) — halaman uji untuk Panels 1.4–1.5; Semi-Flat Editorial dan 4:5 tetap konfigurasi sementara.
 - File PNG tersedia secara lokal pada sesi kerja; belum menjadi binary repository asset. Thumbnail menunggu review kreator dan tidak mengunci desain karakter/lokasi.
+
+
+## Koreksi thumbnail ilustratif — Scene 1 Page 2
+
+- [Scene 1 Page 2 — Illustrative Thumbnail Draft 0.2](Book-V-Scene-01-Page-02-Illustrative-Thumbnail-Draft-0.1.md) — revisi Panels 1.4–1.5; enam placeholder kelompok dipulihkan dan heading dokumen yang tidak didukung dihapus.
+- PNG Draft 0.2 tersedia secara lokal; file biner belum menjadi aset repository. Status menunggu review kreator.
+
+## Thumbnail ilustratif — Scene 2 Page 1
+
+- [Scene 2 Page 1 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-02-Page-01-Illustrative-Thumbnail-Draft-0.1.md) — halaman uji untuk Panels 2.1–2.3.
+- File PNG tersedia secara lokal pada sesi kerja; belum menjadi binary repository asset. Thumbnail menunggu review kreator dan tidak mengunci desain karakter/lokasi.
