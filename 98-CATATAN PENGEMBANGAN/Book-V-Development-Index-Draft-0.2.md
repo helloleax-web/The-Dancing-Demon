@@ -41,6 +41,8 @@
 - [Panel Production Register — Draft 0.1](Book-V-Panel-Production-Register-Draft-0.1.md) — register status 128 panel.
 - [Chapter 2 Blocking Review — Draft 0.1](Book-V-Chapter-02-Blocking-Review-Draft-0.1.md) — review dan alignment 26 panel Bab 2.
 - [Chapter 3 Blocking Review — Draft 0.1](Book-V-Chapter-03-Blocking-Review-Draft-0.1.md) — review dan alignment 26 panel Bab 3.
+- [Chapter 4 Blocking Review — Draft 0.1](Book-V-Chapter-04-Blocking-Review-Draft-0.1.md) — review dan alignment 27 panel Bab 4.
+- [Chapter 5 Blocking Review — Draft 0.1](Book-V-Chapter-05-Blocking-Review-Draft-0.1.md) — review dan alignment 22 panel Bab 5.
 
 ### Status produksi per 2026-11-28
 
@@ -51,14 +53,14 @@
 - Bab 5: storyboard teks 22 panel selesai; laporan fenomena penutup tetap belum diverifikasi.
 - Bab 3–5: panel thumbnail/blocking awal telah dicatat untuk Scenes 9–22; storyboard visual bab lengkap dan audit blocking terpadu belum dibuat.
 - Desain final karakter/lokasi, palet, rendering, rasio halaman, tipografi, ukuran output, dan format publikasi belum dikunci.
-- Audit kontinuitas visual lintas lima bab selesai pada tingkat dokumen. Register menunjukkan 128 panel memiliki blocking awal; Bab 2–3 (52 panel) telah lolos review blocking komposisi kasar setelah total 13 koreksi alignment. Thumbnail ilustratif dan ilustrasi final yang diterima masih 0.
+- Audit kontinuitas visual lintas lima bab selesai pada tingkat dokumen. Register menunjukkan 128 panel memiliki blocking awal; Seluruh 128 panel telah lolos review blocking komposisi kasar lintas lima bab setelah 35 koreksi alignment (7 + 6 + 9 + 6 + 7?); thumbnail ilustratif dan ilustrasi final yang diterima masih 0. Thumbnail ilustratif dan ilustrasi final yang diterima masih 0.
 - Tidak ada aset visual yang mengesahkan detail NON-CANON menjadi CANON.
 
 ## Tahap produksi berikutnya
 
-1. Review blocking Bab 4–5 terhadap storyboard dan batas CANON/UNKNOWN.
-2. Tandai panel yang perlu revisi, lalu terima staging sebelum membuat thumbnail ilustratif.
-3. Uji format halaman dan rendering pada panel representatif setelah keputusan kreator.
+1. Uji format halaman dan rendering pada panel representatif setelah keputusan kreator.
+2. Buat thumbnail ilustratif setelah arah visual disetujui.
+3. Review thumbnail dan revisi sebelum ilustrasi final.
 4. Jangan membuat desain final karakter/lokasi atau menetapkan gaya/format publikasi tanpa keputusan kreator.
 
 **Dampak CANON: tidak ada.** Semua storyboard, blocking, dan keputusan produksi yang belum disahkan tetap NON-CANON.
