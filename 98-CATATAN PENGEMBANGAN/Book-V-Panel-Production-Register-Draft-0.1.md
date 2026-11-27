@@ -11,7 +11,7 @@
 - Total panel pada storyboard teks: **128**.
 - Panel dengan referensi blocking/layout awal yang sudah tercatat: **128**.
 - Panel yang belum memiliki blocking awal tercatat: **0**.
-- Thumbnail ilustratif yang diterima: **0**.
+- Thumbnail ilustratif dibuat untuk review: **1 halaman (Scene 1, Panels 1.1–1.3); belum diterima kreator**.
 - Ilustrasi final: **0**.
 
 **Penting:** angka blocking awal hanya menghitung panel/layout yang pernah dicatat pada dokumen kerja terdahulu. Untuk Scenes 5–22, beberapa studi dibuat sebelum storyboard bab lengkap selesai dan belum tentu sepenuhnya cocok dengan nomor/aksi panel storyboard terbaru. Karena itu, seluruhnya masih harus disinkronkan dan direview. Tidak ada panel yang otomatis berstatus diterima hanya karena file studi pernah dibuat.
@@ -183,3 +183,11 @@ Paket visual lokal: `LEAX_BookV_Chapter05_MissingBlocking_Panels.zip` dan contac
 - [Book V Blocking Acceptance Report — Draft 0.1](Book-V-Blocking-Acceptance-Report-Draft-0.1.md) merangkum penerimaan blocking komposisi kasar 128/128 panel.
 - Bab 1 memiliki audit blocking dan kontinuitas; Bab 2–5 memiliki review blocking terpisah.
 - Penerimaan hanya berlaku untuk komposisi kasar, bukan thumbnail ilustratif atau ilustrasi final.
+
+
+## 16. Thumbnail ilustratif — Scene 1, Page 1 — 2026-11-28
+
+- [Scene 1 Page 1 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-01-Page-01-Illustrative-Thumbnail-Draft-0.1.md) mendokumentasikan halaman uji untuk Panels 1.1–1.3.
+- File PNG tersedia sebagai aset lokal sesi: `LEAX_BookV_Scene01_Page01_IllustrativeThumbnail_Draft01.png`; file biner belum disimpan ke repository.
+- Arah Semi-Flat Editorial dan rasio 4:5 hanya konfigurasi uji sementara, belum disetujui sebagai keputusan final.
+- Status: thumbnail dibuat, menunggu review kreator; belum diterima.
