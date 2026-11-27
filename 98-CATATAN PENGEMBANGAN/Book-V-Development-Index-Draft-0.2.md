@@ -41,7 +41,7 @@
 - [Illustrative Thumbnail Asset Log — Draft 0.1](Book-V-Illustrative-Thumbnail-Asset-Log-Draft-0.1.md) — pencatatan PNG eksperimen, status review, dan percobaan visual yang ditolak.
 - [Scene 10 Visual Execution Sheet — Draft 0.1](Book-V-Scene-10-Visual-Execution-Sheet-Draft-0.1.md) — staging dan acceptance checklist untuk Panels 10.1–10.5; NON-CANON.
 - [Visual Continuity Audit — Draft 0.1](Book-V-Visual-Continuity-Audit-Draft-0.1.md) — audit lintas 22 scene / 128 panel.
-- [Panel Production Register — Draft 0.1](Book-V-Panel-Production-Register-Draft-0.1.md) — register status 128 panel; enam PNG eksperimen lokal Scene 7–9 dan penolakan output Scene 10 dicatat terpisah; belum ada aset binary yang di-commit.
+- [Panel Production Register — Draft 0.1](Book-V-Panel-Production-Register-Draft-0.1.md) — register status 128 panel; enam PNG eksperimen lokal Scene 7–9 dan empat penolakan output Scene 10 dicatat terpisah; belum ada aset binary yang di-commit.
 - [Chapter 2 Blocking Review — Draft 0.1](Book-V-Chapter-02-Blocking-Review-Draft-0.1.md) — review dan alignment 26 panel Bab 2.
 - [Chapter 3 Blocking Review — Draft 0.1](Book-V-Chapter-03-Blocking-Review-Draft-0.1.md) — review dan alignment 26 panel Bab 3.
 - [Chapter 4 Blocking Review — Draft 0.1](Book-V-Chapter-04-Blocking-Review-Draft-0.1.md) — review dan alignment 27 panel Bab 4.
