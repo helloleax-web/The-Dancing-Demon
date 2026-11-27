@@ -70,13 +70,25 @@
 - [Scene 13 Page 1 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-13-Page-01-Illustrative-Thumbnail-Draft-0.1.md) — Panels 13.1–13.2.
 - [Scene 13 Page 2 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-13-Page-02-Illustrative-Thumbnail-Draft-0.1.md) — Panels 13.3–13.4.
 - [Scene 13 Page 3 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-13-Page-03-Illustrative-Thumbnail-Draft-0.1.md) — Panels 13.5–13.6.
+- [Scene 14 Page 1 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-14-Page-01-Illustrative-Thumbnail-Draft-0.1.md) — Panels 14.1–14.2.
+- [Scene 14 Page 2 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-14-Page-02-Illustrative-Thumbnail-Draft-0.1.md) — Panels 14.3–14.4.
+- [Scene 14 Page 3 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-14-Page-03-Illustrative-Thumbnail-Draft-0.1.md) — Panels 14.5–14.6.
+- [Scene 15 Page 1 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-15-Page-01-Illustrative-Thumbnail-Draft-0.1.md) — Panels 15.1–15.3.
+- [Scene 15 Page 2 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-15-Page-02-Illustrative-Thumbnail-Draft-0.1.md) — Panels 15.4–15.5.
+- [Scene 16 Page 1 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-16-Page-01-Illustrative-Thumbnail-Draft-0.1.md) — Panels 16.1–16.3.
+- [Scene 16 Page 2 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-16-Page-02-Illustrative-Thumbnail-Draft-0.1.md) — Panels 16.4–16.5.
+- [Scene 17 Page 1 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-17-Page-01-Illustrative-Thumbnail-Draft-0.1.md) — Panels 17.1–17.3.
+- [Scene 17 Page 2 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-17-Page-02-Illustrative-Thumbnail-Draft-0.1.md) — Panels 17.4–17.5.
+- [Scene 18 Page 1 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-18-Page-01-Illustrative-Thumbnail-Draft-0.1.md) — Panels 18.1–18.2.
+- [Scene 18 Page 2 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-18-Page-02-Illustrative-Thumbnail-Draft-0.1.md) — Panels 18.3–18.4.
+- [Scene 18 Page 3 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-18-Page-03-Illustrative-Thumbnail-Draft-0.1.md) — Panels 18.5–18.6.
 
 ### Status produksi per 2026-11-28
 
 - Bab 1: storyboard teks dan 27 panel blocking/layout manual tersedia; audit blocking dan kontinuitas telah dibuat.
 - Bab 2: storyboard teks 26 panel selesai; brief halaman thumbnail terdokumentasi untuk seluruh Scene 5–8 (masing-masing tiga halaman); PNG ilustratif dan ilustrasi final belum dibuat dalam rangkaian commit ini.
 - Bab 3: storyboard teks 26 panel selesai; brief halaman thumbnail seluruh Scene 9–13 terdokumentasi; hipotesis mekanisme dan cakupan Resonansi Hitam tetap tidak dipastikan.
-- Bab 4: storyboard teks 27 panel selesai; perlindungan pemberi kesaksian dan pemisahan arsip lengkap/ringkasan publik dijaga.
+- Bab 4: storyboard teks 27 panel selesai; brief halaman thumbnail Scene 14–18 terdokumentasi; perlindungan pemberi kesaksian dan pemisahan arsip lengkap/ringkasan publik dijaga.
 - Bab 5: storyboard teks 22 panel selesai; laporan fenomena penutup tetap belum diverifikasi.
 - Bab 3–5: panel thumbnail/blocking awal telah dicatat untuk Scenes 9–22; storyboard visual bab lengkap dan audit blocking terpadu belum dibuat.
 - Desain final karakter/lokasi, palet, rendering, rasio halaman, tipografi, ukuran output, dan format publikasi belum dikunci.
@@ -87,8 +99,8 @@
 
 ## Tahap produksi berikutnya
 
-1. Lanjutkan brief halaman thumbnail Chapter 4 dari Scene 14 dengan mengikuti storyboard dan blocking yang telah diperiksa.
-2. Sinkronkan Panel Production Register dengan cakupan brief halaman Scene 5–13.
+1. Lanjutkan brief halaman thumbnail Chapter 5 dari Scene 19 dengan mengikuti storyboard dan blocking yang telah diperiksa.
+2. Sinkronkan Panel Production Register dengan cakupan brief halaman Scene 5–18.
 3. Buat dan review aset PNG halaman setelah arah visual, format, dan kebutuhan aset disiapkan.
 4. Desain final karakter/lokasi, format, dan tipografi tetap menunggu keputusan terpisah.
 
