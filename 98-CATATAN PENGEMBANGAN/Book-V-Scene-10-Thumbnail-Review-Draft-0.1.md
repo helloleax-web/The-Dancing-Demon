@@ -168,3 +168,26 @@ Satu eksperimen medium two-shot dibuat berdasarkan manuskrip Chapter 3 Revision 
 **Hitungan eksperimen lokal:** 6 eksperimen halaman Scene 7–9 + 10 eksperimen panel Scene 10 = 16. Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
 
 **Dampak CANON: tidak ada.**
+
+
+
+## Review eksperimen Panel 10.5 — 2026-11-28
+
+**Output:** `/mnt/data/a_detailed_clean_overhead_illustration_of_a_works.png` (1536 × 1024).
+
+| Kriteria | Hasil |
+|---|---|
+| Satu panel tunggal, top-down 90 derajat | Terpenuhi; seluruh meja dan kertas terlihat dari atas |
+| Tidak ada karakter/tangan | Terpenuhi |
+| Kutipan asli/lampiran terpisah dari terjemahan kerja | Terbaca secara komposisi: tumpukan dokumen di kiri, lembar tabel di kanan |
+| Dua bagian konteks tidak lengkap | Dua potongan kertas terpisah di ruang kosong tengah; tidak diberi tanda status |
+| Tidak ada garis/panah penghubung | Terpenuhi |
+| Tidak ada jubah, efek, mekanisme, atau identitas | Terpenuhi |
+| Teks placeholder | Ada pseudo-handwriting yang tidak terbaca; tidak boleh diperlakukan sebagai kutipan/istilah |
+| Netralitas tabel | Tabel kanan memiliki dua kolom dan beberapa baris, tetapi bukan representasi lengkap tabel tiga kolom Panel 10.1; untuk Panel 10.5 ia hanya mewakili terjemahan kerja terpisah, bukan tabel istilah utama |
+
+**Keputusan:** kandidat blocking flat-lay Panel 10.5 yang layak untuk evaluasi kreator, belum thumbnail final. Pemisahan kiri/kanan dan dua potongan konteks di tengah sesuai fungsi staging. Pseudo-handwriting tetap placeholder dan harus diganti/diabaikan pada artwork final. Jangan menyimpulkan isi atau hubungan dua potongan kertas.
+
+**Hitungan eksperimen lokal:** 6 eksperimen halaman Scene 7–9 + 11 eksperimen panel Scene 10 = 17. Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
+
+**Dampak CANON: tidak ada.**
