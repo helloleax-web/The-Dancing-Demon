@@ -368,3 +368,13 @@ Keduanya NON-CANON, bukan thumbnail diterima. Tidak ada visual jubah, pemakai, l
 - Audit panel: 10.1 struktur tiga kolom dapat dipertahankan; 10.2 perlu pemetaan gestur; 10.3–10.4 perlu figur netral/character sheets; 10.5 perlu revisi fungsi lampiran dan penanda status.
 - Scene 10 belum siap dirakit sebagai halaman final. Tidak ada thumbnail diterima atau binary PNG di repository.
 - Total eksperimen lokal tercatat: 17; thumbnail diterima: 0; ilustrasi final: 0; binary PNG repository: 0. Semua NON-CANON.
+
+
+
+## Eksperimen revisi Panel 10.2 — tiga aksi pemeriksaan — 2026-11-28
+
+- File lokal: `a_detailed_sepia_toned_ink_style_illustration_of_a.png` (1536 × 1024).
+- Satu close-up memperlihatkan tiga gestur yang berbeda: menunjuk pilihan istilah, menelusuri baris tabel dengan pena, dan membuka/memeriksa dokumen kalimat lengkap.
+- Struktur tabel tiga kolom terlihat; dokumen sumber berada terpisah. Tidak ada wajah atau desain karakter yang dikunci.
+- Status: kandidat blocking revisi paling jelas untuk Panel 10.2 sejauh ini, belum thumbnail final. Identitas tangan hanya pemetaan blocking; tulisan pseudo-handwriting tetap placeholder.
+- Total eksperimen lokal menjadi 18 (6 halaman Scene 7–9 + 12 eksperimen panel Scene 10). Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
