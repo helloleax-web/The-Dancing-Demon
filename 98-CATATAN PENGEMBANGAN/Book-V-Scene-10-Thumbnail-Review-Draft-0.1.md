@@ -70,3 +70,26 @@ Manuskrip menyatakan Tavian menunjukkan pilihan istilah, Seraphine memeriksa set
 **Hierarki sumber produksi:** manuskrip Chapter 3 Revision Draft 0.4 → visual storyboard → panel blocking/thumbnail brief → execution sheet → eksperimen PNG. Jika ada perbedaan, turunkan dokumen produksi ke manuskrip; jangan mengubah manuskrip secara diam-diam.
 
 **Dampak CANON: tidak ada.**
+
+
+## Koreksi pemeriksaan visual contact sheet — 2026-11-28
+
+Pemeriksaan ulang terhadap contact sheet lima eksperimen memperbaiki beberapa penilaian visual pada Bagian 1. Koreksi ini didasarkan pada gambar yang benar-benar terlihat, bukan hanya ringkasan sebelumnya.
+
+| Panel | Temuan visual yang dikoreksi | Status |
+|---|---|---|
+| 10.1 | Tabel top-down memperlihatkan struktur tiga kolom secara visual. Tulisan tetap placeholder/tidak terbaca, sesuai batas agar tidak menciptakan istilah sumber. Ini sudah sejalan dengan struktur tiga kolom manuskrip. | Struktur komposisi dapat dipertahankan; belum dinyatakan final |
+| 10.2 | Terlihat dua kelompok dokumen dan satu tangan, tetapi tidak ada figur Seraphine maupun proses pemeriksaan baris yang terbaca. Setelah alignment manuskrip, blocking perlu direvisi untuk mengakomodasi aksi Tavian, Seraphine, dan Ilyra. | Revisi |
+| 10.3 | Gambar yang ditampilkan justru memuat label 10.5 dan komposisi dua panel bertumpuk dengan figur memegang dokumen. Itu bukan medium group 10.3 dan tidak sesuai brief 10.3. Panel 10.3 belum memiliki eksperimen yang valid. | Tolak sebagai 10.3; buat ulang |
+| 10.4 | Two-shot dua karakter dengan tabel di meja terlihat. Struktur percakapan dan konteks tabel sesuai secara kasar; identitas karakter belum dapat dipastikan tanpa acuan desain sah. | Draft struktur dapat dipertahankan; belum final |
+| 10.5 | Flat lay memperlihatkan dua area dokumen dan potongan kertas di antaranya, tetapi aksi pemindahan kutipan asli ke lampiran serta pemisahan terjemahan kerja belum cukup terbaca. | Revisi staging |
+
+### Dampak pada keputusan sebelumnya
+
+- Penilaian sebelumnya bahwa 10.3 menampilkan medium group tiga figur dibatalkan.
+- Penilaian bahwa 10.1 belum memperlihatkan struktur tiga kolom diperbarui: struktur tiga kolom tampak secara visual, tetapi belum ada teks terbaca dan itu tidak diperlukan.
+- Koreksi isi sumber Panel 10.1 dan 10.2 tetap berlaku: manuskrip mengatur tiga kolom dan urutan aksi pemeriksaan.
+- Tidak ada panel yang diterima sebagai final. Panel 10.1 dan 10.4 dapat dipakai sebagai dasar struktur untuk tahap berikutnya; 10.2, 10.3, dan 10.5 memerlukan revisi.
+- Jumlah eksperimen lokal tetap 11; binary PNG repository 0; thumbnail diterima 0; ilustrasi final 0.
+
+**Dampak CANON: tidak ada.**
