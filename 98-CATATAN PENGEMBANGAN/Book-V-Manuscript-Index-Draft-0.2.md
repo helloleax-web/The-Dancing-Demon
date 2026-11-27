@@ -758,3 +758,12 @@
 - No cloak depiction, wearer, HP/MP regeneration effect, NVR AGAIN connection, or interpretation of Resonansi Hitam is introduced.
 - Manual study image was created in the work session and is not stored as a binary asset in the repository.
 - All materials remain NON-CANON; CANON impact: none.
+
+
+### Scene 9 — Panel 9.2 thumbnail
+
+- [Book V Scene 9, Panel 9.2 — Thumbnail Draft 0.1](Book-V-Scene-09-Panel-9-2-Thumbnail-Draft-0.1.md) — manual catalogue-insert blocking study.
+- Reveals only the supported catalogue association between black mana cloaks and LEAX's allies, plus the CANON effects: extraordinary defense and continuous HP/MP regeneration.
+- No ally identities, counts, dates, locations, acquisition details, cloak mechanics, or link to NVR AGAIN or an interpreted scope for Resonansi Hitam are introduced.
+- Manual study image was created in the work session and is not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
