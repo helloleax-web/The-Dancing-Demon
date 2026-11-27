@@ -11,7 +11,7 @@
 - Total panel pada storyboard teks: **128**.
 - Panel dengan referensi blocking/layout awal yang sudah tercatat: **128**.
 - Panel yang belum memiliki blocking awal tercatat: **0**.
-- Catatan/brief halaman thumbnail tersedia untuk seluruh 22 scene melalui 59 dokumen page-level. Satu PNG uji Scene 7 Page 1 telah dibuat secara lokal; PNG halaman belum masuk repository sebagai binary assets.
+- Catatan/brief halaman thumbnail tersedia untuk seluruh 22 scene melalui 59 dokumen page-level. Tiga PNG eksperimen lokal tercatat: Scene 7 Page 1, Scene 7 Page 2, dan Scene 8 Page 1. Belum ada PNG halaman yang masuk repository sebagai binary assets.
 - Thumbnail ilustratif Scene 1 yang tercatat pada riwayat lama tetap menunggu review kreator.
 - Ilustrasi final: **0**.
 
@@ -480,3 +480,25 @@ Rincian: [Illustrative Thumbnail Asset Log — Draft 0.1](Book-V-Illustrative-Th
 - Jangan menggunakan percobaan yang ditolak sebagai referensi atau CANON.
 
 **Status:** Page 1 memiliki PNG lokal menunggu review; Page 2 dan Page 3 belum memiliki PNG valid. NON-CANON.
+
+
+## 44. Status eksperimen thumbnail — sinkronisasi Scene 7–8 — 2026-11-28
+
+| Scene | Halaman | Status aset lokal | Status repository |
+|---|---|---|---|
+| 7 | Page 1 (7.1–7.2) | PNG eksperimen tersedia; menunggu review | Binary belum di-commit |
+| 7 | Page 2 (7.3–7.4) | PNG eksperimen tersedia; menunggu review | Binary belum di-commit |
+| 7 | Page 3 (7.5–7.6) | Belum ada PNG valid; tiga percobaan ditolak | Tidak ada aset |
+| 8 | Page 1 (8.1–8.2) | PNG eksperimen tersedia; menunggu review | Binary belum di-commit |
+| 8 | Page 2 (8.3–8.4) | Belum ada PNG valid; percobaan yang salah arah ditolak | Tidak ada aset |
+| 8 | Page 3 (8.5–8.6) | Belum dibuat | Tidak ada aset |
+
+- Total PNG eksperimen lokal yang tercatat: **3**.
+- Total PNG binary yang telah di-commit ke repository: **0**.
+- Total thumbnail yang diterima kreator: **0**.
+- Semua eksperimen tetap NON-CANON dan tidak mengunci rendering, rasio, karakter, atau lokasi.
+- Percobaan visual yang tidak sesuai brief tidak dihitung sebagai aset produksi.
+
+Rincian: [Illustrative Thumbnail Asset Log — Draft 0.1](Book-V-Illustrative-Thumbnail-Asset-Log-Draft-0.1.md).
+
+**Dampak CANON: tidak ada.**
