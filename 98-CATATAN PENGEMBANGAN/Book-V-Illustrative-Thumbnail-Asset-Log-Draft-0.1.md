@@ -145,3 +145,16 @@ Percobaan visual Page 3 ditolak. Gambar menambahkan ilustrasi jubah, nomor katal
 Satu output yang muncul setelah persiapan Scene 10 ternyata masih menggambarkan jubah dan materi Scene 9. Output itu tidak sesuai brief Scene 10 dan mengandung visual jubah yang dilarang pada Scene 9. Tidak ada nama file aset yang ditetapkan, tidak dihitung sebagai PNG Scene 10, dan tidak boleh dipakai sebagai referensi atau CANON.
 
 **Status:** Scene 10 Page 1–2 belum memiliki PNG valid.
+
+
+### Scene 9 — Page 3 eksperimen lokal
+
+- File: `LEAX_BookV_Scene09_Page03_IllustrativeThumbnail_Draft01.png`.
+- Resolusi: 1122 × 1402 px.
+- Panel: 9.5–9.6.
+- Page 9.5 menampilkan tiga dokumen terpisah tanpa isi yang terbaca; Page 9.6 menampilkan percakapan dengan pengunjung generik dan pencatatan asal salinan.
+- Tidak ada ilustrasi jubah, isi teori, judul rekaan, mekanisme, identitas pengunjung, atau kesimpulan tentang independensi sumber.
+- Figur dan ruang adalah placeholder eksperimen, bukan desain yang disahkan.
+- File biner belum masuk repository; belum diterima kreator.
+
+**Status Scene 9:** ketiga halaman memiliki PNG eksperimen lokal; seluruhnya NON-CANON dan menunggu review. Page 3 tetap perlu diperiksa terhadap storyboard dan Visual Continuity Audit.
