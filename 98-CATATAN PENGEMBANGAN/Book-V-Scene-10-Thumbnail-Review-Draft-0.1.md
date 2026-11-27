@@ -249,3 +249,25 @@ Audit dilakukan dengan hierarki sumber: manuskrip Chapter 3 Revision Draft 0.4 �
 **Hitungan eksperimen lokal:** 6 eksperimen halaman Scene 7–9 + 12 eksperimen panel Scene 10 = 18. Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
 
 **Dampak CANON: tidak ada.**
+
+
+
+## Eksperimen revisi Panel 10.3 — medium group netral — 2026-11-28
+
+**Output lokal:** `/mnt/data/a_warm_sepia_toned_ink_manga_style_illustration_of.png` (1536 × 1024).
+
+| Kriteria | Hasil |
+|---|---|
+| Tepat tiga figur dalam medium group | Terpenuhi |
+| Percakapan Daren–Tavian–Seraphine | Gestur tanya dan dua respons terlihat, tetapi identitas dan urutan peran tidak dapat dipastikan dari gambar |
+| Dokumen sebagai konteks | Terpenuhi; ada lembar dokumen dan tabel di meja |
+| Tidak ada demonstrasi jubah/efek/luka/perisai | Terpenuhi |
+| Desain karakter tidak dikunci | Sebagian; wajah tanpa detail, tetapi pakaian, bentuk tubuh, dan postur tetap hasil generatif |
+| Latar tidak menambah detail | Belum; rak buku, jendela, dan lampu merupakan detail generatif yang tidak ditetapkan manuskrip |
+| Tulisan dokumen | Pseudo-handwriting; bukan isi sumber |
+
+**Keputusan:** studi komposisi yang lebih sesuai daripada eksperimen medium group sebelumnya karena jumlah figur tepat dan percakapan terbaca. Namun, detail pakaian/latar tetap NON-CANON dan tidak boleh menjadi acuan desain. Pemetaan figur kiri–tengah–kanan ke Daren/Tavian/Seraphine belum terverifikasi; urutan jawaban Tavian lalu Seraphine belum cukup tegas. Status: kandidat komposisi untuk evaluasi, belum thumbnail final.
+
+**Hitungan eksperimen lokal:** 6 eksperimen halaman Scene 7–9 + 13 eksperimen panel Scene 10 = 19. Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
+
+**Dampak CANON: tidak ada.**
