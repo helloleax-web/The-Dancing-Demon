@@ -29,18 +29,20 @@
 
 **Jangan tampilkan:** kutipan, tanggal, lokasi, angka, nama sumber, durasi, tingkatan, atau gambar jubah.
 
-### Panel 10.2 — Two-document comparison
+### Panel 10.2 — Close-up text comparison
 
-**Fokus visual:** Tavian menunjukkan pilihan istilah; Seraphine memeriksa setiap baris; Ilyra memeriksa kalimat lengkap dan konteksnya. Dua kelompok catatan tetap terpisah.
+**Fokus visual:** Tavian menunjukkan pilihan istilah; Seraphine memeriksa setiap baris; Ilyra memeriksa kalimat lengkap. Ikuti fungsi close-up pada Visual Storyboard Chapter 03.
 
 **Blocking:**
-- Dua lembar atau dua kelompok catatan berdampingan, tidak disatukan.
-- Tavian menunjukkan pilihan kata pada tabel; Seraphine menelusuri baris; Ilyra membaca kalimat lengkap.
-- Gestur harus menunjukkan proses pemeriksaan berurutan, bukan kesimpulan final.
-- Tidak ada tanda centang, silang, panah penyatuan, atau label kesimpulan yang menyiratkan kesepadanan final.
+- Close-up meja; wajah tidak diperlukan karena desain karakter belum dikunci.
+- Tabel tiga kolom dari Panel 10.1 menjadi pusat frame.
+- Tangan Tavian menunjuk pilihan istilah pada tabel.
+- Tangan Seraphine menelusuri baris sebagai pemeriksaan.
+- Ilyra memeriksa kalimat lengkap pada dokumen sumber terbuka di sisi tabel.
+- Dokumen sumber terpisah secara fisik; jangan membuat panah, garis, atau simbol yang menyiratkan hubungan sumber.
 - Teks berupa placeholder tak terbaca.
 
-**Jangan tampilkan:** klaim bahwa sumber independen, hasil final perbandingan, atau istilah teknis baru.
+**Jangan tampilkan:** klaim bahwa sumber independen, hasil final perbandingan, istilah teknis baru, atau identitas visual karakter yang belum disahkan.
 
 ### Panel 10.3 — Medium group
 
