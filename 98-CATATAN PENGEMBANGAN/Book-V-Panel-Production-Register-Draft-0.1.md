@@ -11,7 +11,7 @@
 - Total panel pada storyboard teks: **128**.
 - Panel dengan referensi blocking/layout awal yang sudah tercatat: **128**.
 - Panel yang belum memiliki blocking awal tercatat: **0**.
-- Catatan/brief halaman thumbnail terdokumentasi untuk Scene 5–12; aset PNG halaman untuk pembaruan Scene 7–12 belum dibuat atau di-commit dalam sesi ini.
+- Catatan/brief halaman thumbnail terdokumentasi untuk Scene 5–13; aset PNG halaman untuk pembaruan Scene 7–13 belum dibuat atau di-commit dalam sesi ini.
 - Thumbnail ilustratif Scene 1 yang tercatat pada riwayat lama tetap menunggu review kreator.
 - Ilustrasi final: **0**.
 
@@ -340,3 +340,15 @@ Paket visual lokal: `LEAX_BookV_Chapter05_MissingBlocking_Panels.zip` dan contac
 - Tidak ada putusan bahwa dua dokumen pasti identik, membahas dua jubah berbeda, atau menetapkan mekanisme baru.
 
 **Status:** brief dua halaman Scene 12 terdokumentasi; thumbnail PNG belum dibuat; belum ada penerimaan kreator. NON-CANON.
+
+
+## 30. Brief halaman thumbnail — Scene 13 — 2026-11-28
+
+- [Scene 13 Page 1 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-13-Page-01-Illustrative-Thumbnail-Draft-0.1.md) mencakup Panels 13.1–13.2: hipotesis tertulis generik dan pemeriksaan batas istilah sumber.
+- [Scene 13 Page 2 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-13-Page-02-Illustrative-Thumbnail-Draft-0.1.md) mencakup Panels 13.3–13.4: kebutuhan rujukan dan perlindungan identitas pengunjung.
+- [Scene 13 Page 3 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-13-Page-03-Illustrative-Thumbnail-Draft-0.1.md) mencakup Panels 13.5–13.6: petunjuk bibliografis dan status hipotesis yang belum diverifikasi.
+- Ketiga dokumen merupakan brief/catatan produksi NON-CANON, bukan bukti bahwa PNG ilustratif telah dibuat atau diterima.
+- Aset PNG Scene 13 belum dibuat dan belum di-commit sebagai binary repository asset.
+- Hipotesis lisan tidak digunakan sebagai dasar kesimpulan; identitas publik peneliti tetap tidak dicantumkan; mekanisme jubah tetap UNKNOWN.
+
+**Status:** brief tiga halaman Scene 13 terdokumentasi; thumbnail PNG belum dibuat; belum ada penerimaan kreator. NON-CANON.
