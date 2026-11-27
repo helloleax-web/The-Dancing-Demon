@@ -1,20 +1,23 @@
 # Book V — Scene 12, Panel 12.2
-## Thumbnail / Manual Blocking Draft 0.1
+## Thumbnail / Manual Blocking Draft 0.1 — Alignment Revision
 
 **Status:** NON-CANON  
-**Jenis:** Comparison boundary  
-**Fungsi:** Meneruskan beat Scene 12 tanpa menambah fakta di luar outline.
+**Jenis:** Manual blocking / storyboard alignment  
+**Fungsi:** Penekanan berbeda.
 
 ### Komposisi
-Tavian's working sheet keeps the two source records separate and adds a restrained note: different emphasis is not evidence of different objects. The group records the limit of the comparison, not a new conclusion about provenance.
+Medium group. Tavian menyebut kesan awal dua benda berbeda; Ilyra menjelaskan perbedaan fokus; Kael menyebut kemungkinan salah satu sumber keliru; Seraphine menahan putusan sampai konteks diperiksa.
 
 ### Batas visual dan informasi
-Do not infer separate cloaks, users, makers, or events. Do not reconcile terminology or add source relationships.
+- Tidak menetapkan dua jubah berbeda atau memilih sumber yang benar.
+- Karakter tetap placeholder; tidak ada wajah, rambut, kostum, proporsi, atau aksesori final.
+- Dokumen yang tidak memiliki isi eksplisit dalam manuskrip tetap berupa placeholder tak terbaca.
+- Tidak menambahkan dialog, fakta sejarah, tanggal, lokasi, identitas, atau hubungan lore.
 
 ### Relasi kontinuitas
-The panel preserves the outline's explicit caution: different descriptions do not prove the cloaks themselves were different.
+Panel ini diselaraskan dengan Visual Storyboard Bab 3 Revision 0.1. Revisi mengganti fungsi blocking lama agar nomor panel mengikuti urutan storyboard terbaru.
 
 ### Status kanon
-Blocking, tata letak, dan detail visual merupakan bahan produksi NON-CANON. Panel ini tidak mengubah fakta CANON.
+Blocking dan tata letak adalah bahan produksi NON-CANON. Tidak ada perubahan pada manuskrip atau fakta CANON.
 
 **Dampak CANON: tidak ada.**
