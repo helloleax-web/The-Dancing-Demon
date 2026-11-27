@@ -196,3 +196,14 @@
 - Panel 10.2: Tavian menunjukkan pilihan istilah, Seraphine memeriksa setiap baris, Ilyra memeriksa kalimat lengkap. Tidak ada konflik karakter.
 - Brief Page 1, blocking Panel 10.1–10.2, execution sheet, dan laporan review telah diselaraskan.
 - Tidak ada panel yang diterima otomatis; eksperimen tetap menunggu revisi/review kreator. Tidak ada perubahan CANON.
+
+
+
+### Koreksi contact sheet Scene 10 — 2026-11-28
+
+- 10.1: struktur tabel tiga kolom terlihat; dasar komposisi dapat dipertahankan, belum final.
+- 10.2: perlu revisi untuk memperlihatkan aksi pemeriksaan sesuai manuskrip.
+- 10.3: output yang diasosiasikan dengannya ternyata berlabel 10.5 dan salah format; ditolak. Belum ada eksperimen 10.3 valid.
+- 10.4: two-shot dengan tabel dapat dipertahankan sebagai draft struktur.
+- 10.5: perlu revisi agar aksi pemindahan kutipan asli ke lampiran terbaca.
+- Tidak ada thumbnail final diterima; tidak ada perubahan CANON.
