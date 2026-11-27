@@ -46,3 +46,27 @@ Panel 10.2 juga membutuhkan penegasan staging karakter karena storyboard dan thu
 **Status hitungan:** 6 eksperimen halaman Scene 7–9 + 5 eksperimen panel Scene 10 = 11 eksperimen lokal tercatat. Binary PNG repository: 0. Thumbnail diterima: 0. Ilustrasi final: 0.
 
 **Dampak CANON: tidak ada.**
+
+
+## Koreksi sumber — 2026-11-28 (menggantikan kesimpulan pada Bagian 2)
+
+Setelah memeriksa langsung **Book-V-Manuscript-Chapter-03-Revision-Draft-0.2.md** (isi dokumen berjudul Revision Draft 0.4), ditemukan bahwa kesimpulan review sebelumnya terlalu cepat menyebut konflik sumber. Manuskrip utama menjadi acuan isi adegan; ringkasan thumbnail dan execution sheet harus mengikuti manuskrip.
+
+### Panel 10.1 — keputusan koreksi
+
+Manuskrip secara eksplisit menyatakan tabel memiliki tiga kolom: **istilah asli, terjemahan kerja, dan konteks kalimat**. Dua efek CANON (pertahanan luar biasa serta regenerasi HP dan MP berkelanjutan) telah diperkenalkan pada Scene 9 dan bukan struktur pengganti tiga kolom. Brief halaman dan execution sheet telah dikoreksi agar mengikuti manuskrip. Panel 10.1 tetap perlu revisi visual hanya jika tiga kolom tersebut tidak terbaca secara struktur; tulisan literal tidak perlu ditampilkan.
+
+### Panel 10.2 — keputusan koreksi
+
+Manuskrip menyatakan Tavian menunjukkan pilihan istilah, Seraphine memeriksa setiap baris, dan Ilyra memeriksa kalimat lengkap. Aksi ini saling melengkapi, bukan konflik karakter. Brief dan blocking panel 10.2 telah dikoreksi. Tidak perlu memaksakan satu karakter sebagai satu-satunya pelaku pemeriksaan.
+
+### Status review setelah koreksi
+
+- Panel 10.1: eksperimen yang ada belum membuktikan tiga kolom struktural; revisi tetap diperlukan agar tabel memiliki tiga kolom. Tidak ada konflik sumber.
+- Panel 10.2: temuan karakter pada review sebelumnya dibatalkan. Eksperimen dinilai ulang hanya berdasarkan keterbacaan proses pemeriksaan dan pemisahan dua kelompok catatan; tidak ada konflik sumber.
+- Panel 10.3–10.5: keputusan sebelumnya tetap berlaku.
+- Tidak ada panel yang otomatis diterima sebagai thumbnail final oleh koreksi tekstual ini.
+
+**Hierarki sumber produksi:** manuskrip Chapter 3 Revision Draft 0.4 → visual storyboard → panel blocking/thumbnail brief → execution sheet → eksperimen PNG. Jika ada perbedaan, turunkan dokumen produksi ke manuskrip; jangan mengubah manuskrip secara diam-diam.
+
+**Dampak CANON: tidak ada.**
