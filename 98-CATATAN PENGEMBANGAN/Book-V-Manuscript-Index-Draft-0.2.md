@@ -576,3 +576,13 @@
 - The reading-room table near the window remains the continuity anchor from Scene 3, Panel 3.8.
 - Manual study image was created in the work session and is not stored as a binary asset in the repository.
 - All materials remain NON-CANON; CANON impact: none.
+
+
+### Scene 4 — Panel 4.2 thumbnail
+
+- [Book V Scene 4, Panel 4.2 — Thumbnail Draft 0.1](Book-V-Scene-04-Panel-4-2-Thumbnail-Draft-0.1.md) — manual over-shoulder blocking study.
+- Neral's hand points to the comparison area while the two date formats remain side by side, without conversion.
+- No calendar names, specific date values, regional emblems, or correct/incorrect judgment are introduced.
+- The reading-room table near the window remains the continuity anchor from Scene 3, Panel 3.8.
+- Manual study image was created in the work session and is not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
