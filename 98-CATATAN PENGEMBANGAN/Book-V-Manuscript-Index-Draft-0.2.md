@@ -660,3 +660,12 @@
 - No NVR AGAIN label, lyrics, notation, melody, instrument, sound source, location, date, author identity, dialogue, or final character design is invented.
 - Manual study image was created in the work session and is not stored as a binary asset in the repository.
 - All materials remain NON-CANON; CANON impact: none.
+
+
+### Scene 5 — Panel 5.4 thumbnail
+
+- [Book V Scene 5, Panel 5.4 — Thumbnail Draft 0.1](Book-V-Scene-05-Panel-5-4-Thumbnail-Draft-0.1.md) — manual wide-insert blocking study.
+- Places the marked source note about music or sound during the Great War in the same visual field as separate Prasasti working material; the records remain physically and evidentially distinct.
+- No claim that both records share a source; no invented matching chronology, description, lyrics, notation, melody, instrument, sound source, location, date, or author identity.
+- Manual study image was created in the work session and is not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
