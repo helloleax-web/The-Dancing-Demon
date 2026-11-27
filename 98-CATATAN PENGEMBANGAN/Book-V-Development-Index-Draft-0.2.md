@@ -224,3 +224,11 @@
 - Dua eksperimen medium group tersedia. Keduanya memenuhi jumlah figur dan konteks dokumen, tetapi desain generatif terlalu spesifik untuk diterima sebelum character sheets/lokasi disahkan.
 - Status: studi komposisi NON-CANON, bukan thumbnail final. Eksperimen A lebih berguna untuk blocking kasar; desain karakter tidak menjadi acuan.
 - Total eksperimen lokal: 15 (6 halaman Scene 7–9 + 9 panel Scene 10). Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
+
+
+
+### Eksperimen Panel 10.4 — 2026-11-28
+
+- Satu studi medium two-shot dibuat: dua figur berdiskusi dengan tabel kosong di meja. Tidak ada simbol/game UI atau visual regenerasi.
+- Output belum thumbnail final karena desain karakter/lokasi generatif belum disahkan; hanya komposisi dan gestur yang bisa dipelajari.
+- Total eksperimen lokal: 16 (6 halaman Scene 7–9 + 10 panel Scene 10). Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
