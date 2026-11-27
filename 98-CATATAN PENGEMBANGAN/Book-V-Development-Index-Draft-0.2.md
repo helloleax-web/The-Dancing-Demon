@@ -93,3 +93,10 @@
 - Total cakupan thumbnail ilustratif: 12/128 panel dalam 5 halaman; belum ada thumbnail yang diterima kreator. Angka ini menghitung panel yang sudah divisualisasikan, bukan panel final.
 - PNG halaman ini masih berupa aset lokal sesi; dokumentasi metadata tersimpan di repository, tetapi file biner belum di-commit.
 - Semi-Flat Editorial dan 4:5 tetap konfigurasi uji, bukan keputusan desain final. Seluruh materi tetap NON-CANON.
+
+
+## Thumbnail ilustratif — Scene 3, Page 1
+
+- [Scene 3 Page 1 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-03-Page-01-Illustrative-Thumbnail-Draft-0.1.md) mencatat Panels 3.1–3.2.
+- Aset PNG lokal sesi; belum di-commit sebagai file biner.
+- Status: dibuat untuk review, belum diterima; Semi-Flat Editorial dan 4:5 masih konfigurasi sementara. NON-CANON.
