@@ -216,3 +216,11 @@
 - Satu output revisi memperlihatkan tabel tiga kolom dan gestur pemeriksaan oleh tiga pihak tanpa menampilkan wajah. Status kandidat blocking, belum diterima sebagai thumbnail final.
 - Total eksperimen lokal: 13 (6 halaman Scene 7–9 + 7 panel Scene 10). Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
 - Tidak ada perubahan CANON.
+
+
+
+### Eksperimen Panel 10.3 — 2026-11-28
+
+- Dua eksperimen medium group tersedia. Keduanya memenuhi jumlah figur dan konteks dokumen, tetapi desain generatif terlalu spesifik untuk diterima sebelum character sheets/lokasi disahkan.
+- Status: studi komposisi NON-CANON, bukan thumbnail final. Eksperimen A lebih berguna untuk blocking kasar; desain karakter tidak menjadi acuan.
+- Total eksperimen lokal: 15 (6 halaman Scene 7–9 + 9 panel Scene 10). Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
