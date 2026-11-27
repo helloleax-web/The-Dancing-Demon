@@ -41,7 +41,7 @@
 - [Illustrative Thumbnail Asset Log — Draft 0.1](Book-V-Illustrative-Thumbnail-Asset-Log-Draft-0.1.md) — pencatatan PNG eksperimen, status review, dan percobaan visual yang ditolak.
 - [Scene 10 Visual Execution Sheet — Draft 0.1](Book-V-Scene-10-Visual-Execution-Sheet-Draft-0.1.md) — staging dan acceptance checklist untuk Panels 10.1–10.5; NON-CANON.
 - [Visual Continuity Audit — Draft 0.1](Book-V-Visual-Continuity-Audit-Draft-0.1.md) — audit lintas 22 scene / 128 panel.
-- [Panel Production Register — Draft 0.1](Book-V-Panel-Production-Register-Draft-0.1.md) — register status 128 panel; enam PNG eksperimen lokal Scene 7–9 dan empat penolakan output Scene 10 dicatat terpisah; belum ada aset binary yang di-commit.
+- [Panel Production Register — Draft 0.1](Book-V-Panel-Production-Register-Draft-0.1.md) — register status 128 panel; enam eksperimen PNG halaman Scene 7–9 dan satu eksperimen panel tunggal Scene 10.1 tercatat lokal; dua output halaman gabungan Scene 10 sebelumnya ditolak; belum ada aset binary yang di-commit.
 - [Chapter 2 Blocking Review — Draft 0.1](Book-V-Chapter-02-Blocking-Review-Draft-0.1.md) — review dan alignment 26 panel Bab 2.
 - [Chapter 3 Blocking Review — Draft 0.1](Book-V-Chapter-03-Blocking-Review-Draft-0.1.md) — review dan alignment 26 panel Bab 3.
 - [Chapter 4 Blocking Review — Draft 0.1](Book-V-Chapter-04-Blocking-Review-Draft-0.1.md) — review dan alignment 27 panel Bab 4.
@@ -119,7 +119,7 @@
 - Audit kontinuitas visual lintas lima bab selesai pada tingkat dokumen. Register menunjukkan 128 panel memiliki blocking awal dan seluruhnya telah lolos review blocking komposisi kasar setelah 28 koreksi alignment.
 - Brief halaman thumbnail Scene 5–8 masing-masing mencakup seluruh panel scene dalam tiga halaman per scene. Semua masih draft NON-CANON dan menunggu review.
 - Repository memiliki 59 dokumen halaman thumbnail untuk seluruh 22 scene. Dokumen tersebut adalah brief/catatan produksi, bukan bukti bahwa seluruh PNG sudah dibuat atau diterima.
-- PNG halaman belum tersimpan sebagai binary repository assets. Enam PNG eksperimen lokal tercatat: Scene 7 Page 1–2, Scene 8 Page 1, dan Scene 9 Page 1–3. Scene 10 Page 1–2 belum memiliki PNG valid; dua output salah target ditolak. Scene 7 Page 3 dan Scene 8 Page 2 belum memiliki PNG valid; Scene 8 Page 3 belum dibuat; Scene 9 Page 1–3 memiliki PNG eksperimen lokal, belum diterima. Rincian ada di Illustrative Thumbnail Asset Log.
+- PNG halaman belum tersimpan sebagai binary repository assets. Enam PNG eksperimen halaman tercatat: Scene 7 Page 1–2, Scene 8 Page 1, dan Scene 9 Page 1–3; satu eksperimen panel tunggal Scene 10.1 juga tersedia lokal. Scene 10 Panel 10.1 memiliki satu eksperimen panel tunggal lokal yang menunggu review; Page 1–2 belum memiliki PNG halaman lengkap; dua output halaman gabungan sebelumnya ditolak. Scene 7 Page 3 dan Scene 8 Page 2 belum memiliki PNG valid; Scene 8 Page 3 belum dibuat; Scene 9 Page 1–3 memiliki PNG eksperimen lokal, belum diterima. Rincian ada di Illustrative Thumbnail Asset Log.
 - Tidak ada aset visual yang mengesahkan detail NON-CANON menjadi CANON.
 
 ## Tahap produksi berikutnya
@@ -130,3 +130,12 @@
 4. Desain final karakter/lokasi, format, dan tipografi tetap menunggu keputusan terpisah.
 
 **Dampak CANON: tidak ada.** Semua storyboard, blocking, dan keputusan produksi yang belum disahkan tetap NON-CANON.
+
+
+### Pembaruan produksi visual — 2026-11-28
+
+- Scene 10 Panel 10.1: satu eksperimen PNG panel tunggal tersedia lokal dan menunggu review kreator.
+- Panel 10.2–10.5 belum memiliki eksperimen visual valid.
+- Enam eksperimen halaman Scene 7–9 tetap menunggu review; satu eksperimen panel Scene 10.1 menambah jumlah eksperimen lokal menjadi tujuh, tetapi bukan tujuh halaman.
+- Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
+- Tidak ada perubahan CANON.
