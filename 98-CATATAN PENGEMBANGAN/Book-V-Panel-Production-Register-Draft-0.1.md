@@ -11,7 +11,8 @@
 - Total panel pada storyboard teks: **128**.
 - Panel dengan referensi blocking/layout awal yang sudah tercatat: **128**.
 - Panel yang belum memiliki blocking awal tercatat: **0**.
-- Thumbnail ilustratif dibuat untuk review: **1 halaman (Scene 1, Panels 1.1–1.3); belum diterima kreator**.
+- Catatan/brief halaman thumbnail terdokumentasi untuk Scene 5–7; aset PNG halaman untuk pembaruan Scene 7 belum dibuat atau di-commit dalam sesi ini.
+- Thumbnail ilustratif Scene 1 yang tercatat pada riwayat lama tetap menunggu review kreator.
 - Ilustrasi final: **0**.
 
 **Penting:** angka blocking awal hanya menghitung panel/layout yang pernah dicatat pada dokumen kerja terdahulu. Untuk Scenes 5–22, beberapa studi dibuat sebelum storyboard bab lengkap selesai dan belum tentu sepenuhnya cocok dengan nomor/aksi panel storyboard terbaru. Karena itu, seluruhnya masih harus disinkronkan dan direview. Tidak ada panel yang otomatis berstatus diterima hanya karena file studi pernah dibuat.
@@ -270,3 +271,15 @@ Paket visual lokal: `LEAX_BookV_Chapter05_MissingBlocking_Panels.zip` dan contac
 - PNG tersedia sebagai aset lokal sesi: `LEAX_BookV_Scene04_Page01_IllustrativeThumbnail_Draft01.png`; file biner belum disimpan ke repository.
 - Semi-Flat Editorial dan 4:5 tetap konfigurasi uji sementara.
 - Status: thumbnail dibuat, menunggu review kreator; belum diterima. NON-CANON.
+
+
+## 24. Brief halaman thumbnail — Scene 7 — 2026-11-28
+
+- [Scene 7 Page 1 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-07-Page-01-Illustrative-Thumbnail-Draft-0.1.md) mencakup Panels 7.1–7.2: dua jenis sumber diletakkan terpisah; NVR AGAIN hanya tampak pada salinan pembacaan Prasasti.
+- [Scene 7 Page 2 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-07-Page-02-Illustrative-Thumbnail-Draft-0.1.md) mencakup Panels 7.3–7.4: pemeriksaan independensi sumber dan perbandingan kategori waktu/deskripsi.
+- [Scene 7 Page 3 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-07-Page-03-Illustrative-Thumbnail-Draft-0.1.md) mencakup Panels 7.5–7.6: hubungan kuat yang didukung perbandingan sumber dan rumusan batas hasil.
+- Ketiga dokumen merupakan brief/catatan produksi NON-CANON, bukan bukti bahwa PNG ilustratif telah dibuat atau diterima.
+- Aset PNG Scene 7 belum dibuat dan belum di-commit sebagai binary repository asset.
+- Nama NVR AGAIN tidak boleh muncul pada sumber sejarah awal atau ringkasan kesaksian; tidak ada asal, pencipta, penyebar, tujuan, atau mekanisme yang ditambahkan.
+
+**Status:** brief tiga halaman Scene 7 terdokumentasi; thumbnail PNG belum dibuat; belum ada penerimaan kreator. NON-CANON.
