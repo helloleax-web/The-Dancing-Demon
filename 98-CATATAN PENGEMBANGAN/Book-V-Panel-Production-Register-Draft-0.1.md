@@ -11,7 +11,7 @@
 - Total panel pada storyboard teks: **128**.
 - Panel dengan referensi blocking/layout awal yang sudah tercatat: **128**.
 - Panel yang belum memiliki blocking awal tercatat: **0**.
-- Catatan/brief halaman thumbnail terdokumentasi untuk Scene 5–11; aset PNG halaman untuk pembaruan Scene 7–11 belum dibuat atau di-commit dalam sesi ini.
+- Catatan/brief halaman thumbnail terdokumentasi untuk Scene 5–12; aset PNG halaman untuk pembaruan Scene 7–12 belum dibuat atau di-commit dalam sesi ini.
 - Thumbnail ilustratif Scene 1 yang tercatat pada riwayat lama tetap menunggu review kreator.
 - Ilustrasi final: **0**.
 
@@ -329,3 +329,14 @@ Paket visual lokal: `LEAX_BookV_Chapter05_MissingBlocking_Panels.zip` dan contac
 - Resonansi Hitam tetap istilah historis; cakupannya tidak ditetapkan. Tidak ada koneksi dengan NVR AGAIN.
 
 **Status:** brief dua halaman Scene 11 terdokumentasi; thumbnail PNG belum dibuat; belum ada penerimaan kreator. NON-CANON.
+
+
+## 29. Brief halaman thumbnail — Scene 12 — 2026-11-28
+
+- [Scene 12 Page 1 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-12-Page-01-Illustrative-Thumbnail-Draft-0.1.md) mencakup Panels 12.1–12.3: dua sumber dengan penekanan berbeda, percakapan awal, dan pemeriksaan kelengkapan.
+- [Scene 12 Page 2 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-12-Page-02-Illustrative-Thumbnail-Draft-0.1.md) mencakup Panels 12.4–12.5: perubahan kategori menjadi “perbedaan penekanan dan kelengkapan” serta koreksi kesimpulan.
+- Kedua dokumen merupakan brief/catatan produksi NON-CANON, bukan bukti bahwa PNG ilustratif telah dibuat atau diterima.
+- Aset PNG Scene 12 belum dibuat dan belum di-commit sebagai binary repository asset.
+- Tidak ada putusan bahwa dua dokumen pasti identik, membahas dua jubah berbeda, atau menetapkan mekanisme baru.
+
+**Status:** brief dua halaman Scene 12 terdokumentasi; thumbnail PNG belum dibuat; belum ada penerimaan kreator. NON-CANON.
