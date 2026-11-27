@@ -1,27 +1,23 @@
-# Book V — Scene 06, Panel 6.2
-## Thumbnail / Manual Blocking Draft 0.1
+# Book V — Scene 6, Panel 6.2
+## Thumbnail / Manual Blocking Draft 0.1 — Alignment Revision
 
 **Status:** NON-CANON  
-**Jenis:** Top-down insert; several distinct summary sheets  
-**Fungsi:** Memperlihatkan bahwa beberapa sumber menyebut musik yang terdengar selama perang, tetapi detail dan istilah yang digunakan tidak seragam.
+**Jenis:** Manual blocking / storyboard alignment  
+**Fungsi:** Sava menjelaskan jalur sumber.
 
 ### Komposisi
-- Beberapa lembar ringkasan kesaksian keluarga berada dalam satu bidang pandang.
-- Tiap lembar memiliki susunan teks/penanda abstrak yang berbeda agar tidak tampak sebagai salinan identik.
-- Perbedaan layout hanya alat blocking visual; bukan representasi kutipan, istilah spesifik, atau isi kesaksian tertentu.
-- Fokus pada variasi dokumen, bukan pada ilustrasi musik atau adegan perang.
-- Tidak perlu menampilkan karakter atau menetapkan desain final siapa pun.
+Medium group. Neral memperkenalkan Sava sebagai peneliti sejarah lisan. Sava menjelaskan bahwa tidak semua keterangan yang dibawanya berasal dari saksi langsung.
 
 ### Batas visual dan informasi
-- Jangan menambahkan nama wilayah, tanggal, nama keluarga, kutipan, jarak, jumlah sumber yang dinyatakan sebagai fakta, atau rincian kesaksian.
-- Jangan menciptakan lirik, notasi, melodi, instrumen, bentuk gelombang, atau deskripsi bunyi.
-- Jangan membuat semua sumber menyebut hal yang sama dengan kata-kata identik.
-- Jangan menyimpulkan bahwa semua sumber saling independen atau berasal dari kesaksian langsung.
-- Jangan menyatukan kesaksian langsung, cerita turun-temurun, dan salinan tertulis; pemisahan jenis sumber merupakan tindakan Seraphine dalam perkembangan Scene 6.
-- Jangan menampilkan nama NVR AGAIN pada ringkasan ini.
+- Tidak menampilkan variasi ringkasan secara top-down sebagai fokus utama; itu menjadi materi panel 6.4 dan kategori sumber dipisahkan pada 6.3.
+- Karakter tetap placeholder; tidak ada wajah, rambut, kostum, proporsi, atau aksesori final.
+- Dokumen yang tidak memiliki isi eksplisit dalam manuskrip tetap berupa placeholder tak terbaca.
+- Tidak menambahkan dialog, fakta sejarah, tanggal, lokasi, identitas, atau hubungan lore.
 
 ### Relasi kontinuitas
-Panel meneruskan pengenalan kumpulan ringkasan oleh Sava pada Panel 6.1. Panel 6.2 memberi kesan adanya variasi antarcatatan tanpa mengarang isi spesifik; klasifikasi evidensial belum dilakukan di panel ini.
+Panel ini diselaraskan dengan Visual Storyboard Bab 2 Revision 0.1. Revisi ini mengganti fungsi blocking lama agar nomor panel mengikuti urutan storyboard terbaru.
 
 ### Status kanon
-Seluruh blocking dan detail visual merupakan bahan produksi NON-CANON. Tidak mengubah atau menambah CANON.
+Blocking dan tata letak adalah bahan produksi NON-CANON. Tidak ada perubahan pada manuskrip atau fakta CANON.
+
+**Dampak CANON: tidak ada.**
