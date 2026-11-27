@@ -1,28 +1,23 @@
-# Book V — Scene 08, Panel 8.3
-## Thumbnail / Manual Blocking Draft 0.1
+# Book V — Scene 8, Panel 8.3
+## Thumbnail / Manual Blocking Draft 0.1 — Alignment Revision
 
 **Status:** NON-CANON  
-**Jenis:** Top-down closing insert; research summary  
-**Fungsi:** Menutup Scene 8 dengan satu kesimpulan minimum yang didukung sumber: musik terdengar selama Great War, sementara asal-usul NVR AGAIN tetap tidak diketahui.
+**Jenis:** Manual blocking / storyboard alignment  
+**Fungsi:** Hubungan bukan asal-usul.
 
 ### Komposisi
-- Beberapa lembar sumber yang telah diperiksa berada di bagian atas meja. Bentuk dan susunannya mengingatkan pada bahan Scene 8 Panel 8.2.
-- Satu lembar catatan kerja diletakkan terpisah di bawah kelompok sumber sebagai fokus panel.
-- Catatan kerja memuat satu kalimat: **“Musik terdengar selama Great War.”**
-- Tidak perlu menampilkan karakter; panel berfungsi sebagai penutup hasil pemeriksaan Scene 8.
-- Komposisi tenang dan tidak dramatis: kesimpulan terbatas, bukan pengungkapan besar.
+Medium group. Kael mengingatkan bahwa orang dapat mengira kelompok telah menemukan jawaban. Seraphine membedakan hubungan yang berhasil direkonstruksi dari asal-usul yang belum diketahui.
 
 ### Batas visual dan informasi
-- Kalimat pada catatan adalah batas kesimpulan yang didukung outline Scene 8; jangan menambahkan rincian musik.
-- Jangan menyatakan semua sumber independen, identik, atau sepakat dalam seluruh detail.
-- Jangan menambahkan nama pencipta, pengguna pertama nama, penyebar, mekanisme, asal, tujuan, lirik, notasi, melodi, instrumen, bentuk gelombang, lokasi, tanggal, atau kronologi rinci.
-- Jangan mengubah kesimpulan minimum ini menjadi penjelasan tentang bagaimana musik terdengar atau tersebar.
-- Jangan menambahkan dugaan hubungan sebab-akibat dengan Great War, jubah mana hitam, atau Resonansi Hitam.
-- Jangan menampilkan klaim bahwa asal-usul musik telah terpecahkan.
-- Tidak perlu menambahkan kalimat “NVR AGAIN” pada lembar ringkasan; nama tersebut telah muncul pada materi Prasasti dalam tahap perbandingan sebelumnya.
+- Tidak mengubah hubungan kuat menjadi penjelasan pencipta, pengguna pertama, penyebar, atau mekanisme.
+- Karakter tetap placeholder; tidak ada wajah, rambut, kostum, proporsi, atau aksesori final.
+- Dokumen yang tidak memiliki isi eksplisit dalam manuskrip tetap berupa placeholder tak terbaca.
+- Tidak menambahkan dialog, fakta sejarah, tanggal, lokasi, identitas, atau hubungan lore.
 
 ### Relasi kontinuitas
-Panel 8.3 menutup rangkaian Scene 8 setelah Panel 8.1 memisahkan pertanyaan yang belum terjawab dan Panel 8.2 mencatat keterbatasan sumber. Kesimpulan yang tersisa hanya bahwa musik terdengar selama Great War. Asal-usulnya tetap menjadi misteri.
+Panel ini diselaraskan dengan Visual Storyboard Bab 2 Revision 0.1. Revisi ini mengganti fungsi blocking lama agar nomor panel mengikuti urutan storyboard terbaru.
 
 ### Status kanon
-Seluruh blocking, tata letak kertas, dan tampilan catatan merupakan bahan produksi NON-CANON. Panel tidak mengubah atau menambah CANON.
+Blocking dan tata letak adalah bahan produksi NON-CANON. Tidak ada perubahan pada manuskrip atau fakta CANON.
+
+**Dampak CANON: tidak ada.**
