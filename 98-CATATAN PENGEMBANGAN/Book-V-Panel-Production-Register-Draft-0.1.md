@@ -444,3 +444,16 @@ Paket visual lokal: `LEAX_BookV_Chapter05_MissingBlocking_Panels.zip` dan contac
 - Status review kreator: belum diterima. NON-CANON.
 
 **Status:** satu PNG uji tersedia lokal; binary belum masuk repository; belum diterima kreator.
+
+
+## 41. Eksperimen thumbnail ilustratif — Scene 7 Page 2 — 2026-11-28
+
+- PNG lokal: `LEAX_BookV_Scene07_Page02_IllustrativeThumbnail_Draft01.png`, 1122 × 1402 px.
+- Cakupan visual: pemisahan dokumen yang independensinya belum teruji dan tabel perbandingan kategori waktu/deskripsi.
+- Isi tabel hanya placeholder; tidak ada tanggal, angka, kutipan, atau fakta baru yang dimasukkan.
+- Aset belum menjadi binary repository asset dan belum diterima kreator.
+- Dua percobaan Page 3 yang menyimpang dari brief ditolak; tidak dihitung sebagai aset.
+
+Rincian: [Illustrative Thumbnail Asset Log — Draft 0.1](Book-V-Illustrative-Thumbnail-Asset-Log-Draft-0.1.md).
+
+**Status:** Page 1 dan Page 2 memiliki PNG eksperimen lokal; Page 3 perlu dibuat ulang. Seluruhnya NON-CANON dan menunggu review.
