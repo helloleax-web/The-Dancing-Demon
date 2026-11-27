@@ -9,8 +9,8 @@
 
 - Total scene: **22**.
 - Total panel pada storyboard teks: **128**.
-- Panel dengan referensi blocking/layout awal yang sudah tercatat: **69**.
-- Panel yang belum memiliki blocking awal tercatat: **59**.
+- Panel dengan referensi blocking/layout awal yang sudah tercatat: **82**.
+- Panel yang belum memiliki blocking awal tercatat: **46**.
 - Thumbnail ilustratif yang diterima: **0**.
 - Ilustrasi final: **0**.
 
@@ -24,10 +24,10 @@
 | 2 | Jalan ke Orlenn | 7 | 7 | 0 | Layout manual 7 panel tercatat; review komposisi lanjutan diperlukan. |
 | 3 | Balai Catatan Perang | 8 | 8 | 0 | Layout manual 8 panel tercatat; review komposisi lanjutan diperlukan. |
 | 4 | Kronologi yang Tidak Cocok | 7 | 7 | 0 | Layout manual 7 panel tercatat; review komposisi lanjutan diperlukan. |
-| 5 | Catatan tentang Bunyi | 7 | 4 | 3 | Panel 5.1–5.4 memiliki blocking awal; 5.5–5.7 belum dibuat. |
-| 6 | Kesaksian dari Wilayah Berbeda | 7 | 3 | 4 | Panel 6.1–6.3 memiliki blocking awal; 6.4–6.7 belum dibuat. |
-| 7 | Nama dari Batu | 6 | 3 | 3 | Panel 7.1–7.3 memiliki blocking awal; 7.4–7.6 belum dibuat. |
-| 8 | Nama Tidak Menjelaskan Asal | 6 | 3 | 3 | Panel 8.1–8.3 memiliki blocking awal; 8.4–8.6 belum dibuat. |
+| 5 | Catatan tentang Bunyi | 7 | 7 | 0 | Blocking awal 5.1–5.7 terdokumentasi; menunggu review dan sinkronisasi. |
+| 6 | Kesaksian dari Wilayah Berbeda | 7 | 7 | 0 | Blocking awal 6.1–6.7 terdokumentasi; menunggu review dan sinkronisasi. |
+| 7 | Nama dari Batu | 6 | 6 | 0 | Blocking awal 7.1–7.6 terdokumentasi; menunggu review dan sinkronisasi. |
+| 8 | Nama Tidak Menjelaskan Asal | 6 | 6 | 0 | Blocking awal 8.1–8.6 terdokumentasi; menunggu review dan sinkronisasi. |
 | 9 | Catatan Jubah | 6 | 2 | 4 | Panel 9.1–9.2 memiliki blocking awal; 9.3–9.6 belum dibuat. |
 | 10 | Efek yang Tidak Biasa | 5 | 3 | 2 | Panel 10.1–10.3 memiliki blocking awal; 10.4–10.5 belum dibuat. |
 | 11 | Nama Resonansi Hitam | 4 | 2 | 2 | Panel 11.1–11.2 memiliki blocking awal; 11.3–11.4 belum dibuat. |
@@ -48,11 +48,11 @@
 | Bab | Scene | Panel storyboard | Blocking/layout awal | Status |
 |---|---|---:|---:|---|
 | Bab 1 — Arsip yang Tidak Sepakat | 1–4 | 27 | 27 | Layout manual dan audit tersedia; thumbnail ilustratif belum diterima. |
-| Bab 2 — Musik Tanpa Nama | 5–8 | 26 | 13 | Studi awal parsial; perlu dilengkapi dan diselaraskan dengan storyboard terbaru. |
+| Bab 2 — Musik Tanpa Nama | 5–8 | 26 | 26 | Blocking awal seluruh panel terdokumentasi; menunggu review. |
 | Bab 3 — Resonansi Hitam | 9–13 | 26 | 11 | Studi awal parsial; perlu dilengkapi dan diselaraskan dengan storyboard terbaru. |
 | Bab 4 — Sejarah yang Diperebutkan | 14–18 | 27 | 10 | Studi awal parsial; perlu dilengkapi dan diselaraskan dengan storyboard terbaru. |
 | Bab 5 — Perang yang Tertinggal | 19–22 | 22 | 8 | Studi awal parsial; perlu dilengkapi dan diselaraskan dengan storyboard terbaru. |
-| **Total** | **1–22** | **128** | **69** | **Belum ada thumbnail ilustratif atau ilustrasi final yang diterima.** |
+| **Total** | **1–22** | **128** | **82** | **Belum ada thumbnail ilustratif atau ilustrasi final yang diterima.** |
 
 ## 4. Status kerja yang digunakan
 
@@ -87,3 +87,18 @@ Status diterima harus didukung pemeriksaan panel terhadap storyboard dan Visual 
 - Status panel tidak mengubah status kandidat-final editorial manuskrip.
 
 **Dampak CANON: tidak ada.**
+
+
+## 7. Pembaruan blocking Bab 2 — 2026-11-28
+
+Panel yang sebelumnya belum memiliki blocking awal kini dibuat dan didokumentasikan:
+- Scene 5: Panels 5.5–5.7.
+- Scene 6: Panels 6.4–6.7.
+- Scene 7: Panels 7.4–7.6.
+- Scene 8: Panels 8.4–8.6.
+
+Jumlah tambahan: 13 panel. Bab 2 kini memiliki referensi blocking awal untuk seluruh 26 panel. Ini belum berarti panel diterima; semuanya tetap harus diperiksa terhadap storyboard dan Visual Continuity Audit.
+
+Paket visual lokal: `LEAX_BookV_Chapter02_MissingBlocking_Panels.zip` dan contact sheet `LEAX_BookV_Chapter02_MissingBlocking_ContactSheet.png`.
+
+**Status:** blocking awal Bab 2 lengkap secara cakupan; review penerimaan belum dilakukan. NON-CANON.
