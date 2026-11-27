@@ -614,3 +614,12 @@
 - No dates, source names, handover identities, or specific collection origins are invented. The four date categories remain separate.
 - Manual study image was created in the work session and is not stored as a binary asset in the repository.
 - All materials remain NON-CANON; CANON impact: none.
+
+
+### Scene 4 — Panel 4.6 thumbnail
+
+- [Book V Scene 4, Panel 4.6 — Thumbnail Draft 0.1](Book-V-Scene-04-Panel-4-6-Thumbnail-Draft-0.1.md) — manual isolated-document blocking study.
+- The catalogue entry shows only that LEAX disappeared after the Great War; it remains visibly separate from the chronology table.
+- No depiction of LEAX, silhouette, location, cause, circumstances, or added catalogue details is introduced.
+- Manual study image was created in the work session and is not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
