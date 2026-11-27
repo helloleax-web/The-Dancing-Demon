@@ -1,44 +1,54 @@
-# Book V — Development Index — Draft 0.2
+# Book V — Development Index — Draft 0.3
 
 **Status:** CATATAN PENGEMBANGAN / NON-CANON.  
 **Judul:** Perang yang Tertinggal.
 
 ## Dokumen inti
 
-- [Scene Outline — Draft 0.1](Book-V-Scene-Outline-Draft-0.1.md) — 22 scene dan batas sejarah.
-- [Character Knowledge Matrix — Draft 0.2](Book-V-Character-Knowledge-Matrix-Draft-0.2.md) — pengetahuan karakter dan batas fakta.
-- [Manuscript Index — Draft 0.2](Book-V-Manuscript-Index-Draft-0.2.md) — lima bab, 22 scene, sekitar 9.151 kata.
-- [Manuscript Continuity Audit — Draft 0.2](Book-V-Manuscript-Continuity-Audit-Draft-0.2.md) — audit terbaru.
-- [Manuscript Continuity Audit — Draft 0.1](Book-V-Manuscript-Continuity-Audit-Draft-0.1.md) — audit awal yang diarsipkan.
-- [Outline Audit — Draft 0.1](Book-V-Outline-Audit-Report-Draft-0.1.md) — audit struktur awal.
+- [Scene Outline — Draft 0.2](Book-V-Scene-Outline-Draft-0.1.md) — 22 scene dan batas sejarah.
+- [Character Knowledge Matrix — Draft 0.3](Book-V-Character-Knowledge-Matrix-Draft-0.2.md) — pengetahuan karakter dan batas fakta.
+- [Manuscript Index — Draft 0.4](Book-V-Manuscript-Index-Draft-0.2.md) — lima bab, 22 scene, 11.485 kata; proofreading akhir dan pembekuan kandidat-final editorial.
+- [Candidate-Final Editorial Lock — 2026-11-27](Book-V-Candidate-Final-Lock-2026-11-27.md) — snapshot lima bab yang dibekukan sebagai baseline editorial.
+- [Manuscript Continuity Audit — Draft 0.6](Book-V-Manuscript-Continuity-Audit-Draft-0.2.md) — audit lintas lima bab dan batas CANON/UNKNOWN.
+- [Character Voice Audit — 2026-11-27](Book-V-Character-Voice-Audit-2026-11-27.md) — diferensiasi suara delapan karakter.
+- [Final Editorial Audit — 2026-11-27](Book-V-Final-Editorial-Audit-2026-11-27.md) — audit editorial akhir.
 
-## Keputusan cerita draft
+## Keputusan cerita dan batas CANON
 
-- Kelompok menuju Orlenn setelah penemuan nama NVR AGAIN pada Buku IV.
-- Arsip dan kesaksian berbeda digunakan untuk menghubungkan NVR AGAIN dengan musik yang terdengar selama Great War.
-- Catatan tentang jubah mana hitam memperlihatkan pertahanan luar biasa dan regenerasi HP/MP berkelanjutan.
-- Resonansi Hitam muncul sebagai istilah historis, tetapi cakupannya tidak diputuskan.
-- Konflik utama adalah akses arsip, metodologi, distribusi informasi, dan perebutan otoritas sejarah.
-- Petunjuk menuju Buku VI tetap berupa laporan fenomena yang belum diverifikasi.
-- Neral Voss, Sava Renn, Orlenn, Balai Catatan Perang, dan seluruh detail peristiwa tetap NON-CANON.
+- NVR AGAIN dihubungkan dengan musik yang terdengar selama Great War melalui perbandingan Prasasti, arsip, dan kesaksian.
+- Kesaksian yang memiliki jalur asal belum teruji tidak dihitung sebagai konfirmasi independen.
+- Sekutu LEAX memperoleh jubah mana hitam; jubah memberi pertahanan luar biasa serta regenerasi HP/MP berkelanjutan.
+- Mekanisme jubah tetap UNKNOWN.
+- Resonansi Hitam muncul sebagai istilah historis; cakupan istilah tetap UNKNOWN.
+- LEAX menghilang setelah Great War; sebab, keadaan, lokasi, dan nasibnya tetap UNKNOWN.
+- Petunjuk Scene 22 menuju Book VI tetap laporan fenomena yang belum diverifikasi dan tidak dihubungkan dengan Abstract Existence.
+- Neral Voss, Sava Renn, Orlenn, Balai Catatan Perang, seluruh dokumen, dan kejadian spesifik Book V tetap NON-CANON.
 
-## Koreksi audit 0.2
+## Produksi visual
 
-- Klaim geografis dalam laporan dibatasi pada sumber yang benar-benar diperiksa.
-- Hubungan NVR AGAIN dengan musik dibangun melalui perbandingan dokumen dan kesaksian.
-- Efek jubah sesuai CANON; mekanisme tetap UNKNOWN.
-- Cakupan Resonansi Hitam tetap UNKNOWN.
-- Audit menandai ketegangan antara fungsi Book V dalam arsitektur seri (termasuk hilangnya LEAX) dan batas outline yang menahan semua materi LEAX.
-- Fakta CANON bahwa sekutu LEAX memperoleh jubah belum digunakan dan memerlukan keputusan scope.
+- [Visual Language Study — Draft 0.1](Book-V-Visual-Language-Study-Draft-0.1.md) — opsi rendering, palet, format, rasio, dan tipografi; belum dikunci.
+- [Page Ratio & Panel Layout Test — Draft 0.1](Book-V-Page-Ratio-and-Panel-Layout-Test-Draft-0.1.md) — tes 4:5 dan 2:3; belum ada keputusan final.
+- [Visual Storyboard — Bab 1](Book-V-Visual-Storyboard-Chapter-01-Draft-0.1.md) — Scenes 1–4, 27 panel.
+- [Visual Storyboard — Bab 2](Book-V-Visual-Storyboard-Chapter-02-Draft-0.1.md) — Scenes 5–8, 26 panel.
+- [Thumbnail Review — Bab 1](Book-V-Thumbnail-Review-Chapter-01-Draft-0.1.md) — review layout manual dan catatan batas visual.
+- [Chapter 1 Scene-by-Scene Blocking Audit](Book-V-Chapter-01-Scene-by-Scene-Blocking-Audit-Draft-0.1.md) — audit blocking tekstual 27 panel.
+- [Chapter 1 Visual Continuity Review](Book-V-Chapter-01-Visual-Continuity-Review-Draft-0.1.md) — kontinuitas properti, ruang, waktu, dan kamera.
+- [Production Design Specification — Bab 1](Book-V-Production-Design-Specification-Chapter-01-Draft-0.1.md) — spesifikasi produksi awal Bab 1.
 
-## Pekerjaan berikutnya
+### Status produksi per 2026-11-28
 
-1. Tentukan apakah Buku V boleh menyebut fakta CANON tentang hilangnya LEAX dan sekutu LEAX yang memperoleh jubah, tanpa menambah detail.
-2. Perkuat variasi suara Neral dan Sava.
-3. Beri Orlenn kehidupan di luar ruang arsip.
-4. Perkuat dampak konflik penerbit pada distribusi laporan.
-5. Padatkan dialog metodologis yang berulang.
-6. Perluas interaksi kelompok di luar Balai Catatan Perang.
-7. Transisi praktis ke Buku VI kini didukung kontrak pemeriksaan independen untuk laporan Harrowfen; audit lintas buku tetap perlu memeriksa konsistensi syarat kerja dan lokasi.
+- Bab 1: storyboard teks dan 27 panel blocking/layout manual tersedia; audit blocking dan kontinuitas telah dibuat.
+- Bab 2: storyboard teks 26 panel selesai; thumbnail panel-per-panel dan ilustrasi final belum dibuat.
+- Bab 3–5: panel thumbnail/blocking awal telah dicatat untuk Scenes 9–22; storyboard visual bab lengkap dan audit blocking terpadu belum dibuat.
+- Desain final karakter/lokasi, palet, rendering, rasio halaman, tipografi, ukuran output, dan format publikasi belum dikunci.
+- Tidak ada aset visual yang mengesahkan detail NON-CANON menjadi CANON.
 
-**Dampak CANON: tidak ada.** Semua lokasi, karakter pendukung, dokumen, dan kejadian tetap NON-CANON.
+## Tahap produksi berikutnya
+
+1. Lanjutkan storyboard teks Bab 3 (Scenes 9–13) berdasarkan manuskrip Revision 0.4.
+2. Susun storyboard teks Bab 4 (Scenes 14–18) dan Bab 5 (Scenes 19–22).
+3. Audit blocking dan kontinuitas visual lintas 22 scene setelah storyboard lima bab tersedia.
+4. Uji format halaman dan rendering pada panel yang representatif sebelum produksi thumbnail ilustratif.
+5. Jangan membuat desain final karakter/lokasi atau menetapkan gaya/format publikasi tanpa keputusan kreator.
+
+**Dampak CANON: tidak ada.** Semua storyboard, blocking, dan keputusan produksi yang belum disahkan tetap NON-CANON.
