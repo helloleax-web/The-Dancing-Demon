@@ -43,6 +43,7 @@
 - [Chapter 3 Blocking Review — Draft 0.1](Book-V-Chapter-03-Blocking-Review-Draft-0.1.md) — review dan alignment 26 panel Bab 3.
 - [Chapter 4 Blocking Review — Draft 0.1](Book-V-Chapter-04-Blocking-Review-Draft-0.1.md) — review dan alignment 27 panel Bab 4.
 - [Chapter 5 Blocking Review — Draft 0.1](Book-V-Chapter-05-Blocking-Review-Draft-0.1.md) — review dan alignment 22 panel Bab 5.
+- [Blocking Acceptance Report — Draft 0.1](Book-V-Blocking-Acceptance-Report-Draft-0.1.md) — penerimaan blocking kasar 128/128 panel.
 
 ### Status produksi per 2026-11-28
 
