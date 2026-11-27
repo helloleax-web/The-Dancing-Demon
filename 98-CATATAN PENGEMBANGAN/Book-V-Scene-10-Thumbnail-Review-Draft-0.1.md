@@ -146,3 +146,25 @@ Dua eksperimen generasi medium group dibuat berdasarkan manuskrip Chapter 3 Revi
 **Hitungan eksperimen lokal:** 6 eksperimen halaman Scene 7–9 + 9 eksperimen panel Scene 10 = 15. Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
 
 **Dampak CANON: tidak ada.**
+
+
+
+## Review eksperimen Panel 10.4 — 2026-11-28
+
+Satu eksperimen medium two-shot dibuat berdasarkan manuskrip Chapter 3 Revision Draft 0.4 dan Page 02 brief.
+
+**Output:** `/mnt/data/a_detailed_illustration_scene_a_warm_sepia_toned.png` (1536 × 1024).
+
+| Kriteria | Hasil |
+|---|---|
+| Dua figur utama | Terpenuhi; dua orang berdiskusi di meja |
+| Pertanyaan dan jawaban | Gestur tanya-jawab secara umum terbaca, tetapi identitas peran Kael/Ilyra belum dapat diverifikasi |
+| Tabel sebagai konteks | Terpenuhi; tabel kosong terlihat jelas |
+| Batas informasi | Tidak ada angka, durasi, meter, ikon HP/MP, diagram, atau visual regenerasi |
+| Desain karakter/lokasi | Belum sesuai untuk aset final; wajah, rambut, kostum, dan detail ruang terlalu spesifik dan belum disahkan |
+
+**Keputusan:** studi komposisi NON-CANON, bukan thumbnail final. Tabel kosong dan gestur percakapan dapat dipakai sebagai referensi blocking; desain karakter generatif tidak boleh dijadikan acuan. Identitas Kael dan Ilyra harus tetap ditahan sampai character sheets disetujui.
+
+**Hitungan eksperimen lokal:** 6 eksperimen halaman Scene 7–9 + 10 eksperimen panel Scene 10 = 16. Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
+
+**Dampak CANON: tidak ada.**
