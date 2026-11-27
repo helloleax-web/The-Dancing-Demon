@@ -632,3 +632,12 @@
 - No added LEAX details, chronology, dates, new terminology, or invented document content.
 - Manual study image was created in the work session and is not stored as a binary asset in the repository.
 - All materials remain NON-CANON; CANON impact: none.
+
+
+### Scene 5 — Panel 5.1 thumbnail
+
+- [Book V Scene 5, Panel 5.1 — Thumbnail Draft 0.1](Book-V-Scene-05-Panel-5-1-Thumbnail-Draft-0.1.md) — manual document-insert blocking study.
+- Introduces a source note that mentions music or sound during the Great War; the note does not name NVR AGAIN.
+- No lyrics, notation, melody, instrument, sound source, location, author identity, date, or conclusion is invented.
+- Manual study image was created in the work session and is not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
