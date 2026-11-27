@@ -176,3 +176,10 @@ Paket visual lokal: `LEAX_BookV_Chapter05_MissingBlocking_Panels.zip` dan contac
 - [Chapter 5 Blocking Review — Draft 0.1](Book-V-Chapter-05-Blocking-Review-Draft-0.1.md) — seluruh 22 panel diperiksa terhadap storyboard.
 - Hasil: 22/22 diterima sebagai blocking komposisi kasar setelah enam alignment corrections.
 - Penerimaan ini bukan penerimaan thumbnail ilustratif atau ilustrasi final.
+
+
+## 15. Penerimaan blocking seluruh Book V — 2026-11-28
+
+- [Book V Blocking Acceptance Report — Draft 0.1](Book-V-Blocking-Acceptance-Report-Draft-0.1.md) merangkum penerimaan blocking komposisi kasar 128/128 panel.
+- Bab 1 memiliki audit blocking dan kontinuitas; Bab 2–5 memiliki review blocking terpisah.
+- Penerimaan hanya berlaku untuk komposisi kasar, bukan thumbnail ilustratif atau ilustrasi final.
