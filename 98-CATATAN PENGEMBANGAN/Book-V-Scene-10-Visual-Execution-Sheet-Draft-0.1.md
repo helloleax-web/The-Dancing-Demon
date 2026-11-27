@@ -193,3 +193,14 @@ Manuskrip utama **Book V Manuscript Chapter 03 Revision Draft 0.4** mengatur isi
 - Gestur Kael terbaca sebagai pertanyaan; Ilyra sebagai jawaban berhati-hati.
 - Tabel hadir sebagai konteks, bukan diagram kemampuan.
 - Tidak ada simbol/game UI atau visual efek.
+
+
+
+### Catatan staging tambahan Panel 10.2 — 2026-11-28
+
+Agar ketiga fungsi terbaca tanpa memperlihatkan desain karakter, bedakan gestur/properti:
+- **Tavian:** telunjuk menunjuk pilihan istilah pada tabel.
+- **Seraphine:** tangan dengan pena menelusuri satu baris tabel sebagai pemeriksaan baris demi baris.
+- **Ilyra:** tangan membuka atau menahan dokumen sumber yang memuat kalimat lengkap untuk pemeriksaan konteks.
+
+Ketiganya harus tampak sebagai tiga aksi berbeda dalam satu close-up, bukan tiga tangan yang sama-sama menunjuk tabel. Pemetaan ini hanya blocking fungsional dari manuskrip; jangan mengunci ciri tangan, pakaian, atau identitas visual. Output eksperimen yang memenuhi komposisi ini tetap NON-CANON dan belum otomatis diterima.
