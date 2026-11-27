@@ -138,3 +138,10 @@ Percobaan visual Page 3 ditolak. Gambar menambahkan ilustrasi jubah, nomor katal
 - Page 3 harus dibuat ulang dengan tiga dokumen tanpa isi rekaan, pengunjung generik tanpa identitas, dan catatan asal salinan yang hanya mencatat status belum diverifikasi.
 
 **Status Scene 9:** Page 1–2 memiliki PNG eksperimen lokal; Page 3 belum memiliki PNG valid.
+
+
+### Percobaan visual salah target — tidak dihitung — 2026-11-28
+
+Satu output yang muncul setelah persiapan Scene 10 ternyata masih menggambarkan jubah dan materi Scene 9. Output itu tidak sesuai brief Scene 10 dan mengandung visual jubah yang dilarang pada Scene 9. Tidak ada nama file aset yang ditetapkan, tidak dihitung sebagai PNG Scene 10, dan tidak boleh dipakai sebagai referensi atau CANON.
+
+**Status:** Scene 10 Page 1–2 belum memiliki PNG valid.
