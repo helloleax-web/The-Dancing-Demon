@@ -1134,3 +1134,9 @@ Kedua review tidak menyetujui thumbnail ilustratif atau ilustrasi final. Seluruh
 
 - [Scene 2 Page 2 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-02-Page-02-Illustrative-Thumbnail-Draft-0.1.md) — halaman uji untuk Panels 2.4–2.5.
 - File PNG tersedia secara lokal pada sesi kerja; belum menjadi binary repository asset. Thumbnail menunggu review kreator dan tidak mengunci desain karakter/lokasi.
+
+
+## Thumbnail ilustratif — Scene 2 Page 3
+
+- [Scene 2 Page 3 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-02-Page-03-Illustrative-Thumbnail-Draft-0.1.md) — halaman uji untuk Panels 2.6–2.7.
+- File PNG tersedia secara lokal pada sesi kerja; belum menjadi binary repository asset. Thumbnail menunggu review kreator dan tidak mengunci desain karakter/lokasi.
