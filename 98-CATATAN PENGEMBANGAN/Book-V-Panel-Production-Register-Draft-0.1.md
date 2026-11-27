@@ -713,3 +713,13 @@ Berdasarkan contact sheet yang diperiksa ulang:
 - Detail wajah, rambut, kostum, dan ruang terlalu spesifik; output hanya studi komposisi NON-CANON.
 - Status 10.4: studi komposisi tersedia; belum thumbnail final; desain karakter tidak boleh diadopsi.
 - Total eksperimen lokal: 16. Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
+
+
+
+## Pembaruan Panel 10.5 — 2026-11-28
+
+- Satu eksperimen top-down flat lay tanpa karakter tersedia.
+- Tumpukan dokumen/lampiran di kiri, lembar terjemahan kerja di kanan, dan dua potongan konteks terpisah di tengah; tidak ada panah atau simbol penghubung.
+- Pseudo-handwriting tidak terbaca dan tetap placeholder. Tabel kanan bukan representasi tabel tiga kolom Panel 10.1.
+- Status 10.5: kandidat blocking layak untuk review kreator; belum thumbnail final.
+- Total eksperimen lokal: 17. Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
