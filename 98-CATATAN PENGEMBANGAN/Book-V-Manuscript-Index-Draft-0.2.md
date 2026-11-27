@@ -1140,3 +1140,10 @@ Kedua review tidak menyetujui thumbnail ilustratif atau ilustrasi final. Seluruh
 
 - [Scene 2 Page 3 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-02-Page-03-Illustrative-Thumbnail-Draft-0.1.md) — halaman uji untuk Panels 2.6–2.7.
 - File PNG tersedia secara lokal pada sesi kerja; belum menjadi binary repository asset. Thumbnail menunggu review kreator dan tidak mengunci desain karakter/lokasi.
+
+
+## Thumbnail ilustratif — Scene 3, Page 1
+
+- [Scene 3 Page 1 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-03-Page-01-Illustrative-Thumbnail-Draft-0.1.md) — thumbnail untuk Panels 3.1–3.2, eksterior dan interior Balai Catatan Perang.
+- PNG tersedia sebagai aset lokal sesi; file biner belum disimpan ke repository.
+- Status: menunggu review kreator; belum diterima. Semua detail visual tetap NON-CANON.
