@@ -1,20 +1,23 @@
 # Book V — Scene 17, Panel 17.2
-## Thumbnail / Manual Blocking Draft 0.1
+## Thumbnail / Manual Blocking Draft 0.1 — Alignment Revision
 
 **Status:** NON-CANON  
-**Jenis:** Bounded findings  
-**Fungsi:** Meneruskan beat Scene 17 tanpa menambah fakta di luar outline.
+**Jenis:** Manual blocking / storyboard alignment  
+**Fungsi:** Empat kategori hasil.
 
 ### Komposisi
-The working summary states that NVR AGAIN is linked to music heard during the Great War through the Prasasti comparison and historical sources. Origin of the music, cause of war, involved parties, and cloak mechanism remain UNKNOWN.
+Top-down report insert. Empat kategori dibedakan: informasi didukung beberapa sumber yang dapat diperiksa terpisah, kesaksian, interpretasi, dan UNKNOWN.
 
 ### Batas visual dan informasi
-Do not claim source independence beyond evidence. Do not add war chronology, parties, origin, or cloak mechanism.
+- Tidak menambah isi atau jumlah sumber.
+- Karakter tetap placeholder; tidak ada wajah, rambut, kostum, proporsi, atau aksesori final.
+- Dokumen yang tidak memiliki isi eksplisit dalam manuskrip tetap berupa placeholder tak terbaca.
+- Tidak menambahkan dialog, fakta sejarah, tanggal, lokasi, identitas, atau hubungan lore.
 
 ### Relasi kontinuitas
-The panel records the conclusions and uncertainties explicitly listed in Scene 17.
+Panel ini diselaraskan dengan Visual Storyboard Bab 4 Revision 0.1. Revisi mengganti fungsi blocking lama agar nomor panel mengikuti urutan storyboard terbaru.
 
 ### Status kanon
-Blocking, tata letak, dan detail visual merupakan bahan produksi NON-CANON. Panel ini tidak mengubah fakta CANON.
+Blocking dan tata letak adalah bahan produksi NON-CANON. Tidak ada perubahan pada manuskrip atau fakta CANON.
 
 **Dampak CANON: tidak ada.**
