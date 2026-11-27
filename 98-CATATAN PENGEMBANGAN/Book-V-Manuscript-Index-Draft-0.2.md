@@ -972,3 +972,12 @@
 - Nama NVR AGAIN hanya muncul pada salinan pembacaan Prasasti dan rumusan hasil akhir; sumber sejarah awal dan kesaksian tidak diberi nama tersebut.
 - Independensi sumber dan jalur pewarisan kesaksian tetap diperiksa; sumber yang belum teruji tidak dihitung sebagai konfirmasi terpisah.
 - Thumbnail panel-per-panel dan ilustrasi final Bab 2 belum dibuat. Seluruh materi visual tetap NON-CANON.
+
+
+## Produksi visual — Bab 3
+
+- [Book V Visual Storyboard — Bab 3: Resonansi Hitam](Book-V-Visual-Storyboard-Chapter-03-Draft-0.1.md) — storyboard teks Scenes 9–13, 26 panel, daftar aset dan risiko kontinuitas.
+- Pemeriksaan jubah dimulai sebagai pertanyaan terpisah dari NVR AGAIN; tidak ada hubungan sebab-akibat yang ditambahkan.
+- Efek jubah dibatasi pada pertahanan luar biasa serta regenerasi HP/MP berkelanjutan; mekanisme dan cakupan Resonansi Hitam tetap UNKNOWN.
+- Hipotesis mekanisme pada Scene 13 tetap lisan, belum diverifikasi, dan tidak digunakan sebagai dasar kesimpulan.
+- Thumbnail panel-per-panel dan ilustrasi final Bab 3 belum dibuat. Seluruh materi visual tetap NON-CANON.
