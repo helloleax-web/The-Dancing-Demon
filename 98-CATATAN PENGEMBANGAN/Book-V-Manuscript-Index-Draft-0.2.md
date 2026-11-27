@@ -810,3 +810,158 @@
 - Adds no definition, causal link, chronology, location, parties, quotation, or connection to NVR AGAIN.
 - Manual study image was created in the work session and is not stored as a binary asset in the repository.
 - All materials remain NON-CANON; CANON impact: none.
+
+
+### Scene 12 — Panel 12.1 thumbnail
+
+- [Book V Scene 12, Panel 12.1 — Thumbnail Draft 0.1](Book-V-Scene-12-Panel-12-1-Thumbnail-Draft-0.1.md) — manual two-record comparison blocking study.
+- Two records emphasize defense and regeneration separately; no source-specific wording, identity, date, or technical detail is invented.
+- Manual study image is included in the local Scene 12–22 blocking bundle, not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
+
+### Scene 12 — Panel 12.2 thumbnail
+
+- [Book V Scene 12, Panel 12.2 — Thumbnail Draft 0.1](Book-V-Scene-12-Panel-12-2-Thumbnail-Draft-0.1.md) — manual comparison boundary blocking study.
+- Records that differing emphasis does not prove the cloaks were different; no separate cloak, user, maker, or event is inferred.
+- Manual study image is included in the local Scene 12–22 blocking bundle, not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
+
+### Scene 13 — Panel 13.1 thumbnail
+
+- [Book V Scene 13, Panel 13.1 — Thumbnail Draft 0.1](Book-V-Scene-13-Panel-13-1-Thumbnail-Draft-0.1.md) — manual proposed theory blocking study.
+- Another researcher presents a generic theory; its technical content remains unspecified and unreadable.
+- Manual study image is included in the local Scene 12–22 blocking bundle, not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
+
+### Scene 13 — Panel 13.2 thumbnail
+
+- [Book V Scene 13, Panel 13.2 — Thumbnail Draft 0.1](Book-V-Scene-13-Panel-13-2-Thumbnail-Draft-0.1.md) — manual theory not verified blocking study.
+- Seraphine separates the theory from factual records because evidence is insufficient to test it; the theory is neither confirmed nor disproved.
+- Manual study image is included in the local Scene 12–22 blocking bundle, not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
+
+### Scene 14 — Panel 14.1 thumbnail
+
+- [Book V Scene 14, Panel 14.1 — Thumbnail Draft 0.1](Book-V-Scene-14-Panel-14-1-Thumbnail-Draft-0.1.md) — manual condensed chronology offered blocking study.
+- A publisher or collector presents a concise chronology assembled from multiple sources; no identity or source details are invented.
+- Manual study image is included in the local Scene 12–22 blocking bundle, not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
+
+### Scene 14 — Panel 14.2 thumbnail
+
+- [Book V Scene 14, Panel 14.2 — Thumbnail Draft 0.1](Book-V-Scene-14-Panel-14-2-Thumbnail-Draft-0.1.md) — manual differences flattened blocking study.
+- The simplified chronology visually removes distinctions in dates and certainty; no exact chronology or motive is added.
+- Manual study image is included in the local Scene 12–22 blocking bundle, not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
+
+### Scene 15 — Panel 15.1 thumbnail
+
+- [Book V Scene 15, Panel 15.1 — Thumbnail Draft 0.1](Book-V-Scene-15-Panel-15-1-Thumbnail-Draft-0.1.md) — manual context check blocking study.
+- Ilyra compares an excerpt used in the condensed chronology with its original source; no quotation is fabricated.
+- Manual study image is included in the local Scene 12–22 blocking bundle, not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
+
+### Scene 15 — Panel 15.2 thumbnail
+
+- [Book V Scene 15, Panel 15.2 — Thumbnail Draft 0.1](Book-V-Scene-15-Panel-15-2-Thumbnail-Draft-0.1.md) — manual correction sheet blocking study.
+- Seraphine separates the inaccurate portion from what remains unknown; no replacement definitive chronology is created.
+- Manual study image is included in the local Scene 12–22 blocking bundle, not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
+
+### Scene 16 — Panel 16.1 thumbnail
+
+- [Book V Scene 16, Panel 16.1 — Thumbnail Draft 0.1](Book-V-Scene-16-Panel-16-1-Thumbnail-Draft-0.1.md) — manual oral testimony discussion blocking study.
+- Sava and Neral discuss documenting oral testimony without dismissing written records or inventing testimony.
+- Manual study image is included in the local Scene 12–22 blocking bundle, not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
+
+### Scene 16 — Panel 16.2 thumbnail
+
+- [Book V Scene 16, Panel 16.2 — Thumbnail Draft 0.1](Book-V-Scene-16-Panel-16-2-Thumbnail-Draft-0.1.md) — manual recording categories blocking study.
+- A working sheet separates oral testimony and written documents and records provenance fields without assigning a default truth hierarchy.
+- Manual study image is included in the local Scene 12–22 blocking bundle, not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
+
+### Scene 17 — Panel 17.1 thumbnail
+
+- [Book V Scene 17, Panel 17.1 — Thumbnail Draft 0.1](Book-V-Scene-17-Panel-17-1-Thumbnail-Draft-0.1.md) — manual evidence table blocking study.
+- The group arranges supported-by-multiple-sources, single testimony, interpretation, and UNKNOWN as distinct categories.
+- Manual study image is included in the local Scene 12–22 blocking bundle, not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
+
+### Scene 17 — Panel 17.2 thumbnail
+
+- [Book V Scene 17, Panel 17.2 — Thumbnail Draft 0.1](Book-V-Scene-17-Panel-17-2-Thumbnail-Draft-0.1.md) — manual bounded findings blocking study.
+- The summary links NVR AGAIN to music heard during the Great War while origin, cause, parties, and cloak mechanism remain UNKNOWN.
+- Manual study image is included in the local Scene 12–22 blocking bundle, not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
+
+### Scene 18 — Panel 18.1 thumbnail
+
+- [Book V Scene 18, Panel 18.1 — Thumbnail Draft 0.1](Book-V-Scene-18-Panel-18-1-Thumbnail-Draft-0.1.md) — manual report rejected blocking study.
+- The publisher declines a report that does not provide one final version; the exchange remains restrained.
+- Manual study image is included in the local Scene 12–22 blocking bundle, not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
+
+### Scene 18 — Panel 18.2 thumbnail
+
+- [Book V Scene 18, Panel 18.2 — Thumbnail Draft 0.1](Book-V-Scene-18-Panel-18-2-Thumbnail-Draft-0.1.md) — manual research route chosen blocking study.
+- Kael proposes a research publication route; Seraphine agrees without simplifying the evidence.
+- Manual study image is included in the local Scene 12–22 blocking bundle, not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
+
+### Scene 19 — Panel 19.1 thumbnail
+
+- [Book V Scene 19, Panel 19.1 — Thumbnail Draft 0.1](Book-V-Scene-19-Panel-19-1-Thumbnail-Draft-0.1.md) — manual report assembled for release blocking study.
+- The group prepares a traceable reconstruction with sources, disagreements, and confidence levels.
+- Manual study image is included in the local Scene 12–22 blocking bundle, not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
+
+### Scene 19 — Panel 19.2 thumbnail
+
+- [Book V Scene 19, Panel 19.2 — Thumbnail Draft 0.1](Book-V-Scene-19-Panel-19-2-Thumbnail-Draft-0.1.md) — manual minimum supported statements blocking study.
+- The report preserves the minimum facts about LEAX, NVR AGAIN, the cloaks, and Resonansi Hitam without adding cause or mechanism.
+- Manual study image is included in the local Scene 12–22 blocking bundle, not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
+
+### Scene 20 — Panel 20.1 thumbnail
+
+- [Book V Scene 20, Panel 20.1 — Thumbnail Draft 0.1](Book-V-Scene-20-Panel-20-1-Thumbnail-Draft-0.1.md) — manual different responses blocking study.
+- Readers and researchers review the report with varied reactions; no identities or affiliations are invented.
+- Manual study image is included in the local Scene 12–22 blocking bundle, not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
+
+### Scene 20 — Panel 20.2 thumbnail
+
+- [Book V Scene 20, Panel 20.2 — Thumbnail Draft 0.1](Book-V-Scene-20-Panel-20-2-Thumbnail-Draft-0.1.md) — manual acceptance and further questions blocking study.
+- Two response positions remain distinct: acceptance of the NVR AGAIN/music reconstruction and requests for more evidence about origin and distribution.
+- Manual study image is included in the local Scene 12–22 blocking bundle, not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
+
+### Scene 21 — Panel 21.1 thumbnail
+
+- [Book V Scene 21, Panel 21.1 — Thumbnail Draft 0.1](Book-V-Scene-21-Panel-21-1-Thumbnail-Draft-0.1.md) — manual open questions revisited blocking study.
+- The group reviews the UNKNOWN register without adding new theories, dates, places, or causal links.
+- Manual study image is included in the local Scene 12–22 blocking bundle, not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
+
+### Scene 21 — Panel 21.2 thumbnail
+
+- [Book V Scene 21, Panel 21.2 — Thumbnail Draft 0.1](Book-V-Scene-21-Panel-21-2-Thumbnail-Draft-0.1.md) — manual leax minimum fact blocking study.
+- Records only that LEAX disappeared after the Great War; precise time, location, cause, circumstances, and fate remain UNKNOWN.
+- Manual study image is included in the local Scene 12–22 blocking bundle, not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
+
+### Scene 22 — Panel 22.1 thumbnail
+
+- [Book V Scene 22, Panel 22.1 — Thumbnail Draft 0.1](Book-V-Scene-22-Panel-22-1-Thumbnail-Draft-0.1.md) — manual leaving orlenn blocking study.
+- The group departs Orlenn with a checkable report; no new route, destination, or travel incident is added.
+- Manual study image is included in the local Scene 12–22 blocking bundle, not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
+
+### Scene 22 — Panel 22.2 thumbnail
+
+- [Book V Scene 22, Panel 22.2 — Thumbnail Draft 0.1](Book-V-Scene-22-Panel-22-2-Thumbnail-Draft-0.1.md) — manual general lead toward book vi blocking study.
+- A report about an unspecified unusual phenomenon serves only as a general lead; it is not verified or explained.
+- Manual study image is included in the local Scene 12–22 blocking bundle, not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
