@@ -18,23 +18,25 @@
 
 ### Panel 10.1 — Top-down table
 
-**Fokus visual:** Tavian membuka tabel kerja dan meletakkan beberapa catatan terpisah. Dua kategori kerja terlihat sebagai struktur kolom, bukan klaim tentang sumber tertentu.
+**Fokus visual:** Tavian membuka tabel kerja dengan tiga kolom: istilah asli, terjemahan kerja, dan konteks kalimat. Beberapa catatan diletakkan terpisah sebagai bahan perbandingan. Dua efek CANON yang sudah disebut pada Scene 9 bukan pengganti struktur tiga kolom.
 
 **Blocking:**
 - Kamera top-down, seluruh fokus pada meja.
-- Satu tabel terbuka di tengah; beberapa catatan diletakkan terpisah dengan jarak jelas.
-- Dua kelompok istilah boleh ditandai secara netral sebagai kategori kerja, tetapi jangan beri label tambahan selain kategori yang sudah ada dalam brief.
+- Satu tabel terbuka di tengah dengan tiga kolom struktural: istilah asli, terjemahan kerja, dan konteks kalimat.
+- Beberapa catatan diletakkan terpisah dengan jarak jelas; jangan petakan efek tertentu ke sumber tertentu.
+- Isi tulisan tetap placeholder tak terbaca; jangan membuat istilah atau kutipan baru.
 - Tangan Tavian sedang mengatur catatan; wajah tidak perlu menjadi fokus.
 
 **Jangan tampilkan:** kutipan, tanggal, lokasi, angka, nama sumber, durasi, tingkatan, atau gambar jubah.
 
 ### Panel 10.2 — Two-document comparison
 
-**Fokus visual:** Seraphine memeriksa istilah pada dua kelompok catatan yang tetap terpisah.
+**Fokus visual:** Tavian menunjukkan pilihan istilah; Seraphine memeriksa setiap baris; Ilyra memeriksa kalimat lengkap dan konteksnya. Dua kelompok catatan tetap terpisah.
 
 **Blocking:**
 - Dua lembar atau dua kelompok catatan berdampingan, tidak disatukan.
-- Seraphine membandingkan baris/istilah dengan gestur menunjuk atau menelusuri teks.
+- Tavian menunjukkan pilihan kata pada tabel; Seraphine menelusuri baris; Ilyra membaca kalimat lengkap.
+- Gestur harus menunjukkan proses pemeriksaan berurutan, bukan kesimpulan final.
 - Tidak ada tanda centang, silang, panah penyatuan, atau label kesimpulan yang menyiratkan kesepadanan final.
 - Teks berupa placeholder tak terbaca.
 
@@ -129,3 +131,13 @@ Dua percobaan generasi halaman gabungan untuk Page 1 ditolak karena fungsi panel
 **Acceptance gate**
 - Jika kamera tidak benar-benar top-down, jika kedua area dokumen tersambung/tergabung, atau jika muncul simbol/teks/karakter yang tidak didukung, output langsung ditolak.
 - Staging ini tidak mengunci desain final meja, properti, palet, atau rendering.
+
+
+## Source alignment correction — 2026-11-28
+
+Manuskrip utama **Book V Manuscript Chapter 03 Revision Draft 0.4** mengatur isi adegan dan mengungguli ringkasan visual yang lebih singkat. Karena itu:
+
+- Panel 10.1 wajib memakai tiga kolom tabel: istilah asli, terjemahan kerja, dan konteks kalimat. Dua efek CANON (pertahanan luar biasa serta regenerasi HP/MP berkelanjutan) adalah konteks temuan Scene 9, bukan kolom pengganti.
+- Panel 10.2 memperlihatkan Tavian menunjukkan pilihan istilah, Seraphine memeriksa setiap baris, dan Ilyra memeriksa kalimat lengkap. Blocking boleh mengatur ketiganya dalam satu komposisi tanpa mengubah urutan/fungsi kerja.
+- Penilaian review sebelumnya yang menyebut dua poin ini sebagai konflik sumber dinyatakan superseded dan dikoreksi.
+- Semua tulisan yang tidak disediakan manuskrip tetap placeholder tak terbaca. Tidak ada detail CANON baru.
