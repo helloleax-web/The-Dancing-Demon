@@ -625,3 +625,15 @@ Rincian: [Illustrative Thumbnail Asset Log — Draft 0.1](Book-V-Illustrative-Th
 - Binary PNG repository: 0. Thumbnail diterima: 0. Ilustrasi final: 0.
 
 **Dampak CANON: tidak ada.**
+
+
+## Pembaruan produksi visual — Scene 10 Panel 10.4 — 2026-11-28
+
+- Panel 10.4: satu eksperimen panel tunggal lokal tersedia; medium two-shot Kael dan Ilyra dengan tabel kerja dan bagian kosong sebagai konteks. Status **Thumbnail ilustratif — menunggu review kreator**.
+- Percobaan pertama dengan dua frame bertumpuk ditolak; tidak dihitung sebagai aset.
+- Panel 10.1–10.4 masing-masing memiliki satu eksperimen lokal; semuanya belum diterima dan belum menjadi binary repository assets.
+- Panel 10.5 belum memiliki eksperimen visual valid.
+- Total eksperimen panel/halaman lokal: enam eksperimen halaman Scene 7–9 ditambah empat eksperimen panel Scene 10.1–10.4 = sepuluh. Ini bukan sepuluh halaman selesai.
+- Binary PNG repository: 0. Thumbnail diterima: 0. Ilustrasi final: 0.
+
+**Dampak CANON: tidak ada.**
