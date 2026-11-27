@@ -9,8 +9,8 @@
 
 - Total scene: **22**.
 - Total panel pada storyboard teks: **128**.
-- Panel dengan referensi blocking/layout awal yang sudah tercatat: **82**.
-- Panel yang belum memiliki blocking awal tercatat: **46**.
+- Panel dengan referensi blocking/layout awal yang sudah tercatat: **97**.
+- Panel yang belum memiliki blocking awal tercatat: **31**.
 - Thumbnail ilustratif yang diterima: **0**.
 - Ilustrasi final: **0**.
 
@@ -28,11 +28,11 @@
 | 6 | Kesaksian dari Wilayah Berbeda | 7 | 7 | 0 | Blocking awal 6.1–6.7 terdokumentasi; menunggu review dan sinkronisasi. |
 | 7 | Nama dari Batu | 6 | 6 | 0 | Blocking awal 7.1–7.6 terdokumentasi; menunggu review dan sinkronisasi. |
 | 8 | Nama Tidak Menjelaskan Asal | 6 | 6 | 0 | Blocking awal 8.1–8.6 terdokumentasi; menunggu review dan sinkronisasi. |
-| 9 | Catatan Jubah | 6 | 2 | 4 | Panel 9.1–9.2 memiliki blocking awal; 9.3–9.6 belum dibuat. |
-| 10 | Efek yang Tidak Biasa | 5 | 3 | 2 | Panel 10.1–10.3 memiliki blocking awal; 10.4–10.5 belum dibuat. |
-| 11 | Nama Resonansi Hitam | 4 | 2 | 2 | Panel 11.1–11.2 memiliki blocking awal; 11.3–11.4 belum dibuat. |
-| 12 | Sumber yang Bertentangan | 5 | 2 | 3 | Panel 12.1–12.2 memiliki blocking awal; 12.3–12.5 belum dibuat. |
-| 13 | Tidak Ada Mekanisme | 6 | 2 | 4 | Panel 13.1–13.2 memiliki blocking awal; 13.3–13.6 belum dibuat. |
+| 9 | Catatan Jubah | 6 | 6 | 0 | Blocking awal 9.1–9.6 terdokumentasi; menunggu review dan sinkronisasi. |
+| 10 | Efek yang Tidak Biasa | 5 | 5 | 0 | Blocking awal 10.1–10.5 terdokumentasi; menunggu review dan sinkronisasi. |
+| 11 | Nama Resonansi Hitam | 4 | 4 | 0 | Blocking awal 11.1–11.4 terdokumentasi; menunggu review dan sinkronisasi. |
+| 12 | Sumber yang Bertentangan | 5 | 5 | 0 | Blocking awal 12.1–12.5 terdokumentasi; menunggu review dan sinkronisasi. |
+| 13 | Tidak Ada Mekanisme | 6 | 6 | 0 | Blocking awal 13.1–13.6 terdokumentasi; menunggu review dan sinkronisasi. |
 | 14 | Versi yang Dijual | 6 | 2 | 4 | Panel 14.1–14.2 memiliki blocking awal; 14.3–14.6 belum dibuat. |
 | 15 | Koreksi Sumber | 5 | 2 | 3 | Panel 15.1–15.2 memiliki blocking awal; 15.3–15.5 belum dibuat. |
 | 16 | Kesaksian Bukan Dokumen | 5 | 2 | 3 | Panel 16.1–16.2 memiliki blocking awal; 16.3–16.5 belum dibuat. |
@@ -49,10 +49,10 @@
 |---|---|---:|---:|---|
 | Bab 1 — Arsip yang Tidak Sepakat | 1–4 | 27 | 27 | Layout manual dan audit tersedia; thumbnail ilustratif belum diterima. |
 | Bab 2 — Musik Tanpa Nama | 5–8 | 26 | 26 | Blocking awal seluruh panel terdokumentasi; menunggu review. |
-| Bab 3 — Resonansi Hitam | 9–13 | 26 | 11 | Studi awal parsial; perlu dilengkapi dan diselaraskan dengan storyboard terbaru. |
+| Bab 3 — Resonansi Hitam | 9–13 | 26 | 26 | Blocking awal seluruh panel terdokumentasi; menunggu review. |
 | Bab 4 — Sejarah yang Diperebutkan | 14–18 | 27 | 10 | Studi awal parsial; perlu dilengkapi dan diselaraskan dengan storyboard terbaru. |
 | Bab 5 — Perang yang Tertinggal | 19–22 | 22 | 8 | Studi awal parsial; perlu dilengkapi dan diselaraskan dengan storyboard terbaru. |
-| **Total** | **1–22** | **128** | **82** | **Belum ada thumbnail ilustratif atau ilustrasi final yang diterima.** |
+| **Total** | **1–22** | **128** | **97** | **Belum ada thumbnail ilustratif atau ilustrasi final yang diterima.** |
 
 ## 4. Status kerja yang digunakan
 
@@ -102,3 +102,19 @@ Jumlah tambahan: 13 panel. Bab 2 kini memiliki referensi blocking awal untuk sel
 Paket visual lokal: `LEAX_BookV_Chapter02_MissingBlocking_Panels.zip` dan contact sheet `LEAX_BookV_Chapter02_MissingBlocking_ContactSheet.png`.
 
 **Status:** blocking awal Bab 2 lengkap secara cakupan; review penerimaan belum dilakukan. NON-CANON.
+
+
+## 8. Pembaruan blocking Bab 3 — 2026-11-28
+
+Panel yang sebelumnya belum memiliki blocking awal kini dibuat dan didokumentasikan:
+- Scene 9: Panels 9.3–9.6.
+- Scene 10: Panels 10.4–10.5.
+- Scene 11: Panels 11.3–11.4.
+- Scene 12: Panels 12.3–12.5.
+- Scene 13: Panels 13.3–13.6.
+
+Jumlah tambahan: 15 panel. Bab 3 kini memiliki referensi blocking awal untuk seluruh 26 panel. Ini belum berarti panel diterima; semuanya tetap harus diperiksa terhadap storyboard dan Visual Continuity Audit.
+
+Paket visual lokal: `LEAX_BookV_Chapter03_MissingBlocking_Panels.zip` dan contact sheet `LEAX_BookV_Chapter03_MissingBlocking_ContactSheet.png`.
+
+**Status:** blocking awal Bab 3 lengkap secara cakupan; review penerimaan belum dilakukan. NON-CANON.
