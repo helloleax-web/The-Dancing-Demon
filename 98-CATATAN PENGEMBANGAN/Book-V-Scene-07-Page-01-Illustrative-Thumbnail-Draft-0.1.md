@@ -25,4 +25,4 @@ Close-up dua sumber yang tetap terpisah. Ilyra menunjuk istilah yang digunakan s
 Salinan pembacaan Prasasti, kutipan dokumen, ringkasan kesaksian, meja kerja.
 
 ### File visual
-PNG thumbnail merupakan aset lokal sesi dan belum menjadi binary repository asset.
+PNG thumbnail dibuat untuk Panels 7.1–7.2 sebagai aset lokal sesi: `LEAX_BookV_Scene07_Page01_IllustrativeThumbnail_Draft01.png` (1122 × 1402 px). File biner belum masuk repository; dokumen ini hanya mencatat cakupan dan batas produksinya.
