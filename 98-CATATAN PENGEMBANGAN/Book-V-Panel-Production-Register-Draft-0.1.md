@@ -11,7 +11,7 @@
 - Total panel pada storyboard teks: **128**.
 - Panel dengan referensi blocking/layout awal yang sudah tercatat: **128**.
 - Panel yang belum memiliki blocking awal tercatat: **0**.
-- Catatan/brief halaman thumbnail terdokumentasi untuk Scene 5–7; aset PNG halaman untuk pembaruan Scene 7 belum dibuat atau di-commit dalam sesi ini.
+- Catatan/brief halaman thumbnail terdokumentasi untuk seluruh Scene 5–8; aset PNG halaman untuk pembaruan Scene 7–8 belum dibuat atau di-commit dalam sesi ini.
 - Thumbnail ilustratif Scene 1 yang tercatat pada riwayat lama tetap menunggu review kreator.
 - Ilustrasi final: **0**.
 
@@ -283,3 +283,15 @@ Paket visual lokal: `LEAX_BookV_Chapter05_MissingBlocking_Panels.zip` dan contac
 - Nama NVR AGAIN tidak boleh muncul pada sumber sejarah awal atau ringkasan kesaksian; tidak ada asal, pencipta, penyebar, tujuan, atau mekanisme yang ditambahkan.
 
 **Status:** brief tiga halaman Scene 7 terdokumentasi; thumbnail PNG belum dibuat; belum ada penerimaan kreator. NON-CANON.
+
+
+## 25. Brief halaman thumbnail — Scene 8 — 2026-11-28
+
+- [Scene 8 Page 1 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-08-Page-01-Illustrative-Thumbnail-Draft-0.1.md) mencakup Panels 8.1–8.2: pencarian katalog dan pemeriksaan salinan pembacaan Prasasti.
+- [Scene 8 Page 2 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-08-Page-02-Illustrative-Thumbnail-Draft-0.1.md) mencakup Panels 8.3–8.4: pemisahan hubungan yang direkonstruksi dari asal-usul yang belum diketahui.
+- [Scene 8 Page 3 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-08-Page-03-Illustrative-Thumbnail-Draft-0.1.md) mencakup Panels 8.5–8.6: koreksi tingkat kepastian dan penyimpanan hasil.
+- Ketiga dokumen merupakan brief/catatan produksi NON-CANON, bukan bukti bahwa PNG ilustratif telah dibuat atau diterima.
+- Aset PNG Scene 8 belum dibuat dan belum di-commit sebagai binary repository asset.
+- Kesimpulan tetap dibatasi pada hubungan nama NVR AGAIN dengan musik Great War; pencipta, pemberi nama, pengguna pertama, dan mekanisme tidak ditetapkan.
+
+**Status:** brief tiga halaman Scene 8 terdokumentasi; thumbnail PNG belum dibuat; belum ada penerimaan kreator. NON-CANON.
