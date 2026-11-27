@@ -45,7 +45,18 @@
 - [Chapter 4 Blocking Review — Draft 0.1](Book-V-Chapter-04-Blocking-Review-Draft-0.1.md) — review dan alignment 27 panel Bab 4.
 - [Chapter 5 Blocking Review — Draft 0.1](Book-V-Chapter-05-Blocking-Review-Draft-0.1.md) — review dan alignment 22 panel Bab 5.
 - [Blocking Acceptance Report — Draft 0.1](Book-V-Blocking-Acceptance-Report-Draft-0.1.md) — penerimaan blocking kasar 128/128 panel.
-- [Scene 1 Page 1 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-01-Page-01-Illustrative-Thumbnail-Draft-0.1.md) — thumbnail uji Panels 1.1–1.3.
+- [Scene 1 Page 1 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-01-Page-01-Illustrative-Thumbnail-Draft-0.1.md) — Panels 1.1–1.3; departure and map insert.
+- [Scene 1 Page 2 — Illustrative Thumbnail Draft 0.2](Book-V-Scene-01-Page-02-Illustrative-Thumbnail-Draft-0.1.md) — Panels 1.4–1.5; corrected six-figure placeholder composition.
+- [Scene 2 Page 1 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-02-Page-01-Illustrative-Thumbnail-Draft-0.1.md) — Panels 2.1–2.3; road, crowd, and route blocking.
+- [Scene 2 Page 2 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-02-Page-02-Illustrative-Thumbnail-Draft-0.1.md) — Panels 2.4–2.5; rest stop and Orlenn approach.
+- [Scene 2 Page 3 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-02-Page-03-Illustrative-Thumbnail-Draft-0.1.md) — Panels 2.6–2.7; lodging and map folder.
+- [Scene 3 Page 1 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-03-Page-01-Illustrative-Thumbnail-Draft-0.1.md) — Panels 3.1–3.2; exterior and access hierarchy.
+- [Scene 3 Page 2 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-03-Page-02-Illustrative-Thumbnail-Draft-0.1.md) — Panels 3.3–3.4; access request and Neral introduction.
+- [Scene 3 Page 3 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-03-Page-03-Illustrative-Thumbnail-Draft-0.1.md) — Panels 3.5–3.6; privacy and catalogue access.
+- [Scene 3 Page 4 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-03-Page-04-Illustrative-Thumbnail-Draft-0.1.md) — Panels 3.7–3.8; reading room and work table.
+- [Scene 4 Page 1 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-04-Page-01-Illustrative-Thumbnail-Draft-0.1.md) — Panels 4.1–4.2; differing date systems.
+- [Scene 4 Page 2 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-04-Page-02-Illustrative-Thumbnail-Draft-0.1.md) — Panels 4.3–4.5; date categories and chronology table.
+- [Scene 4 Page 3 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-04-Page-03-Illustrative-Thumbnail-Draft-0.1.md) — Panels 4.6–4.7; minimum LEAX entry and separation from chronology.
 - [Scene 5 Page 1 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-05-Page-01-Illustrative-Thumbnail-Draft-0.1.md) — Panels 5.1–5.3.
 - [Scene 5 Page 2 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-05-Page-02-Illustrative-Thumbnail-Draft-0.1.md) — Panels 5.4–5.5.
 - [Scene 5 Page 3 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-05-Page-03-Illustrative-Thumbnail-Draft-0.1.md) — Panels 5.6–5.7.
@@ -105,12 +116,13 @@
 - Desain final karakter/lokasi, palet, rendering, rasio halaman, tipografi, ukuran output, dan format publikasi belum dikunci.
 - Audit kontinuitas visual lintas lima bab selesai pada tingkat dokumen. Register menunjukkan 128 panel memiliki blocking awal dan seluruhnya telah lolos review blocking komposisi kasar setelah 28 koreksi alignment.
 - Brief halaman thumbnail Scene 5–8 masing-masing mencakup seluruh panel scene dalam tiga halaman per scene. Semua masih draft NON-CANON dan menunggu review.
-- Dokumen thumbnail adalah catatan produksi; PNG halaman belum di-commit sebagai binary repository asset.
+- Repository memiliki 59 dokumen halaman thumbnail untuk seluruh 22 scene. Dokumen tersebut adalah brief/catatan produksi, bukan bukti bahwa seluruh PNG sudah dibuat atau diterima.
+- PNG halaman belum tersimpan sebagai binary repository assets. Satu ilustrasi uji Scene 7 Page 1 dibuat di sesi ini, tetapi belum masuk repository.
 - Tidak ada aset visual yang mengesahkan detail NON-CANON menjadi CANON.
 
 ## Tahap produksi berikutnya
 
-1. Seluruh 22 scene kini memiliki brief halaman thumbnail; tahap berikutnya adalah membuat aset PNG berdasarkan brief dan blocking yang sudah diperiksa.
+1. Seluruh 22 scene kini memiliki dokumen halaman thumbnail; tahap berikutnya adalah menghasilkan aset PNG halaman secara berurutan dan memasukkannya ke repository.
 2. Sinkronkan status produksi per halaman ketika PNG dibuat, direview, dan diterima.
 3. Audit ulang batas kontinuitas dan privasi sebelum ilustrasi final.
 4. Desain final karakter/lokasi, format, dan tipografi tetap menunggu keputusan terpisah.
