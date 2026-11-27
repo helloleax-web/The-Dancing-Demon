@@ -467,3 +467,12 @@
 - Only NVR AGAIN is legible on the documents. No extra actions, dialogue, character design, or location design are established.
 - Manual study image was created in the work session and is not stored as a binary asset in the repository.
 - All materials remain NON-CANON; CANON impact: none.
+
+
+### Scene 2 — Panel 2.5 thumbnail
+
+- [Book V Scene 2, Panel 2.5 — Thumbnail Draft 0.1](Book-V-Scene-02-Panel-2-5-Thumbnail-Draft-0.1.md) — manual wide-establishing composition study as Orlenn begins to appear late in the day.
+- The composition uses denser generic building masses, a more orderly road, and plain unmarked road markers.
+- No iconic skyline, landmark, architectural style, signage, or city geography is established. All location details remain NON-CANON.
+- Manual study image was created in the work session and is not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
