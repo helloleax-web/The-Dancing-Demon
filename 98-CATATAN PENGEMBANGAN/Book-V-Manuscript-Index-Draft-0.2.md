@@ -557,3 +557,12 @@
 - Background figures remain generic. No additional identities, institutional functions, rules, signage, or activities are established.
 - Manual study image was created in the work session and is not stored as a binary asset in the repository.
 - All materials remain NON-CANON; CANON impact: none.
+
+
+### Scene 3 — Panel 3.8 thumbnail
+
+- [Book V Scene 3, Panel 3.8 — Thumbnail Draft 0.1](Book-V-Scene-03-Panel-3-8-Thumbnail-Draft-0.1.md) — manual medium / top-down table composition study.
+- Tavian selects the table near the window and arranges working papers with clear space between each document.
+- The table near the window is retained as the spatial continuity anchor for Scene 4. Paper contents and all final room/prop/character designs remain unspecified.
+- Manual study image was created in the work session and is not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
