@@ -767,3 +767,12 @@
 - No ally identities, counts, dates, locations, acquisition details, cloak mechanics, or link to NVR AGAIN or an interpreted scope for Resonansi Hitam are introduced.
 - Manual study image was created in the work session and is not stored as a binary asset in the repository.
 - All materials remain NON-CANON; CANON impact: none.
+
+
+### Scene 10 — Panel 10.1 thumbnail
+
+- [Book V Scene 10, Panel 10.1 — Thumbnail Draft 0.1](Book-V-Scene-10-Panel-10-1-Thumbnail-Draft-0.1.md) — manual top-down comparison blocking study.
+- Begins Tavian's comparison of several records about black mana cloak effects, keeping defense and regeneration as separate comparison categories.
+- Does not assign specific effects to individual records or invent quotations, source identities, dates, locations, counts, numerical values, or mechanisms.
+- Manual study image was created in the work session and is not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
