@@ -503,3 +503,12 @@
 - No palace/fortress/temple styling, architectural identity, landmark, emblem, wider geography, or final environment design is established.
 - Manual study image was created in the work session and is not stored as a binary asset in the repository.
 - All materials remain NON-CANON; CANON impact: none.
+
+
+### Scene 3 — Panel 3.2 thumbnail
+
+- [Book V Scene 3, Panel 3.2 — Thumbnail Draft 0.1](Book-V-Scene-03-Panel-3-2-Thumbnail-Draft-0.1.md) — manual wide-interior blocking study.
+- The reception desk separates visitors from storage; open shelves hold general copies; a separate door is guarded by a staff member.
+- Spatial depth communicates public versus restricted access. No additional rules, institutional functions, emblems, labels, or final environment/staff designs are established.
+- Manual study image was created in the work session and is not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
