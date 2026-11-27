@@ -49,7 +49,7 @@
 |---|---|---:|---:|---|
 | Bab 1 — Arsip yang Tidak Sepakat | 1–4 | 27 | 27 | Layout manual dan audit tersedia; thumbnail ilustratif belum diterima. |
 | Bab 2 — Musik Tanpa Nama | 5–8 | 26 | 13 | Studi awal parsial; perlu dilengkapi dan diselaraskan dengan storyboard terbaru. |
-| Bab 3 — Resonansi Hitam | 9–13 | 26 | 9 | Studi awal parsial; perlu dilengkapi dan diselaraskan dengan storyboard terbaru. |
+| Bab 3 — Resonansi Hitam | 9–13 | 26 | 11 | Studi awal parsial; perlu dilengkapi dan diselaraskan dengan storyboard terbaru. |
 | Bab 4 — Sejarah yang Diperebutkan | 14–18 | 27 | 10 | Studi awal parsial; perlu dilengkapi dan diselaraskan dengan storyboard terbaru. |
 | Bab 5 — Perang yang Tertinggal | 19–22 | 22 | 8 | Studi awal parsial; perlu dilengkapi dan diselaraskan dengan storyboard terbaru. |
 | **Total** | **1–22** | **128** | **69** | **Belum ada thumbnail ilustratif atau ilustrasi final yang diterima.** |
