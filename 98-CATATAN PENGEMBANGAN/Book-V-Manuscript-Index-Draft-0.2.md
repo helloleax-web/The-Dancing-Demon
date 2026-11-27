@@ -641,3 +641,12 @@
 - No lyrics, notation, melody, instrument, sound source, location, author identity, date, or conclusion is invented.
 - Manual study image was created in the work session and is not stored as a binary asset in the repository.
 - All materials remain NON-CANON; CANON impact: none.
+
+
+### Scene 5 — Panel 5.2 thumbnail
+
+- [Book V Scene 5, Panel 5.2 — Thumbnail Draft 0.1](Book-V-Scene-05-Panel-5-2-Thumbnail-Draft-0.1.md) — manual over-shoulder / medium-close-up blocking study.
+- Ilyra notices the source's reference to music or sound during the Great War; the panel shows attention to the note, not a conclusion about its identity.
+- No NVR AGAIN label, lyrics, notation, melody, instrument, sound source, location, date, author identity, dialogue, or character design is invented.
+- Manual study image was created in the work session and is not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
