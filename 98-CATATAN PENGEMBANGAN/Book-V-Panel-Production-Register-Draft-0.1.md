@@ -693,3 +693,13 @@ Berdasarkan contact sheet yang diperiksa ulang:
 - Satu output tambahan awal tidak dipilih sebagai kandidat utama.
 - Status panel 10.2: kandidat revisi untuk review kreator; belum diterima.
 - Total eksperimen lokal menjadi 13: enam eksperimen halaman Scene 7–9 dan tujuh eksperimen panel Scene 10. Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
+
+
+
+## Pembaruan Panel 10.3 — 2026-11-28
+
+- Dua eksperimen medium group dibuat; keduanya menampilkan tiga figur dalam percakapan dengan dokumen sebagai konteks.
+- Kedua output ditahan sebagai studi komposisi NON-CANON karena desain karakter/lokasi generatif terlalu spesifik dan identitas peran belum dapat dipastikan.
+- Eksperimen A lebih berguna untuk blocking kasar; jangan gunakan detail wajah, rambut, kostum, atau ruang sebagai acuan final.
+- Status 10.3: eksperimen komposisi tersedia; belum thumbnail final; revisi netral masih diperlukan.
+- Total eksperimen lokal: 15. Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
