@@ -1008,3 +1008,16 @@
 - [Book V Panel Production Register — Draft 0.1](Book-V-Panel-Production-Register-Draft-0.1.md) — register 128 panel, status blocking awal, dan tahapan produksi.
 - Blocking awal terdahulu untuk sebagian panel Scenes 5–22 harus disinkronkan dengan storyboard bab terbaru; tidak otomatis diterima.
 - Seluruh materi visual tetap NON-CANON.
+
+
+## Blocking awal Bab 2 — Scenes 5–8
+
+Panel 5.5–5.7, 6.4–6.7, 7.4–7.6, dan 8.4–8.6 kini memiliki dokumen blocking awal. Seluruh 26 panel Bab 2 telah memiliki referensi blocking, tetapi belum seluruhnya direview atau diterima.
+
+Dokumen baru:
+- [Panel 5.5](Book-V-Scene-05-Panel-5-5-Thumbnail-Draft-0.1.md), [5.6](Book-V-Scene-05-Panel-5-6-Thumbnail-Draft-0.1.md), [5.7](Book-V-Scene-05-Panel-5-7-Thumbnail-Draft-0.1.md)
+- [Panel 6.4](Book-V-Scene-06-Panel-6-4-Thumbnail-Draft-0.1.md), [6.5](Book-V-Scene-06-Panel-6-5-Thumbnail-Draft-0.1.md), [6.6](Book-V-Scene-06-Panel-6-6-Thumbnail-Draft-0.1.md), [6.7](Book-V-Scene-06-Panel-6-7-Thumbnail-Draft-0.1.md)
+- [Panel 7.4](Book-V-Scene-07-Panel-7-4-Thumbnail-Draft-0.1.md), [7.5](Book-V-Scene-07-Panel-7-5-Thumbnail-Draft-0.1.md), [7.6](Book-V-Scene-07-Panel-7-6-Thumbnail-Draft-0.1.md)
+- [Panel 8.4](Book-V-Scene-08-Panel-8-4-Thumbnail-Draft-0.1.md), [8.5](Book-V-Scene-08-Panel-8-5-Thumbnail-Draft-0.1.md), [8.6](Book-V-Scene-08-Panel-8-6-Thumbnail-Draft-0.1.md)
+
+Seluruh blocking tetap NON-CANON; manuskrip dan CANON tidak berubah.
