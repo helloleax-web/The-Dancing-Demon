@@ -671,3 +671,15 @@ Manuskrip Chapter 3 Revision Draft 0.4 diperiksa langsung. Kesimpulan review ter
 - 10.2: aksi Tavian (menunjukkan pilihan istilah), Seraphine (memeriksa baris), dan Ilyra (memeriksa kalimat lengkap) saling melengkapi. Tidak ada konflik karakter.
 - Status penerimaan lima eksperimen tidak berubah: belum ada thumbnail Scene 10 yang diterima.
 - Laporan review telah diperbarui. Tidak ada perubahan CANON.
+
+
+
+## Koreksi status visual Scene 10 — 2026-11-28
+
+Berdasarkan contact sheet yang diperiksa ulang:
+- 10.1: struktur tiga kolom terlihat; dapat dipertahankan sebagai dasar, belum final.
+- 10.2: hanya dokumen dan satu tangan; revisi untuk memperlihatkan rangkaian pemeriksaan sesuai manuskrip.
+- 10.3: output berlabel 10.5 dan berformat dua panel bertumpuk; ditolak sebagai 10.3. Belum ada eksperimen 10.3 yang valid.
+- 10.4: two-shot dengan tabel sesuai secara kasar; tahan sebagai draft, belum final.
+- 10.5: flat lay dokumen belum memperlihatkan pemindahan kutipan asli ke lampiran; revisi.
+- Tidak ada thumbnail final yang diterima. Jumlah eksperimen lokal tetap 11; binary PNG repository 0.
