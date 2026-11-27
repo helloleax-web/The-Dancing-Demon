@@ -61,12 +61,14 @@
 - [Scene 9 Page 1 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-09-Page-01-Illustrative-Thumbnail-Draft-0.1.md) — Panels 9.1–9.2.
 - [Scene 9 Page 2 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-09-Page-02-Illustrative-Thumbnail-Draft-0.1.md) — Panels 9.3–9.4.
 - [Scene 9 Page 3 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-09-Page-03-Illustrative-Thumbnail-Draft-0.1.md) — Panels 9.5–9.6.
+- [Scene 10 Page 1 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-10-Page-01-Illustrative-Thumbnail-Draft-0.1.md) — Panels 10.1–10.3.
+- [Scene 10 Page 2 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-10-Page-02-Illustrative-Thumbnail-Draft-0.1.md) — Panels 10.4–10.5.
 
 ### Status produksi per 2026-11-28
 
 - Bab 1: storyboard teks dan 27 panel blocking/layout manual tersedia; audit blocking dan kontinuitas telah dibuat.
 - Bab 2: storyboard teks 26 panel selesai; brief halaman thumbnail terdokumentasi untuk seluruh Scene 5–8 (masing-masing tiga halaman); PNG ilustratif dan ilustrasi final belum dibuat dalam rangkaian commit ini.
-- Bab 3: storyboard teks 26 panel selesai; brief halaman thumbnail Scene 9 terdokumentasi; hipotesis mekanisme dan cakupan Resonansi Hitam tetap tidak dipastikan.
+- Bab 3: storyboard teks 26 panel selesai; brief halaman thumbnail Scene 9–10 terdokumentasi; hipotesis mekanisme dan cakupan Resonansi Hitam tetap tidak dipastikan.
 - Bab 4: storyboard teks 27 panel selesai; perlindungan pemberi kesaksian dan pemisahan arsip lengkap/ringkasan publik dijaga.
 - Bab 5: storyboard teks 22 panel selesai; laporan fenomena penutup tetap belum diverifikasi.
 - Bab 3–5: panel thumbnail/blocking awal telah dicatat untuk Scenes 9–22; storyboard visual bab lengkap dan audit blocking terpadu belum dibuat.
@@ -78,8 +80,8 @@
 
 ## Tahap produksi berikutnya
 
-1. Lanjutkan brief halaman thumbnail Chapter 3 dari Scene 10 dengan mengikuti storyboard dan blocking yang telah diperiksa.
-2. Sinkronkan Panel Production Register dengan cakupan brief halaman Scene 5–9.
+1. Lanjutkan brief halaman thumbnail Chapter 3 dari Scene 11 dengan mengikuti storyboard dan blocking yang telah diperiksa.
+2. Sinkronkan Panel Production Register dengan cakupan brief halaman Scene 5–10.
 3. Buat dan review aset PNG halaman setelah arah visual, format, dan kebutuhan aset disiapkan.
 4. Desain final karakter/lokasi, format, dan tipografi tetap menunggu keputusan terpisah.
 
