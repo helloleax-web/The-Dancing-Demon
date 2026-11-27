@@ -802,3 +802,11 @@
 - No definition, causal link, chronology, location, parties, quotation, or connection to NVR AGAIN is invented.
 - Manual study image was created in the work session and is not stored as a binary asset in the repository.
 - All materials remain NON-CANON; CANON impact: none.
+
+### Scene 11 — Panel 11.2 thumbnail
+
+- [Book V Scene 11, Panel 11.2 — Thumbnail Draft 0.1](Book-V-Scene-11-Panel-11-2-Thumbnail-Draft-0.1.md) — manual research-note insert recording Resonansi Hitam as a historical name while leaving its scope UNKNOWN.
+- Keeps the three possible references named by the outline — the cloak, its effects, or a wider chain of events — explicitly unresolved; none is selected or ranked.
+- Adds no definition, causal link, chronology, location, parties, quotation, or connection to NVR AGAIN.
+- Manual study image was created in the work session and is not stored as a binary asset in the repository.
+- All materials remain NON-CANON; CANON impact: none.
