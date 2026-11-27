@@ -283,3 +283,16 @@ Dua output PNG eksperimental untuk Page 1 (Panels 10.1–10.3) diperiksa dan dit
 - File biner belum di-commit ke repository. Status: **Thumbnail ilustratif — menunggu review kreator**, bukan diterima.
 
 **Status Scene 10:** Panel 10.1–10.5 masing-masing memiliki satu eksperimen panel tunggal lokal yang menunggu review; Page 1–2 belum memiliki PNG halaman lengkap. NON-CANON.
+
+
+## Review lima eksperimen Scene 10 — 2026-11-28
+
+- Review silang dilakukan terhadap storyboard Chapter 03, brief Page 01–02, Visual Continuity Audit, dan Visual Execution Sheet.
+- Panel 10.1: top-down dan tabel sesuai sebagian; struktur kolom belum dapat diverifikasi dan ada perbedaan deskripsi antara storyboard (istilah asli/terjemahan kerja/konteks kalimat) dan brief halaman (dua kategori efek). Revisi setelah diselaraskan.
+- Panel 10.2: dua kelompok dokumen terpisah, tetapi aksi karakter belum jelas; storyboard dan brief menekankan aksi/karakter yang berbeda. Revisi staging.
+- Panel 10.3: medium group tiga figur sesuai secara struktur; identitas Daren/Tavian/Seraphine tidak dapat dipastikan. Tahan sebagai eksperimen.
+- Panel 10.4: two-shot dan tabel kosong sesuai sebagian; desain karakter belum disahkan. Tahan sebagai eksperimen.
+- Panel 10.5: top-down dan dua area dokumen terpisah; aksi pemindahan kutipan asli ke lampiran belum terbaca spesifik. Revisi staging.
+- Kelima eksperimen tidak memperlihatkan jubah, pemakai, luka, perisai, aura, energi, regenerasi, atau diagram mekanisme. Tidak ada teks sumber baru yang terbaca.
+- Semua file tetap lokal, NON-CANON, belum diterima; binary PNG repository tetap 0.
+- Laporan: `Book-V-Scene-10-Thumbnail-Review-Draft-0.1.md`.
