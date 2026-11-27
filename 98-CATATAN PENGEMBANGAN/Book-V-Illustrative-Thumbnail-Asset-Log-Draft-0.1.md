@@ -389,3 +389,14 @@ Keduanya NON-CANON, bukan thumbnail diterima. Tidak ada visual jubah, pemakai, l
 - Wajah tidak memiliki detail identitas, tetapi pakaian, bentuk tubuh, rak buku, jendela, dan lampu merupakan detail generatif yang tidak ditetapkan; jangan gunakan sebagai desain final. Identitas/urutan peran figur belum dapat dipastikan.
 - Status: studi komposisi NON-CANON, kandidat evaluasi, belum thumbnail final.
 - Total eksperimen lokal menjadi 19 (6 eksperimen halaman Scene 7–9 + 13 eksperimen panel Scene 10). Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
+
+
+
+## Eksperimen revisi Panel 10.4 — 2026-11-28
+
+- Output lokal terbaru: `a_warm_sepia_toned_ink_manga_style_illustration_of.png` (1536 × 1024; eksperimen two-shot Panel 10.4).
+- Dua figur tanpa detail wajah berdiskusi di meja; figur kiri mengangkat tangan sambil memegang lembar, figur kanan memberi gestur penjelasan ke arah tabel kosong tiga kolom.
+- Tidak ada angka, meter, ikon HP/MP, bar, diagram, visual regenerasi, aura, energi, jubah, atau perisai.
+- Pakaian, bentuk tubuh, rak, jendela, dan lampu merupakan detail generatif NON-CANON. Identitas Kael/Ilyra belum dapat dipastikan. Tabel kosong bukan bukti bahwa batas tidak ada.
+- Status: studi komposisi / kandidat evaluasi, belum thumbnail final.
+- Total eksperimen lokal menjadi 20 (6 halaman Scene 7–9 + 14 panel Scene 10). Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
