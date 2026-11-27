@@ -1111,3 +1111,9 @@ Kedua review tidak menyetujui thumbnail ilustratif atau ilustrasi final. Seluruh
 
 - [Scene 1 Page 1 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-01-Page-01-Illustrative-Thumbnail-Draft-0.1.md) — halaman uji untuk Panels 1.1–1.3; Semi-Flat Editorial dan 4:5 masih konfigurasi sementara.
 - File PNG tersedia secara lokal pada sesi kerja; belum menjadi binary repository asset. Thumbnail menunggu review kreator dan tidak mengunci desain karakter/lokasi.
+
+
+## Thumbnail ilustratif — Scene 1 Page 2
+
+- [Scene 1 Page 2 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-01-Page-02-Illustrative-Thumbnail-Draft-0.1.md) — halaman uji untuk Panels 1.4–1.5; Semi-Flat Editorial dan 4:5 tetap konfigurasi sementara.
+- File PNG tersedia secara lokal pada sesi kerja; belum menjadi binary repository asset. Thumbnail menunggu review kreator dan tidak mengunci desain karakter/lokasi.
