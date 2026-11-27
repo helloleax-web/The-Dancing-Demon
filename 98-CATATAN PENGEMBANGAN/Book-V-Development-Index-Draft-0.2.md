@@ -258,3 +258,11 @@
 - Satu close-up baru memperlihatkan tiga aksi yang dibedakan melalui blocking: menunjuk istilah, menelusuri baris tabel, dan memeriksa kalimat lengkap pada dokumen sumber terpisah.
 - Struktur tabel tiga kolom terlihat; identitas visual karakter tidak dikunci. Kandidat blocking, belum thumbnail final.
 - Total eksperimen lokal: 18; thumbnail diterima: 0; ilustrasi final: 0; binary PNG repository: 0.
+
+
+
+### Eksperimen revisi Panel 10.3 — 2026-11-28
+
+- Satu medium group baru memperlihatkan tiga figur dalam percakapan di sekitar dokumen. Gestur tanya dan dua respons terbaca, tanpa visual jubah/efek/luka/perisai.
+- Detail pakaian dan latar generatif tetap NON-CANON; identitas serta urutan peran belum dapat dipastikan. Status kandidat komposisi, belum thumbnail final.
+- Total eksperimen lokal: 19; thumbnail diterima: 0; ilustrasi final: 0; binary PNG repository: 0.
