@@ -77,3 +77,11 @@
 - Total cakupan thumbnail ilustratif: 8/128 panel dalam 3 halaman; belum ada thumbnail yang diterima kreator. Angka ini menghitung panel yang sudah divisualisasikan, bukan panel final.
 - PNG ketiga halaman masih berupa aset lokal sesi; dokumentasi metadata tersimpan di repository, tetapi file biner belum di-commit.
 - Semi-Flat Editorial dan 4:5 tetap konfigurasi uji, bukan keputusan desain final. Seluruh materi tetap NON-CANON.
+
+
+## Pembaruan thumbnail ilustratif — Scene 2 Page 2 — 2026-11-28
+
+- Scene 2 Page 2: Panels 2.4–2.5 memiliki thumbnail draft.
+- Total cakupan thumbnail ilustratif: 10/128 panel dalam 4 halaman; belum ada thumbnail yang diterima kreator. Angka ini menghitung panel yang sudah divisualisasikan, bukan panel final.
+- PNG halaman ini masih berupa aset lokal sesi; dokumentasi metadata tersimpan di repository, tetapi file biner belum di-commit.
+- Semi-Flat Editorial dan 4:5 tetap konfigurasi uji, bukan keputusan desain final. Seluruh materi tetap NON-CANON.
