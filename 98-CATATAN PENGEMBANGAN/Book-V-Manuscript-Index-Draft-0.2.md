@@ -1168,3 +1168,10 @@ Kedua review tidak menyetujui thumbnail ilustratif atau ilustrasi final. Seluruh
 
 - [Scene 3 Page 4 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-03-Page-04-Illustrative-Thumbnail-Draft-0.1.md) — thumbnail Panels 3.7–3.8.
 - PNG tersedia sebagai aset lokal sesi; file biner belum disimpan ke repository. Menunggu review kreator; NON-CANON.
+
+
+## Thumbnail ilustratif — Scene 4, Page 1
+
+- [Scene 4 Page 1 — Illustrative Thumbnail Draft 0.1](Book-V-Scene-04-Page-01-Illustrative-Thumbnail-Draft-0.1.md) — thumbnail untuk Panels 4.1–4.2, membandingkan dua format penanggalan tanpa konversi.
+- PNG tersedia sebagai aset lokal sesi; file biner belum disimpan ke repository.
+- Status: menunggu review kreator; belum diterima. Seluruh detail visual tetap NON-CANON.
