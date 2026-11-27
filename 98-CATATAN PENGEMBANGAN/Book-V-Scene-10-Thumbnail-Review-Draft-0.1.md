@@ -293,3 +293,29 @@ Audit dilakukan dengan hierarki sumber: manuskrip Chapter 3 Revision Draft 0.4 �
 **Hitungan eksperimen lokal:** 6 eksperimen halaman Scene 7–9 + 14 eksperimen panel Scene 10 = 20. Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
 
 **Dampak CANON: tidak ada.**
+
+
+
+## Eksperimen revisi Panel 10.5 — flat lay dengan status terbaca — 2026-11-28
+
+**Output lokal:** `/mnt/data/a_detailed_overhead_flat_lay_illustration_on_a_woo.png` (1536 × 1024).
+
+| Kriteria | Hasil |
+|---|---|
+| Satu panel top-down | Terpenuhi; kamera overhead, tanpa karakter/tangan |
+| Kutipan asli/lampiran terpisah | Terbaca sebagai tumpukan lembar berlapis di kiri |
+| Terjemahan kerja terpisah | Terbaca sebagai lembar grid tersendiri di kanan |
+| Dua bagian konteks tidak lengkap | Dua potongan kertas tetap terpisah di area tengah |
+| Penanda literal | Frasa “belum dapat dibandingkan” tampil dua kali, masing-masing dekat satu potongan |
+| Tidak ada simbol penghubung | Terpenuhi; tidak ada panah, garis, checklist, atau ikon |
+| Tidak ada kesimpulan hubungan | Terpenuhi; komposisi tidak menyatakan sama/berbeda/cocok/bertentangan |
+| Teks lain | Pseudo-handwriting; bukan isi sumber |
+| Tidak ada visual jubah/efek | Terpenuhi |
+
+**Catatan layout:** lembar kanan memakai grid dua kolom, sehingga belum boleh dianggap sebagai pengganti tabel tiga kolom yang diperkenalkan Panel 10.1. Ia hanya merepresentasikan area kerja terjemahan yang terpisah. Gambar menunjukkan hasil akhir pengarsipan, bukan urutan kronologis tangan memindahkan dokumen.
+
+**Keputusan:** kandidat blocking flat-lay paling sesuai sejauh ini untuk Panel 10.5; belum thumbnail final dan perlu evaluasi kreator. NON-CANON. Tidak ada binary di-commit.
+
+**Hitungan eksperimen lokal:** 6 eksperimen halaman Scene 7–9 + 15 eksperimen panel Scene 10 = 21. Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
+
+**Dampak CANON: tidak ada.**
