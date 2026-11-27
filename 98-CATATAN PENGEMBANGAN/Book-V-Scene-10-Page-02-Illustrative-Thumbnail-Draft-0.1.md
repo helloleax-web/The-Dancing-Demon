@@ -11,9 +11,9 @@ Kael bertanya apakah regenerasi berkelanjutan berarti tidak memiliki batas pengg
 **Batas:** Jangan menetapkan batas maupun ketiadaan batas. Jangan menambahkan angka, durasi, ukuran, atau simulasi efek.
 
 ### Panel 10.5 — Top-down closing insert
-Tavian memindahkan kutipan asli ke lampiran dan mempertahankan terjemahan kerja pada kolom terpisah. Dua bagian yang konteks halamannya tidak lengkap diberi tanda belum dapat dibandingkan. Hasilnya adalah tabel yang lebih jujur, bukan penjelasan cara kerja jubah.
+Tampilkan hasil akhir pekerjaan Tavian dalam satu panel top-down: kutipan asli telah dipindahkan ke lembar/lampiran tersendiri; terjemahan kerja tetap berada pada lembar atau kolom terpisah. Dua bagian yang konteks halaman sumbernya tidak lengkap diberi penanda status persis **“belum dapat dibandingkan”**. Penanda hanya menjelaskan keterbatasan konteks, bukan menyatakan kedua bagian sama, berbeda, cocok, atau bertentangan.
 
-**Batas:** Jangan membuat istilah sumber atau terjemahan teknis baru. Jangan menyatukan kutipan yang konteksnya belum lengkap.
+**Batas:** Jangan membuat istilah sumber atau terjemahan teknis baru. Jangan menyatukan kutipan yang konteksnya belum lengkap. Jangan menambahkan panah, tanda centang/silang, atau simbol hubungan. Jika tulisan lain muncul, gunakan placeholder tak terbaca; hanya frasa status yang disebut di atas boleh terbaca.
 
 ### Catatan kontinuitas
 - Istilah asli, terjemahan kerja, dan konteks kalimat tetap dipisahkan.
