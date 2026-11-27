@@ -40,7 +40,7 @@
 - [Global Production Design Specification — Draft 0.1](Book-V-Global-Production-Design-Specification-Draft-0.1.md) — pedoman produksi lintas lima bab, semua keputusan final tetap terbuka.
 - [Illustrative Thumbnail Asset Log — Draft 0.1](Book-V-Illustrative-Thumbnail-Asset-Log-Draft-0.1.md) — pencatatan PNG eksperimen, status review, dan percobaan visual yang ditolak.
 - [Visual Continuity Audit — Draft 0.1](Book-V-Visual-Continuity-Audit-Draft-0.1.md) — audit lintas 22 scene / 128 panel.
-- [Panel Production Register — Draft 0.1](Book-V-Panel-Production-Register-Draft-0.1.md) — register status 128 panel; pembaruan thumbnail Scene 5–6 perlu disinkronkan.
+- [Panel Production Register — Draft 0.1](Book-V-Panel-Production-Register-Draft-0.1.md) — register status 128 panel; status eksperimen thumbnail lokal Scene 7 dan Scene 8 dicatat terpisah, belum ada aset binary yang di-commit.
 - [Chapter 2 Blocking Review — Draft 0.1](Book-V-Chapter-02-Blocking-Review-Draft-0.1.md) — review dan alignment 26 panel Bab 2.
 - [Chapter 3 Blocking Review — Draft 0.1](Book-V-Chapter-03-Blocking-Review-Draft-0.1.md) — review dan alignment 26 panel Bab 3.
 - [Chapter 4 Blocking Review — Draft 0.1](Book-V-Chapter-04-Blocking-Review-Draft-0.1.md) — review dan alignment 27 panel Bab 4.
