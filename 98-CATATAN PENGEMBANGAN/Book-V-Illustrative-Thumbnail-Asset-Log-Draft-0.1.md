@@ -17,7 +17,7 @@
 |---|---|---|---|
 | Page 1 | 7.1–7.2 | PNG eksperimen dibuat; menunggu review | `LEAX_BookV_Scene07_Page01_IllustrativeThumbnail_Draft01.png`; 1122 × 1402 px; NVR AGAIN hanya pada salinan pembacaan Prasasti. |
 | Page 2 | 7.3–7.4 | PNG eksperimen dibuat; menunggu review | `LEAX_BookV_Scene07_Page02_IllustrativeThumbnail_Draft01.png`; 1122 × 1402 px; memvisualkan pemisahan sumber belum teruji dan tabel perbandingan kategori. |
-| Page 3 | 7.5–7.6 | Belum ada PNG yang layak | Dua percobaan generasi menyimpang dari brief dengan menambah simbol, reruntuhan, atau narasi visual yang tidak didukung. Keduanya ditolak dan tidak boleh dipakai. |
+| Page 3 | 7.5–7.6 | Belum ada PNG yang layak | Tiga percobaan generasi menyimpang dari brief: menambah simbol/reruntuhan/narasi yang tidak didukung atau mengulang komposisi halaman lain. Semuanya ditolak dan tidak boleh dipakai. |
 
 ## Catatan pemeriksaan Page 2
 
@@ -41,3 +41,10 @@
 4. Jangan menyatakan halaman diterima sebelum review.
 
 **Dampak CANON: tidak ada.**
+
+
+## Pembaruan percobaan Page 3 — 2026-11-28
+
+Satu percobaan tambahan kembali mengabaikan cakupan brief dan mengulang materi panel/halaman lain (termasuk nomor panel yang salah). Percobaan tersebut ditolak. Jumlah percobaan Page 3 yang ditolak: tiga. Tidak ada yang boleh dipakai sebagai referensi visual atau dianggap CANON.
+
+Keputusan produksi: hentikan generasi Page 3 otomatis untuk sementara. Lanjutkan pekerjaan yang bisa diverifikasi dari dokumen, dan jangan menurunkan standar kesesuaian hanya demi menambah jumlah PNG.
