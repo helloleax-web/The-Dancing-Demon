@@ -266,3 +266,11 @@
 - Satu medium group baru memperlihatkan tiga figur dalam percakapan di sekitar dokumen. Gestur tanya dan dua respons terbaca, tanpa visual jubah/efek/luka/perisai.
 - Detail pakaian dan latar generatif tetap NON-CANON; identitas serta urutan peran belum dapat dipastikan. Status kandidat komposisi, belum thumbnail final.
 - Total eksperimen lokal: 19; thumbnail diterima: 0; ilustrasi final: 0; binary PNG repository: 0.
+
+
+
+### Eksperimen revisi Panel 10.4 — 2026-11-28
+
+- Satu two-shot netral memperlihatkan dua figur berdiskusi dan tabel kosong tiga kolom sebagai konteks. Tidak ada visual regenerasi atau simbol kemampuan.
+- Identitas karakter dan detail ruang belum disahkan; output hanya studi komposisi NON-CANON. Tabel kosong bukan bukti bahwa batas tidak ada.
+- Total eksperimen lokal: 20; thumbnail diterima: 0; ilustrasi final: 0; binary PNG repository: 0.
