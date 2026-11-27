@@ -158,3 +158,14 @@ Satu output yang muncul setelah persiapan Scene 10 ternyata masih menggambarkan 
 - File biner belum masuk repository; belum diterima kreator.
 
 **Status Scene 9:** ketiga halaman memiliki PNG eksperimen lokal; seluruhnya NON-CANON dan menunggu review. Page 3 tetap perlu diperiksa terhadap storyboard dan Visual Continuity Audit.
+
+
+## Scene 10 — percobaan salah target — 2026-11-28
+
+Output yang dihasilkan setelah brief Scene 10 Page 1 dibuka ternyata masih mengulang komposisi Scene 9 (panel bernomor 9.5–9.6 dan perbandingan dokumen arsip). Output ditolak dan tidak dihitung sebagai aset Scene 10.
+
+- Tidak ada nama file aset yang ditetapkan.
+- Tidak boleh digunakan sebagai referensi atau CANON.
+- Scene 10 Page 1 dan Page 2 tetap belum memiliki PNG valid.
+
+**Keputusan:** jangan memindahkan gambar Scene 9 ke Scene 10 hanya untuk menambah jumlah aset.
