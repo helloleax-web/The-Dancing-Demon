@@ -93,3 +93,26 @@ Pemeriksaan ulang terhadap contact sheet lima eksperimen memperbaiki beberapa pe
 - Jumlah eksperimen lokal tetap 11; binary PNG repository 0; thumbnail diterima 0; ilustrasi final 0.
 
 **Dampak CANON: tidak ada.**
+
+
+
+## Review eksperimen baru Panel 10.2 — 2026-11-28
+
+Dua output tambahan dibuat setelah blocking diselaraskan dengan Visual Storyboard Chapter 03. Output pertama ditahan sebagai percobaan kasar; output kedua menjadi kandidat revisi yang lebih sesuai.
+
+**Output kedua:** `/mnt/data/wide_close_up_cinematic_illustration_style_scene.png` (1536 × 1024).
+
+| Kriteria | Hasil pemeriksaan |
+|---|---|
+| Close-up text comparison | Sesuai secara umum: fokus pada meja, tabel, dan dokumen; tidak ada wajah |
+| Tiga fungsi kerja | Terbaca secara gestur: satu tangan menunjuk istilah, satu menelusuri tabel dengan pena, satu memeriksa dokumen di sisi lain |
+| Tabel tiga kolom | Terlihat secara struktur; tulisan berupa pseudo-handwriting tak terbaca, bukan kutipan yang dapat dipakai |
+| Pemisahan dokumen | Dokumen berada pada bidang terpisah; tidak ada panah atau simbol yang menyatakan hubungan sumber |
+| Batas CANON | Tidak ada jubah, pemakai, efek, mekanisme, NVR AGAIN, atau istilah Resonansi Hitam |
+| Desain karakter | Tidak ditetapkan; hanya tangan dan sebagian lengan terlihat |
+
+**Keputusan:** kandidat revisi Panel 10.2 — dapat dipakai untuk evaluasi blocking lanjutan, belum diterima sebagai thumbnail final. Kekurangan: pembagian tangan ke Tavian/Seraphine/Ilyra belum dapat dipastikan secara visual, dan pseudo-handwriting harus tetap dianggap tekstur placeholder, bukan teks sumber. Gambar tidak dikomit sebagai binary repository asset.
+
+**Hitungan eksperimen:** 6 eksperimen halaman Scene 7–9 + 7 eksperimen panel Scene 10 = 13 eksperimen lokal. Panel 10.2 kini memiliki dua eksperimen tambahan pada tahap ini: satu percobaan kasar dan satu kandidat revisi. Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
+
+**Dampak CANON: tidak ada.**
