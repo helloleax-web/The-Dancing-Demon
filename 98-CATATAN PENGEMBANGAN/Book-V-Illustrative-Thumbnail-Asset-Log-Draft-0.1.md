@@ -425,3 +425,14 @@ Keduanya NON-CANON, bukan thumbnail diterima. Tidak ada visual jubah, pemakai, l
 Semua file visual adalah eksperimen NON-CANON. Tidak ada binary PNG di repository, tidak ada thumbnail diterima, dan tidak ada ilustrasi final.
 
 Total eksperimen lokal tercatat: 22 (6 halaman Scene 7–9 + 16 panel Scene 10). File 10.3 terdahulu tertimpa dan tidak lagi tersedia; output pengganti dihitung sebagai eksperimen baru.
+
+
+
+## Eksperimen pengganti Panel 10.5 — 2026-11-28
+
+- File lokal: `a_clean_detailed_top_down_flat_lay_illustration_o.png` (1536 × 1024).
+- Top-down 90 derajat; kiri tumpukan lampiran/kutipan asli; kanan satu lembar tunggal terjemahan kerja; tengah dua fragmen terpisah.
+- Masing-masing fragmen memiliki label literal “belum dapat dibandingkan”. Tidak ada panah, garis, checklist, nomor, ikon, atau simbol hubungan.
+- Tidak ada teks sumber/terjemahan rekaan; tulisan lain hanya garis placeholder tak terbaca. Tidak ada karakter atau visual efek.
+- Mengatasi kekurangan grid dua kolom pada eksperimen sebelumnya. Status: kandidat blocking lebih sesuai, belum thumbnail final. NON-CANON.
+- Total eksperimen lokal menjadi 23 (6 halaman Scene 7–9 + 17 panel Scene 10). Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
