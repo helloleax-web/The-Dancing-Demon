@@ -26,3 +26,9 @@ Kutipan asli, terjemahan kerja, lampiran, tabel istilah, alat tulis.
 
 ### File visual
 PNG thumbnail belum dibuat dan belum menjadi binary repository asset.
+
+
+
+### Alignment update Panel 10.5 — 2026-11-28
+
+Untuk thumbnail closing insert, representasikan terjemahan kerja sebagai satu lembar/area catatan tunggal yang terpisah dari tumpukan lampiran/kutipan asli. Jangan membuat grid dua kolom baru. Dua fragmen konteks tidak lengkap tetap terpisah dan masing-masing boleh diberi frasa literal “belum dapat dibandingkan”. Tabel tiga kolom istilah asli/terjemahan kerja/konteks kalimat tetap diperkenalkan pada Panel 10.1 dan tidak digantikan oleh layout flat-lay ini.
