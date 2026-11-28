@@ -81,3 +81,8 @@ Manuskrip utama Book V Chapter 3 Revision Draft 0.4 menjadi acuan isi adegan. Pa
 **Batas:** pembagian figur 10.3 ke Daren/Tavian/Seraphine masih merupakan pemetaan blocking, bukan identifikasi visual yang sah; semua figur, kostum, ruang, rak, properti, tekstur, dan palet sepia tetap NON-CANON. Rasio 2:3 bukan keputusan final; 4:5 juga masih provisional.
 
 **Keputusan:** kandidat layout/blocking Page 01 paling bersih sejauh ini, belum diterima sebagai thumbnail final. Dapat dipakai sebagai dasar review berikutnya setelah pembagian gestur 10.3 diverifikasi terhadap manuskrip. Binary PNG belum diunggah ke repository. Tidak ada perubahan CANON.
+
+
+## Audit blocking Panel 10.3 terhadap manuskrip — 2026-11-28
+
+Manuskrip Chapter 3 Revision Draft 0.4 pada bagian Scene 10 menetapkan urutan: Daren bertanya apakah pemakai masih bisa terluka; Tavian melihat catatan sumber dan menjawab bahwa dokumen tidak menjawab; Seraphine membatasi jawaban pada sumber yang sedang diperiksa. Gestur pada komposit iterasi 3 dapat dipetakan secara sementara sebagai Daren dengan gestur bertanya, Tavian merujuk dokumen/tabel, dan Seraphine memberi gestur pembatasan/klarifikasi. Dengan demikian, blocking adegan sesuai secara fungsi dan urutan; tidak perlu menambahkan dialog/callout ke gambar. Pemetaan ini tetap blocking, bukan pengesahan desain karakter. Komposit iterasi 3 tetap kandidat layout NON-CANON, belum thumbnail diterima.
