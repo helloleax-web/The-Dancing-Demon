@@ -96,3 +96,26 @@ Manuskrip Chapter 3 Revision Draft 0.4 pada bagian Scene 10 menetapkan urutan: D
 - Kedua komposit memakai eksperimen sepia dan suasana ruang arsip yang serupa. Kesamaan visual hanya kontinuitas eksperimen, bukan pengesahan lokasi, properti, palet, atau desain karakter.
 - Transisi ke Scene 11 hanya urutan dokumenter/tematik. Istilah Resonansi Hitam ditemukan pada dokumen/indeks lain; jangan membuat hubungan visual yang menyatakan istilah itu sebagai nama jubah, efek, atau mekanismenya.
 - Status Page 01: kandidat layout/blocking paling bersih, belum thumbnail diterima. Seluruh hasil tetap NON-CANON; rasio halaman belum dikunci.
+
+## Penerapan desain karakter CANON pada blocking — 2026-11-28
+
+Rujukan visual karakter yang telah disahkan pada Character Bible kini diterapkan hanya pada karakter yang sudah memiliki desain CANON. Ini tidak menerima komposit halaman sebagai thumbnail final dan tidak mengubah isi manuskrip.
+
+### Panel 10.1
+- Tavian: gunakan siluet tubuh ramping dan lincah, rambut pendek cokelat gelap praktis, tunik kerja berlapis, mantel perjalanan pendek, sabuk alat, sarung tangan lapangan, dan sepatu bot usang sesuai Character Bible.
+- Properti Tavian yang boleh muncul: buku catatan bersampul keras, alat ukur lipat, pensil, penanda survei, atau peta kerja. Untuk panel top-down, cukup tampilkan tangan/atribut kerja yang konsisten; wajah tidak wajib.
+- Jangan menambahkan senjata besar, zirah ksatria, atau ornamen bangsawan.
+
+### Panel 10.2
+- Tangan/atribut Tavian yang menunjuk pilihan istilah harus konsisten dengan perlengkapan kerja lapangannya.
+- Seraphine: gunakan mantel peneliti lapangan berkerah tinggi, lapisan dalam sederhana, lengan yang dapat digulung, dan sabuk dokumentasi kecil. Rambut sebahu biru-hitam atau cokelat sangat gelap dapat diikat; tidak perlu memaksakan detail wajah dalam close-up.
+- Properti Seraphine: folder dokumen, lembar klasifikasi, lampu portabel, alat pencatatan, atau wadah dokumentasi. Gesturnya menelusuri setiap baris.
+- Ilyra tetap UNKNOWN secara visual. Tampilkan hanya tangan/kehadiran netral yang membuka atau menahan dokumen sumber untuk memeriksa kalimat lengkap. Jangan menyalin pakaian, rambut, atau palet Seraphine kepadanya.
+
+### Panel 10.3
+- Tavian dan Seraphine mengikuti desain CANON di atas. Peran gestur tetap: Daren bertanya, Tavian merujuk dokumen, Seraphine membatasi jawaban pada sumber yang diperiksa.
+- Daren tetap UNKNOWN secara visual. Gunakan figur netral tanpa ciri definitif: jangan tetapkan rambut, wajah, pakaian khas, usia visual, aksesori, atau palet.
+- Jangan mengubah staging percakapan atau memberi Daren perlengkapan yang menyiratkan profesi/afiliasi baru.
+
+### Batas penerapan
+Desain karakter CANON tidak mengesahkan ruang arsip, meja, palet halaman, rendering, rasio, tipografi, atau desain karakter lain. Semua komposit tetap NON-CANON dan menunggu review kreator.
