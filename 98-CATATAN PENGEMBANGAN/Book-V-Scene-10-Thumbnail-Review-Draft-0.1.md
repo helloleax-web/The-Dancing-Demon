@@ -431,3 +431,22 @@ Audit mengacu langsung pada manuskrip Chapter 03 Revision Draft 0.4, storyboard 
 **Keputusan:** layout study Page 01 layak sebagai dasar komposisi vertikal tiga panel, bukan thumbnail final. Perlu koreksi subjudul, keputusan rasio, dan penegasan aksi 10.2/10.3. Seluruh desain figur, pakaian, ruangan, dan rendering tetap NON-CANON.
 
 **Hitungan eksperimen lokal:** 24 (6 eksperimen halaman Scene 7–9 + 18 eksperimen panel/halaman Scene 10). Thumbnail diterima: 0; ilustrasi final: 0; binary PNG repository: 0.
+
+
+## Review komposit Page 01 — iterasi 2 — 2026-11-28
+
+**Output:** `/mnt/data/a_detailed_comic_manga_style_monochrome_sepia_ink.png` (1101 × 1536).
+
+| Kriteria | Hasil |
+|---|---|
+| Tiga panel 10.1–10.3 tersusun vertikal | Terpenuhi; alur baca jelas |
+| Panel 10.1 tabel tiga kolom | Terpenuhi secara struktur; pseudo-handwriting hanya tekstur placeholder |
+| Panel 10.2 tiga fungsi pemeriksaan | Lebih terbaca: Tavian menunjuk istilah, Seraphine memeriksa baris, Ilyra membaca dokumen sumber |
+| Panel 10.3 percakapan Daren–Tavian–Seraphine | Tiga figur dan pembagian peran diberi callout, tetapi pertanyaan ditulis ulang menjadi “batas pertahanan”, bukan pertanyaan sumber tentang apakah pemakai masih bisa terluka |
+| Teks/penanda generatif tambahan | Ada callout deskriptif dan balon “?”/“…” yang tidak diperlukan |
+| Kontinuitas CANON | Tidak ada jubah, pemakai, luka, perisai, aura, energi, regenerasi, atau mekanisme yang digambar |
+| Detail visual final | Belum; pakaian, figur, ruang, properti, dan sepia seluruhnya NON-CANON |
+
+**Keputusan:** layout study yang lebih jelas, bukan thumbnail final. Panel 10.2 mengalami peningkatan keterbacaan aksi, tetapi callout Panel 10.3 menggeser rumusan pertanyaan manuskrip. Revisi berikutnya harus menghapus callout dan simbol balon generatif serta mempertahankan pertanyaan asli melalui blocking, tanpa menampilkan pemakai atau efek jubah. Rasio output sekitar 0.717:1 dan tidak mengunci rasio halaman.
+
+**Hitungan:** eksperimen lokal 25 (6 eksperimen halaman Scene 7–9 + 19 eksperimen panel/halaman Scene 10 yang tercatat); thumbnail diterima 0; ilustrasi final 0; binary PNG repository 0. Tidak ada perubahan CANON.
