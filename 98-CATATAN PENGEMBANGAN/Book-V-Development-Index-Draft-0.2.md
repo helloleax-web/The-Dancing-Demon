@@ -319,3 +319,10 @@
 - Tabel tiga kolom 10.1 terbaca. Aksi 10.2 dan peran spesifik tiga figur 10.3 masih perlu diperjelas.
 - Subjudul generatif tidak resmi harus dihapus/ganti. Rasio 2:3 berbeda dari rencana 4:5 yang belum dikunci.
 - Status: layout study NON-CANON, belum thumbnail final. Eksperimen lokal total 24; thumbnail diterima 0; ilustrasi final 0; binary PNG repository 0.
+
+
+### Eksperimen komposit Scene 10 Page 01 — iterasi 2 — 2026-11-28
+
+- Komposit lokal baru menyusun Panel 10.1–10.3 secara vertikal; alur baca dan pembagian aksi 10.2 lebih jelas.
+- Output belum thumbnail final: callout Panel 10.3 mengubah pertanyaan manuskrip menjadi “batas pertahanan”, dan simbol/callout generatif perlu dihapus. Detail visual tetap NON-CANON.
+- Total eksperimen lokal tercatat 25; thumbnail diterima 0; ilustrasi final 0; binary PNG repository 0. Tidak ada perubahan CANON.
