@@ -411,3 +411,23 @@ Audit mengacu langsung pada manuskrip Chapter 03 Revision Draft 0.4, storyboard 
 - Total eksperimen lokal tercatat 23; thumbnail diterima 0; ilustrasi final 0; binary PNG repository 0. Semua NON-CANON.
 
 **Dampak CANON: tidak ada.**
+
+
+## Review komposit layout Page 01 — 2026-11-28
+
+**Output lokal:** `/mnt/data/a_clean_comic_manga_storyboard_page_in_sepia_ink_s.png` (1024 × 1536).
+
+| Kriteria | Hasil |
+|---|---|
+| Urutan panel 10.1 → 10.2 → 10.3 | Terpenuhi; tiga panel tersusun vertikal |
+| Alur baca | Terbaca jelas dari atas ke bawah; border panel tegas |
+| 10.1 tabel tiga kolom | Struktur tampak; pseudo-handwriting bukan teks sumber |
+| 10.2 tiga aksi pemeriksaan | Ada beberapa gestur tangan/dokumen, tetapi pemetaan identitas dan pemeriksaan kalimat lengkap belum sepenuhnya terbaca |
+| 10.3 percakapan tiga figur | Tepat tiga figur; gestur tanya/respons terlihat, tetapi dialog dan peran spesifik belum dapat dipastikan |
+| Rasio halaman | Output 2:3 (1024 × 1536), sedangkan 4:5 masih rasio rencana; perlu keputusan sebelum final |
+| Heading/subjudul | Subjudul “Perbandingan Istilah dan Batas Pertahanan” adalah tambahan generatif yang tidak disahkan; hapus/ganti pada iterasi berikutnya |
+| Batas lore | Tidak ada jubah, pemakai, luka, perisai, aura, energi, regenerasi, atau mekanisme |
+
+**Keputusan:** layout study Page 01 layak sebagai dasar komposisi vertikal tiga panel, bukan thumbnail final. Perlu koreksi subjudul, keputusan rasio, dan penegasan aksi 10.2/10.3. Seluruh desain figur, pakaian, ruangan, dan rendering tetap NON-CANON.
+
+**Hitungan eksperimen lokal:** 24 (6 eksperimen halaman Scene 7–9 + 18 eksperimen panel/halaman Scene 10). Thumbnail diterima: 0; ilustrasi final: 0; binary PNG repository: 0.
