@@ -148,3 +148,14 @@ Tiga eksperimen lanjutan dibuat untuk memperbaiki blocking Panel 10.3. Hasil per
 
 **Keputusan:** seluruh tiga eksperimen ditolak sebagai kandidat thumbnail. Tidak ada yang dinaikkan menjadi aset, tidak ada perubahan CANON, dan tidak ada PNG binary yang diunggah. Blocking berikutnya harus lebih sederhana: Daren boleh hanya berupa tangan/gestur anonim di tepi frame; Tavian merujuk dokumen sumber tanpa diagram baru; Seraphine menunjukkan kehati-hatian metodologis melalui gestur kecil ke dokumen, bukan pose menghentikan percakapan.
 
+## Eksperimen Panel 10.3 — Daren hanya melalui gestur — 2026-11-28
+
+Dua eksperimen baru mencoba menampilkan Daren hanya melalui tangan/gestur anonim dari tepi frame. Keduanya berhasil menghindari wajah dan identitas visual Daren. Tavian dan Seraphine mengikuti siluet visual CANON secara umum.
+
+**Evaluasi dan batas:**
+- Eksperimen pertama masih menambahkan diagram lingkaran pada halaman sumber dan gestur Seraphine berupa telapak terangkat yang terbaca terlalu seperti menghentikan percakapan.
+- Eksperimen kedua mengurangi gestur Seraphine menjadi sikap mengamati dokumen, tetapi masih menampilkan tanda/diagram lingkaran pada lembar lain yang tidak ditetapkan oleh sumber. Tangan Daren juga masih memiliki manset/ujung lengan yang tidak perlu ditetapkan.
+- Tidak ada jubah, pemakai, luka, perisai, aura, energi, regenerasi, atau mekanisme yang digambar.
+
+**Keputusan:** kedua eksperimen belum diterima sebagai thumbnail. Eksperimen kedua lebih dekat dari sisi komposisi, tetapi dokumen harus menjadi lembar teks biasa tanpa diagram atau simbol tambahan, dan gestur Seraphine perlu lebih jelas menunjukkan pembatasan kesimpulan dengan merujuk dokumen sumber. Seluruh output tetap NON-CANON; PNG lokal, belum diunggah sebagai binary.
+
