@@ -1,7 +1,7 @@
 # Book I — Character Visual Design Brief — Draft 0.1
 
-**Status:** CATATAN PENGEMBANGAN / NON-CANON.  
-**Fungsi:** proposal desain visual untuk kebutuhan storyboard dan manga. Tidak mengubah fakta CANON karakter.
+**Status:** SUMBER DESAIN YANG TELAH DIADOPSI KE CANON.  
+**Fungsi:** catatan asal-usul desain visual Tavian Rell, Seraphine Veyra, dan Kael Veyron. Seluruh spesifikasi desain yang tercantum telah diadopsi ke `01-CANON/Character-Bible.md` pada 2026-11-28 berdasarkan persetujuan kreator. Character Bible menjadi rujukan otoritatif jika ada perbedaan.
 
 ## Arah visual umum
 
@@ -18,7 +18,7 @@
 - Protagonis dan asisten survei.
 - Mengikuti ekspedisi pemetaan jalur utara.
 
-### Proposal desain
+### Desain yang diadopsi ke CANON
 - **Siluet:** tubuh ramping dan tangkas, postur sedikit condong ke depan ketika mengamati sesuatu; bukan petarung berotot.
 - **Wajah:** fitur muda, ekspresi fokus; mudah terlihat sedang menghitung atau menimbang sesuatu.
 - **Rambut:** cokelat gelap, pendek dan praktis, sedikit jatuh ke dahi.
@@ -36,7 +36,7 @@
 - Menyimpan catatan dengan klasifikasi sementara pada penutup Buku I.
 
 ### Proposal desain
-- **Presentasi visual:** perempuan dewasa muda; keputusan ini adalah proposal draft karena jenis kelamin dan usia belum ditetapkan dalam CANON.
+- **Presentasi visual:** perempuan dewasa muda.
 - **Siluet:** tegak, rapi, gerak hemat; terlihat seperti orang yang terbiasa mengatur pekerjaan lapangan.
 - **Rambut:** hitam kebiruan atau cokelat sangat gelap, panjang sebahu dan sering diikat agar tidak mengganggu pemeriksaan.
 - **Pakaian:** mantel peneliti lapangan dengan kerah tinggi, lapisan dalam sederhana, lengan yang dapat digulung, sabuk kecil untuk alat dokumentasi.
@@ -53,7 +53,7 @@
 - Menyembunyikan peta kedua; menerima pesan dari kontak tak dikenal pada penutup Buku I.
 
 ### Proposal desain
-- **Presentasi visual:** laki-laki dewasa muda; keputusan ini adalah proposal draft karena usia dan jenis kelamin belum ditetapkan dalam CANON.
+- **Presentasi visual:** laki-laki dewasa muda.
 - **Siluet:** ramping, lebih santai dibanding Tavian dan Seraphine; gerak tubuh mudah berubah dan ekspresif.
 - **Rambut:** hitam kecokelatan, sedikit lebih panjang di bagian atas, ditata praktis tetapi tidak terlalu rapi.
 - **Pakaian:** mantel perjalanan fleksibel dengan beberapa kantong tersembunyi, syal atau kerah kain, pakaian yang lebih rapi daripada perlengkapan survei.
@@ -71,6 +71,9 @@
 5. Jangan menambahkan lambang organisasi sebelum status dan desain organisasinya ditetapkan.
 6. Jangan membuat desain visual yang menyiratkan hubungan karakter dengan LEAX, Great War, Prasasti, atau entitas kosmik.
 
-## Status
+## Status adopsi
 
-Semua rincian visual di atas adalah proposal kerja NON-CANON. Desain dapat disempurnakan setelah uji thumbnail dan tidak dianggap final hanya karena telah dipakai dalam storyboard.
+- Desain Tavian Rell, Seraphine Veyra, dan Kael Veyron pada dokumen ini telah disahkan sebagai CANON dan dipindahkan ke Character Bible.
+- Detail yang tertulis sebagai alternatif tetap merupakan rentang desain yang diizinkan (contoh: variasi warna rambut Seraphine), bukan keputusan satu warna tunggal.
+- Dokumen ini dipertahankan sebagai arsip sumber historis; jika ada perbedaan, Character Bible yang berlaku.
+- Desain Mira Solenne, Daren Holt, dan Ilyra Nym tidak tercakup dalam dokumen ini dan tetap UNKNOWN.
