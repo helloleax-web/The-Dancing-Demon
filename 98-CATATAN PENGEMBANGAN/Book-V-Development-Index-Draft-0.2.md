@@ -293,3 +293,12 @@
 - 10.4: kandidat komposisi two-shot; identitas karakter belum disahkan.
 - 10.5: revisi diperlukan karena grid dua kolom kanan belum tepat sebagai representasi terjemahan kerja terpisah.
 - Tidak ada panel diterima sebagai thumbnail final; Scene 10 belum siap dirakit. Total eksperimen lokal: 22; binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0. Tidak ada perubahan CANON.
+
+
+
+### Pembaruan Panel 10.5 — 2026-11-28
+
+- Eksperimen flat-lay baru memisahkan tumpukan lampiran/kutipan asli di kiri dan satu lembar terjemahan kerja di kanan. Dua fragmen konteks tetap terpisah di tengah dan masing-masing diberi label “belum dapat dibandingkan”.
+- Grid dua kolom eksperimen sebelumnya dihilangkan; tidak ada panah/simbol hubungan atau teks sumber rekaan. Kandidat blocking lebih sesuai, belum thumbnail final.
+- Scene 10 tetap belum siap dirakit: 10.1 dasar struktur; 10.2 dan 10.3 kandidat blocking kuat; 10.4 kandidat komposisi; 10.5 kandidat blocking lebih sesuai.
+- Total eksperimen lokal: 23; thumbnail diterima: 0; ilustrasi final: 0; binary PNG repository: 0.
