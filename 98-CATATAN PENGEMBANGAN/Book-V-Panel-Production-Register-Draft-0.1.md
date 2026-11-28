@@ -812,3 +812,13 @@ Scene 10 belum siap dirakit menjadi halaman final. Semua output NON-CANON. Total
 - Tabel tiga kolom 10.1/10.2 tidak boleh tertukar dengan satu lembar terjemahan kerja pada 10.5.
 - Page 01/02 belum boleh dirakit final sebelum blocking per panel disetujui kreator. Rasio 4:5 masih sementara.
 - Total eksperimen lokal: 23; thumbnail diterima: 0; ilustrasi final: 0; binary PNG repository: 0.
+
+
+## Eksperimen komposit Page 01 — 2026-11-28
+
+- Output lokal: `a_clean_comic_manga_storyboard_page_in_sepia_ink_s.png` (1024 × 1536; rasio 2:3).
+- Tiga panel vertikal dalam urutan 10.1 → 10.2 → 10.3; alur baca jelas dan border panel terpisah.
+- 10.1 mempertahankan tabel tiga kolom. 10.2 memiliki gestur tangan/dokumen tetapi pemetaan fungsi belum sepenuhnya jelas. 10.3 memiliki tiga figur, tetapi dialog/peran spesifik belum dapat dipastikan.
+- Subjudul generatif “Perbandingan Istilah dan Batas Pertahanan” belum disahkan; harus dihapus/ganti. Rasio 2:3 berbeda dari rencana 4:5 yang masih provisional.
+- Tidak ada visual jubah atau efek. Semua desain figur, pakaian, latar, dan rendering NON-CANON.
+- Status: layout study, belum thumbnail final. Total eksperimen lokal 24; thumbnail diterima 0; ilustrasi final 0; binary PNG repository 0.
