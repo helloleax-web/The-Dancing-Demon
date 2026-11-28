@@ -333,3 +333,11 @@
 - Komposit tiga panel vertikal baru menghapus callout dan simbol dialog generatif; tabel tiga kolom, tiga fungsi pemeriksaan, dan percakapan tiga figur terbaca lebih bersih.
 - Status: kandidat layout/blocking terbaik sejauh ini, belum thumbnail final. Pemetaan gestur dan seluruh desain visual tetap NON-CANON; rasio belum dikunci.
 - Total eksperimen lokal 26; thumbnail diterima 0; ilustrasi final 0; binary PNG repository 0. Tidak ada perubahan CANON.
+
+
+### Eksperimen komposit Scene 10 Page 02 — iterasi 1 — 2026-11-28
+
+- Page 02 memiliki komposit lokal dua panel: 10.4 two-shot Kael–Ilyra; 10.5 flat lay dengan lampiran/kutipan asli terpisah dari satu lembar terjemahan kerja.
+- Dua fragmen konteks 10.5 masing-masing diberi status literal “belum dapat dibandingkan”; tidak ada panah atau simbol hubungan. Kandidat sesuai struktur, belum thumbnail final.
+- Audit manuskrip Panel 10.3 mengonfirmasi blocking tanya–jawab–klarifikasi pada Page 01 iterasi 3 secara fungsi; identitas visual tetap belum disahkan.
+- Total eksperimen lokal 27; thumbnail diterima 0; ilustrasi final 0; binary PNG repository 0. Tidak ada perubahan CANON.
