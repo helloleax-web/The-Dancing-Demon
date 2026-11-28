@@ -354,3 +354,28 @@ Eksperimen 10.3 sebelumnya dan 10.4 menggunakan nama/path lokal yang sama; file 
 - Jumlah eksperimen lokal tercatat: 22 (6 eksperimen halaman Scene 7–9 + 16 eksperimen panel Scene 10). Satu file 10.3 terdahulu tertimpa dan tidak lagi tersedia; output pengganti tetap dihitung sebagai eksperimen baru. Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
 
 **Dampak CANON: tidak ada.**
+
+
+
+## Eksperimen pengganti Panel 10.5 — satu lembar terjemahan kerja — 2026-11-28
+
+**Output lokal:** `/mnt/data/a_clean_detailed_top_down_flat_lay_illustration_o.png` (1536 × 1024).
+
+| Kriteria | Hasil |
+|---|---|
+| Kamera top-down tegak lurus, satu panel | Terpenuhi |
+| Lampiran/kutipan asli terpisah | Tumpukan kertas berlapis di kiri |
+| Terjemahan kerja terpisah | Satu lembar tunggal di kanan; tidak memakai grid dua kolom |
+| Dua bagian konteks tidak lengkap | Dua fragmen kertas terpisah di tengah |
+| Status literal | Masing-masing fragmen memiliki label “belum dapat dibandingkan” |
+| Simbol hubungan | Tidak ada panah, garis, centang/silang, nomor, atau ikon |
+| Teks lain | Garis placeholder tak terbaca; tidak ada kutipan rekaan |
+| Karakter/efek | Tidak ada karakter, jubah, pemakai, luka, perisai, aura, energi, atau regenerasi |
+
+**Keputusan:** kandidat blocking 10.5 lebih sesuai daripada eksperimen sebelumnya karena satu lembar terjemahan kerja kini terpisah jelas dari tumpukan lampiran/kutipan asli. Dua fragmen tetap tidak disatukan dan masing-masing diberi status literal. Komposisi menunjukkan hasil akhir pengarsipan, bukan urutan kronologis pemindahan. Belum thumbnail final.
+
+**Final review Scene 10 — status setelah revisi 10.5:** 10.1 dasar struktur; 10.2 kandidat blocking kuat; 10.3 kandidat blocking kuat dengan output pengganti; 10.4 kandidat komposisi; 10.5 kandidat blocking lebih sesuai setelah perbaikan satu lembar. Kelima panel masih belum final dan halaman belum siap dirakit.
+
+**Hitungan eksperimen lokal:** 23 (6 eksperimen halaman Scene 7–9 + 17 eksperimen panel Scene 10). Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
+
+**Dampak CANON: tidak ada.**
