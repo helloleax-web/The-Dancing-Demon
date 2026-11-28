@@ -142,3 +142,9 @@ Desain karakter CANON tidak mengesahkan ruang arsip, meja, palet halaman, render
 
 **Keputusan:** kandidat blocking Panel 10.2 yang lebih kuat; belum thumbnail final dan belum diterima kreator. File PNG lokal; binary belum diunggah ke repository. Tidak ada perubahan CANON.
 
+## Eksperimen Panel 10.3 — blocking netral — 2026-11-28
+
+Tiga eksperimen lanjutan dibuat untuk memperbaiki blocking Panel 10.3. Hasil pertama menampilkan Daren dari belakang/samping, tetapi tetap memberinya kostum dan siluet definitif; Tavian juga diberi properti diagram yang tidak dibutuhkan, sedangkan gestur Seraphine tidak secara jelas membatasi kesimpulan. Hasil kedua dan ketiga kembali menambahkan gambar/diagram reruntuhan serta detail kostum Daren yang tidak didukung.
+
+**Keputusan:** seluruh tiga eksperimen ditolak sebagai kandidat thumbnail. Tidak ada yang dinaikkan menjadi aset, tidak ada perubahan CANON, dan tidak ada PNG binary yang diunggah. Blocking berikutnya harus lebih sederhana: Daren boleh hanya berupa tangan/gestur anonim di tepi frame; Tavian merujuk dokumen sumber tanpa diagram baru; Seraphine menunjukkan kehati-hatian metodologis melalui gestur kecil ke dokumen, bukan pose menghentikan percakapan.
+
