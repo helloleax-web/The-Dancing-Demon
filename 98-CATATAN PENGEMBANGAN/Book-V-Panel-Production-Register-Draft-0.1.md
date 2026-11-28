@@ -792,3 +792,13 @@ Berdasarkan contact sheet yang diperiksa ulang:
 | 10.5 | Revisi diperlukan | Sederhanakan grid kanan; pertahankan label “belum dapat dibandingkan”; belum final |
 
 Scene 10 belum siap dirakit menjadi halaman final. Semua output NON-CANON. Total eksperimen lokal: 22; thumbnail diterima: 0; ilustrasi final: 0; binary PNG repository: 0.
+
+
+
+## Pembaruan Panel 10.5 — satu lembar terjemahan — 2026-11-28
+
+- Eksperimen baru memakai top-down 90 derajat; tumpukan lampiran/kutipan asli di kiri, satu lembar terjemahan kerja di kanan, dua fragmen konteks terpisah di tengah.
+- Masing-masing fragmen memiliki label literal “belum dapat dibandingkan”; tidak ada simbol hubungan atau teks sumber rekaan.
+- Kekurangan grid dua kolom sebelumnya sudah diperbaiki. Status 10.5 naik menjadi kandidat blocking lebih sesuai, tetapi belum thumbnail final.
+- Status Scene 10: 10.1 dasar struktur; 10.2 kandidat blocking kuat; 10.3 kandidat blocking kuat; 10.4 kandidat komposisi; 10.5 kandidat blocking lebih sesuai. Belum ada thumbnail final dan halaman belum siap dirakit.
+- Total eksperimen lokal: 23; thumbnail diterima: 0; ilustrasi final: 0; binary PNG repository: 0.
