@@ -379,3 +379,35 @@ Eksperimen 10.3 sebelumnya dan 10.4 menggunakan nama/path lokal yang sama; file 
 **Hitungan eksperimen lokal:** 23 (6 eksperimen halaman Scene 7–9 + 17 eksperimen panel Scene 10). Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
 
 **Dampak CANON: tidak ada.**
+
+
+## Audit kontinuitas Page 01 → Page 02 → Scene 11 — 2026-11-28
+
+Audit mengacu langsung pada manuskrip Chapter 03 Revision Draft 0.4, storyboard Scene 10, kedua page briefs, dan execution sheet.
+
+### Urutan naratif dan visual
+1. **10.1:** Tavian membuka tabel tiga kolom (istilah asli, terjemahan kerja, konteks kalimat); dua dokumen tetap terpisah.
+2. **10.2:** pemeriksaan berlanjut pada pilihan istilah, pemeriksaan setiap baris oleh Seraphine, dan pembacaan kalimat lengkap oleh Ilyra.
+3. **10.3:** percakapan pertama: Daren bertanya apakah pemakai masih bisa terluka; Tavian menyatakan dokumen tidak menjawab; Seraphine membatasi jawaban pada sumber yang diperiksa.
+4. **10.4:** percakapan kedua yang berbeda: Kael bertanya apakah pemulihan HP/MP berkelanjutan berarti tanpa batas penggunaan; Ilyra menyatakan ketiadaan keterangan bukan bukti ketiadaan batas.
+5. **10.5:** hasil kerja pengarsipan: kutipan asli di lampiran, terjemahan kerja pada satu lembar/area terpisah, dan dua fragmen konteks yang masing-masing ditandai “belum dapat dibandingkan”.
+
+### Transisi halaman
+- Page 01 berakhir setelah pertanyaan Daren dan jawaban terbatas dari Tavian/Seraphine. Page 02 tidak boleh mengulang pertanyaan itu atau mengganti pembicaranya.
+- Page 02 membuka pertukaran baru Kael–Ilyra. Tabel/dokumen dapat menjadi properti kontinuitas, tetapi jangan menyiratkan sumber yang diperiksa sebelumnya menjawab pertanyaan Kael.
+- Panel 10.5 menutup pekerjaan dokumentasi dan menjadi landasan metodologis menuju Scene 11.
+- Scene 11 menyebut Resonansi Hitam pada dokumen/indeks lain. Hubungan transisinya hanya dokumenter/tematik; jangan menghubungkan secara visual dengan jubah, efeknya, atau NVR AGAIN sebagai mekanisme/identitas yang sama.
+
+### Hasil audit visual
+- Properti yang boleh berulang: tabel tiga kolom, lembar sumber, catatan, kutipan asli/lampiran, terjemahan kerja, dan fragmen konteks.
+- Tabel tiga kolom pada 10.1/10.2 berbeda fungsi dari satu lembar terjemahan kerja pada closing insert 10.5.
+- Lingkungan arsip dan palet sepia boleh dipertahankan sebagai konsistensi eksperimen, bukan desain lokasi atau gaya final.
+- Tidak boleh ada jubah, pemakai, luka, perisai, aura, energi, visual regenerasi, mekanisme, atau teks sumber rekaan.
+
+### Keputusan
+- Brief dan execution sheet kini menegaskan pemisahan 10.3 dan 10.4 serta satu lembar terjemahan pada 10.5.
+- Page 01 dan Page 02 belum boleh dirakit final sebelum blocking tiap panel disetujui kreator.
+- Rasio portrait 4:5 masih sementara.
+- Total eksperimen lokal tercatat 23; thumbnail diterima 0; ilustrasi final 0; binary PNG repository 0. Semua NON-CANON.
+
+**Dampak CANON: tidak ada.**
