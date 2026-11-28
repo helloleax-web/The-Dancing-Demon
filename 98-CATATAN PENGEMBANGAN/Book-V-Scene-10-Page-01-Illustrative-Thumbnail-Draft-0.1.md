@@ -53,3 +53,18 @@ Manuskrip utama Book V Chapter 3 Revision Draft 0.4 menjadi acuan isi adegan. Pa
 - Tidak terlihat jubah, pemakai, luka, perisai, aura, energi, regenerasi, atau mekanisme.
 
 **Keputusan:** komposisi tiga panel dan alur baca vertikal dapat dipakai sebagai layout study. Belum thumbnail final karena rasio output berbeda dari rencana 4:5, subjudul tidak resmi muncul, dan aksi/peran 10.2–10.3 belum cukup spesifik. NON-CANON. File lokal; binary belum diunggah ke GitHub.
+
+
+## Review eksperimen komposit Page 01 — iterasi 2 — 2026-11-28
+
+**Output lokal:** `/mnt/data/a_detailed_comic_manga_style_monochrome_sepia_ink.png` (1101 × 1536; portrait sekitar 0.717:1).
+
+**Komposisi:** tiga panel ditumpuk vertikal dengan label 10.1, 10.2, 10.3. Urutan baca jelas dan pemisahan panel tegas. Panel 10.1 menunjukkan tabel tiga kolom; tulisan pseudo-handwriting tidak dapat dipakai sebagai teks sumber. Panel 10.2 memetakan tiga aksi kerja lewat figur dan callout: Tavian menunjuk istilah, Seraphine memeriksa baris, Ilyra membaca dokumen. Panel 10.3 menampilkan tiga figur dan callout bernama Daren, Tavian, Seraphine.
+
+**Masalah yang ditemukan:**
+- Callout Panel 10.3 menggunakan frasa “batas pertahanan”, yang bukan rumusan pertanyaan manuskrip. Pertanyaan yang harus dipertahankan ialah apakah pemakai masih bisa terluka; jangan ubah menjadi pertanyaan umum tentang batas pertahanan.
+- Callout penjelas dan simbol balon “?” serta “…” merupakan teks/penanda generatif yang tidak diperlukan dan berisiko menambahkan nada atau informasi yang tidak ada pada sumber.
+- Pakaian, bentuk tubuh, kepala/wajah tanpa detail, rak buku, jendela, lampu, meja, dan gaya sepia tetap detail generatif NON-CANON; tidak mengesahkan desain karakter, lokasi, palet, atau rendering.
+- Rasio hasil bukan 4:5; rasio 4:5 sendiri masih provisional dan belum dikunci.
+
+**Keputusan:** pertahankan hanya sebagai studi layout vertikal 3 panel. Jangan naikkan menjadi thumbnail final. Iterasi berikutnya perlu menghapus seluruh callout/speech symbols generatif, mempertahankan label panel seperlunya, dan menyampaikan pertanyaan 10.3 melalui blocking netral tanpa mengubah rumusan sumber. Tidak ada perubahan CANON. Binary PNG tidak diunggah ke repository.
