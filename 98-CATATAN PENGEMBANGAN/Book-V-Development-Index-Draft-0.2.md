@@ -387,3 +387,7 @@
 
 Tiga percobaan visual baru untuk Panel 10.3 ditolak. Ketiganya masih mengarang detail visual Daren; sebagian menambahkan diagram/ilustrasi reruntuhan yang tidak ada dalam arahan; gestur Seraphine juga belum tepat menggambarkan pembatasan kesimpulan berbasis sumber. Status tetap: blocking belum ditemukan, thumbnail diterima 0, tidak ada perubahan CANON, tidak ada PNG binary di repository. Eksperimen lokal bertambah tiga; total tercatat 33.
 
+### Eksperimen lanjutan Panel 10.3 — 2026-11-28
+
+Dua eksperimen baru menggunakan gestur tangan Daren dari tepi frame, tanpa wajah. Keduanya masih gagal karena generator menambahkan diagram/tanda lingkaran pada dokumen yang tidak didukung sumber. Versi kedua lebih dekat secara komposisi tetapi belum thumbnail diterima. Tidak ada perubahan CANON atau unggahan PNG binary. Total eksperimen lokal tercatat 35; thumbnail diterima 0; ilustrasi final 0.
+
