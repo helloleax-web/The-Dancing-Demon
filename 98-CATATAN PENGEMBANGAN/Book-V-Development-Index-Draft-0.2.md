@@ -302,3 +302,12 @@
 - Grid dua kolom eksperimen sebelumnya dihilangkan; tidak ada panah/simbol hubungan atau teks sumber rekaan. Kandidat blocking lebih sesuai, belum thumbnail final.
 - Scene 10 tetap belum siap dirakit: 10.1 dasar struktur; 10.2 dan 10.3 kandidat blocking kuat; 10.4 kandidat komposisi; 10.5 kandidat blocking lebih sesuai.
 - Total eksperimen lokal: 23; thumbnail diterima: 0; ilustrasi final: 0; binary PNG repository: 0.
+
+
+## Kontinuitas Page 01–02 Scene 10 — 2026-11-28
+
+- Page 01 berakhir pada pertukaran Daren–Tavian–Seraphine (Panel 10.3); Page 02 membuka pertukaran baru Kael–Ilyra (Panel 10.4). Jangan menggabungkan pertanyaan atau pembicaranya.
+- Panel 10.5 menutup pengarsipan: kutipan asli/lampiran terpisah, satu lembar terjemahan kerja, dua fragmen konteks masing-masing berlabel “belum dapat dibandingkan”.
+- Transisi ke Scene 11 hanya dokumenter/tematik; Resonansi Hitam muncul pada dokumen/indeks lain dan tidak boleh disamakan dengan jubah, efeknya, atau NVR AGAIN.
+- Tabel tiga kolom 10.1/10.2 berbeda dari lembar terjemahan tunggal 10.5. Page 01/02 belum boleh dirakit sebelum blocking per panel disetujui.
+- Rasio portrait 4:5 tetap provisional. Eksperimen lokal 23; thumbnail diterima 0; ilustrasi final 0; binary PNG repository 0.
