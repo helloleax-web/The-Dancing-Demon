@@ -259,3 +259,15 @@ Ketiganya harus tampak sebagai tiga aksi berbeda dalam satu close-up, bukan tiga
 ## Character reference boundary integration — 2026-11-28
 
 Rujukan karakter Scene 10 kini mengikuti `01-CANON/Character-Bible.md` untuk desain Tavian, Seraphine, dan Kael yang telah disahkan. `Book-V-Scene-10-Character-Visual-Reference-Boundaries-Draft-0.1.md` membedakan desain tersebut dari UNKNOWN milik Daren dan Ilyra. Execution Sheet tetap mengatur blocking; jangan menambahkan detail yang tidak tercantum di Character Bible. Ruang, rasio halaman, dan rendering keseluruhan belum dikunci.
+
+## Penerapan Character Bible pada blocking Scene 10 — 2026-11-28
+
+Instruksi lama yang meminta seluruh wajah/identitas karakter dibuat netral kini dibatasi hanya untuk karakter yang belum memiliki desain CANON. Gunakan Character Bible sebagai rujukan visual otoritatif untuk Tavian, Seraphine, dan Kael; jangan mengarang detail di luar entri mereka.
+
+- **10.1:** Tavian mengikuti desain CANON. Dalam top-down, cukup tampilkan tangan dan perlengkapan kerja yang konsisten; wajah tidak wajib.
+- **10.2:** Tavian dan Seraphine mengikuti desain CANON. Ilyra tetap placeholder netral; fungsi pemeriksaannya ditunjukkan melalui dokumen sumber yang ia buka/tahan, bukan lewat desain karakter rekaan.
+- **10.3:** Tavian dan Seraphine mengikuti desain CANON. Daren tetap placeholder netral. Pertahankan urutan gestur Daren bertanya → Tavian merujuk dokumen → Seraphine membatasi kesimpulan.
+- **10.4:** Kael mengikuti desain CANON. Ilyra tetap placeholder netral. Pertahankan percakapan two-shot terpisah.
+- **10.5:** tanpa karakter; pertahankan flat lay dokumen.
+
+Desain karakter CANON tidak mengunci kostum karakter lain, lokasi, properti lingkungan, palet halaman, rendering, rasio, tipografi, atau format publikasi. Seluruh blocking dan komposit tetap NON-CANON sampai diterima kreator.
