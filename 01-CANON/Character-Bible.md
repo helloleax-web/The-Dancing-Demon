@@ -30,6 +30,17 @@ Dokumen ini menjadi rujukan utama fakta CANON mengenai enam karakter inti: Tavia
 
 Nama, fungsi inti, motivasi, kekuatan, kelemahan, dan arah arc keenam karakter di atas merupakan CANON. Desain visual Tavian, Seraphine, dan Kael yang tercantum pada profil masing-masing juga CANON. Detail biografi/visual yang secara khusus ditandai UNKNOWN tetap belum ditentukan.
 
+
+## Prinsip desain visual CANON
+
+- Arah visual seri: manga fantasy-adventure dengan siluet yang mudah dibedakan, kostum fungsional, dan ekspresi yang terbaca.
+- Kostum anggota ekspedisi tidak menggunakan armor berlebihan; desain harus mencerminkan pekerja lapangan, peneliti, dan perantara informasi.
+- Desain karakter harus tetap terbaca dalam hitam-putih; pembedaan karakter tidak boleh hanya bergantung pada warna.
+- Properti kerja khas harus konsisten antar bab: buku catatan dan alat ukur Tavian, map dokumentasi Seraphine, serta tabung kulit dan peta kedua Kael.
+- Palet warna karakter adalah acuan visual CANON, bukan ketentuan tentang warna lingkungan, budaya, atau material seluruh dunia.
+- Jangan menambahkan lambang organisasi, afiliasi, senjata, atau ornamen yang tidak tercantum dalam profil karakter.
+- Desain visual yang telah ditetapkan tidak mengesahkan detail lain yang masih UNKNOWN, seperti tinggi pasti, anatomi rinci, warna kulit, atau sejarah personal.
+
 ## Tavian Rell
 
 ### Fakta CANON
@@ -63,7 +74,7 @@ Rujukan motivasi dan arc: [Tavian Rell — Motivasi Inti dan Arc Karakter](Tavia
 - Alasan personal pertama ia memilih pekerjaan survei.
 - Kondisi ekonomi rinci.
 - Kepribadian di luar motivasi dan kelemahan yang telah ditetapkan.
-- Penampilan dan desain visual final.
+- Detail wajah, warna kulit, tinggi, proporsi tubuh spesifik, dan ciri fisik lain yang tidak ditentukan dalam bagian desain visual.
 - Kemampuan di luar pekerjaan survei.
 - Ketakutan personal terdalam dan batas moral spesifik.
 - Hubungan romantis atau keluarga.
