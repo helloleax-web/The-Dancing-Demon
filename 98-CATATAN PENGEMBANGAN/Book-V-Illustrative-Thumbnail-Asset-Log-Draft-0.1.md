@@ -446,3 +446,11 @@ Total eksperimen lokal tercatat: 22 (6 halaman Scene 7–9 + 16 panel Scene 10).
 - 10.1: tabel tiga kolom terlihat. 10.2: beberapa gestur tangan/dokumen terlihat tetapi fungsi spesifik belum sepenuhnya terbaca. 10.3: tiga figur berdialog secara visual, tetapi peran/dialog belum terverifikasi.
 - Subjudul generatif tidak resmi perlu dihapus/ganti. Rasio 2:3 bukan rasio 4:5 yang sebelumnya direncanakan.
 - Status layout study NON-CANON, belum thumbnail final. Total eksperimen lokal: 24; thumbnail diterima: 0; ilustrasi final: 0; binary PNG repository: 0.
+
+
+### Eksperimen komposit Page 01 — iterasi 2 — 2026-11-28
+
+- Output lokal: `/mnt/data/a_detailed_comic_manga_style_monochrome_sepia_ink.png` (1101 × 1536), tiga panel vertikal 10.1–10.3.
+- Tabel tiga kolom 10.1 dan pembagian tiga aksi 10.2 lebih mudah dibaca; 10.3 masih memakai callout “batas pertahanan” yang mengubah rumusan pertanyaan manuskrip tentang apakah pemakai masih bisa terluka.
+- Callout deskriptif serta simbol balon “?”/“…” generatif harus dihapus pada iterasi berikutnya. Semua figur, kostum, ruang, properti, dan sepia tetap NON-CANON.
+- Status: studi layout, bukan thumbnail final. Eksperimen lokal total 25; thumbnail diterima 0; ilustrasi final 0; binary PNG repository 0. Tidak ada perubahan CANON.
