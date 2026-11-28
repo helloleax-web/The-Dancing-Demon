@@ -360,3 +360,11 @@
 - Desain visual Tavian, Seraphine, dan Kael dari Book I Character Visual Design Brief Draft 0.1 telah disahkan dan dipindahkan ke Character Bible pada 2026-11-28.
 - Daren dan Ilyra tetap UNKNOWN secara visual; ruang, rasio halaman, dan rendering keseluruhan juga belum dikunci.
 - Dokumen Scene 10 Character Visual Reference Boundaries diperbarui untuk membedakan desain CANON dari detail yang masih UNKNOWN.
+
+### Penerapan desain karakter CANON pada blocking Scene 10 — 2026-11-28
+
+- Page 01: Tavian dan Seraphine kini mengikuti Character Bible pada panel 10.1–10.3; Daren dan Ilyra tetap placeholder netral karena desain visualnya UNKNOWN.
+- Page 02: Kael mengikuti Character Bible pada panel 10.4; Ilyra tetap placeholder netral; panel 10.5 tetap flat lay tanpa karakter.
+- Execution Sheet dan kedua brief halaman telah diselaraskan. Tidak ada perubahan manuskrip atau penambahan fakta CANON.
+- Komposit Page 01 iterasi 3 dan Page 02 iterasi 1 tetap kandidat layout NON-CANON; belum thumbnail diterima. Tidak ada PNG binary yang diunggah.
+
