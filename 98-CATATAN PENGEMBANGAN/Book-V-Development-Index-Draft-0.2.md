@@ -368,3 +368,10 @@
 - Execution Sheet dan kedua brief halaman telah diselaraskan. Tidak ada perubahan manuskrip atau penambahan fakta CANON.
 - Komposit Page 01 iterasi 3 dan Page 02 iterasi 1 tetap kandidat layout NON-CANON; belum thumbnail diterima. Tidak ada PNG binary yang diunggah.
 
+### Eksperimen visual lanjutan Scene 10 — 2026-11-28
+
+- Satu komposit dua halaman baru dibuat, tetapi ditolak: heading/callout generatif tidak didukung, simbol dialog ditambahkan, dan desain Daren/Ilyra terkunci tanpa dasar CANON. Tidak dihitung sebagai kandidat aset.
+- Panel 10.1 dibuat ulang sebagai eksperimen panel tunggal top-down dengan tabel tiga kolom, buku catatan, alat ukur lipat, pensil, dan tangan bersarung. Struktur tabel terbaca; tulisan tetap placeholder. Kandidat blocking, belum thumbnail final.
+- Total eksperimen lokal tercatat 29 (sebelumnya 27 + 1 komposit ditolak + 1 panel tunggal 10.1). Thumbnail diterima: 0; ilustrasi final: 0; binary PNG repository: 0.
+- Tidak ada perubahan manuskrip atau CANON.
+
