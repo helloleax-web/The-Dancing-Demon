@@ -42,3 +42,23 @@ Blocking dan tata letak adalah bahan produksi NON-CANON. Tidak ada perubahan pad
 - Teks dokumen adalah pseudo-handwriting, bukan isi sumber.
 
 **Keputusan:** eksperimen lebih sesuai daripada percobaan sebelumnya dari sisi jumlah figur dan keterbacaan percakapan, tetapi masih studi komposisi. Belum diterima sebagai thumbnail final. NON-CANON; tidak mengubah manuskrip atau CANON. Binary tidak diunggah ke GitHub.
+
+
+## Eksperimen pengganti dengan pemetaan gestur lebih jelas — 2026-11-28
+
+**File lokal:** `a_sepia_toned_manga_style_illustration_of_three_fa.png` (1536 × 1024).
+
+**Observasi:**
+- Tepat tiga figur dalam satu medium group.
+- Figur kiri mengambil gestur bertanya dan mendekat ke meja.
+- Figur tengah memegang dokumen dan menunjuk/merujuk isi dokumen sebagai respons Tavian.
+- Figur kanan memberi gestur klarifikasi/pembatasan sebagai respons Seraphine.
+- Dokumen dan tabel hadir sebagai konteks.
+- Wajah berupa bidang kosong; tidak ada jubah, pemakai, luka, perisai, atau efek kemampuan.
+
+**Batas:**
+- Pemetaan kiri–tengah–kanan ke Daren–Tavian–Seraphine adalah blocking produksi sesuai urutan dialog manuskrip, bukan identitas visual final.
+- Pakaian, proporsi tubuh, rak buku, dan latar tetap detail generatif NON-CANON.
+- Tulisan dokumen hanya pseudo-handwriting dan bukan isi sumber.
+
+**Keputusan:** kandidat blocking 10.3 yang lebih kuat daripada eksperimen sebelumnya karena peran tanya, jawaban berbasis dokumen, dan klarifikasi metodologis dibedakan secara gestur. Belum thumbnail final; menunggu evaluasi kreator dan character sheets. Output terdahulu pernah berbagi nama/path dengan eksperimen 10.4 sehingga file terdahulu tidak lagi dapat diverifikasi; output ini menjadi file pengganti yang terpisah.
