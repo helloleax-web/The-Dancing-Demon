@@ -391,3 +391,7 @@ Tiga percobaan visual baru untuk Panel 10.3 ditolak. Ketiganya masih mengarang d
 
 Dua eksperimen baru menggunakan gestur tangan Daren dari tepi frame, tanpa wajah. Keduanya masih gagal karena generator menambahkan diagram/tanda lingkaran pada dokumen yang tidak didukung sumber. Versi kedua lebih dekat secara komposisi tetapi belum thumbnail diterima. Tidak ada perubahan CANON atau unggahan PNG binary. Total eksperimen lokal tercatat 35; thumbnail diterima 0; ilustrasi final 0.
 
+### Eksperimen Panel 10.3 — dokumen tanpa diagram — 2026-11-28
+
+Eksperimen terbaru menghilangkan diagram/simbol pada dokumen dan membatasi Daren ke tangan anonim. Namun kostum Tavian dan Seraphine masih memiliki ornamen generatif di luar Character Bible; gestur Seraphine belum cukup spesifik. Status kandidat blocking NON-CANON, belum thumbnail diterima. Total eksperimen lokal tercatat 36; ilustrasi final 0; binary PNG repository 0.
+
