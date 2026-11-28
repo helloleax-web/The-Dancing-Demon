@@ -375,3 +375,11 @@
 - Total eksperimen lokal tercatat 29 (sebelumnya 27 + 1 komposit ditolak + 1 panel tunggal 10.1). Thumbnail diterima: 0; ilustrasi final: 0; binary PNG repository: 0.
 - Tidak ada perubahan manuskrip atau CANON.
 
+### Eksperimen revisi Panel 10.2 — 2026-11-28
+
+- Satu panel tunggal tanpa callout atau balon dialog dibuat pada rasio sekitar 2:1.
+- Tavian menunjuk istilah, Seraphine memeriksa baris, dan Ilyra hanya diwakili tangan serta dokumen sumber; tidak ada wajah/rambut/tubuh Ilyra.
+- Kandidat blocking lebih kuat dan memenuhi pemisahan tiga fungsi kerja. Detail manset, ruang, properti, serta rendering tetap NON-CANON.
+- Total eksperimen lokal tercatat 30 (jumlah historis sebelumnya 29 + satu eksperimen panel baru); thumbnail diterima 0; ilustrasi final 0; binary PNG repository 0.
+- Tidak ada perubahan CANON.
+
