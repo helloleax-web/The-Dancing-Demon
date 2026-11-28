@@ -254,3 +254,8 @@ Ketiganya harus tampak sebagai tiga aksi berbeda dalam satu close-up, bukan tiga
 - Page 01 iterasi 3: kandidat layout/blocking terkuat; belum thumbnail final.
 - Page 02 iterasi 1: kandidat komposit sesuai struktur; belum thumbnail final.
 - Keduanya tidak mengubah CANON dan tidak memenuhi status aset final. PNG binary tetap belum diunggah ke repository.
+
+
+## Character reference boundary integration — 2026-11-28
+
+Rujukan karakter Scene 10 kini dipusatkan pada `Book-V-Scene-10-Character-Visual-Reference-Boundaries-Draft-0.1.md`. Dokumen tersebut memetakan fakta CANON, fungsi adegan, dan UNKNOWN visual untuk Tavian, Seraphine, Ilyra, Daren, dan Kael. Execution Sheet tetap hanya mengatur blocking; jangan menganggap mannequin, pakaian, proporsi, wajah, atau properti generatif sebagai desain final. Semua detail visual yang belum disahkan tetap UNKNOWN/NON-CANON.
