@@ -462,3 +462,12 @@ Total eksperimen lokal tercatat: 22 (6 halaman Scene 7–9 + 16 panel Scene 10).
 - 10.1: tabel tiga kolom terbaca; 10.2: tiga aksi pemeriksaan dipisahkan melalui tangan dan dokumen; 10.3: percakapan tiga figur dengan gestur tanya, respons berbasis dokumen, dan klarifikasi.
 - Kandidat layout/blocking paling bersih sejauh ini, belum thumbnail final. Pemetaan figur 10.3 dan desain visual tetap NON-CANON; rasio 2:3 bukan keputusan final.
 - Eksperimen lokal total 26; thumbnail diterima 0; ilustrasi final 0; binary PNG repository 0. Tidak ada perubahan CANON.
+
+
+### Eksperimen komposit Page 02 — iterasi 1 — 2026-11-28
+
+- Output lokal: `/mnt/data/a_sepia_toned_comic_manga_style_illustration_ink.png` (1122 × 1402; portrait sekitar 4:5), dua panel vertikal 10.4–10.5.
+- 10.4: two-shot dua figur dengan tabel/dokumen; gestur tanya-jawab tanpa dialog generatif.
+- 10.5: tumpukan kutipan/lampiran di kiri, satu lembar terjemahan kerja di kanan, dua fragmen terpisah di tengah; masing-masing memuat status literal “belum dapat dibandingkan”. Tidak ada panah atau simbol hubungan.
+- Tulisan lain pseudo-handwriting placeholder. Figur, kostum, ruang, properti, tekstur, dan sepia tetap NON-CANON.
+- Status: kandidat komposit sesuai struktur, belum thumbnail final. Eksperimen lokal total 27; thumbnail diterima 0; ilustrasi final 0; binary PNG repository 0. Tidak ada perubahan CANON.
