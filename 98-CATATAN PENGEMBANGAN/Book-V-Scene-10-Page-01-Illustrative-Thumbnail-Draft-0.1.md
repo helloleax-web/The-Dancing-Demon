@@ -86,3 +86,13 @@ Manuskrip utama Book V Chapter 3 Revision Draft 0.4 menjadi acuan isi adegan. Pa
 ## Audit blocking Panel 10.3 terhadap manuskrip — 2026-11-28
 
 Manuskrip Chapter 3 Revision Draft 0.4 pada bagian Scene 10 menetapkan urutan: Daren bertanya apakah pemakai masih bisa terluka; Tavian melihat catatan sumber dan menjawab bahwa dokumen tidak menjawab; Seraphine membatasi jawaban pada sumber yang sedang diperiksa. Gestur pada komposit iterasi 3 dapat dipetakan secara sementara sebagai Daren dengan gestur bertanya, Tavian merujuk dokumen/tabel, dan Seraphine memberi gestur pembatasan/klarifikasi. Dengan demikian, blocking adegan sesuai secara fungsi dan urutan; tidak perlu menambahkan dialog/callout ke gambar. Pemetaan ini tetap blocking, bukan pengesahan desain karakter. Komposit iterasi 3 tetap kandidat layout NON-CANON, belum thumbnail diterima.
+
+
+## Audit kontinuitas gabungan Page 01–02 — 2026-11-28
+
+- Page 01 iterasi 3 menjaga urutan 10.1 tabel istilah → 10.2 pemeriksaan tiga fungsi → 10.3 pertanyaan Daren dan jawaban berbasis sumber. Audit manuskrip mengonfirmasi blocking 10.3 sesuai fungsi/urutan.
+- Page 02 iterasi 1 membuka percakapan baru 10.4 antara Kael dan Ilyra; jangan membawa Daren/Tavian/Seraphine sebagai pembicara pada panel ini.
+- Tabel kerja tetap menjadi konteks di kedua halaman; 10.5 adalah hasil pengarsipan akhir, bukan pengganti tabel tiga kolom 10.1.
+- Kedua komposit memakai eksperimen sepia dan suasana ruang arsip yang serupa. Kesamaan visual hanya kontinuitas eksperimen, bukan pengesahan lokasi, properti, palet, atau desain karakter.
+- Transisi ke Scene 11 hanya urutan dokumenter/tematik. Istilah Resonansi Hitam ditemukan pada dokumen/indeks lain; jangan membuat hubungan visual yang menyatakan istilah itu sebagai nama jubah, efek, atau mekanismenya.
+- Status Page 01: kandidat layout/blocking paling bersih, belum thumbnail diterima. Seluruh hasil tetap NON-CANON; rasio halaman belum dikunci.
