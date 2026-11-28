@@ -2,11 +2,11 @@
 
 **Status: CANON**  
 **Disahkan: 2026-11-26**  
-**Cakupan:** identitas, fungsi inti, motivasi, kekuatan, kelemahan, dan arah perkembangan enam karakter utama sebagaimana tercantum dalam dokumen ini. Detail yang ditandai UNKNOWN tidak disahkan.
+**Cakupan:** identitas, fungsi inti, motivasi, kekuatan, kelemahan, arah perkembangan, serta desain visual karakter yang secara eksplisit dicantumkan sebagai CANON. Detail yang ditandai UNKNOWN tidak disahkan.
 
 ## Tujuan dan aturan dokumentasi
 
-Dokumen ini menjadi rujukan utama fakta CANON mengenai enam karakter inti: Tavian Rell, Seraphine Veyra, Kael Veyron, Mira Solenne, Daren Holt, dan Ilyra Nym. Profil mencakup fungsi naratif, motivasi inti, kekuatan, kelemahan, dan arah perkembangan yang telah disahkan.
+Dokumen ini menjadi rujukan utama fakta CANON mengenai enam karakter inti: Tavian Rell, Seraphine Veyra, Kael Veyron, Mira Solenne, Daren Holt, dan Ilyra Nym. Profil mencakup fungsi naratif, motivasi inti, kekuatan, kelemahan, arah perkembangan, dan desain visual yang telah disahkan.
 
 - Informasi disebut **CANON** jika telah ditetapkan kreator dan dicatat dalam dokumen kanon.
 - **CATATAN PENGEMBANGAN** tetap terpisah dan tidak boleh diperlakukan sebagai fakta karakter.
@@ -15,6 +15,7 @@ Dokumen ini menjadi rujukan utama fakta CANON mengenai enam karakter inti: Tavia
 - **OPEN QUESTION** berarti keputusan atau rincian masih perlu dikerjakan.
 - Tidak adanya informasi dalam dokumen bukan bukti bahwa suatu sifat, kemampuan, hubungan, atau latar belakang tidak ada di dunia cerita.
 - Untuk arah arc ensemble lintas delapan buku, gunakan [Ensemble Character Arcs](Ensemble-Character-Arcs.md). Untuk Tavian, gunakan [Tavian Character Arc](Tavian-Character-Arc.md).
+- Desain visual CANON Tavian, Seraphine, dan Kael ditetapkan berdasarkan Book I — Character Visual Design Brief Draft 0.1, sesuai persetujuan kreator pada 2026-11-28. Detail desain yang tidak tercantum di bawah tetap UNKNOWN.
 
 ## Indeks karakter
 
@@ -27,7 +28,7 @@ Dokumen ini menjadi rujukan utama fakta CANON mengenai enam karakter inti: Tavia
 | Daren Holt | Pekerja lapangan berpengalaman dan pengawal rute; diperkenalkan di Rookbridge pada Buku II. | Dokumen ini; [Ensemble Character Arcs](Ensemble-Character-Arcs.md). |
 | Ilyra Nym | Penyalin naskah dan asisten arsip; diperkenalkan dalam Buku III. | Dokumen ini; [Ensemble Character Arcs](Ensemble-Character-Arcs.md). |
 
-Nama, fungsi inti, motivasi, kekuatan, kelemahan, dan arah arc keenam karakter di atas merupakan CANON. Detail biografi yang secara khusus ditandai UNKNOWN tetap belum ditentukan.
+Nama, fungsi inti, motivasi, kekuatan, kelemahan, dan arah arc keenam karakter di atas merupakan CANON. Desain visual Tavian, Seraphine, dan Kael yang tercantum pada profil masing-masing juga CANON. Detail biografi/visual yang secara khusus ditandai UNKNOWN tetap belum ditentukan.
 
 ## Tavian Rell
 
@@ -44,6 +45,16 @@ Nama, fungsi inti, motivasi, kekuatan, kelemahan, dan arah arc keenam karakter d
 - **Tindakan pada penutup Buku I:** menambahkan tanda baru pada petanya.
 
 Rujukan motivasi dan arc: [Tavian Rell — Motivasi Inti dan Arc Karakter](Tavian-Character-Arc.md). Rujukan struktur seri: [Series Spine & Narrative Framework](Series-Spine-and-Narrative-Framework.md).
+
+### Desain visual CANON
+
+- **Siluet dan postur:** tubuh ramping dan tangkas; postur sedikit condong ke depan ketika mengamati sesuatu. Ia bukan petarung berotot.
+- **Wajah dan ekspresi:** fitur muda; ekspresi fokus dan mudah terbaca ketika sedang menghitung atau menimbang sesuatu. Ekspresi kunci: konsentrasi, ragu ketika data tidak cocok, dan tegas saat mengambil keputusan praktis.
+- **Rambut:** cokelat gelap, pendek dan praktis, sedikit jatuh ke dahi.
+- **Pakaian:** tunik kerja berlapis, mantel perjalanan pendek, sabuk alat, kantong catatan, sarung tangan lapangan, dan sepatu bot yang sudah sering dipakai.
+- **Properti kerja khas:** buku catatan bersampul keras, alat ukur lipat, pensil, penanda survei, dan peta kerja.
+- **Palet visual:** cokelat tanah, abu-abu batu, krem kusam, dengan aksen biru gelap.
+- **Batas desain:** tidak menggunakan senjata besar, armor ksatria, atau ornamen bangsawan tanpa kebutuhan cerita.
 
 ### UNKNOWN
 
@@ -76,9 +87,20 @@ Motivasi dan arc di atas adalah CANON. Detail biografi yang tercantum sebagai UN
 - **Kelemahan:** dapat terlalu lama mempertahankan prosedur ketika keadaan berubah, cenderung memikul tanggung jawab sendiri, dan berisiko melihat orang lain sebagai sumber data sebelum memahami kebutuhan mereka.
 - **Arah arc:** bergerak dari peneliti yang mengutamakan preservasi bukti menuju peneliti yang mampu menimbang keselamatan manusia dan kepentingan pengetahuan secara bersamaan.
 
+### Desain visual CANON
+
+- **Presentasi visual:** perempuan dewasa muda.
+- **Siluet dan postur:** tegak dan rapi, dengan gerak hemat; memberi kesan orang yang terbiasa mengatur pekerjaan lapangan.
+- **Rambut:** hitam kebiruan atau cokelat sangat gelap, panjang sebahu, dan sering diikat agar tidak mengganggu pemeriksaan.
+- **Pakaian:** mantel peneliti lapangan berkerah tinggi, lapisan dalam sederhana, lengan yang dapat digulung, serta sabuk kecil untuk alat dokumentasi.
+- **Properti kerja khas:** map dokumen, lembar klasifikasi, lampu portabel, alat pencatat, dan wadah dokumentasi.
+- **Palet visual:** biru tua, arang, abu-abu dingin, dengan sedikit putih kusam.
+- **Ekspresi kunci:** tenang dan mengamati; ketegangan disampaikan melalui tatapan dan gerak tangan, bukan ledakan emosi.
+- **Batas desain:** bukan penyihir atau ilmuwan futuristis; kompetensinya ditampilkan melalui metode dan keputusan.
+
 ### UNKNOWN
 
-- Spesies, usia, jenis kelamin, keluarga, latar belakang, pendidikan, penampilan/desain visual final, kemampuan di luar pekerjaan, hubungan personal, serta perkembangan rinci lintas Buku II–VIII belum ditetapkan.
+- Spesies, keluarga, latar belakang, pendidikan, kemampuan di luar pekerjaan, hubungan personal, serta perkembangan rinci lintas Buku II–VIII belum ditetapkan.
 ## Kael Veyron
 
 ### Fakta CANON
@@ -93,13 +115,24 @@ Motivasi dan arc di atas adalah CANON. Detail biografi yang tercantum sebagai UN
 - **Kelemahan:** menganggap kepercayaan sebagai transaksi, menyimpan terlalu banyak informasi sendiri, dan dapat mengira dirinya mampu mengendalikan risiko karena memahami sebagian jaringan yang terlibat.
 - **Arah arc:** bergerak dari orang yang memperlakukan kelompok sebagai bagian dari pekerjaan menuju seseorang yang menghadapi konsekuensi nyata ketika kepentingan pribadinya membahayakan orang lain.
 
+### Desain visual CANON
+
+- **Presentasi visual:** laki-laki dewasa muda.
+- **Siluet dan postur:** ramping, lebih santai dibanding Tavian dan Seraphine; gerak tubuh mudah berubah dan ekspresif.
+- **Rambut:** hitam kecokelatan, sedikit lebih panjang di bagian atas, ditata praktis tetapi tidak terlalu rapi.
+- **Pakaian:** mantel perjalanan fleksibel dengan beberapa kantong tersembunyi, syal atau kerah kain, dan pakaian yang lebih rapi daripada perlengkapan survei.
+- **Properti khas:** tabung kulit untuk peta kedua, kantong dokumen, dan alat tulis kecil.
+- **Palet visual:** hijau gelap, cokelat tua, hitam pudar, dengan aksen merah anggur.
+- **Ekspresi kunci:** senyum tipis, tatapan yang mengukur lawan bicara, dan ekspresi datar ketika rahasianya terbongkar.
+- **Batas desain:** tidak menggunakan lambang Arsip Lentera atau simbol pihak pembayar; identitas dan afiliasi kurator belum diketahui.
+
 ### MYSTERY
 
 - Identitas pihak yang membayar Kael, tujuan tersembunyinya, identitas kontak tak dikenal, dan makna penuh istilah “arsip di bawah jalan” tetap belum ditetapkan. Kerangka Buku I menyatakan pihak yang membayar dan tujuan tersembunyinya akan terungkap dalam bagian “Harga Sebuah Informasi”, tetapi identitasnya tidak ditentukan di sini.
 
 ### UNKNOWN
 
-- Spesies, usia, jenis kelamin, keluarga, latar belakang, pendidikan, penampilan/desain visual final, kemampuan di luar pekerjaannya, hubungan personal, serta perkembangan rinci lintas Buku II–VIII belum ditetapkan.
+- Spesies, keluarga, latar belakang, pendidikan, kemampuan di luar pekerjaannya, hubungan personal, serta perkembangan rinci lintas Buku II–VIII belum ditetapkan.
 ## Mira Solenne
 
 ### Fakta CANON
