@@ -471,3 +471,12 @@ Total eksperimen lokal tercatat: 22 (6 halaman Scene 7–9 + 16 panel Scene 10).
 - 10.5: tumpukan kutipan/lampiran di kiri, satu lembar terjemahan kerja di kanan, dua fragmen terpisah di tengah; masing-masing memuat status literal “belum dapat dibandingkan”. Tidak ada panah atau simbol hubungan.
 - Tulisan lain pseudo-handwriting placeholder. Figur, kostum, ruang, properti, tekstur, dan sepia tetap NON-CANON.
 - Status: kandidat komposit sesuai struktur, belum thumbnail final. Eksperimen lokal total 27; thumbnail diterima 0; ilustrasi final 0; binary PNG repository 0. Tidak ada perubahan CANON.
+
+
+## Audit gabungan Scene 10 Page 01–02 — 2026-11-28
+
+- Page 01 iterasi 3: urutan 10.1–10.3 sesuai manuskrip; blocking 10.3 tanya → rujukan dokumen → klarifikasi telah diverifikasi secara tekstual.
+- Page 02 iterasi 1: percakapan baru Kael–Ilyra pada 10.4; 10.5 memisahkan tumpukan kutipan/lampiran, satu lembar terjemahan kerja, dan dua fragmen konteks yang masing-masing berlabel “belum dapat dibandingkan”.
+- Kontinuitas lintas halaman terjaga; 10.5 bukan pengganti tabel tiga kolom 10.1. Jangan menggabungkan pembicara 10.3 dan 10.4.
+- Kesamaan ruang arsip/sepia hanya eksperimen NON-CANON. Transisi ke Scene 11 dokumenter/tematik; jangan menyatakan Resonansi Hitam sebagai nama jubah, efek, atau mekanisme.
+- Kedua komposit tetap kandidat layout, bukan aset final. Eksperimen lokal total 27; thumbnail diterima 0; ilustrasi final 0; binary PNG repository 0.
