@@ -119,3 +119,14 @@ Rujukan visual karakter yang telah disahkan pada Character Bible kini diterapkan
 
 ### Batas penerapan
 Desain karakter CANON tidak mengesahkan ruang arsip, meja, palet halaman, rendering, rasio, tipografi, atau desain karakter lain. Semua komposit tetap NON-CANON dan menunggu review kreator.
+
+## Eksperimen panel tunggal 10.1 — 2026-11-28
+
+**Output lokal:** `/mnt/data/a_detailed_manga_style_top_down_comic_panel_of_a_r.png` (1536 × 1024).
+
+**Komposisi:** satu panel top-down dengan tabel tiga kolom dan beberapa baris. Buku catatan, alat ukur lipat, pensil, tumpukan kertas, serta tangan bersarung menjadi properti kerja. Tangan dan properti dimaksudkan sebagai petunjuk visual Tavian, bukan pengganti desain karakter.
+
+**Evaluasi:** struktur tiga kolom terbaca jelas; tidak ada wajah, dialog, jubah, pemakai, luka, perisai, aura, energi, regenerasi, atau mekanisme. Tulisan pada tabel adalah pseudo-handwriting dan wajib dianggap placeholder, bukan istilah/kutipan sumber. Bentuk sarung tangan dan detail meja masih interpretasi eksperimen, bukan penetapan desain kostum/lingkungan baru.
+
+**Keputusan:** kandidat blocking panel tunggal yang layak untuk review berikutnya; belum thumbnail final dan belum diterima kreator. NON-CANON. Binary PNG tidak diunggah ke repository.
+
