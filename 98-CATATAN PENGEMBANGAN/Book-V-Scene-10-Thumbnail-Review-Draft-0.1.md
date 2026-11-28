@@ -319,3 +319,38 @@ Audit dilakukan dengan hierarki sumber: manuskrip Chapter 3 Revision Draft 0.4 �
 **Hitungan eksperimen lokal:** 6 eksperimen halaman Scene 7–9 + 15 eksperimen panel Scene 10 = 21. Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
 
 **Dampak CANON: tidak ada.**
+
+
+
+## Final review berurutan Scene 10 — 2026-11-28 (hasil terbaru menggantikan status lama)
+
+Pemeriksaan dilakukan terhadap manuskrip Chapter 3 Revision Draft 0.4, Visual Storyboard Chapter 03, Page 01/02 briefs, eksperimen yang masih dapat dibuka, serta output 10.3 pengganti. Manuskrip tetap sumber utama.
+
+| Panel | Kesesuaian terhadap manuskrip/storyboard | Pemeriksaan visual terbaru | Keputusan |
+|---|---|---|---|
+| **10.1** | Tabel harus memiliki tiga kolom: istilah asli, terjemahan kerja, konteks kalimat; dokumen diletakkan terpisah | Contact sheet memperlihatkan struktur tabel tiga kolom secara kasar dan beberapa lembar terpisah. Tulisan hanya placeholder. | **Pertahankan sebagai dasar blocking.** Belum thumbnail final; perlu file aset 10.1 yang dipastikan dan staging lebih bersih tanpa tanda/ikon yang tidak didukung. |
+| **10.2** | Tavian menunjukkan pilihan istilah; Seraphine memeriksa setiap baris; Ilyra memeriksa kalimat lengkap | Close-up yang dapat dibuka memperlihatkan tangan menunjuk lembar sumber, tangan dengan pena pada tabel tiga kolom, dan tangan memeriksa lembar kalimat lengkap di sisi kanan. Tidak ada wajah. | **Kandidat blocking kuat.** Peran dibedakan lewat aksi/properti, tetapi identitas tangan tetap tidak bisa diverifikasi; pseudo-handwriting placeholder. Belum final. |
+| **10.3** | Daren bertanya apakah pemakai masih bisa terluka; Tavian menjawab dokumen tidak menjawab; Seraphine membatasi jawaban pada sumber yang diperiksa | Output pengganti `a_sepia_toned_manga_style_illustration_of_three_fa.png` menunjukkan tiga figur: kiri bertanya, tengah memegang/merujuk dokumen, kanan memberi gestur klarifikasi. | **Kandidat blocking lebih kuat.** Urutan peran lebih terbaca, tetapi figur, pakaian, proporsi, dan latar tetap placeholder generatif. Belum final. |
+| **10.4** | Kael bertanya tentang batas penggunaan; Ilyra menyatakan ketiadaan keterangan bukan bukti ketiadaan batas | Two-shot memperlihatkan dua figur, gestur tanya/respons, dan tabel kosong tiga kolom. Tidak ada meter, ikon HP/MP, angka, atau simulasi regenerasi. | **Kandidat komposisi.** Jangan biarkan tabel kosong terbaca sebagai bukti batas tidak ada. Identitas dan desain karakter belum disahkan. Belum final. |
+| **10.5** | Kutipan asli dipindahkan ke lampiran; terjemahan kerja dipertahankan terpisah; dua bagian diberi status belum bisa dibandingkan | Flat lay top-down memisahkan tumpukan lampiran kiri dan lembar grid kanan; dua potongan tengah masing-masing berlabel “belum dapat dibandingkan”. Grid kanan dua kolom, bukan satu kolom terjemahan kerja yang secara eksplisit diminta. | **Revisi diperlukan.** Status label dan pemisahan terbaca, tetapi grid kanan perlu disederhanakan menjadi area terjemahan kerja terpisah yang tidak menyerupai tabel dua kolom baru. Belum final. |
+
+### Kontinuitas keseluruhan
+
+- 10.1 memperkenalkan tabel tiga kolom; 10.2 menunjukkan tiga fungsi pemeriksaan; 10.3 dan 10.4 menguji batas informasi dari sumber; 10.5 menutup dengan pemisahan kutipan asli/lampiran, terjemahan kerja, dan status konteks yang tidak lengkap.
+- Tidak ada dasar untuk menggambar jubah, pemakai, luka, perisai, mekanisme, regenerasi, aura, atau energi.
+- Tidak ada dasar untuk menyatakan sumber independen, saling mengutip, atau menggambarkan efek yang pasti sama/berbeda.
+- Tidak ada desain karakter atau lokasi yang disahkan. Semua wajah, pakaian, proporsi, rak, jendela, dan lampu generatif tetap NON-CANON.
+- Gaya sepia adalah arah eksperimen, bukan keputusan gaya final.
+
+### Koreksi integritas file
+
+Eksperimen 10.3 sebelumnya dan 10.4 menggunakan nama/path lokal yang sama; file 10.4 menimpa file 10.3 sebelumnya. Karena itu, catatan path lama 10.3 tidak lagi menunjuk pada aset 10.3 yang bisa diverifikasi. Output pengganti 10.3 yang terpisah sekarang tercatat sebagai `a_sepia_toned_manga_style_illustration_of_three_fa.png`.
+
+### Keputusan produksi final review
+
+- Tidak ada panel yang diterima sebagai thumbnail final.
+- 10.1 dipertahankan sebagai dasar struktur; 10.2 kandidat blocking kuat; 10.3 kandidat blocking kuat setelah output pengganti; 10.4 kandidat komposisi; 10.5 harus direvisi.
+- Scene 10 belum siap dirakit sebagai halaman final.
+- Jumlah eksperimen lokal tercatat: 22 (6 eksperimen halaman Scene 7–9 + 16 eksperimen panel Scene 10). Satu file 10.3 terdahulu tertimpa dan tidak lagi tersedia; output pengganti tetap dihitung sebagai eksperimen baru. Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
+
+**Dampak CANON: tidak ada.**
