@@ -436,3 +436,13 @@ Total eksperimen lokal tercatat: 22 (6 halaman Scene 7–9 + 16 panel Scene 10).
 - Tidak ada teks sumber/terjemahan rekaan; tulisan lain hanya garis placeholder tak terbaca. Tidak ada karakter atau visual efek.
 - Mengatasi kekurangan grid dua kolom pada eksperimen sebelumnya. Status: kandidat blocking lebih sesuai, belum thumbnail final. NON-CANON.
 - Total eksperimen lokal menjadi 23 (6 halaman Scene 7–9 + 17 panel Scene 10). Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
+
+
+
+## Eksperimen komposit layout Page 01 — 2026-11-28
+
+- File lokal: `a_clean_comic_manga_storyboard_page_in_sepia_ink_s.png` (1024 × 1536, 2:3).
+- Tiga panel tersusun vertikal 10.1/10.2/10.3. Alur baca dan border panel jelas.
+- 10.1: tabel tiga kolom terlihat. 10.2: beberapa gestur tangan/dokumen terlihat tetapi fungsi spesifik belum sepenuhnya terbaca. 10.3: tiga figur berdialog secara visual, tetapi peran/dialog belum terverifikasi.
+- Subjudul generatif tidak resmi perlu dihapus/ganti. Rasio 2:3 bukan rasio 4:5 yang sebelumnya direncanakan.
+- Status layout study NON-CANON, belum thumbnail final. Total eksperimen lokal: 24; thumbnail diterima: 0; ilustrasi final: 0; binary PNG repository: 0.
