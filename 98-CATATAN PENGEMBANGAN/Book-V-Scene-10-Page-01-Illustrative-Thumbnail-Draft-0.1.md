@@ -159,3 +159,11 @@ Dua eksperimen baru mencoba menampilkan Daren hanya melalui tangan/gestur anonim
 
 **Keputusan:** kedua eksperimen belum diterima sebagai thumbnail. Eksperimen kedua lebih dekat dari sisi komposisi, tetapi dokumen harus menjadi lembar teks biasa tanpa diagram atau simbol tambahan, dan gestur Seraphine perlu lebih jelas menunjukkan pembatasan kesimpulan dengan merujuk dokumen sumber. Seluruh output tetap NON-CANON; PNG lokal, belum diunggah sebagai binary.
 
+## Eksperimen Panel 10.3 — dokumen tanpa diagram — 2026-11-28
+
+Eksperimen ini berhasil menghilangkan diagram/simbol tambahan dari halaman yang sedang dibaca: dokumen hanya memuat baris tulisan placeholder yang tidak terbaca. Daren hanya muncul sebagai tangan dari tepi frame, tanpa wajah. Blocking Tavian merujuk dokumen dan Seraphine memberi respons metodologis lebih terbaca.
+
+**Belum diterima:** generator tetap menambahkan ornamen/medali pada kostum Tavian dan dekorasi bordir/emas pada kostum Seraphine yang tidak tercantum dalam desain CANON. Detail manset Daren juga tidak perlu ditetapkan. Gestur Seraphine masih dapat dibaca sebagai gestur bicara umum, belum jelas membatasi jawaban pada sumber yang diperiksa.
+
+**Keputusan:** studi blocking yang lebih baik untuk urutan Daren → Tavian → Seraphine, tetapi belum thumbnail final. Detail kostum generatif tidak boleh dijadikan rujukan. File lokal, binary belum diunggah; tidak ada perubahan CANON.
+
