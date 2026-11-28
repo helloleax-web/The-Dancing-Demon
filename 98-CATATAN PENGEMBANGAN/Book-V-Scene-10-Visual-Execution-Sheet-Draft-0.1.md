@@ -72,15 +72,18 @@
 
 ### Panel 10.5 — Top-down closing insert
 
-**Fokus visual:** Tavian memindahkan kutipan asli ke lampiran dan mempertahankan terjemahan kerja pada kolom terpisah. Dua bagian dengan konteks halaman tidak lengkap ditandai belum dapat dibandingkan.
+**Fokus visual:** hasil akhir pekerjaan Tavian: kutipan asli ditempatkan pada lampiran tersendiri, terjemahan kerja dipertahankan pada satu lembar/area catatan terpisah, dan dua bagian yang konteks halaman sumbernya tidak lengkap masing-masing diberi status “belum dapat dibandingkan”.
 
 **Blocking:**
-- Kamera top-down pada dua area yang terpisah: kutipan asli/lampiran dan terjemahan kerja.
-- Dua bagian konteks tidak lengkap diberi penanda netral “belum dapat dibandingkan” hanya jika frasa itu memang sudah tercantum pada brief; jika tidak, gunakan penanda visual kosong.
-- Hindari panah yang menyiratkan terjemahan sudah tervalidasi.
-- Penutup berupa tabel yang lebih jujur, bukan diagram mekanisme.
+- Satu panel tunggal, kamera 90-degree overhead.
+- Area kiri: tumpukan lampiran/kutipan asli yang terpisah.
+- Area kanan: satu lembar atau satu area catatan tunggal untuk terjemahan kerja; jangan membuat grid dua kolom baru.
+- Area tengah: dua fragmen konteks tetap terpisah; masing-masing diberi frasa literal “belum dapat dibandingkan”.
+- Teks lain hanya berupa garis placeholder tak terbaca. Jangan membuat kutipan atau istilah baru.
+- Tidak ada panah, garis, tanda centang/silang, nomor, atau simbol yang menyatakan hubungan/validasi.
+- Komposisi menunjukkan hasil akhir pengarsipan, bukan urutan kronologis pemindahan.
 
-**Jangan tampilkan:** istilah sumber atau terjemahan baru, kutipan gabungan, atau kesimpulan mekanisme.
+**Jangan tampilkan:** istilah sumber atau terjemahan baru, kutipan gabungan, kesimpulan mekanisme, atau klaim bahwa dua bagian sama/berbeda/cocok/bertentangan.
 
 ## Acceptance checklist sebelum PNG dicatat
 
@@ -204,3 +207,24 @@ Agar ketiga fungsi terbaca tanpa memperlihatkan desain karakter, bedakan gestur/
 - **Ilyra:** tangan membuka atau menahan dokumen sumber yang memuat kalimat lengkap untuk pemeriksaan konteks.
 
 Ketiganya harus tampak sebagai tiga aksi berbeda dalam satu close-up, bukan tiga tangan yang sama-sama menunjuk tabel. Pemetaan ini hanya blocking fungsional dari manuskrip; jangan mengunci ciri tangan, pakaian, atau identitas visual. Output eksperimen yang memenuhi komposisi ini tetap NON-CANON dan belum otomatis diterima.
+
+
+## Page-to-page continuity audit — 2026-11-28
+
+**Source hierarchy:** Manuscript Chapter 03 Revision Draft 0.4 → Visual Storyboard Chapter 03 → Page 01/02 briefs → this execution sheet → visual experiments. Manuscript content is unchanged.
+
+### Page 01 → Page 02
+- Page 01 contains Panels 10.1–10.3: the three-column terminology table is introduced; its rows and sentence context are examined; then Daren asks a question that the inspected document cannot answer.
+- Page 02 begins with Panel 10.4: Kael asks a separate question about continuous HP/MP recovery and usage limits. Do not stage this as the same question or same speaker as Panel 10.3.
+- The table/document work remains the shared visual context, but do not imply that Kael's question is answered by the earlier source passage.
+- Panel 10.5 is a closing archival result: original quotation in a separate appendix stack, working translation on one separate sheet/area, and two incomplete-context fragments each marked “belum dapat dibandingkan”.
+- Scene 10 exits toward Scene 11, where the term Resonansi Hitam appears in another document/index. This transition is thematic/documentary only. Do not visually connect the cloak, its effects, NVR AGAIN, or the Scene 11 term as a proven shared mechanism or identity.
+
+### Continuity locks
+- Keep the same neutral archive/table environment as a provisional visual treatment only; no final room design is established.
+- Keep document typography, paper ageing, table layout, and prop placement consistent only where useful; these remain NON-CANON production choices.
+- Preserve the distinction between the three-column working table (Panel 10.1/10.2) and the single separate translation sheet in the Panel 10.5 closing insert.
+- Panel 10.3 and 10.4 are separate exchanges with different speakers and questions; do not merge them into one conversation.
+- No cloak, wearer, wound, shield, aura, energy, regeneration visualization, mechanism diagram, or invented source text anywhere across either page.
+
+**Page assembly gate:** do not assemble Page 01 or Page 02 until each panel's individual blocking is approved by the creator. Page proportions (portrait 4:5) remain provisional, not locked.
