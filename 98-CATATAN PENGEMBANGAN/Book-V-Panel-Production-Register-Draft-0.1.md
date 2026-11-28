@@ -802,3 +802,13 @@ Scene 10 belum siap dirakit menjadi halaman final. Semua output NON-CANON. Total
 - Kekurangan grid dua kolom sebelumnya sudah diperbaiki. Status 10.5 naik menjadi kandidat blocking lebih sesuai, tetapi belum thumbnail final.
 - Status Scene 10: 10.1 dasar struktur; 10.2 kandidat blocking kuat; 10.3 kandidat blocking kuat; 10.4 kandidat komposisi; 10.5 kandidat blocking lebih sesuai. Belum ada thumbnail final dan halaman belum siap dirakit.
 - Total eksperimen lokal: 23; thumbnail diterima: 0; ilustrasi final: 0; binary PNG repository: 0.
+
+
+## Gate kontinuitas Page 01–02 — 2026-11-28
+
+- Page 01: 10.1 tabel tiga kolom → 10.2 pemeriksaan istilah dan konteks → 10.3 pertanyaan Daren dan jawaban terbatas Tavian/Seraphine.
+- Page 02: 10.4 merupakan pertukaran baru Kael–Ilyra, bukan kelanjutan dialog Daren; 10.5 menutup pengarsipan dengan satu lembar terjemahan terpisah dan dua fragmen berlabel “belum dapat dibandingkan”.
+- Scene 11 menyebut Resonansi Hitam dalam dokumen/indeks lain; transisi hanya dokumenter/tematik. Jangan menyiratkan identitas atau mekanisme sama dengan jubah.
+- Tabel tiga kolom 10.1/10.2 tidak boleh tertukar dengan satu lembar terjemahan kerja pada 10.5.
+- Page 01/02 belum boleh dirakit final sebelum blocking per panel disetujui kreator. Rasio 4:5 masih sementara.
+- Total eksperimen lokal: 23; thumbnail diterima: 0; ilustrasi final: 0; binary PNG repository: 0.
