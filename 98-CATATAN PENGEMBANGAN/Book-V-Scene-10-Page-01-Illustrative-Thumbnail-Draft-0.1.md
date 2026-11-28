@@ -68,3 +68,16 @@ Manuskrip utama Book V Chapter 3 Revision Draft 0.4 menjadi acuan isi adegan. Pa
 - Rasio hasil bukan 4:5; rasio 4:5 sendiri masih provisional dan belum dikunci.
 
 **Keputusan:** pertahankan hanya sebagai studi layout vertikal 3 panel. Jangan naikkan menjadi thumbnail final. Iterasi berikutnya perlu menghapus seluruh callout/speech symbols generatif, mempertahankan label panel seperlunya, dan menyampaikan pertanyaan 10.3 melalui blocking netral tanpa mengubah rumusan sumber. Tidak ada perubahan CANON. Binary PNG tidak diunggah ke repository.
+
+
+## Eksperimen komposit Page 01 — iterasi 3 — 2026-11-28
+
+**Output lokal:** `/mnt/data/a_detailed_sepia_ink_comic_manga_style_illustratio.png` (1024 × 1536; portrait 2:3).
+
+**Komposisi:** tiga panel vertikal 10.1–10.3 tanpa judul halaman atau callout deskriptif. Panel 10.1 memperlihatkan tabel tiga kolom top-down dengan tulisan pseudo-handwriting. Panel 10.2 memakai close-up tangan: menunjuk istilah, menulis/menelusuri baris, dan memegang dokumen sumber terpisah. Panel 10.3 menampilkan tiga figur netral dalam percakapan; satu bertanya dengan gestur terbuka, satu merujuk dokumen dan tabel, satu memberi gestur pembatasan/klarifikasi.
+
+**Evaluasi:** lebih bersih daripada iterasi 1–2 karena tidak ada callout generatif, dialog, atau simbol balon. Struktur tabel dan tiga fungsi pemeriksaan 10.2 lebih mudah dibaca. Panel 10.3 mendukung blocking percakapan tanpa menulis ulang pertanyaan sumber. Tidak ada jubah, pemakai, luka, perisai, aura, energi, regenerasi, atau mekanisme.
+
+**Batas:** pembagian figur 10.3 ke Daren/Tavian/Seraphine masih merupakan pemetaan blocking, bukan identifikasi visual yang sah; semua figur, kostum, ruang, rak, properti, tekstur, dan palet sepia tetap NON-CANON. Rasio 2:3 bukan keputusan final; 4:5 juga masih provisional.
+
+**Keputusan:** kandidat layout/blocking Page 01 paling bersih sejauh ini, belum diterima sebagai thumbnail final. Dapat dipakai sebagai dasar review berikutnya setelah pembagian gestur 10.3 diverifikasi terhadap manuskrip. Binary PNG belum diunggah ke repository. Tidak ada perubahan CANON.
