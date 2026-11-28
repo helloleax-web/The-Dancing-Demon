@@ -838,3 +838,12 @@ Scene 10 belum siap dirakit menjadi halaman final. Semua output NON-CANON. Total
 - Tabel tiga kolom 10.1, tiga aksi pemeriksaan 10.2, dan percakapan tiga figur 10.3 terbaca lebih bersih. Pembagian gestur 10.3 masih perlu dicocokkan dengan manuskrip.
 - Status: kandidat layout/blocking terkuat sejauh ini, belum thumbnail final. Desain figur, kostum, lokasi, properti, tekstur, palet, dan rasio belum disahkan.
 - Eksperimen lokal total 26; thumbnail diterima 0; ilustrasi final 0; binary PNG repository 0.
+
+
+### Scene 10 — komposit Page 02 iterasi 1 — 2026-11-28
+
+- Komposit lokal dua panel 10.4–10.5 dibuat dalam format portrait sekitar 4:5.
+- 10.4: two-shot Kael–Ilyra dengan tabel sebagai konteks dan gestur tanya-jawab tanpa dialog generatif.
+- 10.5: tumpukan kutipan/lampiran dipisahkan dari satu lembar terjemahan kerja; dua fragmen konteks terpisah masing-masing berlabel “belum dapat dibandingkan”; tanpa panah/simbol hubungan.
+- Status: kandidat komposit sesuai struktur, belum thumbnail final. Semua desain visual NON-CANON; rasio halaman belum dikunci.
+- Eksperimen lokal total 27; thumbnail diterima 0; ilustrasi final 0; binary PNG repository 0.
