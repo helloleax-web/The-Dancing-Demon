@@ -326,3 +326,10 @@
 - Komposit lokal baru menyusun Panel 10.1–10.3 secara vertikal; alur baca dan pembagian aksi 10.2 lebih jelas.
 - Output belum thumbnail final: callout Panel 10.3 mengubah pertanyaan manuskrip menjadi “batas pertahanan”, dan simbol/callout generatif perlu dihapus. Detail visual tetap NON-CANON.
 - Total eksperimen lokal tercatat 25; thumbnail diterima 0; ilustrasi final 0; binary PNG repository 0. Tidak ada perubahan CANON.
+
+
+### Eksperimen komposit Scene 10 Page 01 — iterasi 3 — 2026-11-28
+
+- Komposit tiga panel vertikal baru menghapus callout dan simbol dialog generatif; tabel tiga kolom, tiga fungsi pemeriksaan, dan percakapan tiga figur terbaca lebih bersih.
+- Status: kandidat layout/blocking terbaik sejauh ini, belum thumbnail final. Pemetaan gestur dan seluruh desain visual tetap NON-CANON; rasio belum dikunci.
+- Total eksperimen lokal 26; thumbnail diterima 0; ilustrasi final 0; binary PNG repository 0. Tidak ada perubahan CANON.
