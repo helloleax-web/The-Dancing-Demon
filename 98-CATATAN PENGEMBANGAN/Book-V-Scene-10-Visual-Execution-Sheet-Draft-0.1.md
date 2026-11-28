@@ -271,3 +271,14 @@ Instruksi lama yang meminta seluruh wajah/identitas karakter dibuat netral kini 
 - **10.5:** tanpa karakter; pertahankan flat lay dokumen.
 
 Desain karakter CANON tidak mengunci kostum karakter lain, lokasi, properti lingkungan, palet halaman, rendering, rasio, tipografi, atau format publikasi. Seluruh blocking dan komposit tetap NON-CANON sampai diterima kreator.
+
+## Eksperimen visual baru — 2026-11-28
+
+### Panel 10.1 — kandidat blocking
+Output lokal `/mnt/data/a_detailed_manga_style_top_down_comic_panel_of_a_r.png` (1536 × 1024) memperlihatkan tabel tiga kolom dari atas, dengan buku catatan, alat ukur lipat, pensil, dan tangan bersarung. Struktur tabel terbaca; semua tulisan tetap pseudo-handwriting/placeholder. Kandidat untuk review, belum thumbnail final.
+
+### Komposit dua halaman — ditolak
+Output lokal `/mnt/data/a_detailed_manga_comic_double_page_layout_in_monoc.png` (1536 × 1024) menggabungkan Page 01 dan Page 02 dalam satu gambar. Ditolak sebagai aset Scene 10 karena menambahkan heading/subjudul yang tidak disahkan, callout/dialog rekaan, simbol balon tanya/ellipsis, serta mengunci desain visual Daren dan Ilyra yang masih UNKNOWN. Beberapa gestur dan detail panel juga menyimpang dari batas blocking. Jangan gunakan sebagai referensi karakter atau layout final.
+
+Kedua output adalah eksperimen lokal NON-CANON. Tidak ada aset binary yang diunggah.
+
