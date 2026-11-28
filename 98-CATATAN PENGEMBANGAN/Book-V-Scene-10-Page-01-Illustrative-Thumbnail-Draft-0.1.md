@@ -130,3 +130,15 @@ Desain karakter CANON tidak mengesahkan ruang arsip, meja, palet halaman, render
 
 **Keputusan:** kandidat blocking panel tunggal yang layak untuk review berikutnya; belum thumbnail final dan belum diterima kreator. NON-CANON. Binary PNG tidak diunggah ke repository.
 
+## Eksperimen revisi Panel 10.2 — komposisi tanpa callout — 2026-11-28
+
+**Output lokal:** `/mnt/data/a_detailed_manga_style_sepia_toned_inked_comic_pan.png` (1774 × 887; rasio sekitar 2:1).
+
+**Komposisi:** satu panel lebar tanpa label penjelas, kotak teks, atau balon dialog. Tavian menunjuk salah satu pilihan istilah pada tabel; Seraphine menelusuri/memeriksa baris dengan alat tulis; Ilyra hanya diwakili tangan dan dokumen sumber yang dipegang untuk memeriksa kalimat lengkap. Wajah, rambut, tubuh, dan kostum Ilyra tidak ditampilkan.
+
+**Kesesuaian:** tiga fungsi kerja terpisah terbaca dalam satu komposisi; tabel kerja tetap menjadi fokus. Tidak ada teks sumber yang dapat dibaca atau klaim perbandingan final.
+
+**Batas tersisa:** bentuk manset/tangan Ilyra dan desain ruang, rak, meja, lampu, properti, serta rendering tetap detail eksperimen NON-CANON. Desain Tavian dan Seraphine hanya boleh dinilai terhadap Character Bible; jangan menjadikan detail generatif di luar profil sebagai rujukan. Rasio 2:1 hanya rasio panel eksperimen, bukan format halaman.
+
+**Keputusan:** kandidat blocking Panel 10.2 yang lebih kuat; belum thumbnail final dan belum diterima kreator. File PNG lokal; binary belum diunggah ke repository. Tidak ada perubahan CANON.
+
