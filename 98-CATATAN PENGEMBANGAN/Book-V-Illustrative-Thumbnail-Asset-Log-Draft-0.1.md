@@ -411,3 +411,17 @@ Keduanya NON-CANON, bukan thumbnail diterima. Tidak ada visual jubah, pemakai, l
 - Pseudo-handwriting lain tetap placeholder, bukan isi sumber. Grid dua kolom di kanan hanya representasi area terjemahan kerja; bukan pengganti tabel tiga kolom Panel 10.1.
 - Status: kandidat blocking flat-lay paling sesuai sejauh ini, belum thumbnail final. NON-CANON.
 - Total eksperimen lokal menjadi 21 (6 halaman Scene 7–9 + 15 panel Scene 10). Binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0.
+
+
+
+## Final review Scene 10 — pembaruan status aset — 2026-11-28
+
+- **10.1:** struktur tiga kolom terlihat pada contact sheet; dasar blocking, belum final. Aset file perlu dipastikan sebelum produksi final.
+- **10.2:** close-up terbaru menunjukkan tiga aksi tangan/properti yang berbeda di sekitar tabel tiga kolom dan dokumen kalimat lengkap. Kandidat blocking kuat; belum final.
+- **10.3:** file lama tertimpa karena nama/path sama dengan eksperimen 10.4. File pengganti terpisah: `a_sepia_toned_manga_style_illustration_of_three_fa.png` (1536 × 1024), tiga figur dengan gestur tanya, respons berbasis dokumen, dan klarifikasi. Kandidat blocking lebih kuat; belum final.
+- **10.4:** two-shot netral dua figur dengan tabel kosong tiga kolom; kandidat komposisi, belum final.
+- **10.5:** flat lay dengan lampiran kiri, grid kanan, dan dua label status. Grid kanan dua kolom masih perlu direvisi agar tidak membentuk tabel baru yang tidak diminta; belum final.
+
+Semua file visual adalah eksperimen NON-CANON. Tidak ada binary PNG di repository, tidak ada thumbnail diterima, dan tidak ada ilustrasi final.
+
+Total eksperimen lokal tercatat: 22 (6 halaman Scene 7–9 + 16 panel Scene 10). File 10.3 terdahulu tertimpa dan tidak lagi tersedia; output pengganti dihitung sebagai eksperimen baru.
