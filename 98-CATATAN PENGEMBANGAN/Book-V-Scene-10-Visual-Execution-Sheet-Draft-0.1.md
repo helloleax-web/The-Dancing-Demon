@@ -228,3 +228,29 @@ Ketiganya harus tampak sebagai tiga aksi berbeda dalam satu close-up, bukan tiga
 - No cloak, wearer, wound, shield, aura, energy, regeneration visualization, mechanism diagram, or invented source text anywhere across either page.
 
 **Page assembly gate:** do not assemble Page 01 or Page 02 until each panel's individual blocking is approved by the creator. Page proportions (portrait 4:5) remain provisional, not locked.
+
+## Audit komposit Page 01–02 — 2026-11-28
+
+**Acuan isi:** manuskrip Chapter 3 Revision Draft 0.4 dan Visual Storyboard Chapter 03.
+
+### Page 01 — iterasi 3
+- 10.1: struktur tabel tiga kolom terlihat.
+- 10.2: tiga fungsi pemeriksaan dipisahkan lewat tangan/dokumen; identitas tangan tetap blocking.
+- 10.3: gestur tanya → rujukan dokumen → klarifikasi sesuai urutan Daren → Tavian → Seraphine dalam manuskrip.
+- Tidak ada callout/dialog generatif; tidak ada visual jubah atau efek.
+
+### Page 02 — iterasi 1
+- 10.4: two-shot menjaga percakapan terpisah Kael–Ilyra. Gestur dapat dibaca sebagai pertanyaan dan jawaban berbasis tabel, tetapi pemetaan karakter belum final.
+- 10.5: tumpukan lampiran/kutipan asli terpisah dari satu lembar terjemahan kerja; dua fragmen konteks tetap terpisah dan masing-masing diberi status literal “belum dapat dibandingkan”. Tidak ada panah/simbol hubungan.
+- Tulisan selain dua label status adalah placeholder pseudo-handwriting, bukan teks sumber.
+
+### Kontinuitas lintas halaman
+- Page 01 berakhir setelah pertukaran Daren–Tavian–Seraphine; Page 02 memulai pertukaran baru Kael–Ilyra. Jangan gabungkan dialog atau pembicara.
+- Lembar tunggal terjemahan kerja pada 10.5 tidak menggantikan tabel tiga kolom 10.1.
+- Kesamaan sepia dan ruang arsip hanya eksperimen; desain karakter, kostum, lokasi, properti, palet, rendering, dan rasio belum disahkan.
+- Transisi Scene 10 → 11 hanya dokumenter/tematik. Resonansi Hitam ditemukan pada dokumen/indeks lain; jangan visualisasikan sebagai nama jubah, efek, atau mekanisme.
+
+### Keputusan penerimaan
+- Page 01 iterasi 3: kandidat layout/blocking terkuat; belum thumbnail final.
+- Page 02 iterasi 1: kandidat komposit sesuai struktur; belum thumbnail final.
+- Keduanya tidak mengubah CANON dan tidak memenuhi status aset final. PNG binary tetap belum diunggah ke repository.
