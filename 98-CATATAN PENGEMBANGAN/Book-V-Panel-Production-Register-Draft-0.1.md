@@ -830,3 +830,11 @@ Scene 10 belum siap dirakit menjadi halaman final. Semua output NON-CANON. Total
 - Struktur tabel tiga kolom 10.1 serta aksi pemeriksaan 10.2 terbaca lebih baik. Panel 10.3 masih mengubah pertanyaan sumber menjadi “batas pertahanan” melalui callout generatif; hapus callout/simbol balon pada iterasi selanjutnya.
 - Detail figur, kostum, ruang, properti, dan sepia belum disahkan. Output hanya studi layout NON-CANON.
 - Eksperimen lokal total 25; thumbnail diterima 0; ilustrasi final 0; binary PNG repository 0.
+
+
+### Scene 10 — komposit Page 01 iterasi 3 — 2026-11-28
+
+- Eksperimen lokal baru menyusun 10.1–10.3 dalam tiga panel vertikal tanpa callout/dialog generatif.
+- Tabel tiga kolom 10.1, tiga aksi pemeriksaan 10.2, dan percakapan tiga figur 10.3 terbaca lebih bersih. Pembagian gestur 10.3 masih perlu dicocokkan dengan manuskrip.
+- Status: kandidat layout/blocking terkuat sejauh ini, belum thumbnail final. Desain figur, kostum, lokasi, properti, tekstur, palet, dan rasio belum disahkan.
+- Eksperimen lokal total 26; thumbnail diterima 0; ilustrasi final 0; binary PNG repository 0.
