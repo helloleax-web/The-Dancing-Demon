@@ -12,7 +12,7 @@
 - Tidak boleh menambah mekanisme, angka, durasi, batas, kutipan, nama sumber, tanggal, lokasi, atau terjemahan teknis.
 - Semua tulisan yang tidak tersedia dalam sumber harus berupa garis/placeholder tak terbaca.
 - Jangan menganggap dua kelompok catatan independen atau menyimpulkan istilahnya sama/berbeda.
-- Karakter, kostum, ruang, palet, rasio, dan rendering tetap placeholder; tidak ada desain final yang disahkan.
+- Desain visual Tavian, Seraphine, dan Kael mengikuti Character Bible. Desain Daren dan Ilyra tetap placeholder netral karena belum ditetapkan. Ruang, palet halaman, rasio, dan rendering keseluruhan belum dikunci.
 
 ## Page 1 — Panels 10.1–10.3
 
@@ -258,4 +258,4 @@ Ketiganya harus tampak sebagai tiga aksi berbeda dalam satu close-up, bukan tiga
 
 ## Character reference boundary integration — 2026-11-28
 
-Rujukan karakter Scene 10 kini dipusatkan pada `Book-V-Scene-10-Character-Visual-Reference-Boundaries-Draft-0.1.md`. Dokumen tersebut memetakan fakta CANON, fungsi adegan, dan UNKNOWN visual untuk Tavian, Seraphine, Ilyra, Daren, dan Kael. Execution Sheet tetap hanya mengatur blocking; jangan menganggap mannequin, pakaian, proporsi, wajah, atau properti generatif sebagai desain final. Semua detail visual yang belum disahkan tetap UNKNOWN/NON-CANON.
+Rujukan karakter Scene 10 kini mengikuti `01-CANON/Character-Bible.md` untuk desain Tavian, Seraphine, dan Kael yang telah disahkan. `Book-V-Scene-10-Character-Visual-Reference-Boundaries-Draft-0.1.md` membedakan desain tersebut dari UNKNOWN milik Daren dan Ilyra. Execution Sheet tetap mengatur blocking; jangan menambahkan detail yang tidak tercantum di Character Bible. Ruang, rasio halaman, dan rendering keseluruhan belum dikunci.
