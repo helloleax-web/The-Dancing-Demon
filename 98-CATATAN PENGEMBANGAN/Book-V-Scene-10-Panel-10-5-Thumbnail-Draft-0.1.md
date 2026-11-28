@@ -44,3 +44,22 @@ Blocking dan tata letak adalah bahan produksi NON-CANON. Tidak ada perubahan pad
 **Kekurangan:** lembar kanan tampak sebagai grid dua kolom, bukan secara literal satu kolom terjemahan kerja dalam tabel lengkap. Ini dapat dipakai sebagai representasi area kerja terpisah, tetapi layout tabel final tetap harus mengikuti manuskrip dan tidak boleh mengubah tiga kolom Panel 10.1. Gambar juga tidak membuktikan proses pemindahan secara kronologis; ia menunjukkan hasil akhir pengarsipan.
 
 **Keputusan:** kandidat blocking flat-lay yang paling sesuai sejauh ini untuk Panel 10.5; belum thumbnail final dan perlu evaluasi kreator. NON-CANON. Tidak ada binary diunggah ke GitHub.
+
+
+## Eksperimen flat-lay satu lembar terjemahan — 2026-11-28
+
+**File lokal:** `a_clean_detailed_top_down_flat_lay_illustration_o.png` (1536 × 1024).
+
+**Observasi visual:**
+- Satu panel tunggal dengan kamera top-down tegak lurus; tidak ada karakter, wajah, atau tangan.
+- Kiri: tumpukan lembar berlapis yang terbaca sebagai lampiran/kumpulan kutipan asli.
+- Kanan: satu lembar kerja tunggal yang terpisah, mewakili terjemahan kerja; bukan grid dua kolom.
+- Tengah: dua potongan kertas kecil terpisah, masing-masing memiliki label literal **“belum dapat dibandingkan”**.
+- Tidak ada panah, garis, tanda centang/silang, nomor, ikon, atau simbol hubungan.
+- Tulisan lain berupa garis placeholder tak terbaca.
+
+**Penilaian:** eksperimen ini memperbaiki masalah grid dua kolom sebelumnya. Perbedaan lampiran/kutipan asli di kiri dan lembar terjemahan kerja di kanan lebih sederhana dan terbaca. Dua fragmen konteks tetap terpisah dan statusnya eksplisit tanpa menyatakan hubungan, kesamaan, atau pertentangan. Komposisi memperlihatkan keadaan akhir pemisahan dokumen; tidak mengklaim urutan kronologis pemindahan.
+
+**Batas:** gambar tidak memuat tiga kolom istilah asli/terjemahan kerja/konteks kalimat. Itu memang bukan tujuan lembar terjemahan tunggal pada closing insert; struktur tabel utama tetap milik Panel 10.1. Tidak ada isi kutipan atau terjemahan yang dapat dibaca, sesuai larangan menciptakan teks sumber.
+
+**Keputusan:** kandidat blocking Panel 10.5 yang lebih sesuai daripada eksperimen sebelumnya; belum thumbnail final dan perlu evaluasi kreator. NON-CANON. Binary tidak diunggah ke GitHub.
