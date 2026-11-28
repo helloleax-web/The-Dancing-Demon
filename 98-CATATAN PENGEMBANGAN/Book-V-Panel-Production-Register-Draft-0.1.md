@@ -855,3 +855,10 @@ Scene 10 belum siap dirakit menjadi halaman final. Semua output NON-CANON. Total
 - Struktur 10.1 tetap tabel tiga kolom; 10.5 tetap satu lembar terjemahan kerja terpisah dari lampiran/kutipan asli, dengan dua fragmen berstatus “belum dapat dibandingkan”.
 - Tidak ada jubah, pemakai, efek, luka, perisai, atau mekanisme. Transisi Scene 11 tetap dokumenter/tematik, tanpa asosiasi visual dengan NVR AGAIN atau mekanisme jubah.
 - Status kedua halaman: kandidat layout/komposit NON-CANON; belum thumbnail final. Eksperimen lokal total 27; thumbnail diterima 0; ilustrasi final 0; binary PNG repository 0.
+
+
+### Scene 10 — kesiapan referensi karakter — 2026-11-28
+
+- Lima karakter yang tampil pada Scene 10 (Tavian, Seraphine, Ilyra, Daren, Kael) telah dipetakan dalam dokumen Character Visual Reference Boundaries Draft 0.1.
+- Dokumen membedakan fakta CANON, fungsi panel, panduan staging, dan detail visual UNKNOWN. Belum ada character sheet final atau gambar karakter baru.
+- Tahap desain visual final ditahan sampai kreator menyetujui arah desain masing-masing karakter. Komposit Page 01/02 tetap layout study NON-CANON.
