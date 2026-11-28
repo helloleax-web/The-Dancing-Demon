@@ -494,3 +494,23 @@ Manuskrip menetapkan urutan Daren bertanya apakah pemakai masih bisa terluka, Ta
 **Keputusan:** Page 02 iterasi 1 adalah kandidat komposit yang sesuai secara struktur. 10.5 lebih tepat karena terjemahan kerja berupa satu lembar tunggal, bukan grid; dua fragmen diberi status yang benar dan tetap terpisah. Belum thumbnail final karena desain visual belum disahkan. Rasio output mendekati 4:5 tetapi tidak mengunci format halaman.
 
 **Hitungan:** eksperimen lokal 27 (6 halaman Scene 7–9 + 21 eksperimen panel/halaman Scene 10); thumbnail diterima 0; ilustrasi final 0; binary PNG repository 0. Tidak ada perubahan CANON.
+
+
+## Audit kontinuitas gabungan Page 01–02 — 2026-11-28
+
+| Aspek | Page 01 (10.1–10.3) | Page 02 (10.4–10.5) | Hasil audit |
+|---|---|---|---|
+| Urutan percakapan | Tabel/pemeriksaan; Daren bertanya, Tavian merujuk sumber, Seraphine membatasi jawaban | Percakapan baru Kael–Ilyra; lalu penataan dokumen | Urutan manuskrip terjaga; jangan gabungkan dua percakapan |
+| Tabel dan dokumen | Tabel tiga kolom dan dokumen pembanding | Tabel menjadi konteks 10.4; satu lembar terjemahan kerja pada 10.5 | 10.5 tidak menggantikan tabel tiga kolom 10.1 |
+| Fragmen konteks | Belum menjadi fokus penutup | Dua fragmen terpisah, masing-masing berlabel “belum dapat dibandingkan” | Sesuai batas; tanpa panah/simbol hubungan |
+| Visual karakter/ruang | Figur generik dan ruang arsip sepia | Figur generik dan ruang arsip sepia | Konsistensi hanya eksperimen; bukan desain atau lokasi yang disahkan |
+| Batas CANON | Tidak ada jubah/pemakai/luka/perisai/efek | Tidak ada jubah/pemakai/luka/perisai/efek | Terjaga pada kedua komposit |
+| Transisi ke Scene 11 | Menutup pekerjaan istilah dan batas bukti | — | Hanya urutan dokumenter/tematik; jangan hubungkan Resonansi Hitam sebagai nama jubah/efek/mekanisme |
+
+### Keputusan gabungan
+
+- **Page 01 iterasi 3:** kandidat layout/blocking terkuat; audit manuskrip mendukung urutan gestur 10.3. Belum thumbnail final.
+- **Page 02 iterasi 1:** kandidat komposit sesuai struktur; 10.4 menjaga percakapan Kael–Ilyra dan 10.5 merepresentasikan pengarsipan dengan pemisahan dokumen yang benar. Belum thumbnail final.
+- Tidak ada konflik urutan antarhalaman. Peran figur 10.2/10.4 masih blocking sementara, bukan identitas visual final.
+- Kesamaan sepia/ruang tidak mengesahkan gaya atau lokasi. Rasio halaman tetap provisional.
+- Kedua output tetap NON-CANON. Thumbnail diterima 0; ilustrasi final 0; binary PNG repository 0. Tidak ada perubahan CANON.
