@@ -311,3 +311,11 @@
 - Transisi ke Scene 11 hanya dokumenter/tematik; Resonansi Hitam muncul pada dokumen/indeks lain dan tidak boleh disamakan dengan jubah, efeknya, atau NVR AGAIN.
 - Tabel tiga kolom 10.1/10.2 berbeda dari lembar terjemahan tunggal 10.5. Page 01/02 belum boleh dirakit sebelum blocking per panel disetujui.
 - Rasio portrait 4:5 tetap provisional. Eksperimen lokal 23; thumbnail diterima 0; ilustrasi final 0; binary PNG repository 0.
+
+
+## Eksperimen layout komposit Page 01 — 2026-11-28
+
+- Satu komposit lokal portrait 2:3 (1024 × 1536) mengatur panel 10.1, 10.2, dan 10.3 secara vertikal; alur baca jelas.
+- Tabel tiga kolom 10.1 terbaca. Aksi 10.2 dan peran spesifik tiga figur 10.3 masih perlu diperjelas.
+- Subjudul generatif tidak resmi harus dihapus/ganti. Rasio 2:3 berbeda dari rencana 4:5 yang belum dikunci.
+- Status: layout study NON-CANON, belum thumbnail final. Eksperimen lokal total 24; thumbnail diterima 0; ilustrasi final 0; binary PNG repository 0.
