@@ -5,6 +5,9 @@
 
 ## Dokumen inti
 
+- [Character Bible](../01-CANON/Character-Bible.md) — rujukan otoritatif desain visual CANON Tavian Rell, Seraphine Veyra, dan Kael Veyron (disahkan 2026-11-28).
+- [Book I Character Visual Design Brief — Draft 0.1](Book-I-Character-Visual-Design-Brief-Draft-0.1.md) — arsip sumber desain yang telah diadopsi ke Character Bible; bukan rujukan yang mengungguli CANON.
+
 - [Scene Outline — Draft 0.2](Book-V-Scene-Outline-Draft-0.1.md) — 22 scene dan batas sejarah.
 - [Character Knowledge Matrix — Draft 0.3](Book-V-Character-Knowledge-Matrix-Draft-0.2.md) — pengetahuan karakter dan batas fakta.
 - [Manuscript Index — Draft 0.4](Book-V-Manuscript-Index-Draft-0.2.md) — lima bab, 22 scene, 11.485 kata; proofreading akhir dan pembekuan kandidat-final editorial.
@@ -354,6 +357,6 @@
 
 ### Scene 10 — Character Visual Reference Boundaries — 2026-11-28
 
-- Dokumen baru `Book-V-Scene-10-Character-Visual-Reference-Boundaries-Draft-0.1.md` memetakan Tavian, Seraphine, Ilyra, Daren, dan Kael berdasarkan Character Bible serta fungsi adegan.
-- Semua detail visual yang belum ditetapkan tetap UNKNOWN; dokumen ini bukan desain karakter dan tidak mengesahkan visual generatif sebelumnya.
-- Pembagian aksi 10.1–10.5 mengikuti manuskrip/storyboard. Tidak ada gambar karakter baru, perubahan manuskrip, atau perubahan CANON.
+- Desain visual Tavian, Seraphine, dan Kael dari Book I Character Visual Design Brief Draft 0.1 telah disahkan dan dipindahkan ke Character Bible pada 2026-11-28.
+- Daren dan Ilyra tetap UNKNOWN secara visual; ruang, rasio halaman, dan rendering keseluruhan juga belum dikunci.
+- Dokumen Scene 10 Character Visual Reference Boundaries diperbarui untuk membedakan desain CANON dari detail yang masih UNKNOWN.
