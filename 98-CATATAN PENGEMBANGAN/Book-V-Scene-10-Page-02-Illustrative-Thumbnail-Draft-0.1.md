@@ -58,3 +58,20 @@ Untuk thumbnail closing insert, representasikan terjemahan kerja sebagai satu le
 - Kesamaan sepia/ruang arsip dengan Page 01 hanya eksperimen kontinuitas visual, bukan pengesahan lokasi, palet, properti, atau desain karakter.
 - Transisi ke Scene 11 hanya urutan dokumenter/tematik. Istilah Resonansi Hitam berasal dari dokumen/indeks lain; jangan menghubungkannya secara visual sebagai nama jubah, efek, atau mekanisme.
 - Status Page 02: kandidat komposit sesuai struktur, belum thumbnail diterima. Seluruh hasil NON-CANON; rasio halaman belum dikunci.
+
+## Penerapan desain karakter CANON pada blocking — 2026-11-28
+
+Rujukan Character Bible diterapkan hanya pada karakter yang telah memiliki desain CANON. Komposit tetap NON-CANON dan belum diterima sebagai thumbnail final.
+
+### Panel 10.4
+- Kael: gunakan tubuh ramping dengan gestur lebih santai dan ekspresif; rambut hitam-cokelat, sedikit lebih panjang di bagian atas; mantel perjalanan fleksibel dengan saku tersembunyi dan syal/kerah kain. Pakaiannya lebih rapi daripada perlengkapan survei.
+- Properti Kael dapat berupa tabung kulit untuk peta kedua, kantong dokumen, dan alat tulis kecil. Jangan menambahkan lambang Arsip Lentera atau simbol pihak pembayar; afiliasinya tetap tidak diketahui.
+- Gestur Kael tetap berupa pertanyaan kecil ke arah tabel, bukan pose dramatis.
+- Ilyra tetap UNKNOWN secara visual. Gunakan figur netral tanpa ciri definitif; jangan menetapkan rambut, wajah, pakaian, palet, usia visual, atau aksesori. Gesturnya menjawab sambil merujuk area catatan yang tidak memuat informasi batas.
+
+### Panel 10.5
+- Tidak ada karakter yang diperlukan. Pertahankan flat lay top-down sesuai blocking: lampiran/kutipan asli terpisah, satu lembar terjemahan kerja, dan dua fragmen konteks yang masing-masing diberi status “belum dapat dibandingkan”.
+- Jangan memasukkan properti karakter yang membentuk identitas atau afiliasi yang tidak diperlukan.
+
+### Batas penerapan
+Desain Kael tidak mengesahkan ruang arsip, meja, palet halaman, rendering, rasio, tipografi, atau desain Ilyra. Tidak ada perubahan isi manuskrip atau CANON tambahan.
