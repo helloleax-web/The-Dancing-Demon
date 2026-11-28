@@ -48,3 +48,13 @@ Untuk thumbnail closing insert, representasikan terjemahan kerja sebagai satu le
 - Figur, pakaian, ruang, rak, jendela, lampu, properti, tekstur, dan sepia tetap NON-CANON. Rasio output mendekati 4:5, tetapi tidak mengunci format final.
 
 **Keputusan:** kandidat komposit Page 02 yang sesuai secara struktur dan batas informasi; belum diterima sebagai thumbnail final karena desain visual belum disahkan dan peran figur masih blocking generatif. Tidak ada perubahan CANON. Binary PNG belum diunggah ke repository.
+
+
+## Audit kontinuitas gabungan Page 01–02 — 2026-11-28
+
+- Panel 10.4 adalah percakapan baru Kael–Ilyra setelah percakapan Daren–Tavian–Seraphine pada 10.3 berakhir. Jangan menggabungkan pembicara, pertanyaan, atau jawaban kedua percakapan.
+- Gestur pada komposit 10.4 dapat dibaca sebagai Kael mengajukan pertanyaan dan Ilyra merujuk tabel/dokumen saat menjawab; pemetaan ini masih blocking sementara, bukan identifikasi karakter visual yang disahkan.
+- Panel 10.5 merangkum pekerjaan pengarsipan: tumpukan kutipan asli/lampiran terpisah dari satu lembar terjemahan kerja; dua fragmen konteks masing-masing berstatus “belum dapat dibandingkan”. Ini bukan tabel tiga kolom baru dan bukan kesimpulan perbandingan.
+- Kesamaan sepia/ruang arsip dengan Page 01 hanya eksperimen kontinuitas visual, bukan pengesahan lokasi, palet, properti, atau desain karakter.
+- Transisi ke Scene 11 hanya urutan dokumenter/tematik. Istilah Resonansi Hitam berasal dari dokumen/indeks lain; jangan menghubungkannya secara visual sebagai nama jubah, efek, atau mekanisme.
+- Status Page 02: kandidat komposit sesuai struktur, belum thumbnail diterima. Seluruh hasil NON-CANON; rasio halaman belum dikunci.
