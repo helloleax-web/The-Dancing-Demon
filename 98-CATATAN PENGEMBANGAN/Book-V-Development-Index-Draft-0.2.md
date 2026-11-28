@@ -383,3 +383,7 @@
 - Total eksperimen lokal tercatat 30 (jumlah historis sebelumnya 29 + satu eksperimen panel baru); thumbnail diterima 0; ilustrasi final 0; binary PNG repository 0.
 - Tidak ada perubahan CANON.
 
+### Eksperimen Panel 10.3 — 2026-11-28
+
+Tiga percobaan visual baru untuk Panel 10.3 ditolak. Ketiganya masih mengarang detail visual Daren; sebagian menambahkan diagram/ilustrasi reruntuhan yang tidak ada dalam arahan; gestur Seraphine juga belum tepat menggambarkan pembatasan kesimpulan berbasis sumber. Status tetap: blocking belum ditemukan, thumbnail diterima 0, tidak ada perubahan CANON, tidak ada PNG binary di repository. Eksperimen lokal bertambah tiga; total tercatat 33.
+
