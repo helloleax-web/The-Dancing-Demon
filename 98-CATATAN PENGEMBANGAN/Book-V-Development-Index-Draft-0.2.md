@@ -350,3 +350,10 @@
 - Dua fragmen konteks 10.5 tetap terpisah dan masing-masing berstatus “belum dapat dibandingkan”.
 - Transisi ke Scene 11 hanya dokumenter/tematik; Resonansi Hitam tidak boleh disamakan dengan nama jubah, efek, atau mekanisme.
 - Kedua komposit masih kandidat layout NON-CANON; belum ada thumbnail diterima. Eksperimen lokal 27; ilustrasi final 0; binary PNG repository 0.
+
+
+### Scene 10 — Character Visual Reference Boundaries — 2026-11-28
+
+- Dokumen baru `Book-V-Scene-10-Character-Visual-Reference-Boundaries-Draft-0.1.md` memetakan Tavian, Seraphine, Ilyra, Daren, dan Kael berdasarkan Character Bible serta fungsi adegan.
+- Semua detail visual yang belum ditetapkan tetap UNKNOWN; dokumen ini bukan desain karakter dan tidak mengesahkan visual generatif sebelumnya.
+- Pembagian aksi 10.1–10.5 mengikuti manuskrip/storyboard. Tidak ada gambar karakter baru, perubahan manuskrip, atau perubahan CANON.
