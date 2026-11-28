@@ -282,3 +282,14 @@
 - Flat lay top-down baru memisahkan tumpukan lampiran/kutipan asli di kiri dari lembar terjemahan kerja di kanan. Dua potongan konteks terpisah di tengah masing-masing diberi label “belum dapat dibandingkan”.
 - Tidak ada panah/simbol hubungan atau visual efek. Grid kanan dua kolom bukan pengganti tabel tiga kolom Panel 10.1. Status kandidat blocking, belum thumbnail final.
 - Total eksperimen lokal: 21; thumbnail diterima: 0; ilustrasi final: 0; binary PNG repository: 0.
+
+
+
+## Final review Scene 10 — 2026-11-28
+
+- 10.1: dasar blocking tiga kolom dipertahankan; pastikan file aset sebelum final.
+- 10.2: kandidat blocking kuat; tiga fungsi pemeriksaan terlihat melalui gestur/properti, belum thumbnail final.
+- 10.3: file eksperimen lama tertimpa oleh nama/path yang sama dengan 10.4; output pengganti terpisah `a_sepia_toned_manga_style_illustration_of_three_fa.png` kini menunjukkan gestur tanya, respons berbasis dokumen, dan klarifikasi. Kandidat blocking, belum final.
+- 10.4: kandidat komposisi two-shot; identitas karakter belum disahkan.
+- 10.5: revisi diperlukan karena grid dua kolom kanan belum tepat sebagai representasi terjemahan kerja terpisah.
+- Tidak ada panel diterima sebagai thumbnail final; Scene 10 belum siap dirakit. Total eksperimen lokal: 22; binary PNG repository: 0; thumbnail diterima: 0; ilustrasi final: 0. Tidak ada perubahan CANON.
