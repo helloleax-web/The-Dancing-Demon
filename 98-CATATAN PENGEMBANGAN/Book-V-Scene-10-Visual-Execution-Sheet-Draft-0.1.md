@@ -282,3 +282,7 @@ Output lokal `/mnt/data/a_detailed_manga_comic_double_page_layout_in_monoc.png` 
 
 Kedua output adalah eksperimen lokal NON-CANON. Tidak ada aset binary yang diunggah.
 
+## Catatan eksperimen Panel 10.2 tanpa callout — 2026-11-28
+
+Eksperimen baru menunjukkan tiga aksi berbeda tanpa kotak penjelasan atau balon dialog: Tavian menunjuk pilihan istilah, Seraphine memeriksa baris tabel, dan Ilyra hanya hadir melalui tangan/dokumen sumber. Ini memperbaiki masalah callout generatif dan menghindari penetapan wajah/rambut/tubuh Ilyra. Detail manset dan ruang masih NON-CANON. Status kandidat blocking, belum thumbnail final; PNG lokal belum diunggah sebagai binary repository asset.
+
